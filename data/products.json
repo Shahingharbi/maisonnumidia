@@ -1,0 +1,1452 @@
+{
+  "products": [
+    {
+      "id": "dior-sauvage",
+      "slug": "dior-sauvage",
+      "name": "Sauvage",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Boisé Épicé",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 15900,
+      "originalPrice": 18500,
+      "shortDescription": "L'icône mondiale des parfums masculins. Bergamote électrique, poivre de Sichuan et ambroxan pour une signature sauvage et raffinée.",
+      "description": "Dior Sauvage EDP s'est imposé comme le parfum masculin le plus vendu au monde depuis sa sortie en 2018, et pour cause : c'est une fragrance d'une cohérence rare, qui marie la modernité d'un aromatic fougère avec la profondeur boisée d'un oriental. En Algérie, Dior Sauvage est le parfum de référence pour l'homme qui veut marquer sa présence sans en faire trop. On le porte au bureau le matin, on le reporte le soir — il passe partout avec une aisance déconcertante.\n\nLe compositeur François Demachy a conçu ce jus autour d'une tension créatrice entre deux forces opposées : la fraîcheur lumineuse de la bergamote calabraise (cueillie en Italie du Sud à la main) et la chaleur animale de l'ambroxan, cette molécule synthétique dérivée de l'ambre gris de cachalot. Entre les deux, une lavande provençale d'une qualité rare et un poivre rose pétillant créent un cœur olfactif d'une complexité saisissante.\n\nEn EDP, Sauvage est plus intense, plus profond et surtout bien plus tenace qu'en EDT. La longévité est exceptionnelle — on parle de 10 à 14 heures sur la peau — avec un sillage ample mais jamais agressif. C'est la version à privilégier pour les soirées, les occasions importantes, ou tout simplement si vous souhaitez que votre parfum reste perceptible toute la journée sans nécessiter de retouches.\n\nEn Algérie, la demande pour Dior Sauvage est constante et soutenue tout au long de l'année. Les hommes algériens apprécient particulièrement son équilibre entre un parfum occidental accessible et une profondeur qui rappelle les grands boisés orientaux.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre de Sichuan"
+        ],
+        "heart": [
+          "Lavande",
+          "Poivre Rose",
+          "Vétiver"
+        ],
+        "base": [
+          "Ambroxan",
+          "Cèdre",
+          "Labdanum"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver",
+        "Printemps"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/dior-sauvage.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "bleu-de-chanel",
+        "hugo-boss-bottled",
+        "invictus-paco-rabanne"
+      ],
+      "h1": "Dior Sauvage Parfum Homme Algérie"
+    },
+    {
+      "id": "bleu-de-chanel",
+      "slug": "bleu-de-chanel",
+      "name": "Bleu de Chanel",
+      "brand": "Chanel",
+      "brandSlug": "chanel",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Boisé Aromatique",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 16500,
+      "shortDescription": "L'élégance parisienne à l'état pur. Une fragrance boisée et aromatique infiniment raffinée, pour l'homme qui sait ce qu'il veut.",
+      "description": "Bleu de Chanel EDP est sans doute le parfum masculin le plus polyvalent de la parfumerie de luxe moderne. Lancé en 2010 dans sa version EDT, puis reformulé en EDP en 2014, il n'a cessé de conquérir de nouveaux adeptes à travers le monde — et l'Algérie ne fait pas exception. C'est LE choix du professionnel algérien : du PDG de la Mitidja à l'entrepreneur d'Oran, Bleu de Chanel est un signal de statut que tout le monde reconnaît.\n\nLe parfumeur Olivier Polge a composé ce jus autour d'une architecture boisée d'une précision horlogère. L'ouverture est vive et citronnée — pamplemousse, orange et citron frais qui s'évaporent en quelques minutes pour laisser place à un cœur d'une complexité admirable : gingembre légèrement piquant, noix de muscade réchauffante, jasmin délicat. La base est sa véritable signature : un accord de cèdre sec et fumeux, de santal crémeux et de patchouli terreux qui dure des heures sur la peau.\n\nEn version EDP, la profondeur est décuplée. Les notes boisées sont plus présentes, le sillage plus affirmé. On reste dans l'élégance, jamais dans l'ostentation — c'est toute la philosophie de la maison Chanel.\n\nEn Algérie, Bleu de Chanel se distingue par sa versatilité absolue : il s'adapte aux longues journées de réunions comme aux soirées en famille, au bureau climatisé d'Alger comme à la chaleur humide d'Annaba. Sa longévité de 8 à 10 heures en EDP en fait un allié quotidien fiable.",
+      "notes": {
+        "top": [
+          "Citron",
+          "Orange",
+          "Menthe",
+          "Rose"
+        ],
+        "heart": [
+          "Gingembre",
+          "Noix de Muscade",
+          "Jasmin"
+        ],
+        "base": [
+          "Cèdre",
+          "Santal",
+          "Patchouli",
+          "Vétiver"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Occasions Spéciales"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/bleu-de-chanel.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "dior-sauvage",
+        "hugo-boss-bottled",
+        "armani-code"
+      ],
+      "h1": "Bleu de Chanel Parfum Homme Algérie",
+      "originalPrice": 19200
+    },
+    {
+      "id": "scandal-jean-paul-gaultier",
+      "slug": "scandal-jean-paul-gaultier",
+      "name": "Scandal",
+      "brand": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Oriental Floral",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 13900,
+      "originalPrice": 16500,
+      "shortDescription": "Le parfum qui ose. Flacon bas résille emblématique, accord miel-gardénia-vétiver pour une féminité provocante et inoubliable.",
+      "description": "Scandal de Jean Paul Gaultier est l'un des parfums féminins les plus recherchés en Algérie, et son flacon en forme de bas résille noir est instantanément reconnaissable. Lancé en 2017, ce parfum a immédiatement fait scandale — au sens le plus flatteur du terme — en proposant un accord olfactif inédit qui mélange le miel animal, le gardénia poudré et un vétiver boisé pour créer quelque chose d'unique : un parfum chaud et sensuel, mais jamais lourd.\n\nLa compositrice Honorine Blanc a construit Scandal autour d'une antithèse fascinante. L'ouverture est fraîche et pétillante, avec un accord sanguin légèrement acidulé qui évoque le rouge à lèvres et la chair fraîche. Puis le cœur de gardénia s'installe — une fleur que peu de parfumeurs osent utiliser seule tant elle peut devenir écrasante. Ici, elle est domptée, adoucie, rendue luxueuse. Et en base, un miel boisé de vétiver qui apporte une chaleur animale irrésistible.\n\nEn version EDP, Scandal est plus intense, plus opulent que l'EDT. Le miel est plus présent, le vétiver plus profond. La longévité est excellente — 10 à 12 heures sur la peau — avec un sillage discret mais présent, qui ne manquera pas de se faire remarquer dans un bureau ou à une soirée.\n\nEn Algérie, Scandal est devenu un choix de prédilection pour la femme algérienne moderne qui veut un parfum signature unique et reconnaissable, loin des senteurs florales trop sages. C'est un parfum qui s'assume, qui s'affirme — et qui reste en mémoire.",
+      "notes": {
+        "top": [
+          "Sang",
+          "Mandarine"
+        ],
+        "heart": [
+          "Gardénia",
+          "Miel"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc blanc"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Week-end",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/scandal-jean-paul-gaultier.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "good-girl-carolina-herrera",
+        "black-opium-ysl",
+        "born-in-roma-valentino"
+      ],
+      "h1": "Scandal Jean Paul Gaultier Parfum Femme Algérie"
+    },
+    {
+      "id": "scandal-pour-homme-jean-paul-gaultier",
+      "slug": "scandal-pour-homme-jean-paul-gaultier",
+      "name": "Scandal Pour Homme",
+      "brand": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Oriental Boisé",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 13900,
+      "shortDescription": "Le scandale au masculin. Cardamome, gingembre et notes gourmandes pour un homme qui assume son charme avec audace.",
+      "description": "Scandal Pour Homme EDP de Jean Paul Gaultier est la réponse masculine au succès phénoménal du Scandal original pour femme. Lancé en 2022, ce parfum s'est immédiatement distingué par son caractère gourmand et épicé, une combinaison audacieuse qui plaît particulièrement aux hommes algériens en quête d'une fragrance originale et affirmée.\n\nLe parfumeur Quentin Bisch a construit ce Scandal masculin autour d'un accord épicé-gourmand d'une originalité rare. L'ouverture est explosive : cardamome verte et gingembre frais qui créent une première impression fraîche et piquante. Puis le cœur se révèle plus sombre, plus masculin : bergamote chaude, aldéhydes légèrement poudrés. La base est gourmande et animale à la fois — caramel salé, patchouli terreux et musc ambré — une signature qui restera sur la peau pendant des heures.\n\nEn version EDP, la richesse du jus est amplifiée. Les notes gourmandes sont plus prononcées, le patchouli plus présent, le sillage plus ample. C'est une fragrance pour homme qui assume pleinement son côté sensuel et provocateur.\n\nEn Algérie, Scandal Pour Homme répond à un besoin réel : une fragrance masculine qui sort des sentiers boisés classiques sans pour autant tomber dans l'excès oriental. Il plaît aussi bien aux hommes de 25 ans qui cherchent une signature moderne qu'aux amateurs plus âgés en quête de nouveauté.",
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Gingembre",
+          "Bergamote"
+        ],
+        "heart": [
+          "Aldéhydes",
+          "Noix de muscade"
+        ],
+        "base": [
+          "Caramel",
+          "Patchouli",
+          "Musc Ambré"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Week-end",
+        "Sortie"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "image": "/images/products/scandal-pour-homme-jean-paul-gaultier.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Nouveau",
+      "isOriental": false,
+      "related": [
+        "dior-sauvage",
+        "bleu-de-chanel",
+        "armani-code"
+      ],
+      "h1": "Scandal Pour Homme Jean Paul Gaultier Parfum Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "le-male-jean-paul-gaultier",
+      "slug": "le-male-jean-paul-gaultier",
+      "name": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Oriental Fougère",
+      "concentration": "EDP",
+      "volume": "125ml",
+      "price": 13200,
+      "shortDescription": "L'emblème Jean Paul Gaultier. Lavande, cardamome et vanille pour un masculin iconique qui ne vieillit pas.",
+      "description": "Le Male de Jean Paul Gaultier est un monument de la parfumerie masculine contemporaine. Créé en 1995 par Francis Kurkdjian, ce parfum n'a cessé de se réinventer tout en conservant son ADN originel : la tension entre le frais et le chaud, entre la lavande provençale et la vanille orientale. L'EDP, version plus intense et plus profonde, est celle que nous recommandons pour le climat algérien et les longues journées méditerranéennes.",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Cardamome",
+          "Absinthe"
+        ],
+        "heart": [
+          "Cumin",
+          "Orange fleur",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Musc ambré",
+          "Cèdre",
+          "Santal"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Week-end",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/le-male-jean-paul-gaultier.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "scandal-pour-homme-jean-paul-gaultier",
+        "dior-sauvage",
+        "armani-code"
+      ],
+      "h1": "Le Male Jean Paul Gaultier Parfum Homme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "black-opium-ysl",
+      "slug": "black-opium-ysl",
+      "name": "Black Opium",
+      "brand": "Yves Saint Laurent",
+      "brandSlug": "ysl",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Oriental Floral Gourmand",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 15200,
+      "shortDescription": "L'accord café-vanille le plus addictif de la parfumerie moderne. Pour la femme qui ose la nuit.",
+      "description": "Black Opium YSL est le phénomène de la parfumerie féminine des années 2010. Lancé en 2014, il a immédiatement redéfini les codes du parfum oriental-gourmand en y intégrant une note de café arabica noir et brillant qui n'avait jamais été utilisée aussi audacieusement auparavant. En Algérie, Black Opium est devenu un classique moderne, porté par des femmes de 20 à 45 ans qui veulent un parfum signature fort et immédiatement reconnaissable.\n\nLe trio de compositeurs — Marie Salamagne, Olivier Cresp et Nathalie Lorson — a imaginé Black Opium comme un contraste de tensions : la légèreté florale de la fleur d'oranger blanc contre la profondeur enivrante du café noir ; la douceur de la vanille contre l'amertume du patchouli. Le résultat est une fragrance à la fois accessible et complexe, douce et intense.\n\nEn EDP, Black Opium est plus riche, plus concentré que son homologue EDT. La vanille est plus crémeuse, le café plus profond, la tenue sur la peau plus longue. C'est la version à choisir pour les soirées algériennes, les fêtes de mariage, ou simplement pour les jours où l'on veut laisser une impression durable.\n\nPortée par des célébrités mondiales et des influenceuses algériennes, Black Opium est devenu un incontournable des collections de parfums. Si vous ne connaissez pas encore cette fragrance, il est grand temps de la découvrir.",
+      "notes": {
+        "top": [
+          "Poire",
+          "Framboise",
+          "Anis étoilé"
+        ],
+        "heart": [
+          "Café",
+          "Fleur d'oranger",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Patchouli",
+          "Cèdre",
+          "Musc blanc"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Week-end",
+        "Sortie"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/black-opium-ysl.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "scandal-jean-paul-gaultier",
+        "good-girl-carolina-herrera",
+        "libre-ysl"
+      ],
+      "h1": "Black Opium YSL Parfum Femme Algérie",
+      "originalPrice": 17800
+    },
+    {
+      "id": "libre-ysl",
+      "slug": "libre-ysl",
+      "name": "Libre",
+      "brand": "Yves Saint Laurent",
+      "brandSlug": "ysl",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Aromatique",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 15200,
+      "shortDescription": "La liberté en fragrance. Lavande de Grasse et absolue d'oranger : le parfum de la femme libre.",
+      "description": "Libre de YSL est la déclaration de liberté d'une maison qui a toujours su faire de la rébellion une forme d'élégance. Lancé en 2019 avec Dua Lipa comme égérie, Libre a immédiatement conquis une génération de femmes en quête d'un parfum floral-aromatique audacieux et affirmé.\n\nLe parfumeur Carlos Benaïm a construit Libre autour d'une tension créatrice unique dans la parfumerie : la lavande de Grasse, traditionnellement masculin, sublimée par une absolue d'oranger blanc d'une féminité rayonnante. Entre les deux, un accord musqué ambré qui réchauffe et profondise l'ensemble.\n\nEn Algérie, Libre est particulièrement apprécié pour son caractère floral-aromatique unique qui se distingue de la masse des parfums floraux trop sages. Il plaît aux femmes qui ont du caractère et veulent un parfum qui les représente pleinement.",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Petitgrain"
+        ],
+        "heart": [
+          "Lavande de Grasse",
+          "Fleur d'oranger"
+        ],
+        "base": [
+          "Musc vanillé",
+          "Ambre",
+          "Cèdre"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "image": "/images/products/libre-ysl.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "black-opium-ysl",
+        "scandal-jean-paul-gaultier",
+        "coco-mademoiselle-chanel"
+      ],
+      "h1": "Libre YSL Parfum Femme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "good-girl-carolina-herrera",
+      "slug": "good-girl-carolina-herrera",
+      "name": "Good Girl",
+      "brand": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Oriental Floral",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 13900,
+      "shortDescription": "Le flacon escarpin noir le plus désirable de la parfumerie. Jasmin, cacao et vétiver pour une bonne fille qui cache quelque chose.",
+      "description": "Good Girl de Carolina Herrera est peut-être le parfum le plus photographié de ces dernières années. Son flacon en forme d'escarpin noir — mi-brillant, mi-mat — est devenu un objet de désir à part entière, collecté par des milliers de femmes à travers le monde et en Algérie. Mais derrière ce packaging iconique se cache une fragrance d'une sophistication rare.\n\nLe duo de parfumeurs Louise Turner et Givaudan a imaginé Good Girl comme une dichotomie fascinante : le côté 'good girl' est représenté par les notes lumineuses et florales de la tête — café, bergamote, amande — tandis que le côté plus sombre et sensuel est incarné par le cœur de jasmin sambac et la base de cacao, vétiver et patchouli.\n\nCe qui distingue Good Girl des autres parfums floraux orientaux disponibles en Algérie, c'est son accord cacao-jasmin d'une originalité désarmante. Le jasmin sambac est utilisé ici dans une quantité généreuse, ce qui lui confère une sensualité florale intense tempérée par la rondeur gourmande du cacao.\n\nEn EDP, la concentration est optimale pour le porter en soirée ou lors d'occasions importantes. La tenue est excellente — 8 à 10 heures — avec un sillage envoûtant qui ne manquera pas de provoquer des compliments. C'est LE parfum à avoir pour les soirées algériennes.",
+      "notes": {
+        "top": [
+          "Café",
+          "Amande",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin Sambac",
+          "Tuberose"
+        ],
+        "base": [
+          "Cacao",
+          "Vétiver",
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Week-end"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/good-girl-carolina-herrera.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "scandal-jean-paul-gaultier",
+        "black-opium-ysl",
+        "born-in-roma-valentino"
+      ],
+      "h1": "Good Girl Carolina Herrera Parfum Femme Algérie",
+      "originalPrice": 16200
+    },
+    {
+      "id": "invictus-paco-rabanne",
+      "slug": "invictus-paco-rabanne",
+      "name": "Invictus",
+      "brand": "Paco Rabanne",
+      "brandSlug": "paco-rabanne",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Aquatique Boisé",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 12900,
+      "shortDescription": "Le trophée du vainqueur. Accord aquatique, gingembre et bois ambrés pour l'homme qui ne se bat que pour gagner.",
+      "description": "Invictus de Paco Rabanne est le parfum du triomphe masculin moderne. Lancé en 2013, son flacon en forme de trophée sportif a immédiatement capturé l'imagination d'une génération de jeunes hommes en quête d'un parfum qui symbolise la victoire et la force. En Algérie, Invictus est devenu un classique du parfum masculin pour les hommes de 18 à 35 ans.\n\nLe compositeur Olivier Polge a structuré Invictus autour d'un accord aquatique-boisé d'une fraîcheur irrésistible. La tête est marine et fraîche — accord aquatique, pamplemousse rosé — avec une vivacité qui rappelle les embruns méditerranéens. Le cœur de jasmin et laurier ajoute une dimension verte et légèrement florale qui empêche le parfum de tomber dans la banalité. La base de bois de gaïac, patchouli sec et musc ambré ancre l'ensemble dans une chaleur masculine rassurante.\n\nEn EDP, Invictus est plus intense et plus profond. Les notes boisées sont plus présentes, le sillage plus affirmé. C'est la version idéale pour les soirées, les sorties importantes ou les occasions où vous voulez vous sentir au sommet de votre forme.\n\nEn Algérie, Invictus plaît pour sa polyvalence : il est suffisamment frais pour être porté au printemps et en été, mais assez chaleureux pour l'automne. C'est un parfum de confiance, que l'on peut porter tous les jours sans se tromper.",
+      "notes": {
+        "top": [
+          "Pamplemousse Rosé",
+          "Mandarine",
+          "Accord Marin"
+        ],
+        "heart": [
+          "Jasmin",
+          "Laurier"
+        ],
+        "base": [
+          "Bois de Gaïac",
+          "Patchouli",
+          "Musc Ambré",
+          "Bois d'Oakmoss"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Sport",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "image": "/images/products/invictus-paco-rabanne.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "dior-sauvage",
+        "1-million-paco-rabanne",
+        "versace-eros"
+      ],
+      "h1": "Invictus Paco Rabanne Parfum Homme Algérie",
+      "originalPrice": 14900
+    },
+    {
+      "id": "1-million-paco-rabanne",
+      "slug": "1-million-paco-rabanne",
+      "name": "1 Million",
+      "brand": "Paco Rabanne",
+      "brandSlug": "paco-rabanne",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Oriental Boisé",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 12900,
+      "shortDescription": "Le lingot d'or olfactif. Pamplemousse, cannelle et cuir pour un homme qui mise gros et gagne toujours.",
+      "description": "1 Million de Paco Rabanne est une légende vivante de la parfumerie masculine. Depuis son lancement en 2008, ce parfum n'a jamais quitté les palmarès mondiaux, et reste l'une des fragrances les plus vendues au monde. Son flacon en forme de lingot d'or 24 carats est devenu un symbole culturel de la réussite et du succès.\n\nLa formule olfactive est un chef-d'œuvre de composition orientale moderne. La tête est fraîche et fruitée — pamplemousse rosé juteux et menthe peppercorn — qui crée une impression initiale lumineuse et énergique. Le cœur s'assombrit avec une rose sèche et une cannelle légèrement piquante qui apportent une dimension épicée sophistiquée. La base est la vraie signature : cuir noir ambré, bois de santal et patchouli qui créent un fond animal et chaleureux d'une longévité remarquable.\n\nEn version EDP, 1 Million est plus chaud, plus intense et plus profond. Le cuir est plus affirmé, la cannelle plus présente, le fond oriental plus développé. C'est la version ultime pour les soirées et occasions importantes.\n\nEn Algérie, 1 Million est un incontournable des coffrets cadeaux et des achats de parfums premium. Son caractère oriental-épicé résonne particulièrement bien avec les préférences olfactives locales.",
+      "notes": {
+        "top": [
+          "Pamplemousse Rosé",
+          "Menthe",
+          "Sang"
+        ],
+        "heart": [
+          "Rose",
+          "Cannelle",
+          "Épices"
+        ],
+        "base": [
+          "Cuir",
+          "Ambre",
+          "Patchouli",
+          "Bois de Santal"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Week-end"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 5,
+      "image": "/images/products/1-million-paco-rabanne.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "invictus-paco-rabanne",
+        "dior-sauvage",
+        "scandal-pour-homme-jean-paul-gaultier"
+      ],
+      "h1": "1 Million Paco Rabanne Parfum Homme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "delina-parfums-de-marly",
+      "slug": "delina-parfums-de-marly",
+      "name": "Delina",
+      "brand": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Poudré",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 38500,
+      "shortDescription": "La rose de Marly. Une ode florale d'une pureté absolue, entre litchi nacré et poivre de Sichuan, pour la femme qui ne suit pas les tendances — elle les crée.",
+      "description": "Delina de Parfums de Marly est devenu en quelques années l'un des parfums niche les plus désirés au monde. Cette maison française fondée en 2009 par Julien Sprecher s'inspire de la cour de Versailles et du roi Louis XV, grand amateur de parfums. Delina est leur chef-d'œuvre féminin — une rose d'une complexité et d'une pureté qui n'appartient qu'aux grandes fragrances.\n\nLe parfumeur Hamid Merati-Kashani a construit Delina autour d'une pyramide olfactive d'une cohérence parfaite. L'ouverture associe la fraîcheur tropicale du litchi à la vivacité piquante du poivre de Sichuan rose — une combinaison surprenante qui crée immédiatement l'envie d'en savoir plus. Le cœur est une explosion florale : rose turque, pivoine rose et œillet blanc s'entremêlent dans un accord floral d'une richesse royale. La base de musc blanc, vétiver et cachemire ancre l'ensemble dans une douceur veloutée d'une longue persistance.\n\nDelina est le parfum parfait pour la femme algérienne qui veut sortir des sentiers battus et choisir une fragrance qui ne sera pas portée par tout le monde. C'est un signal d'appartenance à un cercle restreint d'amateurs éclairés — un luxe discret mais immédiatement perceptible par ceux qui connaissent la parfumerie.\n\nSa longévité est exceptionnelle : 12 à 16 heures sur la peau, avec un sillage floral poudré qui évolue beautifully avec la chaleur corporelle. Un investissement qui se justifie pleinement.",
+      "notes": {
+        "top": [
+          "Litchi",
+          "Poivre de Sichuan Rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose Turque",
+          "Pivoine",
+          "Œillet",
+          "Muscade"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc Blanc",
+          "Cachemire",
+          "Cèdre"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Mariage"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/delina-parfums-de-marly.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Exclusif",
+      "isOriental": false,
+      "related": [
+        "born-in-roma-valentino",
+        "good-girl-carolina-herrera",
+        "narciso-rodriguez-for-her"
+      ],
+      "h1": "Delina Parfums de Marly Parfum Niche Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "born-in-roma-valentino",
+      "slug": "born-in-roma-valentino",
+      "name": "Born in Roma",
+      "brand": "Valentino",
+      "brandSlug": "valentino",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Musqué",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 13900,
+      "shortDescription": "L'énergie de Rome en flacon. Jasmin sauvage et vanille noire pour une femme qui vit avec passion.",
+      "description": "Born in Roma de Valentino est une célébration de la ville éternelle et de son énergie créatrice unique. Lancé en 2019 avec Lady Gaga comme égérie, ce parfum incarne l'esprit de la génération Z — libre, authentique, passionnée. En Algérie, Born in Roma est rapidement devenu une référence pour les jeunes femmes qui cherchent un parfum floral-oriental modern et accessible.\n\nLe parfumeur Adriana Medina a composé Born in Roma autour d'un accord jasmin sauvage-vanille noire d'une originalité remarquable. La tête est fraîche et luminineuse, avec une bergamote solaire et une touche de poivre rose. Le cœur est la vraie révélation : un jasmin sauvage capturé par une technique de microencapsulation unique qui libère sa fragrance progressive au fil des heures. La base de vanille noire et de vétiver crée un fond chaud, oriental sans être lourd.\n\nBorn in Roma est un parfum qui change au fil de la journée, révélant de nouvelles facettes à chaque heure. Le matin, il est frais et floral ; l'après-midi, le jasmin s'affirme ; le soir, la vanille prend les commandes pour une séduction douce et enveloppante.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre Rose",
+          "Vétiver"
+        ],
+        "heart": [
+          "Jasmin Sauvage",
+          "Ylang-ylang"
+        ],
+        "base": [
+          "Vanille Noire",
+          "Vétiver",
+          "Musc boisé"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "image": "/images/products/born-in-roma-valentino.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "delina-parfums-de-marly",
+        "good-girl-carolina-herrera",
+        "libre-ysl"
+      ],
+      "h1": "Born in Roma Valentino Parfum Femme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "kayali-eden",
+      "slug": "kayali-eden",
+      "name": "Eden Juicy Apple 01",
+      "brand": "Kayali",
+      "brandSlug": "kayali",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Fruité Floral",
+      "concentration": "EDP",
+      "volume": "50ml",
+      "price": 13500,
+      "shortDescription": "Kayali par Mona Kattan. Pomme juteuse, fève tonka et musc ambré — un jardin d'Éden en flacon.",
+      "description": "Kayali est une maison de parfums fondée par Mona Kattan (sœur de Huda Beauty) en 2018 à Dubaï. La marque est rapidement devenue un phénomène culturel mondial, portée par les réseaux sociaux et une communauté passionnée d'amateurs de parfums au Moyen-Orient et dans la diaspora arabe — dont l'Algérie, où Kayali connaît une popularité croissante.\n\nEden Juicy Apple est l'une des créations les plus populaires de la marque. Son accord pomme-fève tonka-musc est d'une fraîcheur fruitée irrésistible, à la fois simple dans son concept et sophistiqué dans son exécution. La tête de pomme fraîche et juteuse est d'une fidélité impressionnante — on a vraiment l'impression de croquer dans une pomme verte perlée de rosée. Le cœur de jasmin blanc apporte une dimension florale élégante. La base de fève tonka et musc blanc crée un fond doux et poudré d'une longueur remarquable.\n\nKayali Eden est le parfum idéal pour la femme algérienne moderne qui suit les tendances mondiales et veut porter une marque qui a du sens culturellement.",
+      "notes": {
+        "top": [
+          "Pomme Verte",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Jasmin Blanc",
+          "Pivoine"
+        ],
+        "base": [
+          "Fève Tonka",
+          "Musc Blanc",
+          "Ambre doux"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "image": "/images/products/kayali-eden.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Nouveau",
+      "isOriental": false,
+      "related": [
+        "delina-parfums-de-marly",
+        "born-in-roma-valentino",
+        "narciso-rodriguez-for-her"
+      ],
+      "h1": "Kayali Eden Parfum Femme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "coco-mademoiselle-chanel",
+      "slug": "coco-mademoiselle-chanel",
+      "name": "Coco Mademoiselle",
+      "brand": "Chanel",
+      "brandSlug": "chanel",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Oriental Floral",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 17200,
+      "shortDescription": "La féminité libre et audacieuse par Chanel. Rose, jasmin, patchouli — une icône absolue qui ne se démode jamais.",
+      "description": "Coco Mademoiselle est l'un des parfums féminins les plus vendus au monde depuis 2001. Jacques Polge l'a composé comme une ode à la liberté féminine — une fragrance qui rompt avec le Chanel N°5 plus classique pour proposer quelque chose de plus jeune, plus audacieux. En Algérie, Coco Mademoiselle est le parfum des femmes qui ont du style et le savent.\n\nL'accord rose-patchouli de Coco Mademoiselle est d'une sophistication absolue. La rose est lumineuse et pétillante en tête, puis s'approfondit avec le jasmin au cœur avant que le patchouli terreux et sensuel de la base ne prenne progressivement le dessus. C'est un parfum qui évolue magnifiquement sur la peau, révélant sa vraie personnalité au fil des heures.",
+      "notes": {
+        "top": [
+          "Orange",
+          "Bergamote",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Vétiver",
+          "Musc blanc",
+          "Vanille"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/coco-mademoiselle-chanel.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": false,
+      "related": [
+        "libre-ysl",
+        "born-in-roma-valentino",
+        "delina-parfums-de-marly"
+      ],
+      "h1": "Coco Mademoiselle Chanel Parfum Femme Algérie",
+      "originalPrice": 19900
+    },
+    {
+      "id": "armani-code",
+      "slug": "armani-code",
+      "name": "Code",
+      "brand": "Giorgio Armani",
+      "brandSlug": "armani",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Oriental Boisé",
+      "concentration": "EDP",
+      "volume": "110ml",
+      "price": 13900,
+      "shortDescription": "Le code de séduction masculin par Armani. Bergamote, absolue de café et bois de guaiac — mystérieux et irrésistible.",
+      "description": "Armani Code EDP est l'évolution ultime du classique masculin de Giorgio Armani. Reformulé en EDP pour une profondeur accrue, il conserve l'élégance discrète caractéristique de la maison Armani tout en ajoutant une dimension olfactive plus riche et plus profonde. En Algérie, Armani Code est perçu comme un symbole de réussite sobre — l'homme qui le porte n'a pas besoin de faire de bruit, sa présence parle pour lui.\n\nLa reformulation EDP introduit une absolue de café arabica au cœur de la composition, ajoutant une dimension gourmande et légèrement torréfiée qui contraste superbement avec la fraîcheur bergamotée de la tête. La base de bois de guaiac fumeux et de tabac blond crée un fond viril et chaleureux d'une longévité exceptionnelle.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Café Arabica",
+          "Cardamome",
+          "Sauge"
+        ],
+        "base": [
+          "Bois de Guaiac",
+          "Tabac Blond",
+          "Fève Tonka"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/armani-code.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "bleu-de-chanel",
+        "dior-sauvage",
+        "hugo-boss-bottled"
+      ],
+      "h1": "Armani Code Parfum Homme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "hugo-boss-bottled",
+      "slug": "hugo-boss-bottled",
+      "name": "Boss Bottled",
+      "brand": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Boisé Fruité",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 11500,
+      "shortDescription": "Le classique masculin par Hugo Boss. Pomme, cannelle et bois de santal — accessible, polyvalent, toujours juste.",
+      "description": "Boss Bottled de Hugo Boss est l'un des parfums masculins les plus achetés au monde depuis 1998. C'est le parfum de l'homme professionnel, fiable et élégant — celui qui va au bureau le matin et sort le soir sans avoir besoin de se rechanger. En Algérie, Boss Bottled est particulièrement prisé pour son rapport qualité-prix exceptionnel et sa polyvalence absolue.",
+      "notes": {
+        "top": [
+          "Pomme",
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Cannelle",
+          "Pelargonium",
+          "Géranium"
+        ],
+        "base": [
+          "Bois de Santal",
+          "Vétiver",
+          "Cèdre",
+          "Olive"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "image": "/images/products/hugo-boss-bottled.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "bleu-de-chanel",
+        "dior-sauvage",
+        "armani-code"
+      ],
+      "h1": "Hugo Boss Bottled Parfum Homme Algérie",
+      "originalPrice": 13200
+    },
+    {
+      "id": "versace-eros",
+      "slug": "versace-eros",
+      "name": "Eros",
+      "brand": "Versace",
+      "brandSlug": "versace",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Oriental Fougère",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 12200,
+      "shortDescription": "L'amour à la grecque. Menthe fraîche, tonka et vanille pour le séducteur méditerranéen.",
+      "description": "Versace Eros est inspiré du dieu grec de l'amour et de la passion. Lancé en 2012, il est rapidement devenu un best-seller mondial grâce à son accord menthe-tonka-vanille absolument unique. En Algérie, Eros plaît pour son côté méditerranéen frais et chaud à la fois — une dualité qui résonne parfaitement avec la culture locale.",
+      "notes": {
+        "top": [
+          "Menthe Fraîche",
+          "Pomme Verte",
+          "Citron de Sicile"
+        ],
+        "heart": [
+          "Fève Tonka",
+          "Géranium",
+          "Ambrette"
+        ],
+        "base": [
+          "Vanille de Madagascar",
+          "Vétiver",
+          "Cèdre",
+          "Oakmoss"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Week-end",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "image": "/images/products/versace-eros.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "invictus-paco-rabanne",
+        "dior-sauvage",
+        "armani-code"
+      ],
+      "h1": "Versace Eros Parfum Homme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "narciso-rodriguez-for-her",
+      "slug": "narciso-rodriguez-for-her",
+      "name": "For Her",
+      "brand": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Musqué",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 13900,
+      "shortDescription": "Le musc absolu. Rose et musc dans une abstraction olfactive minimaliste d'une sensualité renversante.",
+      "description": "Narciso Rodriguez For Her est une révolution olfactive à elle seule. Lancé en 2003, ce parfum a introduit le concept du 'musc peau' dans la grande parfumerie — une fragrance qui semble se fondre avec la peau de celle qui la porte pour créer quelque chose d'unique et d'indissociable. En Algérie, For Her est apprécié pour sa discrétion élégante et sa capacité à rester présent sans jamais s'imposer.",
+      "notes": {
+        "top": [
+          "Coriandre",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Iris"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Bois de Santal"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Rendez-vous"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "image": "/images/products/narciso-rodriguez-for-her.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "delina-parfums-de-marly",
+        "coco-mademoiselle-chanel",
+        "born-in-roma-valentino"
+      ],
+      "h1": "Narciso Rodriguez For Her Parfum Femme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "la-vie-est-belle-lancome",
+      "slug": "la-vie-est-belle-lancome",
+      "name": "La Vie est Belle",
+      "brand": "Lancôme",
+      "brandSlug": "lancome",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Oriental Floral Gourmand",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 13500,
+      "shortDescription": "La gourmandise comme art de vivre. Iris, praline et patchouli dans une déclaration de bonheur olfactif.",
+      "description": "La Vie est Belle de Lancôme est l'un des parfums féminins les plus populaires de la dernière décennie. Lancé en 2012, il a révolutionné le segment oriental-gourmand en proposant un accord iris-praline d'une originalité et d'une gourmandise maîtrisée. En Algérie, La Vie est Belle est le parfum offert pour les grandes occasions — anniversaires, fêtes, mariages.\n\nL'accord signature de La Vie est Belle repose sur un iris intense et poudré qui dialogue avec une praline dorée subtilement sucrée. Ce cœur floral-gourmand est ancré dans une base de patchouli doux et de musc qui prolonge le plaisir bien après l'évaporation des premières notes.",
+      "notes": {
+        "top": [
+          "Cassis",
+          "Poire"
+        ],
+        "heart": [
+          "Iris",
+          "Jasmin",
+          "Oranger"
+        ],
+        "base": [
+          "Praline",
+          "Vanille",
+          "Patchouli",
+          "Musc"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/la-vie-est-belle-lancome.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "coco-mademoiselle-chanel",
+        "black-opium-ysl",
+        "good-girl-carolina-herrera"
+      ],
+      "h1": "La Vie est Belle Lancôme Parfum Femme Algérie",
+      "originalPrice": 15800
+    },
+    {
+      "id": "lattafa-oud-mood",
+      "slug": "lattafa-oud-mood",
+      "name": "Oud Mood",
+      "brand": "Lattafa",
+      "brandSlug": "lattafa",
+      "gender": "unisexe",
+      "category": "parfums-orientaux",
+      "family": "Oriental Boisé",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 3200,
+      "originalPrice": null,
+      "shortDescription": "Un oud de caractère, riche et enveloppant. L'essence même du luxe oriental à prix accessible.",
+      "description": "Oud Mood de Lattafa est une ode à l'oud traditionnel revisité avec une touche contemporaine. Cette fragrance unisexe capture la chaleur et la profondeur du bois d'oud, sublimée par des notes de rose et de musc. Un incontournable pour les amateurs de parfums orientaux en Algérie.\n\nLattafa Perfumes est une maison émiratie fondée à Dubaï qui s'est spécialisée dans les parfums orientaux de qualité à prix accessible. Oud Mood est l'une de leurs créations les plus populaires, appréciée autant en Algérie qu'au Moyen-Orient pour sa fidélité aux traditions olfactives orientales tout en offrant une formulation moderne.",
+      "notes": {
+        "top": [
+          "Oud",
+          "Rose"
+        ],
+        "heart": [
+          "Santal",
+          "Épices douces"
+        ],
+        "base": [
+          "Musc",
+          "Ambre",
+          "Vanille"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Vendredi"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 5,
+      "image": "/images/products/lattafa-oud-mood.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Bestseller",
+      "isOriental": true,
+      "related": [
+        "amber-oud-al-haramain",
+        "lattafa-asad",
+        "1-million-paco-rabanne"
+      ],
+      "h1": "Lattafa Oud Mood Parfum Oriental Algérie"
+    },
+    {
+      "id": "amber-oud-al-haramain",
+      "slug": "amber-oud-al-haramain",
+      "name": "Amber Oud Gold Edition",
+      "brand": "Al Haramain",
+      "brandSlug": "al-haramain",
+      "gender": "unisexe",
+      "category": "parfums-orientaux",
+      "family": "Oriental Ambré",
+      "concentration": "EDP",
+      "volume": "60ml",
+      "price": 7500,
+      "shortDescription": "L'ambré doré le plus emblématique de la Maison Al Haramain. Opulent, chaleureux, inoubliable.",
+      "description": "Amber Oud Gold Edition est la pièce maîtresse d'Al Haramain — une maison du Golfe reconnue mondialement pour ses créations orientales authentiques. Cette fragrance captive par son accord ambre-oud-vanille d'une richesse exceptionnelle. Idéale pour les grandes occasions et les soirées algériennes.\n\nAl Haramain Perfumes est une maison saoudienne fondée en 1970 à La Mecque. Elle est aujourd'hui l'une des références mondiales en matière de parfumerie orientale, présente dans plus de 70 pays. En Algérie, Al Haramain est particulièrement appréciée pour son rapport qualité-prix exceptionnel et la profondeur de ses compositions.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Oud",
+          "Rose",
+          "Épices"
+        ],
+        "base": [
+          "Ambre",
+          "Vanille",
+          "Bois de santal",
+          "Musc"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Mariage"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 5,
+      "image": "/images/products/amber-oud-al-haramain.jpg",
+      "inStock": true,
+      "featured": true,
+      "badge": "Exclusif",
+      "isOriental": true,
+      "related": [
+        "lattafa-oud-mood",
+        "lattafa-asad"
+      ],
+      "h1": "Amber Oud Al Haramain Parfum Oriental Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "lattafa-asad",
+      "slug": "lattafa-asad",
+      "name": "Asad",
+      "brand": "Lattafa",
+      "brandSlug": "lattafa",
+      "gender": "homme",
+      "category": "parfums-orientaux",
+      "family": "Boisé Oriental",
+      "concentration": "EDP",
+      "volume": "60ml",
+      "price": 2900,
+      "shortDescription": "Le lion. Puissant, boisé, magnétique. Le parfum oriental masculin qui s'impose sans effort.",
+      "description": "Asad (le Lion en arabe) de Lattafa est un parfum masculin qui ne laisse pas indifférent. Inspiré des grands classiques boisés orientaux, il allie la force du bois de oud à la chaleur des épices. Un rapport qualité-prix imbattable qui en fait l'un des préférés des amateurs de parfums orientaux en Algérie.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre noir"
+        ],
+        "heart": [
+          "Oud",
+          "Patchouli",
+          "Cèdre"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Vanille fumée"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Week-end",
+        "Détente"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/lattafa-asad.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": "Nouveau",
+      "isOriental": true,
+      "related": [
+        "lattafa-oud-mood",
+        "amber-oud-al-haramain"
+      ],
+      "h1": "Lattafa Asad Parfum Oriental Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "idole-lancome",
+      "slug": "idole-lancome",
+      "name": "Idôle",
+      "brand": "Lancôme",
+      "brandSlug": "lancome",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Musqué",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 12900,
+      "shortDescription": "La rose contemporaine. Légère, lumineuse, inoubliable. Le parfum de la femme d'aujourd'hui.",
+      "description": "Idôle de Lancôme est la signature de la nouvelle génération féminine. Sa rose contemporaine, mêlée de notes musquées et de bergamote, crée une fragrance à la fois délicate et affirmée. En Algérie, c'est le parfum de la femme actuelle qui sait ce qu'elle veut.",
+      "notes": {
+        "top": [
+          "Rose de mai",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose centifolia"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Vanille"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Rendez-vous"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "image": "/images/products/idole-lancome.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "coco-mademoiselle-chanel",
+        "born-in-roma-valentino",
+        "la-vie-est-belle-lancome"
+      ],
+      "h1": "Idôle Lancôme Parfum Femme Algérie",
+      "originalPrice": null
+    },
+    {
+      "id": "franck-olivier",
+      "slug": "franck-olivier",
+      "name": "Franck Olivier",
+      "brand": "Franck Olivier",
+      "brandSlug": "franck-olivier",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Oriental Boisé",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 1800,
+      "shortDescription": "Le classique algérien accessible. Boisé, ambré, robuste — un parfum qui ne se cache pas.",
+      "description": "Franck Olivier est une marque française créée dans les années 1970, particulièrement populaire en Afrique du Nord et dans les pays arabes pour ses fragrances riches et opulentes à des prix accessibles. En Algérie, Franck Olivier est souvent le premier contact avec les parfums de type oriental occidental — une passerelle entre les attars locaux et les grands parfums de luxe.\n\nFranck Olivier EDP pour homme est un boisé oriental classique, riche en ambre et en épices chaudes, avec une projection généreuse et une longévité qui défie les parfums deux fois plus chers. C'est le choix de l'homme algérien pratique et fier de ses préférences olfactives.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Épices"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Patchouli"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Bois de Santal",
+          "Vanille"
+        ]
+      },
+      "occasions": [
+        "Quotidien",
+        "Bureau",
+        "Soirée"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/franck-olivier.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "lattafa-asad",
+        "hugo-boss-bottled",
+        "armani-code"
+      ],
+      "h1": "Franck Olivier Parfum Algérie",
+      "originalPrice": null
+    }
+  ],
+  "brands": [
+    {
+      "slug": "dior",
+      "name": "Dior",
+      "origin": "France",
+      "description": "Maison de couture parisienne fondée en 1946 par Christian Dior. L'une des maisons de luxe les plus iconiques au monde.",
+      "featured": true
+    },
+    {
+      "slug": "chanel",
+      "name": "Chanel",
+      "origin": "France",
+      "description": "La maison fondée par Gabrielle Chanel en 1910 est le symbole absolu de l'élégance parisienne.",
+      "featured": true
+    },
+    {
+      "slug": "ysl",
+      "name": "Yves Saint Laurent",
+      "origin": "France",
+      "description": "Maison de mode fondée en 1961, YSL est synonyme d'audace et de liberté dans la parfumerie moderne.",
+      "featured": true
+    },
+    {
+      "slug": "jean-paul-gaultier",
+      "name": "Jean Paul Gaultier",
+      "origin": "France",
+      "description": "L'enfant terrible de la mode française. Des flacons iconiques, des parfums qui osent.",
+      "featured": true
+    },
+    {
+      "slug": "lattafa",
+      "name": "Lattafa",
+      "origin": "Émirats Arabes Unis",
+      "description": "Maison émiratie spécialisée dans les parfums orientaux de qualité à prix accessible.",
+      "featured": true
+    },
+    {
+      "slug": "al-haramain",
+      "name": "Al Haramain",
+      "origin": "Arabie Saoudite",
+      "description": "Maison saoudienne fondée à La Mecque en 1970. Référence mondiale de la parfumerie orientale.",
+      "featured": true
+    },
+    {
+      "slug": "lancome",
+      "name": "Lancôme",
+      "origin": "France",
+      "description": "Maison de beauté française fondée en 1935. La féminité et l'élégance à la française.",
+      "featured": true
+    },
+    {
+      "slug": "givenchy",
+      "name": "Givenchy",
+      "origin": "France",
+      "description": "Maison parisienne fondée en 1952 par Hubert de Givenchy. Élégance et modernité.",
+      "featured": false
+    },
+    {
+      "slug": "paco-rabanne",
+      "name": "Paco Rabanne",
+      "origin": "France",
+      "description": "Maison fondée en 1966, Paco Rabanne est connu pour ses créations audacieuses et ses parfums iconiques comme Invictus et 1 Million.",
+      "featured": true
+    },
+    {
+      "slug": "carolina-herrera",
+      "name": "Carolina Herrera",
+      "origin": "États-Unis",
+      "description": "Maison de mode new-yorkaise fondée en 1981. Good Girl est l'une des fragrances les plus reconnaissables au monde.",
+      "featured": true
+    },
+    {
+      "slug": "valentino",
+      "name": "Valentino",
+      "origin": "Italie",
+      "description": "Maison de haute couture romaine fondée en 1960. L'élégance italienne transcrite en parfums.",
+      "featured": true
+    },
+    {
+      "slug": "parfums-de-marly",
+      "name": "Parfums de Marly",
+      "origin": "France",
+      "description": "Maison de niche française fondée en 2009, inspirée de la cour de Versailles et du roi Louis XV.",
+      "featured": true
+    },
+    {
+      "slug": "armani",
+      "name": "Giorgio Armani",
+      "origin": "Italie",
+      "description": "Maison fondée en 1975 par Giorgio Armani. Sophistication italienne et élégance minimaliste.",
+      "featured": true
+    },
+    {
+      "slug": "kayali",
+      "name": "Kayali",
+      "origin": "Émirats Arabes Unis",
+      "description": "Marque fondée en 2018 par Mona Kattan (Huda Beauty). Fragrances orientales-occidentales modernes.",
+      "featured": true
+    },
+    {
+      "slug": "hugo-boss",
+      "name": "Hugo Boss",
+      "origin": "Allemagne",
+      "description": "Maison de mode allemande fondée en 1924. Des parfums masculins polyvalents et accessibles.",
+      "featured": false
+    },
+    {
+      "slug": "versace",
+      "name": "Versace",
+      "origin": "Italie",
+      "description": "Maison de luxe italienne fondée en 1978. La sensualité méditerranéenne à l'état pur.",
+      "featured": false
+    },
+    {
+      "slug": "narciso-rodriguez",
+      "name": "Narciso Rodriguez",
+      "origin": "États-Unis",
+      "description": "Designer américain connu pour ses fragrances musquées sensuelles et minimalistes.",
+      "featured": false
+    },
+    {
+      "slug": "swiss-arabian",
+      "name": "Swiss Arabian",
+      "origin": "Émirats Arabes Unis",
+      "description": "Maison qui fusionne l'art du parfum suisse avec les traditions olfactives arabes.",
+      "featured": false
+    },
+    {
+      "slug": "franck-olivier",
+      "name": "Franck Olivier",
+      "origin": "France",
+      "description": "Marque française populaire en Afrique du Nord pour ses orientaux riches à prix accessible.",
+      "featured": false
+    }
+  ]
+}
