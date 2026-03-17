@@ -4,41 +4,37 @@ const existing = JSON.parse(readFileSync('data/keywords.json', 'utf8'));
 const existingKw = new Set(existing.map(k => k.keyword));
 
 const newEntries = [
-  { keyword: "si parfum", volume: 480, kd: 14, category: "parfums-femme", type: "product", status: "pending", note: "Armani Si EDP — KD 14 GOLD", slug: null, variants: ["parfum si"] },
-  { keyword: "elie saab parfum", volume: 480, kd: 17, category: "parfums-femme", type: "product", status: "pending", note: "Elie Saab Le Parfum — KD 17", slug: null, variants: ["eli saab parfum", "parfum elie saab", "elie saab le parfum"] },
-  { keyword: "tresor parfum", volume: 480, kd: 17, category: "parfums-femme", type: "product", status: "pending", note: "Lancôme Trésor EDP — KD 17", slug: null, variants: ["parfum tresor", "trésor parfum", "parfum la nuit tresor"] },
-  { keyword: "dior jadore parfum", volume: 480, kd: 17, category: "parfums-femme", type: "product", status: "pending", note: "Dior J'Adore EDP — KD 17", slug: null, variants: ["parfum j adore", "parfum j adore dior", "parfum jadore dior"] },
-  { keyword: "parfum givenchy femme", volume: 480, kd: 16, category: "parfums-femme", type: "product", status: "pending", note: "Givenchy Irresistible ou L'Interdit — KD 16", slug: null, variants: ["givenchy parfum femme", "parfum givenchy", "parfum irrésistible"] },
-  { keyword: "parfum lanvin", volume: 480, kd: 14, category: "parfums-femme", type: "product", status: "pending", note: "Lanvin Eclat d'Arpege — KD 14", slug: null, variants: ["lanvin parfum"] },
-  { keyword: "marc jacobs parfum", volume: 480, kd: 19, category: "parfums-femme", type: "product", status: "pending", note: "Marc Jacobs Daisy EDP — KD 19", slug: null, variants: ["parfum marc jacob"] },
-  { keyword: "nishane parfum", volume: 480, kd: 17, category: "parfums-orientaux", type: "product", status: "pending", note: "Nishane Hacivat — niche turc premium, volume interessant", slug: null, variants: [] },
-  { keyword: "creed parfum", volume: 480, kd: 20, category: "parfums-homme", type: "product", status: "pending", note: "Creed Aventus — niche prestige envisageable", slug: null, variants: ["parfum creed"] },
-  { keyword: "stronger with you parfum", volume: 390, kd: 13, category: "parfums-homme", type: "product", status: "pending", note: "Armani Stronger With You Intensely — KD 13 GOLD", slug: null, variants: ["parfum stronger with you"] },
-  { keyword: "5eme avenue parfum", volume: 390, kd: 12, category: "parfums-femme", type: "product", status: "pending", note: "Elizabeth Arden 5th Avenue — KD 12 GOLD, tres populaire en DZ", slug: null, variants: [] },
-  { keyword: "mont blanc parfum femme", volume: 390, kd: 10, category: "parfums-femme", type: "product", status: "pending", note: "Mont Blanc Lady Emblem — KD 10 JACKPOT", slug: null, variants: ["parfum mont blanc femme", "parfum mont blanc"] },
-  { keyword: "jean patou parfum", volume: 390, kd: 13, category: "parfums-femme", type: "product", status: "pending", note: "Jean Patou Joy EDP — KD 13", slug: null, variants: [] },
-  { keyword: "lanvin parfum femme", volume: 390, kd: 12, category: "parfums-femme", type: "product", status: "pending", note: "Lanvin Eclat ou Jeanne Lanvin — KD 12", slug: null, variants: ["lanvin parfum"] },
-  { keyword: "mauboussin parfum", volume: 390, kd: 19, category: "parfums-femme", type: "product", status: "pending", note: "Mauboussin Pour Elle — KD 19", slug: null, variants: [] },
-  { keyword: "parfum l interdit", volume: 390, kd: 20, category: "parfums-femme", type: "product", status: "pending", note: "Givenchy L'Interdit EDP", slug: null, variants: ["parfum interdit", "l interdit parfum", "interdit parfum", "l homme ideal parfum"] },
-  { keyword: "givenchy parfum homme", volume: 390, kd: 21, category: "parfums-homme", type: "product", status: "pending", note: "Givenchy Gentleman EDP — KD 21", slug: null, variants: ["parfum givenchy homme"] },
-  { keyword: "acqua di gio parfum", volume: 320, kd: 10, category: "parfums-homme", type: "product", status: "pending", note: "Armani Acqua di Gio Parfum — KD 10 JACKPOT", slug: null, variants: ["acqua di gio eau de parfum"] },
-  { keyword: "la nuit de l homme le parfum", volume: 320, kd: 12, category: "parfums-homme", type: "product", status: "pending", note: "YSL La Nuit de L'Homme Le Parfum — KD 12 GOLD", slug: null, variants: [] },
-  { keyword: "hugo boss parfum homme", volume: 320, kd: 13, category: "parfums-homme", type: "product", status: "done", note: "Hugo Boss Bottled — deja en catalogue", slug: "/parfums/hugo-boss-bottled", variants: ["hugo boss homme parfum", "parfum boss homme"] },
-  { keyword: "layton parfums de marly", volume: 320, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "Layton Parfums de Marly — niche prestige homme", slug: null, variants: ["parfums de marly layton"] },
-  { keyword: "armani code parfum", volume: 480, kd: 11, category: "parfums-homme", type: "product", status: "done", note: "Armani Code — deja en catalogue", slug: "/parfums/armani-code", variants: [] },
-  { keyword: "parfum numidia lezoul", volume: 480, kd: 27, category: "local-dz", type: "competitor", status: "skip", note: "CONCURRENT LOCAL ALGERIEN — 480 recherches, a surveiller", slug: null, variants: [] },
-  { keyword: "emmanuelle jane parfum", volume: 390, kd: 12, category: "local-dz", type: "competitor", status: "skip", note: "Marque algerienne populaire — page alternative possible plus tard", slug: null, variants: ["emmanuel jane parfum", "parfum emmanuelle jane"] },
-  { keyword: "chic parfum blida", volume: 210, kd: null, category: "local-dz", type: "competitor", status: "skip", note: "CONCURRENT DIRECT a Blida — a surveiller de pres", slug: null, variants: [] },
-  { keyword: "moon parfum", volume: 390, kd: 16, category: "local-dz", type: "competitor", status: "skip", note: "Possible marque locale DZ", slug: null, variants: [] },
-  { keyword: "elite parfum", volume: 390, kd: 10, category: "local-dz", type: "competitor", status: "skip", note: "Possible marque locale DZ — KD 10 mais identifier avant", slug: null, variants: [] },
-  { keyword: "meilleur parfum femme", volume: 720, kd: 20, category: "blog", type: "blog", status: "pending", note: "Article blog top parfums femme 2026 — a creer", slug: null, variants: ["parfum femme les plus vendus", "le parfum le plus attirant pour femme"] },
-  { keyword: "adopt parfum", volume: 480, kd: 45, category: null, type: "skip", status: "skip", note: "Modele abonnement, hors scope + KD 45", slug: null, variants: [] },
-  { keyword: "victoria secret parfum", volume: 590, kd: 23, category: null, type: "skip", status: "skip", note: "Retailer US, hors catalogue", slug: null, variants: ["parfum very sexy", "very sexy parfum"] },
-  { keyword: "parfum baccarat rouge", volume: 480, kd: 56, category: null, type: "skip", status: "skip", note: "KD 56 — trop competitif, MFK ultra-premium", slug: null, variants: [] },
-  { keyword: "yves rocher parfum", volume: 590, kd: 23, category: null, type: "skip", status: "skip", note: "Marque non referencee", slug: null, variants: ["parfum yves rocher", "yves rocher parfum femme"] },
-  { keyword: "mont blanc parfum homme", volume: 210, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "Mont Blanc Legend — KD a verifier", slug: null, variants: ["parfum homme mont blanc"] },
-  { keyword: "azzaro parfum homme", volume: 390, kd: 27, category: "parfums-homme", type: "product", status: "pending", note: "Azzaro Chrome ou Wanted — KD 27", slug: null, variants: ["azzaro parfum", "parfum azzaro", "parfum azzaro homme"] },
-  { keyword: "parfum mon paris", volume: 590, kd: 17, category: "parfums-femme", type: "product", status: "pending", note: "YSL Mon Paris EDP — KD 17", slug: null, variants: ["mon paris parfum"] },
+  // Nouveaux produits à créer
+  { keyword: "givenchy gentleman parfum", volume: 170, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "Givenchy Gentleman EDP — variante confirmed", slug: null, variants: ["gentleman parfum", "parfum gentelmen"] },
+  { keyword: "dior fahrenheit parfum", volume: 140, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "Dior Fahrenheit — classique masculin très recherché en DZ", slug: null, variants: ["fahrenheit parfum", "parfum fahrenheit", "christian dior fahrenheit parfum", "fahrenheit dior parfum"] },
+  { keyword: "paco rabanne olympea parfum", volume: 170, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "Paco Rabanne Olympéa EDP", slug: null, variants: ["olympea parfum", "parfum olympea", "olympia parfum"] },
+  { keyword: "calvin klein euphoria parfum", volume: 170, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "CK Euphoria — femme, volume 170", slug: null, variants: ["euphoria parfum"] },
+  { keyword: "azzaro wanted parfum", volume: 140, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "Azzaro Wanted EDP — demande confirmée", slug: null, variants: ["wanted parfum"] },
+  { keyword: "yes i am parfum", volume: 140, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "Cacharel Yes I Am — confirme la recherche parfum you/you parfum", slug: null, variants: ["parfum yes i am"] },
+  { keyword: "zadig voltaire parfum", volume: 140, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "Zadig & Voltaire This is Her EDP", slug: null, variants: ["zadig et voltaire parfum"] },
+  { keyword: "ysl manifesto parfum", volume: 170, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "YSL Manifesto EDP", slug: null, variants: ["manifesto parfum"] },
+  { keyword: "dolce gabbana the one parfum", volume: 140, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "D&G The One EDP homme — très demandé", slug: null, variants: ["dolce gabbana the one parfum", "the one parfum", "dolce gabbana parfum the one"] },
+  { keyword: "rasasi hawas parfum", volume: 110, kd: null, category: "parfums-orientaux", type: "product", status: "pending", note: "Rasasi Hawas — oriental très populaire en DZ, à ajouter", slug: null, variants: ["hawas parfum"] },
+  { keyword: "el nabil parfum", volume: 170, kd: null, category: "parfums-orientaux", type: "product", status: "pending", note: "El Nabil — marque halal orientale, forte demande DZ", slug: null, variants: ["parfum el nabil"] },
+  { keyword: "mugler alien parfum", volume: 140, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "Mugler Alien — deja dans pending comme alien parfum", slug: null, variants: ["mugler parfum", "parfum angel"] },
+  { keyword: "davidoff cool water parfum", volume: 170, kd: null, category: "parfums-homme", type: "product", status: "pending", note: "Davidoff Cool Water — classique accessible", slug: null, variants: ["cool water parfum"] },
+  { keyword: "van cleef arpels parfum", volume: 170, kd: null, category: "parfums-femme", type: "product", status: "pending", note: "Van Cleef Arpege ou First — niche accessible", slug: null, variants: ["van cleef parfum"] },
+  { keyword: "dior sauvage parfum concentration", volume: 140, kd: null, category: "parfums-homme", type: "product", status: "done", note: "Dior Sauvage Parfum (concentration) — variante de la page existante", slug: "/parfums/dior-sauvage", variants: ["dior sauvage parfum", "sauvage parfum", "parfum sauvage"] },
+  // Opportunités blog
+  { keyword: "dupe parfum", volume: 140, kd: null, category: "blog", type: "blog", status: "pending", note: "IDEE BLOG — meilleurs dupes parfums en Algerie, angle fort anti-contrefacon", slug: null, variants: ["parfum dupes", "replica parfum"] },
+  { keyword: "parfum floral femme", volume: 170, kd: null, category: "blog", type: "blog", status: "pending", note: "Guide blog — parfums floraux femme populaires en DZ", slug: null, variants: ["parfums floraux femme", "parfums d ete femme", "parfum femme ete"] },
+  { keyword: "parfum dubai", volume: 140, kd: null, category: "parfums-orientaux", type: "seo", status: "pending", note: "Recherche parfums style Dubai — page orientaux ou section dedicee", slug: null, variants: [] },
+  { keyword: "oud parfum", volume: 110, kd: null, category: "parfums-orientaux", type: "seo", status: "pending", note: "Mot cle generique oud — cibler dans la page /parfums-orientaux", slug: null, variants: ["musc parfum", "musk parfum"] },
+  // Locaux DZ interessants
+  { keyword: "madawi parfum", volume: 110, kd: null, category: "local-dz", type: "competitor", status: "skip", note: "Marque orientale du Golfe, possible a referencer", slug: null, variants: [] },
+  { keyword: "sultan parfum", volume: 170, kd: null, category: "local-dz", type: "competitor", status: "skip", note: "Possible marque locale DZ ou orientale", slug: null, variants: [] },
+  { keyword: "must parfum algerie", volume: 110, kd: null, category: "local-dz", type: "competitor", status: "skip", note: "Must Algerie — marque locale, a surveiller", slug: null, variants: ["must algerie prix parfum", "must parfum femme"] },
+  // Skip definitifs volume 170-110
+  { keyword: "notino parfum", volume: 170, kd: null, category: null, type: "skip", status: "skip", note: "Concurrent e-commerce EU", slug: null, variants: [] },
+  { keyword: "druni parfum", volume: 170, kd: null, category: null, type: "skip", status: "skip", note: "Chaine de parfumerie espagnole — hors scope", slug: null, variants: [] },
+  { keyword: "xerjoff parfum", volume: 170, kd: null, category: null, type: "skip", status: "skip", note: "Ultra niche — prix 30 000 DA+, pas notre marche", slug: null, variants: [] },
+  { keyword: "roja parfum", volume: 170, kd: null, category: null, type: "skip", status: "skip", note: "Ultra niche Roja Dove — hors budget DZ", slug: null, variants: [] },
+  { keyword: "parfum smart collection", volume: 170, kd: null, category: null, type: "skip", status: "skip", note: "Copies bas de gamme — hors positionnement", slug: null, variants: ["smart parfum", "smart collection parfum", "collection smart parfum"] },
 ];
 
 const toAdd = newEntries.filter(e => !existingKw.has(e.keyword));
@@ -48,11 +44,12 @@ writeFileSync('data/keywords.json', JSON.stringify(merged, null, 2));
 const pending = merged.filter(k => k.status === 'pending');
 const done = merged.filter(k => k.status === 'done');
 const skip = merged.filter(k => k.status === 'skip');
-const goldPending = pending.filter(k => k.kd !== null && k.kd <= 15).sort((a,b) => b.volume - a.volume);
+const products = pending.filter(k => k.type === 'product');
+const blog = pending.filter(k => k.type === 'blog');
 
-console.log('Nouveaux ajoutés:', toAdd.length);
+console.log('Nouveaux ajoutes:', toAdd.length);
 console.log('Total keywords:', merged.length);
 console.log('DONE:', done.length, '| PENDING:', pending.length, '| SKIP:', skip.length);
+console.log('  dont produits a creer:', products.length);
+console.log('  dont articles blog:', blog.length);
 console.log('Volume total pending:', pending.reduce((s,k) => s + (k.volume || 0), 0).toLocaleString());
-console.log('\nTOP GOLD (KD<=15, pending):');
-goldPending.forEach(k => console.log('  KD' + k.kd + ' | vol' + k.volume + ' | ' + k.keyword));
