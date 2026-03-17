@@ -38,7 +38,11 @@
     "status": "done",
     "note": "Scandal Pour Homme JPG — KD 14 = GOLD",
     "slug": "/parfums/scandal-pour-homme-jean-paul-gaultier",
-    "variants": ["scandal parfum homme", "parfum jean paul gaultier homme", "jean paul gaultier parfum homme"]
+    "variants": [
+      "scandal parfum homme",
+      "parfum jean paul gaultier homme",
+      "jean paul gaultier parfum homme"
+    ]
   },
   {
     "keyword": "kayali parfum",
@@ -49,7 +53,9 @@
     "status": "done",
     "note": "Kayali Eden — déjà en catalogue",
     "slug": "/parfums/kayali-eden",
-    "variants": ["parfum kayali"]
+    "variants": [
+      "parfum kayali"
+    ]
   },
   {
     "keyword": "my way parfum",
@@ -60,7 +66,10 @@
     "status": "pending",
     "note": "Giorgio Armani My Way EDP — KD 15 = GOLD, à créer",
     "slug": null,
-    "variants": ["parfum my way", "armani my way"]
+    "variants": [
+      "parfum my way",
+      "armani my way"
+    ]
   },
   {
     "keyword": "valentino parfum",
@@ -71,7 +80,11 @@
     "status": "done",
     "note": "Born in Roma Valentino — déjà en catalogue",
     "slug": "/parfums/born-in-roma-valentino",
-    "variants": ["parfum valentino", "parfum valentino femme", "valentino parfum femme"]
+    "variants": [
+      "parfum valentino",
+      "parfum valentino femme",
+      "valentino parfum femme"
+    ]
   },
   {
     "keyword": "valentino parfum homme",
@@ -82,7 +95,9 @@
     "status": "pending",
     "note": "Valentino Uomo Intense — à créer, différent de Born in Roma",
     "slug": null,
-    "variants": ["parfum valentino homme"]
+    "variants": [
+      "parfum valentino homme"
+    ]
   },
   {
     "keyword": "dolce gabbana parfum",
@@ -93,7 +108,9 @@
     "status": "pending",
     "note": "D&G L'Impératrice ou Light Blue — à décider",
     "slug": null,
-    "variants": ["parfum dolce gabbana"]
+    "variants": [
+      "parfum dolce gabbana"
+    ]
   },
   {
     "keyword": "l impératrice parfum",
@@ -115,7 +132,11 @@
     "status": "done",
     "note": "Page marque JPG + produits existants",
     "slug": "/marques/jean-paul-gaultier",
-    "variants": ["parfum jean paul gaultier", "jean paul gaultier parfum femme", "parfum jean paul gaultier femme"]
+    "variants": [
+      "parfum jean paul gaultier",
+      "jean paul gaultier parfum femme",
+      "parfum jean paul gaultier femme"
+    ]
   },
   {
     "keyword": "louis vuitton parfum",
@@ -126,7 +147,10 @@
     "status": "skip",
     "note": "Hors catalogue — prix trop élevé pour le marché DZ",
     "slug": null,
-    "variants": ["parfum louis vuitton", "parfum louis vuitton homme"]
+    "variants": [
+      "parfum louis vuitton",
+      "parfum louis vuitton homme"
+    ]
   },
   {
     "keyword": "tom ford parfum",
@@ -148,7 +172,11 @@
     "status": "done",
     "note": "Delina Parfums de Marly — déjà en catalogue",
     "slug": "/parfums/delina-parfums-de-marly",
-    "variants": ["parfum delina", "parfums de marly", "parfum de marly"]
+    "variants": [
+      "parfum delina",
+      "parfums de marly",
+      "parfum de marly"
+    ]
   },
   {
     "keyword": "dior homme parfum",
@@ -170,7 +198,9 @@
     "status": "done",
     "note": "Franck Olivier — déjà en catalogue",
     "slug": "/parfums/franck-olivier",
-    "variants": ["parfum franck olivier"]
+    "variants": [
+      "parfum franck olivier"
+    ]
   },
   {
     "keyword": "parfum you",
@@ -181,7 +211,9 @@
     "status": "pending",
     "note": "Cacharel Yes I Am ou Giorgio Armani You — à identifier, KD 15 = GOLD",
     "slug": null,
-    "variants": ["you parfum"]
+    "variants": [
+      "you parfum"
+    ]
   },
   {
     "keyword": "good girl parfum",
@@ -203,7 +235,9 @@
     "status": "done",
     "note": "Invictus Paco Rabanne — déjà en catalogue",
     "slug": "/parfums/invictus-paco-rabanne",
-    "variants": ["paco rabanne parfum"]
+    "variants": [
+      "paco rabanne parfum"
+    ]
   },
   {
     "keyword": "la vie est belle parfum",
@@ -258,7 +292,10 @@
     "status": "done",
     "note": "Libre YSL + pages marque — à enrichir avec Homme Libre",
     "slug": "/parfums/libre-ysl",
-    "variants": ["yves saint laurent parfum homme", "parfum homme yves saint laurent"]
+    "variants": [
+      "yves saint laurent parfum homme",
+      "parfum homme yves saint laurent"
+    ]
   },
   {
     "keyword": "parfum libre",
@@ -269,7 +306,10 @@
     "status": "done",
     "note": "Libre YSL — déjà en catalogue",
     "slug": "/parfums/libre-ysl",
-    "variants": ["libre parfum", "parfum yves saint laurent"]
+    "variants": [
+      "libre parfum",
+      "parfum yves saint laurent"
+    ]
   },
   {
     "keyword": "alien parfum",
@@ -291,7 +331,11 @@
     "status": "pending",
     "note": "Miss Dior Blooming Bouquet ou Miss Dior EDP — à créer",
     "slug": null,
-    "variants": ["dior parfum femme", "parfum dior femme", "parfum femme dior"]
+    "variants": [
+      "dior parfum femme",
+      "parfum dior femme",
+      "parfum femme dior"
+    ]
   },
   {
     "keyword": "scandal parfum femme",
@@ -379,7 +423,9 @@
     "status": "pending",
     "note": "Lanvin Oxygène ou Cacharel Anais Anais — à identifier, KD 12",
     "slug": null,
-    "variants": ["parfum oxygène"]
+    "variants": [
+      "parfum oxygène"
+    ]
   },
   {
     "keyword": "hugo boss parfum",
@@ -401,7 +447,9 @@
     "status": "done",
     "note": "Narciso Rodriguez For Her — déjà en catalogue",
     "slug": "/parfums/narciso-rodriguez-for-her",
-    "variants": ["parfum narciso"]
+    "variants": [
+      "parfum narciso"
+    ]
   },
   {
     "keyword": "parfum elixir",
@@ -412,7 +460,9 @@
     "status": "pending",
     "note": "Hermès Twilly Elixir ou Armani My Way Elixir — KD 12, à identifier",
     "slug": null,
-    "variants": ["elixir parfum"]
+    "variants": [
+      "elixir parfum"
+    ]
   },
   {
     "keyword": "parfum prada femme",
@@ -423,7 +473,10 @@
     "status": "pending",
     "note": "Prada Paradoxe ou Prada Candy — KD 14, à créer",
     "slug": null,
-    "variants": ["prada parfum", "prada parfum femme"]
+    "variants": [
+      "prada parfum",
+      "prada parfum femme"
+    ]
   },
   {
     "keyword": "versace parfum",
@@ -434,7 +487,9 @@
     "status": "done",
     "note": "Versace Eros — déjà en catalogue",
     "slug": "/parfums/versace-eros",
-    "variants": ["parfum versace femme"]
+    "variants": [
+      "parfum versace femme"
+    ]
   },
   {
     "keyword": "mon paris parfum",
@@ -445,7 +500,9 @@
     "status": "pending",
     "note": "YSL Mon Paris — à créer",
     "slug": null,
-    "variants": ["parfum mon paris"]
+    "variants": [
+      "parfum mon paris"
+    ]
   },
   {
     "keyword": "meilleur parfum femme",
@@ -456,7 +513,9 @@
     "status": "pending",
     "note": "Article blog — top 10 parfums femme Algérie 2026",
     "slug": null,
-    "variants": ["le parfum le plus attirant pour femme"]
+    "variants": [
+      "le parfum le plus attirant pour femme"
+    ]
   },
   {
     "keyword": "meilleur parfum homme",
@@ -467,7 +526,9 @@
     "status": "done",
     "note": "Article blog existant",
     "slug": "/blog/meilleur-parfum-homme",
-    "variants": ["meilleur parfum pour homme"]
+    "variants": [
+      "meilleur parfum pour homme"
+    ]
   },
   {
     "keyword": "guerlain parfum",
@@ -488,7 +549,9 @@
     "status": "pending",
     "note": "Amouage Interlude ou Reflection — niche prestige, envisageable",
     "slug": null,
-    "variants": ["parfum amouage"]
+    "variants": [
+      "parfum amouage"
+    ]
   },
   {
     "keyword": "burberry parfum",
@@ -499,7 +562,9 @@
     "status": "pending",
     "note": "Burberry Hero ou Burberry London — à créer",
     "slug": null,
-    "variants": ["parfum burberry"]
+    "variants": [
+      "parfum burberry"
+    ]
   },
   {
     "keyword": "jimmy choo parfum",
@@ -510,7 +575,9 @@
     "status": "pending",
     "note": "Jimmy Choo EDP — à créer",
     "slug": null,
-    "variants": ["parfum jimmy choo"]
+    "variants": [
+      "parfum jimmy choo"
+    ]
   },
   {
     "keyword": "kenzo parfum",
@@ -521,7 +588,10 @@
     "status": "pending",
     "note": "Kenzo L'Eau par Kenzo ou Kenzo Homme — à créer",
     "slug": null,
-    "variants": ["kenzo parfum homme", "parfum kenzo homme"]
+    "variants": [
+      "kenzo parfum homme",
+      "parfum kenzo homme"
+    ]
   },
   {
     "keyword": "parfum chloe",
@@ -543,7 +613,13 @@
     "status": "skip",
     "note": "Hors catalogue — marque low-cost pas cohérente avec positionnement",
     "slug": null,
-    "variants": ["zara parfum femme", "zara parfum homme", "parfum zara", "parfum zara femme", "parfum zara homme"]
+    "variants": [
+      "zara parfum femme",
+      "zara parfum homme",
+      "parfum zara",
+      "parfum zara femme",
+      "parfum zara homme"
+    ]
   },
   {
     "keyword": "sephora parfum",
@@ -564,5 +640,441 @@
     "status": "skip",
     "note": "Marque non proposée + KD élevé",
     "slug": null
+  },
+  {
+    "keyword": "si parfum",
+    "volume": 480,
+    "kd": 14,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Armani Si EDP — KD 14 GOLD",
+    "slug": null,
+    "variants": [
+      "parfum si"
+    ]
+  },
+  {
+    "keyword": "elie saab parfum",
+    "volume": 480,
+    "kd": 17,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Elie Saab Le Parfum — KD 17",
+    "slug": null,
+    "variants": [
+      "eli saab parfum",
+      "parfum elie saab",
+      "elie saab le parfum"
+    ]
+  },
+  {
+    "keyword": "tresor parfum",
+    "volume": 480,
+    "kd": 17,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Lancôme Trésor EDP — KD 17",
+    "slug": null,
+    "variants": [
+      "parfum tresor",
+      "trésor parfum",
+      "parfum la nuit tresor"
+    ]
+  },
+  {
+    "keyword": "dior jadore parfum",
+    "volume": 480,
+    "kd": 17,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Dior J'Adore EDP — KD 17",
+    "slug": null,
+    "variants": [
+      "parfum j adore",
+      "parfum j adore dior",
+      "parfum jadore dior"
+    ]
+  },
+  {
+    "keyword": "parfum givenchy femme",
+    "volume": 480,
+    "kd": 16,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Givenchy Irresistible ou L'Interdit — KD 16",
+    "slug": null,
+    "variants": [
+      "givenchy parfum femme",
+      "parfum givenchy",
+      "parfum irrésistible"
+    ]
+  },
+  {
+    "keyword": "parfum lanvin",
+    "volume": 480,
+    "kd": 14,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Lanvin Eclat d'Arpege — KD 14",
+    "slug": null,
+    "variants": [
+      "lanvin parfum"
+    ]
+  },
+  {
+    "keyword": "marc jacobs parfum",
+    "volume": 480,
+    "kd": 19,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Marc Jacobs Daisy EDP — KD 19",
+    "slug": null,
+    "variants": [
+      "parfum marc jacob"
+    ]
+  },
+  {
+    "keyword": "nishane parfum",
+    "volume": 480,
+    "kd": 17,
+    "category": "parfums-orientaux",
+    "type": "product",
+    "status": "pending",
+    "note": "Nishane Hacivat — niche turc premium, volume interessant",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "creed parfum",
+    "volume": 480,
+    "kd": 20,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Creed Aventus — niche prestige envisageable",
+    "slug": null,
+    "variants": [
+      "parfum creed"
+    ]
+  },
+  {
+    "keyword": "stronger with you parfum",
+    "volume": 390,
+    "kd": 13,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Armani Stronger With You Intensely — KD 13 GOLD",
+    "slug": null,
+    "variants": [
+      "parfum stronger with you"
+    ]
+  },
+  {
+    "keyword": "5eme avenue parfum",
+    "volume": 390,
+    "kd": 12,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Elizabeth Arden 5th Avenue — KD 12 GOLD, tres populaire en DZ",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "mont blanc parfum femme",
+    "volume": 390,
+    "kd": 10,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Mont Blanc Lady Emblem — KD 10 JACKPOT",
+    "slug": null,
+    "variants": [
+      "parfum mont blanc femme",
+      "parfum mont blanc"
+    ]
+  },
+  {
+    "keyword": "jean patou parfum",
+    "volume": 390,
+    "kd": 13,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Jean Patou Joy EDP — KD 13",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "lanvin parfum femme",
+    "volume": 390,
+    "kd": 12,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Lanvin Eclat ou Jeanne Lanvin — KD 12",
+    "slug": null,
+    "variants": [
+      "lanvin parfum"
+    ]
+  },
+  {
+    "keyword": "mauboussin parfum",
+    "volume": 390,
+    "kd": 19,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Mauboussin Pour Elle — KD 19",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "parfum l interdit",
+    "volume": 390,
+    "kd": 20,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "Givenchy L'Interdit EDP",
+    "slug": null,
+    "variants": [
+      "parfum interdit",
+      "l interdit parfum",
+      "interdit parfum",
+      "l homme ideal parfum"
+    ]
+  },
+  {
+    "keyword": "givenchy parfum homme",
+    "volume": 390,
+    "kd": 21,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Givenchy Gentleman EDP — KD 21",
+    "slug": null,
+    "variants": [
+      "parfum givenchy homme"
+    ]
+  },
+  {
+    "keyword": "acqua di gio parfum",
+    "volume": 320,
+    "kd": 10,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Armani Acqua di Gio Parfum — KD 10 JACKPOT",
+    "slug": null,
+    "variants": [
+      "acqua di gio eau de parfum"
+    ]
+  },
+  {
+    "keyword": "la nuit de l homme le parfum",
+    "volume": 320,
+    "kd": 12,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "YSL La Nuit de L'Homme Le Parfum — KD 12 GOLD",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "hugo boss parfum homme",
+    "volume": 320,
+    "kd": 13,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "done",
+    "note": "Hugo Boss Bottled — deja en catalogue",
+    "slug": "/parfums/hugo-boss-bottled",
+    "variants": [
+      "hugo boss homme parfum",
+      "parfum boss homme"
+    ]
+  },
+  {
+    "keyword": "layton parfums de marly",
+    "volume": 320,
+    "kd": null,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Layton Parfums de Marly — niche prestige homme",
+    "slug": null,
+    "variants": [
+      "parfums de marly layton"
+    ]
+  },
+  {
+    "keyword": "armani code parfum",
+    "volume": 480,
+    "kd": 11,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "done",
+    "note": "Armani Code — deja en catalogue",
+    "slug": "/parfums/armani-code",
+    "variants": []
+  },
+  {
+    "keyword": "parfum numidia lezoul",
+    "volume": 480,
+    "kd": 27,
+    "category": "local-dz",
+    "type": "competitor",
+    "status": "skip",
+    "note": "CONCURRENT LOCAL ALGERIEN — 480 recherches, a surveiller",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "emmanuelle jane parfum",
+    "volume": 390,
+    "kd": 12,
+    "category": "local-dz",
+    "type": "competitor",
+    "status": "skip",
+    "note": "Marque algerienne populaire — page alternative possible plus tard",
+    "slug": null,
+    "variants": [
+      "emmanuel jane parfum",
+      "parfum emmanuelle jane"
+    ]
+  },
+  {
+    "keyword": "chic parfum blida",
+    "volume": 210,
+    "kd": null,
+    "category": "local-dz",
+    "type": "competitor",
+    "status": "skip",
+    "note": "CONCURRENT DIRECT a Blida — a surveiller de pres",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "moon parfum",
+    "volume": 390,
+    "kd": 16,
+    "category": "local-dz",
+    "type": "competitor",
+    "status": "skip",
+    "note": "Possible marque locale DZ",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "elite parfum",
+    "volume": 390,
+    "kd": 10,
+    "category": "local-dz",
+    "type": "competitor",
+    "status": "skip",
+    "note": "Possible marque locale DZ — KD 10 mais identifier avant",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "adopt parfum",
+    "volume": 480,
+    "kd": 45,
+    "category": null,
+    "type": "skip",
+    "status": "skip",
+    "note": "Modele abonnement, hors scope + KD 45",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "victoria secret parfum",
+    "volume": 590,
+    "kd": 23,
+    "category": null,
+    "type": "skip",
+    "status": "skip",
+    "note": "Retailer US, hors catalogue",
+    "slug": null,
+    "variants": [
+      "parfum very sexy",
+      "very sexy parfum"
+    ]
+  },
+  {
+    "keyword": "parfum baccarat rouge",
+    "volume": 480,
+    "kd": 56,
+    "category": null,
+    "type": "skip",
+    "status": "skip",
+    "note": "KD 56 — trop competitif, MFK ultra-premium",
+    "slug": null,
+    "variants": []
+  },
+  {
+    "keyword": "yves rocher parfum",
+    "volume": 590,
+    "kd": 23,
+    "category": null,
+    "type": "skip",
+    "status": "skip",
+    "note": "Marque non referencee",
+    "slug": null,
+    "variants": [
+      "parfum yves rocher",
+      "yves rocher parfum femme"
+    ]
+  },
+  {
+    "keyword": "mont blanc parfum homme",
+    "volume": 210,
+    "kd": null,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Mont Blanc Legend — KD a verifier",
+    "slug": null,
+    "variants": [
+      "parfum homme mont blanc"
+    ]
+  },
+  {
+    "keyword": "azzaro parfum homme",
+    "volume": 390,
+    "kd": 27,
+    "category": "parfums-homme",
+    "type": "product",
+    "status": "pending",
+    "note": "Azzaro Chrome ou Wanted — KD 27",
+    "slug": null,
+    "variants": [
+      "azzaro parfum",
+      "parfum azzaro",
+      "parfum azzaro homme"
+    ]
+  },
+  {
+    "keyword": "parfum mon paris",
+    "volume": 590,
+    "kd": 17,
+    "category": "parfums-femme",
+    "type": "product",
+    "status": "pending",
+    "note": "YSL Mon Paris EDP — KD 17",
+    "slug": null,
+    "variants": [
+      "mon paris parfum"
+    ]
   }
 ]
