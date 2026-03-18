@@ -13,6 +13,12 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Téléphone :** 06 99 41 85 69
 - **WhatsApp (FR) :** +33782214993
 
+### État du catalogue (mars 2026)
+- **107 produits** dans `data/products.json` (38 homme, 64 femme, 5 oriental)
+- **9 articles blog** dans `data/blog.ts`
+- **169 keywords SEMrush** dans `data/keywords.json` — 127 done, 42 skip, 0 pending
+- **84+ images** dans `/public/images/products/` (Fragrantica CDN)
+
 ---
 
 ## Règles SEO — OBLIGATOIRES
@@ -90,7 +96,7 @@ Chaque produit DOIT avoir ces champs :
   "brand": "Marque",
   "brandSlug": "slug-marque",
   "category": "parfums-homme | parfums-femme | parfums-orientaux",
-  "gender": "homme | femme | mixte",
+  "gender": "homme | femme | unisexe",
   "concentration": "EDP | EDT | Parfum",
   "volume": "100ml",
   "price": 15900,
@@ -107,8 +113,8 @@ Chaque produit DOIT avoir ces champs :
   "sillage": 4,
   "inStock": true,
   "featured": false,
-  "related": ["slug1", "slug2", "slug3"],
-  "occasions": []
+  "isOriental": false,
+  "related": ["slug1", "slug2", "slug3"]
 }
 ```
 
@@ -142,6 +148,50 @@ Chaque produit DOIT avoir ces champs :
 3. Vérifier que `related[]` pointe vers des slugs existants
 4. Lancer `npx tsc --noEmit` pour vérifier les types
 5. `git add -A && git commit && git push` → Vercel redéploie automatiquement
+
+### Scripts disponibles dans `/scripts/`
+
+| Script | Rôle |
+|---|---|
+| `add-products-batch1.mjs` | Premiers 15 produits (avant batches A-E) |
+| `add-products-batchA.mjs` | Produits vol 720→480 (15 produits) |
+| `add-products-batchB.mjs` | Produits vol 390→170 (15 produits) |
+| `add-products-batchC.mjs` | Produits vol 170→110 (15 produits) |
+| `add-products-batchD.mjs` | Produits vol 110→90 (15 produits) |
+| `add-products-batchE.mjs` | Produits vol 90→70 (8 produits) |
+| `download-images-batch2.mjs` | Télécharge 67 images Fragrantica → `/public/images/products/` |
+| `update-keywords.mjs` | Met à jour `data/keywords.json` (status done/skip + slug) |
+
+### Workflow keywords SEMrush (`data/keywords.json`)
+
+Chaque keyword a : `{ keyword, volume, kd, category, type, status, note, slug }`
+- `status` : `"pending"` → `"done"` | `"skip"`
+- `type` : `"product"` (créer page produit) | `"blog"` (créer article)
+- `slug` : URL finale une fois la page créée
+- Pour ajouter un batch de keywords → copier le pattern de `update-keywords.mjs`
+
+### Workflow articles blog (`data/blog.ts`)
+
+Interface TypeScript :
+```ts
+{ slug, title, metaTitle, metaDescription, publishedAt, category, readTime, excerpt, content }
+```
+- `category` : `"conseils"` | `"tendances"` | `"guides"` | `"actualites"`
+- `content` : HTML pur (pas de Markdown), minimum 1000 mots
+- Ajouter avant le `];` fermant du tableau `articles`
+- Toujours `publishedAt: "2026-..."` (jamais 2025)
+
+### Fragrantica CDN — trouver un ID
+
+URL image : `https://fimgs.net/mdimg/perfume/375x500.{ID}.jpg`
+- Aller sur fragrantica.com → page du parfum → inspecter l'image → récupérer l'ID numérique
+- Ou chercher via l'URL Fragrantica : `fragrantica.com/perfume/Brand/Name-{ID}.html`
+
+### Règles champs critiques
+- `gender` : `"homme"` | `"femme"` | `"unisexe"` (pas "mixte")
+- `isOriental: true` UNIQUEMENT si `category: "parfums-orientaux"`
+- `category` : `"parfums-homme"` | `"parfums-femme"` | `"parfums-orientaux"` (pas de "parfums-mixte")
+- `related[]` : toujours 3 slugs qui existent réellement dans products.json
 
 ---
 
