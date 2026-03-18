@@ -82,6 +82,19 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - Images produits : Fragrantica CDN ou téléchargées en local dans `/public/images/products/`
 - Next.js `<Image fill>` : le parent doit avoir `position: relative` ET une hauteur définie
 
+### ⚠️ Fragrantica — règle OBLIGATOIRE pour les IDs
+
+**JAMAIS estimer ou déduire un ID Fragrantica.** Les IDs ne sont pas chronologiques.
+
+**Méthode obligatoire pour trouver un ID :**
+1. Aller sur `fragrantica.com/perfume/[Marque]/[Nom]-[ID].html`
+2. Chercher via Google : `site:fragrantica.com "[Nom du parfum]"`
+3. L'ID est le numéro à la fin de l'URL : `.../Shalimar-Eau-de-Parfum-**53**.html`
+4. **Ne jamais mettre un ID dans un script sans avoir vérifié l'URL source**
+5. Toujours commenter l'URL source dans le script : `// fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Parfum-53.html`
+
+**Pourquoi :** En mars 2026, 11 images sur 13 du batch3 étaient fausses car les IDs avaient été estimés. Ombre Nomade (ID estimé 58498, vrai ID 49755), Shalimar (estimé 5, vrai 53), etc.
+
 ---
 
 ## Structure données produit (products.json)
