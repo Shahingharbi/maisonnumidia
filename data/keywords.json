@@ -144,9 +144,9 @@
     "kd": 38,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Hors catalogue — prix trop élevé pour le marché DZ [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "LV Ombre Nomade",
+    "slug": "/parfums/louis-vuitton-ombre-nomade",
     "variants": [
       "parfum louis vuitton",
       "parfum louis vuitton homme"
@@ -158,9 +158,9 @@
     "kd": 24,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Hors catalogue pour l'instant — niche très cher [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Tom Ford Black Orchid",
+    "slug": "/parfums/tom-ford-black-orchid",
     "variants": []
   },
   {
@@ -536,9 +536,9 @@
     "kd": 37,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "KD 37 + prix très élevé pour le marché DZ [à référencer]",
-    "slug": null
+    "status": "done",
+    "note": "Guerlain Shalimar",
+    "slug": "/parfums/guerlain-shalimar"
   },
   {
     "keyword": "amouage parfum",
@@ -610,9 +610,9 @@
     "kd": 31,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Hors catalogue — marque low-cost pas cohérente avec positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Zara Rose Gold",
+    "slug": "/parfums/zara-rose-gold",
     "variants": [
       "zara parfum femme",
       "zara parfum homme",
@@ -637,9 +637,9 @@
     "kd": 29,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Marque non proposée + KD élevé [à référencer]",
-    "slug": null
+    "status": "done",
+    "note": "Yves Rocher Evidence (existant)",
+    "slug": "/parfums/evidence-yves-rocher"
   },
   {
     "keyword": "si parfum",
@@ -992,9 +992,9 @@
     "kd": 45,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Modele abonnement, hors scope + KD 45 [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Adopt Narcotique",
+    "slug": "/parfums/adopt-narcotique",
     "variants": []
   },
   {
@@ -1003,9 +1003,9 @@
     "kd": 23,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Retailer US, hors catalogue [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "VS Bombshell",
+    "slug": "/parfums/bombshell-victoria-secret",
     "variants": [
       "parfum very sexy",
       "very sexy parfum"
@@ -1017,9 +1017,9 @@
     "kd": 56,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "KD 56 — trop competitif, MFK ultra-premium [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "MFK Baccarat Rouge 540",
+    "slug": "/parfums/baccarat-rouge-540",
     "variants": []
   },
   {
@@ -1028,9 +1028,9 @@
     "kd": 23,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Marque non referencee [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Yves Rocher Evidence (existant)",
+    "slug": "/parfums/evidence-yves-rocher",
     "variants": [
       "parfum yves rocher",
       "yves rocher parfum femme"
@@ -1343,9 +1343,9 @@
     "kd": null,
     "category": "local-dz",
     "type": "competitor",
-    "status": "pending",
-    "note": "Marque orientale du Golfe, possible a referencer [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Al Haramain Madawi",
+    "slug": "/parfums/madawi-al-haramain",
     "variants": []
   },
   {
@@ -1354,9 +1354,9 @@
     "kd": null,
     "category": "local-dz",
     "type": "competitor",
-    "status": "pending",
-    "note": "Possible marque locale DZ ou orientale [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Sultan Al Oud",
+    "slug": "/parfums/sultan-al-oud",
     "variants": []
   },
   {
@@ -1401,9 +1401,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Ultra niche — prix 30 000 DA+, pas notre marche [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Xerjoff Naxos",
+    "slug": "/parfums/xerjoff-naxos",
     "variants": []
   },
   {
@@ -1412,9 +1412,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Ultra niche Roja Dove — hors budget DZ [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Roja Dove Elysium",
+    "slug": "/parfums/roja-dove-elysium",
     "variants": []
   },
   {
@@ -2028,9 +2028,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "PDM Pegasus — ultra niche 20 000 DA+, hors budget DZ [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "PDM Pegasus",
+    "slug": "/parfums/pegasus-parfums-de-marly",
     "variants": [
       "pegasus parfum de marly"
     ]
@@ -2041,9 +2041,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Pierre Cardin — marque bas de gamme, hors positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Pierre Cardin Pour Monsieur",
+    "slug": "/parfums/pierre-cardin-pour-monsieur",
     "variants": []
   },
   {
@@ -2074,9 +2074,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Victoria's Secret — hors scope positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "VS Bombshell",
+    "slug": "/parfums/bombshell-victoria-secret",
     "variants": []
   },
   {
@@ -2085,9 +2085,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Antonio Banderas — celebrity bas de gamme, hors positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Antonio Banderas The Secret",
+    "slug": "/parfums/antonio-banderas-the-secret",
     "variants": []
   },
   {
@@ -2096,9 +2096,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Shakira — celebrity bas de gamme, hors positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Shakira Dance",
+    "slug": "/parfums/shakira-dance",
     "variants": []
   },
   {
@@ -2107,9 +2107,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Whisky Silver — marque vieillissante, hors positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Whisky Silver Evaflor",
+    "slug": "/parfums/whisky-silver-evaflor",
     "variants": [
       "parfum whisky silver"
     ]
@@ -2120,9 +2120,9 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "pending",
-    "note": "Zara — fast fashion, pas notre positionnement [à référencer]",
-    "slug": null,
+    "status": "done",
+    "note": "Zara Rose Gold",
+    "slug": "/parfums/zara-rose-gold",
     "variants": [
       "parfum zara rose",
       "zara wonder rose parfum"
