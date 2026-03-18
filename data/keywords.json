@@ -78,8 +78,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Born in Roma Valentino — déjà en catalogue",
-    "slug": "/parfums/born-in-roma-valentino",
+    "note": "Page marque Valentino",
+    "slug": "/marques/valentino",
     "variants": [
       "parfum valentino",
       "parfum valentino femme",
@@ -93,8 +93,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Valentino Uomo",
-    "slug": "/parfums/valentino-uomo",
+    "note": "Page marque homme Valentino",
+    "slug": "/parfums-homme/valentino",
     "variants": [
       "parfum valentino homme"
     ]
@@ -106,8 +106,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "D&G Light Blue",
-    "slug": "/parfums/dolce-gabbana-light-blue",
+    "note": "Page marque D&G",
+    "slug": "/marques/dolce-gabbana",
     "variants": [
       "parfum dolce gabbana"
     ]
@@ -145,8 +145,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "LV Ombre Nomade",
-    "slug": "/parfums/louis-vuitton-ombre-nomade",
+    "note": "Page marque Louis Vuitton",
+    "slug": "/marques/louis-vuitton",
     "variants": [
       "parfum louis vuitton",
       "parfum louis vuitton homme"
@@ -159,8 +159,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "Tom Ford Black Orchid",
-    "slug": "/parfums/tom-ford-black-orchid",
+    "note": "Page marque Tom Ford",
+    "slug": "/marques/tom-ford",
     "variants": []
   },
   {
@@ -196,8 +196,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Franck Olivier — déjà en catalogue",
-    "slug": "/parfums/franck-olivier",
+    "note": "Page marque Franck Olivier",
+    "slug": "/marques/franck-olivier",
     "variants": [
       "parfum franck olivier"
     ]
@@ -290,8 +290,8 @@
     "category": "parfums-homme",
     "type": "brand",
     "status": "done",
-    "note": "Libre YSL + pages marque — à enrichir avec Homme Libre",
-    "slug": "/parfums/libre-ysl",
+    "note": "Page marque homme YSL",
+    "slug": "/parfums-homme/ysl",
     "variants": [
       "yves saint laurent parfum homme",
       "parfum homme yves saint laurent"
@@ -366,8 +366,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "CK One",
-    "slug": "/parfums/ck-one",
+    "note": "Page marque CK",
+    "slug": "/marques/calvin-klein",
     "variants": []
   },
   {
@@ -434,8 +434,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Hugo Boss Bottled — déjà en catalogue",
-    "slug": "/parfums/hugo-boss-bottled",
+    "note": "Page marque Hugo Boss",
+    "slug": "/marques/hugo-boss",
     "variants": []
   },
   {
@@ -445,8 +445,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Narciso Rodriguez For Her — déjà en catalogue",
-    "slug": "/parfums/narciso-rodriguez-for-her",
+    "note": "Page marque Narciso Rodriguez",
+    "slug": "/marques/narciso-rodriguez",
     "variants": [
       "parfum narciso"
     ]
@@ -471,8 +471,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Prada Candy",
-    "slug": "/parfums/prada-candy",
+    "note": "Page marque femme Prada",
+    "slug": "/parfums-femme/prada",
     "variants": [
       "prada parfum",
       "prada parfum femme"
@@ -485,8 +485,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Versace Eros — déjà en catalogue",
-    "slug": "/parfums/versace-eros",
+    "note": "Page marque Versace",
+    "slug": "/marques/versace",
     "variants": [
       "parfum versace femme"
     ]
@@ -537,8 +537,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "Guerlain Shalimar",
-    "slug": "/parfums/guerlain-shalimar"
+    "note": "Page marque Guerlain",
+    "slug": "/marques/guerlain"
   },
   {
     "keyword": "amouage parfum",
@@ -547,8 +547,8 @@
     "category": "parfums-orientaux",
     "type": "product",
     "status": "done",
-    "note": "Amouage Reflection Man",
-    "slug": "/parfums/amouage-reflection",
+    "note": "Page marque Amouage",
+    "slug": "/marques/amouage",
     "variants": [
       "parfum amouage"
     ]
@@ -560,8 +560,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Burberry Brit",
-    "slug": "/parfums/burberry-brit-homme",
+    "note": "Page marque Burberry",
+    "slug": "/marques/burberry",
     "variants": [
       "parfum burberry"
     ]
@@ -573,8 +573,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Jimmy Choo Femme EDP",
-    "slug": "/parfums/jimmy-choo-femme",
+    "note": "Page marque Jimmy Choo",
+    "slug": "/marques/jimmy-choo",
     "variants": [
       "parfum jimmy choo"
     ]
@@ -586,8 +586,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Kenzo L'Eau",
-    "slug": "/parfums/kenzo-l-eau-homme",
+    "note": "Page marque Kenzo",
+    "slug": "/marques/kenzo",
     "variants": [
       "kenzo parfum homme",
       "parfum kenzo homme"
@@ -600,8 +600,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Chloé Signature",
-    "slug": "/parfums/chloe-signature",
+    "note": "Page marque Chloé",
+    "slug": "/marques/chloe",
     "variants": []
   },
   {
@@ -611,8 +611,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "Zara Rose Gold",
-    "slug": "/parfums/zara-rose-gold",
+    "note": "Page marque Zara",
+    "slug": "/marques/zara",
     "variants": [
       "zara parfum femme",
       "zara parfum homme",
@@ -638,8 +638,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "Yves Rocher Evidence (existant)",
-    "slug": "/parfums/evidence-yves-rocher"
+    "note": "Page marque Yves Rocher",
+    "slug": "/marques/yves-rocher"
   },
   {
     "keyword": "si parfum",
@@ -661,8 +661,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Elie Saab Le Parfum",
-    "slug": "/parfums/elie-saab-le-parfum",
+    "note": "Page marque Elie Saab",
+    "slug": "/marques/elie-saab",
     "variants": [
       "eli saab parfum",
       "parfum elie saab",
@@ -706,8 +706,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Givenchy Irresistible",
-    "slug": "/parfums/givenchy-irresistible",
+    "note": "Page marque femme Givenchy",
+    "slug": "/parfums-femme/givenchy",
     "variants": [
       "givenchy parfum femme",
       "parfum givenchy",
@@ -721,8 +721,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Éclat d'Arpège Lanvin",
-    "slug": "/parfums/eclat-arpege-lanvin",
+    "note": "Page marque Lanvin",
+    "slug": "/marques/lanvin",
     "variants": [
       "lanvin parfum"
     ]
@@ -734,8 +734,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Marc Jacobs Daisy",
-    "slug": "/parfums/marc-jacobs-daisy",
+    "note": "Page marque Marc Jacobs",
+    "slug": "/marques/marc-jacobs",
     "variants": [
       "parfum marc jacob"
     ]
@@ -747,8 +747,8 @@
     "category": "parfums-orientaux",
     "type": "product",
     "status": "done",
-    "note": "Nishane Ani",
-    "slug": "/parfums/nishane-ani",
+    "note": "Page marque Nishane",
+    "slug": "/marques/nishane",
     "variants": []
   },
   {
@@ -758,8 +758,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Creed Aventus",
-    "slug": "/parfums/creed-aventus",
+    "note": "Page marque Creed",
+    "slug": "/marques/creed",
     "variants": [
       "parfum creed"
     ]
@@ -795,8 +795,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Mont Blanc Lady Emblem",
-    "slug": "/parfums/mont-blanc-lady-emblem",
+    "note": "Page marque femme Mont Blanc",
+    "slug": "/parfums-femme/mont-blanc",
     "variants": [
       "parfum mont blanc femme",
       "parfum mont blanc"
@@ -809,8 +809,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Joy Jean Patou",
-    "slug": "/parfums/joy-jean-patou",
+    "note": "Page marque Jean Patou",
+    "slug": "/marques/jean-patou",
     "variants": []
   },
   {
@@ -820,8 +820,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Éclat d'Arpège Lanvin",
-    "slug": "/parfums/eclat-arpege-lanvin",
+    "note": "Page marque femme Lanvin",
+    "slug": "/parfums-femme/lanvin",
     "variants": [
       "lanvin parfum"
     ]
@@ -833,8 +833,8 @@
     "category": "parfums-femme",
     "type": "product",
     "status": "done",
-    "note": "Mauboussin Pour Elle",
-    "slug": "/parfums/mauboussin-pour-elle",
+    "note": "Page marque Mauboussin",
+    "slug": "/marques/mauboussin",
     "variants": []
   },
   {
@@ -860,8 +860,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Givenchy Gentleman",
-    "slug": "/parfums/givenchy-gentleman",
+    "note": "Page marque homme Givenchy",
+    "slug": "/parfums-homme/givenchy",
     "variants": [
       "parfum givenchy homme"
     ]
@@ -897,8 +897,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Hugo Boss Bottled — deja en catalogue",
-    "slug": "/parfums/hugo-boss-bottled",
+    "note": "Page marque homme Hugo Boss",
+    "slug": "/parfums-homme/hugo-boss",
     "variants": [
       "hugo boss homme parfum",
       "parfum boss homme"
@@ -993,8 +993,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "Adopt Narcotique",
-    "slug": "/parfums/adopt-narcotique",
+    "note": "Page marque Adopt",
+    "slug": "/marques/adopt-mon-parfum",
     "variants": []
   },
   {
@@ -1004,8 +1004,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "VS Bombshell",
-    "slug": "/parfums/bombshell-victoria-secret",
+    "note": "Page marque Victoria's Secret",
+    "slug": "/marques/victorias-secret",
     "variants": [
       "parfum very sexy",
       "very sexy parfum"
@@ -1029,8 +1029,8 @@
     "category": null,
     "type": "skip",
     "status": "done",
-    "note": "Yves Rocher Evidence (existant)",
-    "slug": "/parfums/evidence-yves-rocher",
+    "note": "Page marque Yves Rocher",
+    "slug": "/marques/yves-rocher",
     "variants": [
       "parfum yves rocher",
       "yves rocher parfum femme"
@@ -1043,8 +1043,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Mont Blanc Explorer",
-    "slug": "/parfums/mont-blanc-explorer",
+    "note": "Page marque homme Mont Blanc",
+    "slug": "/parfums-homme/mont-blanc",
     "variants": [
       "parfum homme mont blanc"
     ]
@@ -1056,8 +1056,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Azzaro Chrome",
-    "slug": "/parfums/azzaro-chrome",
+    "note": "Page marque homme Azzaro",
+    "slug": "/parfums-homme/azzaro",
     "variants": [
       "azzaro parfum",
       "parfum azzaro",
@@ -1084,8 +1084,8 @@
     "category": "parfums-homme",
     "type": "product",
     "status": "done",
-    "note": "Givenchy Gentleman",
-    "slug": "/parfums/givenchy-gentleman",
+    "note": "Page marque homme Givenchy",
+    "slug": "/parfums-homme/givenchy",
     "variants": [
       "gentleman parfum",
       "parfum gentelmen"
