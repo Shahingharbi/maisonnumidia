@@ -144,8 +144,8 @@
     "kd": 38,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Hors catalogue — prix trop élevé pour le marché DZ",
+    "status": "pending",
+    "note": "Hors catalogue — prix trop élevé pour le marché DZ [à référencer]",
     "slug": null,
     "variants": [
       "parfum louis vuitton",
@@ -158,8 +158,8 @@
     "kd": 24,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Hors catalogue pour l'instant — niche très cher",
+    "status": "pending",
+    "note": "Hors catalogue pour l'instant — niche très cher [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -536,8 +536,8 @@
     "kd": 37,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "KD 37 + prix très élevé pour le marché DZ",
+    "status": "pending",
+    "note": "KD 37 + prix très élevé pour le marché DZ [à référencer]",
     "slug": null
   },
   {
@@ -610,8 +610,8 @@
     "kd": 31,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Hors catalogue — marque low-cost pas cohérente avec positionnement",
+    "status": "pending",
+    "note": "Hors catalogue — marque low-cost pas cohérente avec positionnement [à référencer]",
     "slug": null,
     "variants": [
       "zara parfum femme",
@@ -637,8 +637,8 @@
     "kd": 29,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Marque non proposée + KD élevé",
+    "status": "pending",
+    "note": "Marque non proposée + KD élevé [à référencer]",
     "slug": null
   },
   {
@@ -992,8 +992,8 @@
     "kd": 45,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Modele abonnement, hors scope + KD 45",
+    "status": "pending",
+    "note": "Modele abonnement, hors scope + KD 45 [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -1003,8 +1003,8 @@
     "kd": 23,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Retailer US, hors catalogue",
+    "status": "pending",
+    "note": "Retailer US, hors catalogue [à référencer]",
     "slug": null,
     "variants": [
       "parfum very sexy",
@@ -1017,8 +1017,8 @@
     "kd": 56,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "KD 56 — trop competitif, MFK ultra-premium",
+    "status": "pending",
+    "note": "KD 56 — trop competitif, MFK ultra-premium [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -1028,8 +1028,8 @@
     "kd": 23,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Marque non referencee",
+    "status": "pending",
+    "note": "Marque non referencee [à référencer]",
     "slug": null,
     "variants": [
       "parfum yves rocher",
@@ -1343,8 +1343,8 @@
     "kd": null,
     "category": "local-dz",
     "type": "competitor",
-    "status": "skip",
-    "note": "Marque orientale du Golfe, possible a referencer",
+    "status": "pending",
+    "note": "Marque orientale du Golfe, possible a referencer [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -1354,8 +1354,8 @@
     "kd": null,
     "category": "local-dz",
     "type": "competitor",
-    "status": "skip",
-    "note": "Possible marque locale DZ ou orientale",
+    "status": "pending",
+    "note": "Possible marque locale DZ ou orientale [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -1401,8 +1401,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Ultra niche — prix 30 000 DA+, pas notre marche",
+    "status": "pending",
+    "note": "Ultra niche — prix 30 000 DA+, pas notre marche [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -1412,8 +1412,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Ultra niche Roja Dove — hors budget DZ",
+    "status": "pending",
+    "note": "Ultra niche Roja Dove — hors budget DZ [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -2028,8 +2028,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "PDM Pegasus — ultra niche 20 000 DA+, hors budget DZ",
+    "status": "pending",
+    "note": "PDM Pegasus — ultra niche 20 000 DA+, hors budget DZ [à référencer]",
     "slug": null,
     "variants": [
       "pegasus parfum de marly"
@@ -2041,8 +2041,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Pierre Cardin — marque bas de gamme, hors positionnement",
+    "status": "pending",
+    "note": "Pierre Cardin — marque bas de gamme, hors positionnement [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -2074,8 +2074,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Victoria's Secret — hors scope positionnement",
+    "status": "pending",
+    "note": "Victoria's Secret — hors scope positionnement [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -2085,8 +2085,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Antonio Banderas — celebrity bas de gamme, hors positionnement",
+    "status": "pending",
+    "note": "Antonio Banderas — celebrity bas de gamme, hors positionnement [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -2096,8 +2096,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Shakira — celebrity bas de gamme, hors positionnement",
+    "status": "pending",
+    "note": "Shakira — celebrity bas de gamme, hors positionnement [à référencer]",
     "slug": null,
     "variants": []
   },
@@ -2107,8 +2107,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Whisky Silver — marque vieillissante, hors positionnement",
+    "status": "pending",
+    "note": "Whisky Silver — marque vieillissante, hors positionnement [à référencer]",
     "slug": null,
     "variants": [
       "parfum whisky silver"
@@ -2120,8 +2120,8 @@
     "kd": null,
     "category": null,
     "type": "skip",
-    "status": "skip",
-    "note": "Zara — fast fashion, pas notre positionnement",
+    "status": "pending",
+    "note": "Zara — fast fashion, pas notre positionnement [à référencer]",
     "slug": null,
     "variants": [
       "parfum zara rose",
