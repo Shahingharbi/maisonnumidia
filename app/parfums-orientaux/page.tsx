@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getOrientalProducts } from "@/lib/products";
+import { getOrientalProducts, getBrandBySlug } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
@@ -13,13 +13,20 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://maisonnumidia.store/parfums-orientaux" },
 };
 
-const brands = [
-  { label: "Lattafa", href: "/parfums-orientaux/lattafa" },
-  { label: "Al Haramain", href: "/parfums-orientaux/al-haramain" },
-];
-
 export default function ParfumsOrientauxPage() {
   const products = getOrientalProducts();
+
+  const brandCounts: Record<string, number> = {};
+  products.forEach((p) => {
+    brandCounts[p.brandSlug] = (brandCounts[p.brandSlug] || 0) + 1;
+  });
+  const brands = Object.entries(brandCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .map(([slug]) => ({
+      label: getBrandBySlug(slug)?.name ?? slug,
+      href: `/parfums-orientaux/${slug}`,
+    }));
 
   return (
     <>

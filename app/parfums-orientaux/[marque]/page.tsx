@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const brand = getBrandBySlug(marque);
   if (!brand) return {};
   return {
-    title: `Parfums Orientaux ${brand.name} en Algérie | Maison Numidia`,
+    title: `Parfums Orientaux ${brand.name} en Algérie`,
     description: `Collection orientale ${brand.name} disponible en Algérie. Paiement à la livraison, livraison rapide Yalidine.`,
     alternates: { canonical: `https://maisonnumidia.store/parfums-orientaux/${marque}` },
   };

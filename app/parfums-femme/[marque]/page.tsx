@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const brand = getBrandBySlug(marque);
   if (!brand) return {};
   return {
-    title: `Parfums Femme ${brand.name} en Algérie — Prix DA | Maison Numidia`,
+    title: `Parfums Femme ${brand.name} en Algérie — Prix DA`,
     description: `Achetez les parfums femme ${brand.name} en Algérie. Paiement à la livraison. Prix en dinar algérien.`,
     alternates: { canonical: `https://maisonnumidia.store/parfums-femme/${marque}` },
   };

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getProductsByCategory } from "@/lib/products";
+import { getProductsByCategory, getBrandBySlug } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
@@ -13,20 +13,20 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://maisonnumidia.store/parfums-femme" },
 };
 
-const brands = [
-  { label: "Chanel", href: "/parfums-femme/chanel" },
-  { label: "YSL", href: "/parfums-femme/ysl" },
-  { label: "Lancôme", href: "/parfums-femme/lancome" },
-  { label: "Jean Paul Gaultier", href: "/parfums-femme/jean-paul-gaultier" },
-  { label: "Carolina Herrera", href: "/parfums-femme/carolina-herrera" },
-  { label: "Valentino", href: "/parfums-femme/valentino" },
-  { label: "Parfums de Marly", href: "/parfums-femme/parfums-de-marly" },
-  { label: "Narciso Rodriguez", href: "/parfums-femme/narciso-rodriguez" },
-  { label: "Kayali", href: "/parfums-femme/kayali" },
-];
-
 export default function ParfumsFemmePage() {
   const products = getProductsByCategory("parfums-femme");
+
+  const brandCounts: Record<string, number> = {};
+  products.forEach((p) => {
+    brandCounts[p.brandSlug] = (brandCounts[p.brandSlug] || 0) + 1;
+  });
+  const brands = Object.entries(brandCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .map(([slug]) => ({
+      label: getBrandBySlug(slug)?.name ?? slug,
+      href: `/parfums-femme/${slug}`,
+    }));
 
   return (
     <>

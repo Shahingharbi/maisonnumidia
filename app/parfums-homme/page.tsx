@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getProductsByCategory } from "@/lib/products";
+import { getProductsByCategory, getBrandBySlug } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
@@ -13,19 +13,20 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://maisonnumidia.store/parfums-homme" },
 };
 
-const brands = [
-  { label: "Dior", href: "/parfums-homme/dior" },
-  { label: "Chanel", href: "/parfums-homme/chanel" },
-  { label: "Jean Paul Gaultier", href: "/parfums-homme/jean-paul-gaultier" },
-  { label: "Paco Rabanne", href: "/parfums-homme/paco-rabanne" },
-  { label: "Armani", href: "/parfums-homme/armani" },
-  { label: "Hugo Boss", href: "/parfums-homme/hugo-boss" },
-  { label: "Versace", href: "/parfums-homme/versace" },
-  { label: "Franck Olivier", href: "/parfums-homme/franck-olivier" },
-];
-
 export default function ParfumsHommePage() {
   const products = getProductsByCategory("parfums-homme");
+
+  const brandCounts: Record<string, number> = {};
+  products.forEach((p) => {
+    brandCounts[p.brandSlug] = (brandCounts[p.brandSlug] || 0) + 1;
+  });
+  const brands = Object.entries(brandCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .map(([slug]) => ({
+      label: getBrandBySlug(slug)?.name ?? slug,
+      href: `/parfums-homme/${slug}`,
+    }));
 
   return (
     <>
