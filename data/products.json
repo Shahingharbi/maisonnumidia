@@ -35280,6 +35280,663 @@
         "le-male-jean-paul-gaultier",
         "jean-paul-gaultier-bad-boy"
       ]
+    },
+    {
+      "id": "al-haramain-amber-oud-gold",
+      "slug": "al-haramain-amber-oud-gold",
+      "h1": "Al Haramain Amber Oud Gold Parfum Oriental Algérie",
+      "name": "Amber Oud Gold Edition",
+      "brand": "Al Haramain",
+      "brandSlug": "al-haramain",
+      "category": "parfums-orientaux",
+      "gender": "unisexe",
+      "concentration": "EDP",
+      "volume": "60ml",
+      "price": 6500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/al-haramain-amber-oud-gold.jpg",
+      "shortDescription": "Al Haramain Amber Oud Gold Edition est un EDP oriental unisexe qui sublime l'alliance de l'ambre et du oud dans une version dorée et luxueuse. Un parfum du Golfe d'une richesse et d'une chaleur incomparables.",
+      "description": "Al Haramain Amber Oud Gold Edition est la version la plus luxueuse et la plus précieuse de la collection Amber Oud, une fragrance orientale unisexe qui célèbre deux des matières premières les plus nobles de la parfumerie du Golfe: l'ambre et le oud. Cette Eau de Parfum orientale est une création généreuse et opulente qui incarne l'hospitalité et le raffinement de la culture arabe. L'ouverture est immédiatement enveloppante: des notes d'agrumes chauds et d'épices douces créent une entrée en matière méditerranéenne qui annonce la richesse orientale qui suit. Le cœur est la signature de cette Gold Edition: le oud précieux et l'ambre liquide s'entremêlent dans un accord oriental d'une richesse et d'une profondeur dignes des grandes créations du Golfe. La base est luxueuse et persistante: la rose de Taïf et le musc oriental créent un fond chaud et enveloppant qui peut s'attarder sur la peau et les vêtements pendant de nombreuses heures, voire des jours entiers. Amber Oud Gold Edition est le parfum des grandes cérémonies, des mariages et de toutes les occasions où l'on veut offrir le meilleur de la parfumerie orientale. En Algérie, Al Haramain est une marque très respectée pour la qualité de ses ouds et de ses parfums orientaux. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Agrumes Chauds",
+          "Épices Douces",
+          "Bergamote"
+        ],
+        "heart": [
+          "Oud Précieux",
+          "Ambre Liquide",
+          "Rose de Taïf"
+        ],
+        "base": [
+          "Musc Oriental",
+          "Santal",
+          "Patchouli"
+        ]
+      },
+      "family": "Oriental Oudé",
+      "occasions": [
+        "Cérémonie",
+        "Mariage",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 6,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": true,
+      "related": [
+        "al-haramain-rose-oud",
+        "al-haramain-black-oudh",
+        "swiss-arabian-shaghaf-oud"
+      ]
+    },
+    {
+      "id": "lattafa-bade-al-oud",
+      "slug": "lattafa-bade-al-oud",
+      "h1": "Lattafa Bade Al Oud Parfum Oriental Algérie",
+      "name": "Bade'e Al Oud",
+      "brand": "Lattafa",
+      "brandSlug": "lattafa",
+      "category": "parfums-orientaux",
+      "gender": "unisexe",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 3500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lattafa-bade-al-oud.jpg",
+      "shortDescription": "Lattafa Bade'e Al Oud est un EDP oriental unisexe au oud riche et à la rose majestueuse. Un parfum arabe généreux et accessible qui capture l'essence de la parfumerie du Golfe.",
+      "description": "Lattafa Bade'e Al Oud est l'une des fragrances les plus appréciées de la maison Lattafa, la marque émiratie qui a conquis le monde avec ses parfums orientaux de qualité à prix accessible. Cet Eau de Parfum unisexe est une composition traditionnelle de la parfumerie arabe: riche en oud, en rose et en épices, elle incarne l'hospitalité et la générosité de la culture du Golfe. L'ouverture est immédiatement enveloppante: des notes de safran et d'épices créent une entrée en matière chaude et légèrement métallique, typique des grandes fragrances orientales. Le cœur est la célébration du oud et de la rose: le oud du Moyen-Orient et la rose de Turquie s'associent dans un accord floral-oudé d'une richesse et d'une beauté saisissantes, signature olfactive de Lattafa. La base est profonde et persistante: le musc chaud et le patchouli créent un fond oriental opulent qui s'exprime pendant de nombreuses heures. Bade'e Al Oud est le parfum parfait pour ceux qui cherchent à s'initier à la parfumerie orientale sans se ruiner. En Algérie, Lattafa est une marque très populaire pour son excellence qualitative à prix démocratique. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Safran",
+          "Épices",
+          "Rose"
+        ],
+        "heart": [
+          "Oud du Moyen-Orient",
+          "Rose de Turquie",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc Chaud",
+          "Patchouli",
+          "Ambre"
+        ]
+      },
+      "family": "Oriental Floral Oudé",
+      "occasions": [
+        "Cérémonie",
+        "Soirée",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": true,
+      "related": [
+        "lattafa-oud-for-glory",
+        "lattafa-khamrah",
+        "lattafa-oud-mood"
+      ]
+    },
+    {
+      "id": "dior-homme-cologne",
+      "slug": "dior-homme-cologne",
+      "h1": "Dior Homme Cologne Parfum Algérie",
+      "name": "Homme Cologne",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "125ml",
+      "price": 13900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dior-homme-cologne.jpg",
+      "shortDescription": "Dior Homme Cologne est la version la plus légère et la plus fraîche de Dior Homme. Un EDT masculin agrumes et iris d'une légèreté absolue, pour l'homme qui préfère sentir frais toute la journée.",
+      "description": "Dior Homme Cologne est la déclinaison la plus aérienne et la plus légère de la célèbre famille Dior Homme, la gamme masculine qui a redéfini la parfumerie masculine au XXIe siècle avec son accord iris poudré révolutionnaire. Là où Dior Homme original est intense et poudré, Cologne adopte une approche fraîche et citronnée qui rend cet accord iris accessible au quotidien, même lors des journées estivales les plus chaudes. Cet Eau de Toilette masculin s'ouvre sur une explosion d'agrumes éclatants: le citron de Sicile et le bergamote créent une première impression pétillante et vivifiante qui donne de l'énergie immédiatement. Le cœur est la signature Dior Homme déclinée dans sa version la plus aérienne: l'iris blanc et le géranium créent un accord floral légèrement poudré d'une délicatesse et d'une légèreté remarquables. La base est discrète mais persistante: le musc blanc et le cèdre léger créent un fond propre et agréable qui permet à la fraîcheur de persister agréablement. Dior Homme Cologne est le parfum du matin d'été, de la journée à la campagne, de tous les moments où l'on veut simplement sentir frais et propre avec le savoir-faire Dior. En Algérie, Dior Homme est une gamme très populaire et Cologne en est la version estivale idéale. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Citron de Sicile",
+          "Bergamote",
+          "Pamplemousse"
+        ],
+        "heart": [
+          "Iris Blanc",
+          "Géranium",
+          "Cèdre"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Cèdre Léger",
+          "Bois"
+        ]
+      },
+      "family": "Aromatique Agrumes",
+      "occasions": [
+        "Bureau",
+        "Sport",
+        "Été"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "dior-homme",
+        "dior-homme-edp",
+        "dior-homme-sport"
+      ]
+    },
+    {
+      "id": "armani-acqua-di-gio-essenza",
+      "slug": "armani-acqua-di-gio-essenza",
+      "h1": "Armani Acqua di Gio Essenza Parfum Homme Algérie",
+      "name": "Acqua di Giò Essenza",
+      "brand": "Armani",
+      "brandSlug": "armani",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/armani-acqua-di-gio-essenza.jpg",
+      "shortDescription": "Armani Acqua di Giò Essenza est la version EDP la plus concentrée et la plus profonde d'Acqua di Giò. Un parfum masculin aquatique boisé d'une intensité et d'une sophistication supérieures, pour les connaisseurs.",
+      "description": "Armani Acqua di Giò Essenza est la réponse d'Armani à ceux qui aiment Acqua di Giò mais qui veulent plus d'intensité, plus de profondeur et une présence olfactive plus marquée. Cette Eau de Parfum masculine explore les mêmes territoires aquatiques et méditerranéens que l'original, mais avec une concentration et une richesse olfactive supérieures. L'ouverture est fraîche et aquatique: les notes marines et les agrumes créent une première impression marine et lumineuse, fidèle à l'ADN d'Acqua di Giò mais plus intense. Le cœur est boisé et herbacé: le vétiver et le cèdre créent un accord boisé masculin d'une profondeur supérieure à la version originale, donnant à cette fragrance un caractère plus adulte et plus sophistiqué. La base est profonde et persistante: le patchouli et le musc créent un fond terreux et sensuel qui dure beaucoup plus longtemps que l'EDT original. Acqua di Giò Essenza est le choix de l'homme mûr et sûr de lui qui veut la fraîcheur méditerranéenne sans sacrifier la persistance et la profondeur. En Algérie, la gamme Acqua di Giò est la plus populaire de la maison Armani pour les hommes. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Notes Marines",
+          "Agrumes",
+          "Bergamote"
+        ],
+        "heart": [
+          "Vétiver",
+          "Cèdre",
+          "Romarin"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc",
+          "Labdanum"
+        ]
+      },
+      "family": "Aquatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Été"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "acqua-di-gio-armani",
+        "acqua-di-gio-profondo-armani",
+        "acqua-di-gio-profumo-armani"
+      ]
+    },
+    {
+      "id": "gucci-bamboo",
+      "slug": "gucci-bamboo",
+      "h1": "Gucci Bamboo Parfum Femme Algérie",
+      "name": "Bamboo",
+      "brand": "Gucci",
+      "brandSlug": "gucci",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 11900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/gucci-bamboo.jpg",
+      "shortDescription": "Gucci Bamboo est un EDP féminin floral boisé inspiré de la nature sauvage et de la force tranquille du bambou. Un parfum pour la femme moderne et indépendante qui tire sa force de ses racines.",
+      "description": "Gucci Bamboo est une fragrance féminine qui tire son inspiration de la nature majestueuse du bambou, symbole de force, de flexibilité et de grâce. Cet Eau de Parfum féminin est une ode à la femme moderne qui puise sa force dans ses convictions profondes et qui affronte le monde avec une assurance tranquille. L'ouverture de Gucci Bamboo est fraîche et légèrement fruitée: la bergamote et le néroli créent une première impression lumineuse et féminine qui invite à découvrir davantage. Le cœur floral est sophistiqué et naturel: la fleur d'oranger, le magnolia et l'orchidée créent un accord floral blanc d'une beauté délicate et d'une élégance naturelle, comme des fleurs sauvages dans une forêt de bambous. La base est boisée et sensuelle: le bois de santal et la vanille créent un fond chaud et enveloppant qui ancre les notes florales dans un registre féminin et séduisant. Gucci Bamboo est le parfum de la femme qui sait rester elle-même sous toutes les circonstances, celle dont la force intérieure est sa plus belle parure. En Algérie, les fragrances Gucci sont très appréciées pour leur qualité et leur identité forte. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Néroli",
+          "Mandarine"
+        ],
+        "heart": [
+          "Fleur d'Oranger",
+          "Magnolia",
+          "Orchidée"
+        ],
+        "base": [
+          "Bois de Santal",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "family": "Floral Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "gucci-bloom",
+        "gucci-flora-gorgeous",
+        "gucci-rush-femme"
+      ]
+    },
+    {
+      "id": "burberry-touch-femme",
+      "slug": "burberry-touch-femme",
+      "h1": "Burberry Touch Femme Parfum Algérie",
+      "name": "Touch For Women",
+      "brand": "Burberry",
+      "brandSlug": "burberry",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 7900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/burberry-touch-femme.jpg",
+      "shortDescription": "Burberry Touch For Women est un EDT féminin floral boisé délicat. La version féminine du duo Touch de Burberry: une fragrance douce et sensuelle pour la femme qui aime la proximité et la douceur du toucher.",
+      "description": "Burberry Touch For Women est la réponse féminine au Touch For Men, formant avec lui un duo romantique qui célèbre l'intimité et la sensualité des moments partagés. Cet Eau de Toilette féminin est une composition douce et romantique qui capture l'essence de la féminité selon Burberry: élégante, naturelle et légèrement sensuelle. L'ouverture est fraîche et florale: la pivoine et la bergamote créent une première impression légère et romantique, immédiatement séduisante dans sa discrétion. Le cœur floral est l'expression du romantisme anglais: la magnolia et la rose créent un accord floral délicat et aérien d'une beauté et d'une fraîcheur remarquables. La base est boisée et légèrement musquée: le bois de cèdre et le musc blanc créent un fond propre et confortable qui prolonge agréablement cette fragrance romantique. Touch For Women est la fragrance de l'intimité et de la proximité, le parfum qu'on porte pour être encore plus attrayante dans les moments proches. En Algérie, le duo Touch de Burberry est très apprécié comme cadeau pour les couples. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Pivoine",
+          "Bergamote",
+          "Freesia"
+        ],
+        "heart": [
+          "Magnolia",
+          "Rose",
+          "Muguet"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc Blanc",
+          "Bois"
+        ]
+      },
+      "family": "Floral Boisé",
+      "occasions": [
+        "Quotidien",
+        "Rendez-vous",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "burberry-brit-femme",
+        "burberry-weekend-femme",
+        "burberry-her"
+      ]
+    },
+    {
+      "id": "givenchy-l-interdit-intense",
+      "slug": "givenchy-l-interdit-intense",
+      "h1": "Givenchy L'Interdit Intense Parfum Femme Algérie",
+      "name": "L'Interdit Intense",
+      "brand": "Givenchy",
+      "brandSlug": "givenchy",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 13900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/givenchy-l-interdit-intense.jpg",
+      "shortDescription": "Givenchy L'Interdit Intense est la version EDP concentrée de L'Interdit. Plus sombre, plus mystérieuse et plus envoûtante que l'original, pour la femme qui assume sa face cachée avec audace.",
+      "description": "Givenchy L'Interdit Intense est la face sombre et mystérieuse de L'Interdit, la fragrance signature de la maison Givenchy. Là où L'Interdit original est floral et aérien, Intense plonge dans les profondeurs, explorant les zones d'ombre et de mystère qui rendent une femme fascinante et impénétrable. Cet Eau de Parfum féminin est construit autour du même accord floral blanc, mais traité ici avec une intensité et une profondeur nouvelles. L'ouverture est plus sombre et plus épicée: des notes de poivre rouge et de fleurs blanches créent une entrée en matière mystérieuse et séduisante qui capte l'attention de façon irrésistible. Le cœur floral est magnifié: la fleur d'oranger et le jasmin s'expriment avec une intensité décuplée, créant un accord floral blanc d'une richesse et d'une profondeur dignes d'une maison de haute couture. La base est profonde et persistante: le patchouli sombre et le musc intense créent un fond terreux et sensuel qui ancre cette fragrance dans un registre nocturne et subversif. L'Interdit Intense est le parfum de la femme qui refuse de se laisser enfermer dans une définition étroite de la féminité. En Algérie, Givenchy est une marque de prestige très appréciée. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Poivre Rouge",
+          "Fleurs Blanches",
+          "Bergamote"
+        ],
+        "heart": [
+          "Fleur d'Oranger",
+          "Jasmin",
+          "Iris Sombre"
+        ],
+        "base": [
+          "Patchouli Sombre",
+          "Musc Intense",
+          "Vétiver"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "givenchy-l-interdit",
+        "givenchy-irresistible",
+        "givenchy-live-irresistible"
+      ]
+    },
+    {
+      "id": "swiss-arabian-wajd",
+      "slug": "swiss-arabian-wajd",
+      "h1": "Swiss Arabian Wajd Parfum Oriental Algérie",
+      "name": "Wajd",
+      "brand": "Swiss Arabian",
+      "brandSlug": "swiss-arabian",
+      "category": "parfums-orientaux",
+      "gender": "unisexe",
+      "concentration": "EDP",
+      "volume": "50ml",
+      "price": 4500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/swiss-arabian-wajd.jpg",
+      "shortDescription": "Swiss Arabian Wajd est un EDP oriental unisexe qui exprime la joie et l'extase selon la tradition parfumière arabe. Un mélange harmonieux de oud, de rose et d'épices dorées aux accents du Golfe.",
+      "description": "Swiss Arabian Wajd est une fragrance orientale qui tire son nom de l'arabe wajd, qui signifie l'extase mystique ou la joie profonde — un état d'être que les amateurs de parfums orientaux reconnaissent bien lorsqu'ils rencontrent une fragrance parfaitement accordée à leur personnalité. Cet Eau de Parfum unisexe est une composition orientale traditionnelle qui célèbre les matières premières les plus nobles de la parfumerie du Moyen-Orient: le oud, la rose et les épices précieuses. L'ouverture est chaude et épicée: des notes de cardamome et de safran créent une première impression épicée et légèrement métallique qui est la marque de fabrique des grandes fragrances orientales. Le cœur est floral et oudé: la rose de Taïf et le oud boisé créent un accord floral-oriental d'une richesse et d'une authenticité remarquables. La base est profonde et enveloppante: le musc oriental et la vanille chaude créent un fond persistant et chaleureux qui peut durer toute la journée et se prolonger sur les vêtements pendant plusieurs jours. Wajd est le parfum des moments de joie intense: les mariages, les célébrations et tous les instants précieux de la vie. En Algérie, Swiss Arabian est très apprécié pour ses fragrances orientales authentiques. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Safran",
+          "Bergamote Épicée"
+        ],
+        "heart": [
+          "Rose de Taïf",
+          "Oud Boisé",
+          "Encens"
+        ],
+        "base": [
+          "Musc Oriental",
+          "Vanille Chaude",
+          "Santal"
+        ]
+      },
+      "family": "Oriental Floral",
+      "occasions": [
+        "Cérémonie",
+        "Soirée",
+        "Mariage"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": true,
+      "related": [
+        "swiss-arabian-noora",
+        "swiss-arabian-kashkha",
+        "swiss-arabian-layali-rouge"
+      ]
+    },
+    {
+      "id": "ajmal-deja-vu",
+      "slug": "ajmal-deja-vu",
+      "h1": "Ajmal Déjà Vu Parfum Femme Algérie",
+      "name": "Déjà Vu",
+      "brand": "Ajmal",
+      "brandSlug": "ajmal",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 3500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ajmal-deja-vu.jpg",
+      "shortDescription": "Ajmal Déjà Vu est un EDP féminin floral oriental aux accents arabes. Une fragrance nostalgique et sensuelle qui évoque des souvenirs de beauté et de douceur, avec l'authenticité de la maison Ajmal.",
+      "description": "Ajmal Déjà Vu est une fragrance féminine qui joue avec la mémoire et l'émotion, évoquant ces sensations mystérieuses de déjà-vu que nous ressentons parfois face à une beauté ou un parfum que nous n'avons pourtant jamais rencontré auparavant. Cet Eau de Parfum féminin est une composition orientale-florale qui mêle la tradition de la parfumerie arabe à une sensibilité plus contemporaine. L'ouverture est fraîche et fleurie: des notes de bergamote et de fleurs blanches créent une première impression légère et romantique qui invite à voyager dans les souvenirs. Le cœur est floral et légèrement épicé: la rose, le jasmin et les épices douces créent un accord floral oriental d'une chaleur et d'une douceur remarquables. La base est orientale et enveloppante: l'ambre et le musc créent un fond chaud et persistant qui accompagne cette fragrance avec générosité et durabilité. Ajmal Déjà Vu est le parfum des femmes qui ont un attachement nostalgique à la beauté et qui cherchent des fragrances qui touchent l'âme autant que les sens. En Algérie, Ajmal est une marque de référence pour les parfums orientaux de qualité à prix abordable. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fleurs Blanches",
+          "Rose Fraîche"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Épices Douces"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Santal"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Quotidien",
+        "Soirée",
+        "Mariage"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "ajmal-evoke-femme",
+        "ajmal-sacrifice-pour-femme",
+        "al-haramain-rose-d-arabie"
+      ]
+    },
+    {
+      "id": "givenchy-dahlia-divin-le-nectar",
+      "slug": "givenchy-dahlia-divin-le-nectar",
+      "h1": "Givenchy Dahlia Divin Le Nectar Parfum Femme Algérie",
+      "name": "Dahlia Divin Le Nectar",
+      "brand": "Givenchy",
+      "brandSlug": "givenchy",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 13500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/givenchy-dahlia-divin-le-nectar.jpg",
+      "shortDescription": "Givenchy Dahlia Divin Le Nectar est la version la plus concentrée et la plus sombre de Dahlia Divin. Un EDP féminin floral oriental d'une intensité divine, pour la femme qui s'abandonne au plaisir sans retenue.",
+      "description": "Givenchy Dahlia Divin Le Nectar est la version la plus opulente et la plus envoûtante de la collection Dahlia Divin, une fragrance féminine qui explore la zone entre la beauté sauvage et le raffinement absolu. Cet Eau de Parfum féminin est une invitation à l'excès gracieux, à la séduction absolue et au plaisir sans retenue. L'ouverture est explosive et florale: des notes de mimosa et de pêche créent une entrée en matière florale-fruitée d'une richesse et d'une opulence qui annoncent immédiatement le luxe qui suit. Le cœur est le joyau de Le Nectar: le santal blanc de Mysore et la rose noire créent un accord floral-boisé d'une profondeur et d'une beauté dignes des plus grandes créations de la haute parfumerie. La base est l'expression de la divine opulence: le patchouli et le musc sombre créent un fond profond et persistant qui s'exprime magnifiquement pendant de nombreuses heures. Le Nectar est le parfum de la déesse qui s'assume pleinement, celle qui ne refuse aucun plaisir et qui vit sa vie sans compromis. En Algérie, la collection Dahlia Divin de Givenchy est très appréciée par les femmes raffinées. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Mimosa",
+          "Pêche",
+          "Bergamote"
+        ],
+        "heart": [
+          "Santal Blanc de Mysore",
+          "Rose Noire",
+          "Jasmin"
+        ],
+        "base": [
+          "Patchouli",
+          "Musc Sombre",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "givenchy-dahlia-divin",
+        "givenchy-dahlia-noir",
+        "givenchy-l-interdit"
+      ]
+    },
+    {
+      "id": "mont-blanc-signature",
+      "slug": "mont-blanc-signature",
+      "h1": "Mont Blanc Signature Parfum Femme Algérie",
+      "name": "Signature",
+      "brand": "Mont Blanc",
+      "brandSlug": "mont-blanc",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 8500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/mont-blanc-signature.jpg",
+      "shortDescription": "Mont Blanc Signature est l'EDP féminin signature de la maison. Un parfum floral boisé élégant et naturel, qui incarne la vision de la féminité selon Mont Blanc: pure, lumineuse et intemporelle.",
+      "description": "Mont Blanc Signature est la fragrance féminine qui incarne parfaitement l'identité de la maison Mont Blanc: l'élégance sobre, la qualité des matières premières et la capacité à créer quelque chose d'intemporel à un prix accessible. Cet Eau de Parfum féminin est une composition florale-boisée construite avec la même rigueur et le même savoir-faire qui caractérisent tous les produits de la maison suisse. L'ouverture est fraîche et lumineuse: la bergamote et la poire créent une première impression légère et féminine qui donne immédiatement de la bonne humeur. Le cœur floral est la signature olfactive de cette fragrance: la pivoine et le magnolia créent un accord floral féminin d'une douceur et d'une élégance naturelles, ni trop lourd ni trop léger. La base boisée et musquée est l'empreinte distinctive de Mont Blanc Signature: le bois de cèdre et le musc blanc créent un fond propre et élégant d'une persistance agréable. Signature est le parfum de toutes les femmes qui veulent une fragrance de qualité qui les accompagne au quotidien avec discrétion et grâce. En Algérie, Mont Blanc représente un excellent rapport qualité-prix dans le segment premium féminin. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poire",
+          "Citron Vert"
+        ],
+        "heart": [
+          "Pivoine",
+          "Magnolia",
+          "Rose"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc Blanc",
+          "Bois de Santal"
+        ]
+      },
+      "family": "Floral Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Toutes occasions"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "mont-blanc-lady-emblem",
+        "mont-blanc-rose-extraordinaire",
+        "tresor-lancome"
+      ]
+    },
+    {
+      "id": "lancome-tresor-intense",
+      "slug": "lancome-tresor-intense",
+      "h1": "Lancôme Trésor Intense Parfum Femme Algérie",
+      "name": "Trésor Intense",
+      "brand": "Lancôme",
+      "brandSlug": "lancome",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lancome-tresor-intense.jpg",
+      "shortDescription": "Lancôme Trésor Intense est la version EDP enrichie du mythique Trésor. Plus chaude, plus profonde et plus persistante que l'original, pour les femmes qui veulent tout le luxe de Trésor avec plus d'intensité.",
+      "description": "Lancôme Trésor Intense est la version la plus concentrée et la plus luxueuse du légendaire Trésor, l'un des parfums féminins les plus aimés au monde depuis sa création en 1990. Là où Trésor original est floral et délicat, Intense plonge dans une dimension plus opulente et plus persistante, pour les femmes qui veulent l'excellence olfactive de Trésor sans les limitations de l'Eau de Parfum standard. Cet EDP intensifié s'ouvre sur une ouverture plus riche et plus rosée que l'original: la rose de Grasse et le patchouli parfumé créent une entrée en matière florale-orientale d'une beauté immédiate. Le cœur est l'expression maximale du Trésor classique: la rose, l'iris et l'apricot créent un accord floral poudré d'une opulence et d'une complexité remarquables, signature olfactive de la maison Lancôme. La base est plus profonde et plus persistante que jamais: l'ambre boisé et la vanille chaude créent un fond enveloppant et luxueux qui peut persister pendant 12 heures ou plus. Trésor Intense est le parfum de la femme qui refuse les compromis et qui veut le meilleur de Lancôme dans sa forme la plus pure. En Algérie, Trésor est une fragrance légendaire et Intense en est la couronne. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Rose de Grasse",
+          "Pêche",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose Absolue",
+          "Iris",
+          "Muguet"
+        ],
+        "base": [
+          "Ambre Boisé",
+          "Vanille",
+          "Santal"
+        ]
+      },
+      "family": "Floral Ambré",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Hiver"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 6,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "tresor-lancome",
+        "lancome-tresor-midnight-rose",
+        "lancome-hypnose"
+      ]
     }
   ],
   "brands": [
