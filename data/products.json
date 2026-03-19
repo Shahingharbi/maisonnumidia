@@ -39230,6 +39230,672 @@
         "karl-lagerfeld-classic",
         "mont-blanc-legend"
       ]
+    },
+    {
+      "id": "britney-spears-fantasy",
+      "slug": "britney-spears-fantasy",
+      "h1": "Britney Spears Fantasy Parfum Femme Algérie",
+      "name": "Fantasy",
+      "brand": "Britney Spears",
+      "brandSlug": "britney-spears",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 3500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/britney-spears-fantasy.jpg",
+      "shortDescription": "Fantasy de Britney Spears est un oriental gourmand addictif et joyeux. Kiwi, litchi, cupcake vanillé et musc dans une composition sucrée et enveloppante qui reste un bestseller mondial.",
+      "description": "Britney Spears Fantasy est bien plus qu'un parfum de célébrité — c'est un phénomène olfactif. Lancé en 2005, ce parfum oriental gourmand est devenu en quelques années l'un des parfums féminins les plus vendus au monde, tous prix confondus. Son secret ? Une composition généreuse, accessible et immédiatement attachante qui parle à toutes les générations.\n\nFantasy s'ouvre sur une combinaison fruitée irrésistible de kiwi juteux, litchi tropical et nectarine bien mûre. Le cœur révèle la touche signature qui lui a valu sa renommée mondiale : un accord cupcake gourmand mêlant jasmin, orchidée et une magnolia légèrement crémeux. La base est un nid douillet de musc blanc, bois de santal et une note de fond qui rappelle la pâtisserie légère.\n\nFantasy est le parfum idéal pour les jeunes femmes algériennes qui cherchent un parfum joyeux, accessible et immédiatement séduisant. Sa longévité est honnête pour sa gamme de prix, et son sillage gourmand ne laisse personne indifférent.\n\nMaison Numidia propose ce parfum authentique avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Kiwi",
+          "Litchi",
+          "Nectarine"
+        ],
+        "heart": [
+          "Cupcake",
+          "Jasmin",
+          "Orchidée"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois de santal",
+          "Fond de pâtisserie"
+        ]
+      },
+      "family": "Oriental Gourmand",
+      "occasions": [
+        "Journée",
+        "Week-end",
+        "Casual"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "britney-spears-curious",
+        "ariana-grande-cloud",
+        "beyonce-heat"
+      ]
+    },
+    {
+      "id": "britney-spears-curious",
+      "slug": "britney-spears-curious",
+      "h1": "Britney Spears Curious Parfum Femme Algérie",
+      "name": "Curious",
+      "brand": "Britney Spears",
+      "brandSlug": "britney-spears",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 3200,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/britney-spears-curious.jpg",
+      "shortDescription": "Britney Spears Curious est un floral fruité frais et pétillant. Pomme verte, magnolia et musc blanc pour un parfum léger, lumineux et accessible à toutes.",
+      "description": "Britney Spears Curious est le premier parfum de la pop star américaine, lancé en 2004. Il marque le début d'une aventure parfumerie qui allait produire des dizaines de références et des millions de flacons vendus à travers le monde. Curious se démarque de Fantasy par son caractère plus frais et plus léger, accessible à un public jeune qui apprécie les parfums sans sophistication inutile.\n\nLa fragrance s'ouvre sur une vague fraîche de pomme verte, mandarine et lotus — un accord fruité-aquatique qui rappelle la légèreté d'une journée de printemps. Le cœur floral associe magnolia, jasmin et fleur de lotus dans un bouquet délicat et féminin. La base légère de musc blanc, bois de santal et vanille apporte une douceur qui fait de Curious un parfum aisé à porter et à apprécier.\n\nCurious est parfait pour les premières fragrances ou pour celles qui cherchent un parfum de tous les jours à un prix très accessible. Sa légèreté et sa fraîcheur en font un compagnon idéal pour les journées chaudes algériennes.\n\nDisponible chez Maison Numidia avec livraison COD dans toutes les wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Pomme verte",
+          "Mandarine",
+          "Lotus"
+        ],
+        "heart": [
+          "Magnolia",
+          "Jasmin",
+          "Fleur de lotus"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois de santal",
+          "Vanille légère"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Journée",
+        "Casual",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "britney-spears-fantasy",
+        "jennifer-lopez-glow",
+        "paris-hilton-paris-hilton"
+      ]
+    },
+    {
+      "id": "jennifer-lopez-glow",
+      "slug": "jennifer-lopez-glow",
+      "h1": "Jennifer Lopez Glow Parfum Femme Algérie",
+      "name": "Glow",
+      "brand": "Jennifer Lopez",
+      "brandSlug": "jennifer-lopez",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 3500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/jennifer-lopez-glow.jpg",
+      "shortDescription": "Jennifer Lopez Glow est un floral aquatique frais et lumineux sorti en 2002. Citrus, rose et musc blanc dans une composition propre, légère et ensoleillée qui a lancé la mode des parfums célébrités.",
+      "description": "Jennifer Lopez Glow est bien plus qu'un parfum de star — c'est une révolution marketing qui a changé la parfumerie mondiale. Lancé en 2002, il est souvent cité comme le parfum de célébrité qui a lancé toute une industrie. Avec ses ventes mondiales dépassant les 100 millions de dollars en première année, Glow a prouvé que les fans et les parfumeurs pouvaient se retrouver autour d'une proposition qualitative et accessible.\n\nLa fragrance est un floral aquatique d'une légèreté désarmante. L'ouverture associe bergamote, jasmin étoilé et néroli dans une fraîcheur immédiate qui évoque un matin d'été ensoleillé. Le cœur floral est pur et lumineux : rose, jasmin blanc et muguet dans un accord propre et féminin. La base est minimale et élégante : musc blanc, bois de santal et cèdre qui permettent à la peau de s'exprimer à travers le parfum.\n\nGlow est le parfum de celles qui aiment sentir propre, frais et naturel. Sa discrétion en fait un compagnon idéal pour le bureau, la fac et les journées actives. Un classique accessible qui n'a pas pris une ride.\n\nMaison Numidia livre ce parfum authentique avec paiement COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Jasmin étoilé",
+          "Néroli"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin blanc",
+          "Muguet"
+        ],
+        "base": [
+          "Musc blanc",
+          "Bois de santal",
+          "Cèdre"
+        ]
+      },
+      "family": "Floral Aquatique",
+      "occasions": [
+        "Bureau",
+        "Journée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "britney-spears-curious",
+        "paris-hilton-paris-hilton",
+        "shakira-dance"
+      ]
+    },
+    {
+      "id": "beyonce-heat",
+      "slug": "beyonce-heat",
+      "h1": "Beyonce Heat Parfum Femme Algérie",
+      "name": "Heat",
+      "brand": "Beyoncé",
+      "brandSlug": "beyonce",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 3800,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/beyonce-heat.jpg",
+      "shortDescription": "Beyoncé Heat est un oriental floral sensuel et intense créé en 2010. Grenade, orchidée et bois de santal dans un parfum chaud et magnétique qui incarne la féminité puissante de l'artiste.",
+      "description": "Beyoncé Heat est la fragrance qui a mis la barre très haut pour les parfums de célébrités. Lancé en 2010, il se démarque de la concurrence par sa composition réellement soignée et son caractère oriental floral assumé, bien loin des parfums génériques qui envahissent ce segment. En quelques semaines, il est devenu le parfum de célébrité le plus vendu de l'histoire, un record qui témoigne de la qualité du produit autant que de la popularité de son égérie.\n\nHeat s'ouvre sur un accord fruité intense de grenade rouge, pêche et zestes de citron qui captent l'attention. Le cœur est luxueux : orchidée noire, jasmin et crème de magnolia dans un accord floral charnu et sensuel qui rappelle l'univers visuel de Beyoncé. La base est profonde et chaude : bois de santal, musc ambré, vetiver et une touche de notes boisées qui ancrent la fragrance dans une longévité satisfaisante.\n\nHeat est fait pour la femme qui veut un parfum qui a de la présence sans être agressif. Sa signature orientale-florale chaleureuse est particulièrement adaptée aux soirées fraîches et aux occasions où l'on veut rayonner.\n\nDisponible chez Maison Numidia avec livraison COD dans toutes les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Grenade",
+          "Pêche",
+          "Citrus"
+        ],
+        "heart": [
+          "Orchidée noire",
+          "Jasmin",
+          "Magnolia"
+        ],
+        "base": [
+          "Bois de santal",
+          "Musc ambré",
+          "Vétiver"
+        ]
+      },
+      "family": "Oriental Floral",
+      "occasions": [
+        "Soirée",
+        "Sortie",
+        "Week-end"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "britney-spears-fantasy",
+        "ariana-grande-cloud",
+        "escada-magnetism"
+      ]
+    },
+    {
+      "id": "paris-hilton-paris-hilton",
+      "slug": "paris-hilton-paris-hilton",
+      "h1": "Paris Hilton Parfum Femme Algérie",
+      "name": "Paris Hilton",
+      "brand": "Paris Hilton",
+      "brandSlug": "paris-hilton",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 3200,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/paris-hilton-paris-hilton.jpg",
+      "shortDescription": "Le parfum signature de Paris Hilton est un floral fruité gourmand lancé en 2004. Pomme, framboise, jasmin et santal blanc dans un parfum sucré et lumineux qui incarne l'esprit des années 2000.",
+      "description": "Le parfum Paris Hilton est la signature olfactive de l'héritière et femme d'affaires américaine, lancé en 2004 à l'apogée de sa célébrité mondiale. Ce parfum a su traverser les deux décennies suivantes sans perdre son public, grâce à une composition florale fruitée plaisante et une accessibilité qui en fait un cadeau populaire.\n\nLa composition s'ouvre sur un accord fruité généreux de pomme verte, pêche et framboise qui donne immédiatement un caractère joyeux et juteux. Le cœur floral associe jasmin, rose blanche et gardénia dans un bouquet féminin classique mais séduisant. La base de bois de santal blanc, musc et accord de peau apporte la chaleur et la douceur nécessaires pour que ce parfum reste agréable plusieurs heures après l'application.\n\nParis Hilton le parfum convient aux femmes qui cherchent un parfum accessible, plaisant et sans complexe. Sa formule légère et sucrée le rend parfait pour les journées d'été et les sorties informelles.\n\nMaison Numidia livre ce parfum authentique avec paiement COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Pomme verte",
+          "Pêche",
+          "Framboise"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose blanche",
+          "Gardénia"
+        ],
+        "base": [
+          "Bois de santal",
+          "Musc",
+          "Accord de peau"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Journée",
+        "Casual",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "britney-spears-curious",
+        "jennifer-lopez-glow",
+        "shakira-dance"
+      ]
+    },
+    {
+      "id": "ariana-grande-cloud",
+      "slug": "ariana-grande-cloud",
+      "h1": "Ariana Grande Cloud Parfum Femme Algérie",
+      "name": "Cloud",
+      "brand": "Ariana Grande",
+      "brandSlug": "ariana-grande",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 4200,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ariana-grande-cloud.jpg",
+      "shortDescription": "Ariana Grande Cloud est un gourmand floral doux et enveloppant devenu viral. Lavande poire, noix de coco et musc vanillé pour un parfum nuageux, doux et addictif.",
+      "description": "Ariana Grande Cloud est le phénomène de la parfumerie célébrité de la nouvelle génération. Lancé en 2018, il est devenu viral sur les réseaux sociaux grâce à sa réputation d'être « la dupe accessible de Baccarat Rouge 540 », compliment le plus flatteur qui soit dans la communauté parfumerie. Que cette comparaison soit fondée ou non, Cloud mérite en tout cas d'être jugé pour ce qu'il est : un gourmand floral original et de qualité.\n\nCloud s'ouvre sur un accord frais et fruité de notes de poire et de lavande pailletée qui donnent une légèreté immédiate. Le cœur est la partie la plus originale : noix de coco crémeuse, praline douce et orchidée vanillée créent un accord gourmand-floral d'une douceur désarmante. La base est un nuage de musc ambré, bois de cashmere et de muscs boisés qui persistent agréablement sur la peau.\n\nCloud est l'un de ces parfums qui plaisent instantanément à presque tout le monde — son caractère consensuel et sa douceur en font un cadeau sûr et un parfum quotidien apprécié. Sa popularité auprès de la génération Z est méritée.\n\nDisponible chez Maison Numidia avec livraison COD dans toutes les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Poire",
+          "Lavande pailletée",
+          "Bergamote"
+        ],
+        "heart": [
+          "Noix de coco",
+          "Praline",
+          "Orchidée"
+        ],
+        "base": [
+          "Musc ambré",
+          "Bois de cashmere",
+          "Muscs boisés"
+        ]
+      },
+      "family": "Gourmand Floral",
+      "occasions": [
+        "Journée",
+        "Casual",
+        "Bureau"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver",
+        "Toute saison"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "britney-spears-fantasy",
+        "beyonce-heat",
+        "lalique-amour"
+      ]
+    },
+    {
+      "id": "boucheron-femme",
+      "slug": "boucheron-femme",
+      "h1": "Boucheron Femme Parfum Algérie",
+      "name": "Boucheron Femme",
+      "brand": "Boucheron",
+      "brandSlug": "boucheron",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 8900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/boucheron-femme.jpg",
+      "shortDescription": "Boucheron Femme est un floral oriental luxueux né en 1988. Ylang-ylang, rose de Bulgarie et ambre dans un parfum joaillier qui sent le bijou précieux et la féminité absolue.",
+      "description": "Boucheron Femme est la première création parfumée de la légendaire maison de joaillerie fondée à Paris en 1858. Lancé en 1988, ce parfum a marqué l'entrée triomphale de Boucheron dans le monde de la parfumerie avec une proposition à la hauteur de sa réputation joaillière : luxueuse, précieuse et intemporelle.\n\nLe flacon iconique — une bague sertie de pierres qui peut être portée comme bijou — est lui-même une prouesse d'orfèvrerie. La fragrance qu'il contient est tout aussi précieuse : un floral oriental d'une générosité et d'une complexité rares.\n\nBoucheron Femme s'ouvre sur un accord floral intense de ylang-ylang et jasmin, accompagné d'une touche épicée de cardamome. Le cœur est un bouquet de roses de Bulgarie, d'iris et d'osmanthus d'une beauté saisissante. La base orientale de bois de santal, ambre gris et musc blanc donne à la fragrance sa profondeur, sa chaleur et sa persistance remarquable.\n\nCe parfum s'adresse aux femmes qui apprécient les fragrances de caractère, ancrées dans une tradition de luxe authentique. Disponible chez Maison Numidia avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Ylang-ylang",
+          "Jasmin",
+          "Cardamome"
+        ],
+        "heart": [
+          "Rose de Bulgarie",
+          "Iris",
+          "Osmanthus"
+        ],
+        "base": [
+          "Bois de santal",
+          "Ambre gris",
+          "Musc blanc"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Luxe"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "boucheron-homme",
+        "van-cleef-arpels-first",
+        "guerlain-samsara"
+      ]
+    },
+    {
+      "id": "boucheron-homme",
+      "slug": "boucheron-homme",
+      "h1": "Boucheron Homme Parfum Algérie",
+      "name": "Boucheron pour Homme",
+      "brand": "Boucheron",
+      "brandSlug": "boucheron",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 8500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/boucheron-homme.jpg",
+      "shortDescription": "Boucheron pour Homme est un oriental boisé précieux créé en 1991. Lavande, épices et bois précieux dans une composition masculine noble et enveloppante signée d'une grande joaillerie.",
+      "description": "Boucheron pour Homme est la réponse masculine au succès du Boucheron Femme. Lancé en 1991, il impose d'emblée le style de la maison dans la parfumerie masculine : luxe, préciosité des matières et signature orientale distinctive.\n\nLa composition est un oriental boisé épicé d'une générosité noble. L'ouverture est aromatique et fraîche — lavande, bergamote et cardamome — qui pose les bases d'un parfum masculin classique mais avec du caractère. Le cœur se développe autour d'un accord épicé-boisé complexe : cannelle, noix de muscade, géranium et cèdre dans une richesse maîtrisée. La base est là où Boucheron pour Homme révèle toute sa noblesse orientale : bois de santal, oud distillé, ambre et musc dans un accord profond et persistant.\n\nBoucheron pour Homme est le parfum de l'homme qui comprend la valeur des choses belles. Sa composition sophistiquée et sa longévité remarquable en font un investissement olfactif qui se justifie pleinement, comparable aux parfums de maisons deux fois plus chères.\n\nMaison Numidia vous propose ce parfum joaillier avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Cannelle",
+          "Muscade",
+          "Géranium",
+          "Cèdre"
+        ],
+        "base": [
+          "Bois de santal",
+          "Oud",
+          "Ambre",
+          "Musc"
+        ]
+      },
+      "family": "Oriental Boisé",
+      "occasions": [
+        "Soirée",
+        "Bureau",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "boucheron-femme",
+        "guerlain-heritage",
+        "armani-code"
+      ]
+    },
+    {
+      "id": "van-cleef-arpels-first",
+      "slug": "van-cleef-arpels-first",
+      "h1": "Van Cleef Arpels First Parfum Femme Algérie",
+      "name": "First",
+      "brand": "Van Cleef & Arpels",
+      "brandSlug": "van-cleef-arpels",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 10900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/van-cleef-arpels-first.jpg",
+      "shortDescription": "Van Cleef & Arpels First est un floral aldéhydé iconique né en 1976. Rose, jasmin et aldéhydes dans un parfum joaillier d'une élégance absolue qui incarne la femme de style.",
+      "description": "Van Cleef & Arpels First est l'un des parfums les plus nobles et les plus respectés de toute la parfumerie de luxe. Créé en 1976 par Jean-Claude Ellena et Robert Fraysse, ce parfum représentait à sa sortie le « first » — premier — des parfums de la maison de joaillerie parisienne fondée place Vendôme en 1906.\n\nSon flacon élégant, évoquant un flacon de parfum Art Déco avec ses lignes pures et ses ornements discrets, est une pièce de collection qui reflète le savoir-faire joaillier de Van Cleef & Arpels. La fragrance qu'il renferme appartient à la grande école des floraux aldéhydés français, une tradition olfactive qui remonte au N°5 de Chanel.\n\nFirst s'ouvre sur une explosion d'aldéhydes et de bergamote qui donnent au parfum sa luminosité caractéristique. Le cœur est un bouquet floral somptueux : rose centifolia, jasmin, ylang-ylang et muguet dans un accord d'une générosité et d'une précision remarquables. La base apporte chaleur et profondeur avec du santal, de l'ambre, de la civette et du musc qui peuvent se percevoir pendant des heures.\n\nFirst s'adresse aux femmes qui apprécient la parfumerie classique dans sa dimension la plus noble et la plus exigeante. Disponible chez Maison Numidia avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Aldéhydes",
+          "Bergamote",
+          "Néroli"
+        ],
+        "heart": [
+          "Rose centifolia",
+          "Jasmin",
+          "Ylang-ylang",
+          "Muguet"
+        ],
+        "base": [
+          "Bois de santal",
+          "Ambre",
+          "Civette",
+          "Musc"
+        ]
+      },
+      "family": "Floral Aldéhydé",
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales",
+        "Luxe"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver",
+        "Printemps"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "boucheron-femme",
+        "guerlain-l-heure-bleue",
+        "van-cleef-feerie"
+      ]
+    },
+    {
+      "id": "bvlgari-omnia-coral",
+      "slug": "bvlgari-omnia-coral",
+      "h1": "Bvlgari Omnia Coral Parfum Femme Algérie",
+      "name": "Omnia Coral",
+      "brand": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "65ml",
+      "price": 7500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/bvlgari-omnia-coral.jpg",
+      "shortDescription": "Bvlgari Omnia Coral est un floral fruité solaire et méditerranéen. Hibiscus, rose turque et bois de santal dans une composition lumineuse et joyeuse qui capture l'esprit de la Méditerranée.",
+      "description": "Bvlgari Omnia Coral est une addition solaire et joyeuse à la famille Omnia de la maison italienne. Lancée comme une célébration de la mer Méditerranée et du soleil, cette fragrance capture en flacon l'essence même de la dolce vita : légère, lumineuse et pleine de vie.\n\nLa composition s'ouvre sur une effusion fruitée de fruits tropicaux et d'hibiscus rose, un accord immédiatement solaire et joyeux. Le cœur floral associe rose turque, jasmin et pivoine dans un bouquet méditerranéen généreux. La base de bois de santal, musc blanc et ambre apporte la chaleur et la tendresse nécessaires pour que ce parfum reste agréable du matin au soir.\n\nOmnia Coral est le parfum idéal pour les journées d'été algériennes — sa légèreté et sa fraîcheur s'épanouissent magnifiquement avec la chaleur. Son sillage fruité-floral est joyeux sans être envahissant, ce qui en fait un excellent choix pour toutes les situations de journée.\n\nMaison Numidia propose ce parfum Bvlgari authentique avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Hibiscus",
+          "Fruits tropicaux",
+          "Agrumes"
+        ],
+        "heart": [
+          "Rose turque",
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Bois de santal",
+          "Musc blanc",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Journée",
+        "Plage",
+        "Été"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "bvlgari-omnia-crystalline",
+        "bvlgari-omnia-amethyste",
+        "dolce-gabbana-light-blue"
+      ]
+    },
+    {
+      "id": "paco-rabanne-pure-xs-femme",
+      "slug": "paco-rabanne-pure-xs-femme",
+      "h1": "Paco Rabanne Pure XS Parfum Femme Algérie",
+      "name": "Pure XS pour Elle",
+      "brand": "Paco Rabanne",
+      "brandSlug": "paco-rabanne",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 7900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/paco-rabanne-pure-xs-femme.jpg",
+      "shortDescription": "Paco Rabanne Pure XS pour Elle est un floral gourmand séduisant et intense. Gingembre, jasmin et vanille dans une composition chaude et enveloppante pour la femme qui vit sans limites.",
+      "description": "Paco Rabanne Pure XS pour Elle est la déclinaison féminine du populaire Pure XS masculin. Créée pour la femme audacieuse qui vit sans limites, cette fragrance EDP offre un caractère plus intense et plus persistant que son équivalent masculin tout en gardant l'esprit épicé-gourmand qui caractérise la ligne.\n\nLa composition s'ouvre sur un accord épicé de gingembre piquant et d'orange sanguine qui captent immédiatement l'attention. Le cœur est un accord floral-gourmand d'une sensualité dévorante : jasmin crémeux, ylang-ylang et une note de miel floral dans un accord indéfectiblement féminin. La base est généreuse et enveloppante : vanille noire, vétiver et musc sensuel qui se fondent dans un accord chaud et persistant.\n\nPure XS pour Elle est la fragrance des femmes qui préfèrent les parfums qui marquent les esprits. Sa longévité remarquable en EDP et son sillage affirmé en font un choix idéal pour les soirées et les occasions où l'on veut être mémorable.\n\nMaison Numidia livre ce parfum Paco Rabanne authentique avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Orange sanguine",
+          "Poivre rose"
+        ],
+        "heart": [
+          "Jasmin",
+          "Ylang-ylang",
+          "Miel floral"
+        ],
+        "base": [
+          "Vanille noire",
+          "Vétiver",
+          "Musc sensuel"
+        ]
+      },
+      "family": "Floral Gourmand",
+      "occasions": [
+        "Soirée",
+        "Sortie",
+        "Événement"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "olympea-paco-rabanne",
+        "lady-million-paco-rabanne",
+        "ysl-black-opium"
+      ]
+    },
+    {
+      "id": "bvlgari-goldea-roman-night",
+      "slug": "bvlgari-goldea-roman-night",
+      "h1": "Bvlgari Goldea Roman Night Parfum Femme Algérie",
+      "name": "Goldea Roman Night",
+      "brand": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/bvlgari-goldea-roman-night.jpg",
+      "shortDescription": "Bvlgari Goldea Roman Night est un floral ambré mystérieux et sensuel. Rose, tubéreuse et ambre dorée dans une composition nocturne et luxueuse inspirée des nuits romaines.",
+      "description": "Bvlgari Goldea Roman Night est la version nocturne et plus mystérieuse de la fragrance Goldea. Inspirée des nuits romaines envoûtantes — leurs monuments baignés de lumière d'or, leurs rues pavées, leur atmosphere de secrets et de beauté — cette fragrance est une invitation à la séduction assumée.\n\nLa composition s'ouvre sur un accord floral ambré chaleureux : rose dorée et néroli dans un préambule luxueux et rassurant. Le cœur est dominé par la tubéreuse — fleur nocturne par excellence — accompagnée de jasmin crémeux et d'une touche de cassis qui apportent de la profondeur et du mystère. La base est somptueuse : ambre dorée, vétiver fumé et musc blanc s'entrelacent dans un accord de longue durée.\n\nRoman Night est le parfum des femmes qui révèlent leur nature la plus profonde quand vient la nuit. Sa richesse et son intensité en font une fragrance pour les soirées et les occasions spéciales où l'on veut marquer les mémoires.\n\nDisponible chez Maison Numidia avec livraison COD dans les 58 wilayas d'Algérie.",
+      "notes": {
+        "top": [
+          "Rose dorée",
+          "Néroli",
+          "Cassis"
+        ],
+        "heart": [
+          "Tubéreuse",
+          "Jasmin",
+          "Amande"
+        ],
+        "base": [
+          "Ambre dorée",
+          "Vétiver",
+          "Musc blanc"
+        ]
+      },
+      "family": "Floral Ambré",
+      "occasions": [
+        "Soirée",
+        "Dîner",
+        "Nuit"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "bvlgari-goldea",
+        "bvlgari-jasmin-noir",
+        "ysl-black-opium"
+      ]
     }
   ],
   "brands": [
