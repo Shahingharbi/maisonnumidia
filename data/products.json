@@ -35937,6 +35937,660 @@
         "lancome-tresor-midnight-rose",
         "lancome-hypnose"
       ]
+    },
+    {
+      "id": "hermes-eau-intense-vetiver",
+      "slug": "hermes-eau-intense-vetiver",
+      "h1": "Hermès Eau Intense Vétiver Parfum Homme Algérie",
+      "name": "Eau Intense Vétiver",
+      "brand": "Hermès",
+      "brandSlug": "hermes",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 15900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/hermes-eau-intense-vetiver.jpg",
+      "shortDescription": "Hermès Eau Intense Vétiver est un EDT masculin boisé terreux d'une noblesse et d'une profondeur exceptionnelles. Un hommage au vétiver, matière première rare et précieuse, signé par la plus élégante des maisons françaises.",
+      "description": "Hermès Eau Intense Vétiver est une déclaration d'amour au vétiver, cette racine précieuse et rare qui pousse à La Réunion et qui est l'une des matières premières les plus nobles et les plus complexes de la parfumerie mondiale. Cette Eau de Toilette masculine est une composition élaborée par le maître parfumeur de la maison Hermès, qui a voulu capturer toutes les facettes de ce matériau extraordinaire: terreux, boisé, fumé et légèrement sucré simultanément. L'ouverture est fraîche et verte: une combinaison de notes herbacées et de bergamote crée une première impression de nature et d'espace qui prépare à la révélation du vétiver. Le cœur est la célébration du vétiver dans toute sa complexité: le vétiver de La Réunion s'exprime avec une richesse et une profondeur remarquables, révélant tour à tour ses facettes terreuses, boisées et légèrement fumées. La base est la signature ultime: le vétiver persistant et l'encens léger créent un fond d'une profondeur et d'une noblesse qui témoignent du savoir-faire exceptionnel de la maison Hermès. Eau Intense Vétiver est le parfum de l'homme cultivé qui connaît et apprécie les grandes matières premières de la parfumerie. En Algérie, Hermès représente l'élite de la parfumerie française. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Notes Herbacées",
+          "Bergamote",
+          "Poivre"
+        ],
+        "heart": [
+          "Vétiver de La Réunion",
+          "Cèdre"
+        ],
+        "base": [
+          "Vétiver Concentré",
+          "Encens",
+          "Musc"
+        ]
+      },
+      "family": "Boisé Terreux",
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Collection"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "hermes-voyage",
+        "terre-d-hermes",
+        "h24-hermes"
+      ]
+    },
+    {
+      "id": "prada-l-homme-intense",
+      "slug": "prada-l-homme-intense",
+      "h1": "Prada L'Homme Intense Parfum Algérie",
+      "name": "L'Homme Intense",
+      "brand": "Prada",
+      "brandSlug": "prada",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 14900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/prada-l-homme-intense.jpg",
+      "shortDescription": "Prada L'Homme Intense est la version EDP concentrée de L'Homme. Un parfum masculin iris et ambre d'une profondeur et d'une sophistication accrues, pour l'homme qui assume son côté poudré et précieux.",
+      "description": "Prada L'Homme Intense est la version la plus concentrée et la plus opulente de L'Homme, la fragrance masculine qui a redéfini les codes de la masculinité élégante selon Prada. Là où L'Homme original est délicat et aérien dans son approche de l'iris, Intense va plus loin dans la richesse et la profondeur, créant une expression masculine poudre-ambrée d'une sophistication absolue. Cet Eau de Parfum masculin s'ouvre sur un accord iris-géranium magnifié: l'iris blanc et le géranium créent un accord floral poudré d'une richesse et d'une profondeur supérieures à la version originale. Le cœur est la révélation de L'Homme Intense: l'iris absolu, traité avec une générosité et une qualité dignes de la haute parfumerie italienne, s'exprime avec une puissance et une élégance qui laissent sans voix. La base est opulente et persistante: l'ambre blanc et le vétiver créent un fond boisé-ambré d'une persistance et d'une sophistication remarquables. L'Homme Intense est le parfum de l'homme de goût qui n'a pas peur de l'originalité et qui assume parfaitement son côté précieux et sophistiqué. En Algérie, Prada est une maison de luxe très respectée. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Iris Blanc",
+          "Géranium",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris Absolu",
+          "Néroli",
+          "Cèdre"
+        ],
+        "base": [
+          "Ambre Blanc",
+          "Vétiver",
+          "Musc"
+        ]
+      },
+      "family": "Floral Poudré",
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "prada-l-homme",
+        "prada-luna-rossa",
+        "prada-amber-homme"
+      ]
+    },
+    {
+      "id": "dior-sauvage-cologne",
+      "slug": "dior-sauvage-cologne",
+      "h1": "Dior Sauvage Cologne Parfum Homme Algérie",
+      "name": "Sauvage Cologne",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "Cologne",
+      "volume": "100ml",
+      "price": 13900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dior-sauvage-cologne.jpg",
+      "shortDescription": "Dior Sauvage Cologne est la version la plus légère et la plus fraîche de Sauvage. Un cologne masculin agrumes et poivre d'une légèreté et d'une fraîcheur absolues, pour les journées chaudes de l'été algérien.",
+      "description": "Dior Sauvage Cologne est la déclinaison la plus légère et la plus estivale de la saga Sauvage, le parfum masculin le plus vendu au monde. Cette version Cologne adopte une approche plus fraîche et plus agrumée que l'EDT original, tout en conservant les codes olfactifs qui ont fait le succès mondial de Sauvage: la fraîcheur, la masculinité et le mystère des grands espaces. Cette Eau de Cologne masculine s'ouvre sur une explosion de fraîcheur absolue: la bergamote de Calabre et le citron de Sicile créent une première impression d'une fraîcheur saisissante qui rappelle l'air pur de la garrigue méditerranéenne au lever du jour. Le cœur conserve la signature Sauvage: le poivre de Sichuan et les notes épicées créent un accord aromatique frais qui est la marque de fabrique de toute la collection. La base est plus légère que dans les autres Sauvage: le vétiver léger et le musc blanc créent un fond discret et frais qui permet à cette fragrance de rester agréable même lors des journées les plus chaudes. Sauvage Cologne est le parfum parfait pour les étés algériens, offrant la sophistication de Dior Sauvage dans un format léger et rafraîchissant. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote de Calabre",
+          "Citron de Sicile",
+          "Mandarine"
+        ],
+        "heart": [
+          "Poivre de Sichuan",
+          "Lavande",
+          "Romarin"
+        ],
+        "base": [
+          "Vétiver Léger",
+          "Musc Blanc",
+          "Bois"
+        ]
+      },
+      "family": "Agrumes Aromatique",
+      "occasions": [
+        "Sport",
+        "Quotidien",
+        "Été"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "dior-sauvage",
+        "dior-sauvage-elixir",
+        "eau-sauvage-dior"
+      ]
+    },
+    {
+      "id": "carolina-herrera-212-men-edp",
+      "slug": "carolina-herrera-212-men-edp",
+      "h1": "Carolina Herrera 212 Men EDP Parfum Algérie",
+      "name": "212 Men EDP",
+      "brand": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 8500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/carolina-herrera-212-men-edp.jpg",
+      "shortDescription": "Carolina Herrera 212 Men EDP est la version Eau de Parfum intensifiée du mythique 212 Men. Plus profond et plus persistant que l'EDT original, pour l'homme new-yorkais qui veut durer toute la journée.",
+      "description": "Carolina Herrera 212 Men EDP est la réinterprétation enrichie et plus persistante du légendaire 212 Men, l'Eau de Toilette iconique qui a capturé l'énergie de New York depuis des décennies. Cette version EDP explore le même territoire olfactif frais et masculin, mais avec une profondeur et une longévité supérieures qui en font un compagnon idéal pour les longues journées new-yorkaises et algériennes. L'ouverture est fraîche et aromatique, fidèle à l'ADN de 212 Men: la bergamote et la lavande créent une entrée en matière fraîche et masculine. Le cœur est la révélation de cette version EDP: le cèdre et les notes aromatiques sont traités avec plus de richesse et de profondeur, créant un accord boisé-aromatique plus masculin et plus persistant. La base est plus profonde que dans l'EDT: l'ambre et le musc créent un fond chaleureux et persistant qui prolonge cette fragrance pendant de nombreuses heures. 212 Men EDP est le choix des hommes qui aiment 212 Men mais qui ont besoin d'une meilleure tenue sur leur peau. En Algérie, la gamme 212 est très populaire et l'EDP répond à la demande de plus grande longévité. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Lavande",
+          "Agrumes"
+        ],
+        "heart": [
+          "Cèdre",
+          "Thé Noir",
+          "Épices Douces"
+        ],
+        "base": [
+          "Ambre",
+          "Musc",
+          "Bois de Santal"
+        ]
+      },
+      "family": "Aromatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "carolina-herrera-212-men",
+        "carolina-herrera-212-vip-men",
+        "carolina-herrera-212-vip-black"
+      ]
+    },
+    {
+      "id": "guerlain-mon-guerlain-sparkling-bouquet",
+      "slug": "guerlain-mon-guerlain-sparkling-bouquet",
+      "h1": "Guerlain Mon Guerlain Sparkling Bouquet Algérie",
+      "name": "Mon Guerlain Sparkling Bouquet",
+      "brand": "Guerlain",
+      "brandSlug": "guerlain",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/guerlain-mon-guerlain-sparkling-bouquet.jpg",
+      "shortDescription": "Guerlain Mon Guerlain Sparkling Bouquet est la version florale et pétillante de Mon Guerlain. Un EDP féminin lumineux et romantique, comme un bouquet de fleurs fraîches sous les bulles d'un champagne.",
+      "description": "Guerlain Mon Guerlain Sparkling Bouquet est une interprétation plus légère et plus florale du mythique Mon Guerlain, la fragrance féminine signature de la maison Guerlain qui a conquis le monde entier avec sa lavande ultra-violette et sa vanille crémeuse. Cette édition Sparkling Bouquet explore une dimension plus printanière et plus florale, comme si le bouquet original avait été plongé dans un bain de rosée pétillante. Cet Eau de Parfum féminin s'ouvre sur une explosion de fraîcheur florale: la lavande ultra-violette et des notes de fleurs blanches créent une première impression lumineuse et vivifiante, plus légère que l'original. Le cœur est une célébration florale: le bouquet de pivoine et de jasmin ajoute une dimension florale romantique qui donne à cette version son caractère frais et printanier. La base garde la signature crémeuse de Mon Guerlain: la vanille de Tahiti et le musc blanc créent un fond enveloppant mais plus léger que l'original. Sparkling Bouquet est parfait pour celles qui aiment Mon Guerlain mais qui cherchent une version plus légère pour les journées chaudes. En Algérie, Mon Guerlain est l'une des fragrances féminines les plus populaires. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Lavande Ultra-violette",
+          "Bergamote",
+          "Fleurs Blanches"
+        ],
+        "heart": [
+          "Pivoine",
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Vanille de Tahiti",
+          "Musc Blanc",
+          "Fève Tonka"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "guerlain-mon-guerlain",
+        "guerlain-aqua-allegoria",
+        "guerlain-insolence"
+      ]
+    },
+    {
+      "id": "lancome-la-nuit-tresor-nude",
+      "slug": "lancome-la-nuit-tresor-nude",
+      "h1": "Lancôme La Nuit Trésor Nude Parfum Femme Algérie",
+      "name": "La Nuit Trésor Nude",
+      "brand": "Lancôme",
+      "brandSlug": "lancome",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "75ml",
+      "price": 11500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lancome-la-nuit-tresor-nude.jpg",
+      "shortDescription": "Lancôme La Nuit Trésor Nude est la version légère et épurée de La Nuit Trésor. Un EDT féminin floral fruité transparent et délicat, pour la femme qui aime la séduction subtile et la beauté naturelle.",
+      "description": "Lancôme La Nuit Trésor Nude est l'interprétation la plus légère et la plus naturelle de La Nuit Trésor, adoptant une approche de la séduction basée sur la transparence et la subtilité plutôt que sur l'opulence et l'intensité. Cette Eau de Toilette féminine est une composition floral-fruitée délicate qui évoque la beauté sans fard, naturelle et authentique. L'ouverture est fraîche et fruitée: la framboise et la bergamote créent une première impression légère et pétillante qui donne de la bonne humeur. Le cœur floral est aérien et romantique: la rose fraîche et la pivoine créent un accord floral délicat et transparent, comme une aquarelle olfactive. La base est discrète et propre: le musc blanc velouté et le cèdre léger créent un fond presque impalpable qui laisse les notes florales s'exprimer pleinement. La Nuit Trésor Nude est la fragrance de la femme qui a confiance en sa beauté naturelle et qui n'a pas besoin d'en faire trop. En Algérie, la collection La Nuit Trésor est très populaire et cette version Nude apporte une alternative plus légère. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Framboise",
+          "Bergamote",
+          "Citron Rose"
+        ],
+        "heart": [
+          "Rose Fraîche",
+          "Pivoine",
+          "Fleur d'Oranger"
+        ],
+        "base": [
+          "Musc Blanc Velouté",
+          "Cèdre",
+          "Bois"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "lancome-la-nuit-tresor",
+        "tresor-lancome",
+        "lancome-tresor-intense"
+      ]
+    },
+    {
+      "id": "lacoste-match-point",
+      "slug": "lacoste-match-point",
+      "h1": "Lacoste Match Point Parfum Homme Algérie",
+      "name": "Match Point",
+      "brand": "Lacoste",
+      "brandSlug": "lacoste",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 6500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lacoste-match-point.jpg",
+      "shortDescription": "Lacoste Match Point est un EDT masculin frais et aromatique inspiré du tennis, sport emblématique de la marque. Un parfum énergique pour l'homme sportif qui joue pour gagner en toutes circonstances.",
+      "description": "Lacoste Match Point est une fragrance masculine qui puise son inspiration dans le sport qui a fait la légende de René Lacoste, le Crocodile: le tennis. Cet Eau de Toilette masculin capture l'énergie, la précision et l'élégance sportive du tennis dans une composition fraîche et aromatique. L'ouverture est vivifiante et aromatique: le citron et le thé noir créent une première impression tonique et rafraîchissante qui évoque le début d'un match sur un court en plein air. Le cœur est aromatique et herbacé: le vétiver et des notes végétales créent un accord aromatique masculin et naturel qui rappelle l'herbe fraîchement coupée des courts de tennis. La base est boisée et confortable: le bois de cèdre et le musc créent un fond masculin agréable et persistant qui accompagne cette fragrance tout au long de la journée. Match Point est le parfum de l'homme qui donne le meilleur de lui-même dans chaque aspect de sa vie, comme un joueur de tennis de haut niveau. En Algérie, Lacoste est une marque très populaire et Match Point est idéal pour les activités sportives et le quotidien. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Citron",
+          "Thé Noir",
+          "Bergamote"
+        ],
+        "heart": [
+          "Vétiver",
+          "Notes Végétales",
+          "Géranium"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc",
+          "Bois"
+        ]
+      },
+      "family": "Aromatique Frais",
+      "occasions": [
+        "Sport",
+        "Bureau",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "lacoste-challenge",
+        "lacoste-pour-homme",
+        "lacoste-l12-noir"
+      ]
+    },
+    {
+      "id": "versace-eros-eau-de-cologne",
+      "slug": "versace-eros-eau-de-cologne",
+      "h1": "Versace Eros Eau de Cologne Algérie",
+      "name": "Eros Eau de Cologne",
+      "brand": "Versace",
+      "brandSlug": "versace",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "Cologne",
+      "volume": "100ml",
+      "price": 8900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/versace-eros-eau-de-cologne.jpg",
+      "shortDescription": "Versace Eros Eau de Cologne est la version la plus légère et la plus fraîche de la saga Eros. Un cologne masculin mentholé et aquatique d'une fraîcheur saisissante, pour l'été méditerranéen.",
+      "description": "Versace Eros Eau de Cologne est l'expression la plus légère et la plus fraîche de la puissante saga Eros, la collection masculine phare de la maison Versace. Cette Eau de Cologne masculine adopte une approche radicalement différente des autres Eros: au lieu de la puissance et de l'intensité des autres déclinaisons, elle opte pour une légèreté aquatique et mentholée qui rappelle la fraîcheur des côtes méditerranéennes. L'ouverture est une explosion de fraîcheur: la menthe froide et les notes marines créent une première impression d'une fraîcheur quasi thérapeutique, comme un plongeon dans la mer Méditerranée. Le cœur garde les racines aquatiques mais développe une dimension aromatique: la lavande marine et les notes herbacées créent un accord aromatique-aquatique typique de la Méditerranée. La base est légère et fraîche: le musc blanc et le bois léger créent un fond discret qui permet à la fraîcheur de dominer agréablement. Eros Eau de Cologne est le parfum idéal pour les étés algériens, offrant la sophistication de la collection Eros dans un format léger et rafraîchissant. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Menthe Froide",
+          "Notes Marines",
+          "Citron"
+        ],
+        "heart": [
+          "Lavande Marine",
+          "Herbes Aromatiques",
+          "Bergamote"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Cèdre Léger",
+          "Bois"
+        ]
+      },
+      "family": "Aquatique Aromatique",
+      "occasions": [
+        "Sport",
+        "Été",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "versace-eros",
+        "versace-eros-flame",
+        "versace-eros-parfum"
+      ]
+    },
+    {
+      "id": "armani-my-way-parfum",
+      "slug": "armani-my-way-parfum",
+      "h1": "Armani My Way Parfum Algérie",
+      "name": "My Way Le Parfum",
+      "brand": "Armani",
+      "brandSlug": "armani",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "Parfum",
+      "volume": "90ml",
+      "price": 16900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/armani-my-way-parfum.jpg",
+      "shortDescription": "Armani My Way Le Parfum est la concentration ultime de My Way. Un extrait de parfum féminin d'une intensité et d'une profondeur absolues, expression maximale du jasmin, de la tubéreuse et du bois de santal.",
+      "description": "Armani My Way Le Parfum est l'expression la plus concentrée et la plus luxueuse de My Way, la fragrance féminine qui célèbre l'ouverture au monde et la curiosité des femmes qui choisissent de voyager avec les yeux et le cœur grands ouverts. Cette concentration Parfum représente la quintessence de My Way: même identité olfactive, mais avec une intensité, une richesse et une persistance portées à leur maximum. Cette fragrance s'ouvre sur le jasmin indien dans toute sa splendeur, une ouverture florale d'une richesse et d'une beauté dignes de la haute parfumerie. Le cœur est dominé par la tubéreuse de Centifolia, une fleur précieuse et rare qui apporte une dimension crémeuse et sensuelle d'une complexité remarquable. La base est somptueuse: le bois de santal de Mysore, l'une des matières premières les plus rares et les plus onéreuses du monde, crée un fond d'une persistance et d'une profondeur exceptionnelles. My Way Le Parfum est l'investissement olfactif ultime pour la femme qui sait ce qu'elle vaut. En Algérie, Armani My Way est très populaire et cette version Parfum est le cadeau ultime. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Jasmin Indien Absolu",
+          "Bergamote",
+          "Fleur d'Oranger"
+        ],
+        "heart": [
+          "Tubéreuse de Centifolia",
+          "Jasmin Absolu",
+          "Rose"
+        ],
+        "base": [
+          "Bois de Santal de Mysore",
+          "Musc Blanc",
+          "Vétiver"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Mariage"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 7,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "armani-my-way",
+        "armani-si",
+        "armani-si-fiori"
+      ]
+    },
+    {
+      "id": "bvlgari-aqva-divina",
+      "slug": "bvlgari-aqva-divina",
+      "h1": "Bvlgari Aqva Divina Parfum Femme Algérie",
+      "name": "Aqva Divina",
+      "brand": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "65ml",
+      "price": 9900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/bvlgari-aqva-divina.jpg",
+      "shortDescription": "Bvlgari Aqva Divina est un EDT féminin marin et floral d'une légèreté divine. La version féminine de la collection Aqva, pour la femme qui rêve des rivages dorés de la Méditerranée.",
+      "description": "Bvlgari Aqva Divina est la déclinaison féminine de la collection Aqva, une gamme de fragrances marines créée par la maison Bvlgari pour capturer l'essence de la Méditerranée dans toute sa beauté et sa légèreté. Cet Eau de Toilette féminine est une invitation au voyage vers les rivages romains, où la mer Tyrrhénienne rencontre les falaises dorées et les jardins parfumés. L'ouverture est fraîche et marine: des notes d'algues marines et de bergamote créent une première impression aquatique lumineuse et légèrement iodée qui transporte immédiatement l'esprit vers la plage. Le cœur est floral et aquatique: la pivoine de mer et les fleurs blanches marines créent un accord floral-marin d'une légèreté et d'une fraîcheur absolues. La base est discrète et naturelle: le musc blanc et le bois flotté créent un fond propre et délicat qui laisse la fraîcheur marine s'exprimer librement. Aqva Divina est le parfum de l'été méditerranéen par excellence, idéal pour les journées chaudes et les escapades à la mer. En Algérie, ce parfum est particulièrement apprécié pendant les mois d'été le long des côtes. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Algues Marines",
+          "Bergamote",
+          "Agrumes"
+        ],
+        "heart": [
+          "Pivoine de Mer",
+          "Fleurs Blanches Marines",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Bois Flotté",
+          "Cèdre"
+        ]
+      },
+      "family": "Floral Marin",
+      "occasions": [
+        "Été",
+        "Plage",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "bvlgari-aqva",
+        "bvlgari-aqva-amara",
+        "bvlgari-omnia-crystalline"
+      ]
+    },
+    {
+      "id": "kenzo-flower-eau-de-vie",
+      "slug": "kenzo-flower-eau-de-vie",
+      "h1": "Kenzo Flower Eau de Vie Parfum Femme Algérie",
+      "name": "Flower Eau de Vie",
+      "brand": "Kenzo",
+      "brandSlug": "kenzo",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/kenzo-flower-eau-de-vie.jpg",
+      "shortDescription": "Kenzo Flower Eau de Vie est la version EDP la plus intense et la plus sensuelle de Flower by Kenzo. Un parfum pour la femme qui célèbre la joie de vivre avec passion et plaisir.",
+      "description": "Kenzo Flower Eau de Vie est l'expression la plus intense et la plus voluptueuse de la mythique collection Flower by Kenzo, l'une des fragrances féminines les plus vendues au monde depuis son lancement en 2000. Cette Eau de Parfum explore une dimension plus sensuelle et plus profonde que le Flower original, pour les femmes qui veulent vivre leur vie avec intensité. L'ouverture est plus riche et plus sensuelle que le Flower classique: des notes de muguet et de bergamote créent une première impression florale d'une légèreté magnifiée. Le cœur floral est l'expression maximale de Flower: la pivoine, le jasmin et la rose s'expriment avec une concentration et une richesse supérieures à la version originale, créant un bouquet floral d'une beauté et d'une profondeur remarquables. La base est chaude et enveloppante: la vanille douce et le musc blanc créent un fond sensuel qui rend cette fragrance addictive et profondément féminine. Eau de Vie est le parfum de la femme qui sait apprécier les belles choses et qui se donne la permission de se faire plaisir. En Algérie, Kenzo Flower est une fragrance féminine très populaire et Eau de Vie en est la version premium. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Muguet",
+          "Bergamote",
+          "Rose"
+        ],
+        "heart": [
+          "Pivoine",
+          "Jasmin",
+          "Rose Intensifiée"
+        ],
+        "base": [
+          "Vanille",
+          "Musc Blanc",
+          "Bois de Cèdre"
+        ]
+      },
+      "family": "Floral Doux",
+      "occasions": [
+        "Soirée",
+        "Rendez-vous",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "kenzo-flower",
+        "kenzo-flower-edp",
+        "kenzo-flower-in-the-air"
+      ]
+    },
+    {
+      "id": "dior-jadore-infinissime",
+      "slug": "dior-jadore-infinissime",
+      "h1": "Dior J'adore Infinissime Parfum Femme Algérie",
+      "name": "J'adore Infinissime",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 16900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dior-jadore-infinissime.jpg",
+      "shortDescription": "Dior J'adore Infinissime est la version EDP intensive de J'adore. Un parfum féminin floral infini et opulent, pour la femme qui veut que sa signature olfactive reste gravée dans les mémoires.",
+      "description": "Dior J'adore Infinissime est la version la plus luxueuse et la plus concentrée de J'adore, l'une des fragrances féminines les plus iconiques et les plus vendues au monde. Cette Eau de Parfum explore les limites de l'opulence florale, poussant chaque note de l'original vers son expression maximale. L'ouverture est plus riche et plus solaire que J'adore original: des notes de pêche et de poire créent une entrée fruitée-florale d'une générosité remarquable. Le cœur est l'expression ultime de la féminité selon Dior: la rose de Grasse, le jasmin de Grasse et le ylang-ylang créent un accord floral d'une richesse et d'une opulence dignes de la haute couture, magnifié par la concentration EDP. La base est profonde et sensuelle: la vanille de Madagascar et les muscs profonds créent un fond enveloppant d'une persistance remarquable qui peut durer une journée entière et se retrouver sur les vêtements le lendemain. J'adore Infinissime est le parfum de la femme qui a décidé de ne plus jamais faire de compromis. En Algérie, J'adore est le parfum préféré de nombreuses femmes pour les grandes occasions. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Pêche",
+          "Poire",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose de Grasse",
+          "Jasmin de Grasse",
+          "Ylang-Ylang"
+        ],
+        "base": [
+          "Vanille de Madagascar",
+          "Musc Profond",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Mariage",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 6,
+      "sillage": 5,
+      "inStock": true,
+      "featured": true,
+      "isOriental": false,
+      "related": [
+        "dior-jadore",
+        "dior-joy",
+        "miss-dior"
+      ]
     }
   ],
   "brands": [
