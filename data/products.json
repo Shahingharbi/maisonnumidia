@@ -36591,6 +36591,659 @@
         "dior-joy",
         "miss-dior"
       ]
+    },
+    {
+      "id": "ysl-libre-intense",
+      "slug": "ysl-libre-intense",
+      "h1": "YSL Libre Intense Parfum Femme Algérie",
+      "name": "Libre Intense",
+      "brand": "YSL",
+      "brandSlug": "ysl",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ysl-libre-intense.jpg",
+      "shortDescription": "YSL Libre Intense est la version EDP intensifiée de Libre. Un parfum féminin lavande-vanille d'une profondeur et d'une persistance supérieures, pour la femme libre qui s'affirme avec intensité.",
+      "description": "Yves Saint Laurent Libre Intense est l'expression la plus concentrée et la plus affirmée de Libre, la fragrance féminine qui a révolutionné la parfumerie féminine avec son alliance audacieuse entre la lavande — traditionnellement masculine — et la vanille de Madagascar. Cette version Intense pousse toutes les caractéristiques de Libre à leur maximum: plus chaude, plus persistante et plus enveloppante, elle est conçue pour les femmes qui veulent affirmer leur liberté avec une intensité absolue. L'ouverture est plus chaude que l'original: la lavande de Provence magnifiée et l'accord orange blossom intensifié créent une entrée en matière aromatique-florale d'une richesse remarquable. Le cœur est somptueux: la fleur d'oranger absolue et la lavande ultra-concentrée créent un accord floral-aromatique d'une beauté et d'une profondeur inhabituelles. La base est l'expression ultime de Libre Intense: la vanille de Madagascar plus concentrée et le musc blanc profond créent un fond enveloppant d'une persistance exceptionnelle. Libre Intense est pour la femme qui ne fait pas dans la demi-mesure. En Algérie, YSL Libre est l'une des fragrances les plus populaires du moment. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Lavande de Provence",
+          "Bergamote",
+          "Orange Blossom"
+        ],
+        "heart": [
+          "Fleur d'Oranger Absolue",
+          "Lavande Concentrée",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille de Madagascar",
+          "Musc Blanc",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Aromatique",
+      "occasions": [
+        "Soirée",
+        "Bureau",
+        "Toutes occasions"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 6,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "libre-ysl",
+        "libre-le-parfum-ysl",
+        "ysl-black-opium"
+      ]
+    },
+    {
+      "id": "dior-miss-dior-parfum",
+      "slug": "dior-miss-dior-parfum",
+      "h1": "Dior Miss Dior Le Parfum Algérie",
+      "name": "Miss Dior Le Parfum",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "Parfum",
+      "volume": "75ml",
+      "price": 18900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dior-miss-dior-parfum.jpg",
+      "shortDescription": "Dior Miss Dior Le Parfum est la concentration ultime de Miss Dior. Un extrait de parfum féminin floral et chypré d'une richesse et d'une persistance extraordinaires, pour la femme Dior dans sa version la plus luxueuse.",
+      "description": "Dior Miss Dior Le Parfum représente l'aboutissement de la saga Miss Dior, la collection féminine la plus emblématique de la maison Dior. Cette concentration Parfum est l'expression la plus pure et la plus opulente de l'identité olfactive de Miss Dior: florale, chyprée et inoubliable. L'ouverture est immédiatement luxueuse: la rose de Grasse — cueillie à l'aube pour préserver tous ses arômes — s'exprime avec une générosité et une pureté absolues dès les premières secondes. Le cœur est d'une richesse et d'une complexité dignes de la haute couture: le muguet de mai et l'iris poudrée créent un accord floral-poudré d'une sophistication qui a défini des générations de fragrances. La base est la signature ultime: le patchouli noble et le musc profond créent un fond chypré persistant qui peut s'attarder plusieurs jours sur les vêtements de soie. Miss Dior Le Parfum est l'investissement olfactif absolu, le parfum qu'on garde pour les moments les plus importants de sa vie: un mariage, une grande première, une soirée inoubliable. En Algérie, Miss Dior représente le sommet du luxe français accessible. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Rose de Grasse",
+          "Bergamote de Sicile"
+        ],
+        "heart": [
+          "Muguet de Mai",
+          "Iris Poudré",
+          "Jasmin Absolu"
+        ],
+        "base": [
+          "Patchouli Noble",
+          "Musc Profond",
+          "Vétiver"
+        ]
+      },
+      "family": "Floral Chypré",
+      "occasions": [
+        "Mariage",
+        "Occasion spéciale",
+        "Gala"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 7,
+      "sillage": 5,
+      "inStock": true,
+      "featured": true,
+      "isOriental": false,
+      "related": [
+        "miss-dior",
+        "dior-miss-dior-rose-n-roses",
+        "dior-jadore"
+      ]
+    },
+    {
+      "id": "chanel-n5-eau-premiere",
+      "slug": "chanel-n5-eau-premiere",
+      "h1": "Chanel N°5 Eau Première Parfum Femme Algérie",
+      "name": "N°5 Eau Première",
+      "brand": "Chanel",
+      "brandSlug": "chanel",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 16900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/chanel-n5-eau-premiere.jpg",
+      "shortDescription": "Chanel N°5 Eau Première est la version moderne et allégée du mythique N°5. Un EDP féminin aldéhydé floral plus léger et plus frais que l'original, pour les femmes qui veulent N°5 au quotidien.",
+      "description": "Chanel N°5 Eau Première est née d'une réflexion moderne sur comment adapter le mythique N°5 aux sensibilités contemporaines sans trahir son essence. Lancée en 2008, cette Eau de Parfum est une version réinterprétée du chef-d'œuvre de 1921: les mêmes matières premières nobles, la même identité aldéhydée-florale, mais dans une approche plus légère, plus fraîche et plus accessible au quotidien. L'ouverture garde les aldehydes lumineux qui sont la signature absolue du N°5, mais traités ici avec moins de concentration pour une première impression plus douce et plus moderne. Le cœur floral est l'héritage direct du N°5 original: la rose de Grasse et le jasmin de Grasse créent un accord floral d'une beauté intemporelle, légèrement allégé pour Eau Première. La base est plus fraîche que l'original: le vétiver et les muscs blancs créent un fond boisé-musqué plus délicat qui rend cette version N°5 plus facile à porter au quotidien. N°5 Eau Première est la fragrance parfaite pour les femmes qui veulent porter le mythe N°5 sans l'intensité de l'original. En Algérie, N°5 reste la fragrance féminine la plus iconique au monde. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Aldehydes Légers",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Rose de Grasse",
+          "Jasmin de Grasse",
+          "Iris"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc Blanc",
+          "Santal Léger"
+        ]
+      },
+      "family": "Floral Aldéhydé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "chanel-no5",
+        "allure-femme-chanel",
+        "chanel-coco"
+      ]
+    },
+    {
+      "id": "armani-code-profumo",
+      "slug": "armani-code-profumo",
+      "h1": "Armani Code Profumo Parfum Homme Algérie",
+      "name": "Code Profumo",
+      "brand": "Armani",
+      "brandSlug": "armani",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "Parfum",
+      "volume": "110ml",
+      "price": 15900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/armani-code-profumo.jpg",
+      "shortDescription": "Armani Code Profumo est la concentration Parfum ultime d'Armani Code. Un parfum masculin boisé et oriental d'une intensité et d'une profondeur exceptionnelles, pour l'homme qui ne lésine pas sur l'excellence.",
+      "description": "Armani Code Profumo est la version la plus puissante et la plus concentrée de la saga Armani Code, l'une des collections masculines les plus populaires et les plus reconnaissables au monde. Cette concentration Parfum représente l'expression absolue du Code Armani: masculin, séducteur et inoubliable, mais porté à son niveau maximum d'intensité et de persistance. L'ouverture est immédiatement séduisante: la bergamote et des notes de cardamome créent une entrée en matière fraîche et épicée qui capte l'attention instantanément. Le cœur est la révélation de Code Profumo: le tabac miel et les notes boisées créent un accord masculin d'une richesse et d'une profondeur dignes d'un parfum de luxe absolu. La base est monumentale et mémorable: le benjoin, l'ambre et le musc sombre créent un fond profond et persistant qui peut durer 14 à 16 heures sur la peau, laissant un sillage de luxe pendant des heures. Code Profumo est le parfum des grandes occasions, de l'homme qui veut laisser une impression absolument inoubliable. En Algérie, Armani Code est l'une des collections masculines les plus populaires. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Cardamome",
+          "Agrumes"
+        ],
+        "heart": [
+          "Tabac Miel",
+          "Bois Nobles",
+          "Guaïac"
+        ],
+        "base": [
+          "Benjoin",
+          "Ambre",
+          "Musc Sombre"
+        ]
+      },
+      "family": "Oriental Boisé",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Nuit"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 7,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "armani-code",
+        "armani-code-absolu",
+        "armani-code-edp"
+      ]
+    },
+    {
+      "id": "dolce-gabbana-light-blue-sun",
+      "slug": "dolce-gabbana-light-blue-sun",
+      "h1": "Dolce&Gabbana Light Blue Sun Parfum Femme Algérie",
+      "name": "Light Blue Sun",
+      "brand": "Dolce&Gabbana",
+      "brandSlug": "dolce-gabbana",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dolce-gabbana-light-blue-sun.jpg",
+      "shortDescription": "Dolce&Gabbana Light Blue Sun est la version solaire et estivale de Light Blue. Un EDT féminin frais et fruité pour les journées ensoleillées sous le soleil de la Méditerranée.",
+      "description": "Dolce&Gabbana Light Blue Sun est né d'une idée simple et belle: capturer la lumière et la chaleur du soleil méditerranéen dans le flacon de Light Blue, l'un des parfums féminins les plus vendus au monde. Cette Eau de Toilette féminine est une variation solaire et festive de la fragrance originale, adoptant une approche plus fruitée et plus chaleureuse. L'ouverture est immédiatement estivale: la pêche juteuse et les agrumes créent une première impression fruitée et solaire qui donne envie d'aller à la plage. Le cœur floral est lumineux: le jasmin et la rose créent un accord floral ensoleillé qui rappelle les jardins de Sicile en été. La base est légère et séduisante: le musc blanc et le bois de cèdre créent un fond agréable et persistant qui accompagne cette fragrance estivale. Light Blue Sun est le parfum des vacances méditerranéennes, des terrasses au soleil et des soirées sous les étoiles. En Algérie, Light Blue est déjà très populaire et cette version Sun est parfaite pour l'été algérien. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Pêche",
+          "Mandarine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Fleurs Blanches"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Cèdre",
+          "Bois"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Plage",
+        "Été",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "dolce-gabbana-light-blue",
+        "dolce-gabbana-light-blue-intenso",
+        "dolce-gabbana-pour-femme"
+      ]
+    },
+    {
+      "id": "versace-bright-crystal-peony",
+      "slug": "versace-bright-crystal-peony",
+      "h1": "Versace Bright Crystal Peony Parfum Femme Algérie",
+      "name": "Bright Crystal Peony",
+      "brand": "Versace",
+      "brandSlug": "versace",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "90ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/versace-bright-crystal-peony.jpg",
+      "shortDescription": "Versace Bright Crystal Peony est la version florale de Bright Crystal centrée sur la pivoine. Un EDT féminin frais et romantique, pour la femme qui aime les fleurs dans toute leur splendeur printanière.",
+      "description": "Versace Bright Crystal Peony est une célébration de la pivoine, l'une des fleurs les plus belles et les plus aimées au monde, déclinée dans l'univers cristallin et lumineux de la collection Bright Crystal de Versace. Cet Eau de Toilette féminine est une composition florale légère et romantique qui capture la beauté éphémère des pivoines en fleur au printemps. L'ouverture est fraîche et fruitée: la pivoine et les notes fruitées légères créent une première impression florale-fruitée pétillante et attrayante. Le cœur est une célébration de la pivoine dans toute sa diversité: plusieurs variétés de pivoine s'expriment simultanément pour créer un accord floral riche et multidimensionnel d'une beauté saisissante. La base est discrète et cristalline: le musc blanc et le bois léger créent un fond transparent qui laisse les pivoines s'exprimer pleinement. Bright Crystal Peony est le parfum du printemps par excellence, de la légèreté et du romantisme floral dans toute leur pureté. En Algérie, la gamme Bright Crystal de Versace est très populaire et Peony en est la version la plus florale. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Pivoine",
+          "Fruits Rouges",
+          "Bergamote"
+        ],
+        "heart": [
+          "Pivoine Céleste",
+          "Pivoine de Chine",
+          "Rose"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Bois de Cèdre",
+          "Ambre Léger"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Quotidien",
+        "Printemps",
+        "Bureau"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "versace-bright-crystal",
+        "versace-bright-crystal-absolu",
+        "versace-yellow-diamond"
+      ]
+    },
+    {
+      "id": "mont-blanc-individuel-nuit",
+      "slug": "mont-blanc-individuel-nuit",
+      "h1": "Mont Blanc Individuel Nuit Parfum Homme Algérie",
+      "name": "Individuel Nuit",
+      "brand": "Mont Blanc",
+      "brandSlug": "mont-blanc",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 7500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/mont-blanc-individuel-nuit.jpg",
+      "shortDescription": "Mont Blanc Individuel Nuit est la version nocturne et plus intense d'Individuel. Un EDP masculin boisé et chaud pour les soirées, quand l'individu se révèle sous les lumières de la nuit.",
+      "description": "Mont Blanc Individuel Nuit est la déclinaison nocturne et plus profonde d'Individuel, la fragrance masculine qui célèbre l'unicité de chaque homme selon la vision de la maison Mont Blanc. Là où Individuel est frais et aromatique pour le jour, Nuit adopte un registre plus chaleureux et plus enveloppant pour les heures après le coucher du soleil. Cet Eau de Parfum masculin s'ouvre sur des notes boisées et épicées: le cèdre et des épices douces créent une première impression masculine et confiante qui annonce la sophistication nocturne de cette fragrance. Le cœur est profond et sensuel: le tabac et les notes boisées nobles créent un accord masculin légèrement gourmand et enveloppant qui constitue la signature de Nuit. La base est la différence essentielle avec Individuel original: l'ambre chaud et les muscs profonds créent un fond oriental doux et persistant qui évolue magnifiquement avec la chaleur de la peau pendant de nombreuses heures. Individuel Nuit est le parfum de l'homme qui se révèle pleinement après le coucher du soleil, celui que les autres voient différemment dans la lumière tamisée des soirées. En Algérie, la gamme Individuel de Mont Blanc est très appréciée. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Cèdre",
+          "Épices Douces",
+          "Bergamote"
+        ],
+        "heart": [
+          "Tabac",
+          "Bois Nobles",
+          "Lavande Fumée"
+        ],
+        "base": [
+          "Ambre Chaud",
+          "Musc Profond",
+          "Santal"
+        ]
+      },
+      "family": "Oriental Boisé",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Rendez-vous"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "mont-blanc-individuel",
+        "mont-blanc-legend-rouge",
+        "mont-blanc-emblem-intense"
+      ]
+    },
+    {
+      "id": "lanvin-eclat-d-arpege-homme",
+      "slug": "lanvin-eclat-d-arpege-homme",
+      "h1": "Lanvin Éclat d'Arpège Homme Parfum Algérie",
+      "name": "Éclat d'Arpège Pour Homme",
+      "brand": "Lanvin",
+      "brandSlug": "lanvin",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 7500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lanvin-eclat-d-arpege-homme.jpg",
+      "shortDescription": "Lanvin Éclat d'Arpège Pour Homme est l'EDT masculin frais et lumineux de la maison Lanvin. Un parfum aromatique et boisé d'une élégance française accessible, pour l'homme moderne et discret.",
+      "description": "Lanvin Éclat d'Arpège Pour Homme est la déclinaison masculine de l'Éclat d'Arpège féminin, apportant au monde des fragrances masculines la légèreté et la luminosité qui caractérisent la vision de la maison Lanvin. Cet Eau de Toilette masculin est une composition fraîche et aromatique qui incarne une élégance française accessible: pas ostentatoire, pas criarde, juste une belle fragrance de bonne qualité pour l'homme qui se soucie de son apparence sans en faire une obsession. L'ouverture est fraîche et légèrement épicée: le bergamote et le poivre rose créent une première impression aromatique masculine agréable et sans prétention. Le cœur est aromatique et boisé: la lavande et le géranium créent un accord fougère masculin classique d'une élégance simple et honnête. La base est boisée et propre: le vétiver et le musc créent un fond terreux et agréable qui accompagne cette fragrance avec discrétion. Éclat d'Arpège Pour Homme est le parfum de l'homme élégant dans sa simplicité, celui qui choisit ses fragrances avec bon goût sans chercher à épater. En Algérie, Lanvin représente un excellent rapport qualité-prix dans le segment premium. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Poivre Rose",
+          "Citron"
+        ],
+        "heart": [
+          "Lavande",
+          "Géranium",
+          "Vétiver Vert"
+        ],
+        "base": [
+          "Vétiver",
+          "Musc",
+          "Bois de Cèdre"
+        ]
+      },
+      "family": "Aromatique Fougère",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "lanvin-arpege",
+        "lanvin-eclat-d-arpege",
+        "lacoste-challenge"
+      ]
+    },
+    {
+      "id": "gucci-guilty-platinum-femme",
+      "slug": "gucci-guilty-platinum-femme",
+      "h1": "Gucci Guilty Platinum Femme Parfum Algérie",
+      "name": "Guilty Platinum Pour Femme",
+      "brand": "Gucci",
+      "brandSlug": "gucci",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "75ml",
+      "price": 10900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/gucci-guilty-platinum-femme.jpg",
+      "shortDescription": "Gucci Guilty Platinum Pour Femme est la version argentée et premium de Guilty Femme. Un EDT féminin floral et musqué d'une sophistication accrue, pour la femme qui assume son succès avec style.",
+      "description": "Gucci Guilty Platinum Pour Femme est l'interprétation la plus luxueuse et la plus sophistiquée de Guilty Femme, la fragrance qui célèbre la femme moderne qui vit selon ses propres règles. Cette édition Platinum adopte une approche plus raffinée et plus musquée, comme une femme qui a gagné en maturité et en assurance au fil des années. Cet Eau de Toilette féminine s'ouvre sur une combinaison fraîche et florale: des notes de mandarine et de fleurs blanches créent une première impression lumineuse et raffinée. Le cœur floral est la signature de cette édition Platinum: la rose et le géranium créent un accord floral plus sophistiqué que la version originale, avec une dimension plus musquée et plus chic. La base est l'expression du luxe discret: le musc blanc et l'ambre léger créent un fond élégant et persistant qui s'exprime avec la discrétion que confère le vrai luxe. Guilty Platinum Femme est le parfum de la femme accomplie qui n'a plus rien à prouver à personne et qui se fait plaisir parce qu'elle le mérite. En Algérie, la gamme Guilty de Gucci est très populaire. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Fleurs Blanches",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose",
+          "Géranium",
+          "Iris"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Ambre Léger",
+          "Bois"
+        ]
+      },
+      "family": "Floral Musqué",
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "gucci-guilty-femme",
+        "gucci-guilty-intense",
+        "gucci-bloom"
+      ]
+    },
+    {
+      "id": "davidoff-cool-water-deep",
+      "slug": "davidoff-cool-water-deep",
+      "h1": "Davidoff Cool Water Deep Parfum Homme Algérie",
+      "name": "Cool Water Deep",
+      "brand": "Davidoff",
+      "brandSlug": "davidoff",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 7500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/davidoff-cool-water-deep.jpg",
+      "shortDescription": "Davidoff Cool Water Deep est la version EDP plus intense de Cool Water. Un parfum masculin aquatique profond, pour l'explorateur des grandes profondeurs qui cherche une fragrance marine avec plus de caractère.",
+      "description": "Davidoff Cool Water Deep est la déclinaison la plus profonde et la plus concentrée de la famille Cool Water, la collection aquatique masculine qui a révolutionné la parfumerie masculine au début des années 90 et qui reste une référence incontournable du genre. Là où Cool Water original est frais et léger, Deep plonge dans les profondeurs marines pour en rapporter quelque chose de plus intense et de plus mystérieux. Cet Eau de Parfum masculin s'ouvre sur des notes marines profondes: l'accord aquatique intensifié et le sel de mer créent une première impression d'immersion totale dans l'océan, fraîche et légèrement minérale. Le cœur est aquatique et boisé: le vétiver marin et le cèdre créent un accord boisé-aquatique d'une profondeur et d'une masculinité inhabituelles pour une fragrance marine. La base est profonde et persistante: le musc blanc et l'ambre marin créent un fond qui s'exprime avec une persistance et une présence supérieures à l'original. Cool Water Deep est le parfum de l'homme qui n'a pas peur de la profondeur et qui cherche une fragrance marine avec plus de substance. En Algérie, Cool Water est une marque très établie. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Accord Aquatique Profond",
+          "Sel de Mer",
+          "Bergamote"
+        ],
+        "heart": [
+          "Vétiver Marin",
+          "Cèdre",
+          "Cardamome"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Ambre Marin",
+          "Bois de Santal"
+        ]
+      },
+      "family": "Aquatique Boisé",
+      "occasions": [
+        "Sport",
+        "Bureau",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "davidoff-cool-water-homme",
+        "davidoff-cool-water",
+        "davidoff-silver-shadow"
+      ]
+    },
+    {
+      "id": "armani-stronger-with-you-freezing",
+      "slug": "armani-stronger-with-you-freezing",
+      "h1": "Armani Stronger With You Freezing Parfum Homme Algérie",
+      "name": "Stronger With You Freezing",
+      "brand": "Armani",
+      "brandSlug": "armani",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 11900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/armani-stronger-with-you-freezing.jpg",
+      "shortDescription": "Armani Stronger With You Freezing est la version glaciale et mentholée de la collection. Un EDT masculin aromatique et frais d'une intensité froide saisissante, pour l'homme qui aime les contrastes extrêmes.",
+      "description": "Armani Stronger With You Freezing est l'interprétation la plus audacieuse et la plus extrême de la collection Stronger With You, adoptant une approche radicalement différente avec sa fraîcheur glaciale et mentholée. Cette Eau de Toilette masculine est une expérience sensorielle intense qui capture la sensation de plonger dans une eau glacée: vivifiante, saisissante et inoubliable. L'ouverture est une explosion de fraîcheur glaciale: la menthe arctique et le genévrier créent une première impression de froid intense qui surprend et réveille les sens de façon spectaculaire. Le cœur est aromatique et légèrement épicé: des notes de cardamome froide et d'épices glacées créent un accord aromatique d'une originalité absolue qui maintient la sensation de fraîcheur extrême. La base est froide et boisée: le vétiver glacé et le musc froid créent un fond aromatique d'une persistance et d'une fraîcheur inhabituelles. Freezing est le parfum de l'aventurier des extrêmes, de l'homme qui recherche les sensations fortes et qui aime les fragrances qui sortent des sentiers battus. En Algérie, les déclinaisons Stronger With You d'Armani sont très populaires. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Menthe Arctique",
+          "Genévrier",
+          "Bergamote Glacée"
+        ],
+        "heart": [
+          "Cardamome Froide",
+          "Épices Glacées",
+          "Lavande"
+        ],
+        "base": [
+          "Vétiver Glacé",
+          "Musc Froid",
+          "Cèdre"
+        ]
+      },
+      "family": "Aromatique Fougère",
+      "occasions": [
+        "Sport",
+        "Bureau",
+        "Printemps-Été"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "stronger-with-you-armani",
+        "armani-stronger-with-you-only",
+        "stronger-with-you-intensely"
+      ]
+    },
+    {
+      "id": "paco-rabanne-fame-intense",
+      "slug": "paco-rabanne-fame-intense",
+      "h1": "Paco Rabanne Fame Intense Parfum Femme Algérie",
+      "name": "Fame Intense",
+      "brand": "Paco Rabanne",
+      "brandSlug": "paco-rabanne",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 13900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/paco-rabanne-fame-intense.jpg",
+      "shortDescription": "Paco Rabanne Fame Intense est la version EDP concentrée de Fame. Un parfum féminin boisé et floral d'une intensité plus grande, pour la femme qui veut que sa célébrité olfactive s'affirme avec force.",
+      "description": "Paco Rabanne Fame Intense est l'expression la plus puissante de Fame, la fragrance féminine qui a conquis le monde avec son accord unique de ylang-ylang et de bois de santal. Cette version EDP explore la même identité olfactive que l'original mais avec une concentration et une richesse supérieures, pour les femmes qui veulent que Fame reste présent plus longtemps et s'exprime avec plus de caractère. L'ouverture est plus intense et plus fruitée: les notes de bergamote et de fruits créent une entrée en matière plus affirmée que la version originale. Le cœur est magnifié: le ylang-ylang et la rose créent un accord floral d'une richesse et d'une profondeur supérieures, la signature florale de Fame portée à son expression maximale. La base est plus profonde et plus persistante: le bois de santal et les muscs blancs créent un fond boisé-floral d'une persistance remarquable. Fame Intense est la fragrance de la femme qui sait ce qu'elle veut et qui n'hésite pas à l'affirmer. En Algérie, Paco Rabanne Fame est l'une des fragrances féminines les plus récentes et les plus populaires. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fruits",
+          "Néroli"
+        ],
+        "heart": [
+          "Ylang-Ylang",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Bois de Santal",
+          "Musc Blanc",
+          "Cèdre"
+        ]
+      },
+      "family": "Floral Boisé",
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Toutes occasions"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 6,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "paco-rabanne-fame",
+        "olympea-paco-rabanne",
+        "lady-million-paco-rabanne"
+      ]
     }
   ],
   "brands": [
