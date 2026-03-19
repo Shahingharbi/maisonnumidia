@@ -29361,6 +29361,1328 @@
         "swiss-arabian-jannat-ul-firdaus",
         "swiss-arabian-kashkha"
       ]
+    },
+    {
+      "id": "ysl-opium",
+      "slug": "ysl-opium",
+      "h1": "Yves Saint Laurent Opium Parfum Femme Algérie",
+      "name": "Opium",
+      "brand": "Yves Saint Laurent",
+      "brandSlug": "ysl",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 13000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ysl-opium.jpg",
+      "shortDescription": "YSL Opium est un oriental épicé scandaleux et inoubliable, l'un des parfums les plus provocateurs de l'histoire. Mandarine, jasmin et patchouli composent une fragrance YSL légendaire depuis 1977.",
+      "description": "Yves Saint Laurent Opium est une légende de la parfumerie mondiale, l'un des parfums les plus controversés, les plus scandaleux et les plus inoubliables jamais créés. Lancé en 1977 lors d'une fête extraordinaire à bord d'un clipper amarré à New York, Opium a immédiatement provoqué une révolution dans l'industrie du parfum. Ce parfum oriental épicé incarne la passion, l'excès et la beauté dans sa forme la plus intense. L'ouverture est explosive et épicée : mandarine, clou de girofle et poivre créent une entrée orientale brûlante qui annonce un parfum de caractère absolu. Le cœur développe un accord floral-épicé de jasmin, ylang-ylang et rose sur un fond de myrrhe et de cèdre, créant une complexité florale orientale d'une richesse somptueuse. La base de patchouli intense, vanille et baume de benjoin crée un fond oriental profond et persistant qui peut rester sur la peau pendant plus de 12 heures. Opium est un parfum pour les femmes qui n'ont peur de rien, qui assument leur sensualité et leur désir de marquer les esprits. En Algérie, ce parfum YSL est particulièrement apprécié pour ses soirées. Chez Maison Numidia, livraison COD dans toutes les wilayas.",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Clou de girofle",
+          "Poivre"
+        ],
+        "heart": [
+          "Jasmin",
+          "Ylang-ylang",
+          "Rose",
+          "Myrrhe"
+        ],
+        "base": [
+          "Patchouli",
+          "Vanille",
+          "Benjoin",
+          "Cèdre"
+        ]
+      },
+      "family": "Oriental Épicé",
+      "occasions": [
+        "Soirée",
+        "Occasions",
+        "Romantique"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "mon-paris-ysl",
+        "ysl-black-opium",
+        "guerlain-shalimar"
+      ]
+    },
+    {
+      "id": "valentino-valentina",
+      "slug": "valentino-valentina",
+      "h1": "Valentino Valentina Parfum Femme Algérie",
+      "name": "Valentina",
+      "brand": "Valentino",
+      "brandSlug": "valentino",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 12500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/valentino-valentina.jpg",
+      "shortDescription": "Valentino Valentina est un floral blanc d'une pureté couture, pour la femme Valentino. Gardénia blanc, jasmin et fond musqué-boisé composent une fragrance d'une féminité élégante et romantique digne de la haute couture romaine.",
+      "description": "Valentino Valentina est le premier grand parfum féminin de la maison de haute couture romaine Valentino, lancé en 2011. Ce floral blanc délicat et lumineux incarne la femme Valentino dans toute sa grâce — élégante, romantique et d'une beauté intemporelle. L'ouverture est florale et fraîche : gardénia blanc pur et bergamote créent une entrée florale lumineuse et délicate. Le cœur développe un accord gardénia-jasmin blanc d'une pureté absolue, caractéristique des grand parfums de couture italienne. La qualité des matières premières dans Valentina est remarquable, à l'image du travail de la maison Valentino en couture. La base de musc blanc, bois de cèdre et ambre léger crée un fond boisé-musqué doux et élégant qui prolonge ce parfum pendant la journée. Valentina est le parfum idéal pour les occasions habillées, les mariages, les dîners élégants et toutes les fois où la femme veut une signature florale de qualité. En Algérie, Valentino est une maison de couture très respectée et Valentina séduit les femmes qui cherchent le luxe discret. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Gardénia blanc",
+          "Bergamote",
+          "Fraise"
+        ],
+        "heart": [
+          "Gardénia",
+          "Jasmin blanc",
+          "Rose"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Ambre léger"
+        ]
+      },
+      "family": "Floral Blanc",
+      "occasions": [
+        "Occasions",
+        "Mariage",
+        "Soirée"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "valentino-uomo",
+        "valentino-uomo-intense",
+        "coco-mademoiselle-chanel"
+      ]
+    },
+    {
+      "id": "versace-versense",
+      "slug": "versace-versense",
+      "h1": "Versace Versense Parfum Femme Algérie",
+      "name": "Versense",
+      "brand": "Versace",
+      "brandSlug": "versace",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 9000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/versace-versense.jpg",
+      "shortDescription": "Versace Versense est un aromatique floral méditerranéen frais et aquatique. Citron de Sicile, thym vert et gardénia composent une fragrance Versace légère et naturelle, évoquant la garrigue méditerranéenne.",
+      "description": "Versace Versense est un parfum qui capture l'essence sauvage et naturelle de la garrigue méditerranéenne — ces collines aromatiques baignées de soleil qui parfument les rivages de la Méditerranée. Lancé en 2009, ce parfum aromatique floral est l'expression la plus naturelle et la plus végétale de la féminité Versace. L'ouverture est immédiatement fraîche et aromatique : citron de Sicile et thym vert créent une entrée méditerranéenne naturelle et vivifiante, évoquant les herbes sauvages sous le soleil. Le cœur développe un accord gardénia-musc blanc d'une légèreté florale naturelle et agréable, qui capture la douceur des fleurs méditerranéennes sans excès. La base de cèdre blanc, musc et ambre léger crée un fond boisé naturel et discret. Versense est le parfum idéal pour les journées actives en plein air, les promenades estivales et les occasions où l'on veut un parfum frais et naturel. Sa légèreté le rend agréable toute la journée. En Algérie, ce type de parfum frais et méditerranéen est très apprécié pour les étés. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Citron de Sicile",
+          "Thym vert",
+          "Bergamote"
+        ],
+        "heart": [
+          "Gardénia",
+          "Musc blanc",
+          "Jasmin"
+        ],
+        "base": [
+          "Cèdre blanc",
+          "Musc",
+          "Ambre léger"
+        ]
+      },
+      "family": "Aromatique Floral",
+      "occasions": [
+        "Quotidien",
+        "Plein air",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "versace-bright-crystal",
+        "versace-yellow-diamond",
+        "versace-crystal-noir-edp"
+      ]
+    },
+    {
+      "id": "lancome-tresor-midnight-rose",
+      "slug": "lancome-tresor-midnight-rose",
+      "h1": "Lancôme Trésor Midnight Rose Parfum Femme Algérie",
+      "name": "Trésor Midnight Rose",
+      "brand": "Lancôme",
+      "brandSlug": "lancome",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "75ml",
+      "price": 11000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lancome-tresor-midnight-rose.jpg",
+      "shortDescription": "Lancôme Trésor Midnight Rose est la version nocturne et fruitée du légendaire Trésor. Framboise rose, rose noire et musc blanc composent une fragrance romantique et accessible pour les nuits d'amour.",
+      "description": "Lancôme Trésor Midnight Rose est la réinterprétation jeune et nocturne du légendaire Trésor de Lancôme. Lancée en 2012, cette fragrance florale fruitée modernise les codes Trésor pour la nouvelle génération de femmes, tout en conservant l'élégance florale caractéristique de la maison. L'ouverture est pétillante et fruitée : framboise rose, fraise et nectarine créent une entrée fruitée-rosée très féminine et moderne. Le cœur de rose noire, pivoine et jasmin développe un accord floral nocturne romantique qui capture l'esprit de Trésor dans une version plus jeune et plus contemporaine. La base de musc blanc, bois de cèdre et patchouli rose crée un fond boisé-musqué doux et féminin qui prolonge le parfum plusieurs heures. Midnight Rose est idéale pour les soirées romantiques, les occasions nocturnes et les jeunes femmes qui cherchent l'élégance Lancôme dans une fragrance plus accessible et fruitée. En Algérie, Lancôme est la référence du luxe français et Midnight Rose est demandée pour les occasions. Chez Maison Numidia, livraison COD dans toutes les wilayas.",
+      "notes": {
+        "top": [
+          "Framboise rose",
+          "Fraise",
+          "Nectarine"
+        ],
+        "heart": [
+          "Rose noire",
+          "Pivoine",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Patchouli rose"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Soirée",
+        "Romantique",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "tresor-lancome",
+        "lancome-la-nuit-tresor",
+        "la-vie-est-belle-lancome"
+      ]
+    },
+    {
+      "id": "hugo-boss-nuit-femme",
+      "slug": "hugo-boss-nuit-femme",
+      "h1": "Hugo Boss Nuit Parfum Femme Algérie",
+      "name": "Boss Nuit pour Femme",
+      "brand": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/hugo-boss-nuit-femme.jpg",
+      "shortDescription": "Hugo Boss Nuit pour Femme est un floral blanc nocturne et élégant, pour la femme Boss de la nuit. Fleur d'oranger, jasmin blanc et fond boisé-musqué composent une fragrance sophistiquée pour les soirées mémorables.",
+      "description": "Hugo Boss Nuit pour Femme est la fragrance nocturne et sophistiquée de la maison Hugo Boss, conçue pour la femme qui embrasse la nuit avec confiance et élégance. Lancé en 2012, ce parfum floral blanc est l'expression la plus élaborée de la féminité Boss — chic, moderne et assurée. L'ouverture est fraîche et florale : fleur d'oranger lumineuse et bergamote créent une entrée florale nocturne délicate mais présente. Le cœur développe un accord jasmin blanc pur accompagné de rose fraîche et de violette, composant un bouquet floral blanc nocturne d'une élégance sophistiquée. La base de musc ambré, bois de cèdre et vétiver apporte un fond boisé chaud et persistant qui prolonge ce parfum plusieurs heures après l'application. Boss Nuit est idéal pour les dîners, les soirées chics et toutes les occasions où la femme Boss veut être au meilleur d'elle-même. En Algérie, Hugo Boss est très populaire pour ses parfums accessibles et modernes. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Fleur d'oranger",
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Jasmin blanc",
+          "Rose",
+          "Violette"
+        ],
+        "base": [
+          "Musc ambré",
+          "Cèdre",
+          "Vétiver"
+        ]
+      },
+      "family": "Floral Blanc",
+      "occasions": [
+        "Soirée",
+        "Dîner",
+        "Occasions"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "boss-alive",
+        "ysl-black-opium",
+        "lancome-la-nuit-tresor"
+      ]
+    },
+    {
+      "id": "guerlain-mitsouko",
+      "slug": "guerlain-mitsouko",
+      "h1": "Guerlain Mitsouko Parfum Femme Algérie",
+      "name": "Mitsouko",
+      "brand": "Guerlain",
+      "brandSlug": "guerlain",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 14000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/guerlain-mitsouko.jpg",
+      "shortDescription": "Guerlain Mitsouko est un chypré fruité légendaire, considéré par les experts comme l'un des plus grands parfums jamais créés. Pêche, chêne mousse et iris composent une fragrance intemporelle d'une complexité olfactive absolue.",
+      "description": "Guerlain Mitsouko est l'une des créations olfactives les plus admirées dans l'histoire de la parfumerie mondiale. Créé par Jacques Guerlain en 1919 et inspiré du roman de Claude Farrère, ce chypré fruité est régulièrement cité par les experts et les parfumeurs comme l'un des plus grands parfums jamais réalisés — un chef-d'œuvre absolu. L'ouverture est fraîche et citronnée avec une note de pêche qui s'installe progressivement, créant cette entrée fruitée-chyprée mystérieuse caractéristique. Le cœur de pêche mûre, iris et rose développe l'accord signature Mitsouko — une combinaison florale-fruitée d'une sophistication rarissime, qui évolue différemment sur chaque peau. La base de chêne mousse, labdanum et bois de santal crée le fond chypré profond et terreux qui donne à Mitsouko sa profondeur et sa longévité extraordinaire. Mitsouko est pour les connaisseurs, les femmes qui ont une vraie culture olfactive et qui veulent porter une œuvre d'art sur la peau. En Algérie, ce parfum est le choix de celles qui cherchent l'exception absolue. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Pêche",
+          "Citron"
+        ],
+        "heart": [
+          "Pêche mûre",
+          "Iris",
+          "Rose"
+        ],
+        "base": [
+          "Chêne mousse",
+          "Labdanum",
+          "Santal"
+        ]
+      },
+      "family": "Chypré Fruité",
+      "occasions": [
+        "Occasions",
+        "Soirée",
+        "Hiver"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "guerlain-shalimar",
+        "guerlain-vol-de-nuit",
+        "lanvin-arpege"
+      ]
+    },
+    {
+      "id": "nina-ricci-ricci-ricci",
+      "slug": "nina-ricci-ricci-ricci",
+      "h1": "Nina Ricci Ricci Ricci Parfum Femme Algérie",
+      "name": "Ricci Ricci",
+      "brand": "Nina Ricci",
+      "brandSlug": "nina-ricci",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 10000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/nina-ricci-ricci-ricci.jpg",
+      "shortDescription": "Nina Ricci Ricci Ricci est un floral fruité extravagant et féminin, hommage à la dentelle et à la couture. Rhubarbe, framboise et jasmin composent une fragrance capricieuse et romantique pour la femme Nina Ricci moderne.",
+      "description": "Nina Ricci Ricci Ricci est une création haute couture qui célèbre la femme Nina Ricci dans toute sa fantaisie et sa féminité exubérante. Lancé en 2009 dans un flacon inspiré de la dentelle, ce parfum floral fruité romantique incarne la vision poétique de la maison. L'ouverture est immédiatement capricieuse et fruitée : rhubarbe acidulée, framboise juteuse et nectarine créent une entrée fruitée-acidulée pétillante qui met de bonne humeur. Le cœur développe un accord floral romantique avec jasmin, pivoine et rose — un bouquet féminin de couturière, léger et précieux. La base de musc blanc, cèdre et patchouli rose crée un fond boisé-musqué doux et féminin qui prolonge le parfum avec élégance. Ricci Ricci est pensé pour les femmes romantiques et capricieuses qui aiment les parfums frais-fruitées-floraux. Idéal pour les occasions festives, les sorties décontractées et le printemps-été. En Algérie, Nina Ricci est une maison de couture appréciée pour ses parfums délicats. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Rhubarbe",
+          "Framboise",
+          "Nectarine"
+        ],
+        "heart": [
+          "Jasmin",
+          "Pivoine",
+          "Rose"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Patchouli rose"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Printemps",
+        "Sorties",
+        "Fêtes"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "nina-ricci-bellissima",
+        "nina-ricci-l-air-du-temps",
+        "nina-ricci-premier-jour"
+      ]
+    },
+    {
+      "id": "hugo-boss-orange-homme",
+      "slug": "hugo-boss-orange-homme",
+      "h1": "Hugo Boss Orange Parfum Homme Algérie",
+      "name": "Hugo Orange pour Homme",
+      "brand": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "60ml",
+      "price": 7500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/hugo-boss-orange-homme.jpg",
+      "shortDescription": "Hugo Boss Orange pour Homme est un aromatique boisé décontracté et accessible, pour l'homme urbain moderne. Mandarine, cèdre et poivre composent une fragrance jeune et polyvalente pour toutes les occasions du quotidien.",
+      "description": "Hugo Boss Orange pour Homme est la version masculine de la collection Orange de Hugo Boss, pensée pour l'homme jeune, dynamique et urbain qui cherche un parfum accessible et agréable pour le quotidien. Lancé en 2011, ce parfum aromatique boisé offre un rapport qualité-prix excellent. L'ouverture est fraîche et fruitée : mandarine, pamplemousse et cèdre créent une entrée légère et énergisante. Le cœur aromatique développe un accord poivre noir-coriandre-géranium qui apporte une fraîcheur épicée masculine agréable. La base de bois de cèdre, musc et ambre crée un fond boisé chaud et discret. Orange Homme est idéal pour le quotidien — bureau décontracté, sorties en ville, week-end. Sa légèreté et son accessibilité en font un excellent premier parfum ou un parfum de détente quotidien. En Algérie, Hugo Boss est très populaire et Orange est souvent un choix de première fois. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Pamplemousse",
+          "Bergamote"
+        ],
+        "heart": [
+          "Poivre noir",
+          "Coriandre",
+          "Géranium"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc",
+          "Ambre"
+        ]
+      },
+      "family": "Aromatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "hugo-boss-hugo-homme",
+        "boss-the-scent-homme",
+        "boss-alive"
+      ]
+    },
+    {
+      "id": "givenchy-play",
+      "slug": "givenchy-play",
+      "h1": "Givenchy Play Parfum Homme Algérie",
+      "name": "Play",
+      "brand": "Givenchy",
+      "brandSlug": "givenchy",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 9000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/givenchy-play.jpg",
+      "shortDescription": "Givenchy Play est un aromatique boisé moderne et électrique, pour l'homme Givenchy du XXIème siècle. Poivre rose, cuir électrique et bois composent une fragrance masculine distincte et magnétique.",
+      "description": "Givenchy Play est un parfum qui incarne l'énergie et la modernité de l'homme contemporain, un aromatique boisé électrique lancé en 2008. Ce parfum fait partie de la nouvelle génération de créations Givenchy — moderne, urbain et distinctif. L'ouverture est épicée et dynamique : poivre rose, gingembre et bergamote créent une entrée épicée-fraîche qui annonce immédiatement un parfum de caractère. Le cœur développe un accord boisé-cuir original avec du bois d'oud électrique, du poivre et du cuir léger, donnant à Play cette signature distinctive dans la gamme Givenchy. La base de cèdre, vétiver et musc ambré crée un fond boisé robuste et persistant. Play est adapté aux hommes qui aiment les fragrances avec du caractère et de la modernité, pour le bureau et les occasions urbaines. Sa tenue est correcte et son sillage distingué. En Algérie, Givenchy est très apprécié pour ses créations masculines élégantes. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Poivre rose",
+          "Gingembre",
+          "Bergamote"
+        ],
+        "heart": [
+          "Bois d'oud",
+          "Poivre",
+          "Cuir léger"
+        ],
+        "base": [
+          "Cèdre",
+          "Vétiver",
+          "Musc ambré"
+        ]
+      },
+      "family": "Aromatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "givenchy-gentleman",
+        "givenchy-pi",
+        "givenchy-blue-label"
+      ]
+    },
+    {
+      "id": "davidoff-horizon",
+      "slug": "davidoff-horizon",
+      "h1": "Davidoff Horizon Parfum Homme Algérie",
+      "name": "Horizon",
+      "brand": "Davidoff",
+      "brandSlug": "davidoff",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "125ml",
+      "price": 8000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/davidoff-horizon.jpg",
+      "shortDescription": "Davidoff Horizon est un aromatique boisé aérien et aventurier. Cardamome, vétiver et fond boisé-ambré composent une fragrance pour l'homme qui repousse les limites et vise toujours l'horizon.",
+      "description": "Davidoff Horizon est un parfum aromatique boisé aventurier lancé en 2013, inspiré par l'homme qui cherche toujours à repousser ses limites et à explorer de nouveaux horizons. Ce parfum masculine de Davidoff complète sa gamme avec une proposition moderne et décontractée. L'ouverture est épicée et fraîche : cardamome, poivre rose et bergamote créent une entrée aromatique-épicée vivifiante qui annonce l'aventure. Le cœur développe un accord vétiver-iris qui constitue la profondeur boisée de Horizon, accompagné de notes de grain céréalier qui apportent une dimension naturelle unique. La base de bois de cèdre, ambre et musc doux crée un fond boisé-ambré chaleureux et confortable qui prolonge le parfum plusieurs heures. Horizon est idéal pour le bureau, les sorties sportives et les journées de week-end. Sa polyvalence en fait un parfum de tous les jours agréable. En Algérie, Davidoff est populaire pour ses parfums accessibles et de qualité. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Poivre rose",
+          "Bergamote"
+        ],
+        "heart": [
+          "Vétiver",
+          "Iris",
+          "Grain céréalier"
+        ],
+        "base": [
+          "Cèdre",
+          "Ambre",
+          "Musc doux"
+        ]
+      },
+      "family": "Aromatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Week-end"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "davidoff-silver-shadow",
+        "davidoff-echo",
+        "davidoff-cool-water-homme"
+      ]
+    },
+    {
+      "id": "gucci-guilty-black",
+      "slug": "gucci-guilty-black",
+      "h1": "Gucci Guilty Black Parfum Homme Algérie",
+      "name": "Guilty Black pour Homme",
+      "brand": "Gucci",
+      "brandSlug": "gucci",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "90ml",
+      "price": 10500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/gucci-guilty-black.jpg",
+      "shortDescription": "Gucci Guilty Black est la version sombre et intense du populaire Guilty. Lavande noire, bois de santal et ambre fumé composent un Guilty encore plus séducteur et mystérieux pour les nuits d'exception.",
+      "description": "Gucci Guilty Black est la déclinaison nocturne et plus intense du populaire Gucci Guilty pour Homme. Lancé en 2012, ce parfum oriental boisé intensifie la séduction du Guilty original dans un registre plus sombre, plus profond et plus mystérieux. L'ouverture garde les codes Guilty avec le citron et l'orange amère, mais dans une version plus intense et légèrement fumée. Le cœur développe un accord lavande noire-géranium fumé qui crée la signature distincte de cette version Black, avec une profondeur aromatique plus prononcée. La base de bois de cèdre ambré, cèdre de Virginie et patchouli noir crée un fond boisé-fumé intense et persistant qui explique le caractère nocturne de Guilty Black. Ce parfum est conçu pour les soirées et occasions importantes, quand le Guilty original ne suffit plus. Sa longévité et son sillage généreux en font un excellent choix pour les nuits mémorables. En Algérie, Gucci est très populaire et Guilty Black séduit les hommes qui aiment les parfums intenses et séducteurs. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Citron",
+          "Orange amère",
+          "Lavande fumée"
+        ],
+        "heart": [
+          "Lavande noire",
+          "Géranium fumé"
+        ],
+        "base": [
+          "Cèdre ambré",
+          "Patchouli noir",
+          "Ambre fumé"
+        ]
+      },
+      "family": "Oriental Boisé",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Romantique"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "gucci-guilty-homme",
+        "gucci-pour-homme",
+        "gucci-bloom"
+      ]
+    },
+    {
+      "id": "gucci-made-to-measure",
+      "slug": "gucci-made-to-measure",
+      "h1": "Gucci Made to Measure Parfum Homme Algérie",
+      "name": "Made to Measure",
+      "brand": "Gucci",
+      "brandSlug": "gucci",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "90ml",
+      "price": 11000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/gucci-made-to-measure.jpg",
+      "shortDescription": "Gucci Made to Measure est un aromatique boisé sur mesure, incarnant l'élégance du gentleman Gucci. Lavande, romarin et bois noble composent un parfum masculin chic et discret pour l'homme de goût.",
+      "description": "Gucci Made to Measure est un parfum inspiré par le concept du sur-mesure — cette tradition artisanale qui crée des vêtements et des parfums uniques, adaptés à chaque individu. Lancé en 2011, ce parfum aromatique boisé incarne le gentleman Gucci dans sa version la plus raffinée et discrète. L'ouverture est aromatique et fraîche : lavande de Provence, romarin et agrumes créent une entrée classique et élégante qui évoque immédiatement le monde de la haute couture masculine. Le cœur développe un accord iris-bois noble-cardamome d'une sophistication remarquable, créant une profondeur aromatique propre aux grands parfums masculins de couture. La base de bois de cèdre, patchouli et ambre boisé crée un fond boisé élégant et masculin qui donne à ce parfum sa tenue et son caractère distingué. Made to Measure est le parfum du homme d'affaires élégant, du professionnel distingué et de l'homme cultivé qui sait apprécier la qualité discrète. En Algérie, il séduit les hommes qui cherchent l'élégance Gucci dans quelque chose de moins ostentatoire. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Romarin",
+          "Bergamote"
+        ],
+        "heart": [
+          "Iris",
+          "Bois noble",
+          "Cardamome"
+        ],
+        "base": [
+          "Cèdre",
+          "Patchouli",
+          "Ambre boisé"
+        ]
+      },
+      "family": "Aromatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Occasions",
+        "Soirée"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "gucci-guilty-homme",
+        "gucci-pour-homme",
+        "invictus-paco-rabanne"
+      ]
+    },
+    {
+      "id": "dior-hypnotic-poison",
+      "slug": "dior-hypnotic-poison",
+      "h1": "Dior Hypnotic Poison Parfum Femme Algérie",
+      "name": "Hypnotic Poison",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 14000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dior-hypnotic-poison.jpg",
+      "shortDescription": "Dior Hypnotic Poison est un oriental gourmand hypnotique et addictif. Amande amère, jasmin et vanille composent une fragrance Dior enivrante et mystérieuse, pour la femme fatale qui envoûte tous ceux qui l'approchent.",
+      "description": "Dior Hypnotic Poison est une fragrance légendaire qui a créé sa propre catégorie lors de son lancement en 1998. Ce parfum oriental gourmand hypnotique est l'une des fragrances féminines les plus reconnaissables et les plus cultes de la maison Dior — une composition qui ne laisse jamais indifférent. L'ouverture est immédiatement envoûtante et gourmande : amande amère, plum et notes carmin créent une entrée addictive et chaude qui fascine les sens. Le cœur développe un accord jasmin-iris-champaca d'une opulence florale orientale distinctive, avec une qualité de matières premières exceptionnelle. La base de vanille musquée, musc blanc et bois de santal crée le fond gourmand-oriental qui a rendu Hypnotic Poison célèbre mondialement. C'est un parfum qui se porte le soir et lors d'occasions spéciales, destiné à la femme qui assume son pouvoir de séduction. Sa longévité est remarquable — souvent plus de 10 heures sur peau. En Algérie, Hypnotic Poison est parmi les parfums Dior les plus demandés. Chez Maison Numidia, garanti authentique avec livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Amande amère",
+          "Plum",
+          "Carmin"
+        ],
+        "heart": [
+          "Jasmin",
+          "Iris",
+          "Champaca"
+        ],
+        "base": [
+          "Vanille musquée",
+          "Musc blanc",
+          "Santal"
+        ]
+      },
+      "family": "Oriental Gourmand",
+      "occasions": [
+        "Soirée",
+        "Romantique",
+        "Nuit"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": true,
+      "isOriental": false,
+      "related": [
+        "miss-dior",
+        "dior-joy",
+        "dior-pure-poison"
+      ]
+    },
+    {
+      "id": "dior-pure-poison",
+      "slug": "dior-pure-poison",
+      "h1": "Dior Pure Poison Parfum Femme Algérie",
+      "name": "Pure Poison",
+      "brand": "Dior",
+      "brandSlug": "dior",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dior-pure-poison.jpg",
+      "shortDescription": "Dior Pure Poison est un floral blanc pur et venimeux d'une intensité absolue. Jasmin sambac, rose et musc blanc composent une fragrance Dior d'une pureté mortelle, pour la femme d'une beauté envoûtante.",
+      "description": "Dior Pure Poison est la version la plus pure et la plus intense de la ligne Poison de Dior. Lancé en 2004, ce floral blanc EDP capte la beauté enivrante des fleurs blanches dans leur expression la plus concentrée et la plus envoûtante. L'ouverture est florale et légèrement fruitée : cardamome, mandarine et notes vertes créent une entrée fraîche et discrète qui contraste avec la richesse à venir. Le cœur est le cœur battant de Pure Poison — jasmin sambac de Grasse absolue, rose de Bulgarie et magnolia blanc composent un bouquet floral blanc d'une beauté absolue. La qualité du jasmin sambac utilisé dans Pure Poison est particulièrement remarquable. La base de musc blanc intense, santal et cèdre blanc crée un fond floral-musqué persistant et d'une pureté cristalline. Pure Poison est pensé pour les femmes qui aiment les parfums floraux blancs riches et intenses — parfait pour les soirées, les occasions formelles et les moments romantiques. En Algérie, Pure Poison est très demandé. Chez Maison Numidia, garanti authentique avec livraison COD.",
+      "notes": {
+        "top": [
+          "Cardamome",
+          "Mandarine",
+          "Verdure"
+        ],
+        "heart": [
+          "Jasmin sambac",
+          "Rose de Bulgarie",
+          "Magnolia blanc"
+        ],
+        "base": [
+          "Musc blanc",
+          "Santal",
+          "Cèdre blanc"
+        ]
+      },
+      "family": "Floral Blanc",
+      "occasions": [
+        "Soirée",
+        "Occasions",
+        "Romantique"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "dior-hypnotic-poison",
+        "miss-dior",
+        "chanel-chance-eau-fraiche"
+      ]
+    },
+    {
+      "id": "chanel-chance-eau-tendre",
+      "slug": "chanel-chance-eau-tendre",
+      "h1": "Chanel Chance Eau Tendre Parfum Femme Algérie",
+      "name": "Chance Eau Tendre",
+      "brand": "Chanel",
+      "brandSlug": "chanel",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 18000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/chanel-chance-eau-tendre.jpg",
+      "shortDescription": "Chanel Chance Eau Tendre est la version la plus douce et la plus délicate des Chance. Pamplemousse rose, jasmin et cèdre composent une fragrance Chanel aérienne et romantique pour la femme tendre et lumineuse.",
+      "description": "Chanel Chance Eau Tendre est la déclinaison la plus douce et la plus romantique de la famille Chance de Chanel. Lancée en 2010, cette fragrance florale fruitée aérienne capte la légèreté et la douceur dans un parfum de qualité Chanel absolue. L'ouverture est immédiatement lumineuse et fruitée : pamplemousse rose, bergamote et notes de quince créent une entrée fraîche et légèrement acidulée d'une légèreté extraordinaire. Le cœur développe un accord jasmin-iris d'une délicatesse florale exemplaire — discret mais distinct, délicat mais présent. La base de cèdre blanc, musc blanc et ambre discret donne à Eau Tendre sa tenue légère et son fond boisé propre. Chance Eau Tendre est le choix de la femme qui préfère la discrétion à l'ostentation, la douceur à l'intensité. Parfait pour le bureau, les occasions diurnes et les printemps-été algériens. Sa qualité Chanel irréprochable en fait un investissement justifié. En Algérie, la gamme Chance est l'une des plus demandées de la maison. Chez Maison Numidia, Chance Eau Tendre est authentique avec livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Pamplemousse rose",
+          "Bergamote",
+          "Quince"
+        ],
+        "heart": [
+          "Jasmin",
+          "Iris",
+          "Jacinthe"
+        ],
+        "base": [
+          "Cèdre blanc",
+          "Musc blanc",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": true,
+      "isOriental": false,
+      "related": [
+        "chanel-chance-eau-fraiche",
+        "coco-mademoiselle-chanel",
+        "chanel-allure-femme"
+      ]
+    },
+    {
+      "id": "hermes-elixir-des-merveilles",
+      "slug": "hermes-elixir-des-merveilles",
+      "h1": "Hermès Elixir des Merveilles Parfum Femme Algérie",
+      "name": "Elixir des Merveilles",
+      "brand": "Hermès",
+      "brandSlug": "hermes",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 17000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/hermes-elixir-des-merveilles.jpg",
+      "shortDescription": "Hermès Elixir des Merveilles est un oriental ambrée-boisé d'une richesse lumineuse. Orange sanguine, vanille et cèdre or composent une fragrance Hermès chaleureuse et dorée, pour la femme qui aime les parfums précieux.",
+      "description": "Hermès L'Elixir des Merveilles est la version orientale et chaude de la famille des Merveilles de la maison Hermès. Lancée en 2006, cette fragrance orientale ambrée est plus profonde et plus chaude que l'Eau des Merveilles originale, tout en conservant l'élégance et la sophistication caractéristiques de la maison. L'ouverture est chaleureuse et agrumée : orange sanguine, pamplemousse doré et bergamote créent une entrée lumineuse et chaude qui annonce un parfum d'hiver ensoleillé. Le cœur développe un accord orange-vanille-bois d'une richesse orientale d'une douceur soyeuse. La base de cèdre doré, labdanum et vanille de Madagascar crée un fond ambré-oriental chaleureux et persistant qui est la signature distinctive de l'Elixir. Ce parfum est idéal pour les journées fraîches et les soirées d'automne-hiver, quand on veut se réchauffer avec une fragrance luxueuse. En Algérie, Hermès est la référence du luxe français. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Orange sanguine",
+          "Pamplemousse",
+          "Bergamote"
+        ],
+        "heart": [
+          "Orange douce",
+          "Vanille",
+          "Bois d'Elixir"
+        ],
+        "base": [
+          "Cèdre doré",
+          "Labdanum",
+          "Vanille de Madagascar"
+        ]
+      },
+      "family": "Oriental Ambré",
+      "occasions": [
+        "Soirée",
+        "Automne",
+        "Occasions"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "hermes-l-ombre-des-merveilles",
+        "hermes-jour-d-hermes",
+        "terre-d-hermes"
+      ]
+    },
+    {
+      "id": "lanvin-eclat-d-arpege",
+      "slug": "lanvin-eclat-d-arpege",
+      "h1": "Lanvin Eclat d'Arpège Parfum Femme Algérie",
+      "name": "Eclat d'Arpège",
+      "brand": "Lanvin",
+      "brandSlug": "lanvin",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lanvin-eclat-d-arpege.jpg",
+      "shortDescription": "Lanvin Eclat d'Arpège est un floral fruité lumineux et modern, hommage à la légèreté féminine. Grenade rose, pivoine et musc blanc composent une fragrance Lanvin fraîche et accessible pour la femme moderne.",
+      "description": "Lanvin Eclat d'Arpège est la réinterprétation moderne et accessible du légendaire Arpège de Lanvin. Lancé en 2002, ce floral fruité lumineux capture l'esprit de la femme contemporaine — active, positive et légère — dans un parfum frais et agréable. L'ouverture est pétillante et fruitée : grenade rose, mandarine et bergamote créent une entrée fruitée fraîche et lumineuse. Le cœur développe un accord floral féminin avec pivoine, rose fraîche et muguet, composant un bouquet printanier léger et harmonieux. La base de musc blanc, bois de cèdre et ambre léger crée un fond discret et propre qui prolonge le parfum avec légèreté. Eclat d'Arpège est idéal pour le bureau, les sorties quotidiennes et toutes les occasions où l'on veut un parfum frais et non-intrusif. Sa légèreté et son accessibilité en font un excellent choix pour les femmes qui cherchent la qualité Lanvin à un prix raisonnable. En Algérie, Lanvin est appréciée pour ses parfums accessibles de qualité française. Chez Maison Numidia, livraison COD dans toutes les wilayas.",
+      "notes": {
+        "top": [
+          "Grenade rose",
+          "Mandarine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Pivoine",
+          "Rose",
+          "Muguet"
+        ],
+        "base": [
+          "Musc blanc",
+          "Cèdre",
+          "Ambre léger"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "lanvin-arpege",
+        "lanvin-jeanne",
+        "nina-ricci-premier-jour"
+      ]
+    },
+    {
+      "id": "thierry-mugler-innocent",
+      "slug": "thierry-mugler-innocent",
+      "h1": "Mugler Innocent Parfum Femme Algérie",
+      "name": "Innocent",
+      "brand": "Mugler",
+      "brandSlug": "mugler",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 10000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/thierry-mugler-innocent.jpg",
+      "shortDescription": "Mugler Innocent est un fruité floral sucré et enfantin, pendant plus doux de l'Angel. Pomme caramel, jasmin et musc sucré composent une fragrance Mugler gourmande et innocente pour la femme douce et romantique.",
+      "description": "Mugler Innocent est la déclinaison plus douce et plus innocente de l'iconique Angel de Mugler. Lancé en 2004, ce parfum fruité floral gourmand capture l'esprit de la femme romantique et douce — moins provocatrice qu'Angel, plus accessible et plus quotidienne. L'ouverture est immédiatement fruitée et gourmande : pomme caramel, poire et bergamote créent une entrée fruitée-sucrée délicieuse et irrésistible. Le cœur développe un accord floral doux avec jasmin, rose et lys, plus léger que le cœur d'Angel, créant une féminité florale accessible. La base de musc sucré, vanille légère et bois de santal crée un fond gourmand-musqué doux qui prolonge le parfum avec une douceur confortable. Innocent est idéal pour les femmes qui aiment les fragrances gourmandes douces, pour le quotidien et les occasions décontractées. En Algérie, Mugler est apprécié pour ses fragrances iconiques et créatives. Innocent est souvent choisi comme première fragrance Mugler. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Pomme caramel",
+          "Poire",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose",
+          "Lys"
+        ],
+        "base": [
+          "Musc sucré",
+          "Vanille",
+          "Santal"
+        ]
+      },
+      "family": "Fruité Floral Gourmand",
+      "occasions": [
+        "Quotidien",
+        "Bureau",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "alien-mugler",
+        "thierry-mugler-angel-muse",
+        "thierry-mugler-alien-goddess"
+      ]
+    },
+    {
+      "id": "elizabeth-arden-fifth-avenue",
+      "slug": "elizabeth-arden-fifth-avenue",
+      "h1": "Elizabeth Arden Fifth Avenue Parfum Femme Algérie",
+      "name": "Fifth Avenue",
+      "brand": "Elizabeth Arden",
+      "brandSlug": "elizabeth-arden",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "125ml",
+      "price": 7500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/elizabeth-arden-fifth-avenue.jpg",
+      "shortDescription": "Elizabeth Arden Fifth Avenue est un floral blanc élégant et accessible, hommage à la grande avenue new-yorkaise. Magnolia, lys et fond boisé composent une fragrance classique et polyvalente pour la femme élégante de tous les jours.",
+      "description": "Elizabeth Arden Fifth Avenue est un parfum floral blanc élégant et intemporel, hommage à la légendaire avenue new-yorkaise symbole du luxe américain. Depuis son lancement en 1996, ce parfum floral boisé est devenu un classique de la maison Elizabeth Arden — accessible, polyvalent et d'une élégance discrète. L'ouverture est fraîche et florale : magnolia, bergamote et citron créent une entrée lumineuse et propre. Le cœur développe un accord floral élégant avec lys, rose et jasmin, composant un bouquet floral blanc d'une féminité classique et intemporelle. La base de bois de cèdre, musc et ambre léger donne au parfum sa tenue et son fond boisé chaud. Fifth Avenue est idéal pour toutes les occasions du quotidien — bureau, réunions, sorties. Sa légèreté et sa polyvalence en font un parfum safe et apprécié pour toutes les générations. En Algérie, Elizabeth Arden est connue pour ses cosmétiques et ses parfums accessibles. Fifth Avenue est un classique apprécié pour son rapport qualité-prix. Chez Maison Numidia, livraison COD dans toutes les wilayas.",
+      "notes": {
+        "top": [
+          "Magnolia",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Lys",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc",
+          "Ambre léger"
+        ]
+      },
+      "family": "Floral Blanc",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Occasions"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "armani-acqua-di-gioia",
+        "cacharel-amor-amor",
+        "lancome-miracle"
+      ]
+    },
+    {
+      "id": "guerlain-habit-rouge",
+      "slug": "guerlain-habit-rouge",
+      "h1": "Guerlain Habit Rouge Parfum Homme Algérie",
+      "name": "Habit Rouge",
+      "brand": "Guerlain",
+      "brandSlug": "guerlain",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 13500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/guerlain-habit-rouge.jpg",
+      "shortDescription": "Guerlain Habit Rouge est un oriental épicé équestre légendaire, créé en 1965 par Jean-Paul Guerlain. Citron, rose et cuir composent une fragrance masculine intemporelle pour l'homme de haute tradition.",
+      "description": "Guerlain Habit Rouge est une œuvre olfactive intemporelle, créée en 1965 par Jean-Paul Guerlain en hommage à la tenue de l'équitation française — l'habit rouge. Considéré comme l'un des premiers grands parfums masculins orientaux, Habit Rouge a ouvert une nouvelle catégorie et influencé des générations de parfumeurs. L'ouverture est fraîche et citronnée, avec une légèreté aromatique qui surprend pour un oriental : bergamote, citron et épices créent une entrée fraîche et aromatique séduisante. Le cœur développe un accord rose-cuir d'une élégance et d'une sophistication rares — la rose qui rencontre le cuir dans un accord masculin d'une noblesse absolue. La base de vanille, patchouli et bois de santal crée un fond oriental profond et soyeux qui donne à Habit Rouge sa longévité légendaire. Habit Rouge est pour les hommes de goût, les connaisseurs qui apprécient la parfumerie classique dans ses plus belles expressions. En Algérie, ce parfum Guerlain est choisi par les hommes qui veulent une signature véritablement classique et distinguée. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Citron",
+          "Épices"
+        ],
+        "heart": [
+          "Rose",
+          "Cuir",
+          "Jasmin"
+        ],
+        "base": [
+          "Vanille",
+          "Patchouli",
+          "Santal"
+        ]
+      },
+      "family": "Oriental Épicé",
+      "occasions": [
+        "Soirée",
+        "Occasions",
+        "Hiver"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "guerlain-shalimar",
+        "guerlain-vetiver",
+        "guerlain-heritage"
+      ]
+    },
+    {
+      "id": "hermes-bel-ami",
+      "slug": "hermes-bel-ami",
+      "h1": "Hermès Bel Ami Parfum Homme Algérie",
+      "name": "Bel Ami",
+      "brand": "Hermès",
+      "brandSlug": "hermes",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/hermes-bel-ami.jpg",
+      "shortDescription": "Hermès Bel Ami est un chypré cuir élégant et aristocratique, créé en 1986. Bouleau, cuir et bois composent une fragrance masculine pour l'homme Hermès dans toute sa distinction raffinée et intemporelle.",
+      "description": "Hermès Bel Ami est un parfum masculin d'une élégance intemporelle, créé en 1986 par la maison Hermès et considéré comme l'un des grands classiques de la parfumerie masculine française. Ce chypré cuir incarne le gentleman Hermès — raffiné, sophistiqué et d'une distinction naturelle. L'ouverture est aromatique et légèrement boisée : bergamote, thym et pétigraining créent une entrée fraîche et aromatique élégante. Le cœur développe l'accord cuir-bouleau qui est la signature distinctive de Bel Ami — un cuir noble et élégant accompagné de notes de bouleau fumé qui créent une masculinité profonde et distinctive. La base de bois de santal, mousse de chêne et cuir crée un fond chypré cuir classique d'une richesse et d'une profondeur caractéristiques des grands parfums de niche. Bel Ami est le parfum des hommes cultivés qui apprécient l'histoire de la parfumerie — parfait pour les occasions formelles et les hommes d'âge mûr. En Algérie, Hermès est très respecté pour la qualité de ses créations. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Thym",
+          "Pétigraining"
+        ],
+        "heart": [
+          "Cuir",
+          "Bouleau",
+          "Musc"
+        ],
+        "base": [
+          "Santal",
+          "Mousse de chêne",
+          "Cuir"
+        ]
+      },
+      "family": "Chypré Cuir",
+      "occasions": [
+        "Soirée",
+        "Occasions",
+        "Bureau"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "hermes-voyage",
+        "terre-d-hermes",
+        "cartier-declaration"
+      ]
+    },
+    {
+      "id": "cartier-santos-homme",
+      "slug": "cartier-santos-homme",
+      "h1": "Cartier Santos Parfum Homme Algérie",
+      "name": "Santos de Cartier",
+      "brand": "Cartier",
+      "brandSlug": "cartier",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 12000,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/cartier-santos-homme.jpg",
+      "shortDescription": "Cartier Santos est un aromatique boisé élégant et aventurier, hommage au pionnier de l'aviation Alberto Santos-Dumont. Lavande, bois de cèdre et fond cuir composent une fragrance masculine classique pour l'homme explorateur.",
+      "description": "Cartier Santos est un parfum masculine élégant créé en 1981 en hommage à Alberto Santos-Dumont, l'aviateur brésilien qui inspira la première montre Cartier. Ce parfum aromatique boisé incarne l'esprit d'aventure, d'élégance et de courage de l'homme Cartier. L'ouverture est aromatique et épicée : lavande de Provence, bergamote et cardamome créent une entrée fraîche-aromatique classique et masculine. Le cœur développe un accord boisé-cuir de bois de cèdre, géranium et cuir léger qui compose la signature élégante du Santos masculin. La base de bois de santal, patchouli et ambre oriental crée un fond boisé-oriental chaud et persistant qui ancre ce parfum dans sa masculinité. Santos est un parfum polyvalent et classique, adapté au bureau et aux occasions formelles. Son élégance discrète en fait un choix de connaisseur. En Algérie, Cartier est la maison joaillière de référence et Santos est apprécié pour sa qualité classique. Chez Maison Numidia, livraison COD dans toutes les wilayas.",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Cardamome"
+        ],
+        "heart": [
+          "Cèdre",
+          "Géranium",
+          "Cuir"
+        ],
+        "base": [
+          "Santal",
+          "Patchouli",
+          "Ambre oriental"
+        ]
+      },
+      "family": "Aromatique Boisé",
+      "occasions": [
+        "Bureau",
+        "Occasions",
+        "Soirée"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "cartier-declaration",
+        "pasha-cartier-homme",
+        "hermes-voyage"
+      ]
+    },
+    {
+      "id": "rasasi-al-wisam-evening",
+      "slug": "rasasi-al-wisam-evening",
+      "h1": "Rasasi Al Wisam Evening Parfum Homme Algérie",
+      "name": "Al Wisam Evening",
+      "brand": "Rasasi",
+      "brandSlug": "rasasi",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 3800,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/rasasi-al-wisam-evening.jpg",
+      "shortDescription": "Rasasi Al Wisam Evening est la version nocturne de Al Wisam Day, plus profonde et plus orientale. Oud, rose et épices composent une fragrance masculine orientale pour les soirées mémorables à prix accessible.",
+      "description": "Rasasi Al Wisam Evening est la version nocturne et plus intense de Al Wisam Day, créant une collection de parfums masculins orientaux pour chaque moment de la journée. Ce parfum oriental épicé nocturne incarne la richesse de la parfumerie arabe dans une version accessible et généreuse. L'ouverture de Al Wisam Evening est plus épicée et plus orientale que le Day : safran doré, épices chaudes et bergamote créent une entrée orientale luxueuse qui annonce un parfum de soirée. Le cœur développe un accord oud-rose d'une richesse orientale supérieure à la version Day, avec des notes de jasmin et d'encens qui apportent de la profondeur et du mystère. La base d'ambre intensifié, de musc ambré et de santal crée un fond oriental généreux et persistant — plus de 10 heures sur peau. Evening est idéal pour les soirées importantes, les fêtes familiales et toutes les occasions nocturnes. En Algérie, la paire Al Wisam Day/Evening est très populaire. Chez Maison Numidia, livraison COD dans les 58 wilayas.",
+      "notes": {
+        "top": [
+          "Safran",
+          "Bergamote",
+          "Épices chaudes"
+        ],
+        "heart": [
+          "Oud",
+          "Rose",
+          "Encens",
+          "Jasmin"
+        ],
+        "base": [
+          "Ambre intensifié",
+          "Musc ambré",
+          "Santal"
+        ]
+      },
+      "family": "Oriental Épicé",
+      "occasions": [
+        "Soirée",
+        "Occasions",
+        "Prière"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "rasasi-al-wisam-day",
+        "rasasi-daris",
+        "rasasi-hawas-homme"
+      ]
+    },
+    {
+      "id": "ajmal-sacrifice-pour-femme",
+      "slug": "ajmal-sacrifice-pour-femme",
+      "h1": "Ajmal Sacrifice Parfum Femme Algérie",
+      "name": "Sacrifice pour Femme",
+      "brand": "Ajmal",
+      "brandSlug": "ajmal",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "50ml",
+      "price": 3200,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ajmal-sacrifice-pour-femme.jpg",
+      "shortDescription": "Ajmal Sacrifice pour Femme est le pendant féminin du Sacrifice masculin, un floral oriental doux et accessible. Rose, jasmin et fond musqué composent une fragrance orientale accessible pour la femme qui aime les parfums arabes.",
+      "description": "Ajmal Sacrifice pour Femme est la version féminine du Sacrifice pour Homme de la maison Ajmal, complétant ainsi la collection Sacrifice pour hommes et femmes. Ce parfum floral oriental accessible incarne l'approche Ajmal — qualité orientale authentique à prix raisonnable. L'ouverture est florale et légèrement fruitée : rose fraîche, bergamote et pêche créent une entrée florale-fruitée féminine et agréable. Le cœur développe un accord floral oriental doux avec jasmin, rose de Damas et iris, créant une féminité florale orientale délicate. La base de musc blanc, ambre léger et bois de santal crée un fond musqué-boisé doux et persistant. Sacrifice pour Femme est adapté au quotidien, aux occasions familiales et aux sorties décontractées. Sa douceur en fait un parfum universellement apprécié. En Algérie, Ajmal est une marque de confiance pour les parfums orientaux accessibles. Chez Maison Numidia, livraison COD dans toutes les wilayas.",
+      "notes": {
+        "top": [
+          "Rose",
+          "Bergamote",
+          "Pêche"
+        ],
+        "heart": [
+          "Jasmin",
+          "Rose de Damas",
+          "Iris"
+        ],
+        "base": [
+          "Musc blanc",
+          "Ambre léger",
+          "Santal"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Quotidien",
+        "Bureau",
+        "Occasions"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "ajmal-sacrifice-homme",
+        "ajmal-evoke-femme",
+        "al-haramain-rose-d-arabie"
+      ]
     }
   ],
   "brands": [
