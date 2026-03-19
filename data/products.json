@@ -32650,6 +32650,1322 @@
         "armani-code",
         "azzaro-wanted"
       ]
+    },
+    {
+      "id": "ysl-y-femme",
+      "slug": "ysl-y-femme",
+      "h1": "YSL Y Femme Parfum Algérie",
+      "name": "Y Femme",
+      "brand": "YSL",
+      "brandSlug": "ysl",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 12900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ysl-y-femme.jpg",
+      "shortDescription": "YSL Y Femme est un EDP féminin floral et boisé, contrepoint féminin du succès Y Homme. Un parfum sensuel et modern signé Yves Saint Laurent, pour la femme libre et déterminée.",
+      "description": "Yves Saint Laurent Y Femme est la réponse féminine au phénoménal succès de Y Homme, apportant au monde des fragrances féminines la même énergie, la même modernité et la même intensité qui ont fait la réputation de son alter ego masculin. Cet Eau de Parfum féminin est une création ambitieuse qui mêle la fraîcheur florale et la profondeur boisée dans une composition à la fois moderne et intemporelle. L'ouverture est immédiatement séduisante: la bergamote lumineuse et des notes fruitées créent une première impression fraîche et pétillante qui donne de l'énergie. Le cœur floral est le pivot de cette création: des notes de pivoine et de rose délicates, rendues modernes par une approche contemporaine de la composition florale, créent un accord féminin et sophistiqué. La base est boisée et chaude: le bois d'ambre et le musc blanc créent un fond enveloppant et sensuel qui prolonge agréablement cette fragrance. Y Femme est le parfum de la femme d'aujourd'hui qui sait ce qu'elle veut et comment l'obtenir. En Algérie, la collection Y de YSL est très populaire dans les deux genres. Longévité de 6 à 8 heures. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Litchi",
+          "Pêche"
+        ],
+        "heart": [
+          "Pivoine",
+          "Rose",
+          "Jasmin"
+        ],
+        "base": [
+          "Bois d'Ambre",
+          "Musc Blanc",
+          "Vétiver"
+        ]
+      },
+      "family": "Floral Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Soirée"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "libre-ysl",
+        "mon-paris-ysl",
+        "ysl-black-opium"
+      ]
+    },
+    {
+      "id": "bvlgari-jasmin-noir",
+      "slug": "bvlgari-jasmin-noir",
+      "h1": "Bvlgari Jasmin Noir Parfum Femme Algérie",
+      "name": "Jasmin Noir",
+      "brand": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 11900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/bvlgari-jasmin-noir.jpg",
+      "shortDescription": "Bvlgari Jasmin Noir est un EDP féminin mystérieux et sensuel, hommage au jasmin dans sa version la plus sombre et la plus envoûtante. Un parfum de nuit qui révèle la face cachée de la femme Bvlgari.",
+      "description": "Bvlgari Jasmin Noir est une exploration audacieuse de la fleur de jasmin, prise dans sa version nocturne et mystérieuse, loin de la légèreté solaire habituelle de cette fleur emblématique. Cet Eau de Parfum féminin est conçu pour la femme qui révèle sa vraie personnalité après le coucher du soleil — plus intense, plus profonde, plus séduisante. L'ouverture est déjà enveloppante: des notes de magnolia et de fève de cacao créent une première impression douce et légèrement gourmande qui annonce la richesse de ce qui suit. Le cœur est dominé par le jasmin sambac, le plus précieux des jasmins, traité ici dans une version concentrée et nocturne qui révèle toute la profondeur et la sensualité de cette fleur mythique. La base est l'expression ultime du mystère de Jasmin Noir: le bois de gaïac fumé, le musc sombre et des notes animalières douces créent un fond profond et persistant d'une sophistication remarquable. Bvlgari Jasmin Noir est le choix des femmes qui n'ont pas peur de la profondeur et de l'intensité, celles qui revendiquent leur côté mystérieux avec élégance. En Algérie, cette fragrance est particulièrement appréciée pour les grandes soirées. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Magnolia",
+          "Fève de Cacao",
+          "Bergamote"
+        ],
+        "heart": [
+          "Jasmin Sambac",
+          "Fleurs Blanches"
+        ],
+        "base": [
+          "Bois de Gaïac",
+          "Musc Sombre",
+          "Ambregris"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "bvlgari-pour-femme",
+        "bvlgari-omnia-crystalline",
+        "bvlgari-rose-essentielle"
+      ]
+    },
+    {
+      "id": "guerlain-samsara",
+      "slug": "guerlain-samsara",
+      "h1": "Guerlain Samsara Parfum Femme Algérie",
+      "name": "Samsara",
+      "brand": "Guerlain",
+      "brandSlug": "guerlain",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 13500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/guerlain-samsara.jpg",
+      "shortDescription": "Guerlain Samsara est un EDP féminin oriental et mystique lancé en 1989, hommage aux philosophies orientales de renaissance et de transformation. Un parfum boisé et floral d'une beauté atemporelle.",
+      "description": "Guerlain Samsara est une œuvre philosophique autant qu'olfactive, créée en 1989 par Jean-Paul Guerlain en hommage au concept bouddhiste de Samsara, le cycle de la vie, de la mort et de la renaissance. Cette fragrance féminine est construite autour du bois de santal de Mysore, l'une des matières premières les plus précieuses et les plus onéreuses de la parfumerie mondiale, utilisée avec une générosité rare. L'ouverture de Samsara est déjà mystique: des notes de bergamote et de jasmin créent une entrée en matière lumineuse et orientale qui transporte immédiatement l'imagination vers les temples parfumés d'Inde. Le cœur floral et boisé est le cœur de cette fragrance: le jasmin absolu d'une richesse incomparable dialogue avec le ylang-ylang envoûtant, créant un accord floral tropical d'une intensité et d'une beauté saisissantes. La base est dominée par le bois de santal de Mysore dans toute sa splendeur: crémeux, doux, profond et persistant, il enveloppe les notes florales d'un voile chaleureux et sensuel qui peut durer plusieurs jours sur les vêtements. Guerlain Samsara est le parfum de la femme qui cherche une connexion profonde avec les parfums — une expérience méditative et sensorielle simultanément. En Algérie, les fragrances Guerlain sont considérées comme les joyaux de la parfumerie française. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Jasmin",
+          "Néroli"
+        ],
+        "heart": [
+          "Jasmin Absolu",
+          "Ylang-Ylang",
+          "Rose"
+        ],
+        "base": [
+          "Bois de Santal de Mysore",
+          "Iris",
+          "Vanille"
+        ]
+      },
+      "family": "Oriental Boisé",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Hiver"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 6,
+      "sillage": 5,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "guerlain-shalimar",
+        "guerlain-vol-de-nuit",
+        "guerlain-mitsouko"
+      ]
+    },
+    {
+      "id": "valentino-rock-n-rose",
+      "slug": "valentino-rock-n-rose",
+      "h1": "Valentino Rock'n Rose Parfum Femme Algérie",
+      "name": "Rock'n Rose",
+      "brand": "Valentino",
+      "brandSlug": "valentino",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 10900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/valentino-rock-n-rose.jpg",
+      "shortDescription": "Valentino Rock'n Rose est un EDP féminin floral pétillant et romantique. Un parfum qui marie l'élégance couture de Valentino avec une énergie rock moderne et libérée.",
+      "description": "Valentino Rock'n Rose est la fragrance qui illustre parfaitement la dualité créative de la maison Valentino: le glamour raffiné de la haute couture italienne rencontrant l'énergie libre et désinvolte du rock. Cet Eau de Parfum féminin est une célébration joyeuse de la féminité moderne, celle qui assume aussi bien une robe de soirée rouge sang qu'un perfecto en cuir. L'ouverture de Rock'n Rose est immédiatement séduisante: des notes de rose fraîche et d'agrumes pétillants créent une première impression lumineuse et pétillante, comme les paillettes d'un concert au coucher du soleil. Le cœur est une explosion de fleurs: la rose damascène, l'orchidée et la pivoine créent un bouquet floral généreux et romantique qui est le cœur battant de cette fragrance. La base est le parfait mélange entre tradition et modernité: le bois de santal doux et le musc blanc créent un fond élégant et persistant qui ancre les notes florales dans un registre luxueux et raffiné. Rock'n Rose est le parfum de la femme qui réconcilie les contraires dans sa vie quotidienne: belle et forte, romantique et déterminée, élégante et libre. En Algérie, ce parfum Valentino est particulièrement apprécié pour les occasions semi-formelles et les soirées. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Rose Fraîche",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Rose Damascène",
+          "Orchidée",
+          "Pivoine"
+        ],
+        "base": [
+          "Bois de Santal",
+          "Musc Blanc",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Bureau",
+        "Soirée",
+        "Quotidien"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "valentino-donna",
+        "valentino-valentina",
+        "valentino-voce-viva"
+      ]
+    },
+    {
+      "id": "chloe-see-by-chloe",
+      "slug": "chloe-see-by-chloe",
+      "h1": "Chloé See by Chloé Parfum Femme Algérie",
+      "name": "See by Chloé",
+      "brand": "Chloé",
+      "brandSlug": "chloe",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/chloe-see-by-chloe.jpg",
+      "shortDescription": "Chloé See by Chloé est un EDP féminin frais et romantique, capture l'esprit de la ligne prêt-à-porter accessible de Chloé. Un parfum floral fruité moderne pour la femme bohème et libre.",
+      "description": "Chloé See by Chloé est la fragrance de la ligne See by Chloé, la collection prêt-à-porter plus accessible et décontractée de la maison Chloé. Cet Eau de Parfum féminin capture l'esprit bohème et romantique de cette ligne: liberté, naturel et une féminité décontractée qui sait rester élégante. L'ouverture est légère et fruitée: des notes de poire et d'agrumes créent une première impression fraîche et appétissante, parfaite pour le quotidien. Le cœur floral est la signature de ce parfum: le freesia et la pivoine créent un accord floral romantique et délicat qui évoque les marchés aux fleurs et les matins ensoleillés. La base est douce et naturelle: le musc blanc et le bois léger créent un fond propre et confortable qui rend cette fragrance très facile à porter. See by Chloé est le parfum de la femme moderne qui veut une fragrance de qualité sans la rigidité d'un parfum trop formel. En Algérie, cette fragrance Chloé est appréciée pour son style décontracté et sa facilité de port. Longévité de 4 à 5 heures. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Poire",
+          "Bergamote",
+          "Agrumes"
+        ],
+        "heart": [
+          "Freesia",
+          "Pivoine",
+          "Rose"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Bois",
+          "Cèdre"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Quotidien",
+        "Bureau",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "chloe-signature",
+        "chloe-nomade",
+        "chloe-love-story"
+      ]
+    },
+    {
+      "id": "issey-miyake-pleats-please",
+      "slug": "issey-miyake-pleats-please",
+      "h1": "Issey Miyake Pleats Please Parfum Femme Algérie",
+      "name": "Pleats Please",
+      "brand": "Issey Miyake",
+      "brandSlug": "issey-miyake",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 8900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/issey-miyake-pleats-please.jpg",
+      "shortDescription": "Issey Miyake Pleats Please est un EDT féminin floral et lumineux, inspiré des célèbres tissus plissés du créateur japonais. Un parfum joyeux et naturel, aussi élégant que la mode Issey Miyake.",
+      "description": "Issey Miyake Pleats Please est une fragrance féminine qui honore le style créatif et l'esthétique unique du grand couturier japonais Issey Miyake, célèbre pour ses célèbres tissus plissés qui jouent avec la lumière et le mouvement. Cet Eau de Toilette féminin est une composition lumineuse et florale qui incarne la vision d'Issey Miyake: la beauté dans la simplicité, l'élégance dans la légèreté. L'ouverture est lumineuse et fruitée: des notes de litchi et de bergamote dorée créent une première impression lumineuse et joyeuse qui donne de la bonne humeur. Le cœur floral est aérien et délicat: la rose fraîche et la pivoine créent un accord floral lumineux et naturel, non conventionnel dans sa construction mais immédiatement séduisant. La base est discrète et naturelle: le musc blanc et le bois de santal léger créent un fond propre et confortable qui laisse les notes florales respirer pleinement. Pleats Please est le parfum de la femme raffinée qui préfère la subtilité à l'ostentation. En Algérie, les fragrances Issey Miyake jouissent d'une belle réputation pour leur originalité et leur qualité. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Litchi",
+          "Bergamote",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose",
+          "Pivoine",
+          "Fleur de Freesia"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Bois de Santal",
+          "Cèdre"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "issey-miyake-l-eau-d-issey",
+        "issey-miyake-a-drop-d-issey",
+        "issey-miyake-l-eau-d-issey-pure"
+      ]
+    },
+    {
+      "id": "hermes-kelly-caleche",
+      "slug": "hermes-kelly-caleche",
+      "h1": "Hermès Kelly Calèche Parfum Femme Algérie",
+      "name": "Kelly Calèche",
+      "brand": "Hermès",
+      "brandSlug": "hermes",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 15900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/hermes-kelly-caleche.jpg",
+      "shortDescription": "Hermès Kelly Calèche est un EDP féminin d'exception inspiré du célèbre sac Kelly. Un parfum floral et cuiré d'une sophistication absolue, hommage aux valles du sellier-maroquinier mythique.",
+      "description": "Hermès Kelly Calèche est un parfum d'exception qui rend hommage à l'un des objets les plus désirés au monde: le sac Kelly de la maison Hermès, né d'un carrosse du 19e siècle et immortalisé par la Princesse Grace. Cet Eau de Parfum féminin est une invitation dans les ateliers d'Hermès, ce lieu de savoir-faire artisanal unique où se fabriquent les plus belles pièces de maroquinerie du monde. L'ouverture de Kelly Calèche est à la fois fraîche et élégante: une bergamote lumineuse et un néroli précieux créent une introduction digne d'une grande maison, annonçant la sophistication de ce qui va suivre. Le cœur floral est d'une complexité et d'une beauté rares: la rose de Grasse, le jasmin absolu et l'iris poudrée s'entrecroisent dans une composition florale d'une élégance et d'une profondeur dignes de la tradition parfumière des grandes maisons françaises. La base cuirée est la signature de Kelly Calèche: des notes cuirées délicates et du bois de santal créent un fond sophistiqué qui rappelle l'odeur incomparable du cuir Hermès, cette matière noble qui fait la réputation mondiale de la maison. Kelly Calèche est le parfum de la femme d'exception qui apprécie le véritable luxe dans tous ses aspects. En Algérie, ce parfum représente l'investissement olfactif ultime. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Néroli",
+          "Galbanum"
+        ],
+        "heart": [
+          "Rose de Grasse",
+          "Jasmin Absolu",
+          "Iris"
+        ],
+        "base": [
+          "Cuir",
+          "Bois de Santal",
+          "Vétiver"
+        ]
+      },
+      "family": "Floral Cuiré",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Professionnel"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "hermes-24-faubourg",
+        "hermes-jour-d-hermes",
+        "twilly-d-hermes"
+      ]
+    },
+    {
+      "id": "armani-emporio-she",
+      "slug": "armani-emporio-she",
+      "h1": "Armani Emporio She Parfum Femme Algérie",
+      "name": "Emporio Armani She",
+      "brand": "Armani",
+      "brandSlug": "armani",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 9500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/armani-emporio-she.jpg",
+      "shortDescription": "Armani Emporio She est un EDP féminin floral et boisé de la gamme Emporio Armani. Un parfum moderne et accessible qui capture l'essence de la femme Armani dans sa version la plus quotidienne.",
+      "description": "Armani Emporio She est la fragrance féminine de la gamme Emporio Armani, la ligne plus accessible et décontractée de la maison Armani qui s'adresse à la femme moderne dans sa vie de tous les jours. Cet Eau de Parfum féminin est une composition élégante et accessible qui incarne la vision d'une féminité contemporaine: confiante, active et toujours impeccable. L'ouverture est fraîche et lumineuse: des notes d'agrumes et de fleurs blanches créent une première impression légère et attrayante qui donne de l'énergie pour commencer la journée. Le cœur floral est la signature de She: la pivoine et le jasmin créent un accord floral féminin et moderne, délicat sans être fade, sophistiqué sans être austère. La base boisée et musquée est confortable et persistante: le cèdre et les muscs blancs créent un fond propre et élégant qui accompagne cette fragrance avec discrétion. Emporio Armani She est la fragrance du quotidien pour la femme qui aime porter une marque de prestige sans vouloir une fragrance trop complexe ou trop lourde. En Algérie, la gamme Emporio Armani est très appréciée pour son positionnement premium accessible. Longévité de 5 à 6 heures. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Fleurs Blanches",
+          "Mandarine"
+        ],
+        "heart": [
+          "Pivoine",
+          "Jasmin",
+          "Rose"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc Blanc",
+          "Bois de Santal"
+        ]
+      },
+      "family": "Floral Boisé",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Week-end"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "armani-si",
+        "armani-acqua-di-gioia",
+        "armani-my-way"
+      ]
+    },
+    {
+      "id": "jean-paul-gaultier-gaultier-2",
+      "slug": "jean-paul-gaultier-gaultier-2",
+      "h1": "Jean Paul Gaultier Gaultier² Parfum Unisexe Algérie",
+      "name": "Gaultier²",
+      "brand": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "category": "parfums-homme",
+      "gender": "unisexe",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 10500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/jean-paul-gaultier-gaultier-2.jpg",
+      "shortDescription": "Jean Paul Gaultier Gaultier² est un EDT unisexe floral épicé, expression de l'amour absolu selon l'enfant terrible de la mode française. Un parfum androgyne et subversif pour les esprits libres.",
+      "description": "Jean Paul Gaultier Gaultier² est une fragrance philosophique autant qu'olfactive, lancée en 2005 pour célébrer l'amour dans toutes ses formes. Le concept est aussi ambitieux que le parfumeur lui-même: un jus unisexe qui représente l'union de deux êtres, l'alchimie parfaite entre le masculin et le féminin, symbolisée par deux flacons identiques mais dont les contenus s'unissent pour créer quelque chose de nouveau. Cet Eau de Toilette unisexe s'ouvre sur une note de gingembre frais et piquant, créant une ouverture énergique et légèrement épicée qui capte l'attention des deux genres. Le cœur floral-épicé est la signature de cette fragrance: la rose et le jasmin s'entremêlent avec des épices douces pour créer un accord floral épicé d'une originalité absolue. La base orientale et musquée, avec le benjoin chaud et le musc blanc, crée un fond enveloppant et unificateur qui rappelle la chaleur d'une étreinte. Gaultier² est le parfum de ceux qui ne croient pas aux frontières du genre dans la mode ou le parfum, ceux qui vivent l'amour comme une aventure totale. En Algérie, les fragrances unisexes gagnent en popularité auprès des jeunes générations. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Bergamote",
+          "Épices"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Cannelle"
+        ],
+        "base": [
+          "Benjoin",
+          "Musc Blanc",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Épicé",
+      "occasions": [
+        "Quotidien",
+        "Soirée",
+        "Romantique"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "jean-paul-gaultier-classique",
+        "le-male-jean-paul-gaultier",
+        "jean-paul-gaultier-scandal"
+      ]
+    },
+    {
+      "id": "dolce-gabbana-velvet-love",
+      "slug": "dolce-gabbana-velvet-love",
+      "h1": "Dolce&Gabbana Velvet Love Parfum Femme Algérie",
+      "name": "Velvet Love",
+      "brand": "Dolce&Gabbana",
+      "brandSlug": "dolce-gabbana",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "150ml",
+      "price": 17900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dolce-gabbana-velvet-love.jpg",
+      "shortDescription": "Dolce&Gabbana Velvet Love est un EDP féminin de la collection Velvet, luxueux et enveloppant. Un parfum floral musc d'une sophistication absolue pour la femme qui ne fait aucun compromis sur le luxe.",
+      "description": "Dolce&Gabbana Velvet Love appartient à la collection Velvet, la ligne haute parfumerie de la maison Dolce&Gabbana qui représente le summum du luxe olfactif à l'italienne. Cet Eau de Parfum féminin est une célébration de l'amour sous toutes ses formes, capturé dans un flacon en verre épais et lourd, véritable objet de luxe en soi. L'ouverture de Velvet Love est immédiatement opulente: des notes de bergamote sicilienne et de fleur d'oranger créent une entrée en matière méditerranéenne et lumineuse qui place immédiatement cette fragrance dans le registre du luxe. Le cœur floral est somptueux: la rose de Turquie et le jasmin absolu créent un accord floral d'une richesse et d'une générosité dignes de la haute parfumerie. La base musquée et boisée est d'une persistance et d'une finesse remarquables: le musc blanc velouté et le bois de cèdre créent un fond d'une douceur et d'une élégance absolues. Velvet Love est le parfum de la femme qui sait ce qu'elle vaut et qui ne s'offre que ce qu'il y a de mieux. En Algérie, la collection Velvet de D&G représente un positionnement luxe très apprécié par les clientes au goût raffiné. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote Sicilienne",
+          "Fleur d'Oranger",
+          "Mandarine"
+        ],
+        "heart": [
+          "Rose de Turquie",
+          "Jasmin Absolu",
+          "Musc Rose"
+        ],
+        "base": [
+          "Musc Blanc Velouté",
+          "Cèdre",
+          "Bois de Santal"
+        ]
+      },
+      "family": "Floral Musqué",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Mariage"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "dolce-gabbana-pour-femme",
+        "dolce-gabbana-the-only-one",
+        "dolce-gabbana-dolce"
+      ]
+    },
+    {
+      "id": "prada-candy-night",
+      "slug": "prada-candy-night",
+      "h1": "Prada Candy Night Parfum Femme Algérie",
+      "name": "Candy Night",
+      "brand": "Prada",
+      "brandSlug": "prada",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 13500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/prada-candy-night.jpg",
+      "shortDescription": "Prada Candy Night est la version nocturne et mystérieuse de Candy. Un EDP féminin floral musqué enveloppant, pour la femme qui révèle son caractère sensuel après le coucher du soleil.",
+      "description": "Prada Candy Night est la face cachée de Candy, le célèbre parfum féminin de Prada. Là où Candy original est sucré et joueur, Candy Night est plus sombre, plus sensuel et plus mystérieux, comme la transformation d'une jeune femme au moment où la nuit tombe et où toutes les inhibitions disparaissent. Cet Eau de Parfum féminin s'ouvre sur un accord floral et légèrement épicé qui annonce immédiatement le registre nocturne de cette fragrance. La rose noire et des notes florales sombres créent une première impression profonde et envoûtante qui capte l'attention. Le cœur est la révélation de Candy Night: un accord floral musqué d'une sensualité profonde, construit autour de la rose noire et d'un musc sombre qui créent une signature olfactive unique et mémorable. La base est opulente et persistante: la fève tonka et l'ambre créent un fond chaud et gourmand qui rappelle les nuits sucrées d'été et qui évolue magnifiquement pendant des heures. Candy Night est le parfum des nuits qui commencent sous les lumières tamisées et se terminent au lever du soleil. En Algérie, la gamme Candy de Prada est très appréciée pour son originalité et sa qualité exceptionnelle. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Rose Noire",
+          "Bergamote",
+          "Poivre Rose"
+        ],
+        "heart": [
+          "Rose Musquée",
+          "Jasmin Sombre",
+          "Iris"
+        ],
+        "base": [
+          "Fève Tonka",
+          "Ambre",
+          "Musc Sombre"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Rendez-vous"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "prada-candy",
+        "prada-candy-femme",
+        "prada-candy-sugar-pop"
+      ]
+    },
+    {
+      "id": "mont-blanc-rose-extraordinaire",
+      "slug": "mont-blanc-rose-extraordinaire",
+      "h1": "Mont Blanc Rose Extraordinaire Parfum Femme Algérie",
+      "name": "Rose Extraordinaire",
+      "brand": "Mont Blanc",
+      "brandSlug": "mont-blanc",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 8500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/mont-blanc-rose-extraordinaire.jpg",
+      "shortDescription": "Mont Blanc Rose Extraordinaire est un EDP féminin floral fruité vibrant et généreux. Une rose moderne et dynamique signée Mont Blanc, pour la femme qui célèbre sa féminité avec enthousiasme.",
+      "description": "Mont Blanc Rose Extraordinaire est la déclaration florale la plus audacieuse de la maison Mont Blanc, une rose revisitée avec la modernité et la fraîcheur caractéristiques de la marque suisse. Cet Eau de Parfum féminin est construit autour d'une rose de haute qualité, traitée avec une approche contemporaine qui la rend accessible et moderne sans sacrifier la richesse et la profondeur que les amateurs de parfums recherchent. L'ouverture est fraîche et fruitée: la framboise rose et la poire créent une première impression pétillante et joyeuse qui donne immédiatement de la bonne humeur. Le cœur est une célébration de la rose dans toute sa diversité: la rose damassée, la rose centifolia et la rose turque créent un bouquet floral d'une richesse remarquable pour ce prix, signature olfactive de qualité. La base est douce et féminine: le musc blanc et le bois de cèdre créent un fond confortable et persistant qui laisse la rose s'exprimer pleinement. Rose Extraordinaire est le parfum des femmes qui aiment les roses sans vouloir d'une fragrance trop classique. En Algérie, la marque Mont Blanc offre un excellent rapport qualité-prix dans le segment premium féminin. Longévité de 5 à 7 heures. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Framboise",
+          "Poire",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose Damascène",
+          "Rose Centifolia",
+          "Rose Turque"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Cèdre",
+          "Ambre Doux"
+        ]
+      },
+      "family": "Floral Rose",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "mont-blanc-lady-emblem",
+        "mont-blanc-legend-rouge",
+        "tresor-lancome"
+      ]
+    },
+    {
+      "id": "elie-saab-girl-of-now",
+      "slug": "elie-saab-girl-of-now",
+      "h1": "Elie Saab Girl of Now Parfum Femme Algérie",
+      "name": "Girl of Now",
+      "brand": "Elie Saab",
+      "brandSlug": "elie-saab",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 12500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/elie-saab-girl-of-now.jpg",
+      "shortDescription": "Elie Saab Girl of Now est un EDP féminin floral lumineux et moderne. La nouvelle muse du créateur libanais: une femme audacieuse, solaire et libre, sublimée par une fragrance florale irrésistible.",
+      "description": "Elie Saab Girl of Now est la fragrance de la jeune femme d'aujourd'hui selon la vision du grand couturier libanais Elie Saab. Moins classique et sophistiquée que Le Parfum, Girl of Now est une explosion de jeunesse et de luminosité qui capture l'essence de la femme moderne: libre, confiante et pleinement dans son époque. Cet Eau de Parfum féminin s'ouvre sur une combinaison lumineuse et immédiatement séduisante de rose rose et de bergamote italienne, créant une première impression fraîche et romantique. Le cœur floral est vibrant et généreux: la pivoine et la rose s'entremêlent dans un accord floral féminin et solaire d'une grande beauté. La base est douce et féminine: le bois de cèdre et le musc blanc créent un fond léger et persistant qui accompagne cette fragrance avec discrétion et élégance. Girl of Now est la fragrance parfaite pour la femme active et moderne qui cherche un parfum qui la suit dans tous ses quotidiens sans jamais peser sur ses activités. En Algérie, Elie Saab représente une fierté arabe et les fragrances de cette maison sont très appréciées pour leur qualité et leur identité culturelle. Longévité de 5 à 7 heures. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Rose Rose",
+          "Bergamote Italienne",
+          "Framboise"
+        ],
+        "heart": [
+          "Pivoine",
+          "Rose",
+          "Néroli"
+        ],
+        "base": [
+          "Cèdre",
+          "Musc Blanc",
+          "Patchouli Léger"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "elie-saab-le-parfum",
+        "lancome-hypnose",
+        "guerlain-mon-guerlain"
+      ]
+    },
+    {
+      "id": "bvlgari-goldea",
+      "slug": "bvlgari-goldea",
+      "h1": "Bvlgari Goldea Parfum Femme Algérie",
+      "name": "Goldea",
+      "brand": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 12500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/bvlgari-goldea.jpg",
+      "shortDescription": "Bvlgari Goldea est un EDP féminin floral musqué d'une sensualité dorée. Inspirée du Soleil de Rome, cette fragrance Bvlgari capture la lumière et la chaleur méditerranéennes dans toute leur splendeur.",
+      "description": "Bvlgari Goldea est une fragrance féminine qui incarne l'or liquide: sensuelle, chaude et lumineuse comme les rayons du soleil méditerranéen qui baignent Rome, la ville natale de la maison Bvlgari. Cet Eau de Parfum féminin est une composition audacieuse qui celebrate la féminité dans toute sa richesse dorée. L'ouverture est lumineuse et séduisante: des notes de mandarine juteuse et d'acacia doré créent une première impression ensoleillée et chaleureuse qui évoque immédiatement les matins d'été romains. Le cœur floral est somptueux: la pivoine d'or et l'héliotrope solaire créent un accord floral chaud et musqué d'une richesse et d'une sensualité dignes du symbole du luxe à l'italienne que représente Bvlgari. La base est enveloppante et persistante: le musc chaud et le bois de santal doré créent un fond sensuel et chaleureux qui s'imprègne magnifiquement dans la peau et les vêtements. Goldea est le parfum de la femme qui brille naturellement, celle qui n'a pas besoin de bijoux pour être remarquée car elle porte sa lumière intérieure. En Algérie, Bvlgari Goldea est particulièrement apprécié pour les soirées et les occasions où l'on veut se sentir spéciale. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Acacia",
+          "Agrumes Dorés"
+        ],
+        "heart": [
+          "Pivoine d'Or",
+          "Héliotrope",
+          "Jasmin"
+        ],
+        "base": [
+          "Musc Chaud",
+          "Bois de Santal",
+          "Ambre Doré"
+        ]
+      },
+      "family": "Floral Musqué",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Rendez-vous"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "bvlgari-rose-essentielle",
+        "bvlgari-jasmin-noir",
+        "bvlgari-splendida-magnolia"
+      ]
+    },
+    {
+      "id": "armani-stronger-with-you-only",
+      "slug": "armani-stronger-with-you-only",
+      "h1": "Armani Stronger With You Only Parfum Homme Algérie",
+      "name": "Stronger With You Only",
+      "brand": "Armani",
+      "brandSlug": "armani",
+      "category": "parfums-homme",
+      "gender": "homme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 12500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/armani-stronger-with-you-only.jpg",
+      "shortDescription": "Armani Stronger With You Only est un EDT masculin frais et aromatique, l'interprétation la plus légère de la saga. Pour l'homme romantique qui exprime sa force avec douceur et spontanéité.",
+      "description": "Armani Stronger With You Only est la dernière déclinaison de la collection Stronger With You, l'une des gammes masculines les plus populaires de la maison Giorgio Armani. Là où Stronger With You original est gourmand et Intensely est plus opulent, Only adopte une approche plus fraîche et printanière, comme un amour au grand air. Cet Eau de Toilette masculin est une déclaration de force et de tendresse simultanées, capturant l'essence d'un homme qui s'assume pleinement. L'ouverture est fraîche et aromatique: la lavande et le citron créent une entrée en matière vivifiante et moderne qui rappelle les grandes fragrances fougères masculines classiques. Le cœur est la surprise de cette fragrance: des notes de violette et de cannelle s'associent dans un accord floral épicé légèrement inhabituel pour un parfum masculin, créant une signature olfactive unique et mémorable. La base est boisée et légèrement sucrée: le bois de cèdre et la fève tonka créent un fond chaleureux et masculin qui prolonge agréablement ce parfum. Stronger With You Only est le parfum du printemps et de l'été pour l'homme romantique. En Algérie, la collection Stronger With You d'Armani est extrêmement populaire. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Citron",
+          "Bergamote"
+        ],
+        "heart": [
+          "Violette",
+          "Cannelle",
+          "Géranium"
+        ],
+        "base": [
+          "Cèdre",
+          "Fève Tonka",
+          "Musc"
+        ]
+      },
+      "family": "Aromatique Fougère",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "stronger-with-you-armani",
+        "stronger-with-you-intensely",
+        "armani-code"
+      ]
+    },
+    {
+      "id": "gucci-premiere",
+      "slug": "gucci-premiere",
+      "h1": "Gucci Première Parfum Femme Algérie",
+      "name": "Première",
+      "brand": "Gucci",
+      "brandSlug": "gucci",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "75ml",
+      "price": 12900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/gucci-premiere.jpg",
+      "shortDescription": "Gucci Première est un EDP féminin floral aldéhydé d'une élégance hollywoodienne. Un parfum glamour et raffiné inspiré du monde du cinéma, pour la femme qui vit comme une star.",
+      "description": "Gucci Première est une fragrance féminine qui rend hommage au glamour du Hollywood d'or, inspirée par les grandes stars du cinéma qui portaient des fourrures et des bijoux de diamants. Cet Eau de Parfum féminin est une composition classique et ambitieuse qui évoque les grands films de l'époque classique et les femmes légendaires qui les ont incarnés. L'ouverture de Gucci Première est immédiatement classique et sophistiquée: des aldehydes lumineux et la bergamote créent une première impression typiquement française dans le meilleur sens du terme, élégante et assurée. Le cœur floral est d'une richesse et d'une qualité remarquables: la rose damascène et le jasmin absolu créent un accord floral de haute parfumerie qui évoque les grandes créations des années 50. La base est profonde et sensuelle: la civet, le bois de santal et l'ambre créent un fond chaleureux et persistant d'une sophistication rare. Gucci Première est le parfum de la soirée de gala, de la première de cinéma, de tous les moments où une femme veut se sentir véritablement extraordinaire. En Algérie, ce parfum Gucci est très apprécié pour les grandes occasions. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Aldehydes",
+          "Bergamote",
+          "Citron"
+        ],
+        "heart": [
+          "Rose Damascène",
+          "Jasmin Absolu",
+          "Iris"
+        ],
+        "base": [
+          "Civette",
+          "Bois de Santal",
+          "Ambre"
+        ]
+      },
+      "family": "Floral Aldéhydé",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Gala"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "gucci-bloom",
+        "gucci-rush-femme",
+        "gucci-flora-gorgeous"
+      ]
+    },
+    {
+      "id": "guerlain-l-heure-bleue",
+      "slug": "guerlain-l-heure-bleue",
+      "h1": "Guerlain L'Heure Bleue Parfum Femme Algérie",
+      "name": "L'Heure Bleue",
+      "brand": "Guerlain",
+      "brandSlug": "guerlain",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 14500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/guerlain-l-heure-bleue.jpg",
+      "shortDescription": "Guerlain L'Heure Bleue est un EDP féminin créé en 1912, poème olfactif dédié à l'heure mystérieuse entre le crépuscule et la nuit. Un chef-d'œuvre intemporel de la parfumerie mondiale.",
+      "description": "Guerlain L'Heure Bleue est l'un des parfums les plus poétiques jamais créés, une méditation olfactive sur ce moment magique du soir que les Parisiens appellent l'heure bleue — cet instant suspendu entre le crépuscule et la tombée de la nuit, quand le monde retient son souffle et que tout devient possible. Créé en 1912 par Jacques Guerlain, ce parfum féminin est une œuvre d'art qui a traversé plus d'un siècle sans prendre une ride. L'ouverture est mélancolique et douce: des notes d'anis et de bergamote créent une première impression presque liquide, comme la lumière bleue qui filtre à travers les volets à l'heure du crépuscule. Le cœur est d'une beauté saisissante: la rose, l'iris et la violette s'entremêlent dans un accord floral d'une délicatesse et d'une complexité remarquables, construites sur des matières premières d'exception. La base est le pied de la nuit: la vanille gourmande et l'héliotrope poudrée créent un fond opulent et persistant qui évolue magnifiquement pendant des heures, devenant plus riche et plus profond au fil du temps. L'Heure Bleue est le parfum de la femme cultivée et mélancolique qui apprécie la beauté dans ce qu'elle a de plus éphémère. En Algérie, les classiques Guerlain représentent le summum de la parfumerie française. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Anis",
+          "Bergamote",
+          "Coriandre"
+        ],
+        "heart": [
+          "Rose",
+          "Iris",
+          "Violette"
+        ],
+        "base": [
+          "Vanille",
+          "Héliotrope",
+          "Iris Poudré"
+        ]
+      },
+      "family": "Floral Poudré",
+      "occasions": [
+        "Soirée",
+        "Occasion spéciale",
+        "Hiver"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 6,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "guerlain-shalimar",
+        "guerlain-samsara",
+        "guerlain-mitsouko"
+      ]
+    },
+    {
+      "id": "coach-floral",
+      "slug": "coach-floral",
+      "h1": "Coach Floral Parfum Femme Algérie",
+      "name": "Floral",
+      "brand": "Coach",
+      "brandSlug": "coach",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 8500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/coach-floral.jpg",
+      "shortDescription": "Coach Floral est un EDP féminin joyeux et printanier, hommage à la ville de New York en fleur. Un parfum frais et léger pour la femme optimiste qui voit la vie en rose.",
+      "description": "Coach Floral est une ode à la féminité new-yorkaise dans toute son optimisme et sa légèreté, une fragrance qui capture l'atmosphère joyeuse des parcs de New York au printemps quand les cerisiers sont en fleur. Cet Eau de Parfum féminin est une composition florale-fruitée construite pour la femme moderne qui vit à cent à l'heure mais qui sait s'arrêter pour apprécier la beauté du moment présent. L'ouverture est fraîche et gourmande: des notes de thé blanc et de pêche créent une première impression légère et appétissante, immédiatement attrayante. Le cœur floral est le portrait de l'optimisme printanier: la pivoine rose et le magnolia en fleur créent un accord floral joyeux et aérien d'une beauté simple et naturelle. La base est douce et confortable: le musc blanc velouté et le bois de santal léger créent un fond propre et enveloppant qui permet à cette fragrance de s'exprimer pleinement. Coach Floral est le parfum du quotidien heureux, de la femme qui aborde chaque journée avec le sourire. En Algérie, la marque Coach est appréciée pour son positionnement accessible-premium et son esthétique new-yorkaise. Longévité de 4 à 5 heures. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Thé Blanc",
+          "Pêche",
+          "Bergamote"
+        ],
+        "heart": [
+          "Pivoine Rose",
+          "Magnolia",
+          "Cerisier en Fleur"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Bois de Santal",
+          "Cèdre"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Quotidien",
+        "Bureau",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "coach-dreams",
+        "coach-wild-rose",
+        "coach-wild-rose-femme"
+      ]
+    },
+    {
+      "id": "dolce-gabbana-devotion",
+      "slug": "dolce-gabbana-devotion",
+      "h1": "Dolce&Gabbana Devotion Parfum Femme Algérie",
+      "name": "Devotion",
+      "brand": "Dolce&Gabbana",
+      "brandSlug": "dolce-gabbana",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 12500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/dolce-gabbana-devotion.jpg",
+      "shortDescription": "Dolce&Gabbana Devotion est un EDP féminin floral et musc d'une sensualité raffinée. Un hommage à la dévotion absolue, capturé dans une fragrance romantique et irrésistible.",
+      "description": "Dolce&Gabbana Devotion est une fragrance qui exprime la dévotion dans toute sa beauté: le don de soi, l'amour inconditionnel et la passion qui transcende le temps. Cet Eau de Parfum féminin est une composition romantique et sophistiquée qui incarne la vision de Dolce&Gabbana d'une féminité méditerranéenne, ardente et profonde. L'ouverture est florale et légèrement fruitée: la fleur d'oranger de Sicile et l'amandine créent une première impression méditerranéenne et solaire qui évoque les jardins siciliens en pleine floraison. Le cœur floral est opulent et généreux: la rose de Damas et le jasmin s'entremêlent dans un accord floral d'une richesse et d'une beauté typiquement méditerranéennes. La base est chaude et enveloppante: le benjoin et le bois de santal créent un fond doux et persistant qui ancre cette fragrance florale dans un registre sensuel et intime. Devotion est le parfum de la femme passionnée qui aime avec tout son cœur, celle pour qui l'amour est une valeur absolue. En Algérie, la sensibilité méditerranéenne de Dolce&Gabbana résonne profondément avec les valeurs culturelles locales. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Fleur d'Oranger de Sicile",
+          "Amandine",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose de Damas",
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Benjoin",
+          "Bois de Santal",
+          "Musc"
+        ]
+      },
+      "family": "Floral Oriental",
+      "occasions": [
+        "Soirée",
+        "Mariage",
+        "Occasion spéciale"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "dolce-gabbana-pour-femme",
+        "dolce-gabbana-the-only-one",
+        "dolce-gabbana-dolce"
+      ]
+    },
+    {
+      "id": "ysl-touche-eclat-le-parfum",
+      "slug": "ysl-touche-eclat-le-parfum",
+      "h1": "YSL Touche Éclat Le Parfum Algérie",
+      "name": "Touche Éclat Le Parfum",
+      "brand": "YSL",
+      "brandSlug": "ysl",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 13500,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/ysl-touche-eclat-le-parfum.jpg",
+      "shortDescription": "YSL Touche Éclat Le Parfum est un EDP féminin lumineux et irisé, inspiré du célèbre correcteur d'éclat. Une fragrance florale rayonnante pour la femme qui illumine tout autour d'elle.",
+      "description": "Yves Saint Laurent Touche Éclat Le Parfum est né de l'une des plus belles idées du luxe contemporain: transformer le légendaire correcteur d'éclat Touche Éclat, l'un des produits beauté les plus vendus au monde, en une fragrance olfactive qui capture son essence lumineuse. Cet Eau de Parfum féminin est une composition florale qui joue avec la lumière et la translucidité, comme le produit beauté qui lui a donné naissance. L'ouverture est immédiatement lumineuse: la bergamote italienne et le musc blanc créent une première impression fraîche et irisée qui évoque la peau parfaite et lumineuse que le Touche Éclat révèle. Le cœur floral est d'une délicatesse lumineuse: la pivoine, la rose et l'iris créent un accord floral poudré et lumineux d'une sophistication typiquement YSL. La base est soyeuse et élégante: le musc blanc et le bois de cèdre créent un fond discret et raffiné qui laisse la lumière florale s'exprimer pleinement. Touche Éclat Le Parfum est le parfum de la femme qui rayonne naturellement, celle dont la beauté vient de l'intérieur. En Algérie, cette fragrance YSL est très appréciée pour son caractère polyvalent et sa légèreté. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote Italienne",
+          "Musc Blanc",
+          "Rose"
+        ],
+        "heart": [
+          "Pivoine",
+          "Rose",
+          "Iris Poudré"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Cèdre",
+          "Bois Lumineux"
+        ]
+      },
+      "family": "Floral Poudré",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Mariage"
+      ],
+      "seasons": [
+        "Toutes saisons"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "libre-ysl",
+        "ysl-black-opium",
+        "ysl-y-femme"
+      ]
+    },
+    {
+      "id": "prada-infusion-de-rose",
+      "slug": "prada-infusion-de-rose",
+      "h1": "Prada Infusion de Rose Parfum Femme Algérie",
+      "name": "Infusion de Rose",
+      "brand": "Prada",
+      "brandSlug": "prada",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDT",
+      "volume": "100ml",
+      "price": 12900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/prada-infusion-de-rose.jpg",
+      "shortDescription": "Prada Infusion de Rose est un EDT féminin floral délicat et propre, inspiré des fragrances de la ligne Infusion. Une rose transparente et naturelle, pour la femme qui préfère l'élégance discrète.",
+      "description": "Prada Infusion de Rose s'inscrit dans la philosophie de la collection Infusion de Prada: des fragrances pures et minimalistes qui partent d'un seul ingrédient noble et le subliment avec une maîtrise absolue. Cette Eau de Toilette féminine est une rose débarrassée de toute artifice, présentée dans toute sa pureté et sa transparence naturelle. L'ouverture est fraîche et cristalline: des notes de bergamote et de mandarine créent une première impression légère et lumineuse qui prépare le terrain pour la rose qui va s'épanouir. Le cœur est la signature de cette fragrance: une rose de Turquie d'une fraîcheur et d'une pureté absolues, sans overdose de notes florales qui viendraient en altérer la naturel. La composition garde une sobriété et une élégance qui rappellent l'approche minimaliste de la maison Prada. La base est discrète: le musc blanc et le bois léger créent un fond aérien qui laisse la rose respirer et s'exprimer librement. Infusion de Rose est le parfum de la femme qui n'a pas besoin de volumes pour se faire remarquer, celle qui choisit la subtilité comme stratégie de séduction. En Algérie, les fragrances Prada sont synonymes de qualité italienne et de sophistication. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Mandarine",
+          "Néroli"
+        ],
+        "heart": [
+          "Rose de Turquie",
+          "Rose Centifolia",
+          "Muguet"
+        ],
+        "base": [
+          "Musc Blanc",
+          "Cèdre",
+          "Vétiver Léger"
+        ]
+      },
+      "family": "Floral Rose",
+      "occasions": [
+        "Bureau",
+        "Quotidien",
+        "Printemps"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été"
+      ],
+      "longevity": 3,
+      "sillage": 2,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "prada-infusion-d-iris",
+        "prada-candy",
+        "prada-la-femme"
+      ]
+    },
+    {
+      "id": "lalique-amour",
+      "slug": "lalique-amour",
+      "h1": "Lalique Amour Parfum Femme Algérie",
+      "name": "Amour",
+      "brand": "Lalique",
+      "brandSlug": "lalique",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 8900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/lalique-amour.jpg",
+      "shortDescription": "Lalique Amour est un EDP féminin floral et ambré d'une douceur enveloppante. Un parfum romantique et sensuel signé Lalique, pour la femme qui croit en la magie de l'amour.",
+      "description": "Lalique Amour est un hommage poétique à l'amour sous toutes ses formes, signé par la maison Lalique, célèbre autant pour ses fragrances que pour ses cristaux d'art extraordinaires. Cet Eau de Parfum féminin est une composition florale-ambrée qui incarne la douceur et la chaleur de l'amour partagé, capturées dans un flacon en cristal à l'image des créations artistiques de la maison. L'ouverture de Lalique Amour est fraîche et légèrement fruitée: les notes de bergamote et de pêche créent une entrée en matière lumineuse et romantique. Le cœur floral est d'une richesse et d'une générosité remarquables: la rose, le jasmin et la pivoine s'entremêlent dans un bouquet floral romantique d'une belle complexité. La base est chaleureuse et enveloppante: l'ambre doux et la vanille créent un fond gourmand et sensuel qui s'harmonise parfaitement avec les notes florales, créant un accord romantique et addictif. Lalique Amour est le parfum des instants précieux partagés avec l'être aimé, la fragrance des soirées romantiques et des matins ensoleillés ensemble. En Algérie, Lalique représente un luxe accessible et raffiné très apprécié. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Bergamote",
+          "Pêche",
+          "Framboise"
+        ],
+        "heart": [
+          "Rose",
+          "Jasmin",
+          "Pivoine"
+        ],
+        "base": [
+          "Ambre Doux",
+          "Vanille",
+          "Musc"
+        ]
+      },
+      "family": "Floral Ambré",
+      "occasions": [
+        "Soirée",
+        "Rendez-vous",
+        "Week-end"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "lalique-encre-noire",
+        "lalique-l-insoumis",
+        "guerlain-samsara"
+      ]
+    },
+    {
+      "id": "carolina-herrera-very-good-girl",
+      "slug": "carolina-herrera-very-good-girl",
+      "h1": "Carolina Herrera Very Good Girl Parfum Femme Algérie",
+      "name": "Very Good Girl",
+      "brand": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "80ml",
+      "price": 11900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/carolina-herrera-very-good-girl.jpg",
+      "shortDescription": "Carolina Herrera Very Good Girl est un EDP féminin floral fruité pétillant. Dans la lignée de Good Girl, cette fragrance capte l'énergie de la jeune femme new-yorkaise: audacieuse, sensuelle et pleinement dans sa vie.",
+      "description": "Carolina Herrera Very Good Girl est la sœur cadette de la légendaire Good Girl, mais elle a bien son propre caractère. Là où Good Girl est sombre et sensuelle, Very Good Girl est lumineuse et pétillante, capturant l'énergie et la joie de vivre de la jeune femme new-yorkaise qui commence à écrire son histoire. Cet Eau de Parfum féminin s'ouvre sur une note de lychee fraîche et pétillante, immédiatement séduisante et joyeuse, créant une ouverture fruitée d'une vitalité remarquable. Le cœur floral est vibrant: la rose fraîche et les freesias créent un accord floral lumineux et romantique qui constitue le cœur battant de cette fragrance. La base est le terrain de jeu de Very Good Girl: un accord de fève tonka et de musc blanc crée un fond légèrement gourmand et sensuel qui donne à cette fragrance sa profondeur et sa tenue remarquables. Very Good Girl est le parfum de la femme optimiste et déterminée qui sait que la vie est belle quand on lui donne sa chance. En Algérie, la gamme Good Girl de Carolina Herrera est extrêmement populaire et Very Good Girl apporte une dimension plus légère et plus quotidienne à cette collection. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Lychee",
+          "Bergamote",
+          "Cassis"
+        ],
+        "heart": [
+          "Rose Fraîche",
+          "Freesia",
+          "Pivoine"
+        ],
+        "base": [
+          "Fève Tonka",
+          "Musc Blanc",
+          "Bois de Santal"
+        ]
+      },
+      "family": "Floral Fruité",
+      "occasions": [
+        "Quotidien",
+        "Bureau",
+        "Week-end"
+      ],
+      "seasons": [
+        "Printemps",
+        "Été",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "good-girl-carolina-herrera",
+        "good-girl-supreme-carolina-herrera",
+        "good-girl-blush-carolina-herrera"
+      ]
+    },
+    {
+      "id": "jimmy-choo-illicit",
+      "slug": "jimmy-choo-illicit",
+      "h1": "Jimmy Choo Illicit Parfum Femme Algérie",
+      "name": "Illicit",
+      "brand": "Jimmy Choo",
+      "brandSlug": "jimmy-choo",
+      "category": "parfums-femme",
+      "gender": "femme",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 9900,
+      "originalPrice": null,
+      "badge": null,
+      "image": "/images/products/jimmy-choo-illicit.jpg",
+      "shortDescription": "Jimmy Choo Illicit est un EDP féminin floral fruité gourmand, pour la femme qui aime jouer avec les interdits. Une fragrance sensuelle et addictive qui capture la nuit sous ses meilleures lumières.",
+      "description": "Jimmy Choo Illicit est la fragrance des plaisirs défendus, celle qu'on porte quand on veut transgresser les règles avec style et élégance. Cet Eau de Parfum féminin est conçu pour la femme qui aime vivre intensément et qui choisit ses fragrances comme elle choisit ses chaussures: avec passion et conviction. L'ouverture de Illicit est immédiatement provocante et séduisante: des notes de nectarine juteuse et d'ananas tropical créent une explosion fruitée et gourmande qui capte l'attention. Le cœur est une célébration des fleurs nocturnes: la rose turque et la pivoine créent un accord floral riche et romantique, légèrement épicé par des notes de safran qui ajoutent une dimension orientale inattendue. La base est l'expression du plaisir coupable: la fève tonka et le Cashmeran soyeux créent un fond gourmand et enveloppant d'une persistance addictive. Illicit est le parfum de la nuit qui promet des surprises, de la soirée qui commence sous de bons auspices et qui s'étire jusqu'à l'aube. En Algérie, les fragrances Jimmy Choo sont particulièrement appréciées des jeunes femmes qui cherchent des parfums originaux et de qualité. Livraison dans les 58 wilayas, paiement à la réception.",
+      "notes": {
+        "top": [
+          "Nectarine",
+          "Ananas",
+          "Bergamote"
+        ],
+        "heart": [
+          "Rose Turque",
+          "Pivoine",
+          "Safran"
+        ],
+        "base": [
+          "Fève Tonka",
+          "Cashmeran",
+          "Musc Soyeux"
+        ]
+      },
+      "family": "Floral Fruité Gourmand",
+      "occasions": [
+        "Soirée",
+        "Nuit",
+        "Week-end"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 3,
+      "inStock": true,
+      "featured": false,
+      "isOriental": false,
+      "related": [
+        "jimmy-choo-femme",
+        "jimmy-choo-floral",
+        "i-want-choo-jimmy-choo"
+      ]
     }
   ],
   "brands": [
