@@ -14,10 +14,11 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **WhatsApp (FR) :** +33782214993
 
 ### État du catalogue (mars 2026)
-- **107 produits** dans `data/products.json` (38 homme, 64 femme, 5 oriental)
+- **123 produits** dans `data/products.json` (44 homme, 71 femme, 8 oriental)
+- **71 marques** dans `data/products.json.brands[]`
 - **9 articles blog** dans `data/blog.ts`
-- **169 keywords SEMrush** dans `data/keywords.json` — 127 done, 42 skip, 0 pending
-- **84+ images** dans `/public/images/products/` (Fragrantica CDN)
+- **550 keywords** dans `data/keywords.json` — 147 done, 22 skip, **381 pending** (produits à créer)
+- **100+ images** dans `/public/images/products/` (Fragrantica CDN)
 
 ---
 
