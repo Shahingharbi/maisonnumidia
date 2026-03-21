@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllProductSlugs, getAllBrandSlugs } from "@/lib/products";
+import { articles } from "@/data/blog";
 
 const BASE = "https://maisonnumidia.store";
 
@@ -31,5 +32,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.85,
   }));
 
-  return [...staticPages, ...brandPages, ...productPages];
+  const blogPages: MetadataRoute.Sitemap = articles.map((a) => ({
+    url: `${BASE}/blog/${a.slug}`,
+    lastModified: new Date(a.publishedAt),
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [...staticPages, ...brandPages, ...productPages, ...blogPages];
 }
