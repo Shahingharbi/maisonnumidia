@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts, formatPrice, getDiscount } from "@/lib/products";
-import { getProductSchema, generateProductMeta } from "@/lib/seo";
+import { getProductSchema, getBreadcrumbSchema, generateProductMeta } from "@/lib/seo";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import ProductCard from "@/components/product/ProductCard";
 import { Phone, Truck, Shield, ChevronRight } from "lucide-react";
@@ -26,6 +26,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title,
     description,
     alternates: { canonical: `https://maisonnumidia.store/parfums/${slug}` },
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      images: [{ url: `https://maisonnumidia.store${product.image}`, width: 375, height: 500, alt: title }],
+    },
   };
 }
 
@@ -49,8 +55,13 @@ export default async function ProductPage({ params }: Props) {
   const related = getRelatedProducts(product.related);
   const discount = getDiscount(product.price, product.originalPrice);
   const schema = getProductSchema(product);
-
   const categoryLabel = categoryLabels[product.category] || "Parfums";
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Accueil", url: "/" },
+    { name: categoryLabel, url: `/${product.category}` },
+    { name: product.brand, url: `/marques/${product.brandSlug}` },
+    { name: product.h1 ?? product.name, url: `/parfums/${product.slug}` },
+  ]);
   const genderLabel = product.gender === "homme" ? "Pour Homme" : product.gender === "femme" ? "Pour Femme" : "Unisexe";
   const h1 = product.h1 ?? `${product.brand} ${product.name}`;
 
@@ -62,6 +73,10 @@ export default async function ProductPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
       {/* Breadcrumb */}

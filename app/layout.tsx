@@ -5,6 +5,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import WhatsAppButton from "@/components/layout/WhatsAppButton";
 import { CartProvider } from "@/contexts/CartContext";
+import { getOrganizationSchema } from "@/lib/seo";
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -50,6 +51,10 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body className={`${poppins.variable} ${inter.variable} antialiased`}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(getOrganizationSchema()) }}
+        />
         <CartProvider>
           <Header />
           <main>{children}</main>
