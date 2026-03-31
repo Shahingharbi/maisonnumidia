@@ -59,9 +59,24 @@ export default async function ProductPage({ params }: Props) {
   const breadcrumbSchema = getBreadcrumbSchema([
     { name: "Accueil", url: "/" },
     { name: categoryLabel, url: `/${product.category}` },
-    { name: product.brand, url: `/marques/${product.brandSlug}` },
+    { name: product.brand, url: `/${product.category}/${product.brandSlug}` },
     { name: product.h1 ?? product.name, url: `/parfums/${product.slug}` },
   ]);
+
+  // Articles de blog pertinents selon le genre du produit
+  const blogLinks: { label: string; href: string }[] = [
+    { label: "Comment reconnaître un parfum original", href: "/blog/reconnaitre-parfum-original" },
+    ...(product.category === "parfums-homme"
+      ? [{ label: "Meilleur parfum homme en Algérie", href: "/blog/meilleur-parfum-homme" }]
+      : []),
+    ...(product.category === "parfums-femme"
+      ? [{ label: "Meilleur parfum femme en Algérie", href: "/blog/meilleur-parfum-femme" }]
+      : []),
+    ...(product.category === "parfums-orientaux"
+      ? [{ label: "Les parfums de niche en Algérie", href: "/blog/parfum-de-niche-algerie" }]
+      : []),
+    { label: "EDP vs EDT : quelle différence ?", href: "/blog/eau-de-parfum-vs-eau-de-toilette" },
+  ];
   const genderLabel = product.gender === "homme" ? "Pour Homme" : product.gender === "femme" ? "Pour Femme" : "Unisexe";
   const h1 = product.h1 ?? `${product.brand} ${product.name}`;
 
@@ -85,7 +100,7 @@ export default async function ProductPage({ params }: Props) {
           <Breadcrumb
             items={[
               { label: categoryLabel, href: `/${product.category}` },
-              { label: product.brand, href: `/marques/${product.brandSlug}` },
+              { label: product.brand, href: `/${product.category}/${product.brandSlug}` },
               { label: product.name },
             ]}
           />
@@ -218,8 +233,13 @@ export default async function ProductPage({ params }: Props) {
               Caractéristiques du parfum
             </h3>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+              <div className="bg-white rounded-xl p-3 border border-gray-100">
+                <div className="text-xs text-gray-400 mb-0.5">Marque</div>
+                <Link href={`/marques/${product.brandSlug}`} className="text-sm font-semibold text-[#C9A84C] hover:text-[#8B6914] transition-colors">
+                  {product.brand}
+                </Link>
+              </div>
               {[
-                { label: "Marque", value: product.brand },
                 { label: "Concentration", value: product.concentration },
                 { label: "Volume", value: product.volume },
                 { label: "Famille", value: product.family },
@@ -303,7 +323,7 @@ export default async function ProductPage({ params }: Props) {
 
           </div>
 
-          {/* Bottom CTA */}
+          {/* Bottom CTA + maillage interne */}
           <div className="mt-10 flex flex-wrap gap-3">
             <Link
               href="/panier"
@@ -312,12 +332,36 @@ export default async function ProductPage({ params }: Props) {
               Voir mon panier
             </Link>
             <Link
-              href={`/${product.category}`}
+              href={`/${product.category}/${product.brandSlug}`}
               className="inline-flex items-center gap-2 border border-gray-200 hover:border-[#C9A84C] text-gray-700 hover:text-[#C9A84C] font-medium px-6 py-3 rounded-xl transition-colors"
             >
-              Voir plus de {categoryLabel}
+              Tous les {product.brand} {product.gender === "homme" ? "Homme" : product.gender === "femme" ? "Femme" : ""}
+            </Link>
+            <Link
+              href={`/marques/${product.brandSlug}`}
+              className="inline-flex items-center gap-2 border border-gray-200 hover:border-[#C9A84C] text-gray-700 hover:text-[#C9A84C] font-medium px-6 py-3 rounded-xl transition-colors"
+            >
+              Collection {product.brand}
             </Link>
           </div>
+
+          {/* Liens blog — maillage éditorial */}
+          {blogLinks.length > 0 && (
+            <div className="mt-8 pt-6 border-t border-gray-200">
+              <p className="text-xs font-semibold text-gray-400 uppercase tracking-[0.15em] mb-3">À lire aussi</p>
+              <div className="flex flex-wrap gap-2">
+                {blogLinks.map(link => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/40 px-3 py-1.5 rounded-lg transition-colors"
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </section>
 
