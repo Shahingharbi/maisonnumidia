@@ -65,7 +65,7 @@ export default function Footer() {
                 <span>Blida, Algérie</span>
               </div>
               <a
-                href="https://wa.me/213XXXXXXXXX"
+                href="https://wa.me/33782214993"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2.5 text-sm text-white/40 hover:text-[#C9A84C] transition-colors"

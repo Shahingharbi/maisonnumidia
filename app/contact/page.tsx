@@ -27,7 +27,7 @@ export default function ContactPage() {
               title: "WhatsApp",
               desc: "La façon la plus rapide de nous joindre",
               action: "Ouvrir WhatsApp",
-              href: "https://wa.me/213XXXXXXXXX",
+              href: "https://wa.me/33782214993",
             },
             {
               icon: MapPin,
@@ -65,7 +65,7 @@ export default function ContactPage() {
         </div>
 
         <a
-          href="https://wa.me/213XXXXXXXXX"
+          href="https://wa.me/33782214993"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-[#C9A84C] hover:bg-[#E8C97A] text-[#0F0F0F] font-semibold px-8 py-4 rounded-xl transition-colors"
