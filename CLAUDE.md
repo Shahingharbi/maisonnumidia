@@ -15,15 +15,19 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 
 ### État du catalogue (avril 2026)
 - **748 produits** dans `data/products.json` (~274 homme, ~400 femme, ~74 oriental)
-- **86 marques** dans `data/products.json.brands[]`
+- **121 marques** dans `data/products.json.brands[]`
 - **9 articles blog** dans `data/blog.ts`
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
 - **~770 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
+- **~1045 pages** au total (produits + marques + brand filters + blog + statiques)
+- **0 brandSlug orphelin, 0 related cassé, 0 produit sans image**
 
 ### Historique nettoyage (avril 2026)
 - 25 produits fantômes supprimés (n'existaient pas : noms inventés, mauvaises marques)
+- 35 marques ajoutées (brandSlug orphelins corrigés)
 - Choco Musk corrigé Rasasi → Al Rehab, Midnight Dreams renommé Night Dreams
 - 55 fichiers `_tmp_batch*.mjs` temporaires supprimés de la racine
+- Fix maillage interne : header dropdowns en HTML (pas JS), footer enrichi, BrandPills 25, page /plan-du-site
 
 ---
 
