@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getBrandBySlug, getProductsByBrand, getAllBrandSlugs } from "@/lib/products";
+import { getBrandBySlug, getProductsByBrand, getAllBrandSlugs, getAllBrands } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 
@@ -119,12 +119,29 @@ export default async function MarquePage({ params }: Props) {
                   { label: "Parfums Femme", href: "/parfums-femme" },
                   { label: "Parfums Orientaux", href: "/parfums-orientaux" },
                   { label: "Toutes les marques", href: "/marques" },
+                  { label: "Blog", href: "/blog" },
                 ].map((link) => (
                   <Link key={link.href} href={link.href}
                     className="text-xs border border-gray-200 hover:border-[#C9A84C] hover:text-[#C9A84C] text-gray-500 px-4 py-2 transition-colors">
                     {link.label}
                   </Link>
                 ))}
+              </div>
+            </div>
+
+            {/* Cross-links marques — maillage interne */}
+            <div className="mt-8 pt-6 border-t border-gray-100">
+              <p className="text-xs font-semibold text-gray-400 uppercase tracking-[0.15em] mb-4">Autres marques disponibles</p>
+              <div className="flex flex-wrap gap-2">
+                {getAllBrands()
+                  .filter((b) => b.slug !== slug)
+                  .slice(0, 20)
+                  .map((b) => (
+                    <Link key={b.slug} href={`/marques/${b.slug}`}
+                      className="text-xs border border-gray-200 hover:border-[#C9A84C] hover:text-[#C9A84C] text-gray-500 px-3 py-1.5 transition-colors">
+                      {b.name}
+                    </Link>
+                  ))}
               </div>
             </div>
           </div>

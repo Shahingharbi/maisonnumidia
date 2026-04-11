@@ -22,7 +22,7 @@ export default function ParfumsHommePage() {
   });
   const brands = Object.entries(brandCounts)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 10)
+    .slice(0, 25)
     .map(([slug]) => ({
       label: getBrandBySlug(slug)?.name ?? slug,
       href: `/parfums-homme/${slug}`,

@@ -13,12 +13,17 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Téléphone :** 06 99 41 85 69
 - **WhatsApp (FR) :** +33782214993
 
-### État du catalogue (mars 2026)
-- **123 produits** dans `data/products.json` (44 homme, 71 femme, 8 oriental)
-- **71 marques** dans `data/products.json.brands[]`
+### État du catalogue (avril 2026)
+- **748 produits** dans `data/products.json` (~274 homme, ~400 femme, ~74 oriental)
+- **86 marques** dans `data/products.json.brands[]`
 - **9 articles blog** dans `data/blog.ts`
-- **550 keywords** dans `data/keywords.json` — 147 done, 22 skip, **381 pending** (produits à créer)
-- **100+ images** dans `/public/images/products/` (Fragrantica CDN)
+- **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
+- **~770 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
+
+### Historique nettoyage (avril 2026)
+- 25 produits fantômes supprimés (n'existaient pas : noms inventés, mauvaises marques)
+- Choco Musk corrigé Rasasi → Al Rehab, Midnight Dreams renommé Night Dreams
+- 55 fichiers `_tmp_batch*.mjs` temporaires supprimés de la racine
 
 ---
 

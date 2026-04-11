@@ -14,6 +14,10 @@ const nav = [
       { label: "Tous les parfums homme", href: "/parfums-homme" },
       { label: "Dior Homme", href: "/parfums-homme/dior" },
       { label: "Chanel Homme", href: "/parfums-homme/chanel" },
+      { label: "Paco Rabanne Homme", href: "/parfums-homme/paco-rabanne" },
+      { label: "Versace Homme", href: "/parfums-homme/versace" },
+      { label: "Armani Homme", href: "/parfums-homme/armani" },
+      { label: "Hugo Boss Homme", href: "/parfums-homme/hugo-boss" },
       { label: "Lattafa Homme", href: "/parfums-homme/lattafa" },
     ],
   },
@@ -23,8 +27,12 @@ const nav = [
     sub: [
       { label: "Tous les parfums femme", href: "/parfums-femme" },
       { label: "Chanel Femme", href: "/parfums-femme/chanel" },
+      { label: "Dior Femme", href: "/parfums-femme/dior" },
       { label: "YSL Femme", href: "/parfums-femme/ysl" },
       { label: "Lancôme Femme", href: "/parfums-femme/lancome" },
+      { label: "Narciso Rodriguez", href: "/parfums-femme/narciso-rodriguez" },
+      { label: "Carolina Herrera", href: "/parfums-femme/carolina-herrera" },
+      { label: "Valentino Femme", href: "/parfums-femme/valentino" },
     ],
   },
   {
@@ -34,9 +42,13 @@ const nav = [
       { label: "Tous les orientaux", href: "/parfums-orientaux" },
       { label: "Lattafa", href: "/parfums-orientaux/lattafa" },
       { label: "Al Haramain", href: "/parfums-orientaux/al-haramain" },
+      { label: "Rasasi", href: "/parfums-orientaux/rasasi" },
+      { label: "Ajmal", href: "/parfums-orientaux/ajmal" },
+      { label: "Afnan", href: "/parfums-orientaux/afnan" },
     ],
   },
   { label: "Marques", href: "/marques", sub: [] },
+  { label: "Blog", href: "/blog", sub: [] },
 ];
 
 export default function Header() {
@@ -93,8 +105,8 @@ export default function Header() {
                       )}
                     </Link>
 
-                    {item.sub.length > 0 && openDropdown === item.label && (
-                      <div className="absolute top-full left-0 pt-2 w-52 z-50">
+                    {item.sub.length > 0 && (
+                      <div className={`absolute top-full left-0 pt-2 w-52 z-50 transition-all duration-150 ${openDropdown === item.label ? "opacity-100 visible" : "opacity-0 invisible pointer-events-none"}`}>
                         <div className="bg-white border border-gray-100 rounded-xl shadow-lg overflow-hidden">
                           {item.sub.map((sub) => (
                             <Link

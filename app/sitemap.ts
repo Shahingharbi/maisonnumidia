@@ -6,7 +6,7 @@ const BASE = "https://maisonnumidia.store";
 
 // Date stable du dernier ajout de produits — NE PAS utiliser new Date()
 // qui fait croire à Google que tout change chaque jour (signal négatif pour le budget crawl)
-const CATALOG_DATE = new Date("2026-03-21");
+const CATALOG_DATE = new Date("2026-04-11");
 const SITE_LAUNCH = new Date("2026-01-15");
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -29,6 +29,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/marques`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
     { url: `${BASE}/commander`, lastModified: SITE_LAUNCH, changeFrequency: "monthly", priority: 0.6 },
     { url: `${BASE}/contact`, lastModified: SITE_LAUNCH, changeFrequency: "yearly", priority: 0.4 },
+    { url: `${BASE}/parfum-algerie`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${BASE}/blog`, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 0.7 },
   ];
 
   const brandPages: MetadataRoute.Sitemap = [

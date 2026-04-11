@@ -9,16 +9,22 @@ const cols = [
       { label: "Parfums Femme", href: "/parfums-femme" },
       { label: "Parfums Orientaux", href: "/parfums-orientaux" },
       { label: "Toutes les Marques", href: "/marques" },
+      { label: "Blog Parfums", href: "/blog" },
     ],
   },
   {
-    title: "Marques",
+    title: "Marques populaires",
     links: [
       { label: "Dior", href: "/marques/dior" },
       { label: "Chanel", href: "/marques/chanel" },
       { label: "Yves Saint Laurent", href: "/marques/ysl" },
+      { label: "Paco Rabanne", href: "/marques/paco-rabanne" },
+      { label: "Armani", href: "/marques/armani" },
+      { label: "Lancôme", href: "/marques/lancome" },
+      { label: "Versace", href: "/marques/versace" },
       { label: "Lattafa", href: "/marques/lattafa" },
       { label: "Al Haramain", href: "/marques/al-haramain" },
+      { label: "Narciso Rodriguez", href: "/marques/narciso-rodriguez" },
     ],
   },
   {
@@ -26,6 +32,7 @@ const cols = [
     links: [
       { label: "Commander", href: "/commander" },
       { label: "Contact", href: "/contact" },
+      { label: "Parfum Algérie", href: "/parfum-algerie" },
       { label: "Mentions légales", href: "/mentions-legales" },
     ],
   },
