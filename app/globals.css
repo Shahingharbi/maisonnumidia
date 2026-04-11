@@ -1,18 +1,18 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-gold: #C9A84C;
-  --color-gold-light: #E8C97A;
-  --color-dark: #0F0F0F;
-  --color-dark-2: #1A1A1A;
-  --color-dark-3: #2A2A2A;
-  --color-light: #FAFAFA;
-  --color-light-2: #F3F3F3;
+  --color-gold: #AC9270;
+  --color-gold-light: #C4AD8F;
+  --color-dark: #535359;
+  --color-dark-2: #3A3A40;
+  --color-dark-3: #2A2A30;
+  --color-light: #FFFFFF;
+  --color-light-2: #F5F5F5;
   --color-border: #E5E5E5;
-  --color-muted: #9CA3AF;
+  --color-muted: #8A8A90;
 
-  --font-heading: var(--font-poppins);
-  --font-body: var(--font-inter);
+  --font-heading: var(--font-libre-bodoni);
+  --font-body: var(--font-dm-sans);
 }
 
 * {
@@ -24,27 +24,67 @@ html {
 }
 
 body {
-  font-family: var(--font-inter), Arial, sans-serif;
-  color: #1A1A1A;
-  background: #FAFAFA;
+  font-family: var(--font-dm-sans), Arial, sans-serif;
+  font-size: 16px;
+  color: #535359;
+  background: #FFFFFF;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-poppins), Arial, sans-serif;
-  font-weight: 600;
-  line-height: 1.25;
+  font-family: var(--font-libre-bodoni), Georgia, serif;
+  font-weight: 400;
+  line-height: 1.2;
 }
 
 ::selection {
-  background: #C9A84C;
-  color: #0F0F0F;
+  background: #AC9270;
+  color: #FFFFFF;
 }
 
 ::-webkit-scrollbar { width: 5px; }
-::-webkit-scrollbar-track { background: #F3F3F3; }
-::-webkit-scrollbar-thumb { background: #C9A84C; border-radius: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #D4D4D4; border-radius: 3px; }
+
+/* Navigation link style */
+.nav-link-mfk {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #535359;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+.nav-link-mfk:hover {
+  opacity: 0.6;
+}
+
+/* CTA underline link */
+.cta-underline {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #535359;
+  text-decoration: none;
+  border-bottom: 1px solid #535359;
+  padding-bottom: 2px;
+  transition: opacity 0.2s ease;
+}
+.cta-underline:hover {
+  opacity: 0.6;
+}
+
+/* Section title — elegant serif */
+.section-heading {
+  font-family: var(--font-libre-bodoni), Georgia, serif;
+  font-size: clamp(28px, 3vw, 38px);
+  font-weight: 400;
+  color: #535359;
+  line-height: 1.2;
+}
 
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(16px); }

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Poppins, Inter } from "next/font/google";
+import { DM_Sans, Libre_Bodoni } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/layout/Header";
@@ -8,17 +8,18 @@ import WhatsAppButton from "@/components/layout/WhatsAppButton";
 import { CartProvider } from "@/contexts/CartContext";
 import { getOrganizationSchema } from "@/lib/seo";
 
-const poppins = Poppins({
-  variable: "--font-poppins",
+const dmSans = DM_Sans({
+  variable: "--font-dm-sans",
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
+  weight: ["400", "500"],
   display: "swap",
 });
 
-const inter = Inter({
-  variable: "--font-inter",
+const libreBodoni = Libre_Bodoni({
+  variable: "--font-libre-bodoni",
   subsets: ["latin"],
-  weight: ["400", "500"],
+  weight: ["400", "700"],
+  style: ["normal", "italic"],
   display: "swap",
 });
 
@@ -74,7 +75,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className={`${poppins.variable} ${inter.variable} antialiased`}>
+      <body className={`${dmSans.variable} ${libreBodoni.variable} antialiased`}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(getOrganizationSchema()) }}

@@ -41,36 +41,37 @@ const cols = [
 
 export default function Footer() {
   return (
-    <footer className="bg-[#111111] text-white mt-auto">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+    <footer className="bg-[#F5F5F5] mt-auto">
+      {/* Main footer */}
+      <div className="max-w-[1440px] mx-auto px-6 lg:px-10 py-14">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
           {/* Brand */}
           <div>
             <div className="mb-1">
-              <div className="text-[10px] tracking-[0.35em] text-[#C9A84C] font-medium uppercase">
+              <div className="text-[10px] tracking-[2px] text-[#AC9270] font-medium uppercase">
                 Maison
               </div>
-              <div className="text-xl font-bold tracking-[0.12em] text-white uppercase">
+              <div className="text-xl tracking-[1.5px] text-[#535359] uppercase" style={{ fontFamily: "var(--font-libre-bodoni), Georgia, serif" }}>
                 Numidia
               </div>
             </div>
-            <p className="text-white/40 text-sm leading-relaxed mt-4 mb-6">
+            <p className="text-[#8A8A90] text-sm leading-relaxed mt-4 mb-6">
               Parfums de luxe en Algérie. Livraison dans toutes les wilayas,
               paiement à la livraison.
             </p>
             <div className="space-y-2.5">
-              <div className="flex items-start gap-2.5 text-sm text-white/40">
-                <MapPin size={13} className="text-[#C9A84C] mt-0.5 shrink-0" />
+              <div className="flex items-start gap-2.5 text-sm text-[#8A8A90]">
+                <MapPin size={13} className="text-[#AC9270] mt-0.5 shrink-0" />
                 <span>Blida, Algérie</span>
               </div>
               <a
                 href="https://wa.me/33782214993"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2.5 text-sm text-white/40 hover:text-[#C9A84C] transition-colors"
+                className="flex items-center gap-2.5 text-sm text-[#8A8A90] hover:text-[#AC9270] transition-colors"
               >
-                <Phone size={13} className="text-[#C9A84C] shrink-0" />
+                <Phone size={13} className="text-[#AC9270] shrink-0" />
                 <span>WhatsApp</span>
               </a>
             </div>
@@ -79,7 +80,7 @@ export default function Footer() {
           {/* Columns */}
           {cols.map((col) => (
             <div key={col.title}>
-              <h4 className="text-xs font-semibold tracking-[0.15em] uppercase text-white/60 mb-5">
+              <h4 className="text-xs font-medium tracking-[1.5px] uppercase text-[#535359] mb-5">
                 {col.title}
               </h4>
               <ul className="space-y-3">
@@ -87,7 +88,7 @@ export default function Footer() {
                   <li key={link.href}>
                     <Link
                       href={link.href}
-                      className="text-sm text-white/40 hover:text-white transition-colors"
+                      className="text-sm text-[#8A8A90] hover:text-[#535359] transition-colors"
                     >
                       {link.label}
                     </Link>
@@ -99,12 +100,13 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="border-t border-white/5">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <p className="text-white/20 text-xs">
+      {/* Bottom bar */}
+      <div className="border-t border-[#e5e5e5]">
+        <div className="max-w-[1440px] mx-auto px-6 lg:px-10 py-4 flex flex-col sm:flex-row items-center justify-between gap-2">
+          <p className="text-[#B0B0B0] text-xs">
             © {new Date().getFullYear()} Maison Numidia. Tous droits réservés.
           </p>
-          <p className="text-white/20 text-xs">
+          <p className="text-[#B0B0B0] text-xs">
             Livraison Yalidine · Paiement COD · Algérie
           </p>
         </div>

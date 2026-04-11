@@ -13,7 +13,7 @@ export default function ProductCard({ product }: ProductCardProps) {
   return (
     <Link
       href={`/parfums/${product.slug}`}
-      className="group flex flex-col bg-white border border-gray-100 overflow-hidden hover:border-gray-200 hover:shadow-md transition-all duration-200"
+      className="group flex flex-col bg-white overflow-hidden hover:shadow-sm transition-all duration-300"
     >
       {/* Image */}
       <div className="relative aspect-square bg-white overflow-hidden">
@@ -25,15 +25,15 @@ export default function ProductCard({ product }: ProductCardProps) {
           sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
         />
 
-        {/* Badges top-left */}
+        {/* Badge top-left */}
         {product.badge && (
           <span
-            className={`absolute top-3 left-3 text-[10px] font-semibold uppercase tracking-wide px-2 py-1 rounded-full ${
+            className={`absolute top-3 left-3 text-[10px] font-medium uppercase tracking-wider px-2.5 py-1 ${
               product.badge === "Promo"
-                ? "bg-red-500 text-white"
+                ? "bg-[#C45C5C] text-white"
                 : product.badge === "Nouveau"
-                ? "bg-[#111111] text-white"
-                : "bg-[#C9A84C] text-white"
+                ? "bg-[#535359] text-white"
+                : "bg-[#AC9270] text-white"
             }`}
           >
             {product.badge}
@@ -42,34 +42,34 @@ export default function ProductCard({ product }: ProductCardProps) {
 
         {/* Discount top-right */}
         {discount && (
-          <span className="absolute top-3 right-3 text-[10px] font-bold px-2 py-1 rounded-full bg-red-500 text-white">
+          <span className="absolute top-3 right-3 text-[10px] font-medium px-2.5 py-1 bg-[#C45C5C] text-white">
             -{discount}%
           </span>
         )}
       </div>
 
       {/* Content */}
-      <div className="p-4 flex flex-col gap-1 flex-1">
-        <span className="text-[10px] font-semibold uppercase tracking-[0.12em] text-[#C9A84C]">
+      <div className="p-4 flex flex-col gap-1 flex-1 border-t border-[#f0f0f0]">
+        <span className="text-[10px] font-medium uppercase tracking-[1.5px] text-[#AC9270]">
           {product.brand}
         </span>
-        <h3 className="text-sm font-semibold text-[#111111] line-clamp-2 leading-snug">
+        <h3 className="text-sm text-[#535359] line-clamp-2 leading-snug" style={{ fontFamily: "var(--font-libre-bodoni), Georgia, serif" }}>
           {product.name}
         </h3>
-        <p className="text-xs text-gray-400 mt-0.5">{product.family}</p>
+        <p className="text-xs text-[#8A8A90] mt-0.5">{product.family}</p>
 
         <div className="mt-auto pt-3 flex items-center justify-between">
           <div className="flex items-baseline gap-2">
-            <span className="text-sm font-bold text-[#111111]">
+            <span className="text-sm font-medium text-[#535359]">
               {formatPrice(product.price)}
             </span>
             {product.originalPrice && (
-              <span className="text-xs text-gray-300 line-through">
+              <span className="text-xs text-[#C4C4C4] line-through">
                 {formatPrice(product.originalPrice)}
               </span>
             )}
           </div>
-          <span className="text-[10px] font-medium text-[#C9A84C] tracking-wide">
+          <span className="text-[10px] font-medium text-[#AC9270] tracking-wider uppercase">
             COD
           </span>
         </div>
