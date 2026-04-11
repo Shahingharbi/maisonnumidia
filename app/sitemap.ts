@@ -30,6 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/commander`, lastModified: SITE_LAUNCH, changeFrequency: "monthly", priority: 0.6 },
     { url: `${BASE}/contact`, lastModified: SITE_LAUNCH, changeFrequency: "yearly", priority: 0.4 },
     { url: `${BASE}/parfum-algerie`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${BASE}/plan-du-site`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.5 },
     { url: `${BASE}/blog`, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 0.7 },
   ];
 

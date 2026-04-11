@@ -33,6 +33,7 @@ const cols = [
       { label: "Commander", href: "/commander" },
       { label: "Contact", href: "/contact" },
       { label: "Parfum Algérie", href: "/parfum-algerie" },
+      { label: "Plan du site", href: "/plan-du-site" },
       { label: "Mentions légales", href: "/mentions-legales" },
     ],
   },
