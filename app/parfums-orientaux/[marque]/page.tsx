@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getProductsByBrand, getAllBrandSlugs, getBrandBySlug } from "@/lib/products";
+import { getProductsByBrand, getBrandBySlug, getProductsByCategory } from "@/lib/products";
 import { getBreadcrumbSchema } from "@/lib/seo";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
@@ -12,7 +12,9 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return getAllBrandSlugs().map((slug) => ({ marque: slug }));
+  const products = getProductsByCategory("parfums-orientaux");
+  const brandSlugs = [...new Set(products.map((p) => p.brandSlug))];
+  return brandSlugs.map((slug) => ({ marque: slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
