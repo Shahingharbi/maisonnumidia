@@ -2,8 +2,11 @@ import type { Metadata } from "next";
 import { Phone, MapPin, Clock } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Contact — Maison Numidia | Parfums en Algérie",
+  title: "Contact — Parfums en Algérie",
   description: "Contactez Maison Numidia pour toute question sur nos parfums. WhatsApp disponible, réponse rapide garantie.",
+  alternates: {
+    canonical: "https://maisonnumidia.store/contact",
+  },
 };
 
 export default function ContactPage() {

@@ -27,16 +27,19 @@ export default function FeaturedBrands() {
 
         <div className="flex items-end justify-between mb-10">
           <div>
-            <p className="text-xs tracking-[0.2em] text-[#C9A84C] uppercase font-medium mb-2">
+            <span className="text-xs font-medium text-[#AC9270] tracking-[1.5px] uppercase">
               Nos marques
-            </p>
-            <h2 className="text-2xl sm:text-3xl font-bold text-[#111111]">
+            </span>
+            <h2
+              className="text-[clamp(28px,3vw,38px)] text-[#535359] mt-3"
+              style={{ fontFamily: "var(--font-libre-bodoni), Georgia, serif", fontWeight: 400 }}
+            >
               Les grandes maisons
             </h2>
           </div>
           <Link
             href="/marques"
-            className="hidden sm:flex items-center gap-1 text-sm text-gray-400 hover:text-[#C9A84C] transition-colors"
+            className="hidden sm:flex items-center gap-1 text-sm text-[#8A8A90] hover:text-[#AC9270] transition-colors"
           >
             Toutes les marques
           </Link>
@@ -47,9 +50,9 @@ export default function FeaturedBrands() {
             <Link
               key={brand.slug}
               href={`/marques/${brand.slug}`}
-              className="group bg-white rounded-xl py-5 px-4 text-center border border-gray-100 hover:border-[#C9A84C]/40 hover:shadow-sm transition-all duration-200"
+              className="group bg-white py-5 px-4 text-center border border-gray-100 hover:border-[#AC9270]/40 hover:shadow-sm transition-all duration-200"
             >
-              <span className="text-sm font-semibold text-gray-700 group-hover:text-[#C9A84C] transition-colors">
+              <span className="text-sm font-medium text-[#535359] group-hover:text-[#AC9270] transition-colors">
                 {brand.name}
               </span>
             </Link>
@@ -57,7 +60,7 @@ export default function FeaturedBrands() {
         </div>
 
         <div className="mt-5 text-center sm:hidden">
-          <Link href="/marques" className="text-sm text-[#C9A84C]">
+          <Link href="/marques" className="text-sm text-[#AC9270]">
             Voir toutes les marques
           </Link>
         </div>

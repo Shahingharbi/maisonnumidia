@@ -1,27 +1,22 @@
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowRight } from "lucide-react";
 import { articles } from "@/data/blog";
 
-// Gradient header per article category
-const articleStyles: Record<string, { gradient: string; label: string }> = {
-  "meilleur-parfum-homme": {
-    gradient: "from-[#0f0f0f] via-[#1a1a2e] to-[#2d2d4e]",
-    label: "Guide d'achat",
-  },
-  "parfum-de-niche-algerie": {
-    gradient: "from-[#2a1a00] via-[#3d2810] to-[#1c1107]",
-    label: "Culture Parfum",
-  },
-  "eau-de-parfum-vs-eau-de-toilette": {
-    gradient: "from-[#111111] via-[#1f1f1f] to-[#2a2a2a]",
-    label: "Guide d'achat",
-  },
+const articleImages: Record<string, string> = {
+  "meilleur-parfum-homme":
+    "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=800&q=80",
+  "parfum-de-niche-algerie":
+    "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=800&q=80",
+  "eau-de-parfum-vs-eau-de-toilette":
+    "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
 };
 
-const fallbackStyle = {
-  gradient: "from-[#111111] to-[#2a2a2a]",
-  label: "Conseils",
-};
+const fallbackImages = [
+  "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=800&q=80",
+  "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
+  "https://images.unsplash.com/photo-1608528577891-eb055944f2e7?auto=format&fit=crop&w=800&q=80",
+];
 
 export default function BlogPreview() {
   const latest = articles.slice(0, 3);
@@ -32,16 +27,19 @@ export default function BlogPreview() {
 
         <div className="flex items-end justify-between mb-10">
           <div>
-            <p className="text-xs tracking-[0.2em] text-[#C9A84C] uppercase font-medium mb-2">
+            <span className="text-xs font-medium text-[#AC9270] tracking-[1.5px] uppercase">
               Conseils et expertise
-            </p>
-            <h2 className="text-2xl sm:text-3xl font-bold text-[#111111]">
+            </span>
+            <h2
+              className="text-[clamp(28px,3vw,38px)] text-[#535359] mt-3"
+              style={{ fontFamily: "var(--font-libre-bodoni), Georgia, serif", fontWeight: 400 }}
+            >
               Guides &amp; Conseils Parfums
             </h2>
           </div>
           <Link
             href="/blog"
-            className="hidden sm:flex items-center gap-1 text-sm text-gray-400 hover:text-[#C9A84C] transition-colors"
+            className="hidden sm:flex items-center gap-1 text-sm text-[#8A8A90] hover:text-[#AC9270] transition-colors"
           >
             Tous les articles
             <ArrowRight size={14} />
@@ -49,22 +47,36 @@ export default function BlogPreview() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
-          {latest.map((article) => {
-            const style = articleStyles[article.slug] ?? fallbackStyle;
+          {latest.map((article, index) => {
+            const imageUrl =
+              articleImages[article.slug] ?? fallbackImages[index % fallbackImages.length];
+
             return (
               <article
                 key={article.slug}
-                className="bg-white border border-gray-100 overflow-hidden hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 flex flex-col"
+                className="group bg-white border border-gray-100 overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-300 flex flex-col"
               >
-                {/* Article header image */}
-                <div className={`relative h-44 bg-gradient-to-br ${style.gradient} flex items-end p-5`}>
-                  {/* Decorative accent line */}
-                  <div className="absolute top-5 left-5 h-px w-8 bg-[#C9A84C]" />
-                  <div>
-                    <span className="inline-block text-xs font-semibold text-[#C9A84C] tracking-[0.15em] uppercase mb-2">
+                {/* Article image */}
+                <div className="relative h-52 overflow-hidden">
+                  <Image
+                    src={imageUrl}
+                    alt={article.title}
+                    fill
+                    className="object-cover transition-transform duration-500 group-hover:scale-105"
+                    sizes="(max-width: 640px) 100vw, 33vw"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
+                  {/* Category label on image */}
+                  <div className="absolute bottom-4 left-5">
+                    <span className="inline-block text-[10px] font-medium text-[#C9A84C] tracking-[1.5px] uppercase bg-white/90 backdrop-blur-sm px-2.5 py-1">
                       {article.category}
                     </span>
-                    <p className="text-white/30 text-xs">{article.readTime} min de lecture</p>
+                  </div>
+                  {/* Read time */}
+                  <div className="absolute top-4 right-5">
+                    <span className="text-[10px] text-white/70 bg-black/30 backdrop-blur-sm px-2 py-1">
+                      {article.readTime} min
+                    </span>
                   </div>
                 </div>
 
@@ -72,15 +84,15 @@ export default function BlogPreview() {
                   <h3 className="text-base font-bold text-[#111111] leading-snug mb-3 line-clamp-2">
                     {article.title}
                   </h3>
-                  <p className="text-sm text-gray-400 leading-relaxed mb-5 flex-1 line-clamp-3">
+                  <p className="text-sm text-[#8A8A90] leading-relaxed mb-5 flex-1 line-clamp-3">
                     {article.excerpt}
                   </p>
                   <Link
                     href={`/blog/${article.slug}`}
-                    className="inline-flex items-center gap-1.5 text-sm font-medium text-[#111111] hover:text-[#C9A84C] transition-colors group mt-auto pt-4 border-t border-gray-100"
+                    className="inline-flex items-center gap-1.5 text-sm font-medium text-[#535359] hover:text-[#AC9270] transition-colors group/link mt-auto pt-4 border-t border-gray-100"
                   >
                     Lire l&apos;article
-                    <ArrowRight size={13} className="group-hover:translate-x-0.5 transition-transform" />
+                    <ArrowRight size={13} className="group-hover/link:translate-x-0.5 transition-transform" />
                   </Link>
                 </div>
               </article>
@@ -89,7 +101,7 @@ export default function BlogPreview() {
         </div>
 
         <div className="mt-6 text-center sm:hidden">
-          <Link href="/blog" className="text-sm text-[#C9A84C]">
+          <Link href="/blog" className="text-sm text-[#AC9270]">
             Voir tous les articles
           </Link>
         </div>

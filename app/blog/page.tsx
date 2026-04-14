@@ -4,7 +4,7 @@ import { articles } from "@/data/blog";
 import { Clock, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Blog Parfums — Conseils, Guides & Tendances en Algérie | Maison Numidia",
+  title: "Blog Parfums — Conseils, Guides & Tendances en Algérie",
   description: "Guides d'achat parfums, conseils de pro et tendances olfactives en Algérie. Tout savoir pour choisir son parfum.",
   alternates: { canonical: "https://maisonnumidia.store/blog" },
 };

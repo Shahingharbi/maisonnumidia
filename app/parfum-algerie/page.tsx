@@ -5,7 +5,7 @@ import ProductCard from "@/components/product/ProductCard";
 import { ArrowRight, Truck, Shield, Phone } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Parfum en Algérie — Livraison COD dans les 58 Wilayas | Maison Numidia",
+  title: "Parfum en Algérie — Livraison COD dans les 58 Wilayas",
   description: "Achetez vos parfums en Algérie chez Maison Numidia : Dior, Chanel, Lattafa, Al Haramain. Paiement à la livraison (COD) dans les 58 wilayas. Parfums 100% authentiques.",
   alternates: { canonical: "https://maisonnumidia.store/parfum-algerie" },
   keywords: ["parfum algerie", "acheter parfum algerie", "parfum original algerie", "parfum livraison algerie", "parfum dz"],

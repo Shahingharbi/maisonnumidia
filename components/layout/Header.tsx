@@ -157,39 +157,37 @@ export default function Header() {
           </div>
         </div>
 
-        {/* Mobile menu — clean MFK style */}
-        {mobileOpen && (
-          <div className="lg:hidden border-t border-[#e5e5e5] bg-white">
-            <div className="max-w-[1440px] mx-auto px-6 py-6 space-y-1">
-              {nav.map((item) => (
-                <Link
-                  key={item.href}
-                  href={item.href}
-                  className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
-                  onClick={() => setMobileOpen(false)}
-                >
-                  {item.label}
-                </Link>
-              ))}
-              <div className="pt-6 flex flex-col gap-3">
-                <a
-                  href="tel:0699418569"
-                  className="flex items-center justify-center gap-2 w-full py-3 border border-[#535359] text-[#535359] text-xs font-medium uppercase tracking-wider"
-                >
-                  <Phone size={13} />
-                  06 99 41 85 69
-                </a>
-                <Link
-                  href="/commander"
-                  className="block text-center w-full py-3 bg-[#535359] text-white text-xs font-medium uppercase tracking-wider"
-                  onClick={() => setMobileOpen(false)}
-                >
-                  Commander
-                </Link>
-              </div>
+        {/* Mobile menu — CSS visibility (NEVER use {open && ...} — Google mobile-first won't see the links) */}
+        <div className={`lg:hidden border-t border-[#e5e5e5] bg-white overflow-hidden transition-all duration-300 ${mobileOpen ? "max-h-[500px] opacity-100 visible" : "max-h-0 opacity-0 invisible"}`}>
+          <div className="max-w-[1440px] mx-auto px-6 py-6 space-y-1">
+            {nav.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+                onClick={() => setMobileOpen(false)}
+              >
+                {item.label}
+              </Link>
+            ))}
+            <div className="pt-6 flex flex-col gap-3">
+              <a
+                href="tel:0699418569"
+                className="flex items-center justify-center gap-2 w-full py-3 border border-[#535359] text-[#535359] text-xs font-medium uppercase tracking-wider"
+              >
+                <Phone size={13} />
+                06 99 41 85 69
+              </a>
+              <Link
+                href="/commander"
+                className="block text-center w-full py-3 bg-[#535359] text-white text-xs font-medium uppercase tracking-wider"
+                onClick={() => setMobileOpen(false)}
+              >
+                Commander
+              </Link>
             </div>
           </div>
-        )}
+        </div>
       </header>
     </>
   );

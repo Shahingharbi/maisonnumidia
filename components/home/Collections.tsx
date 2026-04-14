@@ -51,14 +51,17 @@ export default function Collections() {
     <section className="bg-[#FAFAF8] py-16 sm:py-20 border-t border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
 
-        <div className="mb-10">
-          <p className="text-xs tracking-[0.2em] text-[#C9A84C] uppercase font-medium mb-2">
+        <div className="text-center mb-10">
+          <span className="text-xs font-medium text-[#AC9270] tracking-[1.5px] uppercase">
             Nos collections
-          </p>
-          <h2 className="text-2xl sm:text-3xl font-bold text-[#111111]">
+          </span>
+          <h2
+            className="text-[clamp(28px,3vw,38px)] text-[#535359] mt-3"
+            style={{ fontFamily: "var(--font-libre-bodoni), Georgia, serif", fontWeight: 400 }}
+          >
             Parfums par univers olfactif
           </h2>
-          <p className="mt-2 text-gray-400 max-w-xl text-sm">
+          <p className="mt-3 text-[#8A8A90] max-w-xl mx-auto text-sm">
             Trois univers, des dizaines de fragrances. Chaque collection est soigneusement sélectionnée pour le marché algérien.
           </p>
         </div>
@@ -70,7 +73,7 @@ export default function Collections() {
               className={`${col.bg} border ${col.borderColor} p-8 flex flex-col justify-between min-h-[260px]`}
             >
               <div>
-                <span className={`text-xs font-semibold tracking-[0.15em] uppercase ${col.tagColor}`}>
+                <span className={`text-xs font-medium tracking-[1.5px] uppercase ${col.tagColor}`}>
                   {col.tag}
                 </span>
                 <h3 className={`text-xl font-bold mt-3 mb-1 ${col.textColor}`}>
@@ -84,7 +87,7 @@ export default function Collections() {
 
               <Link
                 href={col.href}
-                className={`inline-flex items-center gap-2 mt-6 text-sm font-semibold group ${col.tagColor} hover:opacity-80 transition-opacity`}
+                className={`inline-flex items-center gap-2 mt-6 text-sm font-medium group ${col.tagColor} hover:opacity-80 transition-opacity`}
               >
                 Explorer la collection
                 <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
@@ -95,9 +98,9 @@ export default function Collections() {
 
         {/* SEO paragraph */}
         <div className="mt-10 pt-8 border-t border-gray-200">
-          <p className="text-sm text-gray-400 leading-relaxed max-w-3xl">
-            Maison Numidia propose une sélection de <strong className="text-gray-600">parfums originaux en Algérie</strong> répartis en trois grandes collections : les classiques occidentaux de prestige, les fragrances orientales traditionnelles, et les parfums féminins d'exception. Chaque flacon est importé directement et livré via Yalidine Express dans les{" "}
-            <strong className="text-gray-600">58 wilayas algériennes</strong>, avec paiement à la réception.
+          <p className="text-sm text-[#8A8A90] leading-relaxed max-w-3xl mx-auto text-center">
+            Maison Numidia propose une sélection de <strong className="text-[#535359]">parfums originaux en Algérie</strong> répartis en trois grandes collections : les classiques occidentaux de prestige, les fragrances orientales traditionnelles, et les parfums féminins d'exception. Chaque flacon est importé directement et livré via Yalidine Express dans les{" "}
+            <strong className="text-[#535359]">58 wilayas algériennes</strong>, avec paiement à la réception.
           </p>
         </div>
 

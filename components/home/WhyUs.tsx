@@ -28,24 +28,27 @@ export default function WhyUs() {
     <section className="bg-white py-16 sm:py-20 border-t border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
 
-        <div className="mb-12">
-          <p className="text-xs tracking-[0.2em] text-[#C9A84C] uppercase font-medium mb-2">
+        <div className="text-center mb-12">
+          <span className="text-xs font-medium text-[#AC9270] tracking-[1.5px] uppercase">
             Pourquoi nous choisir
-          </p>
-          <h2 className="text-2xl sm:text-3xl font-bold text-[#111111]">
+          </span>
+          <h2
+            className="text-[clamp(28px,3vw,38px)] text-[#535359] mt-3"
+            style={{ fontFamily: "var(--font-libre-bodoni), Georgia, serif", fontWeight: 400 }}
+          >
             Simple, rapide, fiable
           </h2>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {features.map((f, i) => (
-            <div key={i} className="flex flex-col gap-4">
-              <div className="w-10 h-10 rounded-lg border border-[#C9A84C]/30 flex items-center justify-center">
-                <f.icon size={18} className="text-[#C9A84C]" />
+            <div key={i} className="flex flex-col items-center text-center gap-4">
+              <div className="w-12 h-12 rounded-full border border-[#AC9270]/30 flex items-center justify-center">
+                <f.icon size={20} className="text-[#AC9270]" />
               </div>
               <div>
-                <h3 className="font-semibold text-[#111111] text-sm mb-1.5">{f.title}</h3>
-                <p className="text-sm text-gray-400 leading-relaxed">{f.description}</p>
+                <h3 className="font-medium text-[#535359] text-sm mb-1.5">{f.title}</h3>
+                <p className="text-sm text-[#8A8A90] leading-relaxed">{f.description}</p>
               </div>
             </div>
           ))}

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getOrientalProducts, getBrandBySlug } from "@/lib/products";
-import ProductGrid from "@/components/product/ProductGrid";
+import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
 import Breadcrumb from "@/components/layout/Breadcrumb";
@@ -44,7 +44,7 @@ export default function ParfumsOrientauxPage() {
             <Breadcrumb items={[{ label: "Parfums Orientaux", href: "/parfums-orientaux" }]} />
           </div>
 
-          <ProductGrid products={products} />
+          <FilterableProductGrid products={products} />
 
           {/* SEO Block 1000+ mots */}
           <div className="mt-20 border-t border-gray-100 pt-14 max-w-4xl">
