@@ -17,7 +17,7 @@ export interface Product {
   concentration: "EDP" | "EDT" | "EDC" | "Parfum";
   volume: string;
   price: number;
-  originalPrice?: number;
+  originalPrice?: number | null;
   shortDescription: string;
   description: string;
   notes: ProductNotes;

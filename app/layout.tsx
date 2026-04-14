@@ -31,6 +31,10 @@ export const metadata: Metadata = {
   description:
     "Achetez votre parfum original en Algérie chez Maison Numidia. Dior, Chanel, Lattafa, Al Haramain — 100% authentique, livraison Yalidine 58 wilayas, paiement à la réception.",
   metadataBase: new URL("https://maisonnumidia.store"),
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-icon.png",
+  },
   openGraph: {
     siteName: "Maison Numidia",
     locale: "fr_DZ",

@@ -58,7 +58,7 @@ export function formatPrice(price: number): string {
   return new Intl.NumberFormat("fr-DZ").format(price) + " DA";
 }
 
-export function getDiscount(price: number, originalPrice?: number): number | null {
+export function getDiscount(price: number, originalPrice?: number | null): number | null {
   if (!originalPrice || originalPrice <= price) return null;
   return Math.round(((originalPrice - price) / originalPrice) * 100);
 }
