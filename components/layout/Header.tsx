@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Menu, X, ChevronDown, Phone } from "lucide-react";
 import CartButton from "@/components/cart/CartButton";
+import SearchBar from "@/components/layout/SearchBar";
 
 const nav = [
   {
@@ -134,6 +135,7 @@ export default function Header() {
                 <Phone size={13} />
                 06 99 41 85 69
               </a>
+              <SearchBar />
               <CartButton />
               <Link
                 href="/commander"
@@ -143,8 +145,9 @@ export default function Header() {
               </Link>
             </div>
 
-            {/* Mobile: cart + hamburger */}
-            <div className="lg:hidden flex items-center gap-2">
+            {/* Mobile: search + cart + hamburger */}
+            <div className="lg:hidden flex items-center gap-1">
+              <SearchBar />
               <CartButton />
               <button
                 className="p-2 text-[#535359]"
