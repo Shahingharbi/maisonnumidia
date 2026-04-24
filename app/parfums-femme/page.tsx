@@ -5,6 +5,7 @@ import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Parfum Femme Original en Algérie — Chanel, YSL, Lancôme",
@@ -28,8 +29,26 @@ export default function ParfumsFemmePage() {
       href: `/parfums-femme/${slug}`,
     }));
 
+  const itemListSchema = getItemListSchema(
+    products.slice(0, 30).map((p) => ({
+      name: `${p.brand} ${p.name}`,
+      url: `/parfums/${p.slug}`,
+    })),
+    "Parfums Femme en Algérie"
+  );
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Accueil", url: "/" },
+    { name: "Parfums Femme", url: "/parfums-femme" },
+  ]);
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([itemListSchema, breadcrumbSchema]),
+        }}
+      />
       <CategoryHero
         title="Parfums Femme en Algérie"
         description="Floraux, orientaux, gourmands. Des fragrances féminines 100% authentiques, prix en dinar, livrées partout en Algérie."

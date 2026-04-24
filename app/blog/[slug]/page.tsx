@@ -4,6 +4,7 @@ import Link from "next/link";
 import { getArticleBySlug, getAllArticleSlugs } from "@/data/blog";
 import { Clock, ArrowLeft, ArrowRight } from "lucide-react";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import { getBlogPostingSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -114,25 +115,20 @@ export default async function BlogArticlePage({ params }: Props) {
   const article = getArticleBySlug(slug);
   if (!article) notFound();
 
-  const schemaArticle = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: article.title,
-    description: article.metaDescription,
-    datePublished: article.publishedAt,
-    publisher: {
-      "@type": "Organization",
-      name: "Maison Numidia",
-      url: "https://maisonnumidia.store",
-    },
-    url: `https://maisonnumidia.store/blog/${slug}`,
-  };
+  const blogSchema = getBlogPostingSchema(article);
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Accueil", url: "/" },
+    { name: "Blog", url: "/blog" },
+    { name: article.title, url: `/blog/${slug}` },
+  ]);
 
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaArticle) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([blogSchema, breadcrumbSchema]),
+        }}
       />
 
       {/* Header */}

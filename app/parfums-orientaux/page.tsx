@@ -5,6 +5,7 @@ import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Parfum Oriental Original en Algérie — Lattafa, Al Haramain",
@@ -28,8 +29,26 @@ export default function ParfumsOrientauxPage() {
       href: `/parfums-orientaux/${slug}`,
     }));
 
+  const itemListSchema = getItemListSchema(
+    products.slice(0, 30).map((p) => ({
+      name: `${p.brand} ${p.name}`,
+      url: `/parfums/${p.slug}`,
+    })),
+    "Parfums Orientaux en Algérie"
+  );
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Accueil", url: "/" },
+    { name: "Parfums Orientaux", url: "/parfums-orientaux" },
+  ]);
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([itemListSchema, breadcrumbSchema]),
+        }}
+      />
       <CategoryHero
         title="Parfums Orientaux en Algérie"
         description="Oud, ambre, musc, rose de Taïf — les trésors de la parfumerie orientale accessibles en Algérie. 100% authentiques, prix en dinar."

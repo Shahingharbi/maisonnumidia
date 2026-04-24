@@ -5,6 +5,7 @@ import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Parfum Homme Original en Algérie — Dior, Chanel, Armani",
@@ -28,8 +29,26 @@ export default function ParfumsHommePage() {
       href: `/parfums-homme/${slug}`,
     }));
 
+  const itemListSchema = getItemListSchema(
+    products.slice(0, 30).map((p) => ({
+      name: `${p.brand} ${p.name}`,
+      url: `/parfums/${p.slug}`,
+    })),
+    "Parfums Homme en Algérie"
+  );
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Accueil", url: "/" },
+    { name: "Parfums Homme", url: "/parfums-homme" },
+  ]);
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([itemListSchema, breadcrumbSchema]),
+        }}
+      />
       <CategoryHero
         title="Parfums Homme en Algérie"
         description="Des classiques intemporels aux fragrances orientales les plus recherchées. Prix en dinar algérien, 100% originaux, livrés partout en Algérie."
