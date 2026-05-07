@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts, formatPrice, getDiscount } from "@/lib/products";
-import { getProductSchema, getBreadcrumbSchema, generateProductMeta } from "@/lib/seo";
+import { getProductSchema, getBreadcrumbSchema, generateProductMeta, getFAQSchema } from "@/lib/seo";
 import {
   generateOlfactoryProfile,
   generatePerformance,
@@ -39,6 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       url: `https://maisonnumidia.store/parfums/${slug}`,
       images: [
+        { url: `https://maisonnumidia.store${product.image}`, width: 800, height: 1067, alt: title },
         { url: `https://maisonnumidia.store/opengraph-image`, width: 1200, height: 630, alt: title },
       ],
     },
@@ -46,7 +47,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title,
       description,
-      images: [`https://maisonnumidia.store/opengraph-image`],
+      images: [`https://maisonnumidia.store${product.image}`],
     },
   };
 }
@@ -85,6 +86,7 @@ export default async function ProductPage({ params }: Props) {
   const persona = generatePersona(product);
   const comparison = generateComparison(product);
   const faq = generateFAQ(product);
+  const faqSchema = getFAQSchema(faq.map((item) => ({ question: item.q, answer: item.a })));
 
   // Articles de blog pertinents selon le genre du produit
   const blogLinks: { label: string; href: string }[] = [
@@ -115,6 +117,10 @@ export default async function ProductPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       {/* Breadcrumb */}

@@ -298,6 +298,7 @@ export function getBlogPostingSchema(article: BlogArticle) {
       url: `${SITE_URL}/opengraph-image`,
       width: 1200,
       height: 630,
+      caption: article.title,
     },
     mainEntityOfPage: {
       "@type": "WebPage",
@@ -367,7 +368,7 @@ export function generateProductMeta(product: Product) {
       ? "homme"
       : product.gender === "femme"
       ? "femme"
-      : "mixte";
+      : "unisexe";
   const description = `${product.brand} ${product.name} ${product.concentration} ${product.volume} ${genderLabel} 100% authentique. Livraison Yalidine, paiement à la réception.`;
   return { title, description };
 }

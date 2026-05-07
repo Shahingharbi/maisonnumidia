@@ -1150,82 +1150,80 @@ Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/p
     category: "guides",
     readTime: 8,
     excerpt: "Lattafa Khamrah s'est imposé comme l'un des orientaux gourmands les plus vendus en Algérie. Voici notre avis complet, avec notes, tenue, alternatives et conseils d'achat.",
-    content: `<h2>Lattafa Khamrah : pourquoi tout le monde en parle ?</h2>
+    content: `## Lattafa Khamrah : pourquoi tout le monde en parle ?
 
-<p>Sorti en 2022 et porté par une vague TikTok mondiale, <a href="/parfums/lattafa-khamrah">Lattafa Khamrah</a> est devenu en quelques mois l'un des parfums orientaux gourmands les plus vendus en Algérie. Son nom signifie littéralement "vin" en arabe, en référence à l'ivresse des sens promise par sa composition. Chez Maison Numidia, il fait partie du top 5 des références orientales depuis 2024, avec une demande qui ne faiblit pas.</p>
+Sorti en 2022 et porté par une vague TikTok mondiale, [Lattafa Khamrah](/parfums/lattafa-khamrah) est devenu en quelques mois l'un des parfums orientaux gourmands les plus vendus en Algérie. Son nom signifie littéralement "vin" en arabe, en référence à l'ivresse des sens promise par sa composition. Chez Maison Numidia, il fait partie du top 5 des références orientales depuis 2024, avec une demande qui ne faiblit pas.
 
-<p>Mais derrière le buzz, que vaut vraiment Khamrah quand on le porte au quotidien algérien ? Cet avis complet répond à toutes les questions : profil olfactif, tenue réelle, comparaison avec les autres références Lattafa, alternatives selon votre budget, et où l'acheter en toute confiance.</p>
+Mais derrière le buzz, que vaut vraiment Khamrah quand on le porte au quotidien algérien ? Cet avis complet répond à toutes les questions : profil olfactif, tenue réelle, comparaison avec les autres références Lattafa, alternatives selon votre budget, et où l'acheter en toute confiance.
 
-<h2>Profil olfactif : la pyramide complète</h2>
+## Profil olfactif : la pyramide complète
 
-<p>Khamrah est un oriental gourmand unisexe, classé EDP avec une concentration de 18 à 20% de matières odorantes. La pyramide est construite autour d'un axe praline-oud-vanille caractéristique du style Lattafa contemporain.</p>
+Khamrah est un oriental gourmand unisexe, classé EDP avec une concentration de 18 à 20% de matières odorantes. La pyramide est construite autour d'un axe praline-oud-vanille caractéristique du style Lattafa contemporain.
 
-<h3>Notes de tête</h3>
+### Notes de tête
 
-<p>L'ouverture est dominée par la <strong>cardamome verte</strong>, le <strong>safran</strong> et un mélange d'épices chaudes. Cette entrée est immédiatement reconnaissable comme orientale, sans détour aromatique. Pas de bergamote, pas d'agrumes : Khamrah affirme dès la première vaporisation qu'il s'inscrit dans la lignée des grands orientaux moyen-orientaux modernes.</p>
+L'ouverture est dominée par la **cardamome verte**, le **safran** et un mélange d'épices chaudes. Cette entrée est immédiatement reconnaissable comme orientale, sans détour aromatique. Pas de bergamote, pas d'agrumes : Khamrah affirme dès la première vaporisation qu'il s'inscrit dans la lignée des grands orientaux moyen-orientaux modernes.
 
-<h3>Notes de cœur</h3>
+### Notes de cœur
 
-<p>C'est ici que tout se joue. La <strong>praline caramelisée</strong> arrive en accompagnement de l'<strong>oud boisé-fumé</strong> et d'une touche de <strong>jasmin</strong>. Cette alliance praline-oud est devenue la signature reconnaissable de Khamrah et a inspiré des dizaines d'imitations depuis 2023. Le contraste entre la rondeur sucrée de la praline et la facette légèrement médicinale de l'oud crée une tension olfactive très addictive.</p>
+C'est ici que tout se joue. La **praline caramelisée** arrive en accompagnement de l'**oud boisé-fumé** et d'une touche de **jasmin**. Cette alliance praline-oud est devenue la signature reconnaissable de Khamrah et a inspiré des dizaines d'imitations depuis 2023. Le contraste entre la rondeur sucrée de la praline et la facette légèrement médicinale de l'oud crée une tension olfactive très addictive.
 
-<h3>Notes de fond</h3>
+### Notes de fond
 
-<p>La base associe <strong>vanille bourbon</strong>, <strong>ambre chaud</strong> et <strong>musc boisé</strong>. C'est une base typique des compositions Lattafa premium : généreuse, persistante, avec un sillage qui marque les espaces de réception, restaurants et soirées.</p>
+La base associe **vanille bourbon**, **ambre chaud** et **musc boisé**. C'est une base typique des compositions Lattafa premium : généreuse, persistante, avec un sillage qui marque les espaces de réception, restaurants et soirées.
 
-<h2>Tenue et sillage en conditions réelles</h2>
+## Tenue et sillage en conditions réelles
 
-<p>En conditions algériennes, Khamrah affiche des performances supérieures à la moyenne du marché à son prix.</p>
+En conditions algériennes, Khamrah affiche des performances supérieures à la moyenne du marché à son prix.
 
-<ul>
-<li><strong>Tenue sur peau :</strong> 10 à 12 heures, parfois plus selon la peau</li>
-<li><strong>Sillage :</strong> intense les 4 premières heures, modéré ensuite</li>
-<li><strong>Projection :</strong> 1,5 à 2 mètres pendant 6 heures</li>
-<li><strong>Tenue sur vêtements :</strong> jusqu'à 24-36 heures sur tissus de laine</li>
-</ul>
+- **Tenue sur peau :** 10 à 12 heures, parfois plus selon la peau
+- **Sillage :** intense les 4 premières heures, modéré ensuite
+- **Projection :** 1,5 à 2 mètres pendant 6 heures
+- **Tenue sur vêtements :** jusqu'à 24-36 heures sur tissus de laine
 
-<p>Pour un parfum vendu sous les 9 000 DA en Algérie, ces performances sont exceptionnelles et expliquent en grande partie la fidélité des acheteurs. À titre de comparaison, des EDP designer européens à 14 000 DA tiennent souvent moins longtemps.</p>
+Pour un parfum vendu sous les 9 000 DA en Algérie, ces performances sont exceptionnelles et expliquent en grande partie la fidélité des acheteurs. À titre de comparaison, des EDP designer européens à 14 000 DA tiennent souvent moins longtemps.
 
-<h2>Khamrah vs Angels' Share Lattafa : quel choix ?</h2>
+## Khamrah vs Angels' Share Lattafa : quel choix ?
 
-<p>La question revient sans arrêt en boutique : faut-il Khamrah ou Angels' Share ? Les deux fragrances partagent l'ADN gourmand de Lattafa, mais visent des moments différents.</p>
+La question revient sans arrêt en boutique : faut-il Khamrah ou Angels' Share ? Les deux fragrances partagent l'ADN gourmand de Lattafa, mais visent des moments différents.
 
-<p><strong>Khamrah</strong> est plus oriental, plus épicé, plus marqué oud. Sa praline reste élégante, jamais sirupeuse. C'est le parfum des <strong>soirées habillées, mariages et fêtes religieuses</strong>. Il fonctionne aussi bien sur un homme que sur une femme grâce à son équilibre praline-oud.</p>
+**Khamrah** est plus oriental, plus épicé, plus marqué oud. Sa praline reste élégante, jamais sirupeuse. C'est le parfum des **soirées habillées, mariages et fêtes religieuses**. Il fonctionne aussi bien sur un homme que sur une femme grâce à son équilibre praline-oud.
 
-<p><strong>Angels' Share</strong> mise davantage sur le cognac, le tabac et les fruits secs avec une signature whisky-praline plus occidentale. C'est un parfum d'<strong>automne-hiver, plus introverti et plus chic feutré</strong>, qui plaît particulièrement aux hommes recherchant une alternative à Kirke ou Layton.</p>
+**Angels' Share** mise davantage sur le cognac, le tabac et les fruits secs avec une signature whisky-praline plus occidentale. C'est un parfum d'**automne-hiver, plus introverti et plus chic feutré**, qui plaît particulièrement aux hommes recherchant une alternative à Kirke ou Layton.
 
-<p>Notre conseil : si vous découvrez Lattafa et que vous aimez les ambiances orientales, commencez par Khamrah. Si vous avez déjà un parfum oriental dans votre garde-robe et cherchez une signature plus boisée-cognac, choisissez Angels' Share.</p>
+Notre conseil : si vous découvrez Lattafa et que vous aimez les ambiances orientales, commencez par Khamrah. Si vous avez déjà un parfum oriental dans votre garde-robe et cherchez une signature plus boisée-cognac, choisissez Angels' Share.
 
-<h2>Alternatives orientales du catalogue Maison Numidia</h2>
+## Alternatives orientales du catalogue Maison Numidia
 
-<p>Si Khamrah vous intrigue mais que vous voulez explorer d'autres pistes orientales, voici trois alternatives sérieuses, toutes en stock chez Maison Numidia.</p>
+Si Khamrah vous intrigue mais que vous voulez explorer d'autres pistes orientales, voici trois alternatives sérieuses, toutes en stock chez Maison Numidia.
 
-<h3>Lattafa Asad — l'oriental boisé puissant</h3>
+### Lattafa Asad, l'oriental boisé puissant
 
-<p><a href="/parfums/lattafa-asad">Lattafa Asad</a> reprend l'ADN performant de la maison mais oriente le parfum vers un boisé-ambré masculin plus sombre. Si vous trouvez Khamrah trop sucré ou si vous cherchez une signature 100% masculine, Asad est un candidat logique. Prix : autour de 6 500 DA.</p>
+[Lattafa Asad](/parfums/lattafa-asad) reprend l'ADN performant de la maison mais oriente le parfum vers un boisé-ambré masculin plus sombre. Si vous trouvez Khamrah trop sucré ou si vous cherchez une signature 100% masculine, Asad est un candidat logique. Prix : autour de 6 500 DA.
 
-<h3>Lattafa Yara — la version florale-gourmande</h3>
+### Lattafa Yara, la version florale-gourmande
 
-<p><a href="/parfums/lattafa-yara">Lattafa Yara</a> est l'alternative féminine évidente. Plus floral, plus fruité, avec une vanille plus crémeuse, Yara séduit les femmes qui aiment l'idée d'un oriental gourmand mais préfèrent éviter l'oud trop affirmé de Khamrah. Très populaire chez les 18-30 ans en Algérie.</p>
+[Lattafa Yara](/parfums/lattafa-yara) est l'alternative féminine évidente. Plus floral, plus fruité, avec une vanille plus crémeuse, Yara séduit les femmes qui aiment l'idée d'un oriental gourmand mais préfèrent éviter l'oud trop affirmé de Khamrah. Très populaire chez les 18-30 ans en Algérie.
 
-<h3>Ajmal Amber Wood — l'oriental boisé premium</h3>
+### Ajmal Amber Wood, l'oriental boisé premium
 
-<p><a href="/parfums/ajmal-amber-wood">Ajmal Amber Wood</a> est une alternative plus haut de gamme côté maison émiratie. L'ambre et le santal y dominent, avec une élégance plus retenue que la générosité Lattafa. Pour ceux qui cherchent un oriental discret au bureau plutôt qu'un sillage de soirée.</p>
+[Ajmal Amber Wood](/parfums/ajmal-amber-wood) est une alternative plus haut de gamme côté maison émiratie. L'ambre et le santal y dominent, avec une élégance plus retenue que la générosité Lattafa. Pour ceux qui cherchent un oriental discret au bureau plutôt qu'un sillage de soirée.
 
-<h2>Prix Khamrah en Algérie</h2>
+## Prix Khamrah en Algérie
 
-<p>Khamrah 100ml se trouve actuellement entre 8 000 et 9 500 DA en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 58 wilayas.</p>
+Khamrah 100ml se trouve actuellement entre 8 000 et 9 500 DA en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 58 wilayas.
 
-<p>Méfiez-vous des offres sous les 5 000 DA sur les réseaux sociaux : à ce prix, soit le flacon est dilué, soit c'est une contrefaçon. Lattafa applique une politique de prix homogène mondialement et les vrais Khamrah ne descendent jamais à ce niveau de tarif.</p>
+Méfiez-vous des offres sous les 5 000 DA sur les réseaux sociaux : à ce prix, soit le flacon est dilué, soit c'est une contrefaçon. Lattafa applique une politique de prix homogène mondialement et les vrais Khamrah ne descendent jamais à ce niveau de tarif.
 
-<h2>Où acheter Lattafa Khamrah en Algérie</h2>
+## Où acheter Lattafa Khamrah en Algérie
 
-<p>Pour acheter Khamrah en toute confiance, privilégiez les revendeurs qui peuvent justifier la traçabilité du flacon. Maison Numidia importe directement depuis les distributeurs officiels Lattafa et garantit l'authenticité de chaque flacon livré, avec paiement à la livraison via Yalidine dans les 58 wilayas.</p>
+Pour acheter Khamrah en toute confiance, privilégiez les revendeurs qui peuvent justifier la traçabilité du flacon. Maison Numidia importe directement depuis les distributeurs officiels Lattafa et garantit l'authenticité de chaque flacon livré, avec paiement à la livraison via Yalidine dans les 58 wilayas.
 
-<p>Pour explorer d'autres orientaux dans la même gamme, consultez notre <a href="/parfums-orientaux">catalogue parfums orientaux</a>. Et si l'univers de la niche vous intéresse, lisez notre <a href="/blog/parfum-de-niche-algerie">guide complet des parfums de niche en Algérie</a> pour comprendre comment Khamrah s'inscrit dans la nouvelle vague oriental-niche moderne.</p>
+Pour explorer d'autres orientaux dans la même gamme, consultez notre [catalogue parfums orientaux](/parfums-orientaux). Et si l'univers de la niche vous intéresse, lisez notre [guide complet des parfums de niche en Algérie](/blog/parfum-de-niche-algerie) pour comprendre comment Khamrah s'inscrit dans la nouvelle vague oriental-niche moderne.
 
-<h2>Conclusion : faut-il acheter Khamrah en 2026 ?</h2>
+## Conclusion : faut-il acheter Khamrah en 2026 ?
 
-<p>Oui, sans hésitation, si vous aimez les orientaux gourmands et que vous cherchez une fragrance qui marque les esprits sans dépasser 9 000 DA. Khamrah reste en 2026 l'une des meilleures portes d'entrée vers la parfumerie orientale Dubai-style, avec un rapport performance-prix difficile à battre. Pour les soirées, mariages et grandes occasions algériennes, c'est un choix imparable. Pour le bureau quotidien en revanche, optez plutôt pour <a href="/parfums/ajmal-amber-wood">Ajmal Amber Wood</a> ou <a href="/parfums/lattafa-yara">Lattafa Yara</a>, plus discrets.</p>`,
+Oui, sans hésitation, si vous aimez les orientaux gourmands et que vous cherchez une fragrance qui marque les esprits sans dépasser 9 000 DA. Khamrah reste en 2026 l'une des meilleures portes d'entrée vers la parfumerie orientale Dubai-style, avec un rapport performance-prix difficile à battre. Pour les soirées, mariages et grandes occasions algériennes, c'est un choix imparable. Pour le bureau quotidien en revanche, optez plutôt pour [Ajmal Amber Wood](/parfums/ajmal-amber-wood) ou [Lattafa Yara](/parfums/lattafa-yara), plus discrets.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -1242,85 +1240,83 @@ Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/p
     category: "tendances",
     readTime: 9,
     excerpt: "Notre classement actualisé des dix meilleurs parfums femme à acheter en Algérie en 2026. Sélection basée sur les ventes Maison Numidia, les tendances internationales et les goûts locaux.",
-    content: `<h2>Quel parfum femme choisir en 2026 ?</h2>
+    content: `## Quel parfum femme choisir en 2026 ?
 
-<p>Le marché algérien des parfums féminins évolue vite. Entre les classiques intemporels qui dominent depuis vingt ans et les nouveautés portées par les réseaux sociaux, faire le bon choix demande un peu de méthode. Ce classement 2026 reflète les ventes réelles chez Maison Numidia sur les douze derniers mois, croisées avec les tendances olfactives mondiales et les retours de notre clientèle dans toutes les wilayas.</p>
+Le marché algérien des parfums féminins évolue vite. Entre les classiques intemporels qui dominent depuis vingt ans et les nouveautés portées par les réseaux sociaux, faire le bon choix demande un peu de méthode. Ce classement 2026 reflète les ventes réelles chez Maison Numidia sur les douze derniers mois, croisées avec les tendances olfactives mondiales et les retours de notre clientèle dans toutes les wilayas.
 
-<p>Tous les parfums présentés sont en stock, livrables sous 24 à 72 heures via Yalidine, avec paiement à la réception. Pas d'avance, pas de risque, juste votre signature olfactive idéale.</p>
+Tous les parfums présentés sont en stock, livrables sous 24 à 72 heures via Yalidine, avec paiement à la réception. Pas d'avance, pas de risque, juste votre signature olfactive idéale.
 
-<h2>1. Lancôme La Vie est Belle EDP</h2>
+## 1. Lancôme La Vie est Belle EDP
 
-<p><a href="/parfums/la-vie-est-belle-lancome">La Vie est Belle</a> reste indétrônable en tête de notre classement. Ce floral-oriental gourmand iris-praline-patchouli créé par Olivier Polge en 2012 a traversé les modes sans prendre une ride. Son sillage chaud et accessible séduit les femmes de 25 à 60 ans, du quotidien aux grandes occasions. Pour l'Algérie, c'est aussi le parfum de l'automne et de l'hiver par excellence : la praline et l'iris s'épanouissent dès que les températures descendent. Tenue de 8 à 10 heures, projection généreuse les premières heures.</p>
+[La Vie est Belle](/parfums/la-vie-est-belle-lancome) reste indétrônable en tête de notre classement. Ce floral-oriental gourmand iris-praline-patchouli créé par Olivier Polge en 2012 a traversé les modes sans prendre une ride. Son sillage chaud et accessible séduit les femmes de 25 à 60 ans, du quotidien aux grandes occasions. Pour l'Algérie, c'est aussi le parfum de l'automne et de l'hiver par excellence : la praline et l'iris s'épanouissent dès que les températures descendent. Tenue de 8 à 10 heures, projection généreuse les premières heures.
 
-<p><strong>Prix :</strong> 14 900 DA · <strong>Occasion :</strong> quotidien, soirée, cadeau · <strong>Famille :</strong> floral oriental gourmand</p>
+**Prix :** 14 900 DA · **Occasion :** quotidien, soirée, cadeau · **Famille :** floral oriental gourmand
 
-<h2>2. Chanel Coco Mademoiselle EDP</h2>
+## 2. Chanel Coco Mademoiselle EDP
 
-<p><a href="/parfums/coco-mademoiselle-chanel">Coco Mademoiselle</a> est la signature absolue de l'élégance française moderne. Orange fraîche, rose et patchouli créent un chypré féminin sophistiqué que toutes les générations se transmettent. C'est le parfum des femmes qui veulent être reconnues comme élégantes sans avoir à le revendiquer. À porter pour les occasions formelles et professionnelles.</p>
+[Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) est la signature absolue de l'élégance française moderne. Orange fraîche, rose et patchouli créent un chypré féminin sophistiqué que toutes les générations se transmettent. C'est le parfum des femmes qui veulent être reconnues comme élégantes sans avoir à le revendiquer. À porter pour les occasions formelles et professionnelles.
 
-<p><strong>Prix :</strong> 16 500 DA · <strong>Occasion :</strong> bureau, soirée chic · <strong>Famille :</strong> chypré floral</p>
+**Prix :** 16 500 DA · **Occasion :** bureau, soirée chic · **Famille :** chypré floral
 
-<h2>3. YSL Libre EDP</h2>
+## 3. YSL Libre EDP
 
-<p><a href="/parfums/libre-ysl">Libre de YSL</a> incarne la femme qui choisit ses propres règles. La lavande féminisée associée à la fleur d'oranger et à la vanille musquée crée une fragrance d'une modernité affirmée. Son sillage marque la pièce sans être agressif. Choix idéal pour les femmes confiantes qui veulent une signature distinctive sans tomber dans le spectaculaire.</p>
+[Libre de YSL](/parfums/libre-ysl) incarne la femme qui choisit ses propres règles. La lavande féminisée associée à la fleur d'oranger et à la vanille musquée crée une fragrance d'une modernité affirmée. Son sillage marque la pièce sans être agressif. Choix idéal pour les femmes confiantes qui veulent une signature distinctive sans tomber dans le spectaculaire.
 
-<p><strong>Prix :</strong> 14 900 DA · <strong>Occasion :</strong> soirée, occasions importantes · <strong>Famille :</strong> floral aromatique</p>
+**Prix :** 14 900 DA · **Occasion :** soirée, occasions importantes · **Famille :** floral aromatique
 
-<h2>4. Jean Paul Gaultier Scandal EDP</h2>
+## 4. Jean Paul Gaultier Scandal EDP
 
-<p><a href="/parfums/scandal-jean-paul-gaultier">Scandal</a> mise sur le miel et le gardénia avec une facette patchouli-vanille très addictive. C'est le parfum de la fête, des sorties entre amies et des soirées où on veut être remarquée. Très apprécié des 20-35 ans en Algérie pour sa générosité de sillage et son côté joyeux. Le flacon en forme de buste est devenu iconique.</p>
+[Scandal](/parfums/scandal-jean-paul-gaultier) mise sur le miel et le gardénia avec une facette patchouli-vanille très addictive. C'est le parfum de la fête, des sorties entre amies et des soirées où on veut être remarquée. Très apprécié des 20-35 ans en Algérie pour sa générosité de sillage et son côté joyeux. Le flacon en forme de buste est devenu iconique.
 
-<p><strong>Prix :</strong> 13 500 DA · <strong>Occasion :</strong> soirée, fête, week-end · <strong>Famille :</strong> floral gourmand</p>
+**Prix :** 13 500 DA · **Occasion :** soirée, fête, week-end · **Famille :** floral gourmand
 
-<h2>5. Dior Miss Dior EDP</h2>
+## 5. Dior Miss Dior EDP
 
-<p><a href="/parfums/miss-dior">Miss Dior</a> est la version contemporaine de la féminité Dior. Pivoine, rose de Grasse et patchouli créent un floral-chypré moderne et lumineux. Plus jeune et plus aérien que J'adore, Miss Dior s'adresse aux femmes qui veulent l'élégance Dior sans la solennité du grand floral classique. Excellent pour le printemps-été en Algérie.</p>
+[Miss Dior](/parfums/miss-dior) est la version contemporaine de la féminité Dior. Pivoine, rose de Grasse et patchouli créent un floral-chypré moderne et lumineux. Plus jeune et plus aérien que J'adore, Miss Dior s'adresse aux femmes qui veulent l'élégance Dior sans la solennité du grand floral classique. Excellent pour le printemps-été en Algérie.
 
-<p><strong>Prix :</strong> 15 500 DA · <strong>Occasion :</strong> quotidien chic, romantique · <strong>Famille :</strong> floral chypré</p>
+**Prix :** 15 500 DA · **Occasion :** quotidien chic, romantique · **Famille :** floral chypré
 
-<h2>6. Dior J'adore EDP</h2>
+## 6. Dior J'adore EDP
 
-<p><a href="/parfums/dior-jadore">Dior J'adore</a> reste la référence du grand floral solaire. Ylang-ylang, rose et jasmin de Grasse composent l'expression la plus pure de la féminité dorée Dior. C'est le parfum des mariages algériens par excellence, des fiançailles et des grands événements familiaux. Tenue exceptionnelle de 10 heures et sillage qui parfume l'espace longtemps après votre passage.</p>
+[Dior J'adore](/parfums/dior-jadore) reste la référence du grand floral solaire. Ylang-ylang, rose et jasmin de Grasse composent l'expression la plus pure de la féminité dorée Dior. C'est le parfum des mariages algériens par excellence, des fiançailles et des grands événements familiaux. Tenue exceptionnelle de 10 heures et sillage qui parfume l'espace longtemps après votre passage.
 
-<p><strong>Prix :</strong> 15 200 DA · <strong>Occasion :</strong> mariage, cérémonie · <strong>Famille :</strong> grand floral</p>
+**Prix :** 15 200 DA · **Occasion :** mariage, cérémonie · **Famille :** grand floral
 
-<h2>7. YSL Mon Paris EDP</h2>
+## 7. YSL Mon Paris EDP
 
-<p><a href="/parfums/mon-paris-ysl">Mon Paris</a> propose un chypré-fruité moderne très réussi : framboise, pivoine et patchouli blanc. Plus pop et plus jeune que Libre, Mon Paris séduit les femmes qui veulent une signature romantique sans tomber dans le bonbon sucré. Excellent compromis pour celles qui hésitent entre floral fruité et chypré classique.</p>
+[Mon Paris](/parfums/mon-paris-ysl) propose un chypré-fruité moderne très réussi : framboise, pivoine et patchouli blanc. Plus pop et plus jeune que Libre, Mon Paris séduit les femmes qui veulent une signature romantique sans tomber dans le bonbon sucré. Excellent compromis pour celles qui hésitent entre floral fruité et chypré classique.
 
-<p><strong>Prix :</strong> 13 900 DA · <strong>Occasion :</strong> rendez-vous, sortie · <strong>Famille :</strong> chypré fruité</p>
+**Prix :** 13 900 DA · **Occasion :** rendez-vous, sortie · **Famille :** chypré fruité
 
-<h2>8. Lancôme Idôle EDP</h2>
+## 8. Lancôme Idôle EDP
 
-<p><a href="/parfums/idole-lancome">Idôle</a> est la vision moderne et minimaliste de la rose selon Lancôme. Trois roses (centifolia, damascena, isparta) sur un fond chypré transparent musc-poire-vanille. Sa silhouette ultra-fine en flacon plat reflète parfaitement le contenu : élégant, contemporain, jamais lourd. Idéal pour le bureau et les femmes qui détestent les sillages envahissants.</p>
+[Idôle](/parfums/idole-lancome) est la vision moderne et minimaliste de la rose selon Lancôme. Trois roses (centifolia, damascena, isparta) sur un fond chypré transparent musc-poire-vanille. Sa silhouette ultra-fine en flacon plat reflète parfaitement le contenu : élégant, contemporain, jamais lourd. Idéal pour le bureau et les femmes qui détestent les sillages envahissants.
 
-<p><strong>Prix :</strong> 13 200 DA · <strong>Occasion :</strong> bureau, quotidien · <strong>Famille :</strong> floral chypré moderne</p>
+**Prix :** 13 200 DA · **Occasion :** bureau, quotidien · **Famille :** floral chypré moderne
 
-<h2>9. Narciso Rodriguez For Her EDP</h2>
+## 9. Narciso Rodriguez For Her EDP
 
-<p><a href="/parfums/narciso-rodriguez-for-her">For Her</a> est le parfum du musc féminin par excellence. Sa formule autour du musc, de la rose et du santal crée une signature seconde peau d'une élégance discrète absolue. C'est le parfum qu'on ne sent pas en entrant dans la pièce mais qui laisse un sillage subtil dont tout le monde se souvient. Choix de connaisseuse.</p>
+[For Her](/parfums/narciso-rodriguez-for-her) est le parfum du musc féminin par excellence. Sa formule autour du musc, de la rose et du santal crée une signature seconde peau d'une élégance discrète absolue. C'est le parfum qu'on ne sent pas en entrant dans la pièce mais qui laisse un sillage subtil dont tout le monde se souvient. Choix de connaisseuse.
 
-<p><strong>Prix :</strong> 13 900 DA · <strong>Occasion :</strong> bureau, intime · <strong>Famille :</strong> musc floral</p>
+**Prix :** 13 900 DA · **Occasion :** bureau, intime · **Famille :** musc floral
 
-<h2>10. Paco Rabanne Lady Million EDP</h2>
+## 10. Paco Rabanne Lady Million EDP
 
-<p><a href="/parfums/lady-million-paco-rabanne">Lady Million</a> reste la fragrance festive féminine la plus reconnue en Algérie. Néroli, framboise et patchouli composent un floral-chypré lumineux et glamour. Le flacon en lingot d'or doré est devenu iconique. Excellent choix pour les soirées d'hiver, les fêtes et les week-ends entre amies.</p>
+[Lady Million](/parfums/lady-million-paco-rabanne) reste la fragrance festive féminine la plus reconnue en Algérie. Néroli, framboise et patchouli composent un floral-chypré lumineux et glamour. Le flacon en lingot d'or doré est devenu iconique. Excellent choix pour les soirées d'hiver, les fêtes et les week-ends entre amies.
 
-<p><strong>Prix :</strong> 14 200 DA · <strong>Occasion :</strong> soirée, fête · <strong>Famille :</strong> floral chypré</p>
+**Prix :** 14 200 DA · **Occasion :** soirée, fête · **Famille :** floral chypré
 
-<h2>Comment choisir parmi ce top 10 ?</h2>
+## Comment choisir parmi ce top 10 ?
 
-<p>Si vous ne savez pas par où commencer, voici nos recommandations selon votre profil.</p>
+Si vous ne savez pas par où commencer, voici nos recommandations selon votre profil.
 
-<ul>
-<li><strong>Première vraie signature parfum :</strong> La Vie est Belle ou Coco Mademoiselle, des valeurs sûres aimées universellement.</li>
-<li><strong>Femme qui veut marquer sa différence :</strong> Libre ou Idôle, des signatures contemporaines distinctives.</li>
-<li><strong>Cadeau pour un mariage :</strong> Dior J'adore, Coco Mademoiselle ou Miss Dior.</li>
-<li><strong>Parfum de bureau discret :</strong> Idôle ou Narciso For Her.</li>
-<li><strong>Parfum de fête et de sortie :</strong> Scandal, Lady Million ou Mon Paris.</li>
-</ul>
+- **Première vraie signature parfum :** La Vie est Belle ou Coco Mademoiselle, des valeurs sûres aimées universellement.
+- **Femme qui veut marquer sa différence :** Libre ou Idôle, des signatures contemporaines distinctives.
+- **Cadeau pour un mariage :** Dior J'adore, Coco Mademoiselle ou Miss Dior.
+- **Parfum de bureau discret :** Idôle ou Narciso For Her.
+- **Parfum de fête et de sortie :** Scandal, Lady Million ou Mon Paris.
 
-<p>Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, consultez notre <a href="/parfums-femme">catalogue complet de parfums femme</a> avec filtres par marque, famille olfactive et budget. Livraison Yalidine 24-72h dans les 58 wilayas, paiement à la livraison, authenticité garantie sur chaque flacon.</p>`,
+Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, consultez notre [catalogue complet de parfums femme](/parfums-femme) avec filtres par marque, famille olfactive et budget. Livraison Yalidine 24-72h dans les 58 wilayas, paiement à la livraison, authenticité garantie sur chaque flacon.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
