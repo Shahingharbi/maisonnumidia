@@ -10,7 +10,6 @@ import Collections from "@/components/home/Collections";
 import TwoColumnSection from "@/components/home/TwoColumnSection";
 import ThreeColumnSection from "@/components/home/ThreeColumnSection";
 import { getFeaturedProducts } from "@/lib/products";
-import { getOrganizationSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Parfum Original en Algérie — Livraison 58 Wilayas, Paiement à la Réception",
@@ -28,35 +27,11 @@ export const metadata: Metadata = {
   },
 };
 
-const websiteSchema = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "Maison Numidia",
-  url: "https://maisonnumidia.store",
-  potentialAction: {
-    "@type": "SearchAction",
-    target: {
-      "@type": "EntryPoint",
-      urlTemplate: "https://maisonnumidia.store/parfums?q={search_term_string}",
-    },
-    "query-input": "required name=search_term_string",
-  },
-};
-
 export default function HomePage() {
   const featured = getFeaturedProducts();
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(getOrganizationSchema()) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-      />
-
       {/* 1. Hero Carousel */}
       <Hero />
 

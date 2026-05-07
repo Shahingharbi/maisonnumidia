@@ -9,9 +9,52 @@ export const metadata: Metadata = {
   },
 };
 
+const contactPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  name: "Contact — Maison Numidia",
+  url: "https://maisonnumidia.store/contact",
+  mainEntity: {
+    "@type": "Store",
+    "@id": "https://maisonnumidia.store/#store",
+    name: "Maison Numidia",
+    telephone: "+213699418569",
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Blida",
+      addressCountry: "DZ",
+    },
+    contactPoint: [
+      {
+        "@type": "ContactPoint",
+        telephone: "+213699418569",
+        contactType: "customer service",
+        availableLanguage: ["French", "Arabic"],
+        areaServed: "DZ",
+      },
+      {
+        "@type": "ContactPoint",
+        telephone: "+33782214993",
+        contactType: "customer service",
+        availableLanguage: ["French"],
+      },
+    ],
+    openingHoursSpecification: {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"],
+      opens: "09:00",
+      closes: "21:00",
+    },
+  },
+};
+
 export default function ContactPage() {
   return (
     <div className="min-h-screen bg-white pt-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(contactPageSchema) }}
+      />
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-14">
         <div className="mb-12">
           <span className="text-xs font-semibold text-[#C9A84C] tracking-[0.2em] uppercase">

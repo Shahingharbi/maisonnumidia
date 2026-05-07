@@ -30,16 +30,20 @@ const blogSlugs = [
 ];
 
 // Construire la liste complète des URLs
+// IMPORTANT: ne JAMAIS inclure /commander, /panier, /confirmation, /api/*
+// (pages noindex/disallow dans robots.txt — ne doivent pas être notifiées à IndexNow)
 const urls = [
-  // Pages statiques prioritaires
+  // Pages statiques prioritaires (indexables uniquement)
   BASE,
   `${BASE}/parfums-homme`,
   `${BASE}/parfums-femme`,
   `${BASE}/parfums-orientaux`,
+  `${BASE}/parfum-algerie`,
   `${BASE}/marques`,
   `${BASE}/blog`,
-  `${BASE}/commander`,
+  `${BASE}/a-propos`,
   `${BASE}/contact`,
+  `${BASE}/plan-du-site`,
 
   // Articles blog
   ...blogSlugs.map(s => `${BASE}/blog/${s}`),
@@ -64,6 +68,16 @@ const urls = [
 ];
 
 console.log(`\n📋 ${urls.length} URLs à soumettre à IndexNow\n`);
+
+// Mode dry-run : afficher les URLs sans envoyer (DRY_RUN=1 node scripts/indexnow-submit.mjs)
+const DRY_RUN = process.env.DRY_RUN === '1' || process.env.DRY_RUN === 'true';
+if (DRY_RUN) {
+  console.log('🧪 DRY_RUN actif — aucune requête HTTP envoyée');
+  console.log(`   Premières 5 URLs : ${urls.slice(0, 5).join(', ')}`);
+  console.log(`   Dernières 5 URLs : ${urls.slice(-5).join(', ')}`);
+  console.log('\n✅ Dry-run terminé — script chargé sans erreur\n');
+  process.exit(0);
+}
 
 // IndexNow accepte max 10 000 URLs par requête
 const BATCH_SIZE = 10000;

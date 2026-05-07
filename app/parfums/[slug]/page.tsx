@@ -4,6 +4,13 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts, formatPrice, getDiscount } from "@/lib/products";
 import { getProductSchema, getBreadcrumbSchema, generateProductMeta } from "@/lib/seo";
+import {
+  generateOlfactoryProfile,
+  generatePerformance,
+  generatePersona,
+  generateComparison,
+  generateFAQ,
+} from "@/lib/product-content";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import ProductCard from "@/components/product/ProductCard";
 import { Phone, Truck, Shield, ChevronRight } from "lucide-react";
@@ -30,7 +37,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title,
       description,
       type: "website",
-      images: [{ url: `https://maisonnumidia.store${product.image}`, width: 375, height: 500, alt: title }],
+      url: `https://maisonnumidia.store/parfums/${slug}`,
+      images: [
+        { url: `https://maisonnumidia.store/opengraph-image`, width: 1200, height: 630, alt: title },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [`https://maisonnumidia.store/opengraph-image`],
     },
   };
 }
@@ -62,6 +78,13 @@ export default async function ProductPage({ params }: Props) {
     { name: product.brand, url: `/${product.category}/${product.brandSlug}` },
     { name: product.h1 ?? product.name, url: `/parfums/${product.slug}` },
   ]);
+
+  // Data-driven SEO content (unique per product)
+  const olfactoryProfile = generateOlfactoryProfile(product);
+  const performance = generatePerformance(product);
+  const persona = generatePersona(product);
+  const comparison = generateComparison(product);
+  const faq = generateFAQ(product);
 
   // Articles de blog pertinents selon le genre du produit
   const blogLinks: { label: string; href: string }[] = [
@@ -276,6 +299,21 @@ export default async function ProductPage({ params }: Props) {
             </div>
 
             <h3 className="text-lg font-bold text-[#111111] pt-4">
+              Profil olfactif détaillé
+            </h3>
+            <p>{olfactoryProfile}</p>
+
+            <h3 className="text-lg font-bold text-[#111111] pt-4">
+              Performance en Algérie : tenue et sillage
+            </h3>
+            <p>{performance}</p>
+
+            <h3 className="text-lg font-bold text-[#111111] pt-4">
+              Pour qui est {product.brand} {product.name} ?
+            </h3>
+            <p>{persona}</p>
+
+            <h3 className="text-lg font-bold text-[#111111] pt-4">
               Quand porter {product.brand} {product.name} ?
             </h3>
             <p>
@@ -285,6 +323,11 @@ export default async function ProductPage({ params }: Props) {
               Grâce à {product.longevity >= 4 ? "son excellente" : "sa bonne"} longévité,
               il accompagne votre journée du matin jusqu'au soir sans retouche nécessaire.
             </p>
+
+            <h3 className="text-lg font-bold text-[#111111] pt-4">
+              Comment se compare {product.name} dans notre catalogue
+            </h3>
+            <p>{comparison}</p>
 
             <h3 className="text-lg font-bold text-[#111111] pt-4">
               Acheter {product.brand} {product.name} en Algérie
@@ -320,6 +363,18 @@ export default async function ProductPage({ params }: Props) {
               Nous nous engageons sur l&apos;authenticité de chaque flacon. En cas de doute à la réception,
               vous pouvez refuser la livraison — aucune question posée.
             </p>
+
+            <h3 className="text-lg font-bold text-[#111111] pt-6">
+              Questions fréquentes — {product.brand} {product.name}
+            </h3>
+            <div className="space-y-4">
+              {faq.map((item) => (
+                <div key={item.q} className="bg-white rounded-xl p-4 border border-gray-100">
+                  <p className="font-semibold text-[#111111] text-sm sm:text-base mb-1.5">{item.q}</p>
+                  <p className="text-gray-600 text-sm leading-relaxed">{item.a}</p>
+                </div>
+              ))}
+            </div>
 
           </div>
 

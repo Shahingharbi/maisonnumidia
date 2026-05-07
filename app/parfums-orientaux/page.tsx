@@ -46,7 +46,13 @@ export default function ParfumsOrientauxPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify([itemListSchema, breadcrumbSchema]),
+          __html: JSON.stringify(itemListSchema),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbSchema),
         }}
       />
       <CategoryHero

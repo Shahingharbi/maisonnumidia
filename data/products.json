@@ -19355,61 +19355,6 @@
       ]
     },
     {
-      "id": "acqua-di-gio-femme-armani",
-      "slug": "acqua-di-gio-femme-armani",
-      "h1": "Acqua di Gio Femme Armani Parfum Femme Algérie",
-      "name": "Acqua di Gioia",
-      "brand": "Giorgio Armani",
-      "brandSlug": "armani",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 14300,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/acqua-di-gio-femme-armani.jpg",
-      "shortDescription": "La réponse féminine à l'iconique Acqua di Gio. Acqua di Gioia capture la liberté des eaux méditerranéennes pour la femme : menthe glacée, jasmin d'eau et cèdre boisé dans une fraîcheur aquatique solaire.",
-      "description": "Acqua di Gioia d'Armani est l'interprétation féminine de la célèbre saga aquatique. Lancé en 2010, il traduit la liberté et la joie de la Méditerranée pour la femme moderne — active, libre et profondément ancrée dans la nature. Son nom, Gioia (Joie en italien), exprime pleinement sa philosophie. Ce parfum a été conçu autour d'une vision de la femme qui aime les espaces ouverts, le bruit des vagues, le sel sur la peau après une baignade. C'est un parfum pour les femmes qui ne supportent pas d'être enfermées — dans une pièce ou dans un style de vie. L'ouverture est spectaculairement fraîche: la menthe froide de La Spezia, cultivée sur les côtes ligures d'Italie, crée une fraîcheur presque glacée qui tranche magnifiquement avec la chaleur méditerranéenne. La bergamote et le citron vert accompagnent cette ouverture vivifiante. Le cœur floral aquatique est sophistiqué: le jasmin d'eau (une variété aquatique du jasmin classique), la pivoine rose et la rose de Grasse créent un bouquet floral lumineux et légèrement salin. Cette dimension florale-marine est la grande signature d'Acqua di Gioia. La base de sucre de canne caramélisé, de cèdre blanc et d'ambre poudré donne au parfum une touche gourmande surprenante et très agréable. Ce fond doux et légèrement sucré contraste avec la fraîcheur du début pour créer une belle évolution sur la peau. Parfum idéal pour les femmes actives et les journées chaudes. Giorgio Armani Acqua di Gioia s'adresse aux amateurs qui acceptent de payer le prix juste pour une fragrance de grande maison, sans chercher à transiger sur la qualité. La palette florale de Acqua di Gioia rééquilibre l'approche olfactive traditionnelle, avec plus de fraîcheur et moins de poudre. Côté persistance, Acqua di Gioia fait partie des parfums qu'on oublie avoir mis, jusqu'à ce qu'un proche nous le rappelle en fin de journée. Période de port privilégiée pour Acqua di Gioia : printemps, été, où la construction olfactive révèle toute sa richesse. Acqua di Gioia fonctionne dans des contextes très variés, du plus professionnel au plus festif, sans jamais sembler décalé.",
-      "notes": {
-        "top": [
-          "Menthe froide de La Spezia",
-          "Bergamote",
-          "Citron vert"
-        ],
-        "heart": [
-          "Jasmin d'eau",
-          "Pivoine rose",
-          "Rose de Grasse"
-        ],
-        "base": [
-          "Sucre de canne caramélisé",
-          "Cèdre blanc",
-          "Ambre poudré"
-        ]
-      },
-      "family": "Aquatique Floral",
-      "occasions": [
-        "Casual",
-        "Sport",
-        "Été"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été"
-      ],
-      "longevity": 4,
-      "sillage": 3,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "acqua-di-gio-armani",
-        "armani-si",
-        "issey-miyake-l-eau-d-issey-pure"
-      ]
-    },
-    {
       "id": "because-it-s-you-armani",
       "slug": "because-it-s-you-armani",
       "h1": "Because It's You Armani Parfum Femme Algérie",
@@ -19460,7 +19405,7 @@
       "isOriental": false,
       "related": [
         "armani-si",
-        "acqua-di-gio-femme-armani",
+        "armani-acqua-di-gioia",
         "si-passione-armani"
       ]
     },
@@ -20894,7 +20839,7 @@
       "related": [
         "issey-miyake-l-eau-d-issey-pure",
         "gabrielle-chanel",
-        "acqua-di-gio-femme-armani"
+        "armani-acqua-di-gioia"
       ]
     },
     {
@@ -22533,7 +22478,7 @@
       "sillage": 4,
       "inStock": true,
       "featured": false,
-      "isOriental": false,
+      "isOriental": true,
       "related": [
         "baccarat-rouge-540",
         "zara-rose-gold",
@@ -25676,61 +25621,6 @@
       ]
     },
     {
-      "id": "armani-si-passione",
-      "slug": "armani-si-passione",
-      "h1": "Armani Sì Passione Parfum Femme Algérie",
-      "name": "Sì Passione",
-      "brand": "Armani",
-      "brandSlug": "armani",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 19600,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/armani-si-passione.jpg",
-      "shortDescription": "Armani Sì Passione est la version passionnée et intense du Sì iconique. Blackcurrant néon, rose de mai et fond boisé-ambré composent une fragrance féminine ardente et sensuelle pour la femme qui dit oui à la passion.",
-      "description": "Armani Sì Passione est la déclinaison passionnée et ardente du légendaire Sì d'Armani. Lancé en 2017, ce parfum floral fruité intense reprend la structure du Sì original tout en l'amplifiant — plus de fruits, plus de fleurs, plus d'intensité. L'ouverture est immédiatement explosive et fruitée: cassis néon, framboise et bergamote créent une entrée fruitée-acidulée d'une intensité remarquable. Le cœur de rose de mai absolue, jasmin sambac et fleur de chèvrefeuille développe un bouquet floral généreux et séduisant qui est la signature de la ligne Sì. La base de bois de cèdre, patchouli et musc ambré crée un fond boisé-fruité chaleureux et persistant qui donne à Passione son caractère ardent. Sì Passione est pensé pour les soirées romantiques, les occasions importantes et toutes les fois où la femme veut affirmer sa passion et sa sensualité. Sa longévité est excellente — plus de 8 heures sur peau. En Algérie, la gamme Sì d'Armani est très populaire. Passione est souvent préférée par les femmes qui veulent plus d'intensité. Chez Maison Numidia,. Armani Sì Passione se positionne dans le haut du panier de notre catalogue algérien — un tarif qui reflète l'exigence d'une maison établie et la qualité des matières premières utilisées. Le caractère floral de Sì Passione offre une alternative lumineuse aux registres plus chauds qui ont longtemps dominé la parfumerie féminine algérienne. Très bonne persistance : Sì Passione laisse sa trace sur les vêtements et les draps jusqu'au lendemain. Période de port privilégiée pour Sì Passione : automne, hiver, où la construction olfactive révèle toute sa richesse. Armani a dosé Sì Passione pour s'adapter à toutes les journées d'une femme algérienne moderne, du lever au coucher.",
-      "notes": {
-        "top": [
-          "Cassis",
-          "Framboise",
-          "Bergamote"
-        ],
-        "heart": [
-          "Rose de mai",
-          "Jasmin sambac",
-          "Chèvrefeuille"
-        ],
-        "base": [
-          "Cèdre",
-          "Patchouli",
-          "Musc ambré"
-        ]
-      },
-      "family": "Floral Fruité",
-      "occasions": [
-        "Soirée",
-        "Romantique",
-        "Occasions"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 5,
-      "sillage": 4,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "armani-si",
-        "armani-si-intense",
-        "armani-si-rose-signature"
-      ]
-    },
-    {
       "id": "paris-ysl",
       "slug": "paris-ysl",
       "h1": "Yves Saint Laurent Paris Parfum Femme Algérie",
@@ -28081,7 +27971,7 @@
       "related": [
         "armani-si",
         "armani-si-intense",
-        "armani-si-passione"
+        "si-passione-armani"
       ]
     },
     {
@@ -41754,23 +41644,38 @@
     },
     {
       "slug": "joop",
-      "name": "Joop!"
+      "name": "Joop!",
+      "origin": "Allemagne",
+      "description": "Joop! est une maison allemande fondée en 1986 par le créateur de mode Wolfgang Joop, à Hambourg. La griffe s'est imposée dans la parfumerie masculine grâce à sa signature olfactive sucrée, vanillée et résolument orientale, devenue culte dès les années 1990. Joop! Homme, sorti en 1989, reste l'un des parfums masculins les plus reconnaissables jamais créés : flacon rose magenta iconique, cocktail explosif de fleur d'oranger, cannelle, vanille et tabac qui a redéfini la masculinité parfumée en assumant la gourmandise. Cette audace fait de Joop! un repère pour qui aime les sillages chauds et marquants, à mi-chemin entre l'Occident et l'Orient. Sur le marché algérien, où les codes orientaux dominent et où le rapport qualité-prix prime, Joop! Homme s'impose comme une porte d'entrée idéale vers les fragrances vanillées, tabacées et sensuelles. La marque s'adresse aux hommes qui assument une présence forte sans verser dans les classiques boisés-aromatiques. Authentique, elle est livrable partout en Algérie chez Maison Numidia.",
+      "featured": false
     },
     {
       "slug": "diesel",
-      "name": "Diesel"
+      "name": "Diesel",
+      "origin": "Italie",
+      "description": "Diesel est une maison de mode italienne fondée en 1978 par Renzo Rosso à Molvena, en Vénétie. Devenue une référence mondiale du denim et du streetwear premium, la marque a étendu son ADN rebelle et urbain à la parfumerie dès les années 1990, avec des fragrances qui célèbrent l'audace, la liberté et un certain sens de la transgression. La signature Diesel mêle des accords épicés, boisés, cuirés et aromatiques, dans des compositions taillées pour des hommes qui ne cherchent ni à plaire ni à passer inaperçus. Les références phares du catalogue Maison Numidia incluent Only The Brave, son boisé épicé culte au flacon en forme de poing serré, et Only The Brave Tattoo, déclinaison plus mate et tatouée pour ceux qui veulent une version plus sombre et plus testostéronée du même ADN. En Algérie, où le marché des parfums masculins valorise les sillages affirmés et les caractères tranchés, Diesel coche toutes les cases : énergie urbaine, qualité italienne, rapport qualité-prix solide et flacons qui marquent.",
+      "featured": false
     },
     {
       "slug": "ajmal",
-      "name": "Ajmal"
+      "name": "Ajmal",
+      "origin": "Émirats arabes unis",
+      "description": "Ajmal Perfumes est une maison émiratie de parfumerie orientale fondée en 1951 à Hojai, en Inde, avant d'établir son siège à Dubaï. Quatre générations d'expertise familiale autour de l'oud ont fait d'Ajmal l'un des grands noms incontournables de la parfumerie arabe, avec ses propres plantations d'agar (oud) en Asie du Sud-Est et ses ateliers de distillation traditionnels. La signature olfactive Ajmal repose sur des matières premières nobles travaillées dans la pure tradition arabe : oud authentique, rose de Taïf, ambre, musc, safran et bois précieux. Le catalogue Maison Numidia met en avant des références emblématiques comme Amber Wood, oriental boisé chaleureux, Aurum, fragrance féminine ambrée luxueuse, Wisal pour la sensualité raffinée, ainsi que les gammes masculines et féminines Evoke et Sacrifice qui jouent sur la profondeur du oud et la richesse des résines. Pour le marché algérien, où l'attachement aux notes orientales authentiques relève du patrimoine quotidien, Ajmal incarne l'option premium accessible : la qualité Dubaï à des prix maîtrisés.",
+      "featured": false
     },
     {
       "slug": "dkny",
-      "name": "Donna Karan"
+      "name": "Donna Karan",
+      "origin": "États-Unis",
+      "description": "DKNY (Donna Karan New York) est une maison américaine de prêt-à-porter et de parfumerie fondée en 1989 par la créatrice Donna Karan à Manhattan. La signature DKNY traduit l'énergie de New York en parfumerie : fragrances modernes, fruitées, fraîches, urbaines et joyeuses, conçues pour des femmes et des hommes actifs qui assument leur identité contemporaine. La maison s'est rendue célèbre avec sa saga Be Delicious lancée en 2004, dont le flacon en forme de pomme verte croquée est devenu une icône instantanément reconnaissable. Le catalogue Maison Numidia met en avant Be Delicious, le best-seller pomme verte au sillage gourmand-floral, sa version masculine DKNY Be Delicious Men aux accents plus boisés, ainsi que Golden Delicious, déclinaison plus chic et solaire de la saga féminine. Sur le marché algérien, où la clientèle féminine recherche des parfums frais et fruités pour les saisons chaudes méditerranéennes, DKNY occupe une place idéale : style américain accessible, fragrances polyvalentes pour le quotidien, et un univers ludique qui plaît particulièrement aux jeunes femmes urbaines.",
+      "featured": false
     },
     {
       "slug": "lalique",
-      "name": "Lalique"
+      "name": "Lalique",
+      "origin": "France",
+      "description": "Lalique est une maison française mythique fondée en 1888 par René Lalique, maître verrier et joaillier de l'Art nouveau puis de l'Art déco. Avant de devenir une référence parfumée à part entière, Lalique a d'abord façonné les flacons des plus grandes maisons de parfumerie du XXe siècle, posant les bases de l'esthétique du parfum moderne. La maison crée ses propres fragrances depuis 1992, avec une signature olfactive qui marie tradition française, minéralité boisée et émotion artistique. Chaque flacon Lalique reste une pièce de cristal travaillée dans la manufacture historique de Wingen-sur-Moder, en Alsace. Le catalogue Maison Numidia présente trois références emblématiques : Encre Noire, le vétiver sombre culte aux notes de cyprès et de musc devenu un classique du gentleman discret, L'Insoumis, plus aromatique et frais autour de la lavande et du néroli, ainsi qu'Amour, fragrance féminine vanillée et solaire. Pour la clientèle algérienne en quête de signatures distinguées, Lalique offre cette élégance silencieuse de la haute parfumerie française à un positionnement plus accessible que les grandes maisons couture.",
+      "featured": false
     },
     {
       "slug": "al-rehab",

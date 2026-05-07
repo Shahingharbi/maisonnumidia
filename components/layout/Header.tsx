@@ -161,18 +161,91 @@ export default function Header() {
         </div>
 
         {/* Mobile menu — CSS visibility (NEVER use {open && ...} — Google mobile-first won't see the links) */}
-        <div className={`lg:hidden border-t border-[#e5e5e5] bg-white overflow-hidden transition-all duration-300 ${mobileOpen ? "max-h-[500px] opacity-100 visible" : "max-h-0 opacity-0 invisible"}`}>
+        <div className={`lg:hidden border-t border-[#e5e5e5] bg-white overflow-hidden transition-all duration-300 ${mobileOpen ? "max-h-[1600px] opacity-100 visible" : "max-h-0 opacity-0 invisible"}`}>
           <div className="max-w-[1440px] mx-auto px-6 py-6 space-y-1">
-            {nav.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
-                onClick={() => setMobileOpen(false)}
-              >
-                {item.label}
-              </Link>
-            ))}
+            {/* Homme */}
+            <Link
+              href="/parfums-homme"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              Homme
+            </Link>
+            <div className="ml-4 pb-2 flex flex-col">
+              <Link href="/parfums-homme/dior" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Dior Homme</Link>
+              <Link href="/parfums-homme/chanel" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Chanel Homme</Link>
+              <Link href="/parfums-homme/paco-rabanne" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Paco Rabanne</Link>
+              <Link href="/parfums-homme/versace" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Versace</Link>
+              <Link href="/parfums-homme/armani" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Armani</Link>
+              <Link href="/parfums-homme/hugo-boss" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Hugo Boss</Link>
+              <Link href="/parfums-homme/jean-paul-gaultier" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Jean Paul Gaultier</Link>
+            </div>
+
+            {/* Femme */}
+            <Link
+              href="/parfums-femme"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              Femme
+            </Link>
+            <div className="ml-4 pb-2 flex flex-col">
+              <Link href="/parfums-femme/chanel" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Chanel Femme</Link>
+              <Link href="/parfums-femme/dior" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Dior Femme</Link>
+              <Link href="/parfums-femme/ysl" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">YSL</Link>
+              <Link href="/parfums-femme/lancome" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Lancôme</Link>
+              <Link href="/parfums-femme/hermes" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Hermès</Link>
+              <Link href="/parfums-femme/narciso-rodriguez" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Narciso Rodriguez</Link>
+              <Link href="/parfums-femme/carolina-herrera" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Carolina Herrera</Link>
+            </div>
+
+            {/* Orientaux */}
+            <Link
+              href="/parfums-orientaux"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              Orientaux
+            </Link>
+            <div className="ml-4 pb-2 flex flex-col">
+              <Link href="/parfums-orientaux/lattafa" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Lattafa</Link>
+              <Link href="/parfums-orientaux/al-haramain" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Al Haramain</Link>
+              <Link href="/parfums-orientaux/rasasi" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Rasasi</Link>
+              <Link href="/parfums-orientaux/ajmal" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Ajmal</Link>
+              <Link href="/parfums-orientaux/afnan" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Afnan</Link>
+              <Link href="/parfums-orientaux/swiss-arabian" onClick={() => setMobileOpen(false)} className="block py-2 text-sm text-[#535359] hover:text-[#AC9270] transition-colors">Swiss Arabian</Link>
+            </div>
+
+            {/* Marques + Blog + statiques */}
+            <Link
+              href="/marques"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              Toutes les marques
+            </Link>
+            <Link
+              href="/blog"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              Blog
+            </Link>
+            <Link
+              href="/a-propos"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              À propos
+            </Link>
+            <Link
+              href="/contact"
+              className="block py-3 text-xs font-medium uppercase tracking-wider text-[#535359] border-b border-[#f0f0f0] hover:text-[#AC9270] transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              Contact
+            </Link>
+
             <div className="pt-6 flex flex-col gap-3">
               <a
                 href="tel:0699418569"

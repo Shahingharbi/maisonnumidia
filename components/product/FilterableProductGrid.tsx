@@ -15,6 +15,7 @@ export default function FilterableProductGrid({
   pageSize = 16,
 }: FilterableProductGridProps) {
   const [selectedBrand, setSelectedBrand] = useState<string>("all");
+  const [selectedFamily, setSelectedFamily] = useState<string>("all");
   const [sortBy, setSortBy] = useState<string>("default");
   const [visibleCount, setVisibleCount] = useState(pageSize);
 
@@ -32,12 +33,27 @@ export default function FilterableProductGrid({
       .map(([slug, { name, count }]) => ({ slug, name, count }));
   }, [products]);
 
+  // Extract unique olfactive families sorted alphabetically
+  const families = useMemo(() => {
+    const set = new Set<string>();
+    products.forEach((p) => {
+      if (p.family && p.family.trim()) {
+        set.add(p.family.trim());
+      }
+    });
+    return Array.from(set).sort((a, b) => a.localeCompare(b, "fr"));
+  }, [products]);
+
   // Filter + sort
   const filtered = useMemo(() => {
     let result = [...products];
 
     if (selectedBrand !== "all") {
       result = result.filter((p) => p.brandSlug === selectedBrand);
+    }
+
+    if (selectedFamily !== "all") {
+      result = result.filter((p) => p.family === selectedFamily);
     }
 
     switch (sortBy) {
@@ -53,13 +69,18 @@ export default function FilterableProductGrid({
     }
 
     return result;
-  }, [products, selectedBrand, sortBy]);
+  }, [products, selectedBrand, selectedFamily, sortBy]);
 
   const visible = filtered.slice(0, visibleCount);
   const hasMore = visibleCount < filtered.length;
 
   const handleBrandChange = (brand: string) => {
     setSelectedBrand(brand);
+    setVisibleCount(pageSize);
+  };
+
+  const handleFamilyChange = (family: string) => {
+    setSelectedFamily(family);
     setVisibleCount(pageSize);
   };
 
@@ -83,6 +104,25 @@ export default function FilterableProductGrid({
           </select>
           <ChevronDown size={12} className="absolute right-3 top-1/2 -translate-y-1/2 text-[#8A8A90] pointer-events-none" />
         </div>
+
+        {/* Family filter */}
+        {families.length > 0 && (
+          <div className="relative">
+            <select
+              value={selectedFamily}
+              onChange={(e) => handleFamilyChange(e.target.value)}
+              className="appearance-none bg-white border border-[#e5e5e5] text-[#535359] text-xs font-medium uppercase tracking-wider pl-4 pr-9 py-2.5 cursor-pointer hover:border-[#AC9270] transition-colors focus:outline-none focus:border-[#AC9270]"
+            >
+              <option value="all">Toutes les familles</option>
+              {families.map((f) => (
+                <option key={f} value={f}>
+                  {f}
+                </option>
+              ))}
+            </select>
+            <ChevronDown size={12} className="absolute right-3 top-1/2 -translate-y-1/2 text-[#8A8A90] pointer-events-none" />
+          </div>
+        )}
 
         {/* Sort */}
         <div className="relative">
@@ -132,18 +172,6 @@ export default function FilterableProductGrid({
           </button>
         </div>
       )}
-
-      {/*
-        SEO: Hidden links for ALL products so Google can crawl every product page.
-        These are visually hidden but present in the HTML for crawlers.
-      */}
-      <nav aria-label="Tous les parfums" className="sr-only">
-        {products.map((p) => (
-          <a key={p.id} href={`/parfums/${p.slug}`}>
-            {p.brand} {p.name}
-          </a>
-        ))}
-      </nav>
     </div>
   );
 }

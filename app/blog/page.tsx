@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { articles } from "@/data/blog";
 import { Clock, ArrowRight } from "lucide-react";
+import { getItemListSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Blog Parfums — Conseils, Guides & Tendances en Algérie",
@@ -10,8 +11,20 @@ export const metadata: Metadata = {
 };
 
 export default function BlogPage() {
+  const blogListSchema = getItemListSchema(
+    articles.map((article) => ({
+      name: article.title,
+      url: `/blog/${article.slug}`,
+    })),
+    "Blog Maison Numidia — Guides et Conseils Parfums"
+  );
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogListSchema) }}
+      />
       <div className="bg-white border-b border-gray-100 py-12 sm:py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <p className="text-xs font-semibold tracking-[0.2em] text-[#C9A84C] uppercase mb-3">

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { getBrandBySlug, getProductsByBrand, getAllBrandSlugs, getAllBrands } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import { getBreadcrumbSchema, getItemListSchema } from "@/lib/seo";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -31,8 +32,30 @@ export default async function MarquePage({ params }: Props) {
 
   const products = getProductsByBrand(slug);
 
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Accueil", url: "/" },
+    { name: "Marques", url: "/marques" },
+    { name: brand.name, url: `/marques/${brand.slug}` },
+  ]);
+
+  const itemListSchema = getItemListSchema(
+    products.slice(0, 12).map((p) => ({
+      name: `${p.brand} ${p.name}`,
+      url: `/parfums/${p.slug}`,
+    })),
+    `Parfums ${brand.name} disponibles en Algérie`
+  );
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+      />
       <div className="bg-white border-b border-gray-100 py-12 sm:py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <p className="text-xs font-semibold tracking-[0.2em] text-[#C9A84C] uppercase mb-3">

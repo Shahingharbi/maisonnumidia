@@ -127,7 +127,13 @@ export default async function BlogArticlePage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify([blogSchema, breadcrumbSchema]),
+          __html: JSON.stringify(blogSchema),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbSchema),
         }}
       />
 
@@ -159,6 +165,34 @@ export default async function BlogArticlePage({ params }: Props) {
           <p className="text-gray-400 text-base leading-relaxed max-w-2xl">
             {article.excerpt}
           </p>
+
+          {/* Author byline + publication date */}
+          <div className="flex items-center gap-3 mt-6 pt-5 border-t border-gray-100">
+            <div className="w-10 h-10 rounded-full bg-[#C9A84C]/15 flex items-center justify-center text-[#C9A84C] font-semibold text-sm">
+              MN
+            </div>
+            <div className="text-sm">
+              <Link
+                href="/a-propos"
+                className="font-semibold text-[#111111] hover:text-[#C9A84C] transition-colors"
+              >
+                {article.author?.name ?? "L'équipe Maison Numidia"}
+              </Link>
+              {article.author?.role && (
+                <span className="text-gray-400"> · {article.author.role}</span>
+              )}
+              <div className="text-xs text-gray-400 mt-0.5">
+                Publié le{" "}
+                <time dateTime={article.publishedAt}>
+                  {new Date(article.publishedAt).toLocaleDateString("fr-FR", {
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric",
+                  })}
+                </time>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 

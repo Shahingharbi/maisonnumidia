@@ -8,13 +8,17 @@ export interface BlogArticle {
   readTime: number;
   excerpt: string;
   content: string;
+  author: {
+    name: string;
+    role: string;
+  };
 }
 
 export const articles: BlogArticle[] = [
   {
     slug: "meilleur-parfum-homme",
     title: "Meilleur Parfum Homme 2026 : Notre Classement pour l'Algérie",
-    metaTitle: "Meilleur Parfum Homme 2026 en Algérie — Top 10 | Maison Numidia",
+    metaTitle: "Meilleur Parfum Homme 2026 en Algérie — Top 10",
     metaDescription: "Découvrez le classement des meilleurs parfums homme disponibles en Algérie en 2026. Prix en DA, livraison partout. Dior Sauvage, Bleu de Chanel, Invictus et bien plus.",
     publishedAt: "2026-01-15",
     category: "Guide d'achat",
@@ -186,12 +190,16 @@ Tous les parfums de ce classement sont disponibles chez **Maison Numidia** avec 
 - Parfums **100% authentiques** garantis
 - Service client **WhatsApp** disponible 7j/7
 
-Découvrez notre collection complète de [parfums homme](/parfums-homme) ou contactez-nous directement pour un conseil personnalisé.`
+Découvrez notre collection complète de [parfums homme](/parfums-homme) ou contactez-nous directement pour un conseil personnalisé.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
   {
     slug: "parfum-de-niche-algerie",
     title: "Parfums de Niche en Algérie : Le Guide Complet 2026",
-    metaTitle: "Parfums de Niche en Algérie 2026 — Guide d'Achat | Maison Numidia",
+    metaTitle: "Parfums de Niche en Algérie 2026 — Guide d'Achat",
     metaDescription: "Tout savoir sur les parfums de niche disponibles en Algérie. Delina, Tom Ford, Kayali, Parfums de Marly... Nos conseils pour choisir votre fragrance exclusive.",
     publishedAt: "2026-01-20",
     category: "Culture Parfum",
@@ -307,12 +315,16 @@ Découvrez notre sélection de [parfums de niche et orientaux](/parfums-orientau
 
 **La personnalisation gagne du terrain.** De plus en plus d'amateurs algériens cherchent à "layerer" leurs parfums — combiner deux fragrances pour créer leur propre signature. C'est une pratique courante au Moyen-Orient que Kayali a formalisée.
 
-Explorez notre gamme de [parfums orientaux](/parfums-orientaux) ou découvrez nos [meilleures marques](/marques) pour trouver votre fragrance de niche idéale.`
+Explorez notre gamme de [parfums orientaux](/parfums-orientaux) ou découvrez nos [meilleures marques](/marques) pour trouver votre fragrance de niche idéale.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
   {
     slug: "eau-de-parfum-vs-eau-de-toilette",
     title: "Eau de Parfum vs Eau de Toilette : Quelle Différence ?",
-    metaTitle: "Eau de Parfum vs Eau de Toilette : Tout Comprendre | Maison Numidia",
+    metaTitle: "Eau de Parfum vs Eau de Toilette : Tout Comprendre",
     metaDescription: "EDP ou EDT ? Découvrez la différence entre eau de parfum et eau de toilette : concentration, tenue, sillage, prix. Guide complet pour choisir en Algérie.",
     publishedAt: "2026-02-01",
     category: "Guide d'achat",
@@ -438,14 +450,18 @@ L'application d'un EDP se fait sur les **zones de chaleur** du corps, là où le
 
 Tous nos parfums sont proposés avec leur **concentration exacte indiquée** sur la fiche produit. Nous ne vendons que des fragrances authentiques, directement importées.
 
-Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/parfums-femme) ou [parfums orientaux](/parfums-orientaux), avec livraison dans toutes les wilayas algériennes et paiement à la livraison.`
+Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/parfums-femme) ou [parfums orientaux](/parfums-orientaux), avec livraison dans toutes les wilayas algériennes et paiement à la livraison.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
 
   // ── ARTICLE 2 : Meilleur Parfum Femme ──────────────────────────────────────
   {
     slug: "meilleur-parfum-femme",
     title: "Meilleur Parfum Femme 2026 : Notre Sélection pour l'Algérie",
-    metaTitle: "Meilleur Parfum Femme 2026 en Algérie — Top 10 | Maison Numidia",
+    metaTitle: "Meilleur Parfum Femme 2026 en Algérie — Top 10",
     metaDescription: "Quel est le meilleur parfum femme en Algérie en 2026 ? Notre top 10 des fragrances féminines avec prix en DA, livraison dans les 58 wilayas.",
     publishedAt: "2026-02-10",
     category: "Guide d'achat",
@@ -595,14 +611,18 @@ Préférez l'EDP (Eau de Parfum) pour une tenue de 8 à 12 heures, idéale pour 
 
 Tous nos parfums sont authentiques et livrés avec paiement à la réception. Pas besoin d'avancer d'argent — vous payez à la livraison dans toutes les wilayas algériennes via Yalidine.
 
-Consultez notre catalogue complet de [parfums femme](/parfums-femme) pour découvrir toutes nos fragrances avec prix en dinar algérien.`
+Consultez notre catalogue complet de [parfums femme](/parfums-femme) pour découvrir toutes nos fragrances avec prix en dinar algérien.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
 
   // ── ARTICLE 3 : Parfum Floral Femme ────────────────────────────────────────
   {
     slug: "parfum-floral-femme",
     title: "Parfum Floral Femme : Guide des Plus Beaux Floraux pour l'Algérie",
-    metaTitle: "Parfum Floral Femme en Algérie — Guide Complet 2026 | Maison Numidia",
+    metaTitle: "Parfum Floral Femme en Algérie — Guide Complet 2026",
     metaDescription: "Découvrez les meilleurs parfums floraux féminins disponibles en Algérie. Rose, pivoine, jasmin — guide complet avec prix en DA et conseils de port.",
     publishedAt: "2026-02-18",
     category: "Guide olfactif",
@@ -692,14 +712,18 @@ Selon nos ventes, les notes florales préférées des femmes algériennes sont, 
 
 Toute notre sélection de [parfums femme](/parfums-femme) est disponible avec livraison dans les 58 wilayas algériennes via Yalidine, paiement à la livraison (COD). Pas d'avance, pas de risque — vous payez quand vous recevez votre commande.
 
-Pour une consultation personnalisée, contactez-nous via WhatsApp.`
+Pour une consultation personnalisée, contactez-nous via WhatsApp.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
 
   // ── ARTICLE 4 : Dupe Parfum ────────────────────────────────────────────────
   {
     slug: "dupe-parfum",
     title: "Dupe Parfum : Les Meilleures Alternatives Abordables en Algérie",
-    metaTitle: "Dupe Parfum en Algérie — Alternatives & Originaux 2026 | Maison Numidia",
+    metaTitle: "Dupe Parfum en Algérie — Alternatives & Originaux 2026",
     metaDescription: "Cherchez-vous un dupe parfum en Algérie ? Découvrez pourquoi les originaux valent l'investissement et nos meilleures alternatives abordables authentiques.",
     publishedAt: "2026-02-25",
     category: "Guide d'achat",
@@ -773,14 +797,18 @@ Certains parfums sont tout simplement irremplaçables. Leurs formules utilisent 
 
 Achetez des originaux moins médiatisés plutôt que des dupes de parfums célèbres. Pour 8 000 à 12 000 DA, vous pouvez acquérir un parfum authentique de [Davidoff](/parfums/davidoff-cool-water), [Azzaro](/parfums/azzaro-chrome), [Nautica](/parfums/nautica-voyage) ou [Cacharel](/parfums/amor-amor-cacharel) qui durera 3 à 5 fois plus longtemps qu'un dupe à 1 000 DA.
 
-Maison Numidia ne vend que des parfums **originaux et authentiques**, avec livraison COD dans les 58 wilayas. Consultez notre [catalogue parfums femme](/parfums-femme) et [parfums homme](/parfums-homme).`
+Maison Numidia ne vend que des parfums **originaux et authentiques**, avec livraison COD dans les 58 wilayas. Consultez notre [catalogue parfums femme](/parfums-femme) et [parfums homme](/parfums-homme).`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
 
   // ── ARTICLE 5 : Parfum Poudré Femme ────────────────────────────────────────
   {
     slug: "parfum-poudre-femme",
     title: "Parfum Poudré Femme : Les Meilleures Fragrances Poudrées en Algérie",
-    metaTitle: "Parfum Poudré Femme en Algérie — Guide & Sélection 2026 | Maison Numidia",
+    metaTitle: "Parfum Poudré Femme en Algérie — Guide & Sélection 2026",
     metaDescription: "Découvrez les meilleurs parfums poudrés féminins disponibles en Algérie. Iris, violette, aldéhydes — guide complet avec prix en DA et conseils de port.",
     publishedAt: "2026-03-05",
     category: "Guide olfactif",
@@ -852,16 +880,44 @@ Le poudré a tendance à amplifier la projection avec la chaleur corporelle. Com
 
 Les parfums poudrés classiques comme [Trésor](/parfums/tresor-lancome) sont idéaux pour les occasions formelles et les soirées habillées. Les poudrés modernes comme [Mon Guerlain](/parfums/mon-guerlain) ou [Chloé Signature](/parfums/chloe-signature) fonctionnent aussi très bien au quotidien et au bureau.
 
+## Le parfum poudré dans le quotidien algérien
+
+Le poudré entretient une relation particulière avec la culture parfumée du Maghreb. Nos grand-mères se parfumaient souvent à la poudre de riz, à l'eau de fleur d'oranger et aux résines douces. Cette mémoire olfactive se retrouve dans les compositions poudrées contemporaines, ce qui explique pourquoi cette famille séduit autant la femme algérienne moderne.
+
+### Adapter son poudré au climat local
+
+Le climat algérien impose des choix précis selon la région. À **Alger** et sur la côte, l'humidité du printemps et de l'automne mettent magnifiquement en valeur les poudrés floraux comme [Chloé Signature](/parfums/chloe-signature) ou [Givenchy Insolence](/parfums/insolence-guerlain). À **Oran** et **Annaba**, où l'air est plus sec en demi-saison, les poudrés iris-vanille comme [Trésor](/parfums/tresor-lancome) trouvent un sillage idéal. À **Constantine**, où les hivers sont rigoureux et les étés tempérés en altitude, les poudrés gourmands comme [Prada Candy](/parfums/prada-candy) déploient toute leur richesse pendant six mois de l'année. Dans les régions sahariennes (Ghardaïa, Biskra), l'amplitude thermique jour-nuit favorise les poudrés légers en journée et les poudrés ambrés en soirée.
+
+### Mariages, Aïd et grandes occasions
+
+Le mariage algérien reste l'occasion reine pour le parfum poudré. Pour la mariée, les classiques poudrés-floraux comme [Trésor](/parfums/tresor-lancome) ou [Mon Guerlain](/parfums/mon-guerlain) accompagnent traditionnellement la robe blanche et le caftan brodé. Pour les invitées, les poudrés modernes plus légers comme [Chloé Signature](/parfums/chloe-signature) permettent d'être présente sans concurrencer l'odeur de la mariée.
+
+Pour l'Aïd el-Fitr et l'Aïd el-Adha, beaucoup de femmes algériennes choisissent un poudré gourmand qui évoque la convivialité familiale. [Prada Candy](/parfums/prada-candy) ou [Hypnotic Poison](/parfums/hypnotic-poison-dior) accompagnent à merveille les pâtisseries traditionnelles, le café arabe et les retrouvailles. Pour les fiançailles et les henné, les poudrés iris-rose s'accordent naturellement aux ambiances tamisées et aux tenues traditionnelles brodées de fil d'or.
+
+### Le poudré en saison
+
+**Printemps :** poudrés floraux légers, [Chloé Signature](/parfums/chloe-signature), [Kenzo Flower](/parfums/kenzo-flower).
+
+**Été :** poudrés transparents uniquement, application légère, en cuvée 100% jamais sur les vêtements clairs.
+
+**Automne :** entrée triomphale des poudrés iris-vanille, [Trésor](/parfums/tresor-lancome), [Mon Guerlain](/parfums/mon-guerlain).
+
+**Hiver :** apogée des poudrés gourmands, [Prada Candy](/parfums/prada-candy), [Hypnotic Poison](/parfums/hypnotic-poison-dior).
+
 ## Commander vos parfums poudrés en Algérie
 
-Toute notre sélection est disponible avec livraison dans les 58 wilayas, paiement à la réception. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes nos fragrances poudrées et leur disponibilité.`
+Toute notre sélection est disponible avec livraison dans les 58 wilayas, paiement à la réception. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes nos fragrances poudrées et leur disponibilité.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
 
   // ── ARTICLE 6 : Parfum d'Été Femme ─────────────────────────────────────────
   {
     slug: "parfum-ete-femme",
     title: "Parfum d'Été Femme : Les Meilleures Fragrances pour l'Été Algérien",
-    metaTitle: "Parfum d'Été Femme en Algérie — Guide 2026 | Maison Numidia",
+    metaTitle: "Parfum d'Été Femme en Algérie — Guide 2026",
     metaDescription: "Quels parfums femme choisir pour l'été algérien ? Floraux frais, aquatiques, agrumés — notre guide avec prix en DA et conseils pour les fortes chaleurs.",
     publishedAt: "2026-03-10",
     category: "Guide olfactif",
@@ -947,16 +1003,48 @@ La règle est simple : **moins c'est plus** en été. 2 vaporisations suffisent 
 
 La chaleur et la lumière dégradent les parfums. Conservez vos flacons à l'abri du soleil et de la chaleur — idéalement dans un tiroir ou un placard frais, jamais sur une étagère exposée à la fenêtre.
 
+## Été côtier vs été saharien : deux stratégies parfum
+
+L'Algérie n'a pas un été uniforme. Entre la côte humide d'Alger et la sécheresse étouffante de Biskra, la même fragrance peut révéler deux profils complètement différents. Adapter votre parfum à votre microclimat fait souvent toute la différence.
+
+### Été côtier : Alger, Oran, Annaba, Bejaïa
+
+Sur la côte méditerranéenne, l'humidité oscille entre 60 et 75% en été. Cette humidité ambiante agit comme un amplificateur naturel de sillage, mais elle alourdit aussi les compositions trop denses. La règle d'or : misez sur les **agrumes nets, les aquatiques marines et les florals blancs transparents**. [Dolce & Gabbana Light Blue](/parfums/dolce-gabbana-light-blue) et [L'Eau d'Issey](/parfums/l-eau-d-issey-femme) sont précisément calibrés pour ces ambiances. À Alger en juillet, [Marc Jacobs Daisy](/parfums/marc-jacobs-daisy) projette pendant six à sept heures sans jamais devenir oppressant. À Oran, où la brise marine est souvent plus marquée, vous pouvez doser un peu plus généreusement sans craindre la saturation. À Bejaïa et Annaba, les soirées plus douces autorisent une transition vers des floraux boisés légers comme [Chloé Signature](/parfums/chloe-signature).
+
+### Été saharien : Biskra, Ghardaïa, Adrar, Tamanrasset
+
+Dans les régions sahariennes, l'humidité descend souvent sous 20% et les températures dépassent 45°C en journée. Cette aridité a un effet paradoxal : elle accélère drastiquement l'évaporation de la tête mais préserve mieux les notes de fond une fois la peau imprégnée. Privilégiez des compositions **plus structurées en base** — bois clairs, musc blanc dense, un soupçon d'iris poudré — qui résisteront aux quatre à six heures de plein soleil. À Biskra, [Armani My Way](/parfums/armani-my-way) avec sa base cèdre-musc tient remarquablement bien. À Ghardaïa, où l'amplitude thermique entre 14h et 22h dépasse souvent 20°C, on peut superposer un parfum aquatique en journée et basculer vers un floral boisé après le coucher du soleil. À Tamanrasset, en altitude, les nuits froides du Hoggar permettent même de réintroduire des poudrés discrets en fin de soirée.
+
+## Top 5 parfums femme été 2026 dans notre catalogue
+
+Voici notre sélection finale, classée par profil olfactif, pour passer l'été algérien avec une signature impeccable.
+
+**1. [Dolce & Gabbana Light Blue EDT](/parfums/dolce-gabbana-light-blue)** — Cédrat, pomme et bambou. La référence côtière absolue, indétrônable depuis vingt ans. À porter du matin au soir sans réfléchir.
+
+**2. [L'Eau d'Issey](/parfums/l-eau-d-issey-femme)** — Lotus aquatique et cyclamen. Le parfum aquatique qui ne fatigue jamais, parfait pour le bureau climatisé comme pour la plage.
+
+**3. [Marc Jacobs Daisy EDT](/parfums/marc-jacobs-daisy)** — Fraise, gardénia, jasmin. Notre coup de cœur pour les jeunes femmes qui veulent un sillage joyeux et solaire.
+
+**4. [Chloé Signature](/parfums/chloe-signature)** — Rose de mai et pivoine. La transition idéale entre l'été côtier et les premiers soirs frais de septembre.
+
+**5. [Cacharel Amor Amor](/parfums/amor-amor-cacharel)** — Mandarine, cassis, fleur d'oranger. Le rapport qualité-prix imbattable sous les 9 000 DA.
+
+Tous ces parfums sont en stock avec livraison Yalidine 24-72h dans les 58 wilayas.
+
 ## Commander vos parfums d'été en Algérie
 
-Tous nos parfums sont disponibles avec livraison COD dans les 58 wilayas algériennes via Yalidine. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes les fragrances avec leur prix en dinar algérien.`
+Tous nos parfums sont disponibles avec livraison COD dans les 58 wilayas algériennes via Yalidine. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes les fragrances avec leur prix en dinar algérien.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   },
 
   // ── ARTICLE 7 : Reconnaître un Parfum Original ──────────────────────────────
   {
     slug: "reconnaitre-parfum-original",
     title: "Comment Reconnaître un Parfum Original : Guide Complet 2026",
-    metaTitle: "Comment Reconnaître un Parfum Original en Algérie — Guide 2026 | Maison Numidia",
+    metaTitle: "Comment Reconnaître un Parfum Original en Algérie — Guide 2026",
     metaDescription: "Apprenez à reconnaître un parfum original en Algérie. Emballage, flacon, odeur — guide complet pour éviter les contrefaçons et acheter en toute confiance.",
     publishedAt: "2026-03-15",
     category: "Authenticité",
@@ -1027,13 +1115,216 @@ Par ordre de risque : Dior Sauvage, Chanel N°5, Armani My Way, Bleu de Chanel, 
 
 Ces parfums sont si populaires que le marché de la contrefaçon les cible en priorité. Soyez particulièrement vigilant lors de l'achat de ces références spécifiques.
 
+## Pièges courants en Algérie 2026
+
+Le marché algérien de la contrefaçon a évolué : les copies sont mieux fabriquées, les emballages plus convaincants, les vendeurs plus sophistiqués. Voici les pièges les plus fréquents observés ces derniers mois.
+
+**Le faux EDP rebadgé.** De nombreux flacons circulent étiquetés "EDP" alors que la concentration réelle est celle d'une eau de toilette diluée. Le test : un EDP authentique laisse une trace olfactive nette à 30 cm de distance trois heures après application. Si la fragrance disparaît après deux heures, vous avez probablement payé un EDP au prix fort pour un EDT médiocre.
+
+**La dilution maison.** Pratique courante dans certains marchés : on achète un flacon authentique, on en transvase la moitié dans un second flacon, puis on remplit chaque flacon avec de l'alcool dénaturé pour vendre deux unités. La couleur du jus paraît correcte, l'emballage est authentique, mais la concentration olfactive est divisée par deux. Achetez uniquement des flacons cellophanés d'origine usine.
+
+**Le packaging contrefait premium.** Les contrefacteurs ont rattrapé leur retard sur l'emballage : cellophane parfait, dorures correctes, code-barres apparemment valides. Le test décisif reste la **trace odorante après six heures** sur un mouchoir. Un contrefait s'évanouit, un original tient et évolue.
+
+**Les "imports duty-free" du marché informel.** Aucun duty-free ne revend en gros à des particuliers en Algérie. Toute offre "directe duty-free Dubai" sur les réseaux sociaux est à considérer comme suspecte par défaut.
+
 ## Acheter en toute confiance chez Maison Numidia
 
 Maison Numidia garantit l'authenticité de 100% de ses parfums. Tous nos produits sont originaux, contrôlés à la réception, et livrés dans leur emballage d'origine intact.
 
 Le paiement à la livraison (COD) vous permet de vérifier votre commande à réception avant de payer — vous pouvez inspecter le flacon, l'emballage, et vérifier tous les signes d'authenticité décrits dans ce guide.
 
-Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/parfums-femme) et [parfums orientaux](/parfums-orientaux) — livraison dans les 58 wilayas algériennes.`
+Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/parfums-femme) et [parfums orientaux](/parfums-orientaux) — livraison dans les 58 wilayas algériennes.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
+  },
+
+  // ── ARTICLE 8 : Lattafa Khamrah Avis ───────────────────────────────────────
+  {
+    slug: "lattafa-khamrah-avis",
+    title: "Lattafa Khamrah : avis complet 2026, notes et alternatives Algérie",
+    metaTitle: "Lattafa Khamrah Avis 2026 — Notes, Tenue, Alternatives",
+    metaDescription: "Avis complet Lattafa Khamrah : notes praline-oud-vanille, sillage 12h, prix 8500 DA Algérie, alternatives orientales et où l'acheter.",
+    publishedAt: "2026-05-07",
+    category: "guides",
+    readTime: 8,
+    excerpt: "Lattafa Khamrah s'est imposé comme l'un des orientaux gourmands les plus vendus en Algérie. Voici notre avis complet, avec notes, tenue, alternatives et conseils d'achat.",
+    content: `<h2>Lattafa Khamrah : pourquoi tout le monde en parle ?</h2>
+
+<p>Sorti en 2022 et porté par une vague TikTok mondiale, <a href="/parfums/lattafa-khamrah">Lattafa Khamrah</a> est devenu en quelques mois l'un des parfums orientaux gourmands les plus vendus en Algérie. Son nom signifie littéralement "vin" en arabe, en référence à l'ivresse des sens promise par sa composition. Chez Maison Numidia, il fait partie du top 5 des références orientales depuis 2024, avec une demande qui ne faiblit pas.</p>
+
+<p>Mais derrière le buzz, que vaut vraiment Khamrah quand on le porte au quotidien algérien ? Cet avis complet répond à toutes les questions : profil olfactif, tenue réelle, comparaison avec les autres références Lattafa, alternatives selon votre budget, et où l'acheter en toute confiance.</p>
+
+<h2>Profil olfactif : la pyramide complète</h2>
+
+<p>Khamrah est un oriental gourmand unisexe, classé EDP avec une concentration de 18 à 20% de matières odorantes. La pyramide est construite autour d'un axe praline-oud-vanille caractéristique du style Lattafa contemporain.</p>
+
+<h3>Notes de tête</h3>
+
+<p>L'ouverture est dominée par la <strong>cardamome verte</strong>, le <strong>safran</strong> et un mélange d'épices chaudes. Cette entrée est immédiatement reconnaissable comme orientale, sans détour aromatique. Pas de bergamote, pas d'agrumes : Khamrah affirme dès la première vaporisation qu'il s'inscrit dans la lignée des grands orientaux moyen-orientaux modernes.</p>
+
+<h3>Notes de cœur</h3>
+
+<p>C'est ici que tout se joue. La <strong>praline caramelisée</strong> arrive en accompagnement de l'<strong>oud boisé-fumé</strong> et d'une touche de <strong>jasmin</strong>. Cette alliance praline-oud est devenue la signature reconnaissable de Khamrah et a inspiré des dizaines d'imitations depuis 2023. Le contraste entre la rondeur sucrée de la praline et la facette légèrement médicinale de l'oud crée une tension olfactive très addictive.</p>
+
+<h3>Notes de fond</h3>
+
+<p>La base associe <strong>vanille bourbon</strong>, <strong>ambre chaud</strong> et <strong>musc boisé</strong>. C'est une base typique des compositions Lattafa premium : généreuse, persistante, avec un sillage qui marque les espaces de réception, restaurants et soirées.</p>
+
+<h2>Tenue et sillage en conditions réelles</h2>
+
+<p>En conditions algériennes, Khamrah affiche des performances supérieures à la moyenne du marché à son prix.</p>
+
+<ul>
+<li><strong>Tenue sur peau :</strong> 10 à 12 heures, parfois plus selon la peau</li>
+<li><strong>Sillage :</strong> intense les 4 premières heures, modéré ensuite</li>
+<li><strong>Projection :</strong> 1,5 à 2 mètres pendant 6 heures</li>
+<li><strong>Tenue sur vêtements :</strong> jusqu'à 24-36 heures sur tissus de laine</li>
+</ul>
+
+<p>Pour un parfum vendu sous les 9 000 DA en Algérie, ces performances sont exceptionnelles et expliquent en grande partie la fidélité des acheteurs. À titre de comparaison, des EDP designer européens à 14 000 DA tiennent souvent moins longtemps.</p>
+
+<h2>Khamrah vs Angels' Share Lattafa : quel choix ?</h2>
+
+<p>La question revient sans arrêt en boutique : faut-il Khamrah ou Angels' Share ? Les deux fragrances partagent l'ADN gourmand de Lattafa, mais visent des moments différents.</p>
+
+<p><strong>Khamrah</strong> est plus oriental, plus épicé, plus marqué oud. Sa praline reste élégante, jamais sirupeuse. C'est le parfum des <strong>soirées habillées, mariages et fêtes religieuses</strong>. Il fonctionne aussi bien sur un homme que sur une femme grâce à son équilibre praline-oud.</p>
+
+<p><strong>Angels' Share</strong> mise davantage sur le cognac, le tabac et les fruits secs avec une signature whisky-praline plus occidentale. C'est un parfum d'<strong>automne-hiver, plus introverti et plus chic feutré</strong>, qui plaît particulièrement aux hommes recherchant une alternative à Kirke ou Layton.</p>
+
+<p>Notre conseil : si vous découvrez Lattafa et que vous aimez les ambiances orientales, commencez par Khamrah. Si vous avez déjà un parfum oriental dans votre garde-robe et cherchez une signature plus boisée-cognac, choisissez Angels' Share.</p>
+
+<h2>Alternatives orientales du catalogue Maison Numidia</h2>
+
+<p>Si Khamrah vous intrigue mais que vous voulez explorer d'autres pistes orientales, voici trois alternatives sérieuses, toutes en stock chez Maison Numidia.</p>
+
+<h3>Lattafa Asad — l'oriental boisé puissant</h3>
+
+<p><a href="/parfums/lattafa-asad">Lattafa Asad</a> reprend l'ADN performant de la maison mais oriente le parfum vers un boisé-ambré masculin plus sombre. Si vous trouvez Khamrah trop sucré ou si vous cherchez une signature 100% masculine, Asad est un candidat logique. Prix : autour de 6 500 DA.</p>
+
+<h3>Lattafa Yara — la version florale-gourmande</h3>
+
+<p><a href="/parfums/lattafa-yara">Lattafa Yara</a> est l'alternative féminine évidente. Plus floral, plus fruité, avec une vanille plus crémeuse, Yara séduit les femmes qui aiment l'idée d'un oriental gourmand mais préfèrent éviter l'oud trop affirmé de Khamrah. Très populaire chez les 18-30 ans en Algérie.</p>
+
+<h3>Ajmal Amber Wood — l'oriental boisé premium</h3>
+
+<p><a href="/parfums/ajmal-amber-wood">Ajmal Amber Wood</a> est une alternative plus haut de gamme côté maison émiratie. L'ambre et le santal y dominent, avec une élégance plus retenue que la générosité Lattafa. Pour ceux qui cherchent un oriental discret au bureau plutôt qu'un sillage de soirée.</p>
+
+<h2>Prix Khamrah en Algérie</h2>
+
+<p>Khamrah 100ml se trouve actuellement entre 8 000 et 9 500 DA en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 58 wilayas.</p>
+
+<p>Méfiez-vous des offres sous les 5 000 DA sur les réseaux sociaux : à ce prix, soit le flacon est dilué, soit c'est une contrefaçon. Lattafa applique une politique de prix homogène mondialement et les vrais Khamrah ne descendent jamais à ce niveau de tarif.</p>
+
+<h2>Où acheter Lattafa Khamrah en Algérie</h2>
+
+<p>Pour acheter Khamrah en toute confiance, privilégiez les revendeurs qui peuvent justifier la traçabilité du flacon. Maison Numidia importe directement depuis les distributeurs officiels Lattafa et garantit l'authenticité de chaque flacon livré, avec paiement à la livraison via Yalidine dans les 58 wilayas.</p>
+
+<p>Pour explorer d'autres orientaux dans la même gamme, consultez notre <a href="/parfums-orientaux">catalogue parfums orientaux</a>. Et si l'univers de la niche vous intéresse, lisez notre <a href="/blog/parfum-de-niche-algerie">guide complet des parfums de niche en Algérie</a> pour comprendre comment Khamrah s'inscrit dans la nouvelle vague oriental-niche moderne.</p>
+
+<h2>Conclusion : faut-il acheter Khamrah en 2026 ?</h2>
+
+<p>Oui, sans hésitation, si vous aimez les orientaux gourmands et que vous cherchez une fragrance qui marque les esprits sans dépasser 9 000 DA. Khamrah reste en 2026 l'une des meilleures portes d'entrée vers la parfumerie orientale Dubai-style, avec un rapport performance-prix difficile à battre. Pour les soirées, mariages et grandes occasions algériennes, c'est un choix imparable. Pour le bureau quotidien en revanche, optez plutôt pour <a href="/parfums/ajmal-amber-wood">Ajmal Amber Wood</a> ou <a href="/parfums/lattafa-yara">Lattafa Yara</a>, plus discrets.</p>`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
+  },
+
+  // ── ARTICLE 9 : Meilleur Parfum Femme 2026 ─────────────────────────────────
+  {
+    slug: "meilleur-parfum-femme-2026",
+    title: "Meilleur Parfum Femme 2026 en Algérie — Top 10",
+    metaTitle: "Meilleur Parfum Femme 2026 Algérie — Top 10",
+    metaDescription: "Top 10 des meilleurs parfums femme 2026 en Algérie, prix en DA, livraison Yalidine 58 wilayas et paiement à la livraison.",
+    publishedAt: "2026-05-07",
+    category: "tendances",
+    readTime: 9,
+    excerpt: "Notre classement actualisé des dix meilleurs parfums femme à acheter en Algérie en 2026. Sélection basée sur les ventes Maison Numidia, les tendances internationales et les goûts locaux.",
+    content: `<h2>Quel parfum femme choisir en 2026 ?</h2>
+
+<p>Le marché algérien des parfums féminins évolue vite. Entre les classiques intemporels qui dominent depuis vingt ans et les nouveautés portées par les réseaux sociaux, faire le bon choix demande un peu de méthode. Ce classement 2026 reflète les ventes réelles chez Maison Numidia sur les douze derniers mois, croisées avec les tendances olfactives mondiales et les retours de notre clientèle dans toutes les wilayas.</p>
+
+<p>Tous les parfums présentés sont en stock, livrables sous 24 à 72 heures via Yalidine, avec paiement à la réception. Pas d'avance, pas de risque, juste votre signature olfactive idéale.</p>
+
+<h2>1. Lancôme La Vie est Belle EDP</h2>
+
+<p><a href="/parfums/la-vie-est-belle-lancome">La Vie est Belle</a> reste indétrônable en tête de notre classement. Ce floral-oriental gourmand iris-praline-patchouli créé par Olivier Polge en 2012 a traversé les modes sans prendre une ride. Son sillage chaud et accessible séduit les femmes de 25 à 60 ans, du quotidien aux grandes occasions. Pour l'Algérie, c'est aussi le parfum de l'automne et de l'hiver par excellence : la praline et l'iris s'épanouissent dès que les températures descendent. Tenue de 8 à 10 heures, projection généreuse les premières heures.</p>
+
+<p><strong>Prix :</strong> 14 900 DA · <strong>Occasion :</strong> quotidien, soirée, cadeau · <strong>Famille :</strong> floral oriental gourmand</p>
+
+<h2>2. Chanel Coco Mademoiselle EDP</h2>
+
+<p><a href="/parfums/coco-mademoiselle-chanel">Coco Mademoiselle</a> est la signature absolue de l'élégance française moderne. Orange fraîche, rose et patchouli créent un chypré féminin sophistiqué que toutes les générations se transmettent. C'est le parfum des femmes qui veulent être reconnues comme élégantes sans avoir à le revendiquer. À porter pour les occasions formelles et professionnelles.</p>
+
+<p><strong>Prix :</strong> 16 500 DA · <strong>Occasion :</strong> bureau, soirée chic · <strong>Famille :</strong> chypré floral</p>
+
+<h2>3. YSL Libre EDP</h2>
+
+<p><a href="/parfums/libre-ysl">Libre de YSL</a> incarne la femme qui choisit ses propres règles. La lavande féminisée associée à la fleur d'oranger et à la vanille musquée crée une fragrance d'une modernité affirmée. Son sillage marque la pièce sans être agressif. Choix idéal pour les femmes confiantes qui veulent une signature distinctive sans tomber dans le spectaculaire.</p>
+
+<p><strong>Prix :</strong> 14 900 DA · <strong>Occasion :</strong> soirée, occasions importantes · <strong>Famille :</strong> floral aromatique</p>
+
+<h2>4. Jean Paul Gaultier Scandal EDP</h2>
+
+<p><a href="/parfums/scandal-jean-paul-gaultier">Scandal</a> mise sur le miel et le gardénia avec une facette patchouli-vanille très addictive. C'est le parfum de la fête, des sorties entre amies et des soirées où on veut être remarquée. Très apprécié des 20-35 ans en Algérie pour sa générosité de sillage et son côté joyeux. Le flacon en forme de buste est devenu iconique.</p>
+
+<p><strong>Prix :</strong> 13 500 DA · <strong>Occasion :</strong> soirée, fête, week-end · <strong>Famille :</strong> floral gourmand</p>
+
+<h2>5. Dior Miss Dior EDP</h2>
+
+<p><a href="/parfums/miss-dior">Miss Dior</a> est la version contemporaine de la féminité Dior. Pivoine, rose de Grasse et patchouli créent un floral-chypré moderne et lumineux. Plus jeune et plus aérien que J'adore, Miss Dior s'adresse aux femmes qui veulent l'élégance Dior sans la solennité du grand floral classique. Excellent pour le printemps-été en Algérie.</p>
+
+<p><strong>Prix :</strong> 15 500 DA · <strong>Occasion :</strong> quotidien chic, romantique · <strong>Famille :</strong> floral chypré</p>
+
+<h2>6. Dior J'adore EDP</h2>
+
+<p><a href="/parfums/dior-jadore">Dior J'adore</a> reste la référence du grand floral solaire. Ylang-ylang, rose et jasmin de Grasse composent l'expression la plus pure de la féminité dorée Dior. C'est le parfum des mariages algériens par excellence, des fiançailles et des grands événements familiaux. Tenue exceptionnelle de 10 heures et sillage qui parfume l'espace longtemps après votre passage.</p>
+
+<p><strong>Prix :</strong> 15 200 DA · <strong>Occasion :</strong> mariage, cérémonie · <strong>Famille :</strong> grand floral</p>
+
+<h2>7. YSL Mon Paris EDP</h2>
+
+<p><a href="/parfums/mon-paris-ysl">Mon Paris</a> propose un chypré-fruité moderne très réussi : framboise, pivoine et patchouli blanc. Plus pop et plus jeune que Libre, Mon Paris séduit les femmes qui veulent une signature romantique sans tomber dans le bonbon sucré. Excellent compromis pour celles qui hésitent entre floral fruité et chypré classique.</p>
+
+<p><strong>Prix :</strong> 13 900 DA · <strong>Occasion :</strong> rendez-vous, sortie · <strong>Famille :</strong> chypré fruité</p>
+
+<h2>8. Lancôme Idôle EDP</h2>
+
+<p><a href="/parfums/idole-lancome">Idôle</a> est la vision moderne et minimaliste de la rose selon Lancôme. Trois roses (centifolia, damascena, isparta) sur un fond chypré transparent musc-poire-vanille. Sa silhouette ultra-fine en flacon plat reflète parfaitement le contenu : élégant, contemporain, jamais lourd. Idéal pour le bureau et les femmes qui détestent les sillages envahissants.</p>
+
+<p><strong>Prix :</strong> 13 200 DA · <strong>Occasion :</strong> bureau, quotidien · <strong>Famille :</strong> floral chypré moderne</p>
+
+<h2>9. Narciso Rodriguez For Her EDP</h2>
+
+<p><a href="/parfums/narciso-rodriguez-for-her">For Her</a> est le parfum du musc féminin par excellence. Sa formule autour du musc, de la rose et du santal crée une signature seconde peau d'une élégance discrète absolue. C'est le parfum qu'on ne sent pas en entrant dans la pièce mais qui laisse un sillage subtil dont tout le monde se souvient. Choix de connaisseuse.</p>
+
+<p><strong>Prix :</strong> 13 900 DA · <strong>Occasion :</strong> bureau, intime · <strong>Famille :</strong> musc floral</p>
+
+<h2>10. Paco Rabanne Lady Million EDP</h2>
+
+<p><a href="/parfums/lady-million-paco-rabanne">Lady Million</a> reste la fragrance festive féminine la plus reconnue en Algérie. Néroli, framboise et patchouli composent un floral-chypré lumineux et glamour. Le flacon en lingot d'or doré est devenu iconique. Excellent choix pour les soirées d'hiver, les fêtes et les week-ends entre amies.</p>
+
+<p><strong>Prix :</strong> 14 200 DA · <strong>Occasion :</strong> soirée, fête · <strong>Famille :</strong> floral chypré</p>
+
+<h2>Comment choisir parmi ce top 10 ?</h2>
+
+<p>Si vous ne savez pas par où commencer, voici nos recommandations selon votre profil.</p>
+
+<ul>
+<li><strong>Première vraie signature parfum :</strong> La Vie est Belle ou Coco Mademoiselle, des valeurs sûres aimées universellement.</li>
+<li><strong>Femme qui veut marquer sa différence :</strong> Libre ou Idôle, des signatures contemporaines distinctives.</li>
+<li><strong>Cadeau pour un mariage :</strong> Dior J'adore, Coco Mademoiselle ou Miss Dior.</li>
+<li><strong>Parfum de bureau discret :</strong> Idôle ou Narciso For Her.</li>
+<li><strong>Parfum de fête et de sortie :</strong> Scandal, Lady Million ou Mon Paris.</li>
+</ul>
+
+<p>Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, consultez notre <a href="/parfums-femme">catalogue complet de parfums femme</a> avec filtres par marque, famille olfactive et budget. Livraison Yalidine 24-72h dans les 58 wilayas, paiement à la livraison, authenticité garantie sur chaque flacon.</p>`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    }
   }
 
 ];
