@@ -2,8 +2,10 @@ name: Google Indexing API — Daily Submit
 
 on:
   schedule:
-    # Every day at 06:00 UTC (07:00 Algiers time)
-    - cron: "0 6 * * *"
+    # Every day at 09:00 UTC = 10:00 Algiers time
+    # Google Indexing API quota resets at midnight Pacific Time = 07:00-08:00 UTC
+    # Running at 09:00 UTC ensures the quota is always fresh
+    - cron: "0 9 * * *"
   workflow_dispatch:
     # Manual trigger from GitHub UI
     inputs:
