@@ -1,0 +1,46 @@
+name: Google Indexing API — Daily Submit
+
+on:
+  schedule:
+    # Every day at 06:00 UTC (07:00 Algiers time)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # Manual trigger from GitHub UI
+    inputs:
+      limit:
+        description: "Max URLs to submit (default 200)"
+        required: false
+        default: "200"
+
+jobs:
+  submit-urls:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run Indexing API submitter
+        env:
+          GOOGLE_INDEXING_CREDENTIALS_JSON: ${{ secrets.GOOGLE_INDEXING_CREDENTIALS_JSON }}
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '200' }}"
+          node scripts/google-indexing-api.mjs --limit=$LIMIT
+
+      - name: Commit updated log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/indexing-log.json
+          if git diff --cached --quiet; then
+            echo "No log changes to commit"
+          else
+            git commit -m "chore: indexing log update $(date -u +%Y-%m-%d)"
+            git push
+          fi

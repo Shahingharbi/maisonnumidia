@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "indexing:test": "node scripts/google-indexing-api.mjs --url=https://maisonnumidia.store/",
+    "indexing:daily": "node scripts/google-indexing-api.mjs",
+    "indexing:dryrun": "node scripts/google-indexing-api.mjs --dry-run",
+    "indexing:list": "node scripts/google-indexing-api.mjs --verify-list"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
