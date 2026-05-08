@@ -113,6 +113,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://images.unsplash.com" />
         <link rel="dns-prefetch" href="https://fimgs.net" />
+        <meta name="google-site-verification" content="RHBd9f496hIQSxv54AwreCcZ5U1BMulBYc8jpPKg9xM" />
         <meta name="geo.region" content="DZ" />
         <meta name="geo.placename" content="Blida, Algérie" />
         <meta name="language" content="fr-DZ" />
