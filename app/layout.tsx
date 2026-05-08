@@ -83,6 +83,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
+    google: "RHBd9f496hIQSxv54AwreCcZ5U1BMulBYc8jpPKg9xM",
     other: {
       "geo.region": "DZ",
       "geo.placename": "Blida, Algérie",
