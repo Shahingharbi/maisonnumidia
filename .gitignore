@@ -33,6 +33,12 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# google service account credentials — NEVER commit
+.credentials/
+credentials.json
+*-credentials.json
+google-indexing.json
+
 # vercel
 .vercel
 
