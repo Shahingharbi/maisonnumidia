@@ -8,6 +8,9 @@ const BASE = "https://maisonnumidia.store";
 // qui fait croire à Google que tout change chaque jour (signal négatif pour le budget crawl)
 const CATALOG_DATE = new Date("2026-04-11");
 const SITE_LAUNCH = new Date("2026-01-15");
+// Date du dernier changement réel des pages catégorie (ajout de l'index catalogue
+// crawlable / maillage interne). Honnête : ces pages ont effectivement changé.
+const CATEGORY_UPDATE = new Date("2026-06-08");
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const allProducts = getAllProducts();
@@ -23,9 +26,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticPages: MetadataRoute.Sitemap = [
     { url: BASE, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 1 },
-    { url: `${BASE}/parfums-homme`, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 0.9 },
-    { url: `${BASE}/parfums-femme`, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 0.9 },
-    { url: `${BASE}/parfums-orientaux`, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${BASE}/parfums-homme`, lastModified: CATEGORY_UPDATE, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${BASE}/parfums-femme`, lastModified: CATEGORY_UPDATE, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${BASE}/parfums-orientaux`, lastModified: CATEGORY_UPDATE, changeFrequency: "weekly", priority: 0.9 },
     { url: `${BASE}/marques`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
     { url: `${BASE}/parfum-algerie`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
     { url: `${BASE}/a-propos`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.6 },
