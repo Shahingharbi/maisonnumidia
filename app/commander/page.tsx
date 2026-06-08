@@ -39,6 +39,7 @@ export default function CommanderPage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [whatsappUrl, setWhatsappUrl] = useState("");
+  const [emailFailed, setEmailFailed] = useState(false);
 
   const [nom, setNom] = useState("");
   const [telephone, setTelephone] = useState("");
@@ -57,29 +58,7 @@ export default function CommanderPage() {
       .join("\n");
     const orderText = `${lignesCommande}\n\nTOTAL : ${formatPrice(subtotal)}`;
 
-    // ── 1. Send via EmailJS ───────────────────────────────────────────────────
-    try {
-      await emailjs.send(
-        EMAILJS_SERVICE_ID,
-        EMAILJS_TEMPLATE_ID,
-        {
-          client_nom:       nom,
-          client_telephone: telephone,
-          client_wilaya:    wilaya,
-          client_adresse:   adresse || "—",
-          client_message:   message || "—",
-          commande_details: orderText,
-          commande_total:   formatPrice(subtotal),
-          site_source:      "maisonnumidia.store",
-        },
-        EMAILJS_PUBLIC_KEY,
-      );
-    } catch (err) {
-      console.error("EmailJS error:", err);
-      // Don't block the order — still show success and WhatsApp
-    }
-
-    // ── 2. Build WhatsApp redirect URL ───────────────────────────────────────
+    // ── 1. Construire l'URL WhatsApp (fallback TOUJOURS disponible) ───────────
     const waText = encodeURIComponent(
       `🛒 Nouvelle commande Maison Numidia\n\n` +
       `👤 Nom : ${nom}\n` +
@@ -92,6 +71,48 @@ export default function CommanderPage() {
     );
     const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${waText}`;
     setWhatsappUrl(waUrl);
+
+    // ── 2. Envoi EmailJS (canal principal vers le vendeur) ────────────────────
+    // Garde-fou : si les clés ne sont pas configurées (placeholders inlinés au
+    // build faute de variables sur Vercel), l'envoi échouerait en silence.
+    const configManquante =
+      EMAILJS_SERVICE_ID === "YOUR_SERVICE_ID" ||
+      EMAILJS_TEMPLATE_ID === "YOUR_TEMPLATE_ID" ||
+      EMAILJS_PUBLIC_KEY === "YOUR_PUBLIC_KEY";
+
+    let emailEnvoye = false;
+    if (configManquante) {
+      console.error(
+        "[Commande] EmailJS non configuré : variables NEXT_PUBLIC_EMAILJS_* absentes du build. " +
+        "Ajoute-les dans Vercel → Settings → Environment Variables, puis redéploie sans cache."
+      );
+    } else {
+      try {
+        await emailjs.send(
+          EMAILJS_SERVICE_ID,
+          EMAILJS_TEMPLATE_ID,
+          {
+            name:             nom,            // {{name}} → From Name du template
+            email:            "",             // {{email}} → Reply To (pas d'email client)
+            client_nom:       nom,
+            client_telephone: telephone,
+            client_wilaya:    wilaya,
+            client_adresse:   adresse || "—",
+            client_message:   message || "—",
+            commande_details: orderText,
+            commande_total:   formatPrice(subtotal),
+            site_source:      "maisonnumidia.store",
+          },
+          EMAILJS_PUBLIC_KEY,
+        );
+        emailEnvoye = true;
+      } catch (err) {
+        console.error("EmailJS error:", err);
+      }
+    }
+
+    // Email KO → on rend la confirmation WhatsApp obligatoire côté client.
+    setEmailFailed(!emailEnvoye);
 
     clearCart();
     setLoading(false);
@@ -135,6 +156,14 @@ export default function CommanderPage() {
               les prochaines heures.
             </p>
           </div>
+
+          {emailFailed && (
+            <div className="mb-4 text-sm bg-amber-50 border border-amber-200 text-amber-800 rounded-xl px-4 py-3">
+              Pour finaliser, <strong>confirmez votre commande sur WhatsApp</strong> en
+              cliquant le bouton vert ci-dessous, ou appelez le{" "}
+              <a href="tel:0699418569" className="underline font-semibold">06 99 41 85 69</a>.
+            </div>
+          )}
 
           {/* WhatsApp CTA — envoie le récap dans WhatsApp */}
           {whatsappUrl && (
