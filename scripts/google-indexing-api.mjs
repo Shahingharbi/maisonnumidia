@@ -15,7 +15,7 @@ import crypto from "crypto";
 const CREDENTIALS_PATH = process.env.GOOGLE_INDEXING_CREDENTIALS_FILE
   || "./.credentials/google-indexing.json";
 const CREDENTIALS_JSON = process.env.GOOGLE_INDEXING_CREDENTIALS_JSON;
-const SCOPE = "https://www.googleapis.com/auth/indexing https://www.googleapis.com/auth/siteverification";
+const SCOPE = "https://www.googleapis.com/auth/indexing https://www.googleapis.com/auth/siteverification https://www.googleapis.com/auth/webmasters.readonly";
 const TOKEN_URL = "https://oauth2.googleapis.com/token";
 const PUBLISH_URL = "https://indexing.googleapis.com/v3/urlNotifications:publish";
 const VERIFY_TOKEN_URL = "https://www.googleapis.com/siteVerification/v1/token";
@@ -26,6 +26,10 @@ const LOG_PATH = "./data/indexing-log.json";
 const SITEMAP_URL = "https://maisonnumidia.store/sitemap.xml";
 const DAILY_QUOTA = 200;
 const RATE_LIMIT_MS = 150;
+const INSPECT_URL = "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect";
+const SITES_URL = "https://searchconsole.googleapis.com/webmasters/v3/sites";
+const INDEX_STALE_DAYS = 7;   // re-vérifier le statut d'indexation au-delà de X jours
+const INSPECT_BUDGET = 1500;  // quota URL Inspection = 2000/jour, marge de sécurité
 
 function base64url(input) {
   return Buffer.from(input)
@@ -125,6 +129,57 @@ async function publishUrl(accessToken, url) {
   return { status: res.status, body: text };
 }
 
+async function getUrlMetadata(accessToken, url) {
+  const endpoint = `https://indexing.googleapis.com/v3/urlNotifications/metadata?url=${encodeURIComponent(url)}`;
+  const res = await fetch(endpoint, {
+    method: "GET",
+    headers: { Authorization: `Bearer ${accessToken}` },
+  });
+  const text = await res.text();
+  return { status: res.status, body: text };
+}
+
+async function listSites(accessToken) {
+  const res = await fetch(SITES_URL, { headers: { Authorization: `Bearer ${accessToken}` } });
+  if (!res.ok) return [];
+  const data = await res.json().catch(() => ({}));
+  return data.siteEntry || [];
+}
+
+// Trouve la propriété Search Console du site (préfère la propriété domaine).
+async function resolveProperty(accessToken) {
+  try {
+    const sites = await listSites(accessToken);
+    const mn = sites.map((s) => s.siteUrl).filter((u) => /maisonnumidia/.test(u));
+    return mn.find((u) => u.startsWith("sc-domain:")) || mn[0] || null;
+  } catch {
+    return null;
+  }
+}
+
+// Statut d'indexation réel d'une URL via l'API URL Inspection de GSC.
+// Résilient : une panne réseau passagère renvoie {ok:false} au lieu de crasher le run.
+async function inspectIndexStatus(accessToken, siteUrl, url) {
+  try {
+    const res = await fetch(INSPECT_URL, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${accessToken}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ inspectionUrl: url, siteUrl }),
+    });
+    if (!res.ok) return { ok: false, status: res.status, state: null };
+    const data = await res.json().catch(() => ({}));
+    const r = (data.inspectionResult && data.inspectionResult.indexStatusResult) || {};
+    return { ok: true, status: 200, state: r.coverageState || "unknown" };
+  } catch {
+    return { ok: false, status: 0, state: null };
+  }
+}
+
+// "indexée" = coverageState contient "indexed" sans "not indexed".
+function isIndexed(state) {
+  return typeof state === "string" && /indexed/i.test(state) && !/not indexed/i.test(state);
+}
+
 async function fetchSitemap() {
   const res = await fetch(SITEMAP_URL);
   if (!res.ok) throw new Error(`Sitemap fetch failed: ${res.status}`);
@@ -176,6 +231,9 @@ const VERIFY_INIT = args.includes("--verify-init");
 const VERIFY_DO = args.includes("--verify");
 const VERIFY_LIST = args.includes("--verify-list");
 const VERIFY_METHOD = args.find((a) => a.startsWith("--method="))?.slice(9) || "FILE";
+const CHECK_STATUS = args.find((a) => a.startsWith("--check="))?.slice(8);
+const INSPECT_LIMIT_ARG = args.find((a) => a.startsWith("--inspect-limit="));
+const INSPECT_LIMIT = INSPECT_LIMIT_ARG ? parseInt(INSPECT_LIMIT_ARG.slice(16), 10) : INSPECT_BUDGET;
 
 async function main() {
   const creds = loadCredentials();
@@ -231,6 +289,15 @@ async function main() {
     return;
   }
 
+  // ---------- Check status of a previously submitted URL ----------
+  if (CHECK_STATUS) {
+    console.log(`Checking metadata for: ${CHECK_STATUS}`);
+    const result = await getUrlMetadata(token, CHECK_STATUS);
+    console.log(`HTTP ${result.status}`);
+    console.log(result.body);
+    return;
+  }
+
   // ---------- Single URL test mode ----------
   if (TEST_URL) {
     console.log(`Test mode — submitting: ${TEST_URL}`);
@@ -266,29 +333,77 @@ async function main() {
   }
   const todaySubmitted = runEntry.urls.length;
   const remaining = Math.max(0, Math.min(LIMIT, DAILY_QUOTA - todaySubmitted));
+  console.log(`Aujourd'hui (${today}): ${todaySubmitted}/${DAILY_QUOTA} pings utilisés — reste ${remaining}\n`);
 
-  console.log(`Today (${today}): ${todaySubmitted}/${DAILY_QUOTA} already submitted`);
-  console.log(`This run will submit up to ${remaining} URLs\n`);
+  // ── Statut d'indexation via GSC (URL Inspection) ─────────────────────────
+  // On concentre les pings sur les pages NON indexées, au lieu de re-pinger
+  // en boucle des pages déjà indexées (inutile pour l'indexation).
+  if (!log.indexStatus) log.indexStatus = {};
+  const property = await resolveProperty(token);
 
-  if (remaining === 0) {
-    console.log("Daily quota reached. Try again tomorrow.");
+  if (property) {
+    console.log(`Propriété GSC: ${property}`);
+    const staleMs = INDEX_STALE_DAYS * 86400 * 1000;
+    const toInspect = allUrls
+      .filter((u) => {
+        const s = log.indexStatus[u];
+        return !s || !s.checkedAt || Date.now() - s.checkedAt > staleMs;
+      })
+      .slice(0, INSPECT_LIMIT);
+    console.log(`Inspection de ${toInspect.length} URLs (statut manquant ou > ${INDEX_STALE_DAYS}j)...`);
+    let insp = 0;
+    for (const u of toInspect) {
+      const r = await inspectIndexStatus(token, property, u);
+      if (r.ok) {
+        log.indexStatus[u] = { state: r.state, indexed: isIndexed(r.state), checkedAt: Date.now() };
+      } else if (r.status === 429) {
+        console.log("Quota URL Inspection atteint — arrêt de l'inspection.");
+        break;
+      }
+      if (++insp % 50 === 0) { console.log(`  inspecté ${insp}/${toInspect.length}`); saveLog(log); }
+      await new Promise((res) => setTimeout(res, 120));
+    }
+    saveLog(log);
+    const known = allUrls.filter((u) => log.indexStatus[u]);
+    const idx = known.filter((u) => log.indexStatus[u].indexed).length;
+    console.log(`Bilan indexation connu: ${idx}/${known.length} indexées (${known.length - idx} à pousser)\n`);
+  } else {
+    console.log("Pas d'accès propriété GSC — repli sur l'ancienne logique.\n");
+  }
+
+  if (remaining === 0 && !DRY_RUN) {
+    console.log("Quota de ping du jour épuisé. Statut d'indexation rafraîchi, pings demain.");
+    log.lastRun = new Date().toISOString();
+    saveLog(log);
     return;
   }
 
-  // Prioritize never-submitted, then oldest
-  const submittedKeys = new Set(Object.keys(log.submitted));
-  const neverSubmitted = allUrls.filter((u) => !submittedKeys.has(u));
-  const oldest = allUrls
-    .filter((u) => submittedKeys.has(u))
-    .sort((a, b) => (log.submitted[a] || 0) - (log.submitted[b] || 0));
-  const queue = [...neverSubmitted, ...oldest].slice(0, remaining);
-
-  console.log(`Queue: ${neverSubmitted.length} new + ${oldest.length} re-submit candidates`);
-  console.log(`Will submit: ${queue.length} URLs (rate-limited ${RATE_LIMIT_MS}ms between calls)\n`);
+  // ── File de ping : non indexées d'abord (plus anciennement pingées), puis inconnues ──
+  const lastPing = (u) => log.submitted[u] || 0;
+  const pingBudget = DRY_RUN ? (remaining > 0 ? remaining : DAILY_QUOTA) : remaining;
+  let queue;
+  if (property) {
+    const notIndexed = allUrls
+      .filter((u) => log.indexStatus[u] && !log.indexStatus[u].indexed)
+      .sort((a, b) => lastPing(a) - lastPing(b));
+    const unknown = allUrls
+      .filter((u) => !log.indexStatus[u])
+      .sort((a, b) => lastPing(a) - lastPing(b));
+    queue = [...notIndexed, ...unknown].slice(0, pingBudget);
+    console.log(`File: ${notIndexed.length} non indexées + ${unknown.length} inconnues → ping ${queue.length}`);
+  } else {
+    const submittedKeys = new Set(Object.keys(log.submitted));
+    const neverSubmitted = allUrls.filter((u) => !submittedKeys.has(u));
+    const oldest = allUrls
+      .filter((u) => submittedKeys.has(u))
+      .sort((a, b) => lastPing(a) - lastPing(b));
+    queue = [...neverSubmitted, ...oldest].slice(0, pingBudget);
+  }
+  console.log(`A soumettre: ${queue.length} URLs (espacées de ${RATE_LIMIT_MS}ms)\n`);
 
   if (DRY_RUN) {
-    console.log("DRY RUN — first 5 URLs:");
-    queue.slice(0, 5).forEach((u) => console.log("  -", u));
+    console.log("DRY RUN — 10 premières URLs qui seraient pingées:");
+    queue.slice(0, 10).forEach((u) => console.log("  -", u, log.indexStatus[u] ? `[${log.indexStatus[u].state}]` : "[inconnu]"));
     return;
   }
 
