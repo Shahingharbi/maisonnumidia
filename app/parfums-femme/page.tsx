@@ -4,6 +4,7 @@ import { getProductsByCategory, getBrandBySlug } from "@/lib/products";
 import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
+import CategoryCatalogIndex from "@/components/category/CategoryCatalogIndex";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
@@ -252,6 +253,12 @@ export default function ParfumsFemmePage() {
             </div>
 
           </div>
+
+          <CategoryCatalogIndex
+            products={products}
+            category="parfums-femme"
+            categoryLabel="Parfums Femme"
+          />
         </div>
       </section>
     </>
