@@ -1,0 +1,3026 @@
+[
+ {
+  "slug": "amber-oud-al-haramain",
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "recommendedDA": 9800,
+  "confidence": "high",
+  "note": "Amber Oud Gold Edition 60ml: idealo.fr a partir de 25,99EUR, mycospara 39EUR (pose 47EUR), milieu ~32EUR x270=8640. Prix actuel 9800 deja au-dessus du milieu europeen, marche local le soutient. On garde 9800, pas de hausse justifiee."
+ },
+ {
+  "slug": "madawi-al-haramain",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 8500,
+  "confidence": "low",
+  "note": "ATTENTION misattribution probable: 'Madawi' est un parfum Arabian Oud (luxe, 179-386EUR sur idealo/anabis), PAS Al Haramain. Aucun 'Al Haramain Madawi' trouve chez les detaillants europeens ni en Algerie. Prix introuvable pour ce produit exact -> on garde le prix actuel 8500. A verifier/renommer cote catalogue."
+ },
+ {
+  "slug": "sultan-al-oud",
+  "euro": 13,
+  "euroX270": 3510,
+  "algerianDA": null,
+  "recommendedDA": 8500,
+  "confidence": "low",
+  "note": "Al Haramain Sultan: ancien parfum bas de gamme, listings US ~13-20USD et CPO ~7EUR; pas de page EDP 100ml claire chez Notino/idealo FR. x270 donnerait ~3500-5500, tres en dessous du prix actuel. Le produit est probablement sur-evalue vs marche, mais sans listing algerien fiable on ne descend pas: on garde 8500. Surveiller."
+ },
+ {
+  "slug": "l-aventure-al-haramain",
+  "euro": 58,
+  "euroX270": 15660,
+  "algerianDA": null,
+  "recommendedDA": 15500,
+  "confidence": "high",
+  "note": "L'Aventure homme 100ml = 38,95EUR (idealo.fr, Cdiscount). 200ml ajuste x1.5 = ~58EUR x270 = 15660. Prix actuel 14000 sous le marche -> hausse a 15500 (arrondi 500)."
+ },
+ {
+  "slug": "l-aventure-femme-al-haramain",
+  "euro": 34,
+  "euroX270": 9180,
+  "algerianDA": null,
+  "recommendedDA": 9000,
+  "confidence": "high",
+  "note": "L'Aventure Femme 100ml = 34,30EUR/100ml Notino UK (~34EUR) x270 = 9180. Prix actuel 8500 leger sous marche -> 9000."
+ },
+ {
+  "slug": "al-haramain-rose-oud",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "recommendedDA": 9500,
+  "confidence": "medium",
+  "note": "Rose Oud = '50 Years Rose Oud' (premium 2021/2025). Listings US 50-70USD (~48-55EUR); 75ml. x270 donnerait 13000+, mais c'est le prix US plein tarif et le produit est premium. Prix actuel 7000 clairement trop bas pour ce niveau -> remontee prudente a 9500. Confiance medium (pas de prix EUR detaillant discount exact pour 75ml)."
+ },
+ {
+  "slug": "al-haramain-midnight-dreams",
+  "euro": 27.83,
+  "euroX270": 7514,
+  "algerianDA": null,
+  "recommendedDA": 8500,
+  "confidence": "high",
+  "note": "Night Dreams EDP 100ml = 27,83EUR (notino.es) x270 = 7514. Sous le prix actuel 8500. On ne descend pas (marche local), on garde 8500."
+ },
+ {
+  "slug": "al-haramain-amber-oud",
+  "euro": 35.28,
+  "euroX270": 9525,
+  "algerianDA": null,
+  "recommendedDA": 9500,
+  "confidence": "high",
+  "note": "Amber Oud (standard) 60ml = 35,28EUR a partir de (idealo.fr) x270 = 9525. Prix actuel 9000 -> ajuste a 9500 (arrondi 500)."
+ },
+ {
+  "slug": "al-haramain-l-aventure-knight",
+  "euro": 28,
+  "euroX270": 7560,
+  "algerianDA": null,
+  "recommendedDA": 8500,
+  "confidence": "high",
+  "note": "L'Aventure Knight 100ml = 24,40GBP/100ml Notino UK (~28EUR) x270 = 7560. Sous le prix actuel; le marche local soutient 8500. On garde 8500."
+ },
+ {
+  "slug": "al-haramain-oudh-patchouli",
+  "euro": 24,
+  "euroX270": 6480,
+  "algerianDA": null,
+  "recommendedDA": 9000,
+  "confidence": "medium",
+  "note": "Oudh Patchouli: 100ml a partir de 33,48GBP (~39EUR) sur pricespy; 60ml ajuste x0.62 = ~24EUR x270 = 6480. Sous le prix actuel. Pas de listing algerien -> on ne descend pas, garde 9000. Confiance medium (prix derive d'un autre volume)."
+ },
+ {
+  "slug": "al-haramain-royal-musk",
+  "euro": 40.67,
+  "euroX270": 10980,
+  "algerianDA": null,
+  "recommendedDA": 11000,
+  "confidence": "high",
+  "note": "Royal Musk 100ml = 40,67EUR a partir de (idealo.es) x270 = 10980. Prix actuel 8500 sous marche -> hausse a 11000."
+ },
+ {
+  "slug": "al-haramain-black-oudh",
+  "euro": 42,
+  "euroX270": 11340,
+  "algerianDA": null,
+  "recommendedDA": 9500,
+  "confidence": "medium",
+  "note": "Black Oudh vendu surtout en huile/extrait (Notino UK 46,67GBP/100ml ~54EUR oil; FragranceNet ~46USD). Version EDP premium ~40-42EUR x270 = ~11300. Prix actuel 8500 sous marche -> remontee prudente a 9500. Confiance medium (formats EDP vs huile/extrait melanges dans les sources)."
+ },
+ {
+  "slug": "al-haramain-rose-d-arabie",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 8500,
+  "confidence": "low",
+  "note": "Aucun 'Al Haramain Rose d'Arabie' trouve (Rose d'Arabie = Armani Prive, autre marque). Possible relabel/erreur catalogue (proche de Junoon Rose ou L'Aventure Rose). Prix introuvable pour ce produit exact -> on garde 8500. A verifier cote catalogue."
+ },
+ {
+  "slug": "al-haramain-amber-oud-tobacco",
+  "euro": 40.6,
+  "euroX270": 10962,
+  "algerianDA": null,
+  "recommendedDA": 11000,
+  "confidence": "high",
+  "note": "Amber Oud Tobacco Edition 60ml = 40,60-40,95EUR a partir de (idealo.fr) x270 = ~10960. Prix actuel 8500 sous marche -> hausse a 11000."
+ },
+ {
+  "slug": "al-haramain-amber-oud-bleu",
+  "recommendedDA": 9500,
+  "confidence": "high",
+  "euro": 58,
+  "euroX270": 15660,
+  "algerianDA": null,
+  "note": "Prix europeen clair confirme: ~58 EUR pour le 60ml EDP exact (parfumsetmoi.fr, notino.fr, avis concordants a 58 EUR). x270 = 15660 DA. Aucune annonce algerienne credible trouvee. MAIS le x270 brut depasse largement le positionnement local d'Al Haramain (oriental accessible-premium, guide interne 4000-6000 DA). 58 EUR est un prix detaillant europeen eleve pour cette marque; appliquer x270 doublerait le prix actuel (8500) hors de son segment realiste en Algerie. Recommandation: hausse mesuree a 9500 DA (au-dessus du prix actuel, sans suivre aveuglement le x270 d'un prix discount UE)."
+ },
+ {
+  "slug": "acqua-di-parma-colonia",
+  "recommendedDA": 28000,
+  "confidence": "medium",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Cologne 100ml. Detaillants EU discount (idealo/notino) : 49-90 EUR selon promo, RRP marque ~115 EUR ; prix discount plein flacon ~80 EUR. x270 = ~21600 DA. Le prix actuel 28000 DA est au-dessus du discount EU mais coherent pour une maison de niche italienne importee en DZ (marge import + rarete). On ne descend pas : maintien a 28000 DA. Aucun listing algerien credible trouve."
+ },
+ {
+  "slug": "acqua-di-parma-magnolia-nobile",
+  "recommendedDA": 40000,
+  "confidence": "medium",
+  "euro": 130,
+  "euroX270": 35100,
+  "algerianDA": null,
+  "note": "EDP 100ml. idealo.fr : a partir de 101-143 EUR, RRP marque 270 EUR. Base retenue ~130 EUR. x270 = ~35000 DA. Le prix actuel 40000 DA est legerement au-dessus mais acceptable pour un EDP de niche AdP en DZ. Maintien a 40000 DA. Pas de prix algerien en ligne."
+ },
+ {
+  "slug": "adopt-narcotique",
+  "recommendedDA": 5100,
+  "confidence": "low",
+  "euro": 11.95,
+  "euroX270": 3200,
+  "algerianDA": null,
+  "note": "Adopt EDP 30ml. Le scent exact n'est pas tarife individuellement, mais toute la gamme 30ml Adopt = ~9.95-11.95 EUR en boutique/site. x270 = ~3200 DA. Le prix actuel 5100 DA inclut deja une marge import importante (Adopt non distribue en DZ). On ne descend pas sous le prix actuel : maintien 5100 DA. Confiance low car prix EU = prix de gamme, pas du flacon precis."
+ },
+ {
+  "slug": "afnan-9pm",
+  "recommendedDA": 8500,
+  "confidence": "high",
+  "euro": 31.5,
+  "euroX270": 8500,
+  "algerianDA": 8500,
+  "note": "EDP 100ml. notino.fr : 31.50 EUR (x270 = 8505 DA). Cross-check Algerie SOLIDE : Jumia DZ le vend 8500 DA. Le marche local fait foi et coincide pile avec la conversion EU. Prix actuel 7500 DA sous-evalue : remonter a 8500 DA."
+ },
+ {
+  "slug": "afnan-supremacy-noir",
+  "recommendedDA": 9500,
+  "confidence": "high",
+  "euro": 36.1,
+  "euroX270": 9747,
+  "algerianDA": null,
+  "note": "EDP 100ml. notino.fr : 36.10 EUR (x270 = 9747 DA). Pas de listing DZ credible trouve, mais conversion EU fiable. Prix actuel 8500 DA legerement sous-evalue : remonter a 9500 DA (arrondi sous la conversion brute, marge raisonnable cote Afnan)."
+ },
+ {
+  "slug": "ajmal-amber-wood",
+  "recommendedDA": 13500,
+  "confidence": "high",
+  "euro": 74,
+  "euroX270": 19980,
+  "algerianDA": null,
+  "note": "EDP 75ml (Amber Wood 2014, pas le Noir). notino.fr 100ml = 90.10 EUR ; 75ml ~0.82x = ~74 EUR. x270 = ~20000 DA. Le prix actuel 9000 DA est tres SOUS-EVALUE vs Europe (Amber Wood est un Ajmal premium recherche). Mais les Ajmal en DZ ne se vendent pas au plein tarif niche EU : remontee progressive a 13500 DA plutot que 20000 d'un coup. Confiance high sur le prix EU, prudence sur le pas algerien."
+ },
+ {
+  "slug": "ajmal-evoke-homme",
+  "recommendedDA": 7500,
+  "confidence": "medium",
+  "euro": 28,
+  "euroX270": 7560,
+  "algerianDA": null,
+  "note": "EDP 90ml. Sur notino, Evoke Him Gold 90ml = ~31.20 EUR ; l'Evoke for Him classique est equivalent ou un peu moins cher (~28 EUR). x270 = ~7560 DA. Prix actuel 6000 DA un peu bas : remonter a 7500 DA. Confiance medium (prix base sur la variante Gold, la version standard pouvant etre legerement inferieure)."
+ },
+ {
+  "slug": "ajmal-sacrifice-homme",
+  "recommendedDA": 5500,
+  "confidence": "medium",
+  "euro": 20,
+  "euroX270": 5400,
+  "algerianDA": null,
+  "note": "EDP 75ml. notino.fr affiche 25 EUR/100ml ; au prorata 75ml ~18-20 EUR (certains listings plancher ~25 EUR flacon). Base ~20 EUR. x270 = ~5400 DA. Le prix actuel 5500 DA colle deja a la conversion : maintien a 5500 DA. Confiance medium (volume 75ml deduit du tarif 100ml)."
+ },
+ {
+  "slug": "ajmal-evoke-femme",
+  "recommendedDA": 7500,
+  "confidence": "medium",
+  "euro": 28,
+  "euroX270": 7560,
+  "algerianDA": null,
+  "note": "Evoke Her EDP 75ml. notino.fr 40.95 EUR (cher), mais idealo.co.uk a partir de ~23.72 GBP (~28 EUR) : prix marche realiste ~28-30 EUR. x270 = ~7600 DA. Prix actuel 5500 DA sous-evalue : remonter a 7500 DA. Confiance medium (ecart notino vs idealo)."
+ },
+ {
+  "slug": "ajmal-sacrifice-pour-femme",
+  "recommendedDA": 5500,
+  "confidence": "medium",
+  "euro": 20,
+  "euroX270": 5400,
+  "algerianDA": null,
+  "note": "Sacrifice for Her EDP 50ml. notino.fr 24.80 EUR ; idealo.fr a partir de 16-19.50 EUR. Base marche ~20 EUR. x270 = ~5400 DA. Prix actuel 4000 DA sous-evalue : remonter a 5500 DA. Confiance medium (fourchette EU 16-25 EUR)."
+ },
+ {
+  "slug": "ajmal-aurum",
+  "recommendedDA": 7500,
+  "confidence": "high",
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "note": "Aurum EDP 75ml femme. notino.fr ~32.60 EUR (43.47/100ml proratise) ; idealo.co.uk a partir de ~23.22 GBP (~27 EUR). Base ~30 EUR. x270 = ~8100 DA. Prix actuel 7200 DA proche : remonter legerement a 7500 DA. Confiance high (prix 75ml trouve directement)."
+ },
+ {
+  "slug": "ajmal-wisal",
+  "recommendedDA": 6500,
+  "confidence": "medium",
+  "euro": 25,
+  "euroX270": 6750,
+  "algerianDA": null,
+  "note": "Wisal EDP 50ml femme. notino/idealo : a partir de 21.98 EUR, jusqu'a ~42 EUR selon vendeur. Base marche ~25 EUR. x270 = ~6750 DA. Prix actuel 6000 DA quasi aligne : remonter a 6500 DA. Confiance medium (large fourchette de prix EU)."
+ },
+ {
+  "slug": "rasasi-choco-musk",
+  "recommendedDA": 6500,
+  "confidence": "low",
+  "euro": 10,
+  "euroX270": 2700,
+  "algerianDA": null,
+  "note": "Choco Musk (marque reelle = Al Rehab, pas Rasasi). C'est un parfum arabe tres accessible : US/EU $6-21 selon volume, ~8-12 EUR le spray EDP. x270 = ~2700 DA, soit TRES en dessous du prix actuel 6500 DA. Produit clairement SUR-EVALUE vs marche EU/US. MAIS le plancher 'oriental accessible' en DZ (cf CLAUDE.md : 2000-4000 DA) reste atteignable ; baisser a 6500 DA reviendrait deja a -0, et descendre plus bas ferait perdre la marge. Recommandation : maintien 6500 DA (ne pas descendre sous le prix actuel) tout en signalant la sur-evaluation vs EU. Confiance low : pas de prix EUR exact pour ce flacon precis."
+ },
+ {
+  "slug": "amouage-reflection",
+  "recommendedDA": 98500,
+  "euro": 365,
+  "euroX270": 98550,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr 365 EUR pour le 100ml EDP (prix exact, ce produit). 365x270=98550. Prix actuel 98000 deja correct, alignement parfait sur le marche europeen. Pas de listing DZ trouve pour Reflection precisement (odorem-dz vend la gamme Amouage)."
+ },
+ {
+  "slug": "amouage-interlude-man",
+  "recommendedDA": 98500,
+  "euro": 365,
+  "euroX270": 98550,
+  "algerianDA": 61500,
+  "confidence": "high",
+  "note": "Notino.fr 365 EUR (100ml EDP). 365x270=98550. Cross-check DZ: odorem-dz.com affiche 61500 DA (specialiste niche, prix local plus agressif) et 7doors-parfum le reference aussi. Je garde 98500 (cible EUR x270) car c'est le tarif de reference; le 61500 DA local est un plancher concurrentiel a connaitre mais sous le prix actuel."
+ },
+ {
+  "slug": "amouage-dia-homme",
+  "recommendedDA": 98500,
+  "euro": 365,
+  "euroX270": 98550,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Gamme Amouage homogene a 365 EUR sur Notino (Dia Man EDP 100ml, prix officiel niche 395 USD). 365x270=98550. Pas de prix DZ specifique trouve. Prix actuel 98000 correct."
+ },
+ {
+  "slug": "amouage-lyric-femme",
+  "recommendedDA": 98500,
+  "euro": 365,
+  "euroX270": 98550,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr 365 EUR pour Lyric Woman EDP 100ml (prix exact confirme). 365x270=98550. Prix actuel 98000 correct, aucune sous/surevaluation."
+ },
+ {
+  "slug": "amouage-beloved-homme",
+  "recommendedDA": 98000,
+  "euro": 365,
+  "euroX270": 98550,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Beloved Man est DISCONTINUE: introuvable au prix retail, se vend en premium sur le marche secondaire (au-dessus de 365 EUR). Aucun listing Notino actif ni DZ trouve. Je garde le prix actuel 98000 (aligne sur le reste de la gamme Amouage); ne pas baisser, le produit est rare. Confiance medium car pas de prix retail vivant."
+ },
+ {
+  "slug": "anna-sui-dolly-girl",
+  "recommendedDA": 11000,
+  "euro": 42,
+  "euroX270": 11340,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Dolly Girl EDT 75ml est DISCONTINUE/rare: 44-56 USD (~40-50 EUR) chez les revendeurs (scentsational, ebay). Estime ~42 EUR pour 75ml. 42x270=11340 -> 11000. Prix actuel 7500 sous-evalue vu la rarete. Pas de listing DZ. Medium (produit discontinue, fourchette large)."
+ },
+ {
+  "slug": "antonio-banderas-the-secret",
+  "recommendedDA": 6500,
+  "euro": 25,
+  "euroX270": 6750,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Parfum budget/grande diffusion. Notino.fr 29,90 EUR (parfumsmoinschers 29,99 EUR, RRP 60). Marche reel discount souvent 15-20 EUR. Retiens ~25 EUR effectif -> 25x270=6750 -> 6500. Cross-check DZ: Antonio Banderas Blue Seduction ~7700 DA sur Jumia, coherent. Prix actuel 5500 un peu bas, leger ajustement."
+ },
+ {
+  "slug": "kalemat-arabian-oud",
+  "recommendedDA": 12500,
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Kalemat EDP 100ml Arabian Oud: 90-120 USD (~85-110 EUR) chez emiratesperfumes/intenseoud, 120 USD en boutique officielle. 85x270=22950 mais ce serait sur-evalue pour le marche algerien des orientaux accessibles (regle prix DZ: orientaux 2000-6000, premium au-dela). Aucun listing DZ credible trouve. Je remonte prudemment 9000->12500 sans coller au full EUR. Medium (pas de prix DZ, ecart EUR/marche local fort)."
+ },
+ {
+  "slug": "ariana-grande-cloud",
+  "recommendedDA": 11500,
+  "euro": 42,
+  "euroX270": 11340,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Cloud EDP 100ml: 114 EUR = RRP gonfle Notino, mais marche reel discount ~35-50 EUR (Lookfantastic 41 GBP ~48 EUR, Walmart 46 USD). Retiens ~42 EUR effectif -> 42x270=11340 -> 11500. Prix actuel 8500 sous le marche. Pas de prix DZ Jumia trouve. Medium (grand ecart RRP/discount)."
+ },
+ {
+  "slug": "club-de-nuit-intense-armaf",
+  "recommendedDA": 10500,
+  "euro": 33,
+  "euroX270": 8910,
+  "algerianDA": 10800,
+  "confidence": "high",
+  "note": "Club de Nuit Intense Man EDT 105ml: Notino.fr 33,30 EUR (33x270=8910). MAIS le marche DZ fait foi et il est plus cher: Jumia DZ 10800 DA, pafen-dz/7doors/odorem alignes. Best-seller Armaf tres demande en Algerie. Retiens 10500 (pondere sur le prix local 10800). Prix actuel 7500 nettement sous-evalue."
+ },
+ {
+  "slug": "club-de-nuit-women-armaf",
+  "recommendedDA": 9500,
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Club de Nuit Women EDP 105ml: Notino.fr ~31-33 EUR. 32x270=8640. Par coherence avec le best-seller Man (vendu 10800 DA en DZ) et la forte demande Armaf locale, je retiens 9500. Pas de prix DZ exact trouve pour la version Women. Prix actuel 7500 sous-evalue. Medium."
+ },
+ {
+  "slug": "armaf-club-de-nuit-intense-femme",
+  "recommendedDA": 9500,
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Club de Nuit Intense Woman EDP 105ml: Notino (avis clients <25 EUR, listing UK), gamme equivalente Women ~31-33 EUR. 32x270=8640. Aligne sur la demande Armaf DZ (Man a 10800 DA). Retiens 9500. Prix actuel 8000. Pas de listing DZ precis pour cette ref. Medium."
+ },
+ {
+  "slug": "armani-acqua-di-gioia",
+  "recommendedDA": 27000,
+  "confidence": "high",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "Notino.fr 100,70€/100ml EDP. 100€ x270 = 27000. Prix actuel 26000 quasi aligne, leger relevement a 27000. Aucune annonce algerienne credible trouvee."
+ },
+ {
+  "slug": "armani-si-fiori",
+  "recommendedDA": 26500,
+  "confidence": "high",
+  "euro": 95,
+  "euroX270": 25650,
+  "algerianDA": null,
+  "note": "Si Fiori EDP 100ml : plein ~131€ (Notino 148€), discount Origines ~85€. Prix marche reel ~95€. 95€ x270 = 25650, arrondi/aligne sur l'actuel a 26500. Pas d'annonce DZ credible."
+ },
+ {
+  "slug": "armani-emporio-she",
+  "recommendedDA": 26000,
+  "confidence": "high",
+  "euro": 92,
+  "euroX270": 24840,
+  "algerianDA": null,
+  "note": "Notino.fr 92,40€/100ml EDP. 92€ x270 = 24840. Legerement sous le prix actuel (26000) mais pas sur-evalue de facon flagrante : on garde 26000 (regle ne jamais descendre sous l'actuel). Pas d'annonce DZ."
+ },
+ {
+  "slug": "armani-stronger-with-you-only",
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "note": "Notino.fr 95,50€/100ml EDT plein, niveaux discount un peu plus bas, marche ~90€. 90€ x270 = 24300. Prix actuel 22000 sous le marche, releve a 24000. Pas d'annonce DZ credible."
+ },
+ {
+  "slug": "armani-acqua-di-gio-essenza",
+  "recommendedDA": 21000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Acqua di Gio Essenza (2012) DISCONTINUE : plus de listing detaillant EU fiable. Marche secondaire 75ml ~106-212 USD (Strawberrynet/LeParfumier). Produit rare, prix actuel 21000 coherent pour un discontinu : on garde. Confiance basse faute de prix EU courant ferme."
+ },
+ {
+  "slug": "armani-my-way-parfum",
+  "recommendedDA": 33000,
+  "confidence": "high",
+  "euro": 125,
+  "euroX270": 33750,
+  "algerianDA": null,
+  "note": "My Way Le Parfum (concentration Parfum) 90ml : retail EU ~125-130€ (officiel Armani, Notino affiche taux 244€/100ml soit ~bouteille 90ml premium). 125€ x270 = 33750. Prix actuel 29000 sous le marche, releve a 33000. Pas d'annonce DZ."
+ },
+ {
+  "slug": "armani-code-profumo",
+  "recommendedDA": 28000,
+  "confidence": "high",
+  "euro": 92,
+  "euroX270": 24840,
+  "algerianDA": null,
+  "note": "SUR-EVALUE. Code Profumo Parfum 110ml : Marionnaud/Origines des 92€ pour le 110ml. 92€ x270 = 24840. Prix actuel 33500 est ~35% au-dessus du marche EU. Recommande baisse a 28000 (compromis : gros flacon 110ml premium, on ne crashe pas le prix mais on le recale)."
+ },
+ {
+  "slug": "armani-stronger-with-you-freezing",
+  "recommendedDA": 22000,
+  "confidence": "low",
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "note": "Stronger With You Freeze (2020) DISCONTINUE / edition ete : trouve en discount EU ~35-50€ quand dispo. 45€ x270 = 12150, bien sous l'actuel 22000 MAIS produit discontinu/rare a sourcer, prix EU non representatif du cout reel d'appro en DZ. On garde 22000 et on signale l'ecart. Pas d'annonce DZ."
+ },
+ {
+  "slug": "azzaro-chrome",
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Chrome EDT 100ml: prix discount EU ~47-49EUR (My-Origines 49.30, idealo des 39.99). EUR x270 ~13000. Prix actuel 17000 superieur au calcul EU mais coherent marche local parfumeries DZ (frais import). On maintient 17000, pas de baisse."
+ },
+ {
+  "slug": "azzaro-wanted",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": 10500,
+  "recommendedDA": 17400,
+  "confidence": "high",
+  "note": "Wanted EDT 100ml: discount EU ~47-58EUR (meilleur 47.38, retail ~58). EUR x270 ~13500. Cross-check DZ: LEENA 10500 DA (probable tester/import gris). On garde 17400 aligne haut de gamme parfumerie DZ."
+ },
+ {
+  "slug": "azzaro-pour-homme",
+  "euro": 44,
+  "euroX270": 11880,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Azzaro Pour Homme EDT 100ml: Notino 44.20EUR, idealo des ~30EUR. EUR x270 ~11900. Le plus bas de la gamme cote EU. Prix actuel 17000 au-dessus du calcul mais on ne baisse pas (regle: jamais sous prix actuel)."
+ },
+ {
+  "slug": "azzaro-wanted-by-night",
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "high",
+  "note": "Wanted by Night EDP 100ml: discount EU ~55EUR (achat verifie 55EUR/100ml). EUR x270 ~14850. EDP premium homme. On maintient 20000, coherent positionnement."
+ },
+ {
+  "slug": "azzaro-chrome-cologne",
+  "euro": 47,
+  "euroX270": 12690,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "medium",
+  "note": "Chrome Cologne assimile a la ligne Chrome EDT standard (pas de variante 'Cologne' distincte chez Azzaro). Prix EU ~47EUR. EUR x270 ~12700. On aligne sur Chrome EDT 17000."
+ },
+ {
+  "slug": "azzaro-chrome-intense",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Chrome Intense EDT 100ml: discount EU ~48EUR (Cosma 48.17, retail 62-69EUR, eBay 39.90). EUR x270 ~13000-13500. On maintient 17000, coherent ligne Chrome."
+ },
+ {
+  "slug": "azzaro-chrome-legend",
+  "euro": 44,
+  "euroX270": 11880,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "high",
+  "note": "Chrome Legend EDT 125ml: discount EU ~39-46EUR (Sykz 38.74, Spartoo 45.65, idealo des 27.93). EUR x270 (44) ~11900 mais volume 125ml. Prix actuel 20000 nettement au-dessus du marche EU; flagrant pour un flanker ancien (2007). Maintenu par regle anti-baisse mais surveille comme potentiellement sur-evalue."
+ },
+ {
+  "slug": "azzaro-most-wanted",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "medium",
+  "note": "Most Wanted EDP = The Most Wanted Intense 100ml: idealo des 57.61EUR, US ~70USD. EUR x270 (60) ~16200. EDP recent premium. On maintient 20000."
+ },
+ {
+  "slug": "azzaro-chrome-aqua",
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Chrome Aqua EDT 100ml: discount EU ~38-56EUR (38.57 free delivery, ParfumsMoinsChers 55.99). Milieu ~45EUR x270 ~12150. On maintient 17000 (ligne Chrome)."
+ },
+ {
+  "slug": "azzaro-silver-black",
+  "euro": 42,
+  "euroX270": 11340,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Silver Black EDT 100ml: discount EU ~32-50EUR (Sykz 32, Spartoo 41.25, PMC 49.99). Milieu ~42EUR x270 ~11340. Flanker ancien (2005), prix EU bas. Maintenu 17000 par regle anti-baisse."
+ },
+ {
+  "slug": "azzaro-wanted-girl",
+  "euro": 62,
+  "euroX270": 16740,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Wanted Girl EDP 80ml: discount EU ~60-67EUR (meilleur 60.72, perfume's club 62.68, PMC 66.99). EUR x270 (62) ~16740. Tres aligne avec prix actuel 17000 (deja optimal)."
+ },
+ {
+  "slug": "azzaro-pour-femme",
+  "euro": 24,
+  "euroX270": 6480,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "low",
+  "note": "Ambiguite produit: la ligne femme actuelle Azzaro est 'Pour Elle' EDP 100ml a seulement ~23-25EUR (x270 ~6500), tres en dessous du prix actuel 20000 DA. Le vintage 'Azzaro pour Femme' (1975, discontinue) est introuvable en discount fiable. Si c'est la ligne moderne, 20000 est nettement sur-evalue (devrait etre ~7000). VERIFIER de quel produit il s'agit avant de fixer le prix; maintien 20000 faute de certitude (regle anti-baisse) mais signale comme suspect."
+ },
+ {
+  "slug": "azzaro-chrome-parfum",
+  "euro": 69,
+  "euroX270": 18630,
+  "algerianDA": null,
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "note": "Chrome Parfum (Chrome Le Parfum, lance 2023) 100ml: ~69EUR (Notino/retail). EUR x270 ~18630. Concentration la plus haute de la ligne Chrome. On maintient 24000, coherent positionnement premium."
+ },
+ {
+  "slug": "beyonce-heat",
+  "euro": 22,
+  "euroX270": 5940,
+  "algerianDA": null,
+  "recommendedDA": 7000,
+  "confidence": "high",
+  "note": "Beyonce Heat EDP 100ml: produit de degagement/celebrity, prix EU tres bas ~14-30EUR (Notino solde 14.13, retail ~30). Milieu ~22EUR x270 ~5940. Prix actuel 7000 deja coherent et legerement au-dessus du calcul EU. On maintient 7000 (pas de hausse justifiee, parfum bas de gamme)."
+ },
+ {
+  "slug": "burberry-brit-homme",
+  "recommendedDA": 19500,
+  "euro": 32.4,
+  "euroX270": 8748,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr 32,40 EUR/100ml EDT (x270 = 8 748 DA hors marge). Prix actuel 19 500 DA est tres au-dessus du discount europeen mais coherent avec le marche algerien des designers (marge importee + COD). Pas de listing DZ chiffre trouve. Maintien a 19 500 DA, on ne descend pas."
+ },
+ {
+  "slug": "goddess-burberry",
+  "recommendedDA": 23000,
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr plein tarif 100 EUR/100ml EDP (discounters ~70-80 EUR). Lancement recent 2023, tres demande, vendu partout en DZ (Jumia, Derma Luxe, Wasry, Leena). x270 plein tarif = 27 000 DA. Prix actuel 23 000 DA correct voire un peu bas vs euro plein; maintien 23 000 (marge couverte par le discount reel)."
+ },
+ {
+  "slug": "burberry-her",
+  "recommendedDA": 23000,
+  "euro": 71.9,
+  "euroX270": 19413,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr Her EDP 100ml en promo 71,90 EUR (mini 30j 75,80). x270 = 19 413 DA. Avec marge importation, 23 000 DA est justifie. Maintien."
+ },
+ {
+  "slug": "burberry-the-beat",
+  "recommendedDA": 16000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "The Beat EDT 75ml discontinue. Strawberrynet ~54 USD (~48 EUR) le 75ml. Raretes/discontinu = prix premium justifie. x270 = 12 960 DA mais le statut discontinu soutient 16 000 DA. Maintien."
+ },
+ {
+  "slug": "burberry-london-femme",
+  "recommendedDA": 23000,
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "London for Women EDP 100ml (2006), ancien, fortement discounte en Europe (~31-45 EUR, idealo des 31,45). x270 = 8 640 DA. Prix actuel 23 000 DA eleve vs euro mais classique floral toujours recherche en DZ. Pas de listing DZ chiffre. Maintien 23 000, on ne descend pas sans preuve de surevaluation locale."
+ },
+ {
+  "slug": "mr-burberry",
+  "recommendedDA": 19500,
+  "euro": 58.5,
+  "euroX270": 15795,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr Mr. Burberry EDT 100ml 58,50 EUR. x270 = 15 795 DA. Prix actuel 19 500 DA coherent avec marge. Maintien."
+ },
+ {
+  "slug": "my-burberry-blush",
+  "recommendedDA": 23000,
+  "euro": 87,
+  "euroX270": 23490,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Notino.co.uk My Burberry Blush EDP ~82,56 GBP/100ml => ~74 GBP les 90ml => ~87 EUR. x270 = 23 490 DA. Prix actuel 21 500 DA legerement sous le niveau euro; recale a 23 000 DA (arrondi 500)."
+ },
+ {
+  "slug": "burberry-weekend-homme",
+  "recommendedDA": 19500,
+  "euro": 34.5,
+  "euroX270": 9315,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.fr Weekend for Men EDT 100ml 34,50 EUR. x270 = 9 315 DA (discounter). Prix actuel 19 500 DA tres au-dessus mais aligne sur le plancher designer du catalogue. Maintien."
+ },
+ {
+  "slug": "my-burberry-black",
+  "recommendedDA": 25500,
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Notino.co.uk My Burberry Black Parfum ~84,67 GBP/100ml => ~76 GBP les 90ml => ~90 EUR. x270 = 24 300 DA. Concentration Parfum la plus chere. Prix actuel 25 500 DA bien aligne. Maintien."
+ },
+ {
+  "slug": "burberry-touch-homme",
+  "recommendedDA": 19500,
+  "euro": 41,
+  "euroX270": 11070,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.co.uk Touch for Men EDT 100ml 34,80 GBP (~41 EUR). x270 = 11 070 DA. Classique 2000, prix actuel 19 500 DA au-dessus du discount mais coherent marche DZ. Maintien."
+ },
+ {
+  "slug": "burberry-brit-femme",
+  "recommendedDA": 19500,
+  "euro": 38,
+  "euroX270": 10260,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.co.uk Brit for Her EDT 100ml 32,10 GBP (~38 EUR). x270 = 10 260 DA. Prix actuel 19 500 DA au-dessus du discount europeen, dans la norme designer DZ. Maintien."
+ },
+ {
+  "slug": "burberry-hero",
+  "recommendedDA": 19500,
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino.co.uk Hero EDT 100ml 33,85 GBP (~40 EUR, mini 30j 72 GBP plein). x270 = 10 800 DA au prix discount. Hero est un best-seller actuel tres demande; prix actuel 19 500 DA tenable. Maintien."
+ },
+ {
+  "slug": "burberry-sport-homme",
+  "recommendedDA": 19500,
+  "euro": 35,
+  "euroX270": 9450,
+  "algerianDA": null,
+  "confidence": "low",
+  "note": "Burberry Sport for Men (2010) largement discontinu; pas de prix euro propre trouve (75ml epuise chez Le Parfumier). Estimation ~35 EUR sur le marche residuel. x270 = 9 450 DA. Faute de source fiable, maintien du prix actuel 19 500 DA."
+ },
+ {
+  "slug": "burberry-weekend-femme",
+  "recommendedDA": 19500,
+  "euro": 26,
+  "euroX270": 7020,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Attention: Weekend for Women est commercialise en EDP (pas EDT). Notino.co.uk 22,20 GBP/100ml (~26 EUR). x270 = 7 020 DA (fortement discounte, ancien 1997). Prix actuel 19 500 DA tres au-dessus du discount mais aligne plancher designer DZ. Maintien, on ne descend pas sans preuve locale."
+ },
+ {
+  "slug": "burberry-london-homme",
+  "euro": 38.4,
+  "euroX270": 10368,
+  "algerianDA": null,
+  "recommendedDA": 14000,
+  "confidence": "high",
+  "note": "Notino.fr 38,40 EUR pour London for Men EDT 100ml (prix europeen clair, exact). EUR x270 = ~10 400 DA. Parfum ancien/quasi discontinue, donc tres bon marche en Europe. Le prix actuel de 19 500 DA est nettement au-dessus du marche : SUR-EVALUE. Listing algerien trouve (Palais des Parfums DZ) mais prix non extrait. Recommande 14 000 DA : on baisse vers le marche local Burberry homme (~11-14k DA) tout en gardant une marge COD, sans tomber au prix europeen brut."
+ },
+ {
+  "slug": "burberry-touch-femme",
+  "euro": 30.3,
+  "euroX270": 8181,
+  "algerianDA": 8900,
+  "recommendedDA": 11000,
+  "confidence": "medium",
+  "note": "Touch For Women est un parfum ancien (1998), souvent vendu au rabais. La version EDP est a 30,30 EUR sur Notino ; la version EDT exacte est en discount sur FragranceNet (prix EUR proche/inferieur). Cross-check Algerie credible : LEENA 8 900 DA. EUR x270 (~30 EUR) = ~8 200 DA, coherent avec le local. Le prix actuel 19 500 DA est SUR-EVALUE (x2 vs marche). Recommande 11 000 DA : au-dessus du local 8 900 DA pour marge COD, mais aligne sur la realite marche. Confiance medium car prix EUR de l'EDT exact non confirme au centime."
+ },
+ {
+  "slug": "burberry-goddess-intense",
+  "euro": 120,
+  "euroX270": 32400,
+  "algerianDA": null,
+  "recommendedDA": 32500,
+  "confidence": "high",
+  "note": "Notino.fr 120,00 EUR pour Goddess Intense EDP 100ml rechargeable (prix europeen clair, produit exact, sorti 2024, premium). EUR x270 = ~32 400 DA. En Algerie la gamme Goddess (version reguliere, pas Intense) se trouve 13 500-21 900 DA, mais l'Intense est plus recent et plus cher. Le prix actuel 23 000 DA est SOUS le marche europeen. Recommande 32 500 DA (arrondi 500) en se basant sur le prix EUR, l'Intense justifiant un premium vs le Goddess classique local."
+ },
+ {
+  "slug": "burberry-hero-parfum",
+  "euro": 63.93,
+  "euroX270": 17261,
+  "algerianDA": 14000,
+  "recommendedDA": 18000,
+  "confidence": "high",
+  "note": "Notino.fr 63,93 EUR pour Hero Parfum 100ml (prix europeen clair, produit exact, sorti 2024). EUR x270 = ~17 260 DA. Cross-check Algerie : Hero EDT 100ml a 14 000 DA (Pafen DZ) ; le Parfum est une concentration superieure donc legitime un peu plus cher. Le prix actuel 27 500 DA est AU-DESSUS du marche europeen (sur-evalue). Recommande 18 000 DA : aligne sur EUR x270 (~17 300) avec petite marge pour la concentration Parfum vs EDT local 14 000 DA."
+ },
+ {
+  "slug": "bvlgari-pour-homme-soir",
+  "recommendedDA": 30500,
+  "confidence": "medium",
+  "euro": 140,
+  "euroX270": 37800,
+  "algerianDA": null,
+  "note": "Parfum DISCONTINU/vaulte : Pour Homme Soir (2006) n'est plus produit, les prix ont flambe a ~140EUR+ en Europe (occasion/rarete). 140EUR x270 = 37800 DA, mais c'est un prix de rarete non representatif du marche algerien. Aucune annonce DZ trouvee. Je recommande de remonter modestement a 30500 DA (prix actuel 19500 sous-evalue pour un discontinu, mais ne pas aller au plein prix rarete car peu vendable). Confiance medium : produit reel mais prix volatil de collection."
+ },
+ {
+  "slug": "bvlgari-man-in-black",
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "euro": 92,
+  "euroX270": 24840,
+  "algerianDA": null,
+  "note": "Prix europeen clair et constant : 87,57EUR (ledenicheur) a 98,90EUR (notino.fr), retenu ~92EUR. 92EUR x270 = 24840 DA, arrondi 24000. Tres legere hausse vs 23000 actuel. Aucune annonce DZ fiable. Confiance high : EDP 100ml exact, en production, prix multi-sources."
+ },
+ {
+  "slug": "bvlgari-aqva",
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "euro": 81.9,
+  "euroX270": 22113,
+  "algerianDA": null,
+  "note": "Aqva Pour Homme EDT 100ml : 81,90EUR meilleur prix ledenicheur (3 marchands). 81,90 x270 = 22113 DA, arrondi 22000. Hausse vs 19500 actuel. En production, prix solide. Confiance high."
+ },
+ {
+  "slug": "bvlgari-omnia-crystalline",
+  "recommendedDA": 15000,
+  "confidence": "high",
+  "euro": 54.9,
+  "euroX270": 14823,
+  "algerianDA": null,
+  "note": "Omnia Crystalline EDT 65ml : 54,90EUR meilleur prix ledenicheur (7 marchands). 54,90 x270 = 14823 DA, arrondi 15000. Quasi aligne sur 14500 actuel, leger ajustement. Confiance high : concentration ET volume exacts."
+ },
+ {
+  "slug": "bvlgari-pour-femme",
+  "recommendedDA": 28000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Parfum DISCONTINU/vaulte par Bvlgari (cree 1994, retire). Les seuls prix sont des occasions/rarete : 269EUR+ sur comparateurs, 150-350USD sur eBay. Aucun prix retail normal ni annonce DZ. 269EUR x270 serait absurde (72000+). Je recommande une hausse moderee a 28000 (vs 23000) pour refleter la rarete sans gonfler artificiellement. Confiance low : pas de prix marche normal trouvable."
+ },
+ {
+  "slug": "bvlgari-aqva-amara",
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "note": "Aqva Amara EDT 100ml (2014) signale comme DISCONTINU sur Fragrantica ; encore liste sur notino.be. Pas de prix EUR retail propre isole, mais positionnement coherent avec Aqva Pour Homme (~82EUR) et Aqva line ~75-99EUR. Estime ~78EUR x270 = 21060, arrondi 21000. Hausse vs 19500. Confiance medium : estime depuis la gamme Aqva, pas de prix exact pour CE flacon."
+ },
+ {
+  "slug": "bvlgari-pour-homme",
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Bvlgari Pour Homme classique EDT 100ml (1996) largement remplace par la nouvelle 'Pour Homme EDP' (2024) ; l'EDT historique se rarefie. Pas de prix EUR propre isole sur les discounters (souvent epuise), positionnement gamme ~80EUR. 80EUR x270 = 21600, arrondi 22000. Hausse vs 19500. Confiance medium : prix estime depuis la gamme, EDT classique en fin de vie."
+ },
+ {
+  "slug": "bvlgari-man-wood-neroli",
+  "recommendedDA": 18500,
+  "confidence": "high",
+  "euro": 68.19,
+  "euroX270": 18411,
+  "algerianDA": null,
+  "note": "Man Wood Neroli EDP 100ml (2019) : 68,19EUR meilleur prix ledenicheur, ~73,99EUR notino (au lieu de 150). Retenu 68,19EUR x270 = 18411, arrondi 18500. ATTENTION : c'est NETTEMENT sous le prix actuel de 23000 DA. Le produit semble sur-evalue chez vous : le prix marche EUR le situe ~18500. Je recommande de baisser a 18500 (signale comme sur-evaluation). Confiance high : EDP 100ml exact, multi-sources."
+ },
+ {
+  "slug": "bvlgari-omnia-amethyste",
+  "recommendedDA": 15000,
+  "confidence": "medium",
+  "euro": 52,
+  "euroX270": 14040,
+  "algerianDA": null,
+  "note": "Omnia Amethyste EDT 65ml : pas de prix EUR propre isole (169EUR vu = coffret/outlier ecarte). Positionnement identique a sa soeur Omnia Crystalline EDT 65ml = 54,90EUR. Estime ~52EUR x270 = 14040 ; je garde 15000 pour rester au niveau Crystalline et ne pas descendre sous 15000 actuel. Confiance medium : aligne sur produit jumeau, pas de prix exact propre."
+ },
+ {
+  "slug": "bvlgari-splendida-magnolia",
+  "recommendedDA": 18000,
+  "confidence": "high",
+  "euro": 66.25,
+  "euroX270": 17888,
+  "algerianDA": null,
+  "note": "Splendida Magnolia Sensuel EDP 50ml (2018) : a partir de 66,25EUR (idealo/notino, fourchette 60-72EUR). 66,25EUR x270 = 17888, arrondi 18000. Hausse vs 15800 actuel. Confiance high : EDP 50ml exact en production."
+ },
+ {
+  "slug": "bulgari-omnia",
+  "recommendedDA": 17000,
+  "confidence": "medium",
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "note": "Omnia EDP 65ml (2003, l'originale brune) : a ete discontinuee puis reeditee. Pas de prix EUR retail propre clair (etsy ~39-44USD occasion, US ~83-117USD). Positionnement gamme Omnia ~50-55EUR retail. 55EUR x270 = 14850, mais sous le 17000 actuel. Comme produit reedite a faible distribution, je ne descends pas : je garde 17000. Confiance medium : pas de prix EUR retail exact, marche fragmente."
+ },
+ {
+  "slug": "bvlgari-rose-essentielle",
+  "recommendedDA": 26000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Parfum DISCONTINU (confirme par multiples sources/reviews). Disponible surtout en occasion : eBay 150-350USD selon etat. Aucun prix retail normal ni annonce DZ. Prix de rarete non x270-able directement. Je recommande une hausse moderee a 26000 (vs 23000) pour la rarete, sans gonfler artificiellement vu la faible liquidite. Confiance low : pas de prix marche normal."
+ },
+ {
+  "slug": "bvlgari-jasmin-noir",
+  "recommendedDA": 25000,
+  "confidence": "medium",
+  "euro": 92,
+  "euroX270": 24840,
+  "algerianDA": null,
+  "note": "Jasmin Noir 75ml : la version actuelle en production est 'Splendida Jasmin Noir' EDP, a partir de 97,49EUR (idealo). 'Mon Jasmin Noir' 75ml original surtout en occasion. Retenu ~92EUR (relance Splendida) x270 = 24840, arrondi 25000. Hausse vs 18500 actuel (sous-evalue vs marche actuel). Confiance medium : prix de la relance Splendida 75ml, pas du flacon historique exact."
+ },
+ {
+  "slug": "bvlgari-goldea",
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "note": "Goldea EDP 90ml (2015) : 62,99EUR en promo (parfumsmoinschers, ref 137,50EUR), prix marche regulier ~75-80EUR (Rose Goldea jumeau a 122-126EUR mais c'est une autre ref). Retenu ~78EUR x270 = 21060, arrondi 21500. Aligne sur 21500 actuel (juste). Confiance high : Goldea 90ml exact en production, prix coherent."
+ },
+ {
+  "slug": "bvlgari-pour-femme-soir",
+  "recommendedDA": 23000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Flanker Bvlgari discontinue/vaulte. Aucun prix europeen discount fiable pour CE produit exact : il ne se vend plus que sur le marche secondaire (eBay/Etsy), et le Pour Femme EDP standard affiche ~269EUR sur les comparateurs (prix gonfle de produit arrete, non representatif). Aucune annonce algerienne trouvee. Introuvable de facon credible -> on garde le prix actuel."
+ },
+ {
+  "slug": "bvlgari-aqva-divina",
+  "recommendedDA": 15000,
+  "confidence": "medium",
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "note": "Aqva Divina (2015) se vend surtout en discount/destockage : ~47-48 USD net (Strawberrynet 47 USD remise -48%, Glam Cosmetics 47.99 USD) pour un RRP affiche ~90 USD/90EUR. Prix discount ~48EUR x270 = 12960. Pas d'annonce DZ fiable trouvee. Le prix actuel 14900 est coherent entre discount et RRP -> on garde (arrondi a 15000). Confiance medium car marche tire par le destockage, pas par un prix EU plein clair."
+ },
+ {
+  "slug": "bvlgari-splendida-rose-rose",
+  "recommendedDA": 23000,
+  "confidence": "medium",
+  "euro": 75,
+  "euroX270": 20250,
+  "algerianDA": null,
+  "note": "Ligne active. Discount EU/US ~68 USD (~63EUR, TradeInn/Dressinn), RRP ~110-130EUR. Dispo en Algerie (sephalgerie.com) mais prix DA non affiche. Mediane marche ~75EUR x270 = 20250 ; haut de fourchette ~85EUR = 23000. Le prix actuel 23000 est au plafond defendable -> on garde."
+ },
+ {
+  "slug": "bvlgari-omnia-coral",
+  "recommendedDA": 17500,
+  "confidence": "high",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Ligne active, prix EU clair via comparateurs allemands (geizhals/billiger) : ~78-84EUR, RRP ~88EUR. 80EUR x270 = 21600. Le prix actuel 14500 est NETTEMENT sous le marche europeen pour ce 65ml -> hausse recommandee. Je prends 17500 (prudent, entre discount et plein, realiste pour un Omnia milieu de gamme en DZ) plutot que 21600 plein."
+ },
+ {
+  "slug": "bvlgari-goldea-roman-night",
+  "recommendedDA": 19500,
+  "confidence": "high",
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": 19600,
+  "note": "Donnee algerienne solide : Gallery Parfums DZ liste Goldea The Roman Night a 19600 DA (90ml) et la version Absolute a 20900 DA. RRP EU ~90EUR (50ml). Le marche local fait foi -> alignement sur 19600 (arrondi 19500). Note : le produit est en 75ml chez nous alors que la ligne standard Roman Night existe en 25/50/90ml (le 75ml correspond a la version Absolute Sensuelle) ; verifier le volume reel. Hausse legere vs 18500."
+ },
+ {
+  "slug": "boucheron-femme",
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "euro": 34,
+  "euroX270": 9180,
+  "algerianDA": null,
+  "note": "Boucheron Femme EDP 100ml a ~33,90 EUR sur Notino (prix discount plancher). x270 = ~9180 DA, soit bien sous le prix actuel. Mais c'est une grande maison joaillere, le prix actuel 17000 DA reste defendable pour un EDP designer. Pas de baisse ni de hausse: maintien a 17000."
+ },
+ {
+  "slug": "boucheron-homme",
+  "recommendedDA": 14500,
+  "confidence": "high",
+  "euro": 27,
+  "euroX270": 7290,
+  "algerianDA": null,
+  "note": "Boucheron pour Homme EDT 100ml a ~27 EUR sur Notino (discount). x270 = ~7290 DA. Le prix actuel 14500 est deja tres au-dessus du plancher europeen; maintien sans hausse."
+ },
+ {
+  "slug": "britney-spears-fantasy",
+  "recommendedDA": 6500,
+  "confidence": "high",
+  "euro": 22,
+  "euroX270": 5940,
+  "algerianDA": null,
+  "note": "Fantasy EDP 100ml ligne celebrite grand public a ~21-23 EUR (Notino, prix de base hors fausse promo affichee a 34,90). x270 = ~5940 DA. Le prix actuel 6500 est coherent avec la fourchette; maintien."
+ },
+ {
+  "slug": "britney-spears-curious",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 23,
+  "euroX270": 6210,
+  "algerianDA": null,
+  "note": "Curious EDP 100ml a 23,30 EUR sur Notino (note: le produit est un EDP, fiche annoncait EDT). x270 = ~6290 DA. Le prix actuel 5500 est legerement sous le marche europeen; leger ajustement a 6000 DA."
+ },
+ {
+  "slug": "kilian-love-dont-be-shy",
+  "recommendedDA": 63000,
+  "confidence": "high",
+  "euro": 235,
+  "euroX270": 63450,
+  "algerianDA": null,
+  "note": "Niche luxe Kilian. EDP 50ml RRP ~250 EUR, prix discount ~235 EUR (Strawberrynet ~262 USD remise). x270 = ~63000 DA. Le prix actuel 35000 est TRES sous le marche reel (presque la moitie). Forte recommandation de hausse a ~63000 DA."
+ },
+ {
+  "slug": "kilian-angels-share",
+  "recommendedDA": 63000,
+  "confidence": "high",
+  "euro": 235,
+  "euroX270": 63450,
+  "algerianDA": null,
+  "note": "Niche luxe Kilian. EDP 50ml meme grille que Love Don't Be Shy, ~235-250 EUR (50-ml.com, Sephora FR, Premiere Avenue). x270 = ~63000 DA. Prix actuel 35000 nettement sous-evalue; hausse recommandee a ~63000 DA."
+ },
+ {
+  "slug": "byredo-gypsy-water",
+  "recommendedDA": 66500,
+  "confidence": "high",
+  "euro": 246,
+  "euroX270": 66420,
+  "algerianDA": null,
+  "note": "Niche Byredo. EDP 100ml ~245-260 EUR (Notino, sources officielles ~260). Retenu 246 EUR (aligne sur Bal d'Afrique). x270 = ~66400 DA. Prix actuel 51000 sous le marche; hausse recommandee a ~66500 DA."
+ },
+ {
+  "slug": "byredo-bal-d-afrique",
+  "recommendedDA": 66500,
+  "confidence": "high",
+  "euro": 245,
+  "euroX270": 66150,
+  "algerianDA": null,
+  "note": "Niche Byredo. EDP 100ml a 245,00 EUR sur Notino.fr (prix clair). x270 = ~66150 DA. Prix actuel 51000 sous le marche; hausse recommandee a ~66500 DA."
+ },
+ {
+  "slug": "yes-i-am-cacharel",
+  "recommendedDA": 14900,
+  "confidence": "medium",
+  "euro": 84,
+  "euroX270": 22680,
+  "algerianDA": null,
+  "note": "Yes I Am EDP 75ml: fiche Notino affiche 111,87 EUR/100ml (RRP gonfle) soit ~84 EUR le 75ml, mais c'est un prix de liste rarement paye; les vrais prix discount Cacharel tournent autour de 30-45 EUR. Sans prix DZ credible trouve, le prix actuel 14900 DA est realiste pour un EDP Cacharel recent; maintien."
+ },
+ {
+  "slug": "amor-amor-cacharel",
+  "recommendedDA": 13000,
+  "confidence": "high",
+  "euro": 44,
+  "euroX270": 11880,
+  "algerianDA": 10500,
+  "note": "Amor Amor EDT 100ml a 39,41-49 EUR sur Notino/Marionnaud (deals). x270 = ~10600-13200 DA. Cross-check Algerie: 10500 DA sur leena-dz (annonce reelle). Le prix actuel 14500 est legerement au-dessus du marche local; leger ajustement a 13000 DA pour coller au marche algerien et au discount europeen."
+ },
+ {
+  "slug": "cacharel-noa",
+  "recommendedDA": 11000,
+  "confidence": "high",
+  "euro": 33,
+  "euroX270": 8910,
+  "algerianDA": null,
+  "note": "Noa EDT 100ml: vrais prix discount ~30-33 EUR (idealo dès 21, ledenicheur 32,99, Cosma 25,83). x270 = ~8900 DA. Le prix actuel 14500 est sensiblement au-dessus du marche europeen; ajustement a la baisse a 11000 DA (Noa est un classique accessible, sur-evalue a 14500)."
+ },
+ {
+  "slug": "cacharel-anais-anais",
+  "recommendedDA": 11000,
+  "confidence": "medium",
+  "euro": 37,
+  "euroX270": 9990,
+  "algerianDA": null,
+  "note": "Anais Anais EDT 100ml: fiche Notino RRP 130,67 EUR/100ml (liste gonflee non payee). Vrais prix discount ~37 EUR (bons-plans-malins 'moins de 37 EUR au lieu de 90'). x270 = ~10000 DA. Le prix actuel 14500 est au-dessus du marche reel; ajustement a 11000 DA (classique accessible sur-evalue)."
+ },
+ {
+  "slug": "cacharel-loulou",
+  "recommendedDA": 12000,
+  "confidence": "medium",
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "note": "Lou Lou EDP 100ml: Notino affiche 94 EUR RRP mais plus bas 30 jours = 29,90 EUR; prix discount reel ~30-45 EUR. x270 = ~10800 DA pour ~40 EUR. Le prix actuel 17000 est au-dessus du marche; ajustement a 12000 DA. EDP donc un peu au-dessus des EDT Cacharel."
+ },
+ {
+  "slug": "good-girl-carolina-herrera",
+  "euro": 92,
+  "euroX270": 24840,
+  "algerianDA": null,
+  "recommendedDA": 26800,
+  "confidence": "high",
+  "note": "Good Girl EDP 80ml, le best-seller CH. Prix discount EU clair: 86-98EUR (Kaufland 86, parfumsmoinschers 98), retail ~140EUR. 92EUR x270 = 24840. Prix actuel 26800 deja superieur a l'ancrage euro et coherent avec le statut iconique/forte demande en Algerie. On maintient 26800."
+ },
+ {
+  "slug": "good-girl-supreme-carolina-herrera",
+  "euro": 82,
+  "euroX270": 22140,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "Good Girl Supreme EDP 80ml (2020), flanker gourmand. Prix EU discount estime ~78-85EUR (memes detaillants que Good Girl, legerement moins cher car moins demande). 82EUR x270 = 22140. Recale a 22000 (proche actuel 21500, ancrage euro confirme)."
+ },
+ {
+  "slug": "212-vip-women-carolina-herrera",
+  "euro": 72,
+  "euroX270": 19440,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "note": "212 VIP Women EDP 80ml. Prix EU discount clair: 71,99EUR chez parfumsmoinschers (retail 121EUR). 72EUR x270 = 19440, sous le prix actuel. Le marche algerien soutient 21500 pour cette ligne 212 populaire; on ne descend pas. Maintien 21500."
+ },
+ {
+  "slug": "vip-rose-carolina-herrera",
+  "euro": 72,
+  "euroX270": 19440,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "medium",
+  "note": "212 VIP Rose EDP 80ml. Pas de prix EUR exact trouve (donnees surtout en USD: ~109USD retail), mais meme tier que 212 VIP Women (~72EUR discount). 72EUR x270 = 19440 sous l'actuel. Maintien 21500, aligne sur le marche local."
+ },
+ {
+  "slug": "carolina-herrera-212-men",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "note": "212 Men EDT 100ml (classique 1999). Prix EU discount bas: 53EUR (Sabina) a 67USD, c'est un parfum mature tres discounte. 60EUR x270 = 16200, bien sous l'actuel. Mais forte notoriete en Algerie; le prix local 21500 tient. Maintien 21500 (ne pas descendre)."
+ },
+ {
+  "slug": "carolina-herrera-212-vip-men",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "note": "212 VIP Men EDT 100ml. Prix EU: ~73EUR (beautycos 73,25EUR; sobelia 66,99GBP). 73EUR x270 = 19710 sous l'actuel. Ligne 212 VIP tres demandee homme en Algerie. Maintien 21500."
+ },
+ {
+  "slug": "212-sexy-women-carolina-herrera",
+  "euro": 70,
+  "euroX270": 18900,
+  "algerianDA": null,
+  "recommendedDA": 25000,
+  "confidence": "medium",
+  "note": "212 Sexy Women EDP 100ml. Prix EUR exact non trouve (USD: 65-77USD discount, retail plus haut). 70EUR x270 = 18900, nettement sous l'actuel 25000. L'actuel parait un peu eleve vs l'ancrage euro mais reste dans la fourchette designer locale; je maintiens 25000 sans le baisser, demande solide."
+ },
+ {
+  "slug": "good-girl-blush-carolina-herrera",
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "recommendedDA": 24500,
+  "confidence": "high",
+  "note": "Good Girl Blush EDP 80ml (2023), flanker recent. Notino ~143,75EUR/100ml retail; idealo/discount EU ~88-92EUR. 90EUR x270 = 24300. Recale a 24500 (au-dessus de l'actuel 21800, justifie par la nouveaute et l'ancrage euro)."
+ },
+ {
+  "slug": "carolina-herrera-212-vip-black",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "recommendedDA": 25000,
+  "confidence": "high",
+  "note": "212 VIP Black EDP 100ml. Prix EU: ~80EUR (notino.co.uk 79,80GBP ~= 80EUR). 80EUR x270 = 21600 sous l'actuel. Tres demande homme/soiree en Algerie. Maintien 25000 (concentration EDP, ne pas descendre)."
+ },
+ {
+  "slug": "carolina-herrera-212-sexy-men",
+  "euro": 68,
+  "euroX270": 18360,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "note": "212 Sexy Men EDT 100ml. Prix EU discount: 66,99GBP (sobelia), ~72GBP (Beauty Base). ~68EUR. 68EUR x270 = 18360 sous l'actuel. Maintien 21500 aligne sur le marche local."
+ },
+ {
+  "slug": "carolina-herrera-very-good-girl",
+  "euro": 94,
+  "euroX270": 25380,
+  "algerianDA": null,
+  "recommendedDA": 27800,
+  "confidence": "high",
+  "note": "Very Good Girl EDP 80ml (2021). Prix EU clair: 94,59EUR a partir de (idealo.fr). 94EUR x270 = 25380. Prix actuel 27800 deja superieur a l'ancrage et coherent avec le positionnement premium/recent du flanker. Maintien 27800."
+ },
+ {
+  "slug": "carolina-herrera-chic",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "recommendedDA": 25000,
+  "confidence": "low",
+  "note": "CH 'Chic' femme 100ml: ambiguite produit. Le 'Chic' femme (2008) est discontinue/rare; la ligne CH femme actuelle (EDT/EDP 100ml) se trouve ~79,99EUR (parfumsmoinschers). Prix exact pour CE produit non confirme. 80EUR x270 = 21600. Faute de donnee fiable sur le bon ref, je maintiens l'actuel 25000."
+ },
+ {
+  "slug": "carolina-herrera-212-men-edp",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 25000,
+  "confidence": "low",
+  "note": "'212 Men EDP' n'existe pas en standard chez CH: 212 Men est uniquement EDT. Probable doublon/erreur de fiche ou EDP non officiel. Aucun prix marche fiable pour une version EDP. Je maintiens l'actuel 25000; a verifier/clarifier la fiche produit (possible confusion avec 212 Men EDT ou 212 VIP Men)."
+ },
+ {
+  "slug": "carolina-herrera-bad-boy",
+  "euro": 70,
+  "euroX270": 18900,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "medium",
+  "note": "Bad Boy EDT 100ml (le flacon eclair, pendant masculin de Good Girl). Prix EUR exact non isole (notino.co.uk en GBP, caretobeauty/heinemann listent ~65-75EUR equiv). Estimation ~70EUR x270 = 18900 sous l'actuel. Tres demande jeune public en Algerie. Maintien 21500."
+ },
+ {
+  "slug": "carolina-herrera-bad-boy-parfum",
+  "recommendedDA": 21000,
+  "confidence": "high",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": 20900,
+  "note": "Produit sur-evalue vs marche local. Listings algeriens credibles concordants pour ce produit exact (Le Parfum 100ml) : Odorem DZ 19500 DA, Must Beauty (chaine de parfumeries) 20900 DA, aussi dispo Pafen/Leena/Jumia DZ/Ouedkniss. Prix Europe ~70-95 EUR (notino.fr) soit ~19000-25000 DA x270. Le prix actuel de 30000 DA depasse nettement le marche algerien reel. Recommandation alignee sur le haut de la fourchette locale credible (Must Beauty 20900) arrondi a 21000 DA. Baisse depuis 30000 justifiee par sur-evaluation confirmee par les sources locales."
+ },
+ {
+  "slug": "ck-one",
+  "euro": 21.55,
+  "euroX270": 5819,
+  "algerianDA": null,
+  "recommendedDA": 13400,
+  "confidence": "high",
+  "note": "Prix EU clair: CK One EDT 100ml a 21,55 EUR sur notino.fr (classique discount, tres bon marche en Europe). EU x270 = ~5800 DA, bien sous le prix actuel. Listing Jumia DZ existe (format 200ml) mais sans prix lisible. Le prix actuel 13400 DA reflete le positionnement local CK et ne doit pas baisser. Maintenu."
+ },
+ {
+  "slug": "euphoria-calvin-klein",
+  "euro": 37.9,
+  "euroX270": 10233,
+  "algerianDA": null,
+  "recommendedDA": 15800,
+  "confidence": "high",
+  "note": "Prix EU clair: Euphoria femme EDP 100ml a 37,90 EUR sur notino.fr. EU x270 = ~10200 DA. Le prix actuel 15800 DA est deja au-dessus du marche EU x270, on ne descend pas. Cross-check Jumia DZ trouve mais sans prix expose. Maintenu."
+ },
+ {
+  "slug": "eternity-homme-ck",
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "recommendedDA": 12000,
+  "confidence": "high",
+  "note": "Eternity for Men EDT 100ml ~40 EUR chez les discounters FR (parfumsmoinschers 39,99 EUR vs 122 EUR PVP). EU x270 = ~10800 DA. Prix actuel 12000 DA legerement au-dessus, coherent. Maintenu."
+ },
+ {
+  "slug": "obsession-femme-ck",
+  "euro": 52.4,
+  "euroX270": 14148,
+  "algerianDA": null,
+  "recommendedDA": 14000,
+  "confidence": "high",
+  "note": "Prix EU clair: Obsession femme EDP 100ml a 52,40 EUR sur notino.fr. EU x270 = ~14150 DA, quasi pile sur le prix actuel 14000 DA. Tres bien calibre. Maintenu."
+ },
+ {
+  "slug": "eternity-femme-ck",
+  "euro": 39.7,
+  "euroX270": 10719,
+  "algerianDA": null,
+  "recommendedDA": 14000,
+  "confidence": "high",
+  "note": "Prix EU clair: Eternity For Women EDP 100ml a 39,70 EUR sur notino.fr. EU x270 = ~10700 DA. Prix actuel 14000 DA au-dessus du marche EU, on ne descend pas. Maintenu."
+ },
+ {
+  "slug": "ck-be-calvin-klein",
+  "euro": 30.4,
+  "euroX270": 8208,
+  "algerianDA": null,
+  "recommendedDA": 19500,
+  "confidence": "high",
+  "note": "Prix EU clair: CK Be EDT 200ml a ~30,40 EUR (notino/ledenicheur), c'est un grand format pas cher en Europe. EU x270 = ~8200 DA, tres en-dessous du prix actuel 19500 DA. ATTENTION: le prix actuel parait sur-evalue vs marche EU pour ce 200ml; a surveiller, mais conserve car on ne baisse pas sans prix marche DZ confirme."
+ },
+ {
+  "slug": "ck-free-calvin-klein",
+  "euro": 35.8,
+  "euroX270": 9666,
+  "algerianDA": null,
+  "recommendedDA": 12000,
+  "confidence": "high",
+  "note": "Prix EU clair: CK Free EDT homme 100ml a 35,80 EUR sur notino.fr. EU x270 = ~9700 DA. Prix actuel 12000 DA au-dessus du marche EU, coherent. Maintenu."
+ },
+ {
+  "slug": "escape-femme-calvin-klein",
+  "euro": 25.9,
+  "euroX270": 6993,
+  "algerianDA": null,
+  "recommendedDA": 14000,
+  "confidence": "high",
+  "note": "Prix EU: Escape for Women EDP 100ml a 25,90 EUR sur notino.fr (fortement brade, PVP 81 EUR). EU x270 = ~7000 DA, loin sous le prix actuel 14000 DA. Le prix actuel parait sur-evalue vs discount EU; conserve faute de prix marche DZ confirme, mais a surveiller."
+ },
+ {
+  "slug": "calvin-klein-eternity-homme",
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "recommendedDA": 12000,
+  "confidence": "high",
+  "note": "Doublon catalogue de Eternity for Men EDT 100ml. ~40 EUR chez les discounters FR. EU x270 = ~10800 DA. Prix actuel 12000 DA coherent. Maintenu (aligne avec eternity-homme-ck)."
+ },
+ {
+  "slug": "calvin-klein-eternity-femme",
+  "euro": 39.7,
+  "euroX270": 10719,
+  "algerianDA": null,
+  "recommendedDA": 14000,
+  "confidence": "high",
+  "note": "Doublon catalogue de Eternity For Women EDP 100ml a 39,70 EUR sur notino.fr. EU x270 = ~10700 DA. Prix actuel 14000 DA au-dessus du marche EU, on ne descend pas. Maintenu (aligne avec eternity-femme-ck)."
+ },
+ {
+  "slug": "bleu-de-chanel",
+  "euro": 109,
+  "euroX270": 29430,
+  "algerianDA": 23000,
+  "recommendedDA": 28000,
+  "confidence": "high",
+  "note": "EDP 100ml: floor europeen idealo ~109EUR (x270=29 430 DA), Sephora retail ~135EUR. Marche Algerie: LEENA 20 500, AlgerieParfums 19 000-29 000, Keyna. Le local est sous le x270. Prix actuel 30 000 legerement haut vs le bas du marche local; je recale a 28 000 (entre floor EU et haut local). Best-seller homme, marge confortable conservee."
+ },
+ {
+  "slug": "coco-mademoiselle-chanel",
+  "euro": 133,
+  "euroX270": 35910,
+  "algerianDA": null,
+  "recommendedDA": 33000,
+  "confidence": "high",
+  "note": "EDP 100ml: idealo ~133EUR floor (x270=35 910 DA), full retail ~158EUR. Aucun prix Algerie 100ml credible trouve (Keyna/Wasry sans tarif affiche). Le x270 justifie de monter; je passe de 30 000 a 33 000 (sous le floor EU pour rester competitif COD). Best-seller femme absolu."
+ },
+ {
+  "slug": "chanel-no5",
+  "euro": 124,
+  "euroX270": 33480,
+  "algerianDA": null,
+  "recommendedDA": 32000,
+  "confidence": "high",
+  "note": "N°5 EDP 100ml: idealo floor ~124EUR (x270=33 480 DA), retail ~165EUR. Pas de prix Algerie 100ml fiable (listings 900-3700 DA = miniatures/contrefacons, a ignorer). Le x270 soutient une hausse; je recale 30 000 -> 32 000, sous le floor EU."
+ },
+ {
+  "slug": "chance-eau-tendre-chanel",
+  "euro": 76,
+  "euroX270": 20520,
+  "algerianDA": 23000,
+  "recommendedDA": 23000,
+  "confidence": "high",
+  "note": "EDT 100ml: floor europeen ~76EUR (x270=20 520 DA). Cross-check Algerie: Chance EDP 100ml a 23 000 DA chez ATAKOOR (la gamme Chance se vend ~23 000 localement). Le prix actuel 25 500 est legerement au-dessus du marche local et du x270; je recale a 23 000 pour coller au marche algerien (qui fait foi)."
+ },
+ {
+  "slug": "allure-homme-sport-chanel",
+  "euro": 103,
+  "euroX270": 27810,
+  "algerianDA": null,
+  "recommendedDA": 27500,
+  "confidence": "high",
+  "note": "EDT 100ml: idealo floor ~103EUR (x270=27 810 DA), retail ~127EUR. Pas de tarif Algerie 100ml net (listings Tunisie/Maroc + 50ml). Le x270 justifie une hausse: 25 500 -> 27 500. Tres demande en homme sportif."
+ },
+ {
+  "slug": "allure-homme-chanel",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "recommendedDA": 25500,
+  "confidence": "medium",
+  "note": "ATTENTION concentration: Allure Homme n'existe QUE en EDT chez Chanel, il n'y a pas d'EDP officiel (le champ dit EDP -> a corriger en EDT). Floor EDT 100ml ~73EUR (x270=19 710), retail ~133EUR Avenue des Parfums. Large fourchette. Je maintiens 25 500 (dans la plage retail) sans descendre. Verifier/corriger la concentration en base."
+ },
+ {
+  "slug": "allure-femme-chanel",
+  "euro": 129,
+  "euroX270": 34830,
+  "algerianDA": null,
+  "recommendedDA": 32000,
+  "confidence": "medium",
+  "note": "Allure EDP femme 100ml: idealo retail ~129EUR (x270=34 830), discount ~88EUR. Pas de prix Algerie isole pour Allure classique (Allure Sensuelle a 35 000 chez Derma Luxe = reference proche). Le x270 retail soutient une legere hausse 30 000 -> 32 000. Parfum moins grand public, prudence."
+ },
+ {
+  "slug": "chanel-chance-eau-fraiche",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": 23000,
+  "recommendedDA": 23000,
+  "confidence": "high",
+  "note": "EDT 100ml: idealo floor ~80EUR (x270=21 600 DA). Cross-check gamme Chance Algerie ~23 000 (ATAKOOR EDP). Prix actuel 25 500 un peu au-dessus du marche local et du x270; recale a 23 000 pour rester aligne sur le marche algerien."
+ },
+ {
+  "slug": "bleu-de-chanel-parfum",
+  "euro": 136,
+  "euroX270": 36720,
+  "algerianDA": null,
+  "recommendedDA": 36000,
+  "confidence": "high",
+  "note": "Concentration Parfum (la plus haute, > EDP): Sephora 136,50EUR en promo (retail 182EUR), idealo Parfum ~135-150EUR. x270 = 36 720 DA. Prix actuel 36 000 est pile dans la cible. Je maintiens 36 000 (le local 7Doors propose 'Le Parfm' sans tarif net, pas de baisse justifiee)."
+ },
+ {
+  "slug": "gabrielle-chanel",
+  "euro": 136,
+  "euroX270": 36720,
+  "algerianDA": 22000,
+  "recommendedDA": 30000,
+  "confidence": "high",
+  "note": "EDP 100ml: idealo floor ~136EUR (x270=36 720), retail ~165EUR. MAIS cross-check Algerie net: ATAKOOR Gabrielle EDP 100ml = 22 000 DA. Gros ecart marche local vs EU. Le prix actuel 30 000 est deja au-dessus du local; je le maintiens a 30 000 (ne pas descendre, marge OK) sans monter vers le x270 car le marche local fait foi et est bien plus bas."
+ },
+ {
+  "slug": "coco-noir-chanel",
+  "euro": 133,
+  "euroX270": 35910,
+  "algerianDA": null,
+  "recommendedDA": 32000,
+  "confidence": "high",
+  "note": "EDP 100ml: idealo.fr retail ~133EUR (x270=35 910), idealo.es discount ~70EUR (large amplitude selon marche). Pas de prix Algerie isole. Le x270 retail soutient une hausse mesuree 30 000 -> 32 000, en restant sous le floor EU haut."
+ },
+ {
+  "slug": "egoiste-chanel",
+  "euro": 102,
+  "euroX270": 27540,
+  "algerianDA": null,
+  "recommendedDA": 27500,
+  "confidence": "high",
+  "note": "Egoiste (original, pas Platinum) EDT 100ml: idealo ~102EUR floor, Marionnaud retail ~152EUR. x270 floor = 27 540 DA. Pas de tarif Algerie net. Le x270 justifie une hausse 25 500 -> 27 500. Egoiste est un parfum de niche/recherche, demande limitee donc prudence."
+ },
+ {
+  "slug": "chanel-allure-sensuelle",
+  "euro": 119,
+  "euroX270": 32130,
+  "algerianDA": 35000,
+  "recommendedDA": 34000,
+  "confidence": "high",
+  "note": "Allure Sensuelle EDP 100ml: idealo retail ~119EUR (x270=32 130), discount ~88EUR. Cross-check Algerie: Derma Luxe 35 000 DA (marche local PLUS haut que le x270, rare). Le local fait foi -> je monte 30 000 -> 34 000 (entre le x270 et le 35 000 local)."
+ },
+ {
+  "slug": "chanel-allure-homme",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "recommendedDA": 25500,
+  "confidence": "medium",
+  "note": "Doublon d'Allure Homme EDT 100ml (meme produit que allure-homme-chanel mais champ EDT, ce qui est la BONNE concentration). Floor idealo ~73EUR (x270=19 710), retail Avenue des Parfums ~133EUR. Large fourchette, marche local inconnu. Je maintiens 25 500 (plage retail), pas de baisse. NB: doublon a fusionner avec allure-homme-chanel en base."
+ },
+ {
+  "slug": "chanel-allure-femme",
+  "euro": 129,
+  "euroX270": 34830,
+  "algerianDA": null,
+  "recommendedDA": 35000,
+  "confidence": "high",
+  "note": "Allure EDP 100ml ~129EUR au meilleur prix marche europeen (idealo.fr ~129,20EUR; chez Chanel boutique ~150EUR). 129x270=34830, arrondi 35000. Au-dessus du prix actuel 30000."
+ },
+ {
+  "slug": "chanel-chance-eau-tendre",
+  "euro": 129,
+  "euroX270": 34830,
+  "algerianDA": null,
+  "recommendedDA": 35000,
+  "confidence": "high",
+  "note": "Chance Eau Tendre EDP 100ml ~129,20EUR (idealo.fr). 129x270=34830, arrondi 35000. Au-dessus du prix actuel 30000."
+ },
+ {
+  "slug": "chanel-coco",
+  "euro": 115,
+  "euroX270": 31050,
+  "algerianDA": null,
+  "recommendedDA": 31500,
+  "confidence": "high",
+  "note": "Coco EDP 100ml: ~105EUR (Sephora.fr promo) a ~128EUR (Flaconi); retenu ~115EUR mediane discount. 115x270=31050, arrondi 31500. Legerement au-dessus du prix actuel 30000."
+ },
+ {
+  "slug": "chanel-cristalle",
+  "euro": 118,
+  "euroX270": 31860,
+  "algerianDA": null,
+  "recommendedDA": 32000,
+  "confidence": "high",
+  "note": "Cristalle EDT 100ml: idealo.fr des ~115,50EUR, Sephora ~123EUR; retenu ~118EUR. 118x270=31860, arrondi 32000. Au-dessus du prix actuel 25500 (sous-evalue)."
+ },
+ {
+  "slug": "chanel-chance",
+  "euro": 110,
+  "euroX270": 29700,
+  "algerianDA": null,
+  "recommendedDA": 30000,
+  "confidence": "high",
+  "note": "Chance EDT 100ml: Sephora.fr 97,50EUR (promo), idealo.fr ~118,80EUR; retenu ~110EUR. 110x270=29700, arrondi 30000. Au-dessus du prix actuel 25500."
+ },
+ {
+  "slug": "chanel-n5-eau-premiere",
+  "euro": 138,
+  "euroX270": 37260,
+  "algerianDA": null,
+  "recommendedDA": 37500,
+  "confidence": "high",
+  "note": "N5 Eau Premiere EDP 100ml ~137,90EUR (Flaconi.fr). 138x270=37260, arrondi 37500. Au-dessus du prix actuel 30000 (sous-evalue, c'est un des N5 les plus chers)."
+ },
+ {
+  "slug": "chanel-chance-eau-vive",
+  "euro": 135,
+  "euroX270": 36450,
+  "algerianDA": null,
+  "recommendedDA": 36500,
+  "confidence": "medium",
+  "note": "Chance Eau Vive EDT 100ml: Flaconi.fr 148EUR, page idealo.fr existante; meilleur prix marche estime ~130-135EUR. Retenu 135EUR. 135x270=36450, arrondi 36500. Au-dessus du prix actuel 25500."
+ },
+ {
+  "slug": "chanel-coco-mademoiselle-intense",
+  "euro": 125,
+  "euroX270": 33750,
+  "algerianDA": null,
+  "recommendedDA": 34000,
+  "confidence": "high",
+  "note": "Coco Mademoiselle Intense EDP 100ml: idealo.fr ~119-133,80EUR; retenu ~125EUR. 125x270=33750, arrondi 34000. Au-dessus du prix actuel 30000."
+ },
+ {
+  "slug": "chanel-n5-parfum",
+  "euro": 75,
+  "euroX270": 20250,
+  "algerianDA": null,
+  "recommendedDA": 23600,
+  "confidence": "low",
+  "note": "Ambiguite concentration/volume: le slug indique Parfum/extrait 35ml mais le prix actuel (23600 DA ~87EUR) correspond plutot a l'EDP 35ml (idealo ~63EUR, Flaconi 75,90EUR). Le vrai Parfum extrait 35ml vaut bien plus (>170EUR retail). Si c'est l'EDP 35ml, 75x270=20250 serait SOUS le prix actuel: on NE descend PAS, on garde 23600. Si c'est l'extrait, le prix actuel est tres sous-evalue. A clarifier; conserve 23600 par prudence."
+ },
+ {
+  "slug": "chanel-gabrielle-essence",
+  "euro": 136,
+  "euroX270": 36720,
+  "algerianDA": null,
+  "recommendedDA": 37000,
+  "confidence": "high",
+  "note": "Gabrielle Chanel Essence EDP 100ml ~136EUR au meilleur prix (idealo.fr); le 75EUR vu ailleurs etait un format 35ml. 136x270=36720, arrondi 37000. Au-dessus du prix actuel 30000."
+ },
+ {
+  "slug": "declaration-cartier",
+  "euro": 72,
+  "euroX270": 19440,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "Declaration EDT 100ml en discount EU ~72 EUR (leDenicheur bas 71,75 EUR; plein tarif ~93 EUR). x270 = 19 440 DA, sous le prix actuel. On garde 22 000 DA (deja au-dessus du marche EU, marge correcte). Pas de listing DZ credible trouve."
+ },
+ {
+  "slug": "cartier-declaration-d-un-soir",
+  "euro": 47,
+  "euroX270": 12690,
+  "algerianDA": null,
+  "recommendedDA": 16000,
+  "confidence": "high",
+  "note": "Declaration d'un Soir EDT 100ml ~46,86 EUR discount (leDenicheur). x270 = 12 690 DA. Le prix actuel 22 000 DA est clairement SUR-EVALUE (~+73% vs marche). Recommande baisse a 16 000 DA pour rester credible tout en gardant une marge. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "cartier-baiser-vole",
+  "euro": 65,
+  "euroX270": 17550,
+  "algerianDA": null,
+  "recommendedDA": 19000,
+  "confidence": "medium",
+  "note": "Baiser Vole EDP 100ml: discount EU ~55-70 EUR (parfumsmoinschers 99,99 plein, idealo des 94,50; vrais discounts mid ~65 EUR). x270 = 17 550 DA. Actuel 26 000 DA un peu sur-evalue. Recommande 19 000 DA. Pas de listing DZ credible."
+ },
+ {
+  "slug": "pasha-cartier-homme",
+  "euro": 72,
+  "euroX270": 19440,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "Pasha de Cartier EDT 100ml: discount EU ~70-80 EUR (idealo des 69,95; leDenicheur 80,25). Mediane ~72 EUR x270 = 19 440 DA, sous le prix actuel. On garde 22 000 DA. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "cartier-la-panthere",
+  "euro": 98,
+  "euroX270": 26460,
+  "algerianDA": null,
+  "recommendedDA": 26500,
+  "confidence": "medium",
+  "note": "La Panthere EDP 75ml: peu d'offres directes (leDenicheur 75ml indisponible). 50ml discount ~82 EUR (idealo), 100ml ~100 EUR; le 75ml interpole ~95-100 EUR. x270 ~26 460 DA. Actuel 21 000 DA est SOUS le marche -> hausse a 26 500 DA. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "cartier-santos-homme",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "Santos de Cartier EDT 100ml: discount EU ~78 EUR (sykz.fr 78,57 livraison incluse). x270 = 21 060 DA, tres proche du prix actuel. On garde 22 000 DA. Pas de listing DZ credible."
+ },
+ {
+  "slug": "cartier-must-de-cartier",
+  "euro": 102,
+  "euroX270": 27540,
+  "algerianDA": null,
+  "recommendedDA": 26000,
+  "confidence": "medium",
+  "note": "Must de Cartier (femme) EDT 100ml: parfum quasi-discontinue, prix EU eleves ~102 EUR (leDenicheur des 101,87). x270 = 27 540 DA. Actuel 22 000 DA sous le marche -> hausse a 26 000 DA. Raretе justifie. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "cartier-must-pour-homme",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "low",
+  "note": "Must de Cartier pour Homme EDT 100ml: DISCONTINUE, plus de prix discount EU fiable (dispo surtout eBay/marche secondaire, large fourchette ~65-340 USD selon etat). Aucun prix EU propre ni listing DZ trouve -> on garde le prix actuel 22 000 DA."
+ },
+ {
+  "slug": "cartier-carat",
+  "euro": 67.5,
+  "euroX270": 18225,
+  "algerianDA": null,
+  "recommendedDA": 19500,
+  "confidence": "high",
+  "note": "Carat EDP 100ml: discount EU 67,50 EUR (leDenicheur). x270 = 18 225 DA. Le prix actuel 26 000 DA est SUR-EVALUE (~+43% vs marche). Recommande baisse a 19 500 DA. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "cerruti-1881-homme",
+  "euro": 28,
+  "euroX270": 7560,
+  "algerianDA": null,
+  "recommendedDA": 9000,
+  "confidence": "high",
+  "note": "1881 pour Homme EDT 100ml: discount EU tres bas ~26-29 EUR (leDenicheur des 26,19; Notino 29,10). x270 = 7 560 DA. Actuel 11 000 DA SUR-EVALUE. Recommande 9 000 DA (au-dessus du marche EU mais credible local). Pas de listing DZ trouve."
+ },
+ {
+  "slug": "cerruti-1881-femme",
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "recommendedDA": 9000,
+  "confidence": "high",
+  "note": "1881 pour Femme EDT 100ml: discount EU ~30 EUR (beautyjulia 29,95; parfumsmoinschers 34,99). x270 = 8 100 DA. Actuel 11 000 DA un peu sur-evalue. Recommande 9 000 DA. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "chloe-signature",
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "recommendedDA": 20500,
+  "confidence": "high",
+  "note": "Signature EDP 75ml trouve a 45-64EUR chez discounters (notino, best ~45.36EUR). Euro x270 ~14850 DA, mais le prix DZ actuel inclut la prime import; le marche europeen ne justifie pas de baisser sous l'actuel. Maintenu a 20500. Pas d'annonce DZ en ligne credible trouvee."
+ },
+ {
+  "slug": "chloe-nomade",
+  "euro": 47,
+  "euroX270": 12690,
+  "algerianDA": null,
+  "recommendedDA": 20500,
+  "confidence": "high",
+  "note": "Nomade EDP 75ml ~46.95EUR chez Avenue des Parfums (discount). Euro x270 ~12690 DA. Comme les autres EDP 75ml Chloe, on garde 20500 (prime import DZ), pas de baisse. Aucun listing DZ credible."
+ },
+ {
+  "slug": "chloe-fleur-de-parfum",
+  "euro": 84,
+  "euroX270": 22680,
+  "algerianDA": null,
+  "recommendedDA": 25000,
+  "confidence": "high",
+  "note": "Fleur de Parfum EDP 100ml ~84.20EUR sur Notino. Euro x270 ~22680 DA. Prix actuel 25000 coherent (legere prime import sur le 100ml). Maintenu. Pas de prix DZ en ligne."
+ },
+ {
+  "slug": "chloe-l-eau-de-chloe",
+  "euro": 133,
+  "euroX270": 35910,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "medium",
+  "note": "L'Eau de Chloe EDT 100ml ~133EUR (parfumsmoinschers), gamme plus rare/elevee. Euro x270 ~35910 DA, donc l'actuel 21500 est BAS vs Europe mais c'est une EDT plus legere et la marge reste saine. Maintenu a 21500 par prudence, upside possible. Pas de prix DZ trouve."
+ },
+ {
+  "slug": "chloe-love-story",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "note": "Love Story EDP 75ml: retail plein ~205EUR, discount ~90-167EUR selon source; estimation discount realiste ~80EUR. Euro x270 ~21600 DA. Gamme legerement plus chere que les autres EDP 75ml Chloe: leger ajustement a 21000. Pas de listing DZ credible."
+ },
+ {
+  "slug": "chloe-see-by-chloe",
+  "euro": 64,
+  "euroX270": 17280,
+  "algerianDA": null,
+  "recommendedDA": 20500,
+  "confidence": "high",
+  "note": "See by Chloe EDP 75ml ~64.17EUR (Vesira, remise depuis 87.55EUR). Euro x270 ~17280 DA. On garde 20500 (prime import DZ), pas de baisse. Aucun prix DZ en ligne."
+ },
+ {
+  "slug": "chloe-atelier-des-fleurs-cedrus",
+  "euro": 120,
+  "euroX270": 32400,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "note": "Atelier des Fleurs Cedrus EDP 50ml: gamme niche/exclusive, retail plein ~115-120EUR (Strawberrynet 115.50USD remise depuis 155USD; version Intense 166EUR). Euro x270 ~32400 DA: l'actuel 20500 est plutot BAS vs Europe. Leger relevement a 21000, upside reel mais prudence (volume 50ml). Pas de prix DZ."
+ },
+ {
+  "slug": "chopard-wish",
+  "euro": 24,
+  "euroX270": 6480,
+  "algerianDA": null,
+  "recommendedDA": 10500,
+  "confidence": "high",
+  "note": "Wish EDP 75ml tres discount en Europe: ~21EUR Notino, ~27EUR parfumsmoinschers. Euro x270 seulement ~6480 DA. L'actuel 10500 est SUR-EVALUE vs marche europeen (~+60%), mais aucun prix DZ trouve pour confirmer une baisse: maintenu a 10500 par prudence. A surveiller / candidat baisse si concurrence DZ."
+ },
+ {
+  "slug": "chopard-casmir",
+  "euro": 22,
+  "euroX270": 5940,
+  "algerianDA": null,
+  "recommendedDA": 13000,
+  "confidence": "high",
+  "note": "Casmir EDP 100ml tres discount: 19.55-23.90EUR (Notino 23.90, ledenicheur 19.55). Euro x270 ~5940 DA seulement. L'actuel 13000 est NETTEMENT SUR-EVALUE vs Europe (>2x). C'est un classique abordable. Maintenu a 13000 faute de prix DZ, mais fort candidat a la baisse vers ~8000-9000 si concurrence locale."
+ },
+ {
+  "slug": "coach-wild-rose",
+  "euro": 56,
+  "euroX270": 15120,
+  "algerianDA": null,
+  "recommendedDA": 16000,
+  "confidence": "medium",
+  "note": "Coach Wild Rose EDP 90ml: pas de prix EUR direct capte, mais aligne sur la gamme Coach 90ml (Dreams 51.99EUR, Floral 55-83EUR) -> estimation ~56EUR. Euro x270 ~15120 DA. L'actuel 16000 est bien aligne. Maintenu. Pas de prix DZ."
+ },
+ {
+  "slug": "coach-dreams",
+  "euro": 52,
+  "euroX270": 14040,
+  "algerianDA": null,
+  "recommendedDA": 16000,
+  "confidence": "high",
+  "note": "Coach Dreams EDP 90ml ~51.99EUR (parfumsmoinschers, remise depuis 125EUR). Euro x270 ~14040 DA. L'actuel 16000 coherent (prime import). Maintenu. Pas de listing DZ credible."
+ },
+ {
+  "slug": "coach-wild-rose-femme",
+  "euro": 56,
+  "euroX270": 15120,
+  "algerianDA": null,
+  "recommendedDA": 16000,
+  "confidence": "medium",
+  "note": "Doublon de coach-wild-rose (meme produit Coach Wild Rose EDP 90ml). Estimation ~56EUR alignee sur la gamme Coach 90ml. Euro x270 ~15120 DA. Maintenu a 16000. NB: slug en double dans le catalogue, a verifier."
+ },
+ {
+  "slug": "coach-floral",
+  "euro": 58,
+  "euroX270": 15660,
+  "algerianDA": null,
+  "recommendedDA": 16000,
+  "confidence": "high",
+  "note": "Coach Floral EDP 90ml: discount 55-83EUR (PerfumesClub 55.06EUR, Nocibe 73.90EUR, Notino 83.20EUR). Estimation ~58EUR. Euro x270 ~15660 DA. L'actuel 16000 bien aligne. Maintenu. Pas de prix DZ."
+ },
+ {
+  "slug": "creed-aventus",
+  "recommendedDA": 85000,
+  "euro": 281,
+  "euroX270": 75870,
+  "algerianDA": 59000,
+  "confidence": "high",
+  "note": "EDP 100ml: Notino RRP 330EUR, discount ~281EUR (ledenicheur). EURx270 = ~76k DA. MAIS marche algerien original (Pafen DZ) = ~59 000 DA pour le 100ml authentique. Le prix actuel 85 000 est deja au-dessus du marche local. On maintient 85 000 (Aventus = le plus recherche, justifie le haut de fourchette), sans monter : le local est plus bas que EURx270."
+ },
+ {
+  "slug": "creed-silver-mountain-water",
+  "recommendedDA": 80000,
+  "euro": 255,
+  "euroX270": 68850,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDP 100ml ~240-280EUR en discount EU (estime, page produit non chiffree precisement sur les discounters FR). EURx270 = ~69k DA. Pas d'annonce DZ chiffree trouvee. SMW se vend un cran sous Aventus. Recommande 80 000 (legere baisse vs 85 000) car moins desirable qu'Aventus et marche Creed DZ plutot ~55-65k."
+ },
+ {
+  "slug": "creed-green-irish-tweed",
+  "recommendedDA": 82000,
+  "euro": 264,
+  "euroX270": 71280,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "EDP 100ml: Notino 320EUR RRP, Jomashop 264EUR discount. EURx270 = ~71k DA. Pas de prix DZ chiffre trouve. GIT tres reute (3e Creed le plus vendu). Recommande 82 000, leger ajustement sous Aventus, coherent avec le marche Creed DZ (~55-65k pour originaux)."
+ },
+ {
+  "slug": "creed-royal-oud",
+  "recommendedDA": 80000,
+  "euro": 231,
+  "euroX270": 62370,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "EDP 100ml: idealo des 231EUR, Notino/officiel jusqu'a 320EUR. EURx270 (discount) = ~62k DA, (RRP) = ~86k. Pas de prix DZ chiffre trouve. Royal Oud moins iconique que Aventus/GIT cote demande. Recommande 80 000 (legere baisse vs 85 000), coherent avec le bas de la fourchette Creed."
+ },
+ {
+  "slug": "creed-millesime-imperial",
+  "recommendedDA": 80000,
+  "euro": 234,
+  "euroX270": 63180,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "EDP 100ml: ledenicheur des 234EUR, Notino 295EUR, officiel 320EUR. EURx270 (discount) = ~63k DA. Dispo chez odorem DZ (sans prix capte). Recommande 80 000 (legere baisse vs 85 000) : Millesime Imperial est moins demande qu'Aventus, prix EU discount sous le prix actuel."
+ },
+ {
+  "slug": "dkny-golden-delicious",
+  "recommendedDA": 16000,
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDP 100ml: Notino 37,50EUR, idealo bas 19,22EUR (mediane ~30EUR). EURx270 = ~8 100 DA, soit BIEN sous le prix actuel 16 000. Aucune annonce DZ fiable trouvee pour caler. Produit potentiellement sur-evalue vs prix europeen, mais pas de reference locale pour justifier une baisse precise. On maintient 16 000 par prudence ; envisager de descendre vers 11-12k si concurrence locale le confirme."
+ },
+ {
+  "slug": "davidoff-cool-water",
+  "recommendedDA": 11900,
+  "euro": 18,
+  "euroX270": 4900,
+  "algerianDA": 11000,
+  "confidence": "high",
+  "note": "EDT homme 100ml: Notino 18,20EUR discount (EURx270 = ~4 900 DA, non pertinent). Le marche DZ fait foi : odorem-dz cale la gamme Davidoff a ~10-12,5k (Cool Water 200ml = 12 500). Prix actuel 11 900 conforme au marche local. On maintient."
+ },
+ {
+  "slug": "cool-water-woman",
+  "recommendedDA": 11000,
+  "euro": 18,
+  "euroX270": 4900,
+  "algerianDA": 30900,
+  "confidence": "medium",
+  "note": "EDT femme 100ml: Notino RRP 55,40EUR, discount ~18EUR comme la version homme. LEENA DZ affiche 30 900 DA (boutique premium, outlier vs marche de masse). Le marche reel Davidoff DZ = ~10-12k (cf odorem-dz). Prix actuel 11 000 coherent avec le marche de masse. On maintient ; marge possible vers 12-13k vu l'annonce LEENA a 30,9k."
+ },
+ {
+  "slug": "davidoff-adventure",
+  "recommendedDA": 11000,
+  "euro": 17,
+  "euroX270": 4590,
+  "algerianDA": 10800,
+  "confidence": "high",
+  "note": "EDT 100ml: ancrage local direct odorem-dz = 10 800 DA. EU discount ~17EUR (parfumsmoinschers). Prix actuel 11 000 quasi identique au prix de detail algerien. On maintient."
+ },
+ {
+  "slug": "davidoff-silver-shadow",
+  "recommendedDA": 11000,
+  "euro": 18,
+  "euroX270": 4860,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDT 100ml: dispo Jumia Maroc, EU discount ~18-22EUR. Pas de prix DZ chiffre capte (absent de la page odorem listee). Par coherence avec la gamme Davidoff DZ (~10,5-11k), le prix actuel 11 000 est correct. On maintient."
+ },
+ {
+  "slug": "davidoff-echo",
+  "recommendedDA": 11300,
+  "euro": 24,
+  "euroX270": 6480,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Echo Man EDT 100ml: US discount ~26USD (~24EUR), EURx270 = ~6 500 DA. Pas de prix DZ chiffre capte. Coherent avec la gamme Davidoff DZ (~10,5-11,3k). Prix actuel 11 300 conforme. On maintient."
+ },
+ {
+  "slug": "davidoff-horizon",
+  "recommendedDA": 11000,
+  "euro": 22,
+  "euroX270": 5940,
+  "algerianDA": 10400,
+  "confidence": "high",
+  "note": "EDT 125ml: ancrage local direct odorem-dz = 10 400 DA (format 125ml). EU: idealo 22,50EUR (125ml). Prix actuel 13 000 LEGEREMENT au-dessus du detail algerien (10 400). Recommande 11 000 : aligne sur le marche local tout en gardant une marge, plutot que 13 000 qui depasse l'annonce DZ."
+ },
+ {
+  "slug": "davidoff-the-game",
+  "recommendedDA": 11000,
+  "euro": 19,
+  "euroX270": 5130,
+  "algerianDA": 10600,
+  "confidence": "high",
+  "note": "EDT 100ml: ancrage local direct odorem-dz = 10 600 DA. EU discount ~19EUR. Prix actuel 11 000 quasi identique au detail algerien. On maintient."
+ },
+ {
+  "slug": "davidoff-cool-water-deep",
+  "recommendedDA": 13000,
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "confidence": "low",
+  "note": "Variante 'Cool Water Deep' (EDP) introuvable chez les discounters FR sous ce nom exact (proche de Cool Water Parfum/Intense, ~28-44EUR Notino). EURx270 = ~8 100 DA. Pas d'annonce DZ chiffree. Etant un EDP plus premium que la gamme EDT (~10,5-12,5k DZ), le prix actuel 13 000 reste plausible. Faute de source ferme pour CE produit exact, on maintient 13 000 (confiance basse)."
+ },
+ {
+  "slug": "dior-sauvage",
+  "recommendedDA": 32000,
+  "euro": 128,
+  "euroX270": 34560,
+  "algerianDA": 30900,
+  "confidence": "high",
+  "note": "Notino EDP 100ml 128 EUR (x270=34560). Marche DZ: Sauvage standard ~30900 DA (7Doors/Jumia). Actuel 28000 sous le marche local et europeen. Remonte a 32000."
+ },
+ {
+  "slug": "dior-homme",
+  "recommendedDA": 28000,
+  "euro": 98,
+  "euroX270": 26460,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Notino Dior Homme EDP a partir de 91.90 EUR (volumes inferieurs); 100ml estime ~95-105 EUR -> ~25650-28350 DA. Actuel 28000 coherent, on garde."
+ },
+ {
+  "slug": "miss-dior",
+  "recommendedDA": 34000,
+  "euro": 135,
+  "euroX270": 36450,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino EDP 100ml 135.10 EUR (x270=36450). Actuel 28000 nettement sous le marche. Remonte a 34000 (prudent vs 36450)."
+ },
+ {
+  "slug": "dior-jadore",
+  "recommendedDA": 31000,
+  "euro": 115,
+  "euroX270": 31050,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDP 100ml: discounters 89-130 EUR (Notino part de 70.90 sur volumes inferieurs), prix marche ~115 EUR -> 31050. Remonte a 31000."
+ },
+ {
+  "slug": "fahrenheit-dior",
+  "recommendedDA": 24000,
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "EDT 100ml: Notino 94.40 EUR, discounters des 68.55 EUR, mediane ~85 EUR -> 22950. Actuel 24000 deja au niveau marche, on garde (ne pas baisser)."
+ },
+ {
+  "slug": "poison-girl-dior",
+  "recommendedDA": 28000,
+  "euro": 88,
+  "euroX270": 23760,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDP 100ml Notino part de 78 EUR (volume inferieur), 100ml ~88 EUR -> 23760. Euro sous l'actuel 28000 mais pas de signal DZ pour bouger; on garde 28000."
+ },
+ {
+  "slug": "hypnotic-poison-dior",
+  "recommendedDA": 24000,
+  "euro": 92,
+  "euroX270": 24840,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDT 100ml: Notino part de 62.40 EUR, ledenicheur des 109 EUR, mediane ~92 EUR -> 24840. Actuel 24000 coherent, on garde."
+ },
+ {
+  "slug": "gris-dior",
+  "recommendedDA": 48000,
+  "euro": 200,
+  "euroX270": 54000,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Collection Privee (niche) EDP 125ml: prix boutique Dior 200 EUR -> 54000. Listings DZ existent (Ouedkniss 125/250ml) sans prix fiable extrait. Actuel 33000 tres sous-evalue. Remonte a 48000 (prudent vs 54000)."
+ },
+ {
+  "slug": "dior-addict",
+  "recommendedDA": 34000,
+  "euro": 133,
+  "euroX270": 35910,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino EDP 100ml 133 EUR (x270=35910). Actuel 28000 sous le marche. Remonte a 34000."
+ },
+ {
+  "slug": "dior-blooming-bouquet",
+  "recommendedDA": 33000,
+  "euro": 137,
+  "euroX270": 36990,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Il s'agit de Miss Dior Blooming Bouquet EDT 100ml: Notino ~135 EUR, ParfumsMoinsChers 143.99 EUR, Sephora 152 EUR -> mediane ~137 EUR = 36990. Actuel 24000 tres bas. Remonte a 33000."
+ },
+ {
+  "slug": "dior-homme-intense",
+  "recommendedDA": 32000,
+  "euro": 126,
+  "euroX270": 34020,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino EDP 100ml 126 EUR (x270=34020). Actuel 28000 sous le marche. Remonte a 32000."
+ },
+ {
+  "slug": "joy-dior",
+  "recommendedDA": 31000,
+  "euro": 124,
+  "euroX270": 33480,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "EDP 90ml: Notino ~125.50 EUR, ledenicheur des 123 EUR -> ~124 EUR = 33480. Actuel 26000 sous le marche. Remonte a 31000."
+ },
+ {
+  "slug": "dior-homme-sport",
+  "recommendedDA": 24000,
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "EDT 100ml: Notino part de 81.70 EUR (volume inferieur), 100ml estime ~90 EUR -> 24300. Actuel 24000 pile au marche, on garde."
+ },
+ {
+  "slug": "dior-forever-and-ever",
+  "recommendedDA": 24000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "confidence": "low",
+  "note": "Parfum discontinue (confirme par plusieurs sources); plus de prix retail fiable, listings Harrods/Selfridges residuels ~100 EUR mais introuvable en discount. Pas de donnee marche exploitable -> on garde l'actuel 24000."
+ },
+ {
+  "slug": "dior-sauvage-elixir",
+  "recommendedDA": 34500,
+  "confidence": "high",
+  "euro": 125,
+  "euroX270": 33750,
+  "algerianDA": 52500,
+  "note": "Prix EU discount 60ml ~118-134EUR (notino, my-origines, leDenicheur 134EUR) soit ~32000-36000 DA. Marche algerien tres au-dessus: Leena 52500-74900 DA, plusieurs parfumeries .dz autour de 50000+. Le prix actuel 23500 est clairement sous-evalue. Reco 34500 (ancre sur EU discount, prudent vs marche local qui justifierait davantage)."
+ },
+ {
+  "slug": "miss-dior-blooming-bouquet",
+  "recommendedDA": 32500,
+  "confidence": "high",
+  "euro": 120,
+  "euroX270": 32400,
+  "algerianDA": null,
+  "note": "EDT 100ml EU ~115-144EUR (parfumsmoinschers 143.99EUR, discount ~115EUR) soit ~31000-39000 DA. Pas d'annonce DZ crediblement chiffree trouvee. Actuel 24000 sous le marche. Reco 32500 (bas de fourchette EU x270)."
+ },
+ {
+  "slug": "dior-fahrenheit-32",
+  "recommendedDA": 24000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Fahrenheit 32 est discontinue. Listings notino/leDenicheur dependent du stock; marche collector eBay tres eleve (jusqu'a 450EUR) non representatif d'un prix retail. Aucun prix retail propre et stable trouve. On garde l'actuel 24000 (recommandedDA = prix actuel)."
+ },
+ {
+  "slug": "eau-sauvage-dior",
+  "recommendedDA": 26000,
+  "confidence": "high",
+  "euro": 96,
+  "euroX270": 25920,
+  "algerianDA": null,
+  "note": "EDT 100ml EU ~96EUR (leDenicheur 96.05EUR) soit ~25900 DA. Actuel 24000 proche. Reco 26000 (EU x270 arrondi)."
+ },
+ {
+  "slug": "dior-miss-dior-rose-n-roses",
+  "recommendedDA": 27500,
+  "confidence": "high",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "EDT 100ml EU ~96.83-115EUR (leDenicheur 96.83EUR, envie2parfum 115.25EUR) soit ~26000-31000 DA. Actuel 24000 un peu bas. Reco 27500."
+ },
+ {
+  "slug": "dior-homme-edp",
+  "recommendedDA": 28000,
+  "confidence": "medium",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "Dior Homme EDP (2020) 100ml EU ~91.90-112EUR selon source notino soit ~24800-30200 DA. Actuel 28000 deja dans la fourchette. On maintient 28000 (pas de hausse justifiee). Medium car l'EDP exact est moins clairement isole des variantes EDT/Intense."
+ },
+ {
+  "slug": "dior-sauvage-elixir-intense",
+  "recommendedDA": 34500,
+  "confidence": "medium",
+  "euro": 125,
+  "euroX270": 33750,
+  "algerianDA": 52500,
+  "note": "Attention: 'Sauvage Elixir Intense' n'existe PAS comme SKU distinct chez Dior - seul 'Sauvage Elixir' (Parfum) existe. Traite comme le vrai Sauvage Elixir (~118-134EUR, marche DZ 50000+). Aligne sur dior-sauvage-elixir a 34500. Recommande de fusionner/renommer ce doublon catalogue."
+ },
+ {
+  "slug": "dior-pure-poison",
+  "recommendedDA": 30000,
+  "confidence": "medium",
+  "euro": 115,
+  "euroX270": 31050,
+  "algerianDA": null,
+  "note": "EDP 100ml EU large fourchette 111-160EUR (notino 160EUR plein tarif, comparateurs 111-150EUR). Prix discount realiste ~111-120EUR soit ~30000-32400 DA. Actuel 28000. Reco 30000 (discount EU x270)."
+ },
+ {
+  "slug": "dior-dune",
+  "recommendedDA": 26000,
+  "confidence": "high",
+  "euro": 96,
+  "euroX270": 25920,
+  "algerianDA": null,
+  "note": "Dune EDT femme 100ml EU ~96.79EUR (idealo) soit ~26100 DA. Actuel 24000. Reco 26000."
+ },
+ {
+  "slug": "dior-tendre-poison",
+  "recommendedDA": 24000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Tendre Poison est discontinue (depuis longtemps). Uniquement marche secondaire/vintage (~115USD ou ~100EUR+ selon lots eBay), pas de prix retail neuf fiable. On garde l'actuel 24000 (recommandedDA = prix actuel)."
+ },
+ {
+  "slug": "dior-homme-cologne",
+  "recommendedDA": 28500,
+  "confidence": "high",
+  "euro": 106,
+  "euroX270": 28620,
+  "algerianDA": null,
+  "note": "Homme Cologne 125ml EU ~106.25EUR (notino promo, plein 125EUR) soit ~28700 DA. Actuel 28000 quasi aligne. Reco 28500."
+ },
+ {
+  "slug": "dior-jadore-infinissime",
+  "recommendedDA": 35000,
+  "confidence": "high",
+  "euro": 130,
+  "euroX270": 35100,
+  "algerianDA": null,
+  "note": "J'adore Infinissime EDP 100ml EU ~129.74-150EUR (leDenicheur 129.74EUR, kaufland 150EUR) soit ~35000-40500 DA. Actuel 28000 nettement sous le marche. Reco 35000 (bas de fourchette EU x270)."
+ },
+ {
+  "slug": "dior-miss-dior-parfum",
+  "recommendedDA": 27500,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Miss Dior Le Parfum (2012, chypre) est discontinue - introuvable en retail neuf chez notino/origines. Marche secondaire 85-200 GBP (volatil). Pas de prix retail propre. On garde l'actuel 27500 (recommandedDA = prix actuel)."
+ },
+ {
+  "slug": "dior-joy-intense",
+  "recommendedDA": 35500,
+  "confidence": "high",
+  "euro": 132,
+  "euroX270": 35640,
+  "algerianDA": null,
+  "note": "Joy Intense EDP 90ml EU ~131.99-135.25EUR (comparateurs; notino plein ~170EUR) soit ~35600-36500 DA. Actuel 26000 nettement sous le marche. Reco 35500."
+ },
+ {
+  "slug": "dior-sauvage-parfum",
+  "recommendedDA": 33500,
+  "confidence": "high",
+  "euro": 120,
+  "euroX270": 32400,
+  "algerianDA": null,
+  "note": "Sauvage Parfum 100ml: Notino le Parfum a partir de ~100 EUR, MyOrigines/Avenue des Parfums vendent bien le Parfum (pas l'EDP), retail Dior ~155-165 EUR. Prix discount europeen realiste ~115-125 EUR pour le 100ml. 120 EUR x270 = 32 400 DA, soit quasi le prix actuel. Le marche algerien (variantes Sauvage listees 52 500-74 900 DA sur Leena/Jumia, Elixir inclus) supporte largement ce niveau. On garde 33 500 DA (ne pas baisser, marche local fait foi)."
+ },
+ {
+  "slug": "dior-fahrenheit-parfum",
+  "recommendedDA": 29500,
+  "confidence": "high",
+  "euro": 108,
+  "euroX270": 29160,
+  "algerianDA": 31000,
+  "note": "Fahrenheit Le Parfum 75ml: Notino 125 EUR, comparateurs discount 103-110 EUR (idealo 87.73 GBP ~102 EUR, ledenicheur 103.73 EUR). Prix europeen retenu ~108 EUR x270 = 29 160 DA. Jumia DZ liste Fahrenheit 18 000-32 000 DA (variantes mixtes), le Parfum 75ml en haut de fourchette ~31 000-32 000 DA. Le prix actuel 27 500 DA est sous le marche: on releve a 29 500 DA, coherent europeen ET algerien."
+ },
+ {
+  "slug": "diesel-only-the-brave",
+  "recommendedDA": 11000,
+  "confidence": "high",
+  "euro": 42,
+  "euroX270": 11340,
+  "algerianDA": null,
+  "note": "Notino.fr liste l'EDT 75ml a 42,90 EUR (prix mix 34,32 EUR) ; parfumsmoinschers 49,99 EUR. Marche discount ~40-43 EUR pour 75ml. 42 EUR x270 = 11340 DA. Prix actuel 11000 DA deja aligne sur le marche, je le maintiens. Aucune annonce Algerie credible trouvee."
+ },
+ {
+  "slug": "diesel-only-the-brave-tatoo",
+  "recommendedDA": 11000,
+  "confidence": "high",
+  "euro": 43,
+  "euroX270": 11610,
+  "algerianDA": null,
+  "note": "Strawberrynet 53 USD (~49 EUR) sur RRP 67,50 USD ; Notino UK comparable. Marche discount ~42-45 EUR pour 75ml EDT. 43 EUR x270 = 11610 DA. Prix actuel 11000 DA correct, maintenu. Pas d'annonce Algerie trouvee."
+ },
+ {
+  "slug": "diptyque-philosykos",
+  "recommendedDA": 44500,
+  "confidence": "high",
+  "euro": 165,
+  "euroX270": 44550,
+  "algerianDA": null,
+  "note": "Marque niche luxe, peu de discount. Prix officiel Diptyque France ~170 EUR pour 75ml EDP ; detail US 255-260 USD ; Notino UK ~140 GBP (~165 EUR). Marche reel ~165-170 EUR. 165 EUR x270 = 44550 DA. Prix actuel 31000 DA tres sous-evalue vs marche europeen : je recommande de monter a 44500 DA. Aucun listing Algerie (marque rare en DZ)."
+ },
+ {
+  "slug": "diptyque-do-son",
+  "recommendedDA": 44500,
+  "confidence": "high",
+  "euro": 165,
+  "euroX270": 44550,
+  "algerianDA": null,
+  "note": "Meme positionnement niche que Philosykos. Officiel Diptyque ~165-170 EUR pour 75ml EDP ; detail US 255-260 USD ; Jomashop grey-market 155 USD (~145 EUR). Marche reel ~160-170 EUR. 165 EUR x270 = 44550 DA. Prix actuel 31000 DA sous-evalue : je recommande 44500 DA. Aucune annonce Algerie credible trouvee."
+ },
+ {
+  "slug": "dolce-gabbana-light-blue",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "recommendedDA": 21800,
+  "confidence": "medium",
+  "note": "Light Blue Femme EDT 100ml en discount europeen ~50EUR (Notino prix min 49,70EUR), x270 = 13500 DA, tres en dessous du prix actuel. Le produit semble sur-evalue vs marche europeen, mais sans annonce DZ credible je ne descends pas : maintien du prix actuel 21800 DA. A surveiller, marge possible si pas de vente."
+ },
+ {
+  "slug": "dolce-gabbana-l-imperatrice",
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "recommendedDA": 18500,
+  "confidence": "medium",
+  "note": "L'Imperatrice EDT 100ml a partir de ~40EUR (idealo.fr), Superdrug 58% off. x270 = 10800 DA, nettement sous le prix actuel. Sur-evalue vs marche europeen mais aucun prix DZ credible trouve : maintien 18500 DA pour ne pas casser la marge sans donnee locale."
+ },
+ {
+  "slug": "dolce-gabbana-the-one",
+  "euro": 66,
+  "euroX270": 17820,
+  "algerianDA": null,
+  "recommendedDA": 20800,
+  "confidence": "high",
+  "note": "The One Pour Femme EDP 75ml en discount ~66EUR (parfumsmoinschers 65,99EUR, my-origines). x270 = 17820 DA, sous le prix actuel 20800 DA. Pas d'annonce DZ : maintien du prix actuel (ne descend pas)."
+ },
+ {
+  "slug": "dolce-gabbana-dolce",
+  "euro": 61,
+  "euroX270": 16470,
+  "algerianDA": null,
+  "recommendedDA": 18000,
+  "confidence": "high",
+  "note": "Dolce EDP 75ml femme ~61EUR en discount (parfumsmoinschers 60,99EUR). x270 = 16470 DA, leger sous le prix actuel 18000 DA. Maintien du prix actuel, coherent avec la fourchette marche."
+ },
+ {
+  "slug": "dolce-gabbana-the-only-one",
+  "euro": 61,
+  "euroX270": 16470,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "The Only One EDP 100ml : discount US ~66USD (Walmart), equivalent EU ~60-65EUR. x270 = ~16470 DA, sous le prix actuel. Sur-evalue vs marche mais sans annonce DZ : maintien 22000 DA."
+ },
+ {
+  "slug": "dolce-gabbana-the-only-one-2",
+  "euro": 61,
+  "euroX270": 16470,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "The Only One 2 EDP 100ml : meme gamme/tier que The Only One, discount EU/US ~60-65EUR. Prix exact EUR non isole, estime depuis le produit jumeau. x270 = ~16470 DA, sous le prix actuel : maintien 22000 DA."
+ },
+ {
+  "slug": "dolce-gabbana-light-blue-intenso",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "Light Blue Eau Intense Pour Homme EDP 100ml ~73EUR (tier Notino D&G EDP homme). x270 = 19710 DA, proche mais sous le prix actuel 22000 DA. Maintien du prix actuel."
+ },
+ {
+  "slug": "dolce-gabbana-pour-homme",
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "Pour Homme EDT 125ml : discount EU ~55EUR (Beauty Base UK 65GBP solde, Walmart 52,95USD). x270 = ~14850 DA, sous le prix actuel. Sur-evalue vs marche europeen mais sans annonce DZ : maintien 22000 DA."
+ },
+ {
+  "slug": "dolce-gabbana-k",
+  "euro": 68,
+  "euroX270": 18360,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "K by Dolce&Gabbana EDP 100ml ~68EUR en discount (parfumsmoinschers 67,99EUR, Sabina 74EUR). x270 = ~18360 DA, sous le prix actuel 22000 DA. Maintien du prix actuel."
+ },
+ {
+  "slug": "dolce-gabbana-intenso",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 26000,
+  "confidence": "medium",
+  "note": "Pour Homme Intenso EDP 125ml : discount EU ~55-65EUR (perfumesclub, avis ~55-65EUR). x270 = ~16200 DA, tres sous le prix actuel 26000 DA. Le produit parait sur-evalue vs marche europeen ; sans annonce DZ je maintiens 26000 DA mais signale la marge a risque."
+ },
+ {
+  "slug": "dolce-gabbana-pour-femme",
+  "euro": 65,
+  "euroX270": 17550,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "Pour Femme EDP 100ml ~65EUR en discount (parfumsmoinschers 64,99EUR). x270 = ~17550 DA, sous le prix actuel 22000 DA. Maintien du prix actuel."
+ },
+ {
+  "slug": "dolce-gabbana-light-blue-forever-homme",
+  "euro": 52,
+  "euroX270": 14040,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "Light Blue Forever Pour Homme EDP 100ml : discount US ~46-60USD (Walmart 46,11USD, LaBelle 60USD), souvent annonce discontinue. EU equivalent ~50EUR. x270 = ~14040 DA, sous le prix actuel : maintien 22000 DA."
+ },
+ {
+  "slug": "dolce-gabbana-light-blue-forever-femme",
+  "euro": 70,
+  "euroX270": 18900,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "note": "Light Blue Forever Pour Femme EDP 100ml : retail ~77-96USD, discount EU estime ~70EUR. x270 = ~18900 DA, sous le prix actuel 22000 DA. Maintien du prix actuel."
+ },
+ {
+  "slug": "armani-code",
+  "recommendedDA": 28000,
+  "confidence": "high",
+  "euro": 77.45,
+  "euroX270": 20912,
+  "algerianDA": null,
+  "note": "Code EDP 110ml a env. 77 EUR (notino/leDenicheur). x270 = ~20900 DA, donc le prix actuel 28000 est deja au-dessus du marche europeen. On garde 28000 (jamais descendre), mais le produit est legerement sur-evalue vs EU."
+ },
+ {
+  "slug": "armani-my-way",
+  "recommendedDA": 28500,
+  "confidence": "high",
+  "euro": 106,
+  "euroX270": 28620,
+  "algerianDA": null,
+  "note": "My Way EDP: Notino ~115-119 EUR le 100ml, ajuste a ~106 EUR pour 90ml (0.82x non-lineaire mais flacon 90ml proche du 100ml). x270 = ~28600. Le prix actuel 24000 est sous le marche, on remonte a 28500."
+ },
+ {
+  "slug": "armani-si",
+  "recommendedDA": 29500,
+  "confidence": "high",
+  "euro": 110,
+  "euroX270": 29700,
+  "algerianDA": null,
+  "note": "Si EDP 100ml: Notino 115 EUR, meilleur prix ailleurs ~103 EUR. Retenu 110 EUR. x270 = ~29700. Actuel 26800 sous le marche, remontee a 29500."
+ },
+ {
+  "slug": "stronger-with-you-intensely",
+  "recommendedDA": 26000,
+  "confidence": "high",
+  "euro": 86.3,
+  "euroX270": 23301,
+  "algerianDA": null,
+  "note": "SWY Intensely EDP 100ml: Notino 86 EUR. x270 = ~23300, sous le prix actuel 26000. On garde 26000 (regle: ne pas descendre), legerement sur-evalue vs EU."
+ },
+ {
+  "slug": "acqua-di-gio-armani",
+  "recommendedDA": 25500,
+  "confidence": "high",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "note": "Acqua di Gio Parfum (rechargeable) 75ml: Notino 78 EUR en promo, prix plein ~98 EUR. Retenu 85 EUR. x270 = ~22950, sous l'actuel 25500. On garde 25500."
+ },
+ {
+  "slug": "armani-code-absolu",
+  "recommendedDA": 26000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Code Absolu (homme) DISCONTINUE par Armani, dispo surtout en revente (souvent cher). Pas de prix retail EU fiable trouve. recommandedDA = prix actuel 26000 conserve faute de source nette."
+ },
+ {
+  "slug": "stronger-with-you-armani",
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "euro": 67.6,
+  "euroX270": 18252,
+  "algerianDA": null,
+  "note": "SWY EDT 100ml: Notino 67.60 EUR. x270 = ~18250, bien sous l'actuel 22000. On garde 22000 (ne pas descendre), produit sur-evalue vs EU."
+ },
+ {
+  "slug": "si-passione-armani",
+  "recommendedDA": 28500,
+  "confidence": "high",
+  "euro": 105,
+  "euroX270": 28350,
+  "algerianDA": null,
+  "note": "Si Passione EDP 100ml: Notino prix plein 137 EUR, meilleur prix marche ~102.65 EUR (leDenicheur). Retenu 105 EUR. x270 = ~28350. Actuel 26000 sous le marche, remontee a 28500."
+ },
+ {
+  "slug": "acqua-di-gio-profumo-armani",
+  "recommendedDA": 25500,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Acqua di Gio Profumo 75ml DISCONTINUE (confirme Armani). Dispo en revente, prix volatil/eleve. Pas de prix retail EU actuel fiable. recommandedDA = prix actuel 25500 conserve."
+ },
+ {
+  "slug": "armani-si-intense",
+  "recommendedDA": 32500,
+  "confidence": "high",
+  "euro": 120,
+  "euroX270": 32400,
+  "algerianDA": null,
+  "note": "Si Intense EDP 100ml (rechargeable): Notino 131.30 EUR. Retenu 120 EUR (prudent, hors prix plein). x270 = ~32400. Actuel 26000 nettement sous le marche, remontee a 32500."
+ },
+ {
+  "slug": "acqua-di-gio-profondo-armani",
+  "recommendedDA": 26800,
+  "confidence": "high",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "note": "Acqua di Gio Profondo EDP 75ml: Notino 78 EUR promo, prix plein ~98 EUR. Retenu 85 EUR. x270 = ~22950, sous l'actuel 26800. On garde 26800, legerement sur-evalue vs EU."
+ },
+ {
+  "slug": "stronger-with-you-absolutely",
+  "recommendedDA": 31000,
+  "confidence": "high",
+  "euro": 98.6,
+  "euroX270": 26622,
+  "algerianDA": null,
+  "note": "SWY Absolutely Parfum 100ml: Notino 98.60 EUR. x270 = ~26600, sous l'actuel 31000. On garde 31000 (ne pas descendre), un peu sur-evalue vs EU."
+ },
+ {
+  "slug": "armani-si-rose-signature",
+  "recommendedDA": 29500,
+  "confidence": "medium",
+  "euro": 110,
+  "euroX270": 29700,
+  "algerianDA": null,
+  "note": "Si Rose Signature EDP 100ml: edition limitee 2016/2017, plus en production courante. Prix marche ~97-115 EUR (Strawberrynet ~127 USD, retailer EU ~97-115 EUR). Retenu 110 EUR. x270 = ~29700, remontee a 29500. Confiance medium car edition limitee/raretee."
+ },
+ {
+  "slug": "because-it-s-you-armani",
+  "recommendedDA": 26000,
+  "confidence": "high",
+  "euro": 93.2,
+  "euroX270": 25164,
+  "algerianDA": null,
+  "note": "Emporio Because It's You EDP 100ml: Notino 93.20 EUR. x270 = ~25160, quasi egal a l'actuel 26000. On garde 26000."
+ },
+ {
+  "slug": "armani-code-edp",
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "euro": 84,
+  "euroX270": 22680,
+  "algerianDA": null,
+  "note": "Armani Code EDP homme: aucun flacon 110ml n'existe chez Armani (gammes 50/75/125ml); le '110ml' du catalogue correspond au flacon 125ml. idealo.fr: EDP 125ml a partir de 84 EUR (variante 2024 EDP 125ml ~84 EUR), 75ml rechargeable ~87 EUR liste / ~62-70 EUR discount. 84 EUR x270 = 22680. Prix actuel 28000 DA est au-dessus de EU x270. Pas de listing algerien credible trouve. Recommandation 24000 (au-dessus du marche EU mais sous le tarif actuel sur-evalue); si tu veux coller a la regle 'jamais sous le prix actuel', garde 28000 mais sache qu'il est ~+23% vs EU x270."
+ },
+ {
+  "slug": "armani-code-femme",
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "note": "Armani Code Femme EDP 75ml: idealo.fr a partir de 72,40 EUR (plancher discount), liste detaillants ~79-95 EUR, parfumsmoinschers 79,99 EUR. Fourchette marche reelle ~75-80 EUR pour 75ml. 78 EUR x270 = 21060, arrondi 21500. Prix actuel 21000 DA est parfaitement aligne. Pas de listing algerien credible. Recommandation = quasi inchange (21500), confiance haute."
+ },
+ {
+  "slug": "armani-my-way-intense",
+  "recommendedDA": 28800,
+  "confidence": "high",
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "note": "Armani My Way Intense EDP 90ml: Flaconi.fr liste 121,10 EUR (90ml rechargeable); idealo FR a partir de ~61 EUR et UK des 55,20 GBP (~64 EUR) mais ces planchers visent souvent des volumes inferieurs (30/50ml). Pour le 90ml exact, marche reel ~85-95 EUR discount. Retenu 90 EUR x270 = 24300. Prix actuel 28800 DA est au-dessus de EU x270 (~+19%). Pas de listing algerien credible. Je garde 28800 (regle: ne pas descendre sous le prix actuel; lancement feminin premium recent, marge import plausible) mais signale qu'il est sur le haut de fourchette vs Europe."
+ },
+ {
+  "slug": "armani-code-parfum",
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Armani Code Le Parfum (Parfum, le plus concentre) 75ml rechargeable: idealo.fr a partir de 54,91 EUR (plancher), pages produit 67-76 EUR, notino 76 EUR, marche reel ~75-80 EUR pour le 75ml. 80 EUR x270 = 21600, arrondi 22000. Prix actuel 25500 DA est au-dessus de EU x270 (~+18%). Pas de listing algerien credible. Recommandation 22000 (recale sur marche EU); si tu preferes ne pas baisser, garde 25500 en sachant qu'il est sur-evalue vs Europe."
+ },
+ {
+  "slug": "givenchy-irresistible",
+  "euro": 77,
+  "euroX270": 20790,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "high",
+  "note": "EDP 80ml: meilleur prix discount UE 77.44 EUR (ledenicheur). 77x270=20800. Prix actuel 20500 quasi aligne, leger relevement a 21000."
+ },
+ {
+  "slug": "givenchy-l-interdit",
+  "euro": 81,
+  "euroX270": 21870,
+  "algerianDA": 17500,
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "note": "EDP 80ml: 81.15 EUR MyOrigines (81x270=21900). Cross-check DZ: LEENA 17500 DA (site ventes privees, bas). Marche UE soutient 21500, au-dessus du prix actuel 20500."
+ },
+ {
+  "slug": "givenchy-gentleman",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "note": "EDP 100ml: discount UE 73-94 EUR (ParfumsMoinsChers 73.99, Notino 94, Kaufland 67). Moyenne ~85 EUR x270=22950. Prix actuel 24000 maintenu (vendu sur Must/Jumia DZ, marque demandee)."
+ },
+ {
+  "slug": "organza-givenchy",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "recommendedDA": 23000,
+  "confidence": "high",
+  "note": "EDP 100ml: meilleur prix UE 78 EUR (ledenicheur, idealo 84.49), Notino RRP 118. 78x270=21060. Leger ajustement a la baisse de 24000 a 23000, plus coherent marche."
+ },
+ {
+  "slug": "ange-ou-demon-givenchy",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "note": "EDP 100ml: ledenicheur best 97.81, idealo des 68.65, Spartoo 104. Mediane ~85 EUR x270=22950. Prix actuel 24000 maintenu (classique premium)."
+ },
+ {
+  "slug": "givenchy-dahlia-divin",
+  "euro": 83,
+  "euroX270": 22410,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "EDP 75ml: discount UE ~80-87 EUR (Feelunique 87.62, dressinn 78.99 BF), Notino ~112-130 RRP. ~83x270=22410. Releve de 19500 a 22000 (sous-evalue vs marche)."
+ },
+ {
+  "slug": "givenchy-very-irresistible",
+  "euro": 81,
+  "euroX270": 21870,
+  "algerianDA": null,
+  "recommendedDA": 19000,
+  "confidence": "high",
+  "note": "EDT 75ml: ledenicheur des 81.47 EUR, parfumsmoinschers 76.99. ~80x270=21600. Releve de 16500 a 19000; reste sous le pur EUR x270 par prudence (EDT, gamme ancienne)."
+ },
+ {
+  "slug": "givenchy-amarige",
+  "euro": 58,
+  "euroX270": 15660,
+  "algerianDA": null,
+  "recommendedDA": 18000,
+  "confidence": "high",
+  "note": "EDT 100ml: ledenicheur des 49.90, Spartoo 84.29, ParfumsMoinsChers 63.99, Notino RRP 113. ~58 EUR discount x270=15660. Prix actuel 20500 surevalue vs marche; baisse a 18000 (au-dessus du pur EUR mais sous le tarif actuel)."
+ },
+ {
+  "slug": "givenchy-dahlia-noir",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "recommendedDA": 18000,
+  "confidence": "medium",
+  "note": "EDT 75ml: Vesira 73.06 EUR (peu de comparateurs, parfum discontinue/rare). 73x270=19710. Releve de 16500 a 18000, prudent (donnee fournisseur unique)."
+ },
+ {
+  "slug": "givenchy-ange-ou-demon-le-secret",
+  "euro": 65,
+  "euroX270": 17550,
+  "algerianDA": null,
+  "recommendedDA": 18500,
+  "confidence": "medium",
+  "note": "EDT 100ml: pas de comparateur FR clair; ref US/intl 64-80 USD (~60-70 EUR). ~65 EUR x270=17550. Prix actuel 20500 un peu surevalue; baisse a 18500."
+ },
+ {
+  "slug": "givenchy-live-irresistible",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "note": "EDP 75ml: sykz 75 EUR, ledenicheur RRP 140-207 (gamme reduite/rare). Retenu ~80 EUR discount x270=21600. Releve de 19500 a 21000."
+ },
+ {
+  "slug": "givenchy-pi",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "recommendedDA": 15000,
+  "confidence": "high",
+  "note": "EDT 100ml: idealo des 44.95, sykz 44.57, ParfumsMoinsChers 55.99. ~50 EUR x270=13500. Prix actuel 20500 nettement surevalue; baisse a 15000 (au-dessus du pur EUR pour marge import)."
+ },
+ {
+  "slug": "givenchy-xeryus-rouge",
+  "euro": 58,
+  "euroX270": 15660,
+  "algerianDA": null,
+  "recommendedDA": 16000,
+  "confidence": "high",
+  "note": "EDT 100ml: ledenicheur 66, idealo des 50.63, ParfumsMoinsChers/Envie2Parfum 57.99. ~58 EUR x270=15660. Prix actuel 20500 surevalue; baisse a 16000."
+ },
+ {
+  "slug": "givenchy-blue-label",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "medium",
+  "note": "EDT 100ml: IntenseOud 77.95 EUR, AllBeauty/Sobelia 52-57 GBP (~60-66 EUR). ~60 EUR x270=16200. Prix actuel 20500 surevalue; baisse a 17000."
+ },
+ {
+  "slug": "givenchy-play",
+  "recommendedDA": 20500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "confidence": "low",
+  "note": "Play EDT original (2008) est DISCONTINUE/arrete. Plus dispo chez les detaillants discount europeens (notino le liste hors stock). Uniquement marche secondaire eBay/Etsy a prix variables et parfois gonfles par la rarete. Aucun prix retail fiable a croiser. Je garde le prix actuel 20500 DA, coherent pour un flacon devenu rare/difficile a trouver."
+ },
+ {
+  "slug": "givenchy-gentleman-society",
+  "recommendedDA": 24000,
+  "euro": 89,
+  "euroX270": 24030,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Gentleman Society EDP 100ml: ~64,50 EUR en plein discount Notino, retail plein ~95-110 EUR (Perfume's Club, Givenchy). Prix discount moyen marche ~85-90 EUR. Le prix actuel 24000 DA (~89 EUR) est parfaitement aligne sur le marche europeen. Aucun listing algerien credible trouve. On garde 24000."
+ },
+ {
+  "slug": "givenchy-hot-couture",
+  "recommendedDA": 24000,
+  "euro": 88,
+  "euroX270": 23760,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Hot Couture EDP 100ml: plus bas ~79,95 EUR, ~87,99 EUR (barre 156), Notino ~109 EUR. Discount marche ~80-90 EUR. Prix actuel 24000 DA (~89 EUR) bien aligne. Parfum plus ancien/feminin classique, pas de raison de baisser. On garde 24000."
+ },
+ {
+  "slug": "givenchy-monsieur-de-givenchy",
+  "recommendedDA": 20500,
+  "euro": 76,
+  "euroX270": 20520,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Monsieur de Givenchy EDT 100ml: ~67,40 EUR le moins cher livre France (123comparer), retail plus haut. Discount marche ~67-78 EUR. Prix actuel 20500 DA (~76 EUR) coherent. On garde 20500."
+ },
+ {
+  "slug": "givenchy-l-interdit-intense",
+  "recommendedDA": 21000,
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "L'Interdit Intense EDP 80ml: ~77 EUR Marionnaud, ~89,99 EUR (barre 152) ParfumsMoinsChers, gamme 77-90 EUR chez detaillants FR. Discount marche ~80-85 EUR. Prix actuel 20900 DA (~77 EUR) tres legerement bas; recale a 21000 DA (~80 EUR x270). Arrondi 500."
+ },
+ {
+  "slug": "givenchy-dahlia-divin-le-nectar",
+  "recommendedDA": 20300,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "confidence": "low",
+  "note": "Dahlia Divin Le Nectar EDP Intense 75ml (2016): produit EOL/quasi-discontinue, surtout dispo via parfumdreams DE, leparfumier, decants/echantillons et marche secondaire (eBay mentionne T/discont.). Aucun prix EUR retail clair et stable trouve pour ce volume exact. Faute de source fiable je garde le prix actuel 20300 DA. A reverifier si vous trouvez un listing FR/DE en stock."
+ },
+ {
+  "slug": "givenchy-irresistible-eau-fraiche",
+  "recommendedDA": 18000,
+  "euro": 67,
+  "euroX270": 18090,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Irresistible Eau de Toilette Fraiche 80ml (2021): ~65,99 EUR (barre 137) ParfumsMoinsChers, idealo 103-124 EUR plein, Notino plus haut. Discount marche ~66-90 EUR. Prix actuel 17500 DA (~65 EUR) legerement bas; recale a 18000 DA (~67 EUR x270). Arrondi 500."
+ },
+ {
+  "slug": "givenchy-gentleman-parfum",
+  "recommendedDA": 20900,
+  "euro": 70,
+  "euroX270": 18900,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Le slug/volume 60ml 'Parfum' correspond au Gentleman Eau de Parfum Boisee 60ml (2020). En plein discount UK ~41,75 GBP (~49 EUR), retail plein ~70-79 EUR (Sephora/Nordstrom/TheFragranceShop). Notino indique prix mini ~70,60 EUR sur le 100ml. x270 du discount donnerait ~13000-19000 DA, mais le retail FR plein (~70 EUR) = ~18900 DA. Le prix actuel 20900 DA (~77 EUR) est legerement au-dessus du discount mais coherent avec le retail; je le maintiens (regle: ne pas descendre sauf sur-evaluation nette, qui n'est pas le cas vs retail FR)."
+ },
+ {
+  "slug": "givenchy-irresistible-rose-velvet",
+  "recommendedDA": 20500,
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Irresistible Rose Velvet EDP 80ml (2022): ~89,60-92,55 EUR chez detaillants FR (idealo ~90,80 EUR), Notino BE plus haut (~123 EUR/80ml). Discount marche ~90 EUR -> x270 ~24300 DA. Le prix actuel 20500 DA (~76 EUR) est en dessous du marche EUR mais reste credible pour le marche algerien; je le maintiens par prudence (pas de listing DZ pour confirmer une hausse). Marge de hausse possible jusqu'a ~22000-23000 si vous voulez coller au marche EUR."
+ },
+ {
+  "slug": "gucci-flora-gorgeous",
+  "euro": 94.99,
+  "euroX270": 25647,
+  "algerianDA": null,
+  "recommendedDA": 25500,
+  "confidence": "high",
+  "note": "Flora Gorgeous Gardenia EDP 100ml a 94.99 EUR (parfumsmoinschers, -49% du RRP 187 EUR). x270 = 25647 -> 25500 DA. Tres proche du prix actuel (27000), leger ajustement a la baisse pour coller au marche europeen. Aucun listing DZ credible trouve."
+ },
+ {
+  "slug": "gucci-bloom",
+  "euro": 77.99,
+  "euroX270": 21057,
+  "algerianDA": null,
+  "recommendedDA": 27000,
+  "confidence": "high",
+  "note": "Bloom EDP 100ml a 77.99 EUR (parfumsmoinschers, -58%). x270 = 21057. Le prix actuel 27000 DA est NETTEMENT au-dessus (+28%) du marche europeen discount -> potentiellement sur-evalue. Maintenu a 27000 (regle: ne pas descendre sous le prix actuel sauf sur-evaluation claire); a surveiller, le marche europeen suggere plutot ~21000-22000. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-guilty-homme",
+  "euro": 80.99,
+  "euroX270": 21867,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "Guilty Pour Homme 90ml a 80.99 EUR (parfumsmoinschers, -33% du RRP 120 EUR). x270 = 21867 -> 22000 DA. Quasi identique au prix actuel (21500), leger ajustement a la hausse. Note: la page liste un format EDP 90ml mais c'est la ref Guilty Pour Homme. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-guilty-femme",
+  "euro": 72,
+  "euroX270": 19440,
+  "algerianDA": null,
+  "recommendedDA": 19500,
+  "confidence": "medium",
+  "note": "Le 75ml n'est pas commercialise par Gucci pour cette ref. Interpole entre 50ml a 60.99 EUR et 90ml a 79.99 EUR (parfumsmoinschers) -> 75ml ~72 EUR. x270 = 19440 -> 19500 DA. Tres proche du prix actuel (18500), leger relevement. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-rush",
+  "euro": 53.99,
+  "euroX270": 14577,
+  "algerianDA": null,
+  "recommendedDA": 18500,
+  "confidence": "high",
+  "note": "Rush (femme) EDT 75ml a 53.99 EUR (parfumsmoinschers, -58% du RRP 130 EUR). x270 = 14577. Le prix actuel 18500 DA est au-dessus (+27%) du marche europeen discount -> potentiellement sur-evalue. Maintenu a 18500 (ne pas descendre sous le prix actuel); le marche suggere plutot ~15000. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-guilty-absolute",
+  "euro": 89.99,
+  "euroX270": 24297,
+  "algerianDA": null,
+  "recommendedDA": 24500,
+  "confidence": "high",
+  "note": "Guilty Absolute Pour Homme EDP 90ml a 89.99 EUR (parfumsmoinschers, -31% du RRP 130 EUR). x270 = 24297 -> 24500 DA. Tres proche du prix actuel (25000), leger ajustement a la baisse. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-rush-for-men",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 18500,
+  "confidence": "low",
+  "note": "Gucci Rush for Men (2000) est DISCONTINUE / arrete par Gucci. Plus de prix retail standard: marche de collection/vintage uniquement (50ml ~100 EUR+, 75ml scelle ~168 USD, eBay 30-480 USD). Impossible d'etablir un prix retail fiable. Recommande = prix actuel 18500 DA inchange. A noter: si stock authentique scelle, le marche collectionneur justifierait nettement plus."
+ },
+ {
+  "slug": "gucci-bloom-profumo",
+  "euro": 127.99,
+  "euroX270": 34557,
+  "algerianDA": null,
+  "recommendedDA": 34500,
+  "confidence": "high",
+  "note": "Bloom Profumo di Fiori EDP 100ml a 127.99 EUR (parfumsmoinschers, du RRP 167 EUR). x270 = 34557 -> 34500 DA. Le prix actuel (27000) est BIEN EN DESSOUS du marche europeen (-28%): produit sous-cote, releve a 34500. Variante moins distribuee donc moins discountee. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-bloom-acqua-di-fiori",
+  "euro": 119.99,
+  "euroX270": 32397,
+  "algerianDA": null,
+  "recommendedDA": 32500,
+  "confidence": "medium",
+  "note": "Bloom Acqua di Fiori EDT 100ml a 119.99 EUR (parfumsmoinschers, a peine discounte du RRP 122 EUR -> rarete/fin de serie, faible distribution). x270 = 32397 -> 32500 DA. Prix actuel (23000) tres en dessous du marche -> releve. Confiance medium car prix gonfle par la rarete plutot que par la demande; un sourcing local pourrait etre moins cher. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-guilty-intense",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 25000,
+  "confidence": "low",
+  "note": "Gucci Guilty Intense Pour Homme (2011) DISCONTINUE: introuvable chez les detaillants discount (notino liste la version femme), seulement eBay/revente. Pas de prix retail EUR fiable pour CE produit exact. Recommande = prix actuel 25000 DA inchange. A noter: si c'est en realite le Guilty Pour Homme Parfum (2022) qui est revendu, celui-ci se situe vers 80-90 EUR x270 ~ 22000-24000."
+ },
+ {
+  "slug": "gucci-bloom-intense",
+  "euro": 95,
+  "euroX270": 25650,
+  "algerianDA": null,
+  "recommendedDA": 27000,
+  "confidence": "medium",
+  "note": "Bloom Intense EDP 100ml: pas de prix discount FR clair, mais Selfridges 108 GBP (~127 EUR RRP) et marche US discount ~99.95 USD (~90 EUR). Estimation discount ~90-100 EUR. x270 ~ 25650. Maintenu au prix actuel 27000 DA (coherent, dans la fourchette du RRP converti). Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-envy-me",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 23000,
+  "confidence": "low",
+  "note": "Gucci Envy Me EDT DISCONTINUE (production arretee). Seul un 50ml trouve a 44.99 EUR (parfumsmoinschers); le 100ml n'est plus distribue en circuit officiel (revente/vintage, prix plus eleves). Pas de prix retail 100ml fiable. Recommande = prix actuel 23000 DA inchange. Extrapolation prudente: 50ml a 44.99 EUR -> 100ml ~72 EUR (x0.62 inverse) x270 ~ 19500, mais la rarete tire vers le haut donc 23000 reste defendable."
+ },
+ {
+  "slug": "gucci-pour-homme",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "recommendedDA": 23000,
+  "confidence": "low",
+  "note": "Gucci Pour Homme EDT (original 2003, 'les notes pepper/ginger/amber') DISCONTINUE: sold out chez FragranceNet, marche de collection (eBay/Jomashop, prix eleves et volatils). Pas de prix retail standard fiable. Recommande = prix actuel 23000 DA inchange. Note: produit recherche par les collectionneurs, le 23000 DA est conservateur."
+ },
+ {
+  "slug": "gucci-guilty-black",
+  "euro": 73.99,
+  "euroX270": 19977,
+  "algerianDA": null,
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "note": "Guilty Black Pour Homme EDT 90ml a 73.99 EUR (parfumsmoinschers, -38% du RRP 120 EUR). x270 = 19977. Retail US/UK plus eleve (99-124 USD / 119 GBP) car distribution reduite. x270 du prix discount ~20000, le prix actuel 21500 est coherent (legerement au-dessus du discount, en dessous du retail plein) -> maintenu a 21500. Pas de listing DZ trouve."
+ },
+ {
+  "slug": "gucci-made-to-measure",
+  "recommendedDA": 24000,
+  "confidence": "medium",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "note": "Discontinue et rare. Plus vendu en retail europeen ; marche secondaire eBay 299-596 USD pour scelle, testeurs ~50 EUR. Cout de remplacement reel d'un flacon scelle authentique eleve. Prix actuel 21500 DA justifie ; leger releve a 24000 DA (~85 EUR) coherent avec la rarete. Aucun listing Algerie credible trouve."
+ },
+ {
+  "slug": "gucci-premiere",
+  "recommendedDA": 24000,
+  "confidence": "medium",
+  "euro": 88,
+  "euroX270": 23760,
+  "algerianDA": null,
+  "note": "EDP feminin discontinue (2012). Plus de retail EU ; marche vintage : testeurs EDP ~138 USD (~127 EUR), lots en gros moins chers, version EDT jusqu'a 274 USD. Prix actuel 22000 DA (~81 EUR) sous le niveau secondaire. Releve modere a 24000 DA. Pas de prix Algerie en ligne trouve."
+ },
+ {
+  "slug": "gucci-pour-homme-ii",
+  "recommendedDA": 26000,
+  "confidence": "medium",
+  "euro": 95,
+  "euroX270": 25650,
+  "algerianDA": null,
+  "note": "EDT homme discontinue, tres recherche par collectionneurs. eBay/Etsy 108-218 USD courant, jusqu'a 650 USD scelle neuf, soit ~100-200 EUR. Prix actuel 23000 DA (~85 EUR) au-dessous du marche secondaire. Releve a 26000 DA (~95 EUR). Aucun listing Algerie credible."
+ },
+ {
+  "slug": "gucci-bamboo",
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Seul des cinq encore semi-disponible. EDP 75ml : FragranceNet 57-71 USD, Notino UK ~120 GBP/100ml soit ~98 GBP (~115 EUR) le 75ml ; prix discount reel ~65-90 EUR. Prix actuel 22000 DA (~81 EUR) deja juste, haut de la fourchette discount. Maintenir a 22000 DA. Pas de prix Algerie credible trouve."
+ },
+ {
+  "slug": "gucci-guilty-platinum-femme",
+  "recommendedDA": 19000,
+  "confidence": "medium",
+  "euro": 68,
+  "euroX270": 18360,
+  "algerianDA": null,
+  "note": "Edition limitee Platinum (2016) discontinuee. PriceRunner UK 53-59 GBP (~62-69 EUR) la ou encore liste, sinon marche secondaire. Prix actuel 18500 DA (~69 EUR) deja aligne sur le marche EU. Maintien quasi stable a 19000 DA. Aucun listing Algerie credible trouve."
+ },
+ {
+  "slug": "habit-rouge-guerlain",
+  "recommendedDA": 24500,
+  "confidence": "high",
+  "euro": 79,
+  "euroX270": 21330,
+  "algerianDA": null,
+  "note": "Notino EDT 100ml = 79,10 EUR (min ~71 EUR). x270 ~ 21 300 DA, donc le prix actuel 24 500 DA est DEJA au-dessus du marche europeen. On ne descend pas (regle), mais aucune hausse justifiee : maintenir 24 500."
+ },
+ {
+  "slug": "insolence-guerlain",
+  "recommendedDA": 18500,
+  "confidence": "medium",
+  "euro": 68,
+  "euroX270": 18360,
+  "algerianDA": null,
+  "note": "Insolence EDP 50ml peu reference en EUR ; Strawberrynet 75$ (~68 EUR) avec -32%, Selfridges 50ml dispo. x270 ~ 18 360 DA = quasi pile le prix actuel. Maintien a ~18 500 (arrondi). Ligne en semi-rarefaction."
+ },
+ {
+  "slug": "l-homme-ideal-guerlain",
+  "recommendedDA": 31000,
+  "confidence": "high",
+  "euro": 115,
+  "euroX270": 31050,
+  "algerianDA": null,
+  "note": "Notino EDP 100ml affiche 130,20 EUR (prix fort) ; le marche discount tourne plutot ~110-120 EUR. Retenu 115 EUR x270 ~ 31 050. L'EDP est genuinement premium (vs EDT ~83 EUR). Leger relevement 29 000 -> 31 000."
+ },
+ {
+  "slug": "mon-guerlain",
+  "recommendedDA": 29500,
+  "confidence": "high",
+  "euro": 109,
+  "euroX270": 29430,
+  "algerianDA": 27900,
+  "note": "Notino EDP 100ml = 109 EUR -> x270 ~ 29 430. Cross-check Algerie : detaillant DZ a 27 900 DA (Mon Guerlain 100ml). Les deux convergent autour de 28-29k. Aligne a 29 500."
+ },
+ {
+  "slug": "guerlain-shalimar",
+  "recommendedDA": 27500,
+  "confidence": "high",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "Shalimar EDP 90ml : Notino ~122 EUR/100ml soit ~110 EUR le 90ml prix fort, ledenicheur des 97 EUR. Retenu ~100 EUR x270 = 27 000. Prix actuel deja juste ; aligne 27 500."
+ },
+ {
+  "slug": "la-petite-robe-noire-guerlain",
+  "recommendedDA": 29000,
+  "confidence": "high",
+  "euro": 106,
+  "euroX270": 28620,
+  "algerianDA": null,
+  "note": "Notino EDP 100ml = 106 EUR -> x270 ~ 28 620. (Le 10 900 DA vu chez LEENA correspond a un mini/Ma Premiere Robe, pas au 100ml : ecarte.) Prix actuel 29 000 deja pile : maintien."
+ },
+ {
+  "slug": "guerlain-vetiver",
+  "recommendedDA": 24500,
+  "confidence": "high",
+  "euro": 76,
+  "euroX270": 20520,
+  "algerianDA": null,
+  "note": "Vetiver EDT 100ml : Notino 71-81 EUR selon promo. x270 ~ 19 000-21 900, donc le prix actuel 24 500 est au-dessus du marche. On ne descend pas : maintien 24 500 (pas de hausse justifiee)."
+ },
+ {
+  "slug": "guerlain-heritage",
+  "recommendedDA": 24500,
+  "confidence": "high",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Heritage EDT 100ml : Notino ~87,70 EUR, ledenicheur des 72,49 EUR. Retenu ~80 EUR x270 ~ 21 600, sous le prix actuel. Maintien 24 500 sans hausse."
+ },
+ {
+  "slug": "guerlain-insolence",
+  "recommendedDA": 24500,
+  "confidence": "medium",
+  "euro": 120,
+  "euroX270": 32400,
+  "algerianDA": null,
+  "note": "Insolence EDT 100ml : Notino prix fort 120,27 EUR, ligne ancienne en rarefaction (peu de discount). x270 donnerait ~32k mais c'est un prix non discount/peu fiable comme ancre. On garde 24 500 par prudence (produit rare, demande limitee)."
+ },
+ {
+  "slug": "guerlain-vol-de-nuit",
+  "recommendedDA": 23500,
+  "confidence": "medium",
+  "euro": 76,
+  "euroX270": 20520,
+  "algerianDA": null,
+  "note": "Vol de Nuit 75ml (existe surtout en EDT Legendaires) : Notino/ledenicheur 72-79 EUR. x270 ~ 19 500-21 300, sous le prix actuel. Ligne rare/exclusive : maintien 23 500."
+ },
+ {
+  "slug": "guerlain-mitsouko",
+  "recommendedDA": 23500,
+  "confidence": "high",
+  "euro": 88,
+  "euroX270": 23760,
+  "algerianDA": null,
+  "note": "Mitsouko EDP 75ml : Notino ~88,80 EUR, ledenicheur des 88,04 EUR, plusieurs detaillants ~88-89 EUR. x270 ~ 23 760 = pile le prix actuel. Maintien 23 500."
+ },
+ {
+  "slug": "guerlain-champs-elysees",
+  "recommendedDA": 24500,
+  "confidence": "medium",
+  "euro": 116,
+  "euroX270": 31320,
+  "algerianDA": null,
+  "note": "Champs-Elysees EDT 100ml : Notino prix fort 116 EUR, ligne ancienne Legendaires peu discountee (ancre peu fiable). Comme Insolence EDT, on reste prudent : maintien 24 500 plutot que pousser a 31k sur une demande de niche."
+ },
+ {
+  "slug": "guerlain-aqua-allegoria",
+  "recommendedDA": 20000,
+  "confidence": "low",
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "note": "Aqua Allegoria Flora Nymphea : DISCONTINUE (2010, arret ~2013). Plus de prix marche stable ; dispo surtout en discount/eBay 'tres bon marche' selon Fragrantica, ou en rarete collector. Prix marche actuel introuvable de facon fiable -> on garde le prix actuel 20 000."
+ },
+ {
+  "slug": "guerlain-samsara",
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "euro": 88,
+  "euroX270": 23760,
+  "algerianDA": null,
+  "note": "Samsara EDP 75ml : ledenicheur des 86,95 EUR, idealo des 90,20 EUR, Notino ~80 EUR derive. Retenu ~88 EUR x270 ~ 23 760. Aligne a 24 000 (leger arrondi au-dessus de l'actuel)."
+ },
+ {
+  "slug": "hermes-un-jardin-sur-le-nil",
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "note": "EDT 100ml. Notino plein tarif 94,50 EUR; vendeurs discount idealo 77-80 EUR. Reference discount-a-mid ~85 EUR x270 = 22 950 DA. Prix actuel 24 000 DA deja dans la bande marche (entre discount et Notino 25 515 DA), aucune raison de baisser ni de monter. On garde 24 000. Aucun listing algerien credible trouve."
+ },
+ {
+  "slug": "hermes-twilly-d-hermes-eau-poivree",
+  "recommendedDA": 27000,
+  "confidence": "high",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "EDP 85ml. parfumsmoinschers 87,99 EUR; Notino 130,59 EUR/100ml soit ~111 EUR pour 85ml; vendeurs idealo ~102-103 EUR; boutique 189 EUR. Reference discount-a-mid pour 85ml ~100 EUR x270 = 27 000 DA. Prix actuel 25 000 DA legerement sous le marche, uplift a 27 000. Aucun listing algerien credible trouve."
+ },
+ {
+  "slug": "hermes-h24-intense",
+  "recommendedDA": 28000,
+  "confidence": "high",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "ATTENTION: il n'existe pas de produit Hermes appele 'H24 Intense'. Le H24 Eau de Parfum (lance aout 2022) EST la version intense du H24 vs l'EDT originale - Hermes decrit l'EDP comme ayant 'une force intense' comme nouvelle signature. C'est donc le H24 EDP 100ml. Prix: parfumsmoinschers 93,99 EUR (discount), Notino 107 EUR, boutique jusqu'a 150 EUR. Reference ~100-107 EUR x270 = 27 000-28 890 DA. Prix actuel 28 000 DA pleinement justifie (Notino 107x270=28 890), on garde 28 000. Aucun listing algerien credible trouve."
+ },
+ {
+  "slug": "jean-paul-gaultier-ultra-male",
+  "recommendedDA": 18500,
+  "euro": 65,
+  "euroX270": 17550,
+  "algerianDA": 19000,
+  "confidence": "medium",
+  "note": "Prix europeen discount du 75ml EDT Intense converge a ~65 EUR (idealo.fr des 70,15 EUR; comparateurs Notino/Origines ~60-70 EUR). 65 EUR x270 = 17 550 DA -> arrondi 17 500. Cross-check Algerie: Ouedkniss liste Ultra Male 125ml/200ml ~19 000 DA, ce qui place le 75ml legerement en dessous mais soutient le niveau actuel. Le prix actuel 18 500 DA est coherent avec le marche local (125ml ~19 000 DA) et le calcul europeen; on le maintient (pas de baisse, pas de sur-evaluation). Confiance medium: pas de page live unique pour le prix exact 75ml, mais plusieurs comparateurs convergent."
+ },
+ {
+  "slug": "initio-oud-for-greatness",
+  "recommendedDA": 55500,
+  "confidence": "high",
+  "euro": 220,
+  "euroX270": 59400,
+  "algerianDA": 55000,
+  "note": "Prix EU clair: 220 EUR (idealo.fr 90ml) -> x270 = 59 400 DA. Cross-check Algerie SOLIDE: odorem-dz.com liste exactement ce produit a 55 000 DA. Le marche local fait foi: prix actuel 55 500 DA parfaitement aligne (legerement au-dessus du local, en-dessous du x270 EU). On garde 55 500 DA."
+ },
+ {
+  "slug": "initio-side-effect",
+  "recommendedDA": 55500,
+  "confidence": "high",
+  "euro": 220,
+  "euroX270": 59400,
+  "algerianDA": null,
+  "note": "Prix EU: 219,95 EUR (idealo) / 280-311 EUR (notino) pour 90ml -> base ~220 EUR x270 = 59 400 DA. Meme gamme/tarif qu'Oud for Greatness (Initio, ligne identique). Par coherence avec OFG aligne sur 55 000 DA local, on garde 55 500 DA. Pas d'annonce DZ specifique trouvee pour Side Effect."
+ },
+ {
+  "slug": "l-eau-d-issey-femme",
+  "recommendedDA": 21800,
+  "confidence": "high",
+  "euro": 50.25,
+  "euroX270": 13568,
+  "algerianDA": null,
+  "note": "Prix EU clair: 50,25 EUR (ledenicheur.fr, EDT 100ml) -> x270 = 13 570 DA. Prix actuel 21 800 DA bien au-dessus du x270 EU (marge importation/local typique). Regle: ne jamais descendre sous le prix actuel sauf sur-evaluation manifeste; ici c'est un grand classique a forte demande, marge normale en Algerie. On garde 21 800 DA."
+ },
+ {
+  "slug": "l-eau-d-issey-homme",
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "euro": 49,
+  "euroX270": 13230,
+  "algerianDA": null,
+  "note": "EDT 125ml. Prix EU clair: 46,02 EUR (ledenicheur) a 51,99 EUR (parfumsmoinschers) -> base ~49 EUR x270 = 13 230 DA. Prix actuel 22 000 DA au-dessus du x270 (marge import). Classique homme tres demande. On garde 22 000 DA."
+ },
+ {
+  "slug": "issey-miyake-l-eau-d-issey-pure",
+  "recommendedDA": 17500,
+  "confidence": "medium",
+  "euro": 47,
+  "euroX270": 12690,
+  "algerianDA": null,
+  "note": "EDT 90ml (Pure femme). Prix EU ~47 EUR (envie2parfum, variante Petale de Nectar 90ml 47,19 EUR; base similaire) -> x270 = 12 690 DA. Pas de prix EU exact 100% pour la version standard 90ml -> medium. Prix actuel 17 500 DA au-dessus du x270, coherent avec la marge import des autres Issey. On garde 17 500 DA."
+ },
+ {
+  "slug": "nuit-d-issey-homme",
+  "recommendedDA": 19800,
+  "confidence": "high",
+  "euro": 63.28,
+  "euroX270": 17086,
+  "algerianDA": null,
+  "note": "EDT 100ml. Prix EU clair: 63,28 EUR (notino.fr, 100ml) -> x270 = 17 090 DA. Prix actuel 19 800 DA legerement au-dessus du x270 (marge raisonnable). Le plus cher de la gamme Issey homme cote EU, ce qui justifie le tarif. On garde 19 800 DA."
+ },
+ {
+  "slug": "issey-miyake-a-drop-d-issey",
+  "recommendedDA": 20500,
+  "confidence": "high",
+  "euro": 53.08,
+  "euroX270": 14332,
+  "algerianDA": null,
+  "note": "EDP 90ml. Prix EU clair: 53,08 EUR (ledenicheur.fr, EDP 90ml) -> x270 = 14 330 DA. Prix actuel 20 500 DA au-dessus du x270 (marge import). Lancement recent 2021, demande soutenue. On garde 20 500 DA."
+ },
+ {
+  "slug": "issey-miyake-l-homme-issey",
+  "recommendedDA": 18500,
+  "confidence": "high",
+  "euro": 39,
+  "euroX270": 10530,
+  "algerianDA": null,
+  "note": "Mappe sur L'Eau d'Issey Pour Homme EDT 100ml (le classique homme). Prix EU: 34,99 EUR en promo (parfumsmoinschers) / ~39 EUR hors promo -> x270 = 10 530 DA. Prix actuel 18 500 DA nettement au-dessus du x270, mais c'est un best-seller homme; marge import coherente avec les autres Issey. On garde 18 500 DA."
+ },
+ {
+  "slug": "issey-miyake-pleats-please",
+  "recommendedDA": 18500,
+  "confidence": "high",
+  "euro": 43.99,
+  "euroX270": 11877,
+  "algerianDA": null,
+  "note": "EDT 100ml femme. Prix EU clair: 43,99 EUR (parfumsmoinschers, 100ml) -> x270 = 11 880 DA. Prix actuel 18 500 DA au-dessus du x270 (marge import standard Issey). On garde 18 500 DA."
+ },
+ {
+  "slug": "issey-miyake-l-eau-d-issey-ambre",
+  "recommendedDA": 20500,
+  "confidence": "low",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "note": "Produit ambigu: 'L'Eau d'Issey Ambre' EDP 90ml ne correspond pas a une reference EU exacte trouvable (les variantes ambrees existantes sont Noir Ambre homme EDT, ou la L'Eau d'Issey EDP femme). Estimation par analogie gamme Issey EDP 90ml ~50 EUR x270 = 13 500 DA. Faute de source exacte, je ne descends pas: on garde le prix actuel 20 500 DA. A clarifier (verifier de quelle variante il s'agit reellement)."
+ },
+ {
+  "slug": "joy-jean-patou",
+  "recommendedDA": 22000,
+  "confidence": "medium",
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Joy EDP 75ml = parfum de luxe (Jean Patou). Prix EU: a partir de 69,99 GBP (~82 EUR) sur idealo.co.uk; retail US ~135 USD. Base ~80 EUR x270 = 21 600 DA. Prix actuel 18 000 DA est SOUS-EVALUE vs marche pour un parfum aussi prestigieux. Recommandation: monter a 22 000 DA. Medium car pas de prix EU 75ml EDP discount francais exact confirme."
+ },
+ {
+  "slug": "jennifer-lopez-glow",
+  "recommendedDA": 9500,
+  "confidence": "high",
+  "euro": 35.99,
+  "euroX270": 9717,
+  "algerianDA": null,
+  "note": "EDT 100ml. Prix EU clair: 35,99 EUR en promo (parfumsmoinschers, 100ml; retail 64,50 EUR) -> x270 = 9 720 DA. Prix actuel 6 500 DA est SOUS le x270 -> sous-evalue. Recommandation: monter a 9 500 DA pour s'aligner sur le marche EU. Marque accessible, demande correcte."
+ }
+]
