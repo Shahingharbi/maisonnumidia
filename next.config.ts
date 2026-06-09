@@ -42,6 +42,11 @@ const nextConfig: NextConfig = {
     return [
       { source: "/parfums/acqua-di-gio-femme-armani", destination: "/parfums/armani-acqua-di-gioia", permanent: true },
       { source: "/parfums/armani-si-passione", destination: "/parfums/si-passione-armani", permanent: true },
+      // Fusion de doublons (juin 2026) — 301 vers la fiche canonique
+      { source: "/parfums/allure-homme-chanel", destination: "/parfums/chanel-allure-homme", permanent: true },
+      { source: "/parfums/calvin-klein-eternity-homme", destination: "/parfums/eternity-homme-ck", permanent: true },
+      { source: "/parfums/coach-wild-rose-femme", destination: "/parfums/coach-wild-rose", permanent: true },
+      { source: "/parfums/dior-sauvage-elixir-intense", destination: "/parfums/dior-sauvage-elixir", permanent: true },
     ];
   },
 };
