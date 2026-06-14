@@ -4579,5 +4579,338 @@
   "euroX270": 44550,
   "algerianDA": null,
   "note": "Xerjoff Erba Pura EDP 100ml (Vibe collection). Prix EU notino 161.70-165 EUR, idealo similaire, Harrods/Harvey Nichols plus haut. 165 EUR x270 = 44550. Actuel 48000 dans la fourchette, on garde 48000."
+ },
+ {
+  "slug": "elie-saab-le-parfum",
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "note": "Designer (pas niche). Notino.fr ~73 EUR retail (remise 57-65 EUR). 73x270=19710, sous le prix actuel. 21500 deja coherent marche DZ, on garde."
+ },
+ {
+  "slug": "elie-saab-girl-of-now",
+  "recommendedDA": 21500,
+  "confidence": "high",
+  "euro": 73,
+  "euroX270": 19710,
+  "algerianDA": null,
+  "note": "Designer. Notino.fr ~73 EUR retail, meilleur prix ~55 EUR (leDenicheur). 73x270=19710 < actuel. On garde 21500."
+ },
+ {
+  "slug": "ex-nihilo-fleur-narcotique",
+  "recommendedDA": 78000,
+  "confidence": "high",
+  "euro": 350,
+  "euroX270": 94500,
+  "algerianDA": null,
+  "note": "Niche cher. Notino.fr 350 EUR (100ml EDP). 350x270=94500. Actuel 52000 tres sous-evalue. Releve a 78000 (pondere marche COD, reste sous le full EU)."
+ },
+ {
+  "slug": "frederic-malle-portrait-of-a-lady",
+  "recommendedDA": 85000,
+  "confidence": "high",
+  "euro": 350,
+  "euroX270": 94500,
+  "algerianDA": null,
+  "note": "Niche haut de gamme. Officiel Frederic Malle 350 EUR (100ml). 350x270=94500. Actuel 60000 sous-evalue. Releve a 85000."
+ },
+ {
+  "slug": "frederic-malle-carnal-flower",
+  "recommendedDA": 85000,
+  "confidence": "high",
+  "euro": 350,
+  "euroX270": 94500,
+  "algerianDA": null,
+  "note": "Meme gamme/prix officiel Frederic Malle 350 EUR (100ml). 350x270=94500. Actuel 60000 sous-evalue. Releve a 85000."
+ },
+ {
+  "slug": "jo-malone-english-pear",
+  "recommendedDA": 34000,
+  "confidence": "high",
+  "euro": 152,
+  "euroX270": 41040,
+  "algerianDA": null,
+  "note": "Cologne 100ml. Sephora.fr prix unitaire 152 EUR/100ml (retail uniforme Jo Malone). 152x270=41040. Actuel 24000 sous-evalue. Releve a 34000 (modere marche DZ)."
+ },
+ {
+  "slug": "jo-malone-peony-blush-suede",
+  "recommendedDA": 34000,
+  "confidence": "high",
+  "euro": 152,
+  "euroX270": 41040,
+  "algerianDA": null,
+  "note": "Tarif Jo Malone uniforme ~152 EUR/100ml. 152x270=41040. Actuel 24000 sous-evalue. Releve a 34000."
+ },
+ {
+  "slug": "jo-malone-lime-basil-mandarin",
+  "recommendedDA": 34000,
+  "confidence": "high",
+  "euro": 152,
+  "euroX270": 41040,
+  "algerianDA": null,
+  "note": "Tarif Jo Malone uniforme ~152 EUR/100ml. 152x270=41040. Actuel 24000 sous-evalue. Releve a 34000."
+ },
+ {
+  "slug": "jo-malone-wood-sage-sea-salt",
+  "recommendedDA": 34000,
+  "confidence": "high",
+  "euro": 152,
+  "euroX270": 41040,
+  "algerianDA": null,
+  "note": "Tarif Jo Malone uniforme ~152 EUR/100ml. 152x270=41040. Actuel 24000 sous-evalue. Releve a 34000."
+ },
+ {
+  "slug": "juliette-has-a-gun-not-a-perfume",
+  "recommendedDA": 30000,
+  "confidence": "medium",
+  "euro": 100,
+  "euroX270": 27000,
+  "algerianDA": null,
+  "note": "Niche culte. Prix US 150 USD (100ml), EU estime ~95-105 EUR. 100x270=27000 < actuel. 30000 deja coherent, on garde."
+ },
+ {
+  "slug": "kayali-eden",
+  "recommendedDA": 23500,
+  "confidence": "high",
+  "euro": 99,
+  "euroX270": 26730,
+  "algerianDA": null,
+  "note": "EDP 50ml. EU ~99 EUR (Kayali US 105 USD). 99x270=26730. Actuel 20300 sous-evalue. Releve a 23500 (50ml seulement)."
+ },
+ {
+  "slug": "louis-vuitton-ombre-nomade",
+  "recommendedDA": 98000,
+  "confidence": "high",
+  "euro": 350,
+  "euroX270": 94500,
+  "algerianDA": 138000,
+  "note": "Niche LV iconique. Officiel ~350 EUR (100ml). 350x270=94500. Detaillants DZ a 138000 (100ml). Actuel 75000 tres sous-evalue. Releve a 98000 (aligne EUx270, reste sous le marche DZ)."
+ },
+ {
+  "slug": "maison-margiela-replica-by-the-fireplace",
+  "euro": 105,
+  "euroX270": 28350,
+  "algerianDA": null,
+  "recommendedDA": 28500,
+  "confidence": "high",
+  "note": "Notino.fr 99,40 EUR/100ml EDT ; RRP officielle ~110-130 EUR. Marche EU stable autour de 100-110 EUR. 105x270=28350, arrondi 28500. Au-dessus du prix actuel (27000), recalage leger justifie pour une niche Margiela."
+ },
+ {
+  "slug": "maison-margiela-replica-beach-walk",
+  "euro": 130,
+  "euroX270": 35100,
+  "algerianDA": null,
+  "recommendedDA": 35000,
+  "confidence": "high",
+  "note": "Notino.fr 147,20 EUR/100ml EDT, RRP ~135-147 EUR (le plus cher des Replica). Retiens 130 EUR comme prix marche realiste. 130x270=35100, arrondi 35000. Hausse nette vs 27000 actuel : Beach Walk est le best-seller le plus demande de la gamme."
+ },
+ {
+  "slug": "maison-margiela-replica-jazz-club",
+  "euro": 110,
+  "euroX270": 29700,
+  "algerianDA": null,
+  "recommendedDA": 29500,
+  "confidence": "high",
+  "note": "Notino.fr 110,40 EUR/100ml EDT, meilleur prix EU 109 EUR. 110x270=29700, arrondi 29500. Hausse vs 27000 ; Jazz Club est un blockbuster masculin tres recherche."
+ },
+ {
+  "slug": "marc-jacobs-daisy",
+  "euro": 68,
+  "euroX270": 18360,
+  "algerianDA": null,
+  "recommendedDA": 18500,
+  "confidence": "high",
+  "note": "Notino.fr 66,30-70 EUR/100ml EDT (RRP officielle ~103 EUR mais prix marche reel 66-70). 68x270=18360, arrondi 18500. Tres proche du prix actuel (18000), recalage minimal."
+ },
+ {
+  "slug": "marc-jacobs-dot",
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "note": "Spartoo 84,29 EUR, official/sykz ~100 EUR/100ml EDP. Retiens 90 EUR median. 90x270=24300, arrondi 24000. Hausse vs 21000 actuel justifiee par le prix EU."
+ },
+ {
+  "slug": "marc-jacobs-honey",
+  "euro": 70,
+  "euroX270": 18900,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "note": "EDP 100ml, designer souvent solde (Walmart ~61 USD, RRP ~80 EUR). Prix marche EU ~60-75 EUR -> ~18900 DA, sous le prix actuel 21000. Pas de baisse recommandee (regle : ne pas descendre sauf survaluation claire ; ici la marge reste raisonnable), je garde 21000."
+ },
+ {
+  "slug": "marc-jacobs-daisy-eau-so-fresh",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "note": "EDT 125ml (gros volume). Prix marche EU ~70-85 EUR (flanker Daisy, leger premium pour le 125ml). 78x270=21060, arrondi 21000 = prix actuel. Pas de changement."
+ },
+ {
+  "slug": "marc-jacobs-lola",
+  "euro": 78,
+  "euroX270": 21060,
+  "algerianDA": null,
+  "recommendedDA": 21000,
+  "confidence": "medium",
+  "note": "Oh Lola / Lola EDP 100ml, designer en stock variable sur Notino. Prix marche EU estime ~70-85 EUR. 78x270=21060, arrondi 21000 = prix actuel. Pas de changement, confiance medium (prix exact Notino non affiche)."
+ },
+ {
+  "slug": "marc-jacobs-daisy-wild",
+  "euro": 95,
+  "euroX270": 25650,
+  "algerianDA": null,
+  "recommendedDA": 25500,
+  "confidence": "medium",
+  "note": "Sortie 2024, le plus recent et premium de la gamme Daisy, EDP 100ml. Prix marche EU ~90-100 EUR (peu de discount, nouveaute). 95x270=25650, arrondi 25500. Hausse vs 21000 justifiee : nouveaute peu remisee."
+ },
+ {
+  "slug": "memo-paris-african-leather",
+  "euro": 195,
+  "euroX270": 52650,
+  "algerianDA": null,
+  "recommendedDA": 52500,
+  "confidence": "high",
+  "note": "Niche Memo Paris EDP 75ml. RRP 235 GBP (~270 EUR) ; prix marche EU/discount 175-210 EUR (Harvey Nichols 199 GBP solde). Retiens 195 EUR. 195x270=52650, arrondi 52500. Forte hausse vs 41500 : niche sous-evaluee, les Cuirs Nomades Memo coutent cher."
+ },
+ {
+  "slug": "michael-kors-gorgeous",
+  "euro": 62,
+  "euroX270": 16740,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "medium",
+  "note": "EDP 100ml designer, prix marche EU 54-67 EUR (RRP officielle ~90 EUR). ~62x270=16740, sous le prix actuel 20000. Pas de baisse recommandee (regle), je garde 20000."
+ },
+ {
+  "slug": "michael-kors-sexy-amber",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "low",
+  "note": "EDP 100ml, fragrance plus ancienne (2013), peu de prix EU clairs (~40-50 EUR en duty-free/discount). ~50x270=13500, tres en dessous de 20000 actuel. Survaluation possible mais sourcing faible -> confiance low, je garde le prix actuel 20000 par prudence."
+ },
+ {
+  "slug": "michael-kors-gold",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 20000,
+  "confidence": "low",
+  "note": "EDP 100ml Gold (2011), discontinue/rare ; secondaire eBay 79-199 USD. Pas de prix retail EU fiable. Estimation ~60 EUR -> 16200, sous 20000. Rarete peut soutenir le prix. Confiance low, je garde 20000."
+ },
+ {
+  "slug": "penhaligons-halfeti",
+  "euro": 225,
+  "euroX270": 60750,
+  "algerianDA": null,
+  "recommendedDA": 60500,
+  "confidence": "high",
+  "note": "Niche Penhaligon's EDP 100ml. Prix marche EU 204-250 EUR (idealo 203,89, ledenicheur 250). Retiens 225 EUR median. 225x270=60750, arrondi 60500. Forte hausse vs 48000 : niche britannique haut de gamme nettement sous-evaluee."
+ },
+ {
+  "slug": "serge-lutens-feminite-du-bois",
+  "euro": 115,
+  "euroX270": 31050,
+  "algerianDA": null,
+  "recommendedDA": 33000,
+  "confidence": "high",
+  "note": "Serge Lutens niche. RRP officiel €274 (Sephora/Marionnaud), retail discount €110-122 (parfumsmoinschers €121.99, cosma €107.54). Prix de marche reel ~€115 x270 = 31050. Niche cher : on conserve une prime, mais l'actuel 38000 (~€140) est legerement sur-evalue vs retail FR. Recale a 33000."
+ },
+ {
+  "slug": "van-cleef-feerie",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 17300,
+  "confidence": "medium",
+  "note": "Feerie 50ml EDP. Strawberrynet $71 (RRP $110). EU retail discount typique ~€55-65 pour ce format. €60 x270 = 16200, sous l'actuel. On ne descend pas : on garde 17300 (coherent avec un retail FR plein ~€64)."
+ },
+ {
+  "slug": "van-cleef-arpels-first",
+  "euro": 90,
+  "euroX270": 24300,
+  "algerianDA": null,
+  "recommendedDA": 28000,
+  "confidence": "high",
+  "note": "First 100ml EDP, meilleur prix EU ~€89.95 (envie2parfum/comparateurs). €90 x270 = 24300. Classique VC&A premium ; l'actuel 28000 (~€104) reste dans la fourchette retail plein tarif. On conserve 28000."
+ },
+ {
+  "slug": "spicebomb-viktor-rolf",
+  "euro": 82,
+  "euroX270": 22140,
+  "algerianDA": null,
+  "recommendedDA": 22000,
+  "confidence": "high",
+  "note": "Spicebomb EDT 90ml. Notino UK £71.33/100ml (~€82 pour 90ml), min recent £113. €82 x270 = 22140. Recale legerement a la hausse de 20500 vers 22000 (arrondi)."
+ },
+ {
+  "slug": "bonbon-viktor-rolf",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "recommendedDA": 24000,
+  "confidence": "high",
+  "note": "Bonbon EDP 90ml. idealo low €77.87, ledenicheur des €98.99, retail plein ~€90+. €85 x270 = 22950, proche de l'actuel. On garde 24000 (coherent avec retail FR plein tarif ~€89)."
+ },
+ {
+  "slug": "flowerbomb-viktor-rolf",
+  "euro": 85,
+  "euroX270": 22950,
+  "algerianDA": null,
+  "recommendedDA": 23000,
+  "confidence": "high",
+  "note": "Flowerbomb EDP 50ml, best-seller V&R. RRP officiel $182, retail EU discount ~€80-90 pour 50ml. €85 x270 = 22950. L'actuel 16000 sous-evalue nettement ce flagship : on remonte a 23000."
+ },
+ {
+  "slug": "flowerbomb-nectar-viktor-rolf",
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Flowerbomb Nectar EDP Intense 50ml. idealo des €59.47-60.83. €60 x270 = 16200, proche de l'actuel 16000. Leger recalage a 17000 (arrondi sur prix marche)."
+ },
+ {
+  "slug": "spicebomb-extreme-viktor-rolf",
+  "euro": 62,
+  "euroX270": 16740,
+  "algerianDA": null,
+  "recommendedDA": 17000,
+  "confidence": "high",
+  "note": "Spicebomb Extreme EDP 50ml. idealo.fr des €56.61 (low €42.78), retail plein ~€72. €62 x270 = 16740. Recalage 16000 -> 17000."
+ },
+ {
+  "slug": "good-fortune-viktor-rolf",
+  "euro": 110,
+  "euroX270": 29700,
+  "algerianDA": null,
+  "recommendedDA": 29500,
+  "confidence": "medium",
+  "note": "Good Fortune EDP 90ml. RRP FR 90ml ~€149 (officiel), idealo des €48.72 (petits formats/destockage discontinued). Prix marche realiste 90ml ~€100-120. €110 x270 = 29700. L'actuel 24000 sous-evalue : on remonte a 29500."
+ },
+ {
+  "slug": "spicebomb-infrared",
+  "euro": 91,
+  "euroX270": 24570,
+  "algerianDA": null,
+  "recommendedDA": 24500,
+  "confidence": "high",
+  "note": "Spicebomb Infrared EDT 90ml. idealo.es low €91.51, tendance-parfums €49.50 (probable format reduit). Prix marche realiste ~€85-91 pour 90ml. €91 x270 = 24570. L'actuel 20500 sous-evalue : on remonte a 24500."
+ },
+ {
+  "slug": "viktor-rolf-bon-bon",
+  "euro": 87,
+  "euroX270": 23490,
+  "algerianDA": null,
+  "recommendedDA": 26000,
+  "confidence": "medium",
+  "note": "Bon Bon EDP : la marque ne produit pas de 100ml (30/50/90ml). Le flagship est le 90ml ~€85-90 (idealo €77.87, ledenicheur €98.99, retail plein ~€90). €87 x270 = 23490. L'actuel 26000 (~€96) reste dans la fourchette retail plein tarif : on conserve 26000. NB : doublon probable avec slug 'bonbon-viktor-rolf' (meme produit 90ml)."
  }
 ]
