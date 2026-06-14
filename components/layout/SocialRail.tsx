@@ -1,5 +1,6 @@
 // Rail social flottant (gauche) — avis Google, Instagram, Facebook, WhatsApp.
-// Logos officiels en SVG (qualité vectorielle nette à toutes les tailles).
+// Chaque bouton = cercle avec logo officiel ; au survol il se déplie en pastille
+// avec son propre texte d'appel à l'action. Logos officiels en SVG (qualité nette).
 
 function GoogleG() {
   return (
@@ -11,7 +12,6 @@ function GoogleG() {
     </svg>
   );
 }
-
 function InstagramGlyph() {
   return (
     <svg viewBox="0 0 24 24" width="24" height="24" fill="white" aria-hidden="true">
@@ -19,7 +19,6 @@ function InstagramGlyph() {
     </svg>
   );
 }
-
 function FacebookGlyph() {
   return (
     <svg viewBox="0 0 24 24" width="24" height="24" fill="white" aria-hidden="true">
@@ -27,7 +26,6 @@ function FacebookGlyph() {
     </svg>
   );
 }
-
 function WhatsAppGlyph() {
   return (
     <svg viewBox="0 0 32 32" width="26" height="26" fill="white" aria-hidden="true">
@@ -36,66 +34,45 @@ function WhatsAppGlyph() {
   );
 }
 
-function Circle({ href, label, style, children }: { href: string; label: string; style: React.CSSProperties; children: React.ReactNode }) {
-  return (
-    <a
-      href={href}
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label={label}
-      className="group relative flex items-center justify-center w-11 h-11 sm:w-14 sm:h-14 rounded-full shadow-lg ring-1 ring-black/5 hover:scale-110 transition-transform duration-200"
-      style={style}
-    >
-      {children}
-      <span className="hidden md:block absolute left-full ml-3 px-3 py-1.5 rounded-lg bg-[#111111] text-white text-xs font-medium whitespace-nowrap opacity-0 -translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200 pointer-events-none">
-        {label}
-      </span>
-    </a>
-  );
+interface Item {
+  href: string;
+  label: string;
+  bg: string;
+  color: string;
+  logo: React.ReactNode;
 }
+
+const items: Item[] = [
+  { href: "https://g.page/r/CbvXGSvflJQzEAE/review", label: "Laissez-nous un avis", bg: "#ffffff", color: "#4285F4", logo: <GoogleG /> },
+  { href: "https://www.instagram.com/maisonnumidia.dz/", label: "Suivez-nous sur Instagram", bg: "linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)", color: "#ffffff", logo: <InstagramGlyph /> },
+  { href: "https://www.facebook.com/share/1KpReQm4Z5/?mibextid=wwXIfr", label: "Suivez-nous sur Facebook", bg: "#1877F2", color: "#ffffff", logo: <FacebookGlyph /> },
+  { href: "https://wa.me/33782214993", label: "Contactez-nous sur WhatsApp", bg: "#25D366", color: "#ffffff", logo: <WhatsAppGlyph /> },
+];
 
 export default function SocialRail() {
   return (
     <div className="fixed left-3 sm:left-4 top-1/2 -translate-y-1/2 z-50 flex flex-col gap-2.5 sm:gap-3">
-      {/* Avis Google — pastille blanche, G multicolore + texte sur desktop */}
-      <a
-        href="https://g.page/r/CbvXGSvflJQzEAE/review"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Laissez-nous un avis sur Google"
-        className="group flex items-center h-11 sm:h-14 bg-white rounded-full shadow-lg ring-1 ring-black/5 hover:shadow-xl transition-all duration-200"
-      >
-        <span className="flex items-center justify-center w-11 h-11 sm:w-14 sm:h-14 shrink-0">
-          <GoogleG />
-        </span>
-        <span className="hidden md:block pr-5 text-[#4285F4] font-semibold text-sm leading-tight">
-          Laissez-nous<br />un avis !
-        </span>
-      </a>
-
-      <Circle
-        href="https://www.instagram.com/maisonnumidia.dz/"
-        label="Instagram"
-        style={{ background: "linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)" }}
-      >
-        <InstagramGlyph />
-      </Circle>
-
-      <Circle
-        href="https://www.facebook.com/share/1KpReQm4Z5/?mibextid=wwXIfr"
-        label="Facebook"
-        style={{ backgroundColor: "#1877F2" }}
-      >
-        <FacebookGlyph />
-      </Circle>
-
-      <Circle
-        href="https://wa.me/33782214993"
-        label="WhatsApp"
-        style={{ backgroundColor: "#25D366" }}
-      >
-        <WhatsAppGlyph />
-      </Circle>
+      {items.map((it) => (
+        <a
+          key={it.href}
+          href={it.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label={it.label}
+          className="group flex items-center h-11 sm:h-14 rounded-full shadow-lg ring-1 ring-black/5 overflow-hidden hover:shadow-xl transition-shadow duration-200"
+          style={{ background: it.bg }}
+        >
+          <span className="flex items-center justify-center w-11 h-11 sm:w-14 sm:h-14 shrink-0">
+            {it.logo}
+          </span>
+          <span
+            className="max-w-0 group-hover:max-w-[260px] overflow-hidden whitespace-nowrap pr-0 group-hover:pr-5 font-semibold text-sm transition-all duration-300 ease-out"
+            style={{ color: it.color }}
+          >
+            {it.label}
+          </span>
+        </a>
+      ))}
     </div>
   );
 }
