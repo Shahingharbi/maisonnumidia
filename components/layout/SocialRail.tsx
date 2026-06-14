@@ -51,7 +51,7 @@ const items: Item[] = [
 
 export default function SocialRail() {
   return (
-    <div className="fixed left-3 sm:left-4 top-1/2 -translate-y-1/2 z-50 flex flex-col gap-2.5 sm:gap-3">
+    <div className="fixed left-3 sm:left-4 top-1/2 -translate-y-1/2 z-50 flex flex-col items-start gap-2.5 sm:gap-3">
       {items.map((it) => (
         <a
           key={it.href}
@@ -59,14 +59,14 @@ export default function SocialRail() {
           target="_blank"
           rel="noopener noreferrer"
           aria-label={it.label}
-          className="group flex items-center h-11 sm:h-14 rounded-full shadow-lg ring-1 ring-black/5 overflow-hidden hover:shadow-xl transition-shadow duration-200"
+          className="group/btn flex items-center h-11 sm:h-14 rounded-full shadow-lg ring-1 ring-black/5 overflow-hidden hover:shadow-xl transition-shadow duration-200"
           style={{ background: it.bg }}
         >
           <span className="flex items-center justify-center w-11 h-11 sm:w-14 sm:h-14 shrink-0">
             {it.logo}
           </span>
           <span
-            className="max-w-0 group-hover:max-w-[260px] overflow-hidden whitespace-nowrap pr-0 group-hover:pr-5 font-semibold text-sm transition-all duration-300 ease-out"
+            className="max-w-0 group-hover/btn:max-w-[260px] overflow-hidden whitespace-nowrap pr-0 group-hover/btn:pr-5 font-semibold text-sm transition-all duration-300 ease-out"
             style={{ color: it.color }}
           >
             {it.label}
