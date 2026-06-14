@@ -161,7 +161,7 @@ export default function CommanderPage() {
             <div className="mb-4 text-sm bg-amber-50 border border-amber-200 text-amber-800 rounded-xl px-4 py-3">
               Pour finaliser, <strong>confirmez votre commande sur WhatsApp</strong> en
               cliquant le bouton vert ci-dessous, ou appelez le{" "}
-              <a href="tel:0699418569" className="underline font-semibold">06 99 41 85 69</a>.
+              <a href="tel:0794496059" className="underline font-semibold">07 94 49 60 59</a>.
             </div>
           )}
 
@@ -343,11 +343,11 @@ export default function CommanderPage() {
         <div className="mt-6 text-center">
           <p className="text-sm text-gray-400">Des questions ?</p>
           <a
-            href="tel:0699418569"
+            href="tel:0794496059"
             className="inline-flex items-center gap-2 mt-2 text-[#C9A84C] font-medium text-sm hover:text-[#8B6914] transition-colors"
           >
             <Phone size={14} />
-            06 99 41 85 69
+            07 94 49 60 59
           </a>
         </div>
 

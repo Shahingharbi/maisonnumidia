@@ -130,7 +130,7 @@ export default async function MarquePage({ params }: Props) {
                   La livraison est assurée par <strong className="text-[#111111]">Yalidine Express</strong> dans
                   les 58 wilayas algériennes. Délai constaté : 24 à 48h pour Alger et les grandes villes,
                   48 à 72h pour les wilayas plus éloignées. Pour toute question, contactez-nous au{" "}
-                  <strong className="text-[#111111]">06 99 41 85 69</strong>.
+                  <strong className="text-[#111111]">07 94 49 60 59</strong>.
                 </p>
               </div>
             </div>

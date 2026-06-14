@@ -205,11 +205,11 @@ export default async function ProductPage({ params }: Props) {
                   <AddToCartButton product={product} />
                 </div>
                 <a
-                  href="tel:0699418569"
+                  href="tel:0794496059"
                   className="flex items-center justify-center gap-2 border border-gray-200 hover:border-[#C9A84C]/60 text-gray-700 hover:text-[#C9A84C] font-medium py-4 px-5 rounded-xl transition-colors"
                 >
                   <Phone size={16} />
-                  06 99 41 85 69
+                  07 94 49 60 59
                 </a>
               </div>
 

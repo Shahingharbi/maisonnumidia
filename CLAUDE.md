@@ -10,7 +10,7 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Stack :** Next.js 14 App Router, Tailwind v4, TypeScript strict, pnpm
 - **Déploiement :** Vercel — GitHub : Shahingharbi/maisonnumidia
 - **Domaine :** maisonnumidia.store
-- **Téléphone :** 06 99 41 85 69
+- **Téléphone :** 07 94 49 60 59
 - **WhatsApp (FR) :** +33782214993
 
 ### État du catalogue (avril 2026)
@@ -129,7 +129,7 @@ node -e "const p=require('./data/products.json'),fs=require('fs');const b=new Se
 - **Pas de badge "En stock"** dans les cartes produit
 - **Logo :** `<Image src="/logo.png" className="brightness-0" />` — filtre noir sur fond blanc
 - **WhatsApp :** bouton floating bas-droite, couleur `#25D366`
-- **Téléphone dans le header :** toujours `06 99 41 85 69`, jamais "WhatsApp" dans le header
+- **Téléphone dans le header :** toujours `07 94 49 60 59`, jamais "WhatsApp" dans le header
 
 ### Images
 - Fond des photos produit : `bg-white` (jamais grisé)

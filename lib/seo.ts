@@ -3,7 +3,7 @@ import type { BlogArticle } from "@/data/blog";
 
 const SITE_URL = "https://maisonnumidia.store";
 const SITE_NAME = "Maison Numidia";
-const TELEPHONE = "+213699418569";
+const TELEPHONE = "+213794496059";
 const TELEPHONE_FR = "+33782214993";
 
 function getDynamicPriceValidUntil(): string {

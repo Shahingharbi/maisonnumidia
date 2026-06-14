@@ -129,11 +129,11 @@ export default function Header() {
             {/* Right side — MFK style */}
             <div className="hidden lg:flex items-center gap-5">
               <a
-                href="tel:0699418569"
+                href="tel:0794496059"
                 className="flex items-center gap-1.5 text-xs tracking-wide text-[#535359] hover:opacity-60 transition-opacity"
               >
                 <Phone size={13} />
-                06 99 41 85 69
+                07 94 49 60 59
               </a>
               <SearchBar />
               <CartButton />
@@ -248,11 +248,11 @@ export default function Header() {
 
             <div className="pt-6 flex flex-col gap-3">
               <a
-                href="tel:0699418569"
+                href="tel:0794496059"
                 className="flex items-center justify-center gap-2 w-full py-3 border border-[#535359] text-[#535359] text-xs font-medium uppercase tracking-wider"
               >
                 <Phone size={13} />
-                06 99 41 85 69
+                07 94 49 60 59
               </a>
               <Link
                 href="/commander"

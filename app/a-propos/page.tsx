@@ -211,8 +211,8 @@ export default function APropos() {
                   <p className="text-xs uppercase tracking-wider text-gray-400 mb-1">
                     Téléphone
                   </p>
-                  <a href="tel:0699418569" className="text-sm hover:text-[#C9A84C]">
-                    06 99 41 85 69
+                  <a href="tel:0794496059" className="text-sm hover:text-[#C9A84C]">
+                    07 94 49 60 59
                   </a>
                 </div>
               </div>

@@ -18,7 +18,7 @@ const contactPageSchema = {
     "@type": "Store",
     "@id": "https://maisonnumidia.store/#store",
     name: "Maison Numidia",
-    telephone: "+213699418569",
+    telephone: "+213794496059",
     address: {
       "@type": "PostalAddress",
       addressLocality: "Blida",
@@ -27,7 +27,7 @@ const contactPageSchema = {
     contactPoint: [
       {
         "@type": "ContactPoint",
-        telephone: "+213699418569",
+        telephone: "+213794496059",
         contactType: "customer service",
         availableLanguage: ["French", "Arabic"],
         areaServed: "DZ",

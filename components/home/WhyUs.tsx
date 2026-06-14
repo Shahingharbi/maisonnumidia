@@ -19,7 +19,7 @@ const features = [
   {
     icon: Phone,
     title: "Conseillers disponibles",
-    description: "Appelez-nous au 06 99 41 85 69. Réponse rapide garantie tous les jours.",
+    description: "Appelez-nous au 07 94 49 60 59. Réponse rapide garantie tous les jours.",
   },
 ];
 
