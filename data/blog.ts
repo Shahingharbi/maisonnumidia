@@ -12,6 +12,7 @@ export interface BlogArticle {
     name: string;
     role: string;
   };
+  faq?: { question: string; answer: string }[];
 }
 
 export const articles: BlogArticle[] = [
@@ -1321,6 +1322,181 @@ Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, 
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
     }
+  },
+
+  {
+    slug: "parfum-original-algerie",
+    title: "Parfum Original en Algérie : Guide Complet pour Acheter Authentique en 2026",
+    metaTitle: "Parfum Original en Algérie — Où Acheter Authentique (2026)",
+    metaDescription: "Comment acheter un parfum 100% original en Algérie en 2026 : où commander, comment reconnaître un faux, prix réels en dinar, paiement à la livraison dans les 58 wilayas.",
+    publishedAt: "2026-06-09",
+    category: "Guide d'achat",
+    readTime: 9,
+    excerpt: "Acheter un parfum original en Algérie sans se faire avoir : où commander, comment repérer une contrefaçon, les vrais prix en dinar et pourquoi le paiement à la livraison change tout.",
+    content: `## Parfum original en Algérie : la réponse en bref
+
+Un parfum original en Algérie est un flacon authentique fabriqué par la marque elle-même (Dior, Chanel, Lattafa, Al Haramain...), par opposition aux contrefaçons qui circulent largement sur le marché. Pour acheter un parfum 100% original en Algérie, le moyen le plus sûr est de passer par une parfumerie spécialisée qui garantit l'authenticité et propose le paiement à la livraison — ce qui permet de vérifier le flacon avant de payer.
+
+Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums originaux de plus de 120 marques, livrés dans les 58 wilayas avec paiement à la réception et droit de refus du colis. (À ne pas confondre avec la chanteuse Numidia Lezoul : Maison Numidia est une boutique de parfums.)
+
+---
+
+## Pourquoi l'authenticité est un vrai sujet en Algérie
+
+Le marché algérien du parfum est massivement touché par la contrefaçon. On trouve des imitations sur les marchés, dans certaines boutiques et surtout sur les réseaux sociaux, vendues à des prix cassés. Le problème : un faux ne tient pas, peut irriter la peau, et sent souvent l'alcool pur dès l'ouverture. Acheter original, ce n'est pas du snobisme — c'est s'assurer que le jus correspond vraiment à la création de la marque, qu'il tient sur la journée et qu'il ne présente aucun risque cutané.
+
+La règle d'or : **un prix trop bas est le premier signal d'alarme.** Un Dior ou un Chanel a un coût de production réel ; vendu à 2 000 DA, c'est presque toujours un faux.
+
+## Où acheter un parfum original en Algérie ?
+
+Le canal le plus fiable est une **parfumerie en ligne spécialisée** qui (1) garantit l'authenticité par écrit, (2) propose le **paiement à la livraison (COD)**, et (3) accepte le **refus du colis** si le flacon n'est pas conforme. Ces trois conditions protègent l'acheteur : vous ne payez qu'après avoir reçu et vérifié votre parfum.
+
+C'est exactement le modèle de Maison Numidia : commande en ligne, livraison Yalidine 24-72h, paiement cash à la réception, aucune avance, aucune carte bancaire. Que vous soyez à **Alger, Oran, Constantine, Annaba, Blida, Sétif** ou dans n'importe quelle wilaya, le colis arrive chez vous et vous payez seulement s'il vous convient.
+
+## Comment reconnaître un parfum original d'un faux ?
+
+| Indice | Parfum original | Contrefaçon |
+| --- | --- | --- |
+| Prix | Cohérent avec le marché | Trop bas pour être vrai |
+| Flacon | Verre épais, spray fluide et régulier | Verre léger, spray qui crachote |
+| Odeur | Évolue sur la peau (tête, cœur, fond) | Sent l'alcool, disparaît en 1h |
+| Batch code | Présent et identique boîte/flacon | Absent ou incohérent |
+| Boîte | Impression nette, cellophane propre | Fautes d'orthographe, cellophane bâclée |
+
+Pour le détail complet, lisez notre guide [comment reconnaître un parfum original](/blog/reconnaitre-parfum-original).
+
+## Combien coûte un parfum original en Algérie ?
+
+Les prix réels d'un parfum authentique en Algérie dépendent de la gamme :
+
+| Gamme | Exemples | Prix indicatif |
+| --- | --- | --- |
+| Orientaux accessibles | Lattafa, Al Haramain, Rasasi | 7 000 - 10 000 DA |
+| Designers | [Dior Sauvage](/parfums/dior-sauvage), [Bleu de Chanel](/parfums/bleu-de-chanel) | 22 000 - 30 000 DA |
+| Niche / prestige | Creed, MFK Baccarat, Roja | 70 000 - 160 000 DA |
+
+Si un vendeur vous propose un Creed Aventus ou un Baccarat Rouge 540 à quelques milliers de dinars, c'est un faux : ces parfums coûtent réellement cher, même en Algérie.
+
+## Maison Numidia : l'authenticité garantie, payée à la livraison
+
+Maison Numidia s'engage sur l'authenticité de chaque flacon. Chaque parfum est contrôlé avant expédition, et vous gardez le **droit de refuser la livraison** si quoi que ce soit vous semble douteux à la réception — sans question, sans pénalité.
+
+Explorez le catalogue par catégorie : [parfums homme](/parfums-homme), [parfums femme](/parfums-femme), [parfums orientaux](/parfums-orientaux), ou parcourez [toutes les marques](/marques) disponibles en Algérie.`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    },
+    faq: [
+      { question: "Comment être sûr d'acheter un parfum original en Algérie ?", answer: "Passez par une parfumerie spécialisée qui garantit l'authenticité par écrit, propose le paiement à la livraison et accepte le refus du colis. Vous ne payez qu'après avoir reçu et vérifié le flacon. Méfiez-vous des prix trop bas : un parfum de grande marque a un coût de production réel." },
+      { question: "Où acheter un parfum original pas cher en Algérie ?", answer: "Les orientaux originaux (Lattafa, Al Haramain, Rasasi) offrent le meilleur rapport qualité-prix, entre 7 000 et 10 000 DA, tout en étant 100% authentiques. Maison Numidia propose ces marques avec livraison dans les 58 wilayas et paiement à la réception." },
+      { question: "Peut-on payer à la livraison pour un parfum en Algérie ?", answer: "Oui. Le paiement à la livraison (COD) est le standard en Algérie et la protection la plus efficace contre les contrefaçons : vous recevez le colis, vous vérifiez le parfum, et vous payez seulement s'il est conforme. Maison Numidia fonctionne uniquement en paiement à la réception." },
+      { question: "Combien de temps prend la livraison d'un parfum en Algérie ?", answer: "Avec Yalidine Express, comptez 24 à 48h pour Alger, Oran, Blida et les grandes villes du nord, et 48 à 72h pour les wilayas plus éloignées comme Tamanrasset ou Adrar." },
+      { question: "Maison Numidia, c'est quoi ?", answer: "Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums 100% originaux de plus de 120 marques (Dior, Chanel, Lattafa, Al Haramain, YSL...). Livraison Yalidine dans les 58 wilayas, paiement à la livraison, garantie d'authenticité avec droit de refus." }
+    ]
+  },
+
+  {
+    slug: "parfum-pas-cher-original-algerie",
+    title: "Parfum Pas Cher mais Original en Algérie : Le Guide Anti-Arnaque 2026",
+    metaTitle: "Parfum Pas Cher Original en Algérie — Guide 2026",
+    metaDescription: "Peut-on acheter un parfum original pas cher en Algérie ? Oui : voici les meilleures fragrances authentiques à petit prix, leurs prix réels en dinar et comment éviter les arnaques.",
+    publishedAt: "2026-06-09",
+    category: "Guide d'achat",
+    readTime: 7,
+    excerpt: "Original ET abordable, c'est possible en Algérie. Voici les meilleurs parfums authentiques à petit budget, avec leurs prix réels en dinar et les pièges à éviter.",
+    content: `## Parfum pas cher mais original en Algérie : c'est possible ?
+
+Oui, on peut acheter un parfum original pas cher en Algérie — à condition de cibler les bonnes marques. Les maisons orientales comme Lattafa, Al Haramain, Rasasi ou Armaf proposent des parfums 100% authentiques entre 6 000 et 10 000 DA, avec une qualité et une tenue qui rivalisent avec des designers vendus trois fois plus cher. Le piège à éviter : confondre "pas cher" avec "contrefaçon". Un vrai parfum à petit prix existe ; un faux Dior à 2 000 DA reste un faux.
+
+Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose ces parfums abordables et originaux avec paiement à la livraison dans les 58 wilayas.
+
+---
+
+## Les meilleurs parfums originaux à petit prix en Algérie
+
+| Parfum | Style | Prix indicatif |
+| --- | --- | --- |
+| [Lattafa Asad](/parfums/lattafa-asad) | Boisé ambré puissant | ~8 500 DA |
+| [Lattafa Oud Mood](/parfums/lattafa-oud-mood) | Oud oriental | ~7 500 DA |
+| [Al Haramain Amber Oud](/parfums/amber-oud-al-haramain) | Ambré gourmand | ~9 800 DA |
+| Rasasi Hawas | Aquatique frais | ~7 700 DA |
+| Armaf Club de Nuit | Inspiré niche | ~6 500 DA |
+
+Ces fragrances sont devenues des références mondiales : Lattafa Khamrah et Asad, par exemple, sont régulièrement comparées à des parfums de niche bien plus coûteux.
+
+## Pourquoi les orientaux sont le meilleur rapport qualité-prix
+
+Les maisons du Golfe (Lattafa, Al Haramain, Ajmal) produisent à grande échelle avec des concentrations élevées en huiles parfumées. Résultat : une **tenue de 8 à 12 heures** et un **sillage généreux** pour un prix très accessible. C'est exactement ce que recherche le consommateur algérien : un parfum qui dure toute la journée, qui se remarque, sans exploser le budget. En 2026, ces marques explosent en popularité en Algérie, portées par le retour du oud et des gourmands ambrés.
+
+## Comment éviter les arnaques du "pas cher"
+
+La règle est simple : un prix anormalement bas sur une **grande marque** (Dior, Chanel, Creed) est un faux. En revanche, un prix bas sur une **marque orientale** (Lattafa, Armaf) est normal — c'est leur positionnement. Pour ne pas vous faire avoir :
+
+- Vérifiez que le vendeur garantit l'authenticité **par écrit**.
+- Exigez le **paiement à la livraison** : ne payez jamais d'avance.
+- Gardez le **droit de refuser** le colis si le flacon est douteux.
+
+## Acheter malin en Algérie avec Maison Numidia
+
+Maison Numidia sélectionne des parfums originaux à tous les budgets, du oriental accessible aux grandes maisons. Tout est payé à la réception, livré par Yalidine partout en Algérie. Découvrez la sélection [parfums orientaux](/parfums-orientaux), ou comparez avec notre classement [meilleur parfum homme](/blog/meilleur-parfum-homme).`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    },
+    faq: [
+      { question: "Quel est le meilleur parfum original pas cher en Algérie ?", answer: "Lattafa Asad et Lattafa Khamrah sont parmi les meilleurs : 100% originaux, tenue de plus de 10 heures, autour de 7 500 à 8 500 DA. Al Haramain Amber Oud et Rasasi Hawas sont aussi d'excellents choix abordables." },
+      { question: "Un parfum pas cher peut-il être original ?", answer: "Oui, à condition de viser les marques orientales (Lattafa, Al Haramain, Armaf) dont le positionnement est naturellement abordable. En revanche, une grande marque (Dior, Chanel) vendue très peu cher est presque toujours une contrefaçon." },
+      { question: "Combien coûte un bon parfum oriental en Algérie ?", answer: "Entre 6 000 et 10 000 DA pour les références authentiques de Lattafa, Al Haramain, Rasasi ou Armaf, avec une tenue et un sillage comparables à des parfums bien plus chers." }
+    ]
+  },
+
+  {
+    slug: "meilleur-parfum-oud-algerie",
+    title: "Meilleur Parfum Oud et Oriental en Algérie 2026 : Le Classement",
+    metaTitle: "Meilleur Parfum Oud Algérie 2026 — Classement Oriental",
+    metaDescription: "Le classement des meilleurs parfums oud et orientaux à acheter en Algérie en 2026 : Lattafa Khamrah, Al Haramain, Rasasi... Prix réels en dinar, tenue, livraison 58 wilayas.",
+    publishedAt: "2026-06-09",
+    category: "Guide d'achat",
+    readTime: 8,
+    excerpt: "Le oud est roi en Algérie. Voici les meilleurs parfums oud et orientaux authentiques de 2026, classés par profil, avec prix en dinar et conseils de port.",
+    content: `## Quel est le meilleur parfum oud en Algérie en 2026 ?
+
+Le meilleur parfum oud en Algérie en 2026 est, selon les ventes et les avis, **Lattafa Khamrah** : un gourmand-oriental à la cannelle, datte et oud, avec une tenue de plus de 10 heures pour environ 8 000 DA. Pour un profil plus boisé et puissant, **Lattafa Asad** et **Al Haramain Amber Oud** dominent. Le oud (bois d'agar) est la signature de la parfumerie orientale, particulièrement appréciée en Algérie pour sa profondeur et sa longévité exceptionnelle.
+
+Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose toute la sélection orientale et oud avec paiement à la livraison dans les 58 wilayas.
+
+---
+
+## Le classement des meilleurs parfums oud et orientaux
+
+| Parfum | Profil olfactif | Prix indicatif |
+| --- | --- | --- |
+| Lattafa Khamrah | Cannelle, datte, oud, vanille | ~8 000 DA |
+| [Lattafa Asad](/parfums/lattafa-asad) | Oud, tabac, café, boisé | ~8 500 DA |
+| [Al Haramain Amber Oud](/parfums/amber-oud-al-haramain) | Ambre, oud, gourmand | ~9 800 DA |
+| Al Haramain L'Aventure | Boisé frais ambré | ~8 500 DA |
+| Rasasi Hawas | Aquatique, oud léger | ~7 700 DA |
+
+## Pourquoi le oud cartonne en Algérie
+
+Le oud correspond parfaitement au goût algérien : un parfum qui **marque sa présence**, qui **dure toute la journée** et qui dégage une impression de luxe. Là où un designer frais s'évapore en quelques heures sous la chaleur, un oriental au oud gagne en intensité sur peau chaude. C'est aussi une question de culture : la parfumerie orientale est ancrée dans les traditions du Maghreb et du Golfe. En 2026, le oud gagne encore en popularité, porté par des maisons comme Lattafa qui démocratisent des compositions dignes de la niche à prix accessible.
+
+## Comment bien porter un parfum oud
+
+Le oud est puissant : **2 à 3 pulvérisations suffisent.** Appliquez sur les points de pulsation (cou, poignets) et évitez de frotter. Pour le quotidien et le bureau, privilégiez les orientaux frais (Rasasi Hawas, L'Aventure). Pour les soirées, mariages et l'Aïd, les oud gourmands intenses (Khamrah, Asad, Amber Oud) sont imbattables.
+
+## Acheter votre parfum oud en Algérie
+
+Tous ces parfums sont disponibles chez Maison Numidia, originaux garantis, payés à la livraison. Découvrez la collection complète [parfums orientaux](/parfums-orientaux), ou lisez notre [avis détaillé sur Lattafa Khamrah](/blog/lattafa-khamrah-avis).`,
+    author: {
+      name: "L'équipe Maison Numidia",
+      role: "Experts parfumerie, basés à Blida"
+    },
+    faq: [
+      { question: "Quel est le meilleur parfum oud en Algérie ?", answer: "Lattafa Khamrah est le plus populaire : gourmand-oriental cannelle-datte-oud, tenue de plus de 10 heures, autour de 8 000 DA. Lattafa Asad et Al Haramain Amber Oud sont aussi d'excellents choix pour un profil plus boisé et puissant." },
+      { question: "Combien coûte un parfum oud original en Algérie ?", answer: "Les meilleurs parfums oud authentiques (Lattafa, Al Haramain, Rasasi) coûtent entre 7 500 et 10 000 DA en Algérie, avec une tenue et un sillage dignes de parfums de niche bien plus chers." },
+      { question: "Le oud est-il adapté au climat algérien ?", answer: "Oui, parfaitement. Le oud et les orientaux gagnent en intensité sur peau chaude, là où les parfums frais s'évaporent vite. C'est ce qui en fait des valeurs sûres pour les étés algériens comme pour les soirées et l'Aïd." }
+    ]
   }
 
 ];

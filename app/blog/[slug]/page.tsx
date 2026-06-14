@@ -4,7 +4,7 @@ import Link from "next/link";
 import { getArticleBySlug, getAllArticleSlugs } from "@/data/blog";
 import { Clock, ArrowLeft, ArrowRight } from "lucide-react";
 import Breadcrumb from "@/components/layout/Breadcrumb";
-import { getBlogPostingSchema, getBreadcrumbSchema } from "@/lib/seo";
+import { getBlogPostingSchema, getBreadcrumbSchema, getFAQSchema } from "@/lib/seo";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -66,16 +66,40 @@ function renderContent(content: string) {
       );
     } else if (line.startsWith("---")) {
       elements.push(<hr key={key++} className="border-gray-100 my-8" />);
-    } else if (line.startsWith("| ")) {
-      // Table — skip for now, render as pre
+    } else if (line.trim().startsWith("|")) {
+      // Tableau markdown : on collecte les lignes consécutives
+      const rows: string[] = [];
+      let j = i;
+      while (j < lines.length && lines[j].trim().startsWith("|")) {
+        rows.push(lines[j]);
+        j++;
+      }
+      i = j - 1;
+      const cells = (r: string) => r.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
+      const header = cells(rows[0]);
+      const bodyStart = rows[1] && /^[\s|:-]+$/.test(rows[1]) ? 2 : 1;
+      const body = rows.slice(bodyStart).map(cells);
       elements.push(
         <div key={key++} className="overflow-x-auto my-6">
           <table className="w-full text-sm border-collapse">
+            <thead>
+              <tr>
+                {header.map((h, hi) => (
+                  <th key={hi} className="border border-gray-200 bg-[#FAFAF8] px-3 py-2 text-left font-semibold text-[#111111]">
+                    {h}
+                  </th>
+                ))}
+              </tr>
+            </thead>
             <tbody>
-              {line.split("|").filter(Boolean).map((cell, ci) => (
-                <td key={ci} className="border border-gray-100 px-3 py-2 text-gray-600">
-                  {cell.trim()}
-                </td>
+              {body.map((row, ri) => (
+                <tr key={ri}>
+                  {row.map((cell, ci) => (
+                    <td key={ci} className="border border-gray-100 px-3 py-2 text-gray-600">
+                      {parseInline(cell)}
+                    </td>
+                  ))}
+                </tr>
               ))}
             </tbody>
           </table>
@@ -121,6 +145,7 @@ export default async function BlogArticlePage({ params }: Props) {
     { name: "Blog", url: "/blog" },
     { name: article.title, url: `/blog/${slug}` },
   ]);
+  const faqSchema = article.faq?.length ? getFAQSchema(article.faq) : null;
 
   return (
     <>
@@ -136,6 +161,12 @@ export default async function BlogArticlePage({ params }: Props) {
           __html: JSON.stringify(breadcrumbSchema),
         }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       {/* Header */}
       <div className="bg-white border-b border-gray-100 pt-6 pb-10">
@@ -202,6 +233,26 @@ export default async function BlogArticlePage({ params }: Props) {
           <div className="prose-custom">
             {renderContent(article.content)}
           </div>
+
+          {/* FAQ — bloc Q/R structuré (citable par les IA + schema FAQPage) */}
+          {article.faq?.length ? (
+            <section className="mt-12 border-t border-gray-100 pt-10">
+              <h2 className="text-xl sm:text-2xl font-bold text-[#111111] mb-6">
+                Questions fréquentes
+              </h2>
+              <div className="space-y-3">
+                {article.faq.map((f) => (
+                  <details key={f.question} className="group bg-[#FAFAF8] rounded-xl border border-gray-100 p-4 sm:p-5">
+                    <summary className="font-semibold text-[#111111] cursor-pointer list-none flex items-center justify-between gap-3">
+                      {f.question}
+                      <span className="text-[#C9A84C] text-lg transition-transform group-open:rotate-45">+</span>
+                    </summary>
+                    <p className="text-gray-600 text-sm leading-relaxed mt-3">{f.answer}</p>
+                  </details>
+                ))}
+              </div>
+            </section>
+          ) : null}
 
           {/* Footer CTA */}
           <div className="mt-14 p-6 sm:p-8 bg-[#F8F7F5] rounded-2xl border border-[#E8E8E8]">

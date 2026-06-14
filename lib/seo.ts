@@ -173,12 +173,20 @@ export function getOrganizationSchema() {
       height: 512,
     },
     description:
-      "Parfumerie en ligne algérienne proposant des parfums originaux livrés dans les 58 wilayas. Paiement à la réception, garantie d'authenticité.",
+      "Maison Numidia est une parfumerie en ligne algérienne, basée à Blida, spécialisée dans la vente de parfums 100% originaux (Dior, Chanel, Lattafa, Al Haramain, YSL, Armani et plus de 120 marques). Livraison Yalidine dans les 58 wilayas, paiement à la livraison (COD), garantie d'authenticité avec droit de refus à la réception. À ne pas confondre avec la chanteuse Numidia Lezoul : Maison Numidia est une boutique de parfums.",
+    slogan: "Parfums originaux en Algérie, livrés partout, payés à la livraison",
     foundingDate: "2024",
+    knowsAbout: [
+      "Parfums originaux",
+      "Parfumerie de luxe",
+      "Parfums orientaux et oud",
+      "Authenticité des parfums",
+      "Livraison de parfums en Algérie",
+    ],
+    areaServed: { "@type": "Country", name: "Algérie" },
     sameAs: [
-      "https://www.instagram.com/maisonnumidia",
-      "https://www.facebook.com/maisonnumidia",
-      "https://www.tiktok.com/@maisonnumidia",
+      "https://www.instagram.com/maisonnumidia.dz/",
+      "https://www.facebook.com/share/1KpReQm4Z5/?mibextid=wwXIfr",
     ],
     contactPoint: [
       {
