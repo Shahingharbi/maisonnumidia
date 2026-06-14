@@ -128,7 +128,7 @@ node -e "const p=require('./data/products.json'),fs=require('fs');const b=new Se
 - **Pas d'étoiles** de notation sur aucune page
 - **Pas de badge "En stock"** dans les cartes produit
 - **Logo :** `<Image src="/logo.png" className="brightness-0" />` — filtre noir sur fond blanc
-- **WhatsApp :** bouton floating bas-droite, couleur `#25D366`
+- **Réseaux sociaux :** rail flottant à gauche (`components/layout/SocialRail.tsx`) — avis Google, Instagram, Facebook, WhatsApp (`#25D366`), logos officiels SVG. (Remplace l'ancien bouton WhatsApp bas-droite.)
 - **Téléphone dans le header :** toujours `07 94 49 60 59`, jamais "WhatsApp" dans le header
 
 ### Images

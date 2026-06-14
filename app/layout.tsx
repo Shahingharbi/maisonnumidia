@@ -4,7 +4,7 @@ import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import WhatsAppButton from "@/components/layout/WhatsAppButton";
+import SocialRail from "@/components/layout/SocialRail";
 import { CartProvider } from "@/contexts/CartContext";
 import {
   getOrganizationSchema,
@@ -148,7 +148,7 @@ export default function RootLayout({
           <Header />
           <main>{children}</main>
           <Footer />
-          <WhatsAppButton />
+          <SocialRail />
         </CartProvider>
       </body>
     </html>
