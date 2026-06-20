@@ -3045,10 +3045,10 @@
   "slug": "guerlain-aqua-allegoria-bergamote-calabria",
   "recommendedDA": 20000,
   "confidence": "high",
-  "note": "Notino EDT 75ml: prix mini 30j 83,80€/100ml (=~63€ pour 75ml) ; street 64,99€ pour 75ml rechargeable. ~72€ x270 = 19440. Prix actuel 20000 correct, on garde.",
-  "euro": 72,
-  "euroX270": 19440,
-  "algerianDA": null
+  "euro": 80,
+  "euroX270": 21600,
+  "algerianDA": null,
+  "note": "Guerlain Aqua Allegoria Bergamote Calabria EDT 75ml, grande maison niche-luxe. EU ~70-95€ (Guerlain/Superdrug) → ×270≈21600. 20000 = prix actuel, justifié."
  },
  {
   "slug": "guerlain-mon-guerlain-sparkling-bouquet",
@@ -4912,5 +4912,1613 @@
   "recommendedDA": 26000,
   "confidence": "medium",
   "note": "Bon Bon EDP : la marque ne produit pas de 100ml (30/50/90ml). Le flagship est le 90ml ~€85-90 (idealo €77.87, ledenicheur €98.99, retail plein ~€90). €87 x270 = 23490. L'actuel 26000 (~€96) reste dans la fourchette retail plein tarif : on conserve 26000. NB : doublon probable avec slug 'bonbon-viktor-rolf' (meme produit 90ml)."
+ },
+ {
+  "slug": "dkny-be-delicious-homme",
+  "recommendedDA": 12500,
+  "confidence": "medium",
+  "euro": 42,
+  "euroX270": 11340,
+  "algerianDA": null,
+  "note": "DKNY designer brand, men EDT 100ml. EU ~40-46€ (FragranceNet/Ulta). Listed on Algerian sites (7Doors Alger). 12500 cohérent avec gamme designer mid; current 13500 un peu haut."
+ },
+ {
+  "slug": "dkny-be-delicious-femme",
+  "recommendedDA": 14000,
+  "confidence": "medium",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "note": "DKNY Be Delicious femme EDP 100ml, le plus iconique de la marque. EU ~46-67 USD (~50€). ×270≈13500. Femme EDP > homme EDT, donc 14000 > 12500. Current 16000 trop haut."
+ },
+ {
+  "slug": "el-nabil-musc-makkah",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 18,
+  "euroX270": 4860,
+  "algerianDA": null,
+  "note": "Musc oriental accessible El Nabil EDP 50ml. EU ~15-20€ → ×270≈4860, sous le plancher. PLANCHER 6000 appliqué. Marque musc grand public."
+ },
+ {
+  "slug": "el-nabil-musc-tahara",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 17,
+  "euroX270": 4590,
+  "algerianDA": null,
+  "note": "Musc Tahara El Nabil (huile intime sans alcool) 65ml. Tier identique à Makkah, EU ~15-18€. PLANCHER 6000 appliqué, cohérence intra-marque avec Makkah."
+ },
+ {
+  "slug": "5th-avenue-elizabeth-arden",
+  "recommendedDA": 10500,
+  "confidence": "high",
+  "euro": 37,
+  "euroX270": 9990,
+  "algerianDA": null,
+  "note": "Elizabeth Arden 5th Avenue EDP 125ml. EU ~36-37€ (Spartoo) → ×270≈10000, gros volume. 10500 arrondi. Même produit que fifth-avenue slug → prix identique."
+ },
+ {
+  "slug": "elizabeth-arden-green-tea",
+  "recommendedDA": 8500,
+  "confidence": "high",
+  "euro": 31,
+  "euroX270": 8370,
+  "algerianDA": null,
+  "note": "Elizabeth Arden Green Tea EDT 100ml, fragrance d'entrée fraîche. EU ~28-35€ → ×270≈8400. Cohérent avec White Tea (même ligne EDT)."
+ },
+ {
+  "slug": "elizabeth-arden-white-tea",
+  "recommendedDA": 8500,
+  "confidence": "high",
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "note": "Elizabeth Arden White Tea EDT 100ml. EU ~30-42€. Même ligne/tier que Green Tea → prix identique 8500 pour cohérence intra-marque."
+ },
+ {
+  "slug": "elizabeth-arden-fifth-avenue",
+  "recommendedDA": 10500,
+  "confidence": "high",
+  "euro": 37,
+  "euroX270": 9990,
+  "algerianDA": null,
+  "note": "Fifth Avenue = même produit que 5th-avenue (125ml EDP, ~37€). Prix aligné 10500 pour éviter incohérence entre les deux slugs."
+ },
+ {
+  "slug": "elizabeth-taylor-white-diamonds",
+  "recommendedDA": 6500,
+  "confidence": "high",
+  "euro": 26,
+  "euroX270": 7020,
+  "algerianDA": null,
+  "note": "Elizabeth Taylor White Diamonds EDT 100ml, parfum célébrité 1991 accessible. EU ~24-28€ (£24 UK, ~25$ US). ×270≈6800. 6500 = prix actuel, au-dessus du plancher."
+ },
+ {
+  "slug": "escada-magnetism",
+  "recommendedDA": 11000,
+  "confidence": "medium",
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "note": "Escada Magnetism EDP 75ml (discontinué, ~25-30€ destockage EU). Escada = designer. Aligné à Joyful pour cohérence intra-marque; current 12000 légèrement réduit."
+ },
+ {
+  "slug": "escada-joyful",
+  "recommendedDA": 11000,
+  "confidence": "medium",
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "note": "Escada Joyful EDP 75ml. EU 50ml ~50€, 75ml jusqu'à 74€ (Notino/envie2parfum). ×270 élevé mais marché DZ tire vers ~11000. Cohérent avec Magnetism."
+ },
+ {
+  "slug": "whisky-silver-evaflor",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 8,
+  "euroX270": 2160,
+  "algerianDA": 3100,
+  "note": "Evaflor Whisky Silver EDT 100ml, entrée de gamme. Prix DZ réel très bas (Jumia, ~3100 actuel) mais EN-DESSOUS du plancher. PLANCHER 6000 strict appliqué."
+ },
+ {
+  "slug": "franck-olivier",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 13,
+  "euroX270": 3510,
+  "algerianDA": 4000,
+  "note": "Franck Olivier signature EDP 75ml, marque accessible très populaire au Maghreb (Jumia DZ). Prix DZ ~3000-4000 < plancher. PLANCHER 6000 appliqué."
+ },
+ {
+  "slug": "franck-olivier-club-night",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 14,
+  "euroX270": 3780,
+  "algerianDA": 4700,
+  "note": "Franck Olivier Club Night EDT 100ml. Même tier accessible que le reste de la gamme. PLANCHER 6000 appliqué, cohérence intra-marque."
+ },
+ {
+  "slug": "franck-olivier-black-touch",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 14,
+  "euroX270": 3780,
+  "algerianDA": 4500,
+  "note": "Franck Olivier Black Touch EDT 100ml. Tier accessible Maghreb. PLANCHER 6000 appliqué, aligné avec Club Night et la signature."
+ },
+ {
+  "slug": "hugo-boss-bottled",
+  "recommendedDA": 16500,
+  "euro": 52,
+  "euroX270": 14040,
+  "algerianDA": 17000,
+  "confidence": "high",
+  "note": "Boss Bottled EDT 100ml, flagship Hugo Boss homme. Prix DZ 12500-17000 (ouedkniss/odorem-dz), EU ~52 EUR notino. Reference de la gamme, on aligne a 16500."
+ },
+ {
+  "slug": "boss-alive-hugo-boss",
+  "recommendedDA": 15000,
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Alive EDP 50ml femme. EU ~55 EUR/50ml notino. Doublon avec boss-alive (80ml) ; ce SKU 50ml doit etre <= le 80ml. Recale de 21800 (trop haut) a 15000."
+ },
+ {
+  "slug": "boss-bottled-night",
+  "recommendedDA": 14500,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Bottled Night EDT 100ml homme, flanker du Bottled (un cran sous le pilier). Coherent ~14500, legerement sous le Bottled a 16500."
+ },
+ {
+  "slug": "hugo-man-hugo-boss",
+  "recommendedDA": 13000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 12400,
+  "confidence": "high",
+  "note": "Hugo Man EDT 125ml. Prix DZ ~12400 (odorem-dz). EDT leger gros format, on retient 13000."
+ },
+ {
+  "slug": "boss-intense-hugo-boss",
+  "recommendedDA": 16000,
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Bottled Intense EDP 100ml homme (dispo Must DZ). EDP plus concentre que Bottled EDT, on garde 16000."
+ },
+ {
+  "slug": "boss-femme-hugo-boss",
+  "recommendedDA": 12500,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Femme/Woman EDT 90ml. EDT femme mainstream, EU ~45 EUR. Prix actuel 12500 coherent, conserve."
+ },
+ {
+  "slug": "boss-ma-vie-hugo-boss",
+  "recommendedDA": 13500,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Ma Vie EDP 75ml femme. EU ~50 EUR/75ml notino/flaconi. Prix actuel 13500 = EUR x270, on conserve."
+ },
+ {
+  "slug": "boss-the-scent-homme",
+  "recommendedDA": 14000,
+  "euro": 52,
+  "euroX270": 14040,
+  "algerianDA": 12800,
+  "confidence": "medium",
+  "note": "Boss The Scent EDT 100ml homme. Set 50ml a 12800 DZ (Jumia), full 100ml EU ~52 EUR. On retient 14000 pour le 100ml."
+ },
+ {
+  "slug": "boss-alive",
+  "recommendedDA": 16000,
+  "euro": 62,
+  "euroX270": 16740,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Alive EDP 80ml femme (SKU principal). EU ~62 EUR/80ml notino. Doublon avec boss-alive-hugo-boss (50ml) ; ce 80ml doit etre > le 50ml. Recale de 13500 a 16000."
+ },
+ {
+  "slug": "hugo-xx-women",
+  "recommendedDA": 9500,
+  "euro": 35,
+  "euroX270": 9450,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Hugo XX EDT 60ml femme, petit format leger. EU ~35 EUR notino. Prix actuel 9500 coherent (plancher respecte), conserve."
+ },
+ {
+  "slug": "hugo-boss-hugo-homme",
+  "recommendedDA": 13000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": 12400,
+  "confidence": "medium",
+  "note": "Hugo (Man) EDT 125ml homme, equivalent gros format du Hugo Man. Aligne a 13000 par coherence intra-marque."
+ },
+ {
+  "slug": "hugo-deep-red",
+  "recommendedDA": 12000,
+  "euro": 34,
+  "euroX270": 9180,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Hugo Deep Red EDP 90ml femme. EU ~34 EUR (parfum mature/discount). Au-dessus du EUR x270 par alignement gamme femme HB ; 12000 raisonnable, baisse leger de 12800."
+ },
+ {
+  "slug": "hugo-boss-nuit-femme",
+  "recommendedDA": 13000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Nuit pour Femme EDP 75ml. EU ~48 EUR. Coherent gamme femme HB, baisse leger de 14300 a 13000."
+ },
+ {
+  "slug": "hugo-boss-orange-homme",
+  "recommendedDA": 8000,
+  "euro": 36,
+  "euroX270": 9720,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Hugo/Boss Orange Man EDT 60ml. EU 36.20 EUR/100ml notino -> petit 60ml. Format leger, on retient 8000 (>6000), baisse de 11300."
+ },
+ {
+  "slug": "hugo-boss-the-scent-femme",
+  "recommendedDA": 13500,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": 16800,
+  "confidence": "medium",
+  "note": "The Scent For Her EDP 50ml. DZ 16800 pour le 100ml (odorem) -> notre 50ml doit etre nettement moins. Recale de 20700 (trop haut) a 13500."
+ },
+ {
+  "slug": "hugo-boss-bottled-sport",
+  "recommendedDA": 13000,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Boss Bottled Sport EDT 100ml homme, flanker frais du Bottled (un cran sous le pilier). Coherent 13000, conserve env. prix actuel."
+ },
+ {
+  "slug": "hugo-boss-the-scent-private-accord",
+  "recommendedDA": 15000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 15000,
+  "confidence": "medium",
+  "note": "Flanker The Scent (EDT/EDP), aujourd'hui discontinue. Pas de prix EU clair (revendeurs eBay/Jomashop uniquement). Marche algerien Boss EDP/EDT : ~11900-15500 DA (LEENA Hugo Boss homme 11900 DA solde, Odorem Boss Blanc 14500 DA). Doit rester sous les versions Parfum/Elixir pour coherence intra-marque. Prix actuel 16000 DA legerement haut pour un flanker EDT discontinue -> 15000 DA."
+ },
+ {
+  "slug": "hugo-boss-the-scent-elixir",
+  "recommendedDA": 18500,
+  "euro": 105,
+  "euroX270": 28350,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Parfum Intense, lance 2024. EU street ~100-115 EUR (FragranceNet ~110-117 USD, officiel Hugo Boss 168 USD). EUR x270 (~105 EUR) = ~28000 DA, mais le marche algerien plafonne Boss homme bien plus bas. Concentration premium (Parfum Intense) -> haut de gamme Boss. Aligne avec Bottled Parfum pour coherence (les deux sont qualite Parfum). Prix actuel 19000 DA -> 18500 DA, arrondi."
+ },
+ {
+  "slug": "hugo-boss-bottled-parfum",
+  "recommendedDA": 18500,
+  "euro": 90.5,
+  "euroX270": 24435,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Concentration Parfum, 100ml. Notino.fr 90,50 EUR x270 = 24435 DA (EU eleve pour cette concentration). Reference algerienne : Boss homme mainstream ~11900-17500 DA (LEENA), Boss Blanc 14500 DA (Odorem) ; reste sur Jumia DZ. La concentration Parfum justifie le haut de la fourchette. Prix actuel 19000 DA coherent ; aligne a 18500 DA avec The Scent Elixir (meme grade Parfum premium)."
+ },
+ {
+  "slug": "guess-seductive-homme",
+  "recommendedDA": 9500,
+  "euro": 33,
+  "euroX270": 8910,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Guess mainstream designer. Notino ~€30-35 EDT 100ml ×270 ≈ 8900. Marche DZ Guess autour 8000-10000. Leger ajustement de 10000 a 9500 pour coherence intra-marque (femme 75ml a 8500)."
+ },
+ {
+  "slug": "guess-seductive-femme",
+  "recommendedDA": 8500,
+  "euro": 31,
+  "euroX270": 8370,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino Seductive EDT €31.73/100ml -> 75ml ~€23.8 ; mais plancher pratique marche DZ. 8500 coherent avec la gamme Guess. Conserve le prix actuel."
+ },
+ {
+  "slug": "guess-bella-vita",
+  "recommendedDA": 11000,
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Guess Bella Vita EDP 100ml, notino/guess.eu ~€40 ×270 ≈ 10800. C'est le best-seller premium de Guess, justifie le haut de gamme de la marque. Leger ajustement 12000 -> 11000."
+ },
+ {
+  "slug": "drakkar-noir-guy-laroche",
+  "recommendedDA": 11000,
+  "euro": 35,
+  "euroX270": 9450,
+  "algerianDA": 11900,
+  "confidence": "high",
+  "note": "Prix DZ confirmes : Jumia 8500 (promo, ex-11000), LEENA 11900. Classique masculin tres connu. 11000 = mediane des prix DZ reels. Conserve quasi le prix actuel (11300)."
+ },
+ {
+  "slug": "jimmy-choo-femme",
+  "recommendedDA": 15500,
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": 14900,
+  "confidence": "high",
+  "note": "LEENA DZ 14900 (ex-20900). EU ~€50-60 ×270 ≈ 13500-16000. 18000 etait un peu haut ; 15500 aligne sur le marche DZ reel tout en gardant le positionnement premium Jimmy Choo."
+ },
+ {
+  "slug": "i-want-choo-jimmy-choo",
+  "recommendedDA": 13500,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": 15000,
+  "confidence": "high",
+  "note": "I Want Choo 60ml EDP, EU ~€50 ×270 ≈ 13500 ; Odorem DZ 15000 (format 100ml). Pour le 60ml, 13500 est coherent. Conserve quasi le prix actuel (13400)."
+ },
+ {
+  "slug": "jimmy-choo-floral",
+  "recommendedDA": 14000,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Jimmy Choo Floral EDT 100ml, EU ~€40-50 ×270 ≈ 11000-13500. Coherence avec la gamme Jimmy Choo femme (15500). Leger ajustement 15500 -> 14000 (EDT moins cher que les EDP de la gamme)."
+ },
+ {
+  "slug": "jimmy-choo-illicit",
+  "recommendedDA": 15500,
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Illicit EDP 100ml, EU ~€50-55 ×270 ≈ 14000-15000. EDP premium de la gamme, aligne sur Jimmy Choo femme. Conserve le prix actuel 15500."
+ },
+ {
+  "slug": "jimmy-choo-man",
+  "recommendedDA": 14000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Jimmy Choo Man EDT 100ml, EU ~€40-50 ×270 ≈ 11000-13500. Designer masculin connu. Leger ajustement 15500 -> 14000 pour coller au marche EU et garder coherence avec Man Blue."
+ },
+ {
+  "slug": "jimmy-choo-man-blue",
+  "recommendedDA": 14000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Man Blue EDT 100ml, meme positionnement que Jimmy Choo Man. Prix identique pour coherence intra-gamme. 15500 -> 14000."
+ },
+ {
+  "slug": "jimmy-choo-blossom",
+  "recommendedDA": 13500,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Blossom EDT 100ml (notino Blossom EDP existe ~€45). EU ~€40-50 ×270 ≈ 11000-13500. Coherent avec Floral. Ajustement 15500 -> 13500."
+ },
+ {
+  "slug": "joop-homme",
+  "recommendedDA": 10000,
+  "euro": 37.6,
+  "euroX270": 10152,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino €30.08/100ml -> 125ml ~€37.6 ×270 ≈ 10150. Designer masculin value. Leger ajustement 12000 -> 10000, coherent avec le prix EU reel."
+ },
+ {
+  "slug": "karl-lagerfeld-classic",
+  "recommendedDA": 7500,
+  "euro": 24.9,
+  "euroX270": 6723,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino €24.90/100ml (ledenicheur des €21.54) ×270 ≈ 6700-7000. Designer budget. Plancher 6000 respecte. 10000 etait surevalue ; 7500 colle au marche EU."
+ },
+ {
+  "slug": "kate-spade-live-colorfully",
+  "recommendedDA": 12500,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Kate Spade peu distribue en DZ. EU Bloom €40, Live Colorfully ~€45-50 ×270 ≈ 12000-13500. 17000 trop haut pour une marque moins connue en Algerie ; 12500 plus realiste."
+ },
+ {
+  "slug": "kate-spade-in-full-bloom",
+  "recommendedDA": 12500,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "In Full Bloom EDP 100ml, meme positionnement que Live Colorfully. Prix identique pour coherence intra-marque. 17000 -> 12500, aligne sur le marche EU ×270."
+ },
+ {
+  "slug": "kenzo-l-eau-homme",
+  "recommendedDA": 14500,
+  "euro": 53,
+  "euroX270": 14310,
+  "confidence": "high",
+  "note": "L'Eau par Kenzo Homme EDT 100ml. Marché EU discount ~49-67 EUR (mediane ~53) x270 = ~14310 DA. Ligne homme EDT Kenzo coherente a ~14500. Bien au-dessus du plancher 6000."
+ },
+ {
+  "slug": "kenzo-flower",
+  "recommendedDA": 19000,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "high",
+  "note": "Flower by Kenzo EDP 100ml, flagship feminin. Notino ~64-75 EUR discount (mini 30j 64.10) x270 = ~18900 DA. Prix actuel 19000 confirme. Cohere avec les autres EDP femme 100ml."
+ },
+ {
+  "slug": "kenzo-world",
+  "recommendedDA": 16000,
+  "euro": 60,
+  "euroX270": 16200,
+  "confidence": "high",
+  "note": "Kenzo World EDP 75ml, listed sur Jumia DZ. Marche EU discount ~48-74 EUR (best ~60) x270 = ~16200 DA. Ajuste de 15500 a 16000 pour coherence avec la ligne 75ml."
+ },
+ {
+  "slug": "kenzo-amour",
+  "recommendedDA": 19000,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "high",
+  "note": "Kenzo Amour EDP 100ml. Notino des 98.50 EUR plein tarif, discount aligne sur Flower ~70 EUR x270 = ~18900. Cohere avec Flower a 19000."
+ },
+ {
+  "slug": "kenzo-l-eau-kenzo-femme",
+  "recommendedDA": 14500,
+  "euro": 53,
+  "euroX270": 14310,
+  "confidence": "medium",
+  "note": "L'Eau Kenzo pour Femme EDT 100ml. Ligne L'Eau (EDT) moins chere que les EDP Flower; aligne sur L'Eau Homme ~53 EUR x270 = ~14310. Abaisse de 16000 a 14500 (EDT < EDP, coherence ligne L'Eau)."
+ },
+ {
+  "slug": "kenzo-flower-in-the-air",
+  "recommendedDA": 19000,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "medium",
+  "note": "Flower in the Air EDP 100ml, flanker de Flower. Suit le tarif Flower EDP ~70 EUR x270 = ~18900. Maintenu a 19000 pour coherence ligne Flower."
+ },
+ {
+  "slug": "kenzo-pour-homme",
+  "recommendedDA": 14500,
+  "euro": 53,
+  "euroX270": 14310,
+  "confidence": "medium",
+  "note": "Kenzo Pour Homme EDT 100ml (boise aquatique classique). Tarif EDT homme Kenzo ~53 EUR x270 = ~14310. Aligne sur L'Eau Homme a 14500."
+ },
+ {
+  "slug": "kenzo-flower-edp",
+  "recommendedDA": 19000,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "high",
+  "note": "Variante Flower EDP 100ml = meme produit/tarif que Flower by Kenzo EDP. Notino ~64-75 EUR x270 = ~18900. Maintenu a 19000, identique a kenzo-flower."
+ },
+ {
+  "slug": "kenzo-jungle-elephant",
+  "recommendedDA": 19000,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "medium",
+  "note": "Jungle L'Elephant EDP 100ml, oriental epice culte (relance). EDP femme 100ml Kenzo ~70 EUR x270 = ~18900. Maintenu a 19000 pour coherence EDP 100ml."
+ },
+ {
+  "slug": "kenzo-world-power",
+  "recommendedDA": 16000,
+  "euro": 60,
+  "euroX270": 16200,
+  "confidence": "medium",
+  "note": "Kenzo World Power EDP 75ml, flanker de World. Suit le tarif World EDP 75ml ~60 EUR x270 = ~16200. Ajuste de 15500 a 16000 pour coherence avec kenzo-world."
+ },
+ {
+  "slug": "kenzo-flower-eau-de-vie",
+  "recommendedDA": 16000,
+  "euro": 60,
+  "euroX270": 16200,
+  "confidence": "medium",
+  "note": "Flower by Kenzo Eau de Vie EDP 75ml. Format 75ml EDP -> tarif ligne World 75ml ~60 EUR x270 = ~16200. Ajuste de 15500 a 16000 (coherence formats 75ml)."
+ },
+ {
+  "slug": "kenzo-homme",
+  "recommendedDA": 14500,
+  "euro": 53,
+  "euroX270": 14310,
+  "confidence": "medium",
+  "note": "Kenzo Homme EDT 100ml. Tarif EDT homme Kenzo ~53 EUR x270 = ~14310. Aligne sur L'Eau Homme / Pour Homme a 14500 (coherence ligne homme EDT)."
+ },
+ {
+  "slug": "lacoste-l12-noir",
+  "recommendedDA": 14500,
+  "euro": 54.6,
+  "euroX270": 14742,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Notino L.12.12 Noir EDT 100ml = 54,60€ x270 = 14742 -> arrondi 14500. Best-seller Lacoste homme, prix actuel 13400 legerement releve pour coller au marche EU."
+ },
+ {
+  "slug": "lacoste-pour-femme",
+  "recommendedDA": 12500,
+  "euro": 47,
+  "euroX270": 12690,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Lacoste Pour Femme EDP 90ml ~47€ (ledenicheur) x270 = 12690 -> 12500. Coherent avec gamme femme."
+ },
+ {
+  "slug": "lacoste-essential",
+  "recommendedDA": 11000,
+  "euro": 39.5,
+  "euroX270": 10665,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Essential EDT 125ml = 39,50€ (ledenicheur) x270 = 10665. Gros volume mais EDT eco -> 11000, coherent intra-marque."
+ },
+ {
+  "slug": "lacoste-touch-of-pink",
+  "recommendedDA": 14000,
+  "euro": 54.39,
+  "euroX270": 14685,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Touch of Pink EDT 90ml = 54,39€ (ledenicheur) x270 = 14685. Prix actuel 12000 sous-evalue -> releve a 14000."
+ },
+ {
+  "slug": "lacoste-l12-blanc",
+  "recommendedDA": 13500,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "L.12.12 Blanc EDT 100ml ~50€ (gamme L.12.12 Notino/Jumia DZ) x270 = 13500. Aligne sur Noir/Vert."
+ },
+ {
+  "slug": "lacoste-pour-homme",
+  "recommendedDA": 12500,
+  "euro": 46,
+  "euroX270": 12420,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Lacoste Pour Homme EDT 125ml ~45-46€ (gamme Lacoste homme grand format) x270 = ~12500."
+ },
+ {
+  "slug": "lacoste-l12-vert",
+  "recommendedDA": 13000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "L.12.12 Vert EDT 100ml ~48€ (gamme L.12.12) x270 = 12960 -> 13000. Coherent avec Noir/Blanc."
+ },
+ {
+  "slug": "lacoste-noir-fraicheur",
+  "recommendedDA": 13000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Variante Noir flanker, alignee sur L.12.12 Noir/Vert ~48€ x270 = 13000. Garde le prix actuel."
+ },
+ {
+  "slug": "lacoste-challenge",
+  "recommendedDA": 12000,
+  "euro": 44,
+  "euroX270": 11880,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Lacoste Challenge EDT 90ml ~44€ (discounters) x270 = 11880 -> 12000. Garde le prix actuel."
+ },
+ {
+  "slug": "lacoste-l-eau-femme",
+  "recommendedDA": 12000,
+  "euro": 44,
+  "euroX270": 11880,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "L'Eau Lacoste Pour Elle EDT 90ml ~44€ x270 = 11880 -> 12000. Coherent gamme femme legere."
+ },
+ {
+  "slug": "lacoste-pour-femme-intense",
+  "recommendedDA": 13000,
+  "euro": 49,
+  "euroX270": 13230,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Pour Femme Intense EDP 90ml ~49€ (Notino, legerement > version classique) x270 = 13230 -> 13000."
+ },
+ {
+  "slug": "lacoste-match-point",
+  "recommendedDA": 12500,
+  "euro": 46,
+  "euroX270": 12420,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Match Point EDT 100ml ~46€ (sortie recente, gamme homme) x270 = 12420 -> 12500."
+ },
+ {
+  "slug": "lalique-encre-noire",
+  "recommendedDA": 9000,
+  "euro": 26.5,
+  "euroX270": 7155,
+  "algerianDA": 8650,
+  "confidence": "high",
+  "note": "Encre Noire EDT 100ml = 26,50€ EU (x270=7155) mais Jumia DZ liste la gamme Encre Noire ~8650 DA (A L'Extreme). Prix marche DZ retenu ~9000, au-dessus du plancher. Lalique tres accessible en EU."
+ },
+ {
+  "slug": "lalique-l-insoumis",
+  "recommendedDA": 9500,
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "L'Insoumis EDT 100ml ~30€ chez discounters (le 127€ ledenicheur est un coffret aberrant) x270 = 8100. Aligne sur le tier Lalique DZ ~9000-9500."
+ },
+ {
+  "slug": "lalique-amour",
+  "recommendedDA": 12000,
+  "euro": 113.9,
+  "euroX270": 30753,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "L'Amour EDP 100ml = 113,90€ Notino (x270=30753) mais c'est un prix retail premium isole ; sur le marche DZ Lalique reste plafonne ~10000-12000. Plafonne a 12000 pour rester credible/vendable et garder coherence marque."
+ },
+ {
+  "slug": "oxygene-lanvin",
+  "recommendedDA": 9500,
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Oxygene EDP 75ml. EU street ~21-38 EUR (idealo 21, Burdin 38); ~30 EUR effectif x270 ~8100. Plus petit volume (75ml) + entree de gamme Lanvin = le moins cher de la marque. Cale a 9500 DA (sous 13400 actuel, plus realiste)."
+ },
+ {
+  "slug": "eclat-arpege-lanvin",
+  "recommendedDA": 11000,
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Eclat d'Arpege EDT 100ml (le best-seller Lanvin). EDT legerement sous l'EDP. EU discount ~35-45 EUR x270 ~10800. 11000 DA, coherent avec la version EDP."
+ },
+ {
+  "slug": "lanvin-jeanne",
+  "recommendedDA": 10500,
+  "euro": 38,
+  "euroX270": 10260,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Jeanne Lanvin EDP 100ml. EU discount 35-40 EUR (parfumsmoinschers 39.99, notino 62 RRP) x270 ~10300. 10500 DA (sous 14000 actuel, plus realiste)."
+ },
+ {
+  "slug": "lanvin-arpege",
+  "recommendedDA": 12000,
+  "euro": 43,
+  "euroX270": 11600,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Arpege EDP 100ml (classique iconique Lanvin). EU 42.70 discount / 81 notino RRP x270 ~11500. 12000 DA, le plus premium de la marque avec l'Eclat EDP."
+ },
+ {
+  "slug": "lanvin-eclat-d-arpege",
+  "recommendedDA": 12000,
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Eclat d'Arpege EDP 100ml, le parfum signature Lanvin. EU discount ~40-51 EUR (Marionnaud 51.41 promo, RRP 77.90) x270 ~12000. 12000 DA (flagship, leger premium)."
+ },
+ {
+  "slug": "lanvin-eclat-d-arpege-homme",
+  "recommendedDA": 11000,
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Eclat d'Arpege Pour Homme EDT 100ml (flanker masculin). Memes tier que l'EDT femme ~35-45 EUR x270 ~10800. 11000 DA, coherent avec la gamme Eclat (sous 12000 actuel)."
+ },
+ {
+  "slug": "lattafa-oud-mood",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Lattafa 100ml EDP standard, gamme 7000-8000 DA en Algérie. Prix actuel cohérent, conservé."
+ },
+ {
+  "slug": "lattafa-asad",
+  "recommendedDA": 8500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 8500,
+  "confidence": "high",
+  "note": "Asad très populaire en Algérie (Jumia DZ, listé largement). 60ml mais best-seller premium Lattafa, 8500 DA cohérent."
+ },
+ {
+  "slug": "lattafa-ana-abiyedh",
+  "recommendedDA": 7000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7000,
+  "confidence": "medium",
+  "note": "60ml EDP, gamme Lattafa accessible. Prix actuel 7000 DA conservé, au-dessus du plancher."
+ },
+ {
+  "slug": "lattafa-yara",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "high",
+  "note": "Yara 100ml: prix officiel Parfum Algerie ~7500 DA (OuedKniss 5000, Jumia DZ listé). Best-seller femme. 7500 DA confirmé."
+ },
+ {
+  "slug": "lattafa-oud-for-glory",
+  "recommendedDA": 8000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 8000,
+  "confidence": "high",
+  "note": "Bade'e Al Oud / Oud for Glory 100ml, dupe populaire, listé Algérie ~8000 DA. Prix actuel conservé."
+ },
+ {
+  "slug": "lattafa-khamrah",
+  "recommendedDA": 8500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 8500,
+  "confidence": "high",
+  "note": "Khamrah 100ml: retailers DZ (Andaloussi, palais des parfums) ~8500 DA, variantes Qahwa 8500 / Dukhan 8800. 8500 DA confirmé."
+ },
+ {
+  "slug": "lattafa-raghba",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Raghba 100ml EDP, gamme Lattafa standard. Listé Algérie autour de 7000-8000 DA. 7500 DA cohérent."
+ },
+ {
+  "slug": "lattafa-shamoos",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Shamoos 100ml, gamme Lattafa standard 7000-8000 DA. Prix actuel conservé."
+ },
+ {
+  "slug": "lattafa-oud-for-glory-intense",
+  "recommendedDA": 9000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 9000,
+  "confidence": "medium",
+  "note": "Version Intense d'Oud for Glory, premium dans la gamme. 9000 DA cohérent (au-dessus de la version classique 8000)."
+ },
+ {
+  "slug": "lattafa-yara-moi",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "high",
+  "note": "Yara Moi 100ml: Parfum Algerie ~7500 DA. Aligné sur la gamme Yara. Confirmé."
+ },
+ {
+  "slug": "lattafa-bade-al-oud",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Bade'e Al Oud 100ml (ligne Oud for Glory), gamme 7000-8000 DA en Algérie. 7500 DA cohérent."
+ },
+ {
+  "slug": "lattafa-velvet-oud",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Velvet Oud 100ml EDP, gamme Lattafa standard. Prix actuel conservé."
+ },
+ {
+  "slug": "lattafa-ejaazi",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Ejaazi 100ml EDP, gamme Lattafa standard 7000-8000 DA. Prix actuel conservé."
+ },
+ {
+  "slug": "lattafa-fakhar-homme",
+  "recommendedDA": 7500,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 7500,
+  "confidence": "medium",
+  "note": "Fakhar pour Homme 100ml (dupe Le Beau JPG), populaire, gamme 7000-8000 DA. 7500 DA cohérent."
+ },
+ {
+  "slug": "lattafa-oud-mood-noir",
+  "recommendedDA": 8000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": 8000,
+  "confidence": "medium",
+  "note": "Oud Mood Noir / Elixir 100ml, version premium d'Oud Mood. 8000 DA cohérent (au-dessus de l'Oud Mood standard 7500)."
+ },
+ {
+  "slug": "lolita-lempicka",
+  "recommendedDA": 14000,
+  "algerianDA": null,
+  "euro": 65,
+  "euroX270": 17550,
+  "confidence": "medium",
+  "note": "Listee sur Jumia DZ. EU ~65-74 EUR (x270 = ~17500-20000) mais marque mainstream souvent en promo/discount en Algerie. Prix actuel 14000 DA coherent pour le marche local accessible. Conserve."
+ },
+ {
+  "slug": "lolita-lempicka-au-masculin",
+  "recommendedDA": 12000,
+  "algerianDA": null,
+  "euro": 50,
+  "euroX270": 13500,
+  "confidence": "medium",
+  "note": "Pendant masculin, parfois discontinue/rare mais tier accessible. Aligne sur la version feminine (legerement en dessous). Prix actuel 12000 DA coherent. Conserve."
+ },
+ {
+  "slug": "mariah-carey-forever",
+  "recommendedDA": 7000,
+  "algerianDA": null,
+  "euro": 28,
+  "euroX270": 7560,
+  "confidence": "medium",
+  "note": "Parfum de celebrite, tier bon marche. US/EU ~25-31 USD/EUR (x270 ~7500). Au-dessus du plancher 6000. Prix actuel 7000 DA juste. Conserve."
+ },
+ {
+  "slug": "mauboussin-pour-elle",
+  "recommendedDA": 11000,
+  "algerianDA": null,
+  "euro": 35,
+  "euroX270": 9450,
+  "confidence": "medium",
+  "note": "Marque accessible, listee en DZ (odorem-dz, elixir-parfum). EU ~30-35 EUR. Prix actuel 12800 un peu haut vs marche; aligne a 11000 DA. Reste credible avec marge import."
+ },
+ {
+  "slug": "miu-miu-l-eau",
+  "recommendedDA": 22000,
+  "algerianDA": null,
+  "euro": 90,
+  "euroX270": 24300,
+  "confidence": "medium",
+  "note": "Designer premium (Prada). Notino affiche 199 EUR (inflate, revendeur tiers); prix marche reel ~85-95 EUR -> x270 ~24000. Harder-to-find en DZ. Ajuste 25000 -> 22000 DA, reste premium coherent."
+ },
+ {
+  "slug": "mont-blanc-lady-emblem",
+  "recommendedDA": 14000,
+  "algerianDA": null,
+  "euro": 45,
+  "euroX270": 12150,
+  "confidence": "medium",
+  "note": "Mont Blanc femme. Ligne MB designer bien listee en DZ ~13000-15000 DA. Prix actuel 14900 -> 14000 pour coherence intra-marque. 75ml."
+ },
+ {
+  "slug": "mont-blanc-explorer",
+  "recommendedDA": 14000,
+  "algerianDA": 13800,
+  "euro": 50,
+  "euroX270": 13500,
+  "confidence": "high",
+  "note": "Listee Jumia DZ + odorem-dz. Explorer Platinum confirme a 13800 DA en local. Aligne Explorer EDP a 14000 DA (intra-marque). Ajuste depuis 18000 (trop haut vs marche DZ)."
+ },
+ {
+  "slug": "mont-blanc-legend",
+  "recommendedDA": 13500,
+  "algerianDA": 12800,
+  "euro": 45,
+  "euroX270": 12150,
+  "confidence": "high",
+  "note": "Jumia DZ : Legend EDT 100ml a 12800 DA (barre 15900). odorem-dz le liste aussi. Best-seller MB. Ajuste 16700 -> 13500 DA pour coller au prix marche reel."
+ },
+ {
+  "slug": "mont-blanc-legend-spirit",
+  "recommendedDA": 13500,
+  "algerianDA": null,
+  "euro": 45,
+  "euroX270": 12150,
+  "confidence": "high",
+  "note": "Listee Must (mustbeauty.dz) + Jumia DZ. Meme tier que Legend EDT. Aligne a 13500 DA (intra-marque). Ajuste depuis 15500."
+ },
+ {
+  "slug": "mont-blanc-explorer-ultra-blue",
+  "recommendedDA": 14000,
+  "algerianDA": null,
+  "euro": 50,
+  "euroX270": 13500,
+  "confidence": "high",
+  "note": "Listee odorem-dz + mustbeauty.dz. Meme niveau qu'Explorer EDP/Platinum (~13800 DA local). Aligne a 14000 DA. Ajuste depuis 18000."
+ },
+ {
+  "slug": "mont-blanc-individuel",
+  "recommendedDA": 13000,
+  "algerianDA": null,
+  "euro": 45,
+  "euroX270": 12150,
+  "confidence": "medium",
+  "note": "Mont Blanc classique 75ml. Tier MB designer ~13000 DA. Prix actuel 12500 quasi correct, leger calage a 13000 pour coherence."
+ },
+ {
+  "slug": "mont-blanc-legend-edp",
+  "recommendedDA": 14500,
+  "algerianDA": 12800,
+  "euro": 55,
+  "euroX270": 14850,
+  "confidence": "high",
+  "note": "Version EDP (plus chere que l'EDT). Jumia DZ liste Legend EDP 100ml. Place legerement au-dessus de l'EDT (13500) : 14500 DA. Ajuste depuis 18000."
+ },
+ {
+  "slug": "mont-blanc-legend-rouge",
+  "recommendedDA": 14500,
+  "algerianDA": null,
+  "euro": 55,
+  "euroX270": 14850,
+  "confidence": "medium",
+  "note": "Flanker EDP recent de la ligne Legend. Aligne sur Legend EDP (14500 DA). Ajuste depuis 18000 pour coherence intra-marque."
+ },
+ {
+  "slug": "mont-blanc-explorer-platinum",
+  "recommendedDA": 14000,
+  "algerianDA": 13800,
+  "euro": 50,
+  "euroX270": 13500,
+  "confidence": "high",
+  "note": "Prix local confirme 13800 DA (odorem-dz). Arrondi a 14000 DA. Ajuste depuis 18000."
+ },
+ {
+  "slug": "mont-blanc-emblem-intense",
+  "recommendedDA": 13500,
+  "algerianDA": null,
+  "euro": 45,
+  "euroX270": 12150,
+  "confidence": "medium",
+  "note": "Flanker EDT homme de la ligne Emblem. Meme tier MB designer ~13000-14000 DA. Aligne a 13500 DA. Ajuste depuis 18000."
+ },
+ {
+  "slug": "mont-blanc-signature",
+  "recommendedDA": 14000,
+  "algerianDA": null,
+  "euro": 50,
+  "euroX270": 13500,
+  "confidence": "medium",
+  "note": "Mont Blanc Signature femme 90ml, listee en DZ (calixa, leena, hafif). Tier MB femme ~14000 DA. Prix actuel 16500 un peu haut; aligne a 14000 DA (intra-marque)."
+ },
+ {
+  "slug": "moschino-toy-boy",
+  "recommendedDA": 16500,
+  "algerianDA": 16500,
+  "euro": 55,
+  "euroX270": 14850,
+  "confidence": "high",
+  "note": "Prix Algerie confirme 16500 DA (odorem-dz). Tier Moschino premium EDP. Actuel 16000 quasi identique, ajuste a 16500."
+ },
+ {
+  "slug": "moschino-toy-2",
+  "recommendedDA": 16500,
+  "algerianDA": 16500,
+  "euro": 55,
+  "euroX270": 14850,
+  "confidence": "high",
+  "note": "Coherence intra-marque avec Toy Boy (16500 DA confirme). Toy 2 meme gamme/format. Actuel 16000 ok, aligne a 16500."
+ },
+ {
+  "slug": "narciso-rodriguez-for-her",
+  "recommendedDA": 19500,
+  "algerianDA": 19300,
+  "euro": 81,
+  "euroX270": 21870,
+  "confidence": "high",
+  "note": "Prix Algerie confirme 19300 DA (odorem-dz) pour For Her EDP 100ml. Arrondi 19500. Actuel 24000 trop haut."
+ },
+ {
+  "slug": "narciso-pure-musc",
+  "recommendedDA": 15000,
+  "algerianDA": null,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "medium",
+  "note": "Pure Musc 50ml (petit format) ligne musc Narciso. Ancre sur For Her EDP 19300 mais format 50ml => en dessous. Estime 15000. Actuel 14900 deja coherent."
+ },
+ {
+  "slug": "narciso-rodriguez-for-him",
+  "recommendedDA": 16500,
+  "algerianDA": null,
+  "euro": 60,
+  "euroX270": 16200,
+  "confidence": "medium",
+  "note": "For Him EDT (jus classique 2007), sous les EDP Bleu Noir (17000) et Musc Noir (18500). Estime 16500. Actuel 20500 trop haut."
+ },
+ {
+  "slug": "narciso-rodriguez-for-her-fleur-musc",
+  "recommendedDA": 18500,
+  "algerianDA": null,
+  "euro": 75,
+  "euroX270": 20250,
+  "confidence": "medium",
+  "note": "Fleur Musc 90ml ligne feminine premium Narciso. Ancre sur For Her EDP 19300, format 90ml => 18500. Actuel 22000 trop haut."
+ },
+ {
+  "slug": "narciso-rodriguez-bleu-noir",
+  "recommendedDA": 17000,
+  "algerianDA": 17000,
+  "euro": 70,
+  "euroX270": 18900,
+  "confidence": "high",
+  "note": "Prix Algerie confirme 17000 DA (odorem-dz) pour For Him Bleu Noir EDP 100ml. Actuel 24000 trop haut."
+ },
+ {
+  "slug": "narciso-rodriguez-musc-noir",
+  "recommendedDA": 18500,
+  "algerianDA": 18500,
+  "euro": 75,
+  "euroX270": 20250,
+  "confidence": "high",
+  "note": "Prix Algerie confirme 18500 DA (odorem-dz, Narciso Musc Noir 100ml EDP). Actuel 24000 trop haut."
+ },
+ {
+  "slug": "narciso-rodriguez-for-her-edp-rouge",
+  "recommendedDA": 19000,
+  "algerianDA": null,
+  "euro": 78,
+  "euroX270": 21060,
+  "confidence": "medium",
+  "note": "For Her EDP Rouge 90ml (variante intense de For Her). Ancre sur For Her EDP 19300, leger premium intense mais format 90ml => 19000. Actuel 22000 un peu haut."
+ },
+ {
+  "slug": "nautica-voyage",
+  "recommendedDA": 6500,
+  "algerianDA": 6500,
+  "euro": 18,
+  "euroX270": 4860,
+  "confidence": "high",
+  "note": "Prix Algerie confirme 6500 DA (elixir-parfum, briki-parfums) pour EDT 100ml. Plancher 6000 respecte. Actuel 11900 tres surcote pour cet aquatique budget."
+ },
+ {
+  "slug": "nikos-sculpture-homme",
+  "recommendedDA": 9500,
+  "algerianDA": 9700,
+  "euro": 30,
+  "euroX270": 8100,
+  "confidence": "high",
+  "note": "Prix Algerie 9700-10800 DA (odorem-dz) pour Sculpture Homme EDT 100ml. Recommande 9500-10000. Actuel 7000 trop bas vs marche local."
+ },
+ {
+  "slug": "nikos-sculpture-femme",
+  "recommendedDA": 9500,
+  "algerianDA": null,
+  "euro": 30,
+  "euroX270": 8100,
+  "confidence": "medium",
+  "note": "Coherence avec Sculpture Homme (9700 DA). Sculpture Femme EDP meme gamme/tier Nikos. Estime 9500. Actuel 8000 un peu bas."
+ },
+ {
+  "slug": "nina-ricci-nina",
+  "recommendedDA": 12000,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Nina EDT 80ml ~34-60€ sur notino/idealo (souvent ~50€). x270 ~13500. Mainstream Nina Ricci, prix actuel 12500 coherent. Cale a 12000 (EDT, entree de gamme de la marque)."
+ },
+ {
+  "slug": "nina-ricci-l-air-du-temps",
+  "recommendedDA": 14500,
+  "euro": 61,
+  "euroX270": 16470,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "L'Air du Temps EDT 100ml des 61€ (ledenicheur/notino). x270 ~16500. Icone Nina Ricci, 100ml. Prix actuel 14500 retenu, coherent avec la gamme."
+ },
+ {
+  "slug": "nina-ricci-l-extase",
+  "recommendedDA": 14500,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "L'Extase EDP 80ml ~49,99€ (parfumsmoinschers/notino). x270 ~13500. EDP > EDT, dispo Jumia DZ. Cale a 14500 (legere baisse vs 15000 actuel pour coherence)."
+ },
+ {
+  "slug": "nina-ricci-premier-jour",
+  "recommendedDA": 15000,
+  "euro": 54,
+  "euroX270": 14580,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Premier Jour EDP 100ml des 54€ (ledenicheur). x270 ~14600. Dispo Jumia DZ. Prix actuel 17000 trop haut -> baisse a 15000 (EDP 100ml, haut de la gamme)."
+ },
+ {
+  "slug": "nina-ricci-ricci-ricci",
+  "recommendedDA": 14500,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Ricci Ricci EDP 80ml, dispo notino, prix proche L'Extase (~50€). x270 ~13500. Aligne sur L'Extase a 14500 pour coherence intra-marque (EDP 80ml)."
+ },
+ {
+  "slug": "nina-ricci-coeur-joie",
+  "recommendedDA": 16000,
+  "euro": null,
+  "euroX270": null,
+  "algerianDA": null,
+  "confidence": "medium",
+  "note": "Coeur Joie (creation patrimoniale 1946), EDP 100ml, peu reference en ligne donc prix premium/rare. Garde haut de gamme 16000 (sous Premier Jour=15000 mais 100ml rare); legere baisse vs 17000."
+ },
+ {
+  "slug": "orientica-oud-saffron",
+  "recommendedDA": 12000,
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Oud Saffron EDP 80ml ~51,6-64,5€ (ledenicheur/notino). x270 ~14000-17500. Oud premium unisexe sous-evalue a 9400 -> remonte a 12000 (prudent vs EU mais coherent oriental premium)."
+ },
+ {
+  "slug": "paris-hilton-paris-hilton",
+  "recommendedDA": 8000,
+  "euro": 35,
+  "euroX270": 9450,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Paris Hilton EDP 100ml ~34,9-35,4€ (notino/123comparer). x270 ~9450. Parfum de celebrite accessible. Remonte de 7000 a 8000 (au-dessus du plancher, sous le x270)."
+ },
+ {
+  "slug": "pierre-cardin-pour-monsieur",
+  "recommendedDA": 6000,
+  "euro": 20,
+  "euroX270": 5400,
+  "algerianDA": null,
+  "confidence": "high",
+  "note": "Pour Monsieur EDT 75ml des ~20€ (idealo), dispo Jumia/palaisdesparfums DZ. x270 ~5400, SOUS le plancher. Prix actuel 4000 interdit -> plancher strict 6000 DA."
+ },
+ {
+  "slug": "ralph-lauren-romance",
+  "recommendedDA": 17000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": 17000,
+  "confidence": "high",
+  "note": "Romance EDP 100ml ~48EUR sur Notino. Pilier feminin RL, prix algerien aligne 17000 DA (Jumia/odorem-dz listent la gamme RL ~17900). Coherent avec la ligne. Maintenu."
+ },
+ {
+  "slug": "polo-blue-ralph-lauren",
+  "recommendedDA": 17000,
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": 17000,
+  "confidence": "high",
+  "note": "Polo Blue EDT 125ml ~60EUR (leDenicheur/Notino). Vendu en Algerie chez odorem-dz. Pilier masculin best-seller RL. 17000 DA coherent. Maintenu."
+ },
+ {
+  "slug": "romance-femme-ralph-lauren",
+  "recommendedDA": 17000,
+  "euro": 48,
+  "euroX270": 12960,
+  "algerianDA": 17000,
+  "confidence": "high",
+  "note": "Romance Women EDP 100ml ~48EUR Notino. Meme prix que Romance homme par coherence de gamme. 17000 DA aligne ligne RL Algerie. Maintenu."
+ },
+ {
+  "slug": "ralph-lauren-polo-red",
+  "recommendedDA": 17000,
+  "euro": 58,
+  "euroX270": 15660,
+  "algerianDA": 17000,
+  "confidence": "high",
+  "note": "Polo Red EDT 125ml ~55-65EUR (PriceRunner/Boots ~48-57GBP). Vendu chez odorem-dz. Pilier masculin RL. 17000 DA coherent. Maintenu."
+ },
+ {
+  "slug": "polo-sport-ralph-lauren",
+  "recommendedDA": 17000,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": 17000,
+  "confidence": "medium",
+  "note": "Polo Sport EDT 125ml encore produit, ~50EUR Notino (resale eBay plus haut). En Algerie aligne sur la ligne RL standard. 17000 DA coherent. Maintenu."
+ },
+ {
+  "slug": "polo-black-ralph-lauren",
+  "recommendedDA": 17000,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": 17000,
+  "confidence": "high",
+  "note": "Polo Black EDT 125ml ~50EUR. Liste chez odorem-dz Algerie. Pilier masculin RL. 17000 DA coherent avec la gamme. Maintenu."
+ },
+ {
+  "slug": "polo-intense-ralph-lauren",
+  "recommendedDA": 20000,
+  "euro": 70,
+  "euroX270": 18900,
+  "algerianDA": 20000,
+  "confidence": "medium",
+  "note": "Polo Cologne Intense EDP 125ml, concentration superieure aux EDT de la gamme. ~70EUR. Positionne au-dessus des piliers EDT. 20000 DA coherent. Maintenu."
+ },
+ {
+  "slug": "ralph-lauren-tender-romance",
+  "recommendedDA": 17000,
+  "euro": 60,
+  "euroX270": 16200,
+  "algerianDA": 17000,
+  "confidence": "medium",
+  "note": "Tender Romance EDP 100ml, discontinue (resale eBay 75USD+). En Algerie aligne sur la ligne Romance/RL a 17000 DA. Pas le prix resale gonfle. Maintenu."
+ },
+ {
+  "slug": "ralph-lauren-polo-red-rush",
+  "recommendedDA": 17000,
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": 17000,
+  "confidence": "medium",
+  "note": "Polo Red Rush EDT 125ml ~40-55EUR (100ml ~35GBP en promo). Aligne sur les piliers Polo Red de la gamme. 17000 DA coherent. Maintenu."
+ },
+ {
+  "slug": "ralph-lauren-polo-green",
+  "recommendedDA": 15000,
+  "euro": 50,
+  "euroX270": 13500,
+  "algerianDA": 15000,
+  "confidence": "medium",
+  "note": "Polo Green EDT 100ml (volume plus petit que les 125ml de la gamme). Legerement sous les piliers. Remonte de 14500 a 15000 (arrondi 500) pour coherence intra-marque. Au-dessus du plancher 6000."
+ },
+ {
+  "slug": "rasasi-hawas",
+  "recommendedDA": 7700,
+  "algerianDA": 7700,
+  "euro": null,
+  "euroX270": null,
+  "confidence": "high",
+  "note": "Prix verifie sur Jumia DZ (~7700 DA). Hawas est le flagship Rasasi en Algerie, marque premium-accessible. On garde le prix actuel, ancre de gamme."
+ },
+ {
+  "slug": "la-yuqawam-rasasi-homme",
+  "recommendedDA": 9500,
+  "algerianDA": null,
+  "euro": 45,
+  "euroX270": 12150,
+  "confidence": "medium",
+  "note": "Ligne oudh premium Rasasi (EU ~40-50EUR/75ml). Positionnee au-dessus de Hawas. Prix actuel 9500 coherent avec la gamme premium, on garde."
+ },
+ {
+  "slug": "la-yuqawam-rasasi-femme",
+  "recommendedDA": 7500,
+  "algerianDA": null,
+  "euro": 35,
+  "euroX270": 9450,
+  "confidence": "medium",
+  "note": "Pendant feminin de La Yuqawam, legerement sous la version homme. Leger relevement 7200->7500 pour coherence avec Hawas Pour Elle (7000)."
+ },
+ {
+  "slug": "rasasi-dhan-al-oudh",
+  "recommendedDA": 8500,
+  "algerianDA": null,
+  "euro": null,
+  "euroX270": null,
+  "confidence": "medium",
+  "note": "Ligne oudh pure premium (45ml concentre), positionnee haut dans la gamme Rasasi. Prix actuel 8500 coherent, on garde."
+ },
+ {
+  "slug": "rasasi-hawas-pour-elle",
+  "recommendedDA": 7000,
+  "algerianDA": null,
+  "euro": null,
+  "euroX270": null,
+  "confidence": "high",
+  "note": "Pendant feminin de Hawas, logiquement legerement sous le 7700 du Hawas homme. Prix actuel 7000 coherent, on garde."
+ },
+ {
+  "slug": "rasasi-instinct",
+  "recommendedDA": 6500,
+  "algerianDA": null,
+  "euro": 30,
+  "euroX270": 8100,
+  "confidence": "medium",
+  "note": "Prix actuel 5500 SOUS le plancher 6000 DA strict. Releve a 6500 : entree de gamme Rasasi tout en respectant le minimum marche algerien."
+ },
+ {
+  "slug": "rasasi-al-wisam-day",
+  "recommendedDA": 7000,
+  "algerianDA": null,
+  "euro": null,
+  "euroX270": null,
+  "confidence": "medium",
+  "note": "Ligne Al Wisam Rasasi, milieu de gamme. Prix actuel 7000 coherent avec Hawas Pour Elle et Al Wisam Evening, on garde."
+ },
+ {
+  "slug": "rasasi-daris",
+  "recommendedDA": 6500,
+  "algerianDA": null,
+  "euro": 28,
+  "euroX270": 7560,
+  "confidence": "medium",
+  "note": "Prix actuel 5500 SOUS le plancher 6000 DA. Releve a 6500, aligne sur Instinct (entree de gamme Rasasi)."
+ },
+ {
+  "slug": "rasasi-fattan-pour-femme",
+  "recommendedDA": 7000,
+  "algerianDA": null,
+  "euro": null,
+  "euroX270": null,
+  "confidence": "medium",
+  "note": "Parfum feminin Rasasi milieu de gamme. Prix actuel 7000 coherent avec Al Wisam et Hawas Pour Elle, on garde."
+ },
+ {
+  "slug": "rasasi-al-wisam-evening",
+  "recommendedDA": 7000,
+  "algerianDA": null,
+  "euro": null,
+  "euroX270": null,
+  "confidence": "medium",
+  "note": "Version Evening de Al Wisam, prix aligne sur Al Wisam Day (7000) pour coherence de la sous-gamme. On garde."
+ },
+ {
+  "slug": "roberto-cavalli-just-cavalli-femme",
+  "recommendedDA": 11000,
+  "algerianDA": null,
+  "euro": 59,
+  "euroX270": 15930,
+  "confidence": "medium",
+  "note": "Designer Just Cavalli Her EDT 100ml, EU ~59EUR mais ligne ancienne/destockee. Leger trim 12000->11000, aligne avec la version homme pour coherence intra-marque."
+ },
+ {
+  "slug": "roberto-cavalli-just-cavalli-homme",
+  "recommendedDA": 10500,
+  "algerianDA": null,
+  "euro": 31,
+  "euroX270": 8370,
+  "confidence": "medium",
+  "note": "Just Cavalli Him EDT 90ml, EU ~28-34EUR (destocke). x270 donne ~8400 mais designer en DZ garde une prime. Leger trim 11000->10500, sous la version femme."
+ },
+ {
+  "slug": "mademoiselle-rochas",
+  "recommendedDA": 11500,
+  "algerianDA": null,
+  "euro": 41,
+  "euroX270": 11097,
+  "confidence": "high",
+  "note": "EU Notino 41,10EUR x270 = ~11100. Prix actuel 14900 trop haut. Baisse a 11500, aligne sur la gamme Rochas (designer ~11000-12000 DA)."
+ },
+ {
+  "slug": "rochas-man",
+  "recommendedDA": 11500,
+  "algerianDA": null,
+  "euro": 41,
+  "euroX270": 11070,
+  "confidence": "high",
+  "note": "EU ~41EUR (Notino/parfumsmoinschers) x270 = ~11100. Disponible chez galleryparfums-dz. Leger trim 12000->11500 pour coherence gamme Rochas."
+ },
+ {
+  "slug": "rochas-femme",
+  "recommendedDA": 11500,
+  "algerianDA": null,
+  "euro": 43,
+  "euroX270": 11610,
+  "confidence": "medium",
+  "note": "Femme de Rochas EDT, gamme Rochas EU ~42-45EUR x270 = ~11600. Trim 12800->11500 pour aligner toute la gamme Rochas autour de 11500."
+ },
+ {
+  "slug": "rochas-byzance",
+  "recommendedDA": 11500,
+  "algerianDA": null,
+  "euro": 44,
+  "euroX270": 11880,
+  "confidence": "high",
+  "note": "EU Notino Byzance 2019 EDP ~44EUR x270 = ~11900. Leger trim 13000->11500 pour coherence avec le reste de la gamme Rochas."
+ },
+ {
+  "slug": "st-dupont-noir",
+  "recommendedDA": 11000,
+  "confidence": "medium",
+  "euro": 25,
+  "euroX270": 6750,
+  "algerianDA": null,
+  "note": "S.T. Dupont Noir EDT 100ml, marque designer discount (Notino ~25 EUR). EUR x270 ~6750 mais positionnement designer en Algerie justifie un palier plus haut. Prix actuel 14000 un peu eleve pour cette marque souvent soldee ; recale a 11000."
+ },
+ {
+  "slug": "ferragamo-signorina",
+  "recommendedDA": 16000,
+  "confidence": "high",
+  "euro": 64.5,
+  "euroX270": 17415,
+  "algerianDA": null,
+  "note": "Notino 64,50 EUR pour 100ml EDP -> x270 ~17400. Prix actuel 16000 deja coherent ; conserve."
+ },
+ {
+  "slug": "ferragamo-attimo-homme",
+  "recommendedDA": 12000,
+  "confidence": "medium",
+  "euro": 38,
+  "euroX270": 10260,
+  "algerianDA": null,
+  "note": "Attimo pour Homme EDT 100ml, devenu rare (~30-45 EUR EU) -> x270 ~9000-12000. Coherence avec gamme Ferragamo (Signorina 16000). Recale 13500 -> 12000."
+ },
+ {
+  "slug": "shakira-dance",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "euro": 12,
+  "euroX270": 3240,
+  "algerianDA": null,
+  "note": "Parfum de celebrite tres accessible (EDT 80ml, ~10-15 EUR EU). EUR x270 sous le plancher. Prix actuel 4500 sous le minimum ; remonte au plancher strict 6000."
+ },
+ {
+  "slug": "swiss-arabian-shaghaf-oud",
+  "recommendedDA": 8000,
+  "confidence": "high",
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "note": "Best-seller Swiss Arabian, EDP 75ml ~30-35 EUR (eBay/FragranceX) -> x270 ~8600. Prix actuel 8000 coherent ; conserve comme produit phare de la gamme."
+ },
+ {
+  "slug": "swiss-arabian-mukhalat-malaki",
+  "recommendedDA": 7500,
+  "confidence": "medium",
+  "euro": 28,
+  "euroX270": 7560,
+  "algerianDA": null,
+  "note": "Swiss Arabian EDP 75ml accessible (~25-30 EUR) -> x270 ~7500. Coherence intra-marque (entre Kashkha 6500 et Shaghaf Oud 8000). Recale 7200 -> 7500."
+ },
+ {
+  "slug": "swiss-arabian-kashkha",
+  "recommendedDA": 6500,
+  "confidence": "medium",
+  "euro": 24,
+  "euroX270": 6480,
+  "algerianDA": null,
+  "note": "Swiss Arabian EDP 75ml entree de gamme amber (~22-26 EUR) -> x270 ~6500. Prix actuel 6300 ; ajuste a 6500 (au-dessus du plancher, coherent avec la gamme)."
+ },
+ {
+  "slug": "swiss-arabian-jannat-ul-firdaus",
+  "recommendedDA": 8000,
+  "confidence": "medium",
+  "euro": 30,
+  "euroX270": 8100,
+  "algerianDA": null,
+  "note": "Swiss Arabian EDP 75ml floral/musc reconnu (~28-32 EUR) -> x270 ~8000. Prix actuel 8500 ; legerement recale a 8000 pour coherence gamme."
+ },
+ {
+  "slug": "swiss-arabian-noora",
+  "recommendedDA": 7000,
+  "confidence": "medium",
+  "euro": 26,
+  "euroX270": 7020,
+  "algerianDA": null,
+  "note": "Swiss Arabian EDP 75ml (~24-28 EUR) -> x270 ~7000. Prix actuel 6000 au plancher ; remonte a 7000 pour coherence avec le reste de la gamme 75ml."
+ },
+ {
+  "slug": "swiss-arabian-layali-rouge",
+  "recommendedDA": 7500,
+  "confidence": "medium",
+  "euro": 28,
+  "euroX270": 7560,
+  "algerianDA": null,
+  "note": "Swiss Arabian EDP 75ml gourmand (~26-30 EUR) -> x270 ~7500. Prix actuel 7500 deja coherent ; conserve."
+ },
+ {
+  "slug": "swiss-arabian-wajd",
+  "recommendedDA": 8000,
+  "confidence": "medium",
+  "euro": 35,
+  "euroX270": 9450,
+  "algerianDA": null,
+  "note": "Swiss Arabian EDP 50ml premium (concentre plus eleve, ~32-38 EUR) -> x270 ~9000-10000. Plus petit volume mais plus concentre ; prix actuel 8000 conserve, coherent avec haut de gamme."
+ },
+ {
+  "slug": "trussardi-donna",
+  "recommendedDA": 14000,
+  "confidence": "high",
+  "euro": 55,
+  "euroX270": 14850,
+  "algerianDA": null,
+  "note": "Notino 64,30 EUR / idealo 46 EUR pour 100ml EDP -> moyenne x270 ~14000-15000. Prix actuel 14000 coherent ; conserve."
+ },
+ {
+  "slug": "trussardi-riflesso",
+  "recommendedDA": 12000,
+  "confidence": "high",
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": null,
+  "note": "Riflesso Homme EDT 100ml ~40-55 EUR EU -> x270 ~11000-14500. Prix actuel 12000 coherent ; conserve (coherent avec Donna 14000)."
+ },
+ {
+  "slug": "ungaro-feminin",
+  "recommendedDA": 10500,
+  "confidence": "medium",
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null,
+  "note": "Ungaro Feminin 90ml, idealo 51,54 EUR mais marque souvent soldee (~30-45 EUR reel) -> x270 ~10000-11000. Prix actuel 10000 ; ajuste a 10500."
+ },
+ {
+  "slug": "bombshell-victoria-secret",
+  "recommendedDA": 12000,
+  "confidence": "high",
+  "euro": 45,
+  "euroX270": 12150,
+  "algerianDA": 11000,
+  "note": "Victoria's Secret Bombshell EDP, tres demande en Algerie. Listings DZ ~10900 pour 50ml, donc 100ml plutot 11000-13000. Prix actuel 10000 un peu bas ; recale a 12000."
+ },
+ {
+  "slug": "evidence-yves-rocher",
+  "recommendedDA": 8500,
+  "confidence": "high",
+  "euro": 32,
+  "euroX270": 8640,
+  "algerianDA": null,
+  "note": "Comme une Evidence Yves Rocher EDP 50ml, retail ~30-35 EUR -> x270 ~8500. Prix actuel 8600 deja coherent ; conserve a 8500 (arrondi)."
+ },
+ {
+  "slug": "this-is-her-zadig-voltaire",
+  "recommendedDA": 10500,
+  "confidence": "high",
+  "note": "Zadig & Voltaire, designer mid-range. Notino prix reel ~38-40 EUR/90ml (x270 = ~10500 DA). Liste sur Jumia DZ donc dispo locale. Prix actuel 17500 DA trop eleve pour cette gamme. Coherent avec This Is Him.",
+  "euro": 40,
+  "euroX270": 10800,
+  "algerianDA": null
+ },
+ {
+  "slug": "zadig-voltaire-this-is-him",
+  "recommendedDA": 10000,
+  "confidence": "high",
+  "note": "Zadig & Voltaire homme, meme gamme que This Is Her. Notino/Parfumdo en solde ~35-40 EUR/100ml. Prix actuel 16000 DA trop eleve. Aligne sur la version feminine pour coherence intra-marque.",
+  "euro": 37,
+  "euroX270": 9990,
+  "algerianDA": null
+ },
+ {
+  "slug": "zara-rose-gold",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "note": "Zara, parfum mass-market bon marche (~10-14 EUR en Europe, x270 = ~3000-4000 DA, sous le plancher). Prix actuel 4500 DA sous le minimum legal. Releve au plancher strict 6000 DA.",
+  "euro": 13,
+  "euroX270": 3510,
+  "algerianDA": null
+ },
+ {
+  "slug": "zara-rich-warm-addictive",
+  "recommendedDA": 6000,
+  "confidence": "high",
+  "note": "Zara Tobacco Collection, gamme cheap (~10 EUR/100ml en Europe, x270 = ~2700 DA, sous plancher). Deja a 6000 DA = plancher. Maintenu au minimum 6000 DA.",
+  "euro": 10,
+  "euroX270": 2700,
+  "algerianDA": null
  }
 ]
