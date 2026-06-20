@@ -1270,7 +1270,7 @@
       "family": "Oriental Boisé",
       "concentration": "EDP",
       "volume": "75ml",
-      "price": 6000,
+      "price": 6500,
       "shortDescription": "Le classique algérien accessible. Boisé, ambré, robuste — un parfum qui ne se cache pas.",
       "description": "Franck Olivier est une marque française créée dans les années 1970, particulièrement populaire en Afrique du Nord et dans les pays arabes pour ses fragrances riches et opulentes à des prix accessibles. En Algérie, Franck Olivier est souvent le premier contact avec les parfums de type oriental occidental — une passerelle entre les attars locaux et les grands parfums de luxe. Franck Olivier EDP pour homme est un boisé oriental classique, riche en ambre et en épices chaudes, avec une projection généreuse et une longévité qui défie les parfums deux fois plus chers. C'est le choix de l'homme algérien pratique et fier de ses préférences olfactives. Un prix qui rend Franck Olivier accessible au plus grand nombre, sans que la qualité du jus en souffre. Franck Olivier repose sur une construction boisée classique, enrichie de touches plus modernes pour éviter l'effet \"parfum de papa\". Très bonne persistance : Franck Olivier laisse sa trace sur les vêtements et les draps jusqu'au lendemain. Saisons idéales pour Franck Olivier : automne, hiver, quand les températures permettent au parfum de se développer sans être écrasé. Les contextes festifs, les rassemblements familiaux, les cérémonies : voilà le terrain de Franck Olivier.",
       "notes": {
@@ -3546,7 +3546,7 @@
       "family": "Oriental Musqué",
       "concentration": "EDP",
       "volume": "50ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "shortDescription": "La pureté du musc de Makkah. Rose, musc blanc et oud doux pour une fragrance orientale spirituelle et enveloppante — El Nabil incarne l'authenticité de la parfumerie islamique.",
@@ -6247,7 +6247,7 @@
       "family": "Floral Fruité",
       "concentration": "EDT",
       "volume": "80ml",
-      "price": 6000,
+      "price": 6500,
       "originalPrice": null,
       "badge": null,
       "shortDescription": "La légèreté fruitée de Shakira. Mandarine, cassis et rose pour un parfum féminin pétillant et accessible — Dance invite à célébrer chaque instant avec insouciance.",
@@ -6300,7 +6300,7 @@
       "family": "Fougère Chypré",
       "concentration": "EDT",
       "volume": "75ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "shortDescription": "Le classique français accessible. Bergamote, géranium et mousse de chêne pour un fougère chypré intemporel — Pierre Cardin Pour Monsieur, l'élégance à la française sans concession au prix.",
@@ -6355,7 +6355,7 @@
       "family": "Fougère Boisé",
       "concentration": "EDT",
       "volume": "100ml",
-      "price": 6000,
+      "price": 6500,
       "originalPrice": null,
       "badge": null,
       "shortDescription": "L'accessible par excellence. Bergamote, lavande et mousse de chêne pour un fougère boisé propre et fiable — Whisky Silver d'Evaflor, le quotidien sans compromis.",
@@ -6575,7 +6575,7 @@
       "family": "Floral Oriental",
       "concentration": "EDP",
       "volume": "30ml",
-      "price": 6000,
+      "price": 6500,
       "originalPrice": null,
       "badge": null,
       "shortDescription": "Le floral oriental accessible par Adopt. Bergamote fruitée, rose et jasmin sur un fond de vanille et musc — Narcotique est un parfum féminin séduisant au meilleur rapport qualité-prix du marché algérien.",
@@ -6629,7 +6629,7 @@
       "family": "Floral Fruité",
       "concentration": "EDT",
       "volume": "90ml",
-      "price": 6000,
+      "price": 6500,
       "originalPrice": null,
       "badge": null,
       "shortDescription": "La surprise florale-fruitée de Zara. Fraise, rose de mai et musc blanc pour un parfum printanier léger et charmant — Rose Gold prouve que l'élégance n'a pas forcément un prix élevé.",
@@ -16153,7 +16153,7 @@
       "gender": "homme",
       "concentration": "EDT",
       "volume": "100ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/franck-olivier-club-night.jpg",
@@ -20527,7 +20527,7 @@
       "gender": "homme",
       "concentration": "EDT",
       "volume": "100ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/franck-olivier-black-touch.jpg",
@@ -20582,7 +20582,7 @@
       "gender": "unisexe",
       "concentration": "EDP",
       "volume": "65ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/el-nabil-musc-tahara.jpg",
@@ -21170,61 +21170,6 @@
         "prada-paradoxe",
         "prada-candy",
         "prada-infusion-d-iris"
-      ]
-    },
-    {
-      "id": "prada-candy-femme",
-      "slug": "prada-candy-femme",
-      "h1": "Prada Candy Parfum Femme Algérie",
-      "name": "Prada Candy",
-      "brand": "Prada",
-      "brandSlug": "prada",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "80ml",
-      "price": 23000,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/prada-candy-femme.jpg",
-      "shortDescription": "La douceur coupable selon Prada. Candy est un oriental gourmand d'une séduction directe et immédiate — benjoin crémeux, musc blanc et caramel fondu dans une composition irrésistiblement sucrée et sophistiquée.",
-      "description": "Prada Candy est la face gourmande et délibérément addictive de la maison Prada. Lancé en 2011, il a surpris ceux qui ne voyaient en Prada que la sophistication froide et le minimalisme conceptuel. Avec Candy, la maison milanaise assumait pleinement sa part de séduction directe et de plaisir sans complexe. Ce parfum incarne une paradoxe fascinant: c'est la fragrance la plus accessible et la plus immédiatement séduisante de Prada, mais réalisée avec la précision et la qualité de matières premières caractéristiques de la maison. C'est du luxe gourmand. Le benjoin, note résineuse et légèrement vanillée extraite d'un arbre d'Asie du Sud-Est, est la note dominante et la signature absolue de Prada Candy. Traité ici dans ses aspects les plus crémeux et les plus enveloppants, il donne au parfum cette texture sucrée-résineuse si caractéristique. L'ouverture est directe et légèrement épicée: le miel léger, la bergamote et une note poudrée créent une entrée immédiatement reconnaissable et séduisante. Cette ouverture n'est pas un préambule — elle plonge directement dans l'univers gourmand du parfum. Le cœur révèle l'accord signature: la fleur de caramel (accord de synthèse sophistiqué), le benjoin crémeux et le musc musqué créent ensemble la texture sucrée-crémeuse signature de Candy. C'est le cœur gourmand qui a rendu le parfum célèbre. La base d'ambre, de musc blanc et d'absolue de benjoin construit un fond chaud, très persistant et absolument délicieux. Candy reste sur la peau pendant de longues heures. Candy est pour la femme qui ne refuse jamais un carré de chocolat. Avec Prada Prada Candy, on touche au segment premium de la parfumerie disponible en Algérie, avec ce que cela implique de soin dans la composition et de tenue sur peau. Sur le terrain oriental, Prada Candy dialogue avec un héritage olfactif familier aux Algériens, où les notes ambrées et résineuses relèvent du patrimoine plus que de l'exotisme. Côté tenue, Prada Candy dépasse largement les huit heures, un atout décisif pour qui déteste re-vaporiser en journée. Période de port privilégiée pour Prada Candy : automne, hiver, où la construction olfactive révèle toute sa richesse. À porter lors des grandes occasions, Prada Candy s'inscrit dans l'élégance olfactive attendue en Algérie.",
-      "notes": {
-        "top": [
-          "Miel léger",
-          "Bergamote",
-          "Notes poudrées"
-        ],
-        "heart": [
-          "Benjoin crémeux",
-          "Caramel",
-          "Musc musqué"
-        ],
-        "base": [
-          "Ambre",
-          "Musc blanc",
-          "Benjoin absolu"
-        ]
-      },
-      "family": "Oriental Gourmand",
-      "occasions": [
-        "Soirée",
-        "Automne/Hiver",
-        "Rendez-vous"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 7,
-      "sillage": 5,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "prada-la-femme",
-        "prada-candy-sugar-pop",
-        "good-girl-carolina-herrera"
       ]
     },
     {
@@ -21884,61 +21829,6 @@
       ]
     },
     {
-      "id": "versace-crystal-noir-edp",
-      "slug": "versace-crystal-noir-edp",
-      "h1": "Versace Crystal Noir EDP Parfum Femme Algérie",
-      "name": "Crystal Noir EDP",
-      "brand": "Versace",
-      "brandSlug": "versace",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "90ml",
-      "price": 24500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/versace-crystal-noir-edp.jpg",
-      "shortDescription": "La version plus intense et plus profonde de Crystal Noir. L'EDP renforce le caractère oriental boisé de la fragrance avec un accord bois de noix de coco, encens et musc opulent encore plus enveloppant.",
-      "description": "Versace Crystal Noir EDP est la déclinaison plus profonde et plus orientale du Crystal Noir original. Lancé en 2004, le Crystal Noir EDT a séduit par son accord épicé-boisé mystérieux. La version EDP, lancée en 2013, amplifie ce caractère dans une direction encore plus riche et plus persistante. Le flacon noir de Crystal Noir EDP, avec sa touche de métal doré, incarne parfaitement la dualité de la composition: sombre et luxueux, mystérieux et séduisant. C'est le parfum de Meduse en tenue de nuit. La composition s'articule autour d'un accord oriental boisé-épicé plus prononcé que dans l'EDT. L'EDP révèle davantage les facettes profondes et sensuelles de la fragrance, l'allégeant de la fraîcheur pour se concentrer sur la chaleur et l'opulence. L'ouverture est légèrement épicée et chaleureuse: le poivre noir, la cardamome et des notes de bois s'imposent dès le début avec une richesse modérée mais affirmée. Pas de fraîcheur excessive — Crystal Noir EDP commence en profondeur. Le cœur révèle l'accord boisé-floral caractéristique: le gardénia sombre, la jasmin de nuit et le bois de noix de coco créent un accord floral-boisé d'une sensualité orientale prononcée. La noix de coco, traitée dans son aspect boisé-tropical et non gourmand, est une note distinctive. La base de musc blanc opulent, de patchouli et d'ambre encensé construit un fond profond et persistant. Cette base orientale est bien plus prononcée que dans l'EDT. Crystal Noir EDP est pour les soirées et les occasions où l'on veut un parfum puissant et mémorable. Versace Crystal Noir EDP s'adresse aux amateurs qui acceptent de payer le prix juste pour une fragrance de grande maison, sans chercher à transiger sur la qualité. Les bois utilisés dans Crystal Noir EDP — cèdre, santal, vétiver selon les cas — installent cette signature masculine intemporelle qui continue de dominer les best-sellers algériens. Versace n'a pas lésiné sur la concentration — Crystal Noir EDP tient facilement huit à dix heures en usage normal. En automne, hiver, Crystal Noir EDP trouve son public et son efficacité maximale — hors de cette plage, le rendu change sensiblement. Signature de cérémonie, Crystal Noir EDP trouve naturellement sa place dans les événements marquants de la vie sociale algérienne.",
-      "notes": {
-        "top": [
-          "Poivre noir",
-          "Cardamome",
-          "Notes boisées"
-        ],
-        "heart": [
-          "Gardénia sombre",
-          "Jasmin de nuit",
-          "Bois de noix de coco"
-        ],
-        "base": [
-          "Musc blanc opulent",
-          "Patchouli",
-          "Ambre encensé"
-        ]
-      },
-      "family": "Oriental Boisé",
-      "occasions": [
-        "Soirée",
-        "Nuit",
-        "Occasion spéciale"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 7,
-      "sillage": 5,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "crystal-noir-versace",
-        "coco-noir-chanel",
-        "dolce-gabbana-the-only-one"
-      ]
-    },
-    {
       "id": "roja-dove-enigma",
       "slug": "roja-dove-enigma",
       "h1": "Roja Dove Enigma Parfum Unisexe Algérie",
@@ -22333,7 +22223,7 @@
       "gender": "unisexe",
       "concentration": "EDP",
       "volume": "80ml",
-      "price": 6000,
+      "price": 6500,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/zara-rich-warm-addictive.jpg",
@@ -22703,62 +22593,6 @@
         "dylan-purple-versace",
         "bright-crystal-versace",
         "olympea-paco-rabanne"
-      ]
-    },
-    {
-      "id": "kenzo-flower-edp",
-      "slug": "kenzo-flower-edp",
-      "h1": "Kenzo Flower EDP Parfum Femme Algérie",
-      "name": "Kenzo Flower EDP",
-      "brand": "Kenzo",
-      "brandSlug": "kenzo",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 19000,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/kenzo-flower-edp.jpg",
-      "shortDescription": "La version plus profonde et plus intense du célèbre Kenzo Flower. L'EDP enrichit l'accord floral de l'original avec plus de profondeur boisée, plus de persistance et une sensualité légèrement accrue.",
-      "description": "Kenzo Flower EDP est la déclinaison plus intense et plus persistante du légendaire Kenzo Flower, l'un des parfums féminins les plus iconiques du XXIème siècle. Lancé pour répondre aux demandes d'une version avec une meilleure tenue, l'EDP préserve l'essence du parfum original tout en lui apportant plus de substance. Kenzo Flower original, créé en 2000, avait révolutionné la parfumerie féminine avec son accord papaver (coquelicot) unique et ses matières premières végétales naturelles. Aujourd'hui encore, ce parfum reste l'une des fragrances les plus reconnaissables et les plus appréciées au monde. L'EDP reprend le concept fondateur — la fleur des champs, sauvage et libre — et l'approfondit. Les notes végétales sont plus riches, les floraux plus denses, la base plus persistante. L'ouverture maintient les caractéristiques de Kenzo Flower: la bergamote lumineuse, la violette fraîche et la note herbacée verte créent un accord floral-végétal d'une fraîcheur naturelle. Cette ouverture est plus dense qu'in l'EDT mais conserve sa légèreté caractéristique. Le cœur floral est enrichi par rapport à l'original: la rose de Bulgarie, le coquelicot (note signature) et le jasmin créent un accord floral plus opulent et plus persistant. La rose de Bulgarie, plus riche que dans l'EDT, apporte une dimension luxueuse bienvenue. La base de musc blanc, de cèdre et d'ambre poudré construit un fond plus substantiel et plus persistant. La tenue de l'EDP est significativement supérieure à celle de l'EDT. Pour les femmes qui aimaient Kenzo Flower mais voulaient plus de persistance. Avec Kenzo Kenzo Flower EDP, on touche au segment premium de la parfumerie disponible en Algérie, avec ce que cela implique de soin dans la composition et de tenue sur peau. Les notes florales de Kenzo Flower EDP apportent cette élégance plus claire qui séduit une génération de femmes algériennes en quête de signatures modernes et légères. Côté tenue, Kenzo Flower EDP dépasse largement les huit heures, un atout décisif pour qui déteste re-vaporiser en journée. Saisons idéales pour Kenzo Flower EDP : printemps, été, automne, quand les températures permettent au parfum de se développer sans être écrasé. Kenzo Flower EDP accompagne aussi bien le quotidien que les occasions spéciales — bureau, déjeuner, cérémonie — avec une présence assumée sans excès.",
-      "notes": {
-        "top": [
-          "Bergamote",
-          "Violette fraîche",
-          "Notes herbeuses"
-        ],
-        "heart": [
-          "Rose de Bulgarie",
-          "Coquelicot",
-          "Jasmin"
-        ],
-        "base": [
-          "Musc blanc",
-          "Cèdre",
-          "Ambre poudré"
-        ]
-      },
-      "family": "Floral Végétal",
-      "occasions": [
-        "Bureau",
-        "Casual",
-        "Journée"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été",
-        "Automne"
-      ],
-      "longevity": 5,
-      "sillage": 4,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "kenzo-flower",
-        "kenzo-amour",
-        "kenzo-flower-in-the-air"
       ]
     },
     {
@@ -23982,7 +23816,7 @@
       "gender": "homme",
       "concentration": "EDP",
       "volume": "75ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/ajmal-sacrifice-homme.jpg",
@@ -26279,7 +26113,7 @@
       "related": [
         "bright-crystal-versace",
         "yellow-diamond-versace",
-        "versace-crystal-noir-edp"
+        "crystal-noir-versace"
       ]
     },
     {
@@ -27051,62 +26885,6 @@
       ]
     },
     {
-      "id": "elizabeth-arden-fifth-avenue",
-      "slug": "elizabeth-arden-fifth-avenue",
-      "h1": "Elizabeth Arden Fifth Avenue Parfum Femme Algérie",
-      "name": "Fifth Avenue",
-      "brand": "Elizabeth Arden",
-      "brandSlug": "elizabeth-arden",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "125ml",
-      "price": 10500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/elizabeth-arden-fifth-avenue.jpg",
-      "shortDescription": "Elizabeth Arden Fifth Avenue est un floral blanc élégant et accessible, hommage à la grande avenue new-yorkaise. Magnolia, lys et fond boisé composent une fragrance classique et polyvalente pour la femme élégante de tous les jours.",
-      "description": "Elizabeth Arden Fifth Avenue est un parfum floral blanc élégant et intemporel, hommage à la légendaire avenue new-yorkaise symbole du luxe américain. Depuis son lancement en 1996, ce parfum floral boisé est devenu un classique de la maison Elizabeth Arden — accessible, polyvalent et d'une élégance discrète. L'ouverture est fraîche et florale: magnolia, bergamote et citron créent une entrée lumineuse et propre. Le cœur développe un accord floral élégant avec lys, rose et jasmin, composant un bouquet floral blanc d'une féminité classique et intemporelle. La base de bois de cèdre, musc et ambre léger donne au parfum sa tenue et son fond boisé chaud. Fifth Avenue est idéal pour toutes les occasions du quotidien — bureau, réunions, sorties. Sa légèreté et sa polyvalence en font un parfum safe et apprécié pour toutes les générations. En Algérie, Elizabeth Arden est connue pour ses cosmétiques et ses parfums accessibles. Fifth Avenue est un classique apprécié pour son rapport qualité-prix. Chez Maison Numidia,. Elizabeth Arden Fifth Avenue se positionne là où beaucoup d'acheteurs algériens placent leur budget parfum — ni entrée de gamme, ni luxe extrême, juste le bon rapport prestige/accessibilité. Le caractère floral de Fifth Avenue offre une alternative lumineuse aux registres plus chauds qui ont longtemps dominé la parfumerie féminine algérienne. La persistance de Fifth Avenue reste contenue, un trait apprécié par qui n'aime pas les parfums trop envahissants. Elizabeth Arden a pensé Fifth Avenue pour les journées en printemps, été, automne, où la chaleur ou la fraîcheur du moment fait ressortir ce qu'il a de meilleur. Elizabeth Arden a dosé Fifth Avenue pour s'adapter à toutes les journées d'une femme algérienne moderne, du lever au coucher.",
-      "notes": {
-        "top": [
-          "Magnolia",
-          "Bergamote",
-          "Citron"
-        ],
-        "heart": [
-          "Lys",
-          "Rose",
-          "Jasmin"
-        ],
-        "base": [
-          "Cèdre",
-          "Musc",
-          "Ambre léger"
-        ]
-      },
-      "family": "Floral Blanc",
-      "occasions": [
-        "Bureau",
-        "Quotidien",
-        "Occasions"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été",
-        "Automne"
-      ],
-      "longevity": 3,
-      "sillage": 2,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "armani-acqua-di-gioia",
-        "amor-amor-cacharel",
-        "miracle-lancome"
-      ]
-    },
-    {
       "id": "hermes-bel-ami",
       "slug": "hermes-bel-ami",
       "h1": "Hermès Bel Ami Parfum Homme Algérie",
@@ -27283,7 +27061,7 @@
       "gender": "femme",
       "concentration": "EDP",
       "volume": "50ml",
-      "price": 6000,
+      "price": 7000,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/ajmal-sacrifice-pour-femme.jpg",
@@ -29836,8 +29614,8 @@
       "isOriental": false,
       "related": [
         "prada-candy",
-        "prada-candy-femme",
-        "prada-candy-sugar-pop"
+        "prada-candy-sugar-pop",
+        "scandal-jean-paul-gaultier"
       ]
     },
     {
@@ -32305,60 +32083,6 @@
       ]
     },
     {
-      "id": "carolina-herrera-212-men-edp",
-      "slug": "carolina-herrera-212-men-edp",
-      "h1": "Carolina Herrera 212 Men EDT Parfum Algérie",
-      "name": "212 Men",
-      "brand": "Carolina Herrera",
-      "brandSlug": "carolina-herrera",
-      "category": "parfums-homme",
-      "gender": "homme",
-      "concentration": "EDT",
-      "volume": "100ml",
-      "price": 16500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/carolina-herrera-212-men-edp.jpg",
-      "shortDescription": "Carolina Herrera 212 Men EDP est la version Eau de Parfum intensifiée du mythique 212 Men. Plus profond et plus persistant que l'EDT original, pour l'homme new-yorkais qui veut durer toute la journée.",
-      "description": "Carolina Herrera 212 Men EDP est la réinterprétation enrichie et plus persistante du légendaire 212 Men, l'Eau de Toilette iconique qui a capturé l'énergie de New York depuis des décennies. Cette version EDP explore le même territoire olfactif frais et masculin, mais avec une profondeur et une longévité supérieures qui en font un compagnon idéal pour les longues journées new-yorkaises et algériennes. L'ouverture est fraîche et aromatique, fidèle à l'ADN de 212 Men: la bergamote et la lavande créent une entrée en matière fraîche et masculine. Le cœur est la révélation de cette version EDP: le cèdre et les notes aromatiques sont traités avec plus de richesse et de profondeur, créant un accord boisé-aromatique plus masculin et plus persistant. La base est plus profonde que dans l'EDT: l'ambre et le musc créent un fond chaleureux et persistant qui prolonge cette fragrance pendant de nombreuses heures. 212 Men EDP est le choix des hommes qui aiment 212 Men mais qui ont besoin d'une meilleure tenue sur leur peau. En Algérie, la gamme 212 est très populaire et l'EDP répond à la demande de plus grande longévité., paiement à la réception. Carolina Herrera 212 Men EDP se positionne dans le haut du panier de notre catalogue algérien — un tarif qui reflète l'exigence d'une maison établie et la qualité des matières premières utilisées. L'identité boisée-aromatique de 212 Men EDP trouve un public naturel en Algérie, où ce style n'a jamais cessé d'être porté malgré les modes passagères. Très bonne persistance : 212 Men EDP laisse sa trace sur les vêtements et les draps jusqu'au lendemain. Période de port privilégiée pour 212 Men EDP : toutes saisons, où la construction olfactive révèle toute sa richesse. Un vrai parfum de tous les jours : 212 Men EDP trouve sa place dans la rotation quotidienne sans fatigue.",
-      "notes": {
-        "top": [
-          "Bergamote",
-          "Lavande",
-          "Agrumes"
-        ],
-        "heart": [
-          "Cèdre",
-          "Thé Noir",
-          "Épices Douces"
-        ],
-        "base": [
-          "Ambre",
-          "Musc",
-          "Bois de Santal"
-        ]
-      },
-      "family": "Aromatique Boisé",
-      "occasions": [
-        "Bureau",
-        "Quotidien",
-        "Soirée"
-      ],
-      "seasons": [
-        "Toutes saisons"
-      ],
-      "longevity": 5,
-      "sillage": 3,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "carolina-herrera-212-men",
-        "carolina-herrera-212-vip-men",
-        "carolina-herrera-212-vip-black"
-      ]
-    },
-    {
       "id": "guerlain-mon-guerlain-sparkling-bouquet",
       "slug": "guerlain-mon-guerlain-sparkling-bouquet",
       "h1": "Guerlain Mon Guerlain Sparkling Bouquet Algérie",
@@ -32683,8 +32407,8 @@
       "isOriental": false,
       "related": [
         "kenzo-flower",
-        "kenzo-flower-edp",
-        "kenzo-flower-in-the-air"
+        "kenzo-flower-in-the-air",
+        "scandal-jean-paul-gaultier"
       ]
     },
     {
@@ -35228,7 +34952,7 @@
       "gender": "femme",
       "concentration": "EDT",
       "volume": "100ml",
-      "price": 6000,
+      "price": 7500,
       "originalPrice": null,
       "badge": null,
       "image": "/images/products/britney-spears-curious.jpg",
@@ -40312,62 +40036,6 @@
         "bleu-de-chanel-parfum",
         "acqua-di-gio-armani",
         "dior-sauvage-parfum"
-      ]
-    },
-    {
-      "id": "paco-rabanne-phantom-le-parfum",
-      "slug": "paco-rabanne-phantom-le-parfum",
-      "h1": "Paco Rabanne Phantom Le Parfum Homme Algérie",
-      "name": "Phantom Le Parfum",
-      "brand": "Paco Rabanne",
-      "brandSlug": "paco-rabanne",
-      "category": "parfums-homme",
-      "gender": "homme",
-      "concentration": "Parfum",
-      "volume": "100ml",
-      "price": 20000,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/paco-rabanne-phantom-le-parfum.jpg",
-      "shortDescription": "Phantom Le Parfum de Paco Rabanne pousse le robot légendaire encore plus loin. Version ultra-concentrée et boisée du Phantom EDT, avec de la lavande robotique et un fond de bois de oud intenses.",
-      "description": "Paco Rabanne Phantom Le Parfum représente l'évolution la plus intense et la plus audacieuse du Phantom, ce parfum masculin iconique présenté dans son flacon en forme de robot qui a conquis le monde à sa sortie. Cette version Parfum amplifie chaque élément de la composition originale, révélant une profondeur inattendue. La maison Paco Rabanne, fondée en 1966 par le créateur basco-espagnol Francisco Rabaneda, est connue pour ses créations avant-gardistes et ses parfums unisexes comme 1 Million et Invictus. Le Phantom Le Parfum s'inscrit dans cette tradition d'audace et d'innovation. L'ouverture est plus sombre que celle de l'EDT: la lavande aromatique se mêle à des notes légèrement métalliques et froides qui évoquent le robot emblématique du flacon. Cette ouverture est distinctive et immédiatement reconnaissable. Le cœur est dominé par un accord boisé-ambrosal qui crée une signature olfactive unique. Le bois de patchouli et l'ambroxan s'associent pour créer cette texture distinctive que les amateurs de parfums reconnaissent immédiatement. L'accord est moderne, presque futuriste, en parfaite harmonie avec l'identité visuelle du flacon. La base est profonde et encensée. Le bois de oud, l'encens et l'ambre gris créent un fond oriental et boisé d'une persistance exceptionnelle. Cette base orientale est la grande nouveauté par rapport au Phantom EDT et justifie pleinement l'appellation Parfum., d'Algérie par Yalidine, paiement à la réception. Côté prix, Paco Rabanne Phantom Le Parfum se situe dans le segment luxe — un investissement olfactif qui se justifie par la signature reconnaissable et la longévité du parfum. Profil boisé bien exécuté pour Phantom Le Parfum, qui s'intègre facilement dans le quotidien parfumé algérien où ce registre reste la norme du \"vrai parfum\". Côté tenue, Phantom Le Parfum dépasse largement les huit heures, un atout décisif pour qui déteste re-vaporiser en journée. Saisons idéales pour Phantom Le Parfum : automne, hiver, quand les températures permettent au parfum de se développer sans être écrasé. À utiliser aussi bien en semaine qu'en week-end, Phantom Le Parfum reste approprié dans les contextes où la discrétion est valorisée.",
-      "notes": {
-        "top": [
-          "Lavande",
-          "Citron vert",
-          "Notes métalliques"
-        ],
-        "heart": [
-          "Patchouli",
-          "Ambroxan",
-          "Vétiver"
-        ],
-        "base": [
-          "Bois de oud",
-          "Encens",
-          "Ambre gris",
-          "Musc"
-        ]
-      },
-      "family": "Boisé Aromatique",
-      "occasions": [
-        "Soirée",
-        "Nuit",
-        "Événement"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 5,
-      "sillage": 5,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "paco-rabanne-phantom-parfum",
-        "hugo-boss-bottled-parfum",
-        "burberry-hero-parfum"
       ]
     },
     {

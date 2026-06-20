@@ -47,6 +47,13 @@ const nextConfig: NextConfig = {
       { source: "/parfums/calvin-klein-eternity-homme", destination: "/parfums/eternity-homme-ck", permanent: true },
       { source: "/parfums/coach-wild-rose-femme", destination: "/parfums/coach-wild-rose", permanent: true },
       { source: "/parfums/dior-sauvage-elixir-intense", destination: "/parfums/dior-sauvage-elixir", permanent: true },
+      // Fusion de doublons round 2 (juin 2026)
+      { source: "/parfums/elizabeth-arden-fifth-avenue", destination: "/parfums/5th-avenue-elizabeth-arden", permanent: true },
+      { source: "/parfums/prada-candy-femme", destination: "/parfums/prada-candy", permanent: true },
+      { source: "/parfums/versace-crystal-noir-edp", destination: "/parfums/crystal-noir-versace", permanent: true },
+      { source: "/parfums/carolina-herrera-212-men-edp", destination: "/parfums/carolina-herrera-212-men", permanent: true },
+      { source: "/parfums/paco-rabanne-phantom-le-parfum", destination: "/parfums/paco-rabanne-phantom-parfum", permanent: true },
+      { source: "/parfums/kenzo-flower-edp", destination: "/parfums/kenzo-flower", permanent: true },
     ];
   },
 };
