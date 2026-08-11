@@ -69854,2509 +69854,3080 @@
           "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "urls": [],
+      "errors": [
+        {
+          "url": "https://maisonnumidia.store/blog/parfum-original-algerie",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/blog/parfum-pas-cher-original-algerie",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/a-propos",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/chanel",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/hugo-boss",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/guy-laroche",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/prada",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/rochas",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/cerruti",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/memo-paris",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/marques/frederic-malle",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/franck-olivier",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/givenchy",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/davidoff",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/guerlain",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/nautica",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/pierre-cardin",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/xerjoff",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/roja-dove",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/hermes",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/ralph-lauren",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/gucci",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/armaf",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/mancera",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/joop",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/zadig-voltaire",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/rochas",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/trussardi",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/st-dupont",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/maison-margiela",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-homme/memo-paris",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-femme/carolina-herrera",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-femme/chanel",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-femme/mauboussin",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-femme/zara",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-femme/mariah-carey",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-orientaux/creed",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-orientaux/roja-dove",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-orientaux/mancera",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-orientaux/orientica",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums-orientaux/penhaligons",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/scandal-pour-homme-jean-paul-gaultier",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/le-male-jean-paul-gaultier",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-code",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-bottled",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/la-vie-est-belle-lancome",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lattafa-oud-mood",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/le-male-le-parfum",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/tresor-lancome",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/kenzo-l-eau-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/burberry-brit-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/amouage-reflection",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-si",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/davidoff-cool-water",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lancome-poeme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/rochas-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-vol-de-nuit",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-blue-label",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/azzaro-chrome-aqua",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-pour-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/azzaro-silver-black",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/swiss-arabian-layali-rouge",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/valentino-valentina",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/versace-versense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lancome-tresor-midnight-rose",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-nuit-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-mitsouko",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/nina-ricci-ricci-ricci",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-orange-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-play",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/davidoff-horizon",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-guilty-black",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-made-to-measure",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-pure-poison",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/chanel-chance-eau-tendre",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hermes-elixir-des-merveilles",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lanvin-eclat-d-arpege",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/thierry-mugler-innocent",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hermes-bel-ami",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/cartier-santos-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/rasasi-al-wisam-evening",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ajmal-sacrifice-pour-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/carolina-herrera-212-vip-black",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/narciso-rodriguez-musc-noir",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/kenzo-jungle-elephant",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/azzaro-wanted-girl",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-the-scent-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/chanel-coco",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lancome-hypnose",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-si-fiori",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/mont-blanc-legend-rouge",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-gentleman-society",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guess-seductive-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lacoste-challenge",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/carolina-herrera-212-sexy-men",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-bottled-sport",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/bvlgari-rose-essentielle",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ysl-rive-gauche",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/paco-rabanne-ultrared",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lancome-magnifique",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/chanel-cristalle",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-hot-couture",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-champs-elysees",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/versace-dylan-blue-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lacoste-l-eau-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hermes-24-faubourg",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-dune",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-aqua-allegoria",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ysl-belle-d-opium",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/marc-jacobs-lola",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/burberry-weekend-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-tendre-poison",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/cartier-must-de-cartier",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ralph-lauren-tender-romance",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/cacharel-loulou",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/azzaro-pour-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/diesel-only-the-brave-tatoo",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ysl-y-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/bvlgari-jasmin-noir",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-samsara",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/valentino-rock-n-rose",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/chloe-see-by-chloe",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/issey-miyake-pleats-please",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hermes-kelly-caleche",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-emporio-she",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/jean-paul-gaultier-gaultier-2",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dolce-gabbana-velvet-love",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/prada-candy-night",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/elie-saab-girl-of-now",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/bvlgari-goldea",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-stronger-with-you-only",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-premiere",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-l-heure-bleue",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/coach-floral",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dolce-gabbana-devotion",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/prada-infusion-de-rose",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lalique-amour",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/carolina-herrera-very-good-girl",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/jimmy-choo-illicit",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-the-scent-private-accord",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/paco-rabanne-invictus-parfum",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/chanel-chance",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guess-bella-vita",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/burberry-london-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hugo-boss-the-scent-elixir",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-jicky",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/kenzo-world-power",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/jimmy-choo-man",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/cartier-must-pour-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/mont-blanc-explorer-platinum",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/versace-dreamer",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-pour-homme-ii",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lacoste-pour-femme-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/bvlgari-pour-femme-soir",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/paco-rabanne-la-nuit",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-monsieur-de-givenchy",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/davidoff-the-game",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ralph-lauren-polo-red-rush",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/carolina-herrera-chic",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-aqua-allegoria-bergamote",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/mont-blanc-emblem-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/jean-paul-gaultier-ultra-male-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lattafa-bade-al-oud",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-homme-cologne",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-acqua-di-gio-essenza",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-bamboo",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/burberry-touch-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-l-interdit-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/swiss-arabian-wajd",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/givenchy-dahlia-divin-le-nectar",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/mont-blanc-signature",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/hermes-eau-intense-vetiver",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/prada-l-homme-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-mon-guerlain-sparkling-bouquet",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lancome-la-nuit-tresor-nude",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lacoste-match-point",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-my-way-parfum",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/bvlgari-aqva-divina",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/kenzo-flower-eau-de-vie",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-jadore-infinissime",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ysl-libre-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dior-miss-dior-parfum",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/chanel-n5-eau-premiere",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-code-profumo",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dolce-gabbana-light-blue-sun",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lanvin-eclat-d-arpege-homme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/gucci-guilty-platinum-femme",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/davidoff-cool-water-deep",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/armani-stronger-with-you-freezing",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/paco-rabanne-fame-intense",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/dolce-gabbana-the-one-gentleman",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/guerlain-mon-guerlain-bloom-of-rose",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lancome-idole-now",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/ysl-mon-paris-couture",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/bvlgari-splendida-rose-rose",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/lattafa-velvet-oud",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/al-haramain-amber-oud-tobacco",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/azzaro-chrome-parfum",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        },
+        {
+          "url": "https://maisonnumidia.store/parfums/nina-ricci-coeur-joie",
+          "status": 401,
+          "body": "{\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"det"
+        }
+      ]
     }
   ],
-  "lastRun": "2026-08-10T11:23:09.662Z",
+  "lastRun": "2026-08-11T11:06:10.549Z",
   "indexStatus": {
     "https://maisonnumidia.store": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357217589
+      "checkedAt": 1786442554851
     },
     "https://maisonnumidia.store/parfums-homme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357236225
+      "checkedAt": 1786442588147
     },
     "https://maisonnumidia.store/parfums-femme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357242786
+      "checkedAt": 1786442594751
     },
     "https://maisonnumidia.store/parfums-orientaux": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357249312
+      "checkedAt": 1786442601288
     },
     "https://maisonnumidia.store/marques": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357255841
+      "checkedAt": 1786442607804
     },
     "https://maisonnumidia.store/parfum-algerie": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357262361
+      "checkedAt": 1786442650266
     },
     "https://maisonnumidia.store/a-propos": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357268989
+      "checkedAt": 1786442656524
     },
     "https://maisonnumidia.store/plan-du-site": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357275480
+      "checkedAt": 1786442663042
     },
     "https://maisonnumidia.store/blog": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357281986
+      "checkedAt": 1786442669546
     },
     "https://maisonnumidia.store/blog/meilleur-parfum-homme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357289106
+      "checkedAt": 1786442675821
     },
     "https://maisonnumidia.store/blog/parfum-de-niche-algerie": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357295640
+      "checkedAt": 1786442700347
     },
     "https://maisonnumidia.store/blog/eau-de-parfum-vs-eau-de-toilette": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357302277
+      "checkedAt": 1786442706618
     },
     "https://maisonnumidia.store/blog/meilleur-parfum-femme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357308785
+      "checkedAt": 1786442713391
     },
     "https://maisonnumidia.store/blog/parfum-floral-femme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357315283
+      "checkedAt": 1786442719885
     },
     "https://maisonnumidia.store/blog/dupe-parfum": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357323361
+      "checkedAt": 1786442726624
     },
     "https://maisonnumidia.store/blog/parfum-poudre-femme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357329875
+      "checkedAt": 1786442733159
     },
     "https://maisonnumidia.store/blog/parfum-ete-femme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357336350
+      "checkedAt": 1786442739684
     },
     "https://maisonnumidia.store/blog/reconnaitre-parfum-original": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357342837
+      "checkedAt": 1786442746693
     },
     "https://maisonnumidia.store/blog/lattafa-khamrah-avis": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357376371
+      "checkedAt": 1786442756637
     },
     "https://maisonnumidia.store/blog/meilleur-parfum-femme-2026": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357383001
+      "checkedAt": 1786442762937
     },
     "https://maisonnumidia.store/blog/parfum-original-algerie": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357389512
+      "checkedAt": 1786442769239
     },
     "https://maisonnumidia.store/blog/parfum-pas-cher-original-algerie": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357395987
+      "checkedAt": 1786442775503
     },
     "https://maisonnumidia.store/blog/meilleur-parfum-oud-algerie": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357402471
+      "checkedAt": 1786442782005
     },
     "https://maisonnumidia.store/marques/dior": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357408950
+      "checkedAt": 1786442788321
     },
     "https://maisonnumidia.store/marques/chanel": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786357415607
+      "checkedAt": 1786442794841
     },
     "https://maisonnumidia.store/marques/jean-paul-gaultier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357422101
+      "checkedAt": 1786442801614
     },
     "https://maisonnumidia.store/marques/paco-rabanne": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357428577
+      "checkedAt": 1786442808023
     },
     "https://maisonnumidia.store/marques/armani": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357435054
+      "checkedAt": 1786442835532
     },
     "https://maisonnumidia.store/marques/hugo-boss": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786357441511
+      "checkedAt": 1786442841855
     },
     "https://maisonnumidia.store/marques/versace": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357448763
+      "checkedAt": 1786442848429
     },
     "https://maisonnumidia.store/marques/franck-olivier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357455257
+      "checkedAt": 1786442854867
     },
     "https://maisonnumidia.store/marques/kenzo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357461744
+      "checkedAt": 1786442861671
     },
     "https://maisonnumidia.store/marques/valentino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357468341
+      "checkedAt": 1786442867951
     },
     "https://maisonnumidia.store/marques/burberry": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357474996
+      "checkedAt": 1786442874465
     },
     "https://maisonnumidia.store/marques/amouage": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357481608
+      "checkedAt": 1786442880979
     },
     "https://maisonnumidia.store/marques/creed": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357488163
+      "checkedAt": 1786442887474
     },
     "https://maisonnumidia.store/marques/givenchy": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357494802
+      "checkedAt": 1786442894000
     },
     "https://maisonnumidia.store/marques/azzaro": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357507302
+      "checkedAt": 1786442900475
     },
     "https://maisonnumidia.store/marques/ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357513916
+      "checkedAt": 1786442906759
     },
     "https://maisonnumidia.store/marques/parfums-de-marly": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357520374
+      "checkedAt": 1786442913268
     },
     "https://maisonnumidia.store/marques/mont-blanc": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357526867
+      "checkedAt": 1786442920001
     },
     "https://maisonnumidia.store/marques/davidoff": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357533458
+      "checkedAt": 1786442926272
     },
     "https://maisonnumidia.store/marques/bvlgari": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357548992
+      "checkedAt": 1786442932774
     },
     "https://maisonnumidia.store/marques/cartier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357555460
+      "checkedAt": 1786442939333
     },
     "https://maisonnumidia.store/marques/guerlain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357582968
+      "checkedAt": 1786442945830
     },
     "https://maisonnumidia.store/marques/lacoste": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357589460
+      "checkedAt": 1786442952349
     },
     "https://maisonnumidia.store/marques/nautica": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357598933
+      "checkedAt": 1786442958856
     },
     "https://maisonnumidia.store/marques/viktor-rolf": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357605415
+      "checkedAt": 1786442965358
     },
     "https://maisonnumidia.store/marques/guy-laroche": {
       "state": "Crawled - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357611898
+      "checkedAt": 1786442971635
     },
     "https://maisonnumidia.store/marques/guess": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357619332
+      "checkedAt": 1786442977886
     },
     "https://maisonnumidia.store/marques/antonio-banderas": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357626010
+      "checkedAt": 1786442984178
     },
     "https://maisonnumidia.store/marques/pierre-cardin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357632611
+      "checkedAt": 1786442990691
     },
     "https://maisonnumidia.store/marques/evaflor": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357639139
+      "checkedAt": 1786442997207
     },
     "https://maisonnumidia.store/marques/xerjoff": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357645611
+      "checkedAt": 1786443003739
     },
     "https://maisonnumidia.store/marques/roja-dove": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357652106
+      "checkedAt": 1786443010473
     },
     "https://maisonnumidia.store/marques/hermes": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357658633
+      "checkedAt": 1786443016745
     },
     "https://maisonnumidia.store/marques/issey-miyake": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357665076
+      "checkedAt": 1786443023320
     },
     "https://maisonnumidia.store/marques/ralph-lauren": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357671618
+      "checkedAt": 1786443029599
     },
     "https://maisonnumidia.store/marques/gucci": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357678070
+      "checkedAt": 1786443036108
     },
     "https://maisonnumidia.store/marques/tom-ford": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357684548
+      "checkedAt": 1786443042651
     },
     "https://maisonnumidia.store/marques/armaf": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357691041
+      "checkedAt": 1786443049195
     },
     "https://maisonnumidia.store/marques/prada": {
-      "state": "URL is unknown to Google",
+      "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357697512
+      "checkedAt": 1786443055456
     },
     "https://maisonnumidia.store/marques/mancera": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357703957
+      "checkedAt": 1786443062197
     },
     "https://maisonnumidia.store/marques/calvin-klein": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357710437
+      "checkedAt": 1786443074959
     },
     "https://maisonnumidia.store/marques/narciso-rodriguez": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357717043
+      "checkedAt": 1786443081292
     },
     "https://maisonnumidia.store/marques/joop": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357723573
+      "checkedAt": 1786443087548
     },
     "https://maisonnumidia.store/marques/carolina-herrera": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357730079
+      "checkedAt": 1786443093835
     },
     "https://maisonnumidia.store/marques/diesel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357736538
+      "checkedAt": 1786443100095
     },
     "https://maisonnumidia.store/marques/mugler": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357743003
+      "checkedAt": 1786443106366
     },
     "https://maisonnumidia.store/marques/lolita-lempicka": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357749501
+      "checkedAt": 1786443112666
     },
     "https://maisonnumidia.store/marques/dolce-gabbana": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357755959
+      "checkedAt": 1786443118951
     },
     "https://maisonnumidia.store/marques/dkny": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357762493
+      "checkedAt": 1786443125218
     },
     "https://maisonnumidia.store/marques/zadig-voltaire": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357768945
+      "checkedAt": 1786443131487
     },
     "https://maisonnumidia.store/marques/lalique": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357775577
+      "checkedAt": 1786443137975
     },
     "https://maisonnumidia.store/marques/ajmal": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357782069
+      "checkedAt": 1786443144249
     },
     "https://maisonnumidia.store/marques/al-haramain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357788587
+      "checkedAt": 1786443150815
     },
     "https://maisonnumidia.store/marques/rasasi": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357795096
+      "checkedAt": 1786443157318
     },
     "https://maisonnumidia.store/marques/rochas": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786357801602
+      "state": "Crawled - currently not indexed",
+      "indexed": false,
+      "checkedAt": 1786443164063
     },
     "https://maisonnumidia.store/marques/jimmy-choo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357808143
+      "checkedAt": 1786443170826
     },
     "https://maisonnumidia.store/marques/lanvin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357814671
+      "checkedAt": 1786443177608
     },
     "https://maisonnumidia.store/marques/roberto-cavalli": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357821204
+      "checkedAt": 1786443184168
     },
     "https://maisonnumidia.store/marques/salvatore-ferragamo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357827727
+      "checkedAt": 1786443193448
     },
     "https://maisonnumidia.store/marques/moschino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357834228
+      "checkedAt": 1786443199714
     },
     "https://maisonnumidia.store/marques/cerruti": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357840816
+      "checkedAt": 1786443206080
     },
     "https://maisonnumidia.store/marques/trussardi": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357847471
+      "checkedAt": 1786443212333
     },
     "https://maisonnumidia.store/marques/karl-lagerfeld": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357853951
+      "checkedAt": 1786443218593
     },
     "https://maisonnumidia.store/marques/nikos": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357860439
+      "checkedAt": 1786443224875
     },
     "https://maisonnumidia.store/marques/st-dupont": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357866961
+      "checkedAt": 1786443231678
     },
     "https://maisonnumidia.store/marques/boucheron": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357873561
+      "checkedAt": 1786443238177
     },
     "https://maisonnumidia.store/marques/afnan": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357880060
+      "checkedAt": 1786443244440
     },
     "https://maisonnumidia.store/marques/maison-margiela": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357889681
+      "checkedAt": 1786443250947
     },
     "https://maisonnumidia.store/marques/acqua-di-parma": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357896244
+      "checkedAt": 1786443257189
     },
     "https://maisonnumidia.store/marques/kilian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357902816
+      "checkedAt": 1786443263672
     },
     "https://maisonnumidia.store/marques/initio": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357909322
+      "checkedAt": 1786443270009
     },
     "https://maisonnumidia.store/marques/memo-paris": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786357915819
+      "checkedAt": 1786443276326
     },
     "https://maisonnumidia.store/marques/kayali": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357922345
+      "checkedAt": 1786443282930
     },
     "https://maisonnumidia.store/marques/lancome": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357928860
+      "checkedAt": 1786443289669
     },
     "https://maisonnumidia.store/marques/elie-saab": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357935374
+      "checkedAt": 1786443295952
     },
     "https://maisonnumidia.store/marques/yves-rocher": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357941879
+      "checkedAt": 1786443302454
     },
     "https://maisonnumidia.store/marques/chloe": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357960414
+      "checkedAt": 1786443308959
     },
     "https://maisonnumidia.store/marques/marc-jacobs": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357967027
+      "checkedAt": 1786443315238
     },
     "https://maisonnumidia.store/marques/nishane": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786357973552
+      "checkedAt": 1786443321753
     },
     "https://maisonnumidia.store/marques/elizabeth-arden": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358019056
+      "checkedAt": 1786443328254
     },
     "https://maisonnumidia.store/marques/jean-patou": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358025592
+      "checkedAt": 1786443334594
     },
     "https://maisonnumidia.store/marques/mauboussin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358032132
+      "checkedAt": 1786443341105
     },
     "https://maisonnumidia.store/marques/van-cleef-arpels": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358038752
+      "checkedAt": 1786443347601
     },
     "https://maisonnumidia.store/marques/cacharel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358045290
+      "checkedAt": 1786443353955
     },
     "https://maisonnumidia.store/marques/michael-kors": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358105818
+      "checkedAt": 1786443360694
     },
     "https://maisonnumidia.store/marques/miu-miu": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358112314
+      "checkedAt": 1786443366973
     },
     "https://maisonnumidia.store/marques/maison-francis-kurkdjian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358118954
+      "checkedAt": 1786443373234
     },
     "https://maisonnumidia.store/marques/victorias-secret": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358125439
+      "checkedAt": 1786443379535
     },
     "https://maisonnumidia.store/marques/shakira": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358131933
+      "checkedAt": 1786443385867
     },
     "https://maisonnumidia.store/marques/adopt-mon-parfum": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358138445
+      "checkedAt": 1786443392376
     },
     "https://maisonnumidia.store/marques/zara": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358145054
+      "checkedAt": 1786443398650
     },
     "https://maisonnumidia.store/marques/nina-ricci": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358151608
+      "checkedAt": 1786443405227
     },
     "https://maisonnumidia.store/marques/coach": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358158138
+      "checkedAt": 1786443411738
     },
     "https://maisonnumidia.store/marques/montale": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358206628
+      "checkedAt": 1786443417989
     },
     "https://maisonnumidia.store/marques/jo-malone": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358213052
+      "checkedAt": 1786443424507
     },
     "https://maisonnumidia.store/marques/swiss-arabian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358219695
+      "checkedAt": 1786443430784
     },
     "https://maisonnumidia.store/marques/escada": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358226189
+      "checkedAt": 1786443437266
     },
     "https://maisonnumidia.store/marques/chopard": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358233183
+      "checkedAt": 1786443443542
     },
     "https://maisonnumidia.store/marques/elizabeth-taylor": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358239698
+      "checkedAt": 1786443449817
     },
     "https://maisonnumidia.store/marques/ungaro": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358246357
+      "checkedAt": 1786443456108
     },
     "https://maisonnumidia.store/marques/britney-spears": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358252861
+      "checkedAt": 1786443462405
     },
     "https://maisonnumidia.store/marques/jennifer-lopez": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358259351
+      "checkedAt": 1786443468698
     },
     "https://maisonnumidia.store/marques/beyonce": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358265950
+      "checkedAt": 1786443474965
     },
     "https://maisonnumidia.store/marques/paris-hilton": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358272449
+      "checkedAt": 1786443481224
     },
     "https://maisonnumidia.store/marques/ariana-grande": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358278968
+      "checkedAt": 1786443487674
     },
     "https://maisonnumidia.store/marques/kate-spade": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358285462
+      "checkedAt": 1786443494137
     },
     "https://maisonnumidia.store/marques/anna-sui": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358292056
+      "checkedAt": 1786443500495
     },
     "https://maisonnumidia.store/marques/mariah-carey": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358298572
+      "checkedAt": 1786443506819
     },
     "https://maisonnumidia.store/marques/frederic-malle": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358305082
+      "checkedAt": 1786443513160
     },
     "https://maisonnumidia.store/marques/byredo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358311561
+      "checkedAt": 1786443519655
     },
     "https://maisonnumidia.store/marques/diptyque": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358318055
+      "checkedAt": 1786443525910
     },
     "https://maisonnumidia.store/marques/ex-nihilo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358324672
+      "checkedAt": 1786443532175
     },
     "https://maisonnumidia.store/marques/serge-lutens": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358331179
+      "checkedAt": 1786443538672
     },
     "https://maisonnumidia.store/marques/juliette-has-a-gun": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358337669
+      "checkedAt": 1786443544944
     },
     "https://maisonnumidia.store/marques/lattafa": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358344194
+      "checkedAt": 1786443551273
     },
     "https://maisonnumidia.store/marques/el-nabil": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358350701
+      "checkedAt": 1786443557571
     },
     "https://maisonnumidia.store/marques/louis-vuitton": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358357227
+      "checkedAt": 1786443563843
     },
     "https://maisonnumidia.store/marques/arabian-oud": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358363674
+      "checkedAt": 1786443570629
     },
     "https://maisonnumidia.store/marques/al-rehab": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358370143
+      "checkedAt": 1786443577137
     },
     "https://maisonnumidia.store/marques/orientica": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358376686
+      "checkedAt": 1786443583646
     },
     "https://maisonnumidia.store/marques/penhaligons": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358383134
+      "checkedAt": 1786443589906
     },
     "https://maisonnumidia.store/parfums-homme/dior": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358389601
+      "checkedAt": 1786443632160
     },
     "https://maisonnumidia.store/parfums-homme/chanel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358396076
+      "checkedAt": 1786443638447
     },
     "https://maisonnumidia.store/parfums-homme/jean-paul-gaultier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358402539
+      "checkedAt": 1786443672048
     },
     "https://maisonnumidia.store/parfums-homme/paco-rabanne": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358409031
+      "checkedAt": 1786443678549
     },
     "https://maisonnumidia.store/parfums-homme/armani": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358415680
+      "checkedAt": 1786443684815
     },
     "https://maisonnumidia.store/parfums-homme/hugo-boss": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358422344
+      "checkedAt": 1786443691091
     },
     "https://maisonnumidia.store/parfums-homme/versace": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358428982
+      "checkedAt": 1786443697392
     },
     "https://maisonnumidia.store/parfums-homme/franck-olivier": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358435526
+      "checkedAt": 1786443703653
     },
     "https://maisonnumidia.store/parfums-homme/kenzo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358442184
+      "checkedAt": 1786443709931
     },
     "https://maisonnumidia.store/parfums-homme/valentino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358448667
+      "checkedAt": 1786443722222
     },
     "https://maisonnumidia.store/parfums-homme/burberry": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358467172
+      "checkedAt": 1786443728508
     },
     "https://maisonnumidia.store/parfums-homme/amouage": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358500655
+      "checkedAt": 1786443734807
     },
     "https://maisonnumidia.store/parfums-homme/creed": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358507149
+      "checkedAt": 1786443741387
     },
     "https://maisonnumidia.store/parfums-homme/givenchy": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358513641
+      "checkedAt": 1786443747641
     },
     "https://maisonnumidia.store/parfums-homme/azzaro": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358520117
+      "checkedAt": 1786443753899
     },
     "https://maisonnumidia.store/parfums-homme/ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358526720
+      "checkedAt": 1786443760186
     },
     "https://maisonnumidia.store/parfums-homme/parfums-de-marly": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358533224
+      "checkedAt": 1786443766467
     },
     "https://maisonnumidia.store/parfums-homme/mont-blanc": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358545705
+      "checkedAt": 1786443772743
     },
     "https://maisonnumidia.store/parfums-homme/davidoff": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358552215
+      "checkedAt": 1786443779016
     },
     "https://maisonnumidia.store/parfums-homme/bvlgari": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358558742
+      "checkedAt": 1786443806298
     },
     "https://maisonnumidia.store/parfums-homme/cartier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358565291
+      "checkedAt": 1786443812663
     },
     "https://maisonnumidia.store/parfums-homme/guerlain": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358571945
+      "checkedAt": 1786443818928
     },
     "https://maisonnumidia.store/parfums-homme/lacoste": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358579239
+      "checkedAt": 1786443825501
     },
     "https://maisonnumidia.store/parfums-homme/nautica": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358585728
+      "checkedAt": 1786443843768
     },
     "https://maisonnumidia.store/parfums-homme/viktor-rolf": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358592202
+      "checkedAt": 1786443850053
     },
     "https://maisonnumidia.store/parfums-homme/guy-laroche": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358598693
+      "checkedAt": 1786443856341
     },
     "https://maisonnumidia.store/parfums-homme/guess": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358605183
+      "checkedAt": 1786443901855
     },
     "https://maisonnumidia.store/parfums-homme/antonio-banderas": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358611702
+      "checkedAt": 1786443908119
     },
     "https://maisonnumidia.store/parfums-homme/pierre-cardin": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358618165
+      "checkedAt": 1786443914625
     },
     "https://maisonnumidia.store/parfums-homme/evaflor": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358625211
+      "checkedAt": 1786443921112
     },
     "https://maisonnumidia.store/parfums-homme/xerjoff": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786358631707
+      "checkedAt": 1786443927614
     },
     "https://maisonnumidia.store/parfums-homme/roja-dove": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358638225
+      "checkedAt": 1786443933962
     },
     "https://maisonnumidia.store/parfums-homme/hermes": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358644739
+      "checkedAt": 1786443940459
     },
     "https://maisonnumidia.store/parfums-homme/issey-miyake": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358651223
+      "checkedAt": 1786443946731
     },
     "https://maisonnumidia.store/parfums-homme/ralph-lauren": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358657718
+      "checkedAt": 1786443953271
     },
     "https://maisonnumidia.store/parfums-homme/gucci": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358664357
+      "checkedAt": 1786443959515
     },
     "https://maisonnumidia.store/parfums-homme/tom-ford": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358672271
+      "checkedAt": 1786444029088
     },
     "https://maisonnumidia.store/parfums-homme/armaf": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358678838
+      "checkedAt": 1786444035386
     },
     "https://maisonnumidia.store/parfums-homme/prada": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358685296
+      "checkedAt": 1786444041658
     },
     "https://maisonnumidia.store/parfums-homme/mancera": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358691814
+      "checkedAt": 1786444048173
     },
     "https://maisonnumidia.store/parfums-homme/calvin-klein": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358698367
+      "checkedAt": 1786444054666
     },
     "https://maisonnumidia.store/parfums-homme/narciso-rodriguez": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358731904
+      "checkedAt": 1786444061158
     },
     "https://maisonnumidia.store/parfums-homme/joop": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358755087
+      "checkedAt": 1786444067664
     },
     "https://maisonnumidia.store/parfums-homme/carolina-herrera": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358761618
+      "checkedAt": 1786444074139
     },
     "https://maisonnumidia.store/parfums-homme/diesel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358768143
+      "checkedAt": 1786444080425
     },
     "https://maisonnumidia.store/parfums-homme/mugler": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358774666
+      "checkedAt": 1786444086725
     },
     "https://maisonnumidia.store/parfums-homme/lolita-lempicka": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358829269
+      "checkedAt": 1786444093006
     },
     "https://maisonnumidia.store/parfums-homme/dolce-gabbana": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358835890
+      "checkedAt": 1786444099262
     },
     "https://maisonnumidia.store/parfums-homme/dkny": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358842349
+      "checkedAt": 1786444105773
     },
     "https://maisonnumidia.store/parfums-homme/zadig-voltaire": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358848820
+      "checkedAt": 1786444112045
     },
     "https://maisonnumidia.store/parfums-homme/lalique": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358855465
+      "checkedAt": 1786444118795
     },
     "https://maisonnumidia.store/parfums-homme/ajmal": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358861969
+      "checkedAt": 1786444125293
     },
     "https://maisonnumidia.store/parfums-homme/al-haramain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358868451
+      "checkedAt": 1786444132027
     },
     "https://maisonnumidia.store/parfums-homme/rasasi": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358874934
+      "checkedAt": 1786444138520
     },
     "https://maisonnumidia.store/parfums-homme/rochas": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358881437
+      "checkedAt": 1786444144822
     },
     "https://maisonnumidia.store/parfums-homme/jimmy-choo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358887881
+      "checkedAt": 1786444151327
     },
     "https://maisonnumidia.store/parfums-homme/lanvin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358894457
+      "checkedAt": 1786444157601
     },
     "https://maisonnumidia.store/parfums-homme/roberto-cavalli": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358900963
+      "checkedAt": 1786444164287
     },
     "https://maisonnumidia.store/parfums-homme/salvatore-ferragamo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358907600
+      "checkedAt": 1786444171053
     },
     "https://maisonnumidia.store/parfums-homme/moschino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358914114
+      "checkedAt": 1786444177493
     },
     "https://maisonnumidia.store/parfums-homme/cerruti": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358920546
+      "checkedAt": 1786444184686
     },
     "https://maisonnumidia.store/parfums-homme/trussardi": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358927010
+      "checkedAt": 1786444191111
     },
     "https://maisonnumidia.store/parfums-homme/karl-lagerfeld": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358933495
+      "checkedAt": 1786444197599
     },
     "https://maisonnumidia.store/parfums-homme/nikos": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358939966
+      "checkedAt": 1786444204018
     },
     "https://maisonnumidia.store/parfums-homme/st-dupont": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358946446
+      "checkedAt": 1786444210531
     },
     "https://maisonnumidia.store/parfums-homme/boucheron": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358952947
+      "checkedAt": 1786444222851
     },
     "https://maisonnumidia.store/parfums-homme/afnan": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358959544
+      "checkedAt": 1786444229523
     },
     "https://maisonnumidia.store/parfums-homme/maison-margiela": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786358966027
+      "checkedAt": 1786444235889
     },
     "https://maisonnumidia.store/parfums-homme/acqua-di-parma": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358972621
+      "checkedAt": 1786444242143
     },
     "https://maisonnumidia.store/parfums-homme/kilian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358979117
+      "checkedAt": 1786444248419
     },
     "https://maisonnumidia.store/parfums-homme/initio": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358985603
+      "checkedAt": 1786444254707
     },
     "https://maisonnumidia.store/parfums-homme/memo-paris": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786358992105
+      "checkedAt": 1786444260990
     },
     "https://maisonnumidia.store/parfums-femme/jean-paul-gaultier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786358998632
+      "checkedAt": 1786444267270
     },
     "https://maisonnumidia.store/parfums-femme/ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359005139
+      "checkedAt": 1786444273789
     },
     "https://maisonnumidia.store/parfums-femme/carolina-herrera": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359011628
+      "checkedAt": 1786444280330
     },
     "https://maisonnumidia.store/parfums-femme/parfums-de-marly": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359018113
+      "checkedAt": 1786444286830
     },
     "https://maisonnumidia.store/parfums-femme/valentino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359024595
+      "checkedAt": 1786444293145
     },
     "https://maisonnumidia.store/parfums-femme/kayali": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359031008
+      "checkedAt": 1786444299472
     },
     "https://maisonnumidia.store/parfums-femme/chanel": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359037619
+      "checkedAt": 1786444305791
     },
     "https://maisonnumidia.store/parfums-femme/narciso-rodriguez": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359044262
+      "checkedAt": 1786444312102
     },
     "https://maisonnumidia.store/parfums-femme/lancome": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359050745
+      "checkedAt": 1786444318407
     },
     "https://maisonnumidia.store/parfums-femme/armani": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359057319
+      "checkedAt": 1786444324687
     },
     "https://maisonnumidia.store/parfums-femme/dolce-gabbana": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359063814
+      "checkedAt": 1786444330972
     },
     "https://maisonnumidia.store/parfums-femme/mugler": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359070306
+      "checkedAt": 1786444343249
     },
     "https://maisonnumidia.store/parfums-femme/dior": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359077004
+      "checkedAt": 1786444349544
     },
     "https://maisonnumidia.store/parfums-femme/prada": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359083554
+      "checkedAt": 1786444356042
     },
     "https://maisonnumidia.store/parfums-femme/elie-saab": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359090067
+      "checkedAt": 1786444362559
     },
     "https://maisonnumidia.store/parfums-femme/yves-rocher": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359096595
+      "checkedAt": 1786444368822
     },
     "https://maisonnumidia.store/parfums-femme/lanvin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359103248
+      "checkedAt": 1786444375087
     },
     "https://maisonnumidia.store/parfums-femme/jimmy-choo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359109722
+      "checkedAt": 1786444381574
     },
     "https://maisonnumidia.store/parfums-femme/calvin-klein": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359116501
+      "checkedAt": 1786444387849
     },
     "https://maisonnumidia.store/parfums-femme/chloe": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359123761
+      "checkedAt": 1786444394349
     },
     "https://maisonnumidia.store/parfums-femme/givenchy": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359130289
+      "checkedAt": 1786444400640
     },
     "https://maisonnumidia.store/parfums-femme/marc-jacobs": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359136825
+      "checkedAt": 1786444407138
     },
     "https://maisonnumidia.store/parfums-femme/nishane": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359143429
+      "checkedAt": 1786444413421
     },
     "https://maisonnumidia.store/parfums-femme/elizabeth-arden": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359149989
+      "checkedAt": 1786444419674
     },
     "https://maisonnumidia.store/parfums-femme/mont-blanc": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359156495
+      "checkedAt": 1786444425953
     },
     "https://maisonnumidia.store/parfums-femme/jean-patou": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359163093
+      "checkedAt": 1786444432233
     },
     "https://maisonnumidia.store/parfums-femme/mauboussin": {
       "state": "Crawled - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359169575
+      "checkedAt": 1786444447486
     },
     "https://maisonnumidia.store/parfums-femme/van-cleef-arpels": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359176099
+      "checkedAt": 1786444453802
     },
     "https://maisonnumidia.store/parfums-femme/paco-rabanne": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359182632
+      "checkedAt": 1786444460300
     },
     "https://maisonnumidia.store/parfums-femme/cacharel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359189225
+      "checkedAt": 1786444467109
     },
     "https://maisonnumidia.store/parfums-femme/zadig-voltaire": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359195826
+      "checkedAt": 1786444473641
     },
     "https://maisonnumidia.store/parfums-femme/guerlain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359202362
+      "checkedAt": 1786444480166
     },
     "https://maisonnumidia.store/parfums-femme/kenzo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359209004
+      "checkedAt": 1786444525648
     },
     "https://maisonnumidia.store/parfums-femme/gucci": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359215609
+      "checkedAt": 1786444531985
     },
     "https://maisonnumidia.store/parfums-femme/michael-kors": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359222261
+      "checkedAt": 1786444538297
     },
     "https://maisonnumidia.store/parfums-femme/ralph-lauren": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359228706
+      "checkedAt": 1786444544559
     },
     "https://maisonnumidia.store/parfums-femme/viktor-rolf": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359235188
+      "checkedAt": 1786444550821
     },
     "https://maisonnumidia.store/parfums-femme/miu-miu": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359241645
+      "checkedAt": 1786444557320
     },
     "https://maisonnumidia.store/parfums-femme/rochas": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359248068
+      "checkedAt": 1786444641597
     },
     "https://maisonnumidia.store/parfums-femme/burberry": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359254559
+      "checkedAt": 1786444647867
     },
     "https://maisonnumidia.store/parfums-femme/issey-miyake": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359261036
+      "checkedAt": 1786444654156
     },
     "https://maisonnumidia.store/parfums-femme/tom-ford": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359267518
+      "checkedAt": 1786444660429
     },
     "https://maisonnumidia.store/parfums-femme/maison-francis-kurkdjian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359274036
+      "checkedAt": 1786444666715
     },
     "https://maisonnumidia.store/parfums-femme/victorias-secret": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359280599
+      "checkedAt": 1786444673249
     },
     "https://maisonnumidia.store/parfums-femme/shakira": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359287073
+      "checkedAt": 1786444679995
     },
     "https://maisonnumidia.store/parfums-femme/adopt-mon-parfum": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359293693
+      "checkedAt": 1786444686998
     },
     "https://maisonnumidia.store/parfums-femme/zara": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359300304
+      "checkedAt": 1786444693483
     },
     "https://maisonnumidia.store/parfums-femme/versace": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359306825
+      "checkedAt": 1786444700285
     },
     "https://maisonnumidia.store/parfums-femme/hugo-boss": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359313296
+      "checkedAt": 1786444706824
     },
     "https://maisonnumidia.store/parfums-femme/nina-ricci": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359319600
+      "checkedAt": 1786444713314
     },
     "https://maisonnumidia.store/parfums-femme/coach": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359326092
+      "checkedAt": 1786444719833
     },
     "https://maisonnumidia.store/parfums-femme/montale": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359332590
+      "checkedAt": 1786444726513
     },
     "https://maisonnumidia.store/parfums-femme/mancera": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359339290
+      "checkedAt": 1786444732766
     },
     "https://maisonnumidia.store/parfums-femme/davidoff": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359345786
+      "checkedAt": 1786444739260
     },
     "https://maisonnumidia.store/parfums-femme/hermes": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359352289
+      "checkedAt": 1786444745546
     },
     "https://maisonnumidia.store/parfums-femme/lolita-lempicka": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359361793
+      "checkedAt": 1786444752045
     },
     "https://maisonnumidia.store/parfums-femme/jo-malone": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359368260
+      "checkedAt": 1786444758564
     },
     "https://maisonnumidia.store/parfums-femme/rasasi": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359374733
+      "checkedAt": 1786444764834
     },
     "https://maisonnumidia.store/parfums-femme/lacoste": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359381227
+      "checkedAt": 1786444771334
     },
     "https://maisonnumidia.store/parfums-femme/bvlgari": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359387705
+      "checkedAt": 1786444777958
     },
     "https://maisonnumidia.store/parfums-femme/armaf": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359394200
+      "checkedAt": 1786444784234
     },
     "https://maisonnumidia.store/parfums-femme/cartier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359400718
+      "checkedAt": 1786444790680
     },
     "https://maisonnumidia.store/parfums-femme/al-haramain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359407361
+      "checkedAt": 1786444796924
     },
     "https://maisonnumidia.store/parfums-femme/dkny": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359413851
+      "checkedAt": 1786444803177
     },
     "https://maisonnumidia.store/parfums-femme/swiss-arabian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359420475
+      "checkedAt": 1786444809530
     },
     "https://maisonnumidia.store/parfums-femme/ajmal": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359426989
+      "checkedAt": 1786444815808
     },
     "https://maisonnumidia.store/parfums-femme/azzaro": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359433491
+      "checkedAt": 1786444822089
     },
     "https://maisonnumidia.store/parfums-femme/guess": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359440003
+      "checkedAt": 1786444828618
     },
     "https://maisonnumidia.store/parfums-femme/lalique": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359446634
+      "checkedAt": 1786444835060
     },
     "https://maisonnumidia.store/parfums-femme/roberto-cavalli": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359453147
+      "checkedAt": 1786444841349
     },
     "https://maisonnumidia.store/parfums-femme/salvatore-ferragamo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359459604
+      "checkedAt": 1786444847604
     },
     "https://maisonnumidia.store/parfums-femme/moschino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359466110
+      "checkedAt": 1786444854136
     },
     "https://maisonnumidia.store/parfums-femme/escada": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359472628
+      "checkedAt": 1786444893671
     },
     "https://maisonnumidia.store/parfums-femme/cerruti": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359479229
+      "checkedAt": 1786444900162
     },
     "https://maisonnumidia.store/parfums-femme/chopard": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359485755
+      "checkedAt": 1786444906659
     },
     "https://maisonnumidia.store/parfums-femme/elizabeth-taylor": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359492352
+      "checkedAt": 1786444919671
     },
     "https://maisonnumidia.store/parfums-femme/trussardi": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359498865
+      "checkedAt": 1786444926184
     },
     "https://maisonnumidia.store/parfums-femme/nikos": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359505368
+      "checkedAt": 1786444932935
     },
     "https://maisonnumidia.store/parfums-femme/ungaro": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359511878
+      "checkedAt": 1786444951228
     },
     "https://maisonnumidia.store/parfums-femme/britney-spears": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359518424
+      "checkedAt": 1786444957732
     },
     "https://maisonnumidia.store/parfums-femme/jennifer-lopez": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359524921
+      "checkedAt": 1786444964007
     },
     "https://maisonnumidia.store/parfums-femme/beyonce": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359531489
+      "checkedAt": 1786444970274
     },
     "https://maisonnumidia.store/parfums-femme/paris-hilton": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359537992
+      "checkedAt": 1786445066769
     },
     "https://maisonnumidia.store/parfums-femme/ariana-grande": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359544510
+      "checkedAt": 1786445079023
     },
     "https://maisonnumidia.store/parfums-femme/boucheron": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359551176
+      "checkedAt": 1786445085553
     },
     "https://maisonnumidia.store/parfums-femme/kate-spade": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359557681
+      "checkedAt": 1786445091802
     },
     "https://maisonnumidia.store/parfums-femme/anna-sui": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359564257
+      "checkedAt": 1786445098060
     },
     "https://maisonnumidia.store/parfums-femme/mariah-carey": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359570756
+      "checkedAt": 1786445104853
     },
     "https://maisonnumidia.store/parfums-femme/maison-margiela": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359577276
+      "checkedAt": 1786445111365
     },
     "https://maisonnumidia.store/parfums-femme/acqua-di-parma": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359583907
+      "checkedAt": 1786445117629
     },
     "https://maisonnumidia.store/parfums-femme/kilian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359590404
+      "checkedAt": 1786445123888
     },
     "https://maisonnumidia.store/parfums-femme/amouage": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359596899
+      "checkedAt": 1786445130376
     },
     "https://maisonnumidia.store/parfums-femme/frederic-malle": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359603408
+      "checkedAt": 1786445185156
     },
     "https://maisonnumidia.store/parfums-femme/byredo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359610091
+      "checkedAt": 1786445191714
     },
     "https://maisonnumidia.store/parfums-femme/diptyque": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359616610
+      "checkedAt": 1786445198493
     },
     "https://maisonnumidia.store/parfums-femme/ex-nihilo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359623098
+      "checkedAt": 1786445205001
     },
     "https://maisonnumidia.store/parfums-femme/serge-lutens": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359629616
+      "checkedAt": 1786445238501
     },
     "https://maisonnumidia.store/parfums-femme/juliette-has-a-gun": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359636137
+      "checkedAt": 1786445244755
     },
     "https://maisonnumidia.store/parfums-orientaux/lattafa": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359642631
+      "checkedAt": 1786445251243
     },
     "https://maisonnumidia.store/parfums-orientaux/al-haramain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359649183
+      "checkedAt": 1786445257742
     },
     "https://maisonnumidia.store/parfums-orientaux/el-nabil": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359655823
+      "checkedAt": 1786445264252
     },
     "https://maisonnumidia.store/parfums-orientaux/rasasi": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359662327
+      "checkedAt": 1786445271011
     },
     "https://maisonnumidia.store/parfums-orientaux/louis-vuitton": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359668822
+      "checkedAt": 1786445277285
     },
     "https://maisonnumidia.store/parfums-orientaux/arabian-oud": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359675415
+      "checkedAt": 1786445283557
     },
     "https://maisonnumidia.store/parfums-orientaux/montale": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359681942
+      "checkedAt": 1786445290046
     },
     "https://maisonnumidia.store/parfums-orientaux/tom-ford": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359688438
+      "checkedAt": 1786445296326
     },
     "https://maisonnumidia.store/parfums-orientaux/swiss-arabian": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359695005
+      "checkedAt": 1786445302834
     },
     "https://maisonnumidia.store/parfums-orientaux/ajmal": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359704504
+      "checkedAt": 1786445309881
     },
     "https://maisonnumidia.store/parfums-orientaux/creed": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359711013
+      "checkedAt": 1786445316372
     },
     "https://maisonnumidia.store/parfums-orientaux/amouage": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359717512
+      "checkedAt": 1786445322722
     },
     "https://maisonnumidia.store/parfums-orientaux/al-rehab": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359724003
+      "checkedAt": 1786445329257
     },
     "https://maisonnumidia.store/parfums-orientaux/xerjoff": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359730503
+      "checkedAt": 1786445335529
     },
     "https://maisonnumidia.store/parfums-orientaux/roja-dove": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359737119
+      "checkedAt": 1786445341801
     },
     "https://maisonnumidia.store/parfums-orientaux/mancera": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786359743598
+      "checkedAt": 1786445348305
     },
     "https://maisonnumidia.store/parfums-orientaux/zara": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359750065
+      "checkedAt": 1786445354585
     },
     "https://maisonnumidia.store/parfums-orientaux/afnan": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359756624
+      "checkedAt": 1786445361086
     },
     "https://maisonnumidia.store/parfums-orientaux/orientica": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786359763107
+      "checkedAt": 1786445367838
     },
     "https://maisonnumidia.store/parfums-orientaux/initio": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359769610
+      "checkedAt": 1786445374613
     },
     "https://maisonnumidia.store/parfums-orientaux/nishane": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359776120
+      "checkedAt": 1786445453379
     },
     "https://maisonnumidia.store/parfums-orientaux/penhaligons": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359782674
+      "checkedAt": 1786445459709
     },
     "https://maisonnumidia.store/parfums/dior-sauvage": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359789187
+      "checkedAt": 1786445472223
     },
     "https://maisonnumidia.store/parfums/bleu-de-chanel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359795692
+      "checkedAt": 1786445559498
     },
     "https://maisonnumidia.store/parfums/scandal-jean-paul-gaultier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359802234
+      "checkedAt": 1786445566007
     },
     "https://maisonnumidia.store/parfums/scandal-pour-homme-jean-paul-gaultier": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359808727
+      "checkedAt": 1786445572510
     },
     "https://maisonnumidia.store/parfums/le-male-jean-paul-gaultier": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359815188
+      "checkedAt": 1786445579002
     },
     "https://maisonnumidia.store/parfums/black-opium-ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359821687
+      "checkedAt": 1786445585808
     },
     "https://maisonnumidia.store/parfums/libre-ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359828191
+      "checkedAt": 1786445592082
     },
     "https://maisonnumidia.store/parfums/good-girl-carolina-herrera": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359834706
+      "checkedAt": 1786445598833
     },
     "https://maisonnumidia.store/parfums/invictus-paco-rabanne": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359841183
+      "checkedAt": 1786445605113
     },
     "https://maisonnumidia.store/parfums/1-million-paco-rabanne": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359847694
+      "checkedAt": 1786445611389
     },
     "https://maisonnumidia.store/parfums/delina-parfums-de-marly": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359854167
+      "checkedAt": 1786445632704
     },
     "https://maisonnumidia.store/parfums/born-in-roma-valentino": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359860744
+      "checkedAt": 1786445638957
     },
     "https://maisonnumidia.store/parfums/kayali-eden": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359867861
+      "checkedAt": 1786445645237
     },
     "https://maisonnumidia.store/parfums/coco-mademoiselle-chanel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359874418
+      "checkedAt": 1786445651492
     },
     "https://maisonnumidia.store/parfums/armani-code": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359881007
+      "checkedAt": 1786445658069
     },
     "https://maisonnumidia.store/parfums/hugo-boss-bottled": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359887494
+      "checkedAt": 1786445664567
     },
     "https://maisonnumidia.store/parfums/versace-eros": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359893979
+      "checkedAt": 1786445671062
     },
     "https://maisonnumidia.store/parfums/narciso-rodriguez-for-her": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359900467
+      "checkedAt": 1786445677573
     },
     "https://maisonnumidia.store/parfums/la-vie-est-belle-lancome": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786359906977
-    },
-    "https://maisonnumidia.store/parfums/lattafa-oud-mood": {
       "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786359913430
+      "checkedAt": 1786445683857
+    },
+    "https://maisonnumidia.store/parfums/lattafa-oud-mood": {
+      "state": "Discovered - currently not indexed",
+      "indexed": false,
+      "checkedAt": 1786445690360
     },
     "https://maisonnumidia.store/parfums/amber-oud-al-haramain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359920017
+      "checkedAt": 1786445696889
     },
     "https://maisonnumidia.store/parfums/lattafa-asad": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359926532
+      "checkedAt": 1786445703406
     },
     "https://maisonnumidia.store/parfums/idole-lancome": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359933033
+      "checkedAt": 1786445709893
     },
     "https://maisonnumidia.store/parfums/franck-olivier": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359939534
+      "checkedAt": 1786445716409
     },
     "https://maisonnumidia.store/parfums/armani-my-way": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359946065
+      "checkedAt": 1786445722663
     },
     "https://maisonnumidia.store/parfums/dolce-gabbana-light-blue": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359952607
+      "checkedAt": 1786445729190
     },
     "https://maisonnumidia.store/parfums/dolce-gabbana-l-imperatrice": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359959104
+      "checkedAt": 1786445735439
     },
     "https://maisonnumidia.store/parfums/dior-homme": {
-      "state": "URL is unknown to Google",
+      "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359965600
+      "checkedAt": 1786445747976
     },
     "https://maisonnumidia.store/parfums/le-male-le-parfum": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359972099
+      "checkedAt": 1786445754274
     },
     "https://maisonnumidia.store/parfums/tresor-lancome": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786359978603
+      "checkedAt": 1786445760529
     },
     "https://maisonnumidia.store/parfums/alien-mugler": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359985117
+      "checkedAt": 1786445782195
     },
     "https://maisonnumidia.store/parfums/miss-dior": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786359991645
+      "checkedAt": 1786445788952
     },
     "https://maisonnumidia.store/parfums/kenzo-l-eau-homme": {
-      "state": "Discovered - currently not indexed",
+      "state": "URL is unknown to Google",
       "indexed": false,
-      "checkedAt": 1786359998090
+      "checkedAt": 1786445795442
     },
     "https://maisonnumidia.store/parfums/valentino-uomo": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360004592
+      "checkedAt": 1786445813714
     },
     "https://maisonnumidia.store/parfums/mon-paris-ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360011082
+      "checkedAt": 1786445829458
     },
     "https://maisonnumidia.store/parfums/prada-candy": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360017583
+      "checkedAt": 1786445835741
     },
     "https://maisonnumidia.store/parfums/burberry-brit-homme": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786360024211
+      "checkedAt": 1786445842251
     },
     "https://maisonnumidia.store/parfums/elie-saab-le-parfum": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360030707
+      "checkedAt": 1786445848526
     },
     "https://maisonnumidia.store/parfums/evidence-yves-rocher": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360037190
+      "checkedAt": 1786445854821
     },
     "https://maisonnumidia.store/parfums/oxygene-lanvin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360043737
+      "checkedAt": 1786445861323
     },
     "https://maisonnumidia.store/parfums/libre-le-parfum-ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360050386
+      "checkedAt": 1786445867826
     },
     "https://maisonnumidia.store/parfums/amouage-reflection": {
-      "state": "URL is unknown to Google",
+      "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786360056875
+      "checkedAt": 1786445874101
     },
     "https://maisonnumidia.store/parfums/jimmy-choo-femme": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360063404
+      "checkedAt": 1786445880369
     },
     "https://maisonnumidia.store/parfums/ck-one": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360069937
+      "checkedAt": 1786445886654
     },
     "https://maisonnumidia.store/parfums/chloe-signature": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360076284
+      "checkedAt": 1786445892954
     },
     "https://maisonnumidia.store/parfums/armani-si": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786360082788
+      "checkedAt": 1786445899198
     },
     "https://maisonnumidia.store/parfums/dior-jadore": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360089295
+      "checkedAt": 1786445905731
     },
     "https://maisonnumidia.store/parfums/givenchy-irresistible": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360095809
+      "checkedAt": 1786445912003
     },
     "https://maisonnumidia.store/parfums/eclat-arpege-lanvin": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360102252
+      "checkedAt": 1786445918277
     },
     "https://maisonnumidia.store/parfums/marc-jacobs-daisy": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360108710
+      "checkedAt": 1786445925056
     },
     "https://maisonnumidia.store/parfums/nishane-ani": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360115217
+      "checkedAt": 1786445931566
     },
     "https://maisonnumidia.store/parfums/creed-aventus": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360121714
+      "checkedAt": 1786445938128
     },
     "https://maisonnumidia.store/parfums/stronger-with-you-intensely": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360128289
+      "checkedAt": 1786445944408
     },
     "https://maisonnumidia.store/parfums/5th-avenue-elizabeth-arden": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360134905
+      "checkedAt": 1786445950915
     },
     "https://maisonnumidia.store/parfums/mont-blanc-lady-emblem": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360141717
+      "checkedAt": 1786445957225
     },
     "https://maisonnumidia.store/parfums/joy-jean-patou": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360148238
+      "checkedAt": 1786445963494
     },
     "https://maisonnumidia.store/parfums/mauboussin-pour-elle": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360154791
+      "checkedAt": 1786445970001
     },
     "https://maisonnumidia.store/parfums/givenchy-l-interdit": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360161244
+      "checkedAt": 1786445976482
     },
     "https://maisonnumidia.store/parfums/givenchy-gentleman": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360167754
+      "checkedAt": 1786445982725
     },
     "https://maisonnumidia.store/parfums/azzaro-chrome": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360174259
+      "checkedAt": 1786445992493
     },
     "https://maisonnumidia.store/parfums/acqua-di-gio-armani": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360180732
+      "checkedAt": 1786445998983
     },
     "https://maisonnumidia.store/parfums/la-nuit-de-l-homme-ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360187217
+      "checkedAt": 1786446005267
     },
     "https://maisonnumidia.store/parfums/layton-parfums-de-marly": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360193747
+      "checkedAt": 1786446044553
     },
     "https://maisonnumidia.store/parfums/mont-blanc-explorer": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360200253
+      "checkedAt": 1786446051057
     },
     "https://maisonnumidia.store/parfums/el-nabil-musc-makkah": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360206833
+      "checkedAt": 1786446060608
     },
     "https://maisonnumidia.store/parfums/davidoff-cool-water": {
       "state": "Discovered - currently not indexed",
       "indexed": false,
-      "checkedAt": 1786360213450
+      "checkedAt": 1786446067100
     },
     "https://maisonnumidia.store/parfums/van-cleef-feerie": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360219925
+      "checkedAt": 1786446073625
     },
     "https://maisonnumidia.store/parfums/olympea-paco-rabanne": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360226421
+      "checkedAt": 1786446080125
     },
     "https://maisonnumidia.store/parfums/euphoria-calvin-klein": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360232984
+      "checkedAt": 1786446116641
     },
     "https://maisonnumidia.store/parfums/manifesto-ysl": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360239505
+      "checkedAt": 1786446123406
     },
     "https://maisonnumidia.store/parfums/fahrenheit-dior": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360246033
+      "checkedAt": 1786446130174
     },
     "https://maisonnumidia.store/parfums/azzaro-wanted": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360252502
+      "checkedAt": 1786446136954
     },
     "https://maisonnumidia.store/parfums/yes-i-am-cacharel": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360258971
+      "checkedAt": 1786446143477
     },
     "https://maisonnumidia.store/parfums/this-is-her-zadig-voltaire": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360265521
-    },
-    "https://maisonnumidia.store/parfums/dolce-gabbana-the-one": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360272040
-    },
-    "https://maisonnumidia.store/parfums/rasasi-hawas": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360278678
-    },
-    "https://maisonnumidia.store/parfums/bvlgari-pour-homme-soir": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360285180
-    },
-    "https://maisonnumidia.store/parfums/declaration-cartier": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360291675
+      "checkedAt": 1786446149973
     },
     "https://maisonnumidia.store/parfums/habit-rouge-guerlain": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360298181
-    },
-    "https://maisonnumidia.store/parfums/lacoste-l12-noir": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360304601
-    },
-    "https://maisonnumidia.store/parfums/nautica-voyage": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360311139
+      "checkedAt": 1786446190251
     },
     "https://maisonnumidia.store/parfums/spicebomb-viktor-rolf": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360317596
-    },
-    "https://maisonnumidia.store/parfums/ultra-male-jean-paul-gaultier": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360324239
-    },
-    "https://maisonnumidia.store/parfums/poison-girl-dior": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360330746
-    },
-    "https://maisonnumidia.store/parfums/hypnotic-poison-dior": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360337233
-    },
-    "https://maisonnumidia.store/parfums/insolence-guerlain": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360343743
+      "checkedAt": 1786446197082
     },
     "https://maisonnumidia.store/parfums/kenzo-flower": {
       "state": "Submitted and indexed",
       "indexed": true,
-      "checkedAt": 1786360350245
-    },
-    "https://maisonnumidia.store/parfums/la-belle-jean-paul-gaultier": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360356688
-    },
-    "https://maisonnumidia.store/parfums/lady-million-paco-rabanne": {
-      "state": "URL is unknown to Google",
-      "indexed": false,
-      "checkedAt": 1786360363178
-    },
-    "https://maisonnumidia.store/parfums/organza-givenchy": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360369698
-    },
-    "https://maisonnumidia.store/parfums/gucci-flora-gorgeous": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360376173
-    },
-    "https://maisonnumidia.store/parfums/michael-kors-gorgeous": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360382654
-    },
-    "https://maisonnumidia.store/parfums/ralph-lauren-romance": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360389280
-    },
-    "https://maisonnumidia.store/parfums/gris-dior": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360395798
-    },
-    "https://maisonnumidia.store/parfums/drakkar-noir-guy-laroche": {
-      "state": "URL is unknown to Google",
-      "indexed": false,
-      "checkedAt": 1786360402300
-    },
-    "https://maisonnumidia.store/parfums/l-homme-ideal-guerlain": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360408794
-    },
-    "https://maisonnumidia.store/parfums/le-beau-jean-paul-gaultier": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360415302
-    },
-    "https://maisonnumidia.store/parfums/guess-seductive-homme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360421913
-    },
-    "https://maisonnumidia.store/parfums/mon-guerlain": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360428430
-    },
-    "https://maisonnumidia.store/parfums/amor-amor-cacharel": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360434949
-    },
-    "https://maisonnumidia.store/parfums/bonbon-viktor-rolf": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360441442
-    },
-    "https://maisonnumidia.store/parfums/miu-miu-l-eau": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360447930
-    },
-    "https://maisonnumidia.store/parfums/mademoiselle-rochas": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360454554
-    },
-    "https://maisonnumidia.store/parfums/ange-ou-demon-givenchy": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360461884
-    },
-    "https://maisonnumidia.store/parfums/goddess-burberry": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360468394
-    },
-    "https://maisonnumidia.store/parfums/l-eau-d-issey-femme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360474923
-    },
-    "https://maisonnumidia.store/parfums/guerlain-shalimar": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360481390
-    },
-    "https://maisonnumidia.store/parfums/tom-ford-black-orchid": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360487877
-    },
-    "https://maisonnumidia.store/parfums/baccarat-rouge-540": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360494375
-    },
-    "https://maisonnumidia.store/parfums/pegasus-parfums-de-marly": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360500879
-    },
-    "https://maisonnumidia.store/parfums/bombshell-victoria-secret": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360507501
-    },
-    "https://maisonnumidia.store/parfums/madawi-al-haramain": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360515143
-    },
-    "https://maisonnumidia.store/parfums/antonio-banderas-the-secret": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360521616
-    },
-    "https://maisonnumidia.store/parfums/shakira-dance": {
-      "state": "Crawled - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360528085
-    },
-    "https://maisonnumidia.store/parfums/pierre-cardin-pour-monsieur": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360534618
-    },
-    "https://maisonnumidia.store/parfums/whisky-silver-evaflor": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360541147
-    },
-    "https://maisonnumidia.store/parfums/louis-vuitton-ombre-nomade": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360547682
-    },
-    "https://maisonnumidia.store/parfums/xerjoff-naxos": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360554244
-    },
-    "https://maisonnumidia.store/parfums/roja-dove-elysium": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360560883
-    },
-    "https://maisonnumidia.store/parfums/adopt-narcotique": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360567851
-    },
-    "https://maisonnumidia.store/parfums/zara-rose-gold": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360574300
-    },
-    "https://maisonnumidia.store/parfums/sultan-al-oud": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360580778
-    },
-    "https://maisonnumidia.store/parfums/flowerbomb-viktor-rolf": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360587267
-    },
-    "https://maisonnumidia.store/parfums/chanel-no5": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360593757
-    },
-    "https://maisonnumidia.store/parfums/angel-mugler": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360600279
-    },
-    "https://maisonnumidia.store/parfums/y-ysl-homme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360606773
-    },
-    "https://maisonnumidia.store/parfums/mont-blanc-legend": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360613272
-    },
-    "https://maisonnumidia.store/parfums/dylan-blue-versace": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360619753
-    },
-    "https://maisonnumidia.store/parfums/bright-crystal-versace": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360626177
-    },
-    "https://maisonnumidia.store/parfums/terre-d-hermes": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360632800
-    },
-    "https://maisonnumidia.store/parfums/chance-eau-tendre-chanel": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360639286
-    },
-    "https://maisonnumidia.store/parfums/gucci-bloom": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360645905
-    },
-    "https://maisonnumidia.store/parfums/l-eau-d-issey-homme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360652443
-    },
-    "https://maisonnumidia.store/parfums/polo-blue-ralph-lauren": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360658920
-    },
-    "https://maisonnumidia.store/parfums/boss-alive-hugo-boss": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360665408
-    },
-    "https://maisonnumidia.store/parfums/l-aventure-al-haramain": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360672152
-    },
-    "https://maisonnumidia.store/parfums/lattafa-ana-abiyedh": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360679139
-    },
-    "https://maisonnumidia.store/parfums/dior-addict": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360685646
-    },
-    "https://maisonnumidia.store/parfums/dior-blooming-bouquet": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360692132
-    },
-    "https://maisonnumidia.store/parfums/dior-homme-intense": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360698775
-    },
-    "https://maisonnumidia.store/parfums/allure-homme-sport-chanel": {
-      "state": "Discovered - currently not indexed",
-      "indexed": false,
-      "checkedAt": 1786360705270
-    },
-    "https://maisonnumidia.store/parfums/opium-ysl": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360711749
-    },
-    "https://maisonnumidia.store/parfums/gucci-guilty-homme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360718384
-    },
-    "https://maisonnumidia.store/parfums/gucci-guilty-femme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360725666
-    },
-    "https://maisonnumidia.store/parfums/boss-bottled-night": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360732183
-    },
-    "https://maisonnumidia.store/parfums/eros-flame-versace": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360738718
-    },
-    "https://maisonnumidia.store/parfums/l-aventure-femme-al-haramain": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360745194
-    },
-    "https://maisonnumidia.store/parfums/lattafa-yara": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360751727
-    },
-    "https://maisonnumidia.store/parfums/la-yuqawam-rasasi-homme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360758192
-    },
-    "https://maisonnumidia.store/parfums/tobacco-vanille-tom-ford": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360764669
-    },
-    "https://maisonnumidia.store/parfums/nina-ricci-nina": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360771117
-    },
-    "https://maisonnumidia.store/parfums/kalemat-arabian-oud": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360777628
-    },
-    "https://maisonnumidia.store/parfums/club-de-nuit-intense-armaf": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360784147
-    },
-    "https://maisonnumidia.store/parfums/good-girl-supreme-carolina-herrera": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360790517
-    },
-    "https://maisonnumidia.store/parfums/212-vip-women-carolina-herrera": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360797013
-    },
-    "https://maisonnumidia.store/parfums/flowerbomb-nectar-viktor-rolf": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360803493
-    },
-    "https://maisonnumidia.store/parfums/alien-goddess-mugler": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360809997
-    },
-    "https://maisonnumidia.store/parfums/dolce-gabbana-dolce": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360817705
-    },
-    "https://maisonnumidia.store/parfums/mancera-cedrat-boise": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360825530
-    },
-    "https://maisonnumidia.store/parfums/azzaro-pour-homme": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360832329
-    },
-    "https://maisonnumidia.store/parfums/voyage-d-hermes": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360841594
-    },
-    "https://maisonnumidia.store/parfums/dylan-purple-versace": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360848532
-    },
-    "https://maisonnumidia.store/parfums/good-fortune-viktor-rolf": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360855215
-    },
-    "https://maisonnumidia.store/parfums/allure-femme-chanel": {
-      "state": "Submitted and indexed",
-      "indexed": true,
-      "checkedAt": 1786360861864
+      "checkedAt": 1786446225437
     }
   }
 }
