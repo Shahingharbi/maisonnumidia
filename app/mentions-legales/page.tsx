@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Mentions Légales | Maison Numidia",
   robots: { index: false },
+  alternates: { canonical: "https://maisonnumidia.store/mentions-legales" },
 };
 
 export default function MentionsLegalesPage() {

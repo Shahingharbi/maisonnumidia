@@ -1,12 +1,14 @@
 import type { MetadataRoute } from "next";
-import { getAllProducts, getProductsByCategory } from "@/lib/products";
+import { getAllProducts, getProductsByCategory, getBrandSlugsForGenderPage } from "@/lib/products";
 import { articles } from "@/data/blog";
 
 const BASE = "https://maisonnumidia.store";
 
-// Date stable du dernier ajout de produits — NE PAS utiliser new Date()
-// qui fait croire à Google que tout change chaque jour (signal négatif pour le budget crawl)
-const CATALOG_DATE = new Date("2026-04-11");
+// Date stable du dernier ajout/changement réel de produit ou de structure de site —
+// NE PAS utiliser new Date() qui fait croire à Google que tout change chaque jour
+// (signal négatif pour le budget crawl). Mettre à jour manuellement à chaque
+// modification significative du catalogue ou du sitemap lui-même.
+const CATALOG_DATE = new Date("2026-09-14");
 const SITE_LAUNCH = new Date("2026-01-15");
 // Date du dernier changement réel des pages catégorie (ajout de l'index catalogue
 // crawlable / maillage interne). Honnête : ces pages ont effectivement changé.
@@ -15,12 +17,12 @@ const CATEGORY_UPDATE = new Date("2026-06-08");
 export default function sitemap(): MetadataRoute.Sitemap {
   const allProducts = getAllProducts();
 
-  const hommeProducts = getProductsByCategory("parfums-homme");
-  const femmeProducts = getProductsByCategory("parfums-femme");
+  // IMPORTANT : basé sur `gender` (comme les pages /parfums-{homme|femme}/[marque]
+  // elles-mêmes), PAS sur `category` — sinon des marques avec du vrai contenu
+  // (ex: Lattafa homme, catégorisé "parfums-orientaux") sont absentes du sitemap.
+  const brandSlugsHomme = getBrandSlugsForGenderPage("homme");
+  const brandSlugsFemme = getBrandSlugsForGenderPage("femme");
   const orientauxProducts = getProductsByCategory("parfums-orientaux");
-
-  const brandSlugsHomme = [...new Set(hommeProducts.map((p) => p.brandSlug))];
-  const brandSlugsFemme = [...new Set(femmeProducts.map((p) => p.brandSlug))];
   const brandSlugsOrientaux = [...new Set(orientauxProducts.map((p) => p.brandSlug))];
   const allBrandSlugs = [...new Set([...brandSlugsHomme, ...brandSlugsFemme, ...brandSlugsOrientaux])];
 

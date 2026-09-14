@@ -142,7 +142,7 @@ export default async function ProductPage({ params }: Props) {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
 
             {/* Image */}
-            <div className="relative aspect-square bg-[#F8F8F8] rounded-2xl overflow-hidden">
+            <div className="relative aspect-square bg-white rounded-lg overflow-hidden">
               <Image
                 src={product.image}
                 alt={`${h1} — flacon officiel`}

@@ -762,9 +762,9 @@ Azzaro Wanted partage la structure boisée-aromatique de Sauvage avec sa propre 
 
 ### Si vous aimez Coco Mademoiselle Chanel
 
-**Alternative recommandée :** [Cacharel You EDP](/parfums/you-cacharel) — 9 900 DA
+**Alternative recommandée :** [Cacharel Noa EDT](/parfums/cacharel-noa) — 11 000 DA
 
-You de Cacharel offre une sophistication florale-boisée comparable, avec une composition de qualité certifiée et une tenue excellente. À un tiers du prix.
+Noa de Cacharel offre une sophistication florale comparable, avec une composition de qualité certifiée et une tenue excellente. Un tiers du prix environ.
 
 ### Si vous aimez Black Opium YSL
 

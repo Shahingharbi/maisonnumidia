@@ -15,7 +15,11 @@ import crypto from "crypto";
 const CREDENTIALS_PATH = process.env.GOOGLE_INDEXING_CREDENTIALS_FILE
   || "./.credentials/google-indexing.json";
 const CREDENTIALS_JSON = process.env.GOOGLE_INDEXING_CREDENTIALS_JSON;
-const SCOPE = "https://www.googleapis.com/auth/indexing https://www.googleapis.com/auth/siteverification https://www.googleapis.com/auth/webmasters.readonly";
+// Deux scopes séparés, DEUX tokens distincts (voir getAccessToken) — Indexing API
+// est capricieuse sur un token multi-scope (panne 401 du 09/06/2026 après ajout de
+// webmasters.readonly au scope unique ; corrigé le 14/09/2026). Ne jamais refusionner.
+const INDEXING_SCOPE = "https://www.googleapis.com/auth/indexing";
+const GSC_SCOPE = "https://www.googleapis.com/auth/siteverification https://www.googleapis.com/auth/webmasters.readonly";
 const TOKEN_URL = "https://oauth2.googleapis.com/token";
 const PUBLISH_URL = "https://indexing.googleapis.com/v3/urlNotifications:publish";
 const VERIFY_TOKEN_URL = "https://www.googleapis.com/siteVerification/v1/token";
@@ -39,11 +43,11 @@ function base64url(input) {
     .replace(/\//g, "_");
 }
 
-async function getAccessToken(creds) {
+async function getAccessToken(creds, scope) {
   const now = Math.floor(Date.now() / 1000);
   const claim = {
     iss: creds.client_email,
-    scope: SCOPE,
+    scope,
     aud: TOKEN_URL,
     exp: now + 3600,
     iat: now,
@@ -240,14 +244,17 @@ async function main() {
   console.log(`Service Account: ${creds.client_email}`);
   console.log(`Project: ${creds.project_id}`);
 
-  console.log("Requesting access token...");
-  const token = await getAccessToken(creds);
-  console.log("Access token: OK\n");
+  console.log("Requesting access tokens...");
+  // Token dédié Indexing API (publishUrl / getUrlMetadata) — scope pur, jamais mélangé.
+  const token = await getAccessToken(creds, INDEXING_SCOPE);
+  // Token dédié Search Console (Site Verification + URL Inspection).
+  const gscToken = await getAccessToken(creds, GSC_SCOPE);
+  console.log("Access tokens: OK\n");
 
   // ---------- Site Verification: list current ownerships ----------
   if (VERIFY_LIST) {
     console.log("Listing current Site Verification ownerships for this SA...");
-    const result = await listVerifications(token);
+    const result = await listVerifications(gscToken);
     console.log(`HTTP ${result.status}`);
     console.log(result.body);
     return;
@@ -256,7 +263,7 @@ async function main() {
   // ---------- Site Verification: get token (FILE or META) ----------
   if (VERIFY_INIT) {
     console.log(`Requesting Site Verification token (method: ${VERIFY_METHOD})...`);
-    const data = await getVerificationToken(token, VERIFY_METHOD);
+    const data = await getVerificationToken(gscToken, VERIFY_METHOD);
     console.log("\n=== VERIFICATION TOKEN RECEIVED ===");
     console.log(JSON.stringify(data, null, 2));
     if (VERIFY_METHOD === "FILE") {
@@ -274,7 +281,7 @@ async function main() {
   // ---------- Site Verification: insert (validate ownership) ----------
   if (VERIFY_DO) {
     console.log(`Requesting Google to verify ownership via ${VERIFY_METHOD}...`);
-    const result = await insertVerification(token, VERIFY_METHOD);
+    const result = await insertVerification(gscToken, VERIFY_METHOD);
     console.log(`HTTP ${result.status}`);
     console.log(result.body);
     if (result.status === 200) {
@@ -339,7 +346,7 @@ async function main() {
   // On concentre les pings sur les pages NON indexées, au lieu de re-pinger
   // en boucle des pages déjà indexées (inutile pour l'indexation).
   if (!log.indexStatus) log.indexStatus = {};
-  const property = await resolveProperty(token);
+  const property = await resolveProperty(gscToken);
 
   if (property) {
     console.log(`Propriété GSC: ${property}`);
@@ -353,7 +360,7 @@ async function main() {
     console.log(`Inspection de ${toInspect.length} URLs (statut manquant ou > ${INDEX_STALE_DAYS}j)...`);
     let insp = 0;
     for (const u of toInspect) {
-      const r = await inspectIndexStatus(token, property, u);
+      const r = await inspectIndexStatus(gscToken, property, u);
       if (r.ok) {
         log.indexStatus[u] = { state: r.state, indexed: isIndexed(r.state), checkedAt: Date.now() };
       } else if (r.status === 429) {
@@ -448,6 +455,14 @@ async function main() {
   console.log(`\nDone: ${okCount} OK, ${errCount} errors`);
   console.log(`Total submitted ever: ${Object.keys(log.submitted).length} URLs`);
   console.log(`Log saved: ${LOG_PATH}`);
+
+  // Panne totale et silencieuse (ex: 200 erreurs 401 tous les jours pendant 3 mois,
+  // masquée car ce script réussissait toujours à committer le log). On fait échouer
+  // le job CI pour que la panne apparaisse dans l'onglet GitHub Actions.
+  if (queue.length > 0 && okCount === 0) {
+    console.error(`ALERTE: ${errCount}/${queue.length} echecs, 0 succes — probable panne auth/permissions.`);
+    process.exitCode = 1;
+  }
 }
 
 main().catch((e) => {

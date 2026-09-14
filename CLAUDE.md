@@ -7,33 +7,38 @@
 ## Contexte projet
 
 Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yalidine 58 wilayas.
-- **Stack :** Next.js 14 App Router, Tailwind v4, TypeScript strict, pnpm
+- **Stack :** Next.js **16.1.6** (App Router, Turbopack), React 19, Tailwind v4, TypeScript strict, pnpm
 - **Déploiement :** Vercel — GitHub : Shahingharbi/maisonnumidia
-- **Domaine :** maisonnumidia.store
+- **Domaine :** maisonnumidia.store (le `www` redirige en 301 vers l'apex — voir `next.config.ts`)
 - **Téléphone :** 07 94 49 60 59
 - **WhatsApp (FR) :** +33782214993
+- **Analytics :** GA4 (`G-77YXRM3HBT`) + Microsoft Clarity, dans `app/layout.tsx`
+- **Commandes :** EmailJS côté client (`app/commander/page.tsx`) → boîte du vendeur. Clés dans `.env.local` (local) et Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais coller les vraies valeurs dans ce fichier ni dans un commit.
 
-### État du catalogue (avril 2026)
-- **748 produits** dans `data/products.json` (~274 homme, ~400 femme, ~74 oriental)
+### État du catalogue (14 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
+- **735 produits** dans `data/products.json` (267 homme, 402 femme, 66 oriental)
 - **121 marques** dans `data/products.json.brands[]`
-- **9 articles blog** dans `data/blog.ts`
+- **14 articles blog** dans `data/blog.ts` (contenu en **Markdown**, pas HTML — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
-- **~770 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
-- **~1045 pages** au total (produits + marques + brand filters + blog + statiques)
-- **0 brandSlug orphelin, 0 related cassé, 0 produit sans image**
+- **764 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
+- **~1101 pages** au total (sitemap.xml — produits + marques + brand filters + blog + statiques)
+- **0 brandSlug orphelin, 0 related cassé, 0 produit sans image** (audit règle n°6)
+- Prix : **6 500 DA à 162 000 DA**, médiane ~20 500 DA (voir Règles prix)
 
-### Historique nettoyage (avril 2026)
-- 25 produits fantômes supprimés (n'existaient pas : noms inventés, mauvaises marques)
-- 35 marques ajoutées (brandSlug orphelins corrigés)
-- Choco Musk corrigé Rasasi → Al Rehab, Midnight Dreams renommé Night Dreams
-- 55 fichiers `_tmp_batch*.mjs` temporaires supprimés de la racine
-- Fix maillage interne + crawl budget (voir section dédiée ci-dessous)
+Avant de citer un chiffre du catalogue dans une réponse, revérifier avec `node -e` — ce fichier est mis à jour ponctuellement, pas à chaque commit produit.
+
+### Historique nettoyage
+- **Avril 2026 :** 25 produits fantômes supprimés (noms inventés, mauvaises marques), 35 marques ajoutées, 55 fichiers `_tmp_batch*.mjs` temporaires supprimés, fix maillage interne + crawl budget (voir section dédiée).
+- **Juin 2026 :** repricing complet (prix marché € × 270, puis recherche par agents), fusion de doublons (748 → 735), maillage `CategoryCatalogIndex` ajouté aux 3 pages catégorie, GEO (entité de marque, rail social).
+- **Septembre 2026 :** audit complet + corrections — voir ci-dessous.
 
 ---
 
 ## Règles crawl / indexation — OBLIGATOIRES
 
 > **Contexte (avril 2026) :** Le crawl budget GSC est tombé de 8000 à ~0, seulement 90 pages indexées sur ~1000. Causes identifiées et corrigées ci-dessous. **NE JAMAIS réintroduire ces bugs.**
+>
+> **Mise à jour (14 sept. 2026) :** trafic réel mesuré via Search Analytics API — ~1000 clics/semaine, 91% des URLs vérifiées indexées, croissance ×38 depuis mars. Le crawl marche. Les bugs ci-dessous restent des pièges à ne pas réintroduire, mais ne sont plus la priorité n°1 — voir plutôt les opportunités CTR et le robot d'indexation (rule n°7).
 
 ### Règle n°1 : JAMAIS de liens en JS conditionnel dans le header/footer
 Les liens de navigation DOIVENT être dans le HTML statique. Google ne clique pas, ne hover pas.
@@ -42,17 +47,21 @@ Les liens de navigation DOIVENT être dans le HTML statique. Google ne clique pa
 
 **Fichier concerné :** `components/layout/Header.tsx` — les sous-menus dropdown
 
-### Règle n°2 : generateStaticParams doit filtrer par catégorie
-Les brand filter pages (`/parfums-homme/[marque]`, `/parfums-femme/[marque]`, `/parfums-orientaux/[marque]`) NE DOIVENT PAS utiliser `getAllBrandSlugs()`. Chaque catégorie doit générer uniquement les marques qui ont des produits dans cette catégorie.
-- **BON :** `getProductsByCategory("parfums-homme")` → extraire les brandSlugs → `generateStaticParams`
-- **MAUVAIS :** `getAllBrandSlugs()` → génère 121 pages dont 50+ retournent 404 (notFound)
+### Règle n°2 : generateStaticParams des pages marque doit suivre EXACTEMENT le filtre utilisé par la page
 
-**Pourquoi :** En avril 2026, 141 pages fantômes en 404 étaient générées. Google les crawlait, recevait un 404, et baissait le crawl budget du site entier.
+Les brand filter pages (`/parfums-homme/[marque]`, `/parfums-femme/[marque]`, `/parfums-orientaux/[marque]`) NE DOIVENT PAS utiliser `getAllBrandSlugs()` (ça génère des pages qui 404 pour des marques absentes de la catégorie).
+
+**Mais attention (bug trouvé et corrigé le 14/09/2026) : filtrer par `category` ne suffit pas.** Le contenu réel de `/parfums-homme/[marque]` est filtré par **`gender`** (`p.gender === "homme" || p.gender === "unisexe"`), pas par `category` — car une marque comme Lattafa a tous ses produits catégorisés `"parfums-orientaux"` mais certains avec `gender: "homme"`, qui doivent apparaître sur `/parfums-homme/lattafa`. Si `generateStaticParams` filtre par `category` pendant que la page filtre par `gender`, le résultat est incohérent : la page existe et répond 200 (Next la rend à la demande), mais elle n'est ni pré-générée au build, ni dans le sitemap → invisible de Google malgré du vrai contenu. **17 marques homme et 13 marques femme étaient dans ce cas**, dont Lattafa (marque n°1 en clics GSC).
+
+- **BON :** `getBrandSlugsForGenderPage("homme" | "femme")` (dans `lib/products.ts`) — même logique que le filtre utilisé dans le corps de la page.
+- **MAUVAIS :** `getProductsByCategory("parfums-homme")` puis extraire les brandSlugs → décalé du filtre réel de la page.
+- Pour `/parfums-orientaux/[marque]`, `category` et `isOriental` sont équivalents (un produit `isOriental` a toujours `category: "parfums-orientaux"`) → pas de bug ici, mais rester cohérent si cette invariance change un jour.
+- **Toujours vérifier que `app/sitemap.ts` utilise la MÊME fonction que `generateStaticParams`** — les deux ont dérivé indépendamment par le passé, avec des logiques différentes malgré une intention identique.
 
 ### Règle n°3 : Le sitemap.xml ne doit contenir QUE des pages qui existent (HTTP 200)
 - Vérifier que chaque URL du sitemap mène à une page réelle, pas un 404 ou redirect
-- Le sitemap utilise les brandSlugs extraits des produits par catégorie (PAS getAllBrandSlugs)
-- `CATALOG_DATE` doit être mise à jour à chaque ajout significatif de produits
+- Le sitemap utilise `getBrandSlugsForGenderPage()` pour homme/femme, `category` pour orientaux (voir Règle n°2) — jamais `getAllBrandSlugs()`
+- `CATALOG_DATE` (dans `app/sitemap.ts`) doit être mise à jour manuellement à chaque ajout significatif de produits ou changement structurel du sitemap (ne JAMAIS la remplacer par `new Date()` dynamique — Google y voit un signal "tout change tous les jours" qui dégrade le budget crawl)
 
 ### Règle n°4 : Chaque nouvelle marque DOIT être ajoutée dans brands[]
 Quand on ajoute un produit avec un nouveau `brandSlug`, la marque correspondante DOIT exister dans `data/products.json.brands[]`. Sinon :
@@ -73,6 +82,17 @@ Lancer cet audit avant de push :
 ```bash
 node -e "const p=require('./data/products.json'),fs=require('fs');const b=new Set(p.brands.map(x=>x.slug)),s=new Set(p.products.map(x=>x.slug));let e=0;p.products.forEach(x=>{if(!b.has(x.brandSlug)){console.log('❌ brand orphelin:',x.slug,'→',x.brandSlug);e++}if(!x.related||x.related.length<3){console.log('❌ related<3:',x.slug);e++}if(x.related&&x.related.some(r=>!s.has(r))){console.log('❌ related cassé:',x.slug);e++}if(!fs.existsSync('./public/images/products/'+x.slug+'.jpg')){console.log('❌ image manquante:',x.slug);e++}});console.log(e?'⚠️ '+e+' erreurs':'✅ 0 erreur — catalogue propre')"
 ```
+Lancer aussi `npx tsc --noEmit` et, si un fichier de routing/sitemap a changé, `npx next build` en local (les erreurs de `generateStaticParams` ou de `redirects()` ne remontent parfois qu'au build, pas au typecheck).
+
+### Règle n°7 : Si on renomme ou supprime un slug produit, TOUJOURS ajouter une redirection 301
+Dans `next.config.ts` → `redirects()`. Sinon l'ancienne URL devient un 404 vivant si elle a déjà des impressions/backlinks Google. **17 anciens slugs de mars 2026 (fusion de doublons) sont restés en 404 pendant 6 mois avant d'être corrigés le 14/09/2026** faute de cette règle.
+```ts
+{ source: "/parfums/ancien-slug", destination: "/parfums/nouveau-slug", permanent: true },
+```
+Vérifier après coup avec `curl -sI https://maisonnumidia.store/parfums/ancien-slug` (attendu : `308` + bon `location`).
+
+### Règle n°8 : Google Indexing API — NE JAMAIS mélanger les scopes OAuth dans un seul token
+`scripts/google-indexing-api.mjs` doit générer **deux JWT distincts** : un avec le scope `https://www.googleapis.com/auth/indexing` (pour `publishUrl`/`getUrlMetadata`), un avec `siteverification` + `webmasters.readonly` (pour tout le reste : Site Verification, URL Inspection). **Ne jamais les fusionner dans un seul `scope` de token.** Panne vécue : le 08/06/2026, l'ajout de `webmasters.readonly` au scope unique a cassé silencieusement l'Indexing API (401 sur 100% des soumissions, **tous les jours pendant 3 mois**, masqué parce que le script committait quand même le log d'échecs). Corrigé le 14/09/2026 en séparant les tokens (`INDEXING_SCOPE` / `GSC_SCOPE`). Le script fait maintenant échouer le job CI (`process.exitCode = 1`) si 0 succès sur un batch non-vide — ne pas supprimer cette garde.
 
 ---
 
@@ -88,6 +108,8 @@ node -e "const p=require('./data/products.json'),fs=require('fs');const b=new Se
 - Produit : `{H1 keyword} Original` → rendu : `Dior Sauvage Parfum Homme Algérie Original | Maison Numidia`
 - Catégorie : `Parfum {Genre} Original en Algérie — {Marques phares}`
 - Jamais de double `| Maison Numidia`
+
+> ⚠️ **Point ouvert (14/09/2026, à trancher avec Shahin) :** les données Search Console montrent que le trafic vient massivement de requêtes `"[produit] prix algérie"`, et que des fiches en position ~6 ont un CTR de seulement 1-1,7% faute du mot "Prix" dans le titre. Ça entre en tension directe avec cette règle (format figé) et la règle meta description ci-dessous ("pas de prix"). **Ne pas changer ce template sans validation explicite** — c'est un choix de contenu, pas un bug technique.
 
 ### H1
 - Format : `{Marque} {Nom} Parfum {Genre} Algérie` (mot-clé exact SEMrush)
@@ -124,7 +146,7 @@ node -e "const p=require('./data/products.json'),fs=require('fs');const b=new Se
 - Or hover : `#8B6914`
 
 ### Composants
-- **Arrondis :** `rounded-lg` maximum — jamais `rounded-2xl` sur les cartes produit/catégorie
+- **Arrondis :** `rounded-lg` maximum — jamais `rounded-2xl` sur les cartes produit/catégorie (ça inclut l'image principale de la fiche produit, corrigé le 14/09/2026 dans `app/parfums/[slug]/page.tsx`)
 - **Pas d'étoiles** de notation sur aucune page
 - **Pas de badge "En stock"** dans les cartes produit
 - **Logo :** `<Image src="/logo.png" className="brightness-0" />` — filtre noir sur fond blanc
@@ -132,7 +154,7 @@ node -e "const p=require('./data/products.json'),fs=require('fs');const b=new Se
 - **Téléphone dans le header :** toujours `07 94 49 60 59`, jamais "WhatsApp" dans le header
 
 ### Images
-- Fond des photos produit : `bg-white` (jamais grisé)
+- Fond des photos produit : `bg-white` (jamais grisé, même un gris très clair type `#F8F8F8`)
 - Images éditoriales : Unsplash uniquement — **vérifier le HTTP 200 avant d'utiliser une URL**
 - Images produits : Fragrantica CDN ou téléchargées en local dans `/public/images/products/`
 - Next.js `<Image fill>` : le parent doit avoir `position: relative` ET une hauteur définie
@@ -165,7 +187,7 @@ Chaque produit DOIT avoir ces champs :
   "brandSlug": "slug-marque",
   "category": "parfums-homme | parfums-femme | parfums-orientaux",
   "gender": "homme | femme | unisexe",
-  "concentration": "EDP | EDT | Parfum",
+  "concentration": "EDP | EDT | Parfum | Extrait de Parfum | Cologne",
   "volume": "100ml",
   "price": 15900,
   "originalPrice": null,
@@ -187,11 +209,17 @@ Chaque produit DOIT avoir ces champs :
 ```
 
 ### Règles prix (DZD)
-- Baser sur des prix réels du marché algérien — NE PAS inventer
-- Dior/Chanel/grandes maisons : 12 000 à 18 000 DA
-- Marques mid-range (Paco Rabanne, Armani, JPG) : 6 000 à 10 000 DA
-- Orientaux premium (Al Haramain) : 4 000 à 6 000 DA
-- Orientaux accessibles (Lattafa, Franck Olivier) : 2 000 à 4 000 DA
+
+Méthode : prix marché européen réel (discounter type notino.fr, pas le prix boutique officiel) × 270, ajusté par volume et concentration. Outil rejouable : `scripts/reprice.mjs`. **Plancher catalogue : 6 500 DA — ne jamais descendre en dessous.**
+
+Fourchettes réelles au 14/09/2026 (vérifier avec `node -e` avant de s'y fier, ça évolue) :
+- Dior / Chanel : **23 000 à 48 000 DA**
+- Mid-range (Paco Rabanne, Armani, JPG) : **14 000 à 33 000 DA**
+- Al Haramain (orientaux premium) : **8 500 à 15 500 DA**
+- Lattafa / Franck Olivier (orientaux accessibles) : **6 500 à 9 000 DA**
+- Niche/luxe (MFK, Creed, Amouage, Roja, Xerjoff) : peut monter jusqu'à 160 000+ DA
+
+Le `priceRange` du schema `LocalBusiness` (`lib/seo.ts`) est **calculé dynamiquement** depuis `products.json` (fonction `getPriceRange()`) — ne jamais le remplacer par une valeur figée à la main.
 
 ---
 
@@ -216,19 +244,18 @@ Chaque produit DOIT avoir ces champs :
 3. Vérifier que `related[]` pointe vers des slugs existants
 4. Lancer `npx tsc --noEmit` pour vérifier les types
 5. `git add -A && git commit && git push` → Vercel redéploie automatiquement
+6. Relancer `node scripts/indexnow-submit.mjs` pour notifier Bing/Yandex des nouvelles pages (Google se gère via le cron `google-indexing-daily.yml`, pas besoin de le lancer à la main)
 
-### Scripts disponibles dans `/scripts/`
+### Scripts dans `/scripts/`
+
+Beaucoup de scripts `add-products-batch*.mjs` / `download-*.mjs` / `_tmp_*` sont des artefacts ponctuels d'un ajout de catalogue passé — pas la peine de les relancer, ils recréeraient des doublons ou pointeraient vers des slugs déjà modifiés. Les scripts encore utiles au quotidien :
 
 | Script | Rôle |
 |---|---|
-| `add-products-batch1.mjs` | Premiers 15 produits (avant batches A-E) |
-| `add-products-batchA.mjs` | Produits vol 720→480 (15 produits) |
-| `add-products-batchB.mjs` | Produits vol 390→170 (15 produits) |
-| `add-products-batchC.mjs` | Produits vol 170→110 (15 produits) |
-| `add-products-batchD.mjs` | Produits vol 110→90 (15 produits) |
-| `add-products-batchE.mjs` | Produits vol 90→70 (8 produits) |
-| `download-images-batch2.mjs` | Télécharge 67 images Fragrantica → `/public/images/products/` |
-| `update-keywords.mjs` | Met à jour `data/keywords.json` (status done/skip + slug) |
+| `google-indexing-api.mjs` | Cron quotidien GitHub Actions — vérifie le statut d'indexation GSC (URL Inspection) et soumet les URLs non-indexées à l'Indexing API. `--dry-run` pour prévisualiser, `--url=` pour tester une seule URL, `--verify-list` pour lister les propriétés vérifiées par le compte de service. |
+| `indexnow-submit.mjs` | Notifie Bing/Yandex de toutes les URLs du site. `DRY_RUN=1` pour prévisualiser. À relancer après un ajout de produits/articles significatif. |
+| `reprice.mjs` | Recalcule les prix par marque (table `BRAND_REF`, prix € × 270). Simulation par défaut, `--apply` pour écrire. |
+| `update-keywords.mjs` | Met à jour `data/keywords.json` (status done/skip + slug), pattern à copier pour un nouveau batch de mots-clés SEMrush. |
 
 ### Workflow keywords SEMrush (`data/keywords.json`)
 
@@ -245,9 +272,11 @@ Interface TypeScript :
 { slug, title, metaTitle, metaDescription, publishedAt, category, readTime, excerpt, content }
 ```
 - `category` : `"conseils"` | `"tendances"` | `"guides"` | `"actualites"`
-- `content` : HTML pur (pas de Markdown), minimum 1000 mots
+- `content` : en pratique le contenu est écrit en **Markdown** (`##`/`###`, `**gras**`, `[lien](/url)`) et rendu tel quel — pas de HTML brut malgré ce qu'indiquait une version antérieure de ce fichier. Rester cohérent avec le format déjà en place dans les 14 articles existants. Minimum 1000 mots.
 - Ajouter avant le `];` fermant du tableau `articles`
 - Toujours `publishedAt: "2026-..."` (jamais 2025)
+- **Tout lien interne `[texte](/parfums/slug)` dans le contenu doit pointer vers un slug qui existe réellement** — vérifier avec le script de la Règle n°6 étendu, ou `grep` manuel contre `products.json`. Un lien cassé a traîné plusieurs mois avant d'être trouvé (`/parfums/you-cacharel`, corrigé le 14/09/2026 → `/parfums/cacharel-noa`).
+- `scripts/indexnow-submit.mjs` extrait les slugs blog **dynamiquement** depuis ce fichier (regex sur `slug: "..."`) — ne pas revenir à une liste figée en dur, elle se désynchronise (5 articles sur 14 n'étaient plus notifiés à IndexNow avant la correction du 14/09/2026).
 
 ### Fragrantica CDN — trouver un ID
 
@@ -260,6 +289,7 @@ URL image : `https://fimgs.net/mdimg/perfume/375x500.{ID}.jpg`
 - `isOriental: true` UNIQUEMENT si `category: "parfums-orientaux"`
 - `category` : `"parfums-homme"` | `"parfums-femme"` | `"parfums-orientaux"` (pas de "parfums-mixte")
 - `related[]` : toujours 3 slugs qui existent réellement dans products.json
+- **`category` et `gender` ne sont PAS interchangeables** dans le code (voir Règle n°2 crawl) — un produit peut être `category: "parfums-orientaux"` et `gender: "homme"` en même temps (ex : beaucoup de Lattafa). Toute nouvelle page ou fonction qui filtre "les produits homme" doit se baser sur `gender`, pas sur `category`.
 
 ---
 
@@ -267,8 +297,8 @@ URL image : `https://fimgs.net/mdimg/perfume/375x500.{ID}.jpg`
 
 Dans `.env.local` (ignoré par git) :
 ```
-NEXT_PUBLIC_EMAILJS_SERVICE_ID=service_fi7cwuf
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=template_49k6yf8
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=Y22CIrNZsyAGS1Jf8
+NEXT_PUBLIC_EMAILJS_SERVICE_ID=...
+NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=...
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=...
 ```
-Sur Vercel : configurées dans Settings → Environment Variables.
+Valeurs réelles : demander à Shahin ou consulter Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais recopier les vraies valeurs dans ce fichier ni dans un commit — même si `NEXT_PUBLIC_*` finit de toute façon dans le bundle JS public, ce fichier reste la doc du projet, pas un coffre à secrets.

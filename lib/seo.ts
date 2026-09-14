@@ -1,5 +1,6 @@
 import type { Product } from "@/lib/types";
 import type { BlogArticle } from "@/data/blog";
+import { getAllProducts, formatPrice } from "@/lib/products";
 
 const SITE_URL = "https://maisonnumidia.store";
 const SITE_NAME = "Maison Numidia";
@@ -10,6 +11,15 @@ function getDynamicPriceValidUntil(): string {
   const next = new Date();
   next.setFullYear(next.getFullYear() + 1, 11, 31);
   return next.toISOString().split("T")[0];
+}
+
+// Calculé sur le catalogue réel — ne jamais remettre une fourchette figée à la main
+// (l'ancienne "2000 DA — 42000 DA" datait de mars et n'a jamais suivi les repricings).
+function getPriceRange(): string {
+  const prices = getAllProducts().map((p) => p.price);
+  const min = Math.min(...prices);
+  const max = Math.max(...prices);
+  return `${formatPrice(min)} — ${formatPrice(max)}`;
 }
 
 export function getProductSchema(product: Product) {
@@ -221,7 +231,7 @@ export function getLocalBusinessSchema() {
     url: SITE_URL,
     image: `${SITE_URL}/logo.png`,
     telephone: TELEPHONE,
-    priceRange: "2000 DA — 42000 DA",
+    priceRange: getPriceRange(),
     currenciesAccepted: "DZD",
     paymentAccepted: "Cash on Delivery",
     address: {

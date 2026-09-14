@@ -28,6 +28,24 @@ export function getOrientalProducts(): Product[] {
   return products.filter((p) => p.isOriental);
 }
 
+/**
+ * Marques à générer pour une page filtre /parfums-{homme|femme}/[marque].
+ * IMPORTANT : basé sur `gender` (homme|unisexe / femme|unisexe), PAS sur `category`.
+ * Les pages filtrent leur contenu par gender (ex: un Lattafa gender="homme" catégorisé
+ * "parfums-orientaux" apparaît quand même sur /parfums-homme/lattafa). generateStaticParams
+ * ET le sitemap doivent utiliser la même logique, sinon des pages avec du vrai contenu
+ * restent invisibles de Google (absentes du sitemap, non pré-générées au build).
+ */
+export function getBrandSlugsForGenderPage(gender: "homme" | "femme"): string[] {
+  return [
+    ...new Set(
+      products
+        .filter((p) => p.gender === gender || p.gender === "unisexe")
+        .map((p) => p.brandSlug)
+    ),
+  ];
+}
+
 export function getRelatedProducts(slugs: string[]): Product[] {
   return slugs
     .map((slug) => getProductBySlug(slug))

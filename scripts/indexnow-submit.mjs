@@ -16,18 +16,11 @@ const data = JSON.parse(readFileSync('data/products.json', 'utf8'));
 const products = data.products;
 const brands = data.brands;
 
-// Blog slugs (à maintenir en sync avec data/blog.ts)
-const blogSlugs = [
-  'meilleur-parfum-homme',
-  'parfum-de-niche-algerie',
-  'eau-de-parfum-vs-eau-de-toilette',
-  'meilleur-parfum-femme',
-  'parfum-floral-femme',
-  'dupe-parfum',
-  'parfum-poudre-femme',
-  'parfum-ete-femme',
-  'reconnaitre-parfum-original',
-];
+// Blog slugs — extraits dynamiquement de data/blog.ts (fichier .ts, pas importable
+// tel quel par ce script .mjs). Avant : liste figée à la main, tombée à 9/14 slugs
+// (5 articles jamais notifiés à IndexNow depuis leur publication).
+const blogSource = readFileSync('data/blog.ts', 'utf8');
+const blogSlugs = [...blogSource.matchAll(/^\s*slug:\s*"([^"]+)"/gm)].map((m) => m[1]);
 
 // Construire la liste complète des URLs
 // IMPORTANT: ne JAMAIS inclure /commander, /panier, /confirmation, /api/*
