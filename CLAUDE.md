@@ -105,11 +105,11 @@ Vérifier après coup avec `curl -sI https://maisonnumidia.store/parfums/ancien-
 
 ### Titres meta
 - Template automatique layout : `"%s | Maison Numidia"` — NE PAS ajouter `| Maison Numidia` manuellement
-- Produit : `{H1 keyword} Original` → rendu : `Dior Sauvage Parfum Homme Algérie Original | Maison Numidia`
+- **Produit (changé le 14/09/2026, validé par Shahin) :** `{Marque} {Nom} Prix Algérie Original` → rendu : `Dior Sauvage Prix Algérie Original | Maison Numidia`. Généré par `generateProductMeta()` dans `lib/seo.ts` — utilise `{Marque} {Nom}` (court), PAS le `h1` complet (`{Marque} {Nom} Parfum {Genre} Algérie`), sinon le titre dépasse 80-90 caractères et se fait tronquer par Google. Si `brand === name` (parfums "signature" type Franck Olivier, Jimmy Choo, Chloé), ne pas répéter : juste `{Marque}`.
+  - **Pourquoi ce changement :** les données Search Console (sept. 2026) montrent que le trafic vient massivement de requêtes `"[produit] prix algérie"`, et que des fiches bien positionnées (pos ~6) avaient un CTR de seulement 1-1,7% faute du mot "Prix" dans le titre. Testé : le nouveau format est même **plus court en moyenne** que l'ancien (62 vs 67 caractères sur tout le catalogue).
+  - Le `h1` (balise `<h1>` visible sur la page) ne change PAS — reste `{Marque} {Nom} Parfum {Genre} Algérie`. Seul le `<title>` meta a changé.
 - Catégorie : `Parfum {Genre} Original en Algérie — {Marques phares}`
 - Jamais de double `| Maison Numidia`
-
-> ⚠️ **Point ouvert (14/09/2026, à trancher avec Shahin) :** les données Search Console montrent que le trafic vient massivement de requêtes `"[produit] prix algérie"`, et que des fiches en position ~6 ont un CTR de seulement 1-1,7% faute du mot "Prix" dans le titre. Ça entre en tension directe avec cette règle (format figé) et la règle meta description ci-dessous ("pas de prix"). **Ne pas changer ce template sans validation explicite** — c'est un choix de contenu, pas un bug technique.
 
 ### H1
 - Format : `{Marque} {Nom} Parfum {Genre} Algérie` (mot-clé exact SEMrush)

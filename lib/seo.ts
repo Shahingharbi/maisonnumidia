@@ -379,15 +379,24 @@ export function getFAQSchema(faqs: { question: string; answer: string }[]) {
 }
 
 export function generateProductMeta(product: Product) {
-  const keyword = product.h1 ?? `${product.brand} ${product.name}`;
-  const title = `${keyword} Original`;
+  // Évite "Franck Olivier Franck Olivier" quand le nom commercial = le nom de marque
+  // (parfums "signature", ex: Franck Olivier, Jimmy Choo, Chloé, Lolita Lempicka).
+  const brandName =
+    product.brand.trim().toLowerCase() === product.name.trim().toLowerCase()
+      ? product.brand
+      : `${product.brand} ${product.name}`;
+  // Titre court volontairement (marque+nom, pas le h1 complet) pour laisser la place
+  // à "Prix Algérie" — les données Search Console montrent que c'est la requête
+  // dominante ("[produit] prix algérie") et que son absence du titre plombe le CTR
+  // sur des pages pourtant bien positionnées (voir CLAUDE.md, section Titres meta).
+  const title = `${brandName} Prix Algérie Original`;
   const genderLabel =
     product.gender === "homme"
       ? "homme"
       : product.gender === "femme"
       ? "femme"
       : "unisexe";
-  const description = `${product.brand} ${product.name} ${product.concentration} ${product.volume} ${genderLabel} 100% authentique. Livraison Yalidine, paiement à la réception.`;
+  const description = `${brandName} ${product.concentration} ${product.volume} ${genderLabel} 100% authentique. Livraison Yalidine, paiement à la réception.`;
   return { title, description };
 }
 
