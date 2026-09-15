@@ -210,14 +210,24 @@ Chaque produit DOIT avoir ces champs :
 
 ### Règles prix (DZD)
 
-Méthode : prix marché européen réel (discounter type notino.fr, pas le prix boutique officiel) × 270, ajusté par volume et concentration. Outil rejouable : `scripts/reprice.mjs`. **Plancher catalogue : 6 500 DA — ne jamais descendre en dessous.**
+**Méthode depuis le 15/09/2026 (validée par Shahin) : prix = médiane du prix de vente réel chez les boutiques en ligne algériennes concurrentes + 3 %** ("un petit chouïa plus cher que le marché"), arrondi à la centaine sous 10 000 DA, aux 500 DA au-dessus. **Plancher catalogue : 6 500 DA — ne jamais descendre en dessous.** L'ancienne méthode "prix Europe × 270" (`scripts/reprice.mjs`) n'est plus la référence : elle ne sert qu'en dernier recours.
 
-Fourchettes réelles au 14/09/2026 (vérifier avec `node -e` avant de s'y fier, ça évolue) :
+Pipeline rejouable (`scripts/_price-research/`, lancer depuis la racine du repo, dans cet ordre) :
+1. `fetch-apis.mjs` — catalogues complets via API publiques (WooCommerce Store API / Shopify `products.json`) : briki-parfums.com, galleryparfums-dz.com, mustbeauty.dz, tendanceparfumsdz.com, aromaticadz.com, parfum-algerie.com, parfumalgerie.shop, leena-dz.com (prix **normal**, c'est un site de ventes privées), leilaparfums-dz.com. `agents/fetch-oriental-shops.mjs` : odorem-dz.com, palaisdesparfums-dz.com, parfumdeluxedz.com, dionbyhiba.com. ≥1,5 s entre requêtes (Briki bloque en dessous). Sortie `raw2/*.json`.
+2. `match-v3.mjs` — rapproche nos 735 produits des offres (alias de marques, même déclinaison, même concentration, même genre écrit, volume identique ou ajusté en (vol)^0.72). **Exclus** : testeurs (catégorie "Testeur original" chez Briki), coffrets, déodorants, minis/décants, et le site smellgood-dz.com (vend des décants au ml). Niveaux : A = 2+ boutiques cohérentes, B = 1 boutique au bon volume, C = à vérifier.
+3. `merge-final.mjs` — concurrents (A/B) > prix trouvés par recherche web (`web/lot-*.json`) > estimation par l'écart médian observé sur la même marque (≥3 produits comparés). Sinon prix inchangé.
+4. `apply-market-prices.mjs` (simulation) puis `--apply`. Garde-fous : variation max 45 % en niveau A ou vérifiée web, 25 % en niveau B, 20 % en estimation ; au-delà, le produit va dans la liste "à revoir" et garde son prix.
+Recalage du 15/09/2026 : 539 prix modifiés (248 hausses, 291 baisses), 43 à revoir, 153 inchangés.
+
+Fourchettes réelles au 15/09/2026 (vérifier avec `node -e` avant de s'y fier, ça évolue) :
 - Dior / Chanel : **23 000 à 48 000 DA**
-- Mid-range (Paco Rabanne, Armani, JPG) : **14 000 à 33 000 DA**
+- Mid-range (Paco Rabanne, Armani, JPG) : **12 500 à 30 000 DA**
 - Al Haramain (orientaux premium) : **8 500 à 15 500 DA**
-- Lattafa / Franck Olivier (orientaux accessibles) : **6 500 à 9 000 DA**
-- Niche/luxe (MFK, Creed, Amouage, Roja, Xerjoff) : peut monter jusqu'à 160 000+ DA
+- Lattafa / Franck Olivier (orientaux accessibles) : **6 500 à 9 800 DA**
+- Niche/luxe (MFK, Creed, Amouage, Roja, Xerjoff) : jusqu'à ~145 000 DA
+- Médiane catalogue : ~20 000 DA
+
+Les parfums orientaux (Lattafa, Al Haramain, Rasasi, Swiss Arabian, Ajmal…) sont quasi absents des boutiques en ligne algériennes : seuls ~20 ont un vrai prix concurrent, les autres gardent leur prix ou une estimation par marque.
 
 Le `priceRange` du schema `LocalBusiness` (`lib/seo.ts`) est **calculé dynamiquement** depuis `products.json` (fonction `getPriceRange()`) — ne jamais le remplacer par une valeur figée à la main.
 

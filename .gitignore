@@ -45,3 +45,10 @@ google-indexing.json
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# recherche de prix concurrents : données brutes et résultats générés (non versionnés)
+scripts/_price-research/**/*.json
+scripts/_price-research/raw2/
+scripts/_price-research/web/
+scripts/_price-research/*.html
+scripts/_price-research/report-data.js
