@@ -149,7 +149,7 @@ Vérifier après coup avec `curl -sI https://maisonnumidia.store/parfums/ancien-
 - **Arrondis :** `rounded-lg` maximum — jamais `rounded-2xl` sur les cartes produit/catégorie (ça inclut l'image principale de la fiche produit, corrigé le 14/09/2026 dans `app/parfums/[slug]/page.tsx`)
 - **Pas d'étoiles** de notation sur aucune page
 - **Pas de badge "En stock"** dans les cartes produit
-- **Logo :** `<Image src="/logo.png" className="brightness-0" />` — filtre noir sur fond blanc
+- **Logo :** `<Image src="/logo-192.png" className="brightness-0" />` — filtre noir sur fond blanc. `logo-192.png` (18 Ko) est une copie réduite de `logo.png` (500×500, 95 Ko, gardé pour le schema Organization). Les images ne passent plus par l'optimiseur Vercel (`unoptimized` dans `next.config.ts`, quota épuisé = images en erreur 402) : ne jamais afficher un gros fichier source pour un petit visuel.
 - **Réseaux sociaux :** rail flottant à gauche (`components/layout/SocialRail.tsx`) — avis Google, Instagram, Facebook, WhatsApp (`#25D366`), logos officiels SVG. (Remplace l'ancien bouton WhatsApp bas-droite.)
 - **Téléphone dans le header :** toujours `07 94 49 60 59`, jamais "WhatsApp" dans le header
 

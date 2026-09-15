@@ -4,8 +4,13 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   compress: true,
   images: {
-    formats: ["image/avif", "image/webp"],
-    minimumCacheTTL: 60 * 60 * 24 * 30,
+    // Images servies telles quelles (fichiers statiques + CDN Unsplash), SANS l'optimiseur
+    // d'images Vercel : son quota gratuit est épuisé et il renvoyait "402 PAYMENT_REQUIRED"
+    // pour toute variante pas encore en cache -> images produit qui ne s'affichaient pas
+    // "des fois" (constaté le 15/09/2026). Les photos produit sont déjà légères (~23 Ko,
+    // 375x500) ; les visuels Unsplash sont déjà dimensionnés/compressés par Unsplash.
+    // Ne pas réactiver sans vérifier le quota Vercel (Settings > Usage > Image Optimization).
+    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "fimgs.net" },

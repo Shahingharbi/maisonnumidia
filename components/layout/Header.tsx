@@ -79,7 +79,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center">
               <Image
-                src="/logo.png"
+                src="/logo-192.png"
                 alt="Maison Numidia — Parfums originaux en Algérie"
                 width={120}
                 height={48}
