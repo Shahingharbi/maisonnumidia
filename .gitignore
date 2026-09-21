@@ -52,3 +52,7 @@ scripts/_price-research/raw2/
 scripts/_price-research/web/
 scripts/_price-research/*.html
 scripts/_price-research/report-data.js
+
+# audit des fiches produit : données de travail et résultats (non versionnés)
+scripts/_catalog-audit/results/
+scripts/_catalog-audit/*.json
