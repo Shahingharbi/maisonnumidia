@@ -224,6 +224,43 @@ export default function ParfumsOrientauxPage() {
                 </p>
               </div>
 
+              <div>
+                <h3 className="text-lg font-bold text-[#111111] mb-4">
+                  Attar, eau de parfum, huile : comprendre les formats orientaux
+                </h3>
+                <p className="mb-4">
+                  La parfumerie orientale ne se présente pas toujours sous la forme d&apos;un
+                  vaporisateur classique. L&apos;<strong className="text-[#111111]">attar</strong> est
+                  une huile parfumée sans alcool, appliquée en très petite quantité sur les
+                  poignets ou derrière les oreilles ; il tient longtemps mais diffuse peu, ce qui
+                  convient bien aux contextes où l&apos;on ne veut pas envahir l&apos;espace. Le{" "}
+                  <strong className="text-[#111111]">bakhoor</strong>, lui, ne se porte pas sur la
+                  peau : ce sont des copeaux de bois parfumés que l&apos;on fait fumer pour
+                  imprégner une pièce et les vêtements, une habitude bien ancrée dans les maisons
+                  algériennes lors des fêtes.
+                </p>
+                <p>
+                  Les maisons comme Lattafa, Al Haramain ou Rasasi ont adapté ce patrimoine au
+                  format occidental : l&apos;eau de parfum en vaporisateur, plus facile à porter
+                  au quotidien et à doser. C&apos;est ce format que propose notre catalogue. Il
+                  garde la richesse des matières — oud, ambre, encens, rose de Taïf — avec une
+                  diffusion plus maîtrisée, et il se superpose volontiers : une base d&apos;attar
+                  sur la peau et une eau de parfum par-dessus est une pratique courante pour
+                  prolonger un sillage sans l&apos;alourdir.
+                </p>
+                <p className="mt-4">
+                  Une remarque revient souvent chez nos clients : un oriental paraît plus
+                  discret le jour de l&apos;achat qu&apos;au bout de quelques semaines. Ce
+                  n&apos;est pas le parfum qui change, c&apos;est le nez qui s&apos;habitue aux
+                  matières les plus puissantes, oud et encens en tête. La bonne réaction
+                  n&apos;est pas d&apos;augmenter les vaporisations, mais d&apos;alterner avec
+                  une famille plus légère pendant quelques jours. Un flacon d&apos;oriental
+                  bien dosé se garde longtemps : deux vaporisations suffisent le plus souvent,
+                  et c&apos;est ce qui explique qu&apos;un format 100 ml tienne largement
+                  l&apos;année chez la plupart des acheteurs.
+                </p>
+              </div>
+
             </div>
 
             {/* Maillage interne bas de page */}

@@ -256,6 +256,28 @@ export default function ParfumsHommePage() {
                 </p>
               </div>
 
+              <div>
+                <h3 className="text-lg font-bold text-[#111111] mb-4">
+                  Où et quand vaporiser son parfum
+                </h3>
+                <p className="mb-4">
+                  Un parfum se diffuse à partir des zones où la peau est la plus chaude : le cou,
+                  la base de la gorge, l&apos;intérieur des coudes. Vaporiser à quinze centimètres
+                  environ, sur une peau propre et si possible hydratée, suffit à installer le
+                  sillage. Frotter les poignets l&apos;un contre l&apos;autre est le réflexe le
+                  plus répandu et le plus contre-productif : le frottement casse les notes de tête
+                  et raccourcit la tenue.
+                </p>
+                <p>
+                  En été, mieux vaut appliquer le matin avant de s&apos;habiller et éviter les
+                  zones exposées au soleil. En hiver, une vaporisation sur le col ou l&apos;écharpe
+                  prolonge nettement la présence du parfum, les fibres retenant les molécules
+                  odorantes bien plus longtemps que la peau. Enfin, un flacon se conserve à
+                  l&apos;abri de la lumière et de la chaleur : une salle de bain exposée au soleil
+                  est le pire endroit pour le ranger.
+                </p>
+              </div>
+
             </div>
 
             {/* Maillage interne bas de page */}

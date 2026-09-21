@@ -225,6 +225,66 @@ export default function ParfumsFemmePage() {
                 </p>
               </div>
 
+              <div>
+                <h3 className="text-lg font-bold text-[#111111] mb-4">
+                  Adapter son parfum au climat algérien
+                </h3>
+                <p className="mb-4">
+                  Un parfum ne se comporte pas de la même façon à Oran au mois d&apos;août et à
+                  Sétif en janvier. La chaleur accélère l&apos;évaporation des notes de tête : un
+                  floral léger qui tient bien au printemps peut sembler disparaître en une heure
+                  sous 40 degrés. À l&apos;inverse, le froid ralentit la diffusion, et un oriental
+                  très riche met plus de temps à s&apos;ouvrir sur la peau.
+                </p>
+                <p className="mb-4">
+                  En pratique : les <strong className="text-[#111111]">floraux frais et les
+                  agrumes</strong> donnent le meilleur d&apos;eux-mêmes du printemps au début de
+                  l&apos;été, surtout sur le littoral. Les <strong className="text-[#111111]">floraux
+                  poudrés et les chyprés</strong> conviennent aux demi-saisons, quand les journées
+                  restent douces. Les <strong className="text-[#111111]">gourmands et les
+                  orientaux</strong> prennent toute leur ampleur en automne et en hiver, et
+                  se prêtent aux soirées, aux fêtes de famille et aux cérémonies.
+                </p>
+                <p>
+                  Deux réflexes utiles quand il fait chaud : vaporiser sur une peau hydratée, qui
+                  retient mieux les molécules odorantes, et viser les zones moins exposées au
+                  soleil plutôt que les poignets découverts. Pour les journées les plus chaudes,
+                  beaucoup de nos clientes préfèrent une{" "}
+                  <Link href="/parfums-femme" className="text-[#C9A84C] font-semibold hover:underline">eau de toilette</Link>{" "}
+                  en journée et gardent leur eau de parfum pour le soir.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-lg font-bold text-[#111111] mb-4">
+                  Eau de toilette, eau de parfum, extrait : ce qui change vraiment
+                </h3>
+                <p className="mb-4">
+                  La différence entre ces mentions n&apos;est pas une question de qualité mais de
+                  concentration en matières odorantes. Une <strong className="text-[#111111]">eau de
+                  toilette</strong> est la plus légère des trois : elle s&apos;impose moins, se
+                  réapplique facilement et convient bien à la journée et aux climats chauds. Une{" "}
+                  <strong className="text-[#111111]">eau de parfum</strong> est plus concentrée :
+                  c&apos;est le format de référence des grandes maisons, celui qui équilibre le
+                  mieux tenue, sillage et richesse du jus.
+                </p>
+                <p className="mb-4">
+                  L&apos;<strong className="text-[#111111]">extrait de parfum</strong>, parfois
+                  appelé simplement « parfum » sur le flacon, est le plus concentré et le plus cher.
+                  Il se porte autrement : une ou deux vaporisations suffisent, et le parfum reste
+                  plus près de la peau tout en durant davantage. Une même ligne peut exister dans
+                  les trois versions, avec des notes volontairement différentes — l&apos;eau de
+                  parfum d&apos;un parfum n&apos;est pas une version « plus forte » de son eau de
+                  toilette, c&apos;est une autre composition.
+                </p>
+                <p>
+                  Sur chaque fiche de notre catalogue, la concentration et la contenance sont
+                  indiquées telles qu&apos;elles figurent sur le flacon. En cas d&apos;hésitation
+                  entre deux versions d&apos;un même parfum, la pyramide olfactive détaillée sur
+                  la fiche produit permet de voir ce qui les distingue réellement.
+                </p>
+              </div>
+
             </div>
 
             {/* Maillage interne bas de page */}
