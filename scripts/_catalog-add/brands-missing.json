@@ -1,0 +1,882 @@
+[
+ {
+  "marque": "TIZIANA TERENZI",
+  "parfums": 45,
+  "slug": "tiziana-terenzi"
+ },
+ {
+  "marque": "LIQUIDES IMAGINAIRES",
+  "parfums": 35,
+  "slug": "liquides-imaginaires"
+ },
+ {
+  "marque": "CLIVE CHRISTIAN",
+  "parfums": 34,
+  "slug": "clive-christian"
+ },
+ {
+  "marque": "FRAGRANCE DU BOIS",
+  "parfums": 28,
+  "slug": "fragrance-du-bois"
+ },
+ {
+  "marque": "MORESQUE",
+  "parfums": 28,
+  "slug": "moresque"
+ },
+ {
+  "marque": "Assaf",
+  "parfums": 27,
+  "slug": "assaf"
+ },
+ {
+  "marque": "CLARINS",
+  "parfums": 27,
+  "slug": "clarins"
+ },
+ {
+  "marque": "MERCEDES-BENZ",
+  "parfums": 24,
+  "slug": "mercedes-benz"
+ },
+ {
+  "marque": "THAMEEN",
+  "parfums": 24,
+  "slug": "thameen"
+ },
+ {
+  "marque": "ORMONDE JAYNE",
+  "parfums": 23,
+  "slug": "ormonde-jayne"
+ },
+ {
+  "marque": "UNIQUE LUXURY",
+  "parfums": 22,
+  "slug": "unique-luxury"
+ },
+ {
+  "marque": "SOSPIRO",
+  "parfums": 22,
+  "slug": "sospiro"
+ },
+ {
+  "marque": "DUNHILL",
+  "parfums": 22,
+  "slug": "dunhill"
+ },
+ {
+  "marque": "THE HOUSE OF OUD",
+  "parfums": 22,
+  "slug": "the-house-of-oud"
+ },
+ {
+  "marque": "V CANTO",
+  "parfums": 21,
+  "slug": "v-canto"
+ },
+ {
+  "marque": "BLEND OUD",
+  "parfums": 21,
+  "slug": "blend-oud"
+ },
+ {
+  "marque": "ALEXANDRE.J",
+  "parfums": 21,
+  "slug": "alexandre-j"
+ },
+ {
+  "marque": "JEANNE ARTHES",
+  "parfums": 20,
+  "slug": "jeanne-arthes"
+ },
+ {
+  "marque": "ETAT LIBRE D'ORANGE",
+  "parfums": 18,
+  "slug": "etat-libre-d-orange"
+ },
+ {
+  "marque": "Victor&Rolf",
+  "parfums": 17,
+  "slug": "victor-rolf"
+ },
+ {
+  "marque": "CASAMORATI",
+  "parfums": 17,
+  "slug": "casamorati"
+ },
+ {
+  "marque": "EMMANUELLE JANE",
+  "parfums": 17,
+  "slug": "emmanuelle-jane"
+ },
+ {
+  "marque": "MASQUE MILANO",
+  "parfums": 16,
+  "slug": "masque-milano"
+ },
+ {
+  "marque": "ATELIER DES ORS",
+  "parfums": 16,
+  "slug": "atelier-des-ors"
+ },
+ {
+  "marque": "GIARDINO BENESSERE",
+  "parfums": 16,
+  "slug": "giardino-benessere"
+ },
+ {
+  "marque": "Geparlys",
+  "parfums": 16,
+  "slug": "geparlys"
+ },
+ {
+  "marque": "ESSENTIAL PARFUMS",
+  "parfums": 15,
+  "slug": "essential-parfums"
+ },
+ {
+  "marque": "ROSENDO MATEU OLFACTIVE EXPRESSIONS",
+  "parfums": 15,
+  "slug": "rosendo-mateu-olfactive-expressions"
+ },
+ {
+  "marque": "ROGER-GALLET",
+  "parfums": 14,
+  "slug": "roger-gallet"
+ },
+ {
+  "marque": "LAVERNE",
+  "parfums": 14,
+  "slug": "laverne"
+ },
+ {
+  "marque": "AKRO",
+  "parfums": 13,
+  "slug": "akro"
+ },
+ {
+  "marque": "BENTLEY",
+  "parfums": 12,
+  "slug": "bentley"
+ },
+ {
+  "marque": "JUICY COUTURE",
+  "parfums": 11,
+  "slug": "juicy-couture"
+ },
+ {
+  "marque": "BDK PARFUMS",
+  "parfums": 11,
+  "slug": "bdk-parfums"
+ },
+ {
+  "marque": "TED LAPIDUS",
+  "parfums": 11,
+  "slug": "ted-lapidus"
+ },
+ {
+  "marque": "L'ATELIER PARFUM",
+  "parfums": 11,
+  "slug": "l-atelier-parfum"
+ },
+ {
+  "marque": "ESTÉE LAUDER",
+  "parfums": 10,
+  "slug": "estee-lauder"
+ },
+ {
+  "marque": "KORLOFF",
+  "parfums": 10,
+  "slug": "korloff"
+ },
+ {
+  "marque": "CARON",
+  "parfums": 10,
+  "slug": "caron"
+ },
+ {
+  "marque": "SUDDENLY",
+  "parfums": 10,
+  "slug": "suddenly"
+ },
+ {
+  "marque": "French Avenue",
+  "parfums": 10,
+  "slug": "french-avenue"
+ },
+ {
+  "marque": "ORTO PARISI",
+  "parfums": 8,
+  "slug": "orto-parisi"
+ },
+ {
+  "marque": "Jacadi",
+  "parfums": 8,
+  "slug": "jacadi"
+ },
+ {
+  "marque": "RAMON BEJAR",
+  "parfums": 8,
+  "slug": "ramon-bejar"
+ },
+ {
+  "marque": "Nuxe",
+  "parfums": 8,
+  "slug": "nuxe"
+ },
+ {
+  "marque": "CLINIQUE",
+  "parfums": 7,
+  "slug": "clinique"
+ },
+ {
+  "marque": "CHRISTIAN LOUBOUTIN",
+  "parfums": 7,
+  "slug": "christian-louboutin"
+ },
+ {
+  "marque": "Hawas",
+  "parfums": 7,
+  "slug": "hawas"
+ },
+ {
+  "marque": "Khadlaj",
+  "parfums": 7,
+  "slug": "khadlaj"
+ },
+ {
+  "marque": "LORENZO PAZZAGLIA",
+  "parfums": 6,
+  "slug": "lorenzo-pazzaglia"
+ },
+ {
+  "marque": "REPETTO",
+  "parfums": 6,
+  "slug": "repetto"
+ },
+ {
+  "marque": "Affinessence",
+  "parfums": 6,
+  "slug": "affinessence"
+ },
+ {
+  "marque": "RALPH LAURENT",
+  "parfums": 6,
+  "slug": "ralph-laurent"
+ },
+ {
+  "marque": "MARCO SERRUSI",
+  "parfums": 6,
+  "slug": "marco-serrusi"
+ },
+ {
+  "marque": "Oral B",
+  "parfums": 6,
+  "slug": "oral-b"
+ },
+ {
+  "marque": "JEANNE EN PROVENCE",
+  "parfums": 6,
+  "slug": "jeanne-en-provence"
+ },
+ {
+  "marque": "VERTUS",
+  "parfums": 5,
+  "slug": "vertus"
+ },
+ {
+  "marque": "Ibraheem AlQurashi",
+  "parfums": 5,
+  "slug": "ibraheem-alqurashi"
+ },
+ {
+  "marque": "BOTANICAE",
+  "parfums": 5,
+  "slug": "botanicae"
+ },
+ {
+  "marque": "club de nuit",
+  "parfums": 5,
+  "slug": "club-de-nuit"
+ },
+ {
+  "marque": "Marc Jacob",
+  "parfums": 5,
+  "slug": "marc-jacob"
+ },
+ {
+  "marque": "TOMMY HILFIGER",
+  "parfums": 5,
+  "slug": "tommy-hilfiger"
+ },
+ {
+  "marque": "Marco Serussi",
+  "parfums": 5,
+  "slug": "marco-serussi"
+ },
+ {
+  "marque": "LA PERLA",
+  "parfums": 5,
+  "slug": "la-perla"
+ },
+ {
+  "marque": "La Roche-Posay",
+  "parfums": 5,
+  "slug": "la-roche-posay"
+ },
+ {
+  "marque": "Ahmed Al Maghribi",
+  "parfums": 5,
+  "slug": "ahmed-al-maghribi"
+ },
+ {
+  "marque": "Riiffs",
+  "parfums": 5,
+  "slug": "riiffs"
+ },
+ {
+  "marque": "ARISTOKRAT",
+  "parfums": 5,
+  "slug": "aristokrat"
+ },
+ {
+  "marque": "Rayhaan",
+  "parfums": 5,
+  "slug": "rayhaan"
+ },
+ {
+  "marque": "JOHN VARVATOS",
+  "parfums": 4,
+  "slug": "john-varvatos"
+ },
+ {
+  "marque": "Maison Crivelli",
+  "parfums": 4,
+  "slug": "maison-crivelli"
+ },
+ {
+  "marque": "THOMAS KOSMALA",
+  "parfums": 4,
+  "slug": "thomas-kosmala"
+ },
+ {
+  "marque": "BRIONI",
+  "parfums": 4,
+  "slug": "brioni"
+ },
+ {
+  "marque": "MATIERE PREMIERE",
+  "parfums": 4,
+  "slug": "matiere-premiere"
+ },
+ {
+  "marque": "SISLEY",
+  "parfums": 4,
+  "slug": "sisley"
+ },
+ {
+  "marque": "NICOLAÏ",
+  "parfums": 4,
+  "slug": "nicolai"
+ },
+ {
+  "marque": "ALEZZ-OUD",
+  "parfums": 4,
+  "slug": "alezz-oud"
+ },
+ {
+  "marque": "GRÈS",
+  "parfums": 4,
+  "slug": "gres"
+ },
+ {
+  "marque": "BALDESSARINI",
+  "parfums": 4,
+  "slug": "baldessarini"
+ },
+ {
+  "marque": "JAGUAR",
+  "parfums": 4,
+  "slug": "jaguar"
+ },
+ {
+  "marque": "Alhambra",
+  "parfums": 4,
+  "slug": "alhambra"
+ },
+ {
+  "marque": "Eden Park",
+  "parfums": 4,
+  "slug": "eden-park"
+ },
+ {
+  "marque": "MARC-ANTOINE BARROIS",
+  "parfums": 3,
+  "slug": "marc-antoine-barrois"
+ },
+ {
+  "marque": "NEJMA PARFUMS",
+  "parfums": 3,
+  "slug": "nejma-parfums"
+ },
+ {
+  "marque": "CAPACE",
+  "parfums": 3,
+  "slug": "capace"
+ },
+ {
+  "marque": "johan.b",
+  "parfums": 3,
+  "slug": "johan-b"
+ },
+ {
+  "marque": "Narcisco Rodriguez",
+  "parfums": 3,
+  "slug": "narcisco-rodriguez"
+ },
+ {
+  "marque": "POLO",
+  "parfums": 3,
+  "slug": "polo"
+ },
+ {
+  "marque": "Maison lazaar",
+  "parfums": 3,
+  "slug": "maison-lazaar"
+ },
+ {
+  "marque": "THE WOODS COLLECTION",
+  "parfums": 3,
+  "slug": "the-woods-collection"
+ },
+ {
+  "marque": "ANGEL SCHLESSER",
+  "parfums": 3,
+  "slug": "angel-schlesser"
+ },
+ {
+  "marque": "Paris Corner",
+  "parfums": 3,
+  "slug": "paris-corner"
+ },
+ {
+  "marque": "IBRAHIM ALQURASHI",
+  "parfums": 3,
+  "slug": "ibrahim-alqurashi"
+ },
+ {
+  "marque": "Lapidus",
+  "parfums": 3,
+  "slug": "lapidus"
+ },
+ {
+  "marque": "MERCEDES",
+  "parfums": 3,
+  "slug": "mercedes"
+ },
+ {
+  "marque": "Rituals",
+  "parfums": 3,
+  "slug": "rituals"
+ },
+ {
+  "marque": "BETER",
+  "parfums": 3,
+  "slug": "beter"
+ },
+ {
+  "marque": "Paris PASSADE",
+  "parfums": 3,
+  "slug": "paris-passade"
+ },
+ {
+  "marque": "Secret d'Orient",
+  "parfums": 3,
+  "slug": "secret-d-orient"
+ },
+ {
+  "marque": "OMANLUXURY",
+  "parfums": 2,
+  "slug": "omanluxury"
+ },
+ {
+  "marque": "ANTONIO PUIG",
+  "parfums": 2,
+  "slug": "antonio-puig"
+ },
+ {
+  "marque": "LES PRINCES DU GOLFE",
+  "parfums": 2,
+  "slug": "les-princes-du-golfe"
+ },
+ {
+  "marque": "ARAMIS",
+  "parfums": 2,
+  "slug": "aramis"
+ },
+ {
+  "marque": "CABOTINE DE GRES",
+  "parfums": 2,
+  "slug": "cabotine-de-gres"
+ },
+ {
+  "marque": "JACOMO",
+  "parfums": 2,
+  "slug": "jacomo"
+ },
+ {
+  "marque": "LAURA BIAGIOTTI",
+  "parfums": 2,
+  "slug": "laura-biagiotti"
+ },
+ {
+  "marque": "L'Artisan Parfumeur",
+  "parfums": 2,
+  "slug": "l-artisan-parfumeur"
+ },
+ {
+  "marque": "Argos-Bacio",
+  "parfums": 2,
+  "slug": "argos-bacio"
+ },
+ {
+  "marque": "NASOMMATTO",
+  "parfums": 2,
+  "slug": "nasommatto"
+ },
+ {
+  "marque": "VERTU",
+  "parfums": 2,
+  "slug": "vertu"
+ },
+ {
+  "marque": "Maison Rebatchi",
+  "parfums": 2,
+  "slug": "maison-rebatchi"
+ },
+ {
+  "marque": "ROSENDO MATEU",
+  "parfums": 2,
+  "slug": "rosendo-mateu"
+ },
+ {
+  "marque": "GISSAH",
+  "parfums": 2,
+  "slug": "gissah"
+ },
+ {
+  "marque": "Narcisco Rodriquez",
+  "parfums": 2,
+  "slug": "narcisco-rodriquez"
+ },
+ {
+  "marque": "FrancescaBianchi",
+  "parfums": 2,
+  "slug": "francescabianchi"
+ },
+ {
+  "marque": "Moncler",
+  "parfums": 2,
+  "slug": "moncler"
+ },
+ {
+  "marque": "Zilli",
+  "parfums": 2,
+  "slug": "zilli"
+ },
+ {
+  "marque": "BALENCIAGA",
+  "parfums": 2,
+  "slug": "balenciaga"
+ },
+ {
+  "marque": "Pink sugar",
+  "parfums": 2,
+  "slug": "pink-sugar"
+ },
+ {
+  "marque": "DRAKKAR",
+  "parfums": 2,
+  "slug": "drakkar"
+ },
+ {
+  "marque": "MAJOURI",
+  "parfums": 2,
+  "slug": "majouri"
+ },
+ {
+  "marque": "Alezz",
+  "parfums": 2,
+  "slug": "alezz"
+ },
+ {
+  "marque": "Asrar",
+  "parfums": 2,
+  "slug": "asrar"
+ },
+ {
+  "marque": "JACQUES BOGART",
+  "parfums": 2,
+  "slug": "jacques-bogart"
+ },
+ {
+  "marque": "Zimaya",
+  "parfums": 2,
+  "slug": "zimaya"
+ },
+ {
+  "marque": "Ameerat al arab",
+  "parfums": 2,
+  "slug": "ameerat-al-arab"
+ },
+ {
+  "marque": "Anna biondi",
+  "parfums": 2,
+  "slug": "anna-biondi"
+ },
+ {
+  "marque": "Gloria Vanderbilt",
+  "parfums": 2,
+  "slug": "gloria-vanderbilt"
+ },
+ {
+  "marque": "Le Chameau",
+  "parfums": 2,
+  "slug": "le-chameau"
+ },
+ {
+  "marque": "THE ORDINARY",
+  "parfums": 2,
+  "slug": "the-ordinary"
+ },
+ {
+  "marque": "FRESH",
+  "parfums": 1,
+  "slug": "fresh"
+ },
+ {
+  "marque": "Eaudace",
+  "parfums": 1,
+  "slug": "eaudace"
+ },
+ {
+  "marque": "LE LABO",
+  "parfums": 1,
+  "slug": "le-labo"
+ },
+ {
+  "marque": "MISSONI",
+  "parfums": 1,
+  "slug": "missoni"
+ },
+ {
+  "marque": "LANCASTER",
+  "parfums": 1,
+  "slug": "lancaster"
+ },
+ {
+  "marque": "L'Oreal",
+  "parfums": 1,
+  "slug": "l-oreal"
+ },
+ {
+  "marque": "KILLIAN",
+  "parfums": 1,
+  "slug": "killian"
+ },
+ {
+  "marque": "MIZENSIR",
+  "parfums": 1,
+  "slug": "mizensir"
+ },
+ {
+  "marque": "GIARDINI DI TOSCANA",
+  "parfums": 1,
+  "slug": "giardini-di-toscana"
+ },
+ {
+  "marque": "AL-JAZEERA PARIS",
+  "parfums": 1,
+  "slug": "al-jazeera-paris"
+ },
+ {
+  "marque": "GALBEE PARIS",
+  "parfums": 1,
+  "slug": "galbee-paris"
+ },
+ {
+  "marque": "LAURENT MAZZONE",
+  "parfums": 1,
+  "slug": "laurent-mazzone"
+ },
+ {
+  "marque": "LES PRINCES DU GOLF",
+  "parfums": 1,
+  "slug": "les-princes-du-golf"
+ },
+ {
+  "marque": "MONTAL",
+  "parfums": 1,
+  "slug": "montal"
+ },
+ {
+  "marque": "Acqua Di Gio",
+  "parfums": 1,
+  "slug": "acqua-di-gio"
+ },
+ {
+  "marque": "Jean Couturier",
+  "parfums": 1,
+  "slug": "jean-couturier"
+ },
+ {
+  "marque": "SHISEIDO",
+  "parfums": 1,
+  "slug": "shiseido"
+ },
+ {
+  "marque": "L'Occitane En Provence",
+  "parfums": 1,
+  "slug": "l-occitane-en-provence"
+ },
+ {
+  "marque": "BILLIE EILISH",
+  "parfums": 1,
+  "slug": "billie-eilish"
+ },
+ {
+  "marque": "Coache",
+  "parfums": 1,
+  "slug": "coache"
+ },
+ {
+  "marque": "PHILIPPE PLEIN",
+  "parfums": 1,
+  "slug": "philippe-plein"
+ },
+ {
+  "marque": "Gris Montaigne Paris",
+  "parfums": 1,
+  "slug": "gris-montaigne-paris"
+ },
+ {
+  "marque": "Tiffany & Co",
+  "parfums": 1,
+  "slug": "tiffany-co"
+ },
+ {
+  "marque": "Assaf Trading",
+  "parfums": 1,
+  "slug": "assaf-trading"
+ },
+ {
+  "marque": "COATCH DREAM",
+  "parfums": 1,
+  "slug": "coatch-dream"
+ },
+ {
+  "marque": "ABERCROMBIE & FITCH",
+  "parfums": 1,
+  "slug": "abercrombie-fitch"
+ },
+ {
+  "marque": "Halloween",
+  "parfums": 1,
+  "slug": "halloween"
+ },
+ {
+  "marque": "SARAH JESSICA PARKER",
+  "parfums": 1,
+  "slug": "sarah-jessica-parker"
+ },
+ {
+  "marque": "Arabiyat Prestige",
+  "parfums": 1,
+  "slug": "arabiyat-prestige"
+ },
+ {
+  "marque": "ICEBERG",
+  "parfums": 1,
+  "slug": "iceberg"
+ },
+ {
+  "marque": "Aigner",
+  "parfums": 1,
+  "slug": "aigner"
+ },
+ {
+  "marque": "Tommy",
+  "parfums": 1,
+  "slug": "tommy"
+ },
+ {
+  "marque": "cerave",
+  "parfums": 1,
+  "slug": "cerave"
+ },
+ {
+  "marque": "luxeol",
+  "parfums": 1,
+  "slug": "luxeol"
+ },
+ {
+  "marque": "Rue Broca",
+  "parfums": 1,
+  "slug": "rue-broca"
+ },
+ {
+  "marque": "Atelier des Reves",
+  "parfums": 1,
+  "slug": "atelier-des-reves"
+ },
+ {
+  "marque": "Eau Jeune",
+  "parfums": 1,
+  "slug": "eau-jeune"
+ },
+ {
+  "marque": "Emper",
+  "parfums": 1,
+  "slug": "emper"
+ },
+ {
+  "marque": "Figenzi",
+  "parfums": 1,
+  "slug": "figenzi"
+ },
+ {
+  "marque": "G.BELLLINI",
+  "parfums": 1,
+  "slug": "g-belllini"
+ },
+ {
+  "marque": "kiko",
+  "parfums": 1,
+  "slug": "kiko"
+ },
+ {
+  "marque": "LIDL",
+  "parfums": 1,
+  "slug": "lidl"
+ },
+ {
+  "marque": "Milestone",
+  "parfums": 1,
+  "slug": "milestone"
+ },
+ {
+  "marque": "Milestone / Le Chameau",
+  "parfums": 1,
+  "slug": "milestone-le-chameau"
+ },
+ {
+  "marque": "MY CLARINS",
+  "parfums": 1,
+  "slug": "my-clarins"
+ },
+ {
+  "marque": "Ritual",
+  "parfums": 1,
+  "slug": "ritual"
+ }
+]
