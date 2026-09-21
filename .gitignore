@@ -56,3 +56,9 @@ scripts/_price-research/report-data.js
 # audit des fiches produit : données de travail et résultats (non versionnés)
 scripts/_catalog-audit/results/
 scripts/_catalog-audit/*.json
+
+# fichier de gestion interne (donnees clients) : ne jamais publier
+/Maison-Numidia-Gestion.xlsx
+
+# config locale de l outil de dev
+/.claude/launch.json
