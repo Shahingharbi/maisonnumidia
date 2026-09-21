@@ -55,6 +55,12 @@ const nextConfig: NextConfig = {
         destination: "https://maisonnumidia.store/:path*",
         permanent: true,
       },
+      // Fiches retirees le 21/09/2026 : parfums qui n'existent pas (verifie via Fragrantica).
+      // Rose d'Arabie etait un doublon de Rose Oud ; Club Night et Shamoos n'existent chez
+      // aucune des deux marques -> 301 vers la page marque, faute d'equivalent.
+      { source: "/parfums/al-haramain-rose-d-arabie", destination: "/parfums/al-haramain-rose-oud", permanent: true },
+      { source: "/parfums/franck-olivier-club-night", destination: "/marques/franck-olivier", permanent: true },
+      { source: "/parfums/lattafa-shamoos", destination: "/marques/lattafa", permanent: true },
       { source: "/parfums/acqua-di-gio-femme-armani", destination: "/parfums/armani-acqua-di-gioia", permanent: true },
       { source: "/parfums/armani-si-passione", destination: "/parfums/si-passione-armani", permanent: true },
       // Fusion de doublons (juin 2026) — 301 vers la fiche canonique
