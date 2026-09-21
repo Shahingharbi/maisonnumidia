@@ -6,27 +6,27 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/api/", "/panier", "/commander", "/confirmation"],
+        disallow: ["/api/", "/panier", "/commander", "/confirmation", "/tableau-de-bord"],
       },
       {
         userAgent: ["GPTBot", "OAI-SearchBot", "ChatGPT-User"],
         allow: "/",
-        disallow: ["/api/", "/panier", "/commander"],
+        disallow: ["/api/", "/panier", "/commander", "/tableau-de-bord"],
       },
       {
         userAgent: ["ClaudeBot", "Claude-Web", "anthropic-ai"],
         allow: "/",
-        disallow: ["/api/", "/panier", "/commander"],
+        disallow: ["/api/", "/panier", "/commander", "/tableau-de-bord"],
       },
       {
         userAgent: ["PerplexityBot", "Perplexity-User"],
         allow: "/",
-        disallow: ["/api/", "/panier", "/commander"],
+        disallow: ["/api/", "/panier", "/commander", "/tableau-de-bord"],
       },
       {
         userAgent: ["Google-Extended", "GoogleOther"],
         allow: "/",
-        disallow: ["/api/", "/panier", "/commander"],
+        disallow: ["/api/", "/panier", "/commander", "/tableau-de-bord"],
       },
       {
         userAgent: "CCBot",

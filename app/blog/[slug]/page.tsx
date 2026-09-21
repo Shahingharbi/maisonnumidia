@@ -5,6 +5,7 @@ import { getArticleBySlug, getAllArticleSlugs } from "@/data/blog";
 import { Clock, ArrowLeft, ArrowRight } from "lucide-react";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getBlogPostingSchema, getBreadcrumbSchema, getFAQSchema } from "@/lib/seo";
+import { resolvePrices } from "@/lib/blog-content";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -231,7 +232,7 @@ export default async function BlogArticlePage({ params }: Props) {
       <article className="py-12 sm:py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6">
           <div className="prose-custom">
-            {renderContent(article.content)}
+            {renderContent(resolvePrices(article.content))}
           </div>
 
           {/* FAQ — bloc Q/R structuré (citable par les IA + schema FAQPage) */}

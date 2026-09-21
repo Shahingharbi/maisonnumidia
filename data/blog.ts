@@ -35,11 +35,11 @@ Tous ces parfums sont disponibles avec livraison dans les 58 wilayas via Yalidin
 
 ## 1. Dior Sauvage EDP — Le Meilleur Polyvalent
 
-**Prix en Algérie : 6 500 DA**
+**Prix en Algérie : {{prix:dior-sauvage}}**
 
 Impossible de faire un classement des meilleurs parfums homme sans placer Dior Sauvage en tête. C'est tout simplement le parfum masculin le plus vendu au monde depuis plusieurs années consécutives, et pour de très bonnes raisons.
 
-La version EDP de Sauvage est particulièrement recommandée pour le climat algérien : la chaleur développe magnifiquement l'ambroxan et le poivre de Sichuan, créant un sillage chaud et masculin qui dure 10 à 14 heures. C'est le parfum idéal pour l'homme algérien actif qui veut une fragrance qui tient toute la journée sans retouche.
+La version EDP de Sauvage est particulièrement recommandée pour le climat algérien : la chaleur développe magnifiquement l'ambroxan et le poivre de Sichuan, créant un sillage chaud et masculin qui tient toute la journée. C'est le parfum idéal pour l'homme algérien actif qui veut une fragrance qui tient toute la journée sans retouche.
 
 **Profil olfactif :** Bergamote · Poivre de Sichuan · Lavande · Ambroxan · Cèdre
 
@@ -49,7 +49,7 @@ La version EDP de Sauvage est particulièrement recommandée pour le climat alg�
 
 ## 2. Bleu de Chanel EDP — Le Plus Élégant
 
-**Prix en Algérie : 7 200 DA**
+**Prix en Algérie : {{prix:bleu-de-chanel}}**
 
 Si Dior Sauvage est le roi du volume, Bleu de Chanel EDP est le champion de l'élégance masculine. C'est le parfum que portent les hommes qui connaissent les codes du luxe — sobre, raffiné, immédiatement reconnaissable par les connaisseurs.
 
@@ -63,7 +63,7 @@ L'accord boisé-aromatique d'Olivier Polge est d'une précision horlogère : cha
 
 ## 3. Scandal Pour Homme Jean Paul Gaultier — Le Plus Original
 
-**Prix en Algérie : 5 500 DA**
+**Prix en Algérie : {{prix:scandal-pour-homme-jean-paul-gaultier}}**
 
 Scandal Pour Homme est notre coup de cœur 2025-2026. Cette fragrance gourmande-épicée est d'une originalité rare dans le segment masculin : cardamome verte explosive, cœur patchouli-aldéhydes, base de caramel salé. C'est un parfum qui divise — mais ceux qui l'adoptent ne le quittent plus.
 
@@ -77,7 +77,7 @@ En Algérie, Scandal Pour Homme plaît particulièrement aux jeunes hommes (18-3
 
 ## 4. Invictus Paco Rabanne — Le Meilleur Rapport Qualité-Prix
 
-**Prix en Algérie : 5 500 DA**
+**Prix en Algérie : {{prix:invictus-paco-rabanne}}**
 
 Invictus reste l'un des meilleurs rapports qualité-prix dans la parfumerie masculine de luxe. Son accord aquatique-boisé est frais, dynamique et facilement portable en toutes circonstances. C'est le parfum du jeune homme actif et ambitieux.
 
@@ -91,7 +91,7 @@ Le flacon en forme de trophée sportif est un plus non négligeable pour en fair
 
 ## 5. Armani Code EDP — Le Plus Séducteur
 
-**Prix en Algérie : 5 900 DA**
+**Prix en Algérie : {{prix:armani-code}}**
 
 Armani Code EDP est l'arme de séduction silencieuse par excellence. Son accord café arabica-bois de guaiac est d'une sophistication mystérieuse qui fonctionne remarquablement bien le soir. C'est le parfum à porter pour une soirée importante ou un rendez-vous romantique.
 
@@ -103,7 +103,7 @@ Armani Code EDP est l'arme de séduction silencieuse par excellence. Son accord 
 
 ## 6. 1 Million Paco Rabanne EDP — L'Icône Festive
 
-**Prix en Algérie : 5 800 DA**
+**Prix en Algérie : {{prix:1-million-paco-rabanne}}**
 
 1 Million est un monument de la parfumerie festive. Son accord pamplemousse-cannelle-cuir a traversé les décennies et les tendances sans jamais se démoder. En Algérie, c'est LE parfum des fêtes et des grandes occasions — mariage, Aïd, réveillons.
 
@@ -115,7 +115,7 @@ Armani Code EDP est l'arme de séduction silencieuse par excellence. Son accord 
 
 ## 7. Hugo Boss Bottled EDP — Le Quotidien Parfait
 
-**Prix en Algérie : 5 000 DA**
+**Prix en Algérie : {{prix:hugo-boss-bottled}}**
 
 Boss Bottled est la référence absolue du parfum masculin quotidien accessible. Depuis 1998, ce boisé-fruité reste le choix le plus fiable pour l'homme qui veut sentir bon sans se poser de questions. Simple, efficace, intemporel.
 
@@ -127,7 +127,7 @@ Boss Bottled est la référence absolue du parfum masculin quotidien accessible.
 
 ## 8. Versace Eros EDP — Le Plus Méditerranéen
 
-**Prix en Algérie : 5 400 DA**
+**Prix en Algérie : {{prix:versace-eros}}**
 
 Versace Eros est inspiré du dieu grec de l'amour — et ça se sent. La combinaison menthe fraîche-fève tonka-vanille est d'une sensualité irrésistible, particulièrement adaptée aux soirées d'été algériennes. Un parfum qui évoque instantanément le soleil et la mer Méditerranée.
 
@@ -139,7 +139,7 @@ Versace Eros est inspiré du dieu grec de l'amour — et ça se sent. La combina
 
 ## 9. Le Male Jean Paul Gaultier EDP — Le Classique Iconique
 
-**Prix en Algérie : 5 200 DA**
+**Prix en Algérie : {{prix:le-male-jean-paul-gaultier}}**
 
 Le Male est un monument de la parfumerie masculine depuis 1995. Son accord lavande-cardamome-vanille n'a jamais vraiment vieilli — il a juste été copié des centaines de fois. En version EDP, il est plus profond et plus long-lasting que jamais.
 
@@ -151,7 +151,7 @@ Le Male est un monument de la parfumerie masculine depuis 1995. Son accord lavan
 
 ## 10. Franck Olivier EDP — Le Meilleur Budget
 
-**Prix en Algérie : 2 200 DA**
+**Prix en Algérie : {{prix:franck-olivier}}**
 
 Pour ceux qui cherchent un parfum orientalement boisé à petit budget, Franck Olivier EDP est une valeur sûre. Cette marque française, très populaire en Algérie, propose des fragrances riches et généreuses à des prix imbattables.
 
@@ -171,9 +171,9 @@ Avant de décider, posez-vous ces trois questions :
 - Toutes occasions → Dior Sauvage, Invictus
 
 **2. Quel budget ?**
-- < 3 000 DA → Franck Olivier, Lattafa Asad
-- 5 000-6 000 DA → Invictus, Boss Bottled, Scandal Pour Homme
-- > 7 000 DA → Bleu de Chanel, Dior Sauvage
+- Moins de 10 000 DA → Franck Olivier, Lattafa Asad
+- 15 000 à 23 000 DA → Boss Bottled, Invictus, Scandal Pour Homme
+- Au-delà de 30 000 DA → Dior Sauvage, Bleu de Chanel
 
 **3. Quelle famille olfactive ?**
 - Frais et légers → Invictus, Versace Eros
@@ -229,7 +229,7 @@ La confusion entre "niche" et "luxe" est fréquente. Voici les distinctions esse
 | Budget marketing | Très élevé | Limité |
 | Concentration | EDP standard | Souvent extrait/parfum |
 | Originalité | Accessible | Audacieuse |
-| Prix (Algérie) | 4 000 - 8 000 DA | 8 000 - 25 000 DA |
+| Prix (Algérie) | 12 000 - 38 000 DA | 25 000 - 145 000 DA |
 
 ---
 
@@ -243,7 +243,7 @@ Fondée en 2009 par Julien Sprecher, Parfums de Marly est inspirée de la cour d
 
 **Layton** est leur masterpièce masculine : une rose-vanille-pomme d'une sophistication élégante qui a conquis des amateurs aux quatre coins du monde.
 
-**Prix en Algérie :** Delina (75ml) → 12 500 DA
+**Prix en Algérie :** Delina (75ml) → {{prix:delina-parfums-de-marly}}
 
 ### Kayali — La Modernité Dubaïote
 
@@ -251,7 +251,7 @@ Fondée en 2018 par Mona Kattan (sœur de Huda Beauty), Kayali est une marque é
 
 La gamme Eden est particulièrement populaire en Algérie, notamment Eden Juicy Apple avec son accord pomme-jasmin-fève tonka accessible et addictif.
 
-**Prix en Algérie :** Eden Juicy Apple (67ml) → 7 800 DA
+**Prix en Algérie :** Eden Juicy Apple (67ml) → {{prix:kayali-eden}}
 
 ### Al Haramain — L'Orient Authentique
 
@@ -259,7 +259,7 @@ Al Haramain n'est pas une marque de niche au sens occidental du terme, mais c'es
 
 En Algérie, Al Haramain est particulièrement estimée pour son rapport qualité-prix exceptionnel : pour le prix d'un designer moyen, vous accédez à des jus qui rivalisent avec les grandes maisons européennes sur le plan de la qualité.
 
-**Prix en Algérie :** Amber Oud Gold (100ml) → 4 500 DA
+**Prix en Algérie :** [Amber Oud Gold Edition](/parfums/amber-oud-al-haramain) (100ml) → {{prix:amber-oud-al-haramain}}
 
 ---
 
@@ -284,7 +284,7 @@ Chaque parfum de niche raconte une histoire. Delina évoque les jardins du chât
 Si vous découvrez les parfums de niche, voici notre recommandation en 3 étapes :
 
 **Étape 1 — Commencez accessible**
-Kayali Eden Juicy Apple est l'idéal pour débuter : prix abordable (7 800 DA), facilement aimable, et représentatif de la catégorie niche orientale moderne.
+Kayali Eden Juicy Apple est l'idéal pour débuter : prix accessible pour de la niche, facilement aimable, et représentatif de la catégorie niche orientale moderne.
 
 **Étape 2 — Explorez l'orient authentique**
 Al Haramain Amber Oud est parfait pour comprendre ce que "parfum oriental de qualité" signifie vraiment : richesse, profondeur, longévité.
@@ -383,12 +383,12 @@ Légère et très fugace, l'eau de cologne s'évapore rapidement. Elle est davan
 
 ## Tableau comparatif
 
-| Concentration | % Matières | Tenue peau | Sillage | Prix relatif |
+| Concentration | % Matières | Tenue relative | Sillage | Prix relatif |
 |---|---|---|---|---|
-| Extrait de Parfum | 20-40% | 12-24h | Intense | ★★★★★ |
-| Eau de Parfum (EDP) | 15-20% | 8-12h | Modéré-intense | ★★★★ |
-| Eau de Toilette (EDT) | 5-15% | 4-6h | Léger-modéré | ★★★ |
-| Eau de Cologne (EDC) | 2-4% | 1-2h | Très léger | ★★ |
+| Extrait de Parfum | 20-40% | La plus longue | Intense | Le plus cher |
+| Eau de Parfum (EDP) | 15-20% | Longue | Modéré-intense | Élevé |
+| Eau de Toilette (EDT) | 5-15% | Moyenne | Léger-modéré | Intermédiaire |
+| Eau de Cologne (EDC) | 2-4% | Courte | Très léger | Le plus accessible |
 
 ---
 
@@ -476,7 +476,7 @@ Voici notre sélection des 10 meilleurs parfums femme disponibles chez Maison Nu
 
 ## 1. Armani My Way EDP — Le Meilleur Floral Polyvalent
 
-**Prix en Algérie : 14 900 DA**
+**Prix en Algérie : {{prix:armani-my-way}}**
 
 [Armani My Way](/parfums/armani-my-way) s'est imposé en quelques années comme le floral féminin de référence pour la femme algérienne moderne. La combinaison fleur d'oranger de Grèce, jasmin d'Égypte et musc blanc crée une signature à la fois lumineuse et profonde, parfaite du bureau à la soirée.
 
@@ -488,7 +488,7 @@ Voici notre sélection des 10 meilleurs parfums femme disponibles chez Maison Nu
 
 ## 2. YSL Libre EDP — Le Plus Affirmatif
 
-**Prix en Algérie : 14 900 DA**
+**Prix en Algérie : {{prix:armani-my-way}}**
 
 [Libre de YSL](/parfums/libre-ysl) est le parfum de la femme qui choisit ses propres règles. La lavande féminine associée à la fleur d'oranger et à la vanille musquée crée une fragrance d'une modernité et d'une sophistication absolues. Son sillage affirmé en fait le parfum idéal pour celles qui veulent marquer leur présence.
 
@@ -500,9 +500,9 @@ Voici notre sélection des 10 meilleurs parfums femme disponibles chez Maison Nu
 
 ## 3. Dior J'adore EDP — Le Grand Floral Classique
 
-**Prix en Algérie : 15 200 DA**
+**Prix en Algérie : {{prix:libre-ysl}}**
 
-[Dior J'adore](/parfums/dior-jadore) est l'expression absolue de la féminité selon Dior. Ce grand floral — ylang-ylang, rose et jasmin de Grasse — est le parfum de mariage par excellence en Algérie. Sa richesse florale et sa tenue exceptionnelle de 10 heures en font le choix idéal pour les grandes occasions.
+[Dior J'adore](/parfums/dior-jadore) est l'expression absolue de la féminité selon Dior. Ce grand floral — ylang-ylang, rose et jasmin de Grasse — est le parfum de mariage par excellence en Algérie. Sa richesse florale et sa tenue tenace en font le choix idéal pour les grandes occasions.
 
 **Profil olfactif :** Ylang-Ylang · Rose · Jasmin de Grasse · Orchidée
 
@@ -512,7 +512,7 @@ Voici notre sélection des 10 meilleurs parfums femme disponibles chez Maison Nu
 
 ## 4. Chanel Coco Mademoiselle — Le Plus Iconique
 
-**Prix en Algérie : 16 500 DA**
+**Prix en Algérie : {{prix:dior-jadore}}**
 
 La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) de Chanel combine l'orange fraîche, la rose et le patchouli pour créer le chypré féminin moderne le plus reconnu au monde. Intemporel, élégant, il traverse les générations et les tendances avec une grâce sans égale.
 
@@ -524,7 +524,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 5. Armani Si EDP — Le Meilleur Chypré
 
-**Prix en Algérie : 14 500 DA**
+**Prix en Algérie : {{prix:coco-mademoiselle-chanel}}**
 
 [Armani Si](/parfums/armani-si) est la réponse d'Armani à la femme professionnelle et ambitieuse. Le cassis noir en tête, la rose au cœur et le patchouli en base créent un chypré moderne d'une tenue et d'une sophistication remarquables. Le parfum des femmes qui réussissent.
 
@@ -536,7 +536,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 6. Lancôme La Vie est Belle — Le Plus Populaire
 
-**Prix en Algérie : 14 900 DA**
+**Prix en Algérie : {{prix:armani-si}}**
 
 [La Vie est Belle](/parfums/la-vie-est-belle-lancome) de Lancôme est le parfum féminin le plus vendu en Algérie depuis plusieurs années. Son accord iris-praline-patchouli crée une signature gourmande-orientale accessible et immédiatement séduisante. Son flacon souriant est aussi apprécié que son contenu.
 
@@ -548,7 +548,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 7. YSL Black Opium EDP — Le Plus Séduisant
 
-**Prix en Algérie : 14 500 DA**
+**Prix en Algérie : {{prix:la-vie-est-belle-lancome}}**
 
 [Black Opium](/parfums/black-opium-ysl) est le parfum de la nuit par excellence. Café noir, vanille et patchouli blanc créent une signature addictive et sensuelle qui a conquis des millions de femmes. Sa bouteille noire pailletée est aussi iconique que son sillage.
 
@@ -560,7 +560,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 8. Chloé Signature EDP — Le Plus Romantique
 
-**Prix en Algérie : 12 500 DA**
+**Prix en Algérie : {{prix:black-opium-ysl}}**
 
 [Chloé Signature](/parfums/chloe-signature) est le floral romantique parfait. Rose de mai, pivoine et litchi créent un bouquet d'une douceur et d'une délicatesse absolues. C'est le parfum de la femme qui croit au romantisme — un choix impeccable pour les mariages et les grandes occasions.
 
@@ -572,7 +572,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 9. Narciso Rodriguez For Her EDP — Le Plus Discret
 
-**Prix en Algérie : 13 900 DA**
+**Prix en Algérie : {{prix:chloe-signature}}**
 
 [Narciso Rodriguez For Her](/parfums/narciso-rodriguez-for-her) est le parfum de la discrétion absolue. Son accord musc-rose d'une pureté remarquable crée une signature seconde peau — légère, élégante, toujours présente mais jamais envahissante.
 
@@ -584,7 +584,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 10. Givenchy Irresistible EDP — La Meilleure Nouveauté
 
-**Prix en Algérie : 12 900 DA**
+**Prix en Algérie : {{prix:narciso-rodriguez-for-her}}**
 
 [Givenchy Irresistible](/parfums/givenchy-irresistible) est la révélation de ces dernières années. Rose fraîche, muguet et bois de santal créent un floral boisé moderne d'une légèreté et d'une élégance parfaites. Le rapport qualité-prix est excellent pour une fragrance de cette qualité.
 
@@ -643,11 +643,11 @@ Les floraux frais sont caractérisés par des notes légères, aériennes, souve
 
 **Notre sélection :**
 
-[Chloé Signature EDP](/parfums/chloe-signature) — La rose de mai associée au litchi et à la pivoine crée un floral d'une légèreté printanière parfaite. 12 500 DA.
+[Chloé Signature EDP](/parfums/chloe-signature) — La rose de mai associée au litchi et à la pivoine crée un floral d'une légèreté printanière parfaite. {{prix:chloe-signature}}.
 
-[Marc Jacobs Daisy EDT](/parfums/marc-jacobs-daisy) — Gardénia, fraise et jasmin pour un floral joyeux et accessible. 11 900 DA.
+[Marc Jacobs Daisy EDT](/parfums/marc-jacobs-daisy) — Gardénia, fraise et jasmin pour un floral joyeux et accessible. {{prix:marc-jacobs-daisy}}.
 
-[Issey Miyake L'Eau d'Issey](/parfums/l-eau-d-issey-femme) — Cyclamen aquatique et rose pour la fraîcheur ultime. 10 500 DA.
+[Issey Miyake L'Eau d'Issey](/parfums/l-eau-d-issey-femme) — Cyclamen aquatique et rose pour la fraîcheur ultime. {{prix:l-eau-d-issey-femme}}.
 
 ### 2. Floral Boisé — Le Compromis Parfait
 
@@ -655,11 +655,11 @@ Les floraux boisés ajoutent une profondeur boisée aux notes florales, créant 
 
 **Notre sélection :**
 
-[Armani My Way EDP](/parfums/armani-my-way) — Fleur d'oranger et jasmin sur un fond de cèdre et musc blanc. La référence absolue de la catégorie. 14 900 DA.
+[Armani My Way EDP](/parfums/armani-my-way) — Fleur d'oranger et jasmin sur un fond de cèdre et musc blanc. La référence absolue de la catégorie. {{prix:armani-my-way}}.
 
-[Givenchy Irresistible EDP](/parfums/givenchy-irresistible) — Rose fraîche et muguet sur un fond de bois de santal. Moderne et élégant. 12 900 DA.
+[Givenchy Irresistible EDP](/parfums/givenchy-irresistible) — Rose fraîche et muguet sur un fond de bois de santal. Moderne et élégant. {{prix:givenchy-irresistible}}.
 
-[Narciso Rodriguez For Her EDP](/parfums/narciso-rodriguez-for-her) — Musc et rose sur bois de santal — le floral boisé le plus discret et le plus élégant. 13 900 DA.
+[Narciso Rodriguez For Her EDP](/parfums/narciso-rodriguez-for-her) — Musc et rose sur bois de santal — le floral boisé le plus discret et le plus élégant. {{prix:narciso-rodriguez-for-her}}.
 
 ### 3. Floral Oriental — Pour les Soirées et Occasions Spéciales
 
@@ -667,11 +667,11 @@ Les floraux orientaux combinent la richesse florale avec la chaleur des bases or
 
 **Notre sélection :**
 
-[Elie Saab Le Parfum EDP](/parfums/elie-saab-le-parfum) — Fleur d'oranger et jasmin sur patchouli ambré. Le floral oriental libanais parfait pour les occasions algériennes. 13 500 DA.
+[Elie Saab Le Parfum EDP](/parfums/elie-saab-le-parfum) — Fleur d'oranger et jasmin sur patchouli ambré. Le floral oriental libanais parfait pour les occasions algériennes. {{prix:elie-saab-le-parfum}}.
 
-[Givenchy L'Interdit EDP](/parfums/givenchy-l-interdit) — Fleur d'oranger et jasmin sur patchouli et ambroxan. Envoûtant et mémorable. 13 500 DA.
+[Givenchy L'Interdit EDP](/parfums/givenchy-l-interdit) — Fleur d'oranger et jasmin sur patchouli et ambroxan. Envoûtant et mémorable. {{prix:givenchy-l-interdit}}.
 
-[Dior J'adore EDP](/parfums/dior-jadore) — Le grand floral de Dior. Ylang-ylang, rose et jasmin de Grasse pour le luxe absolu. 15 200 DA.
+[Dior J'adore EDP](/parfums/dior-jadore) — Le grand floral de Dior. Ylang-ylang, rose et jasmin de Grasse pour le luxe absolu. {{prix:dior-jadore}}.
 
 ### 4. Floral Poudré — L'Élégance Classique
 
@@ -679,9 +679,9 @@ Les floraux poudrés intègrent des notes d'iris, de violette ou d'aldéhydes qu
 
 **Notre sélection :**
 
-[Kenzo Flower EDP](/parfums/kenzo-flower) — Violette sauvage et cassis pour le floral poudré accessible et poétique. 9 900 DA.
+[Kenzo Flower EDP](/parfums/kenzo-flower) — Violette sauvage et cassis pour le floral poudré accessible et poétique. {{prix:kenzo-flower}}.
 
-[Guerlain Insolence EDP](/parfums/insolence-guerlain) — Violette, iris et rose pour l'insolence florale poudrée selon Guerlain. 11 900 DA.
+[Guerlain Insolence EDP](/parfums/insolence-guerlain) — Violette, iris et rose pour l'insolence florale poudrée selon Guerlain. {{prix:insolence-guerlain}}.
 
 ## Comment porter un parfum floral en Algérie ?
 
@@ -756,31 +756,31 @@ Plutôt que des dupes, il existe une solution bien meilleure : des parfums authe
 
 ### Si vous aimez Dior Sauvage
 
-**Alternative recommandée :** [Azzaro Wanted EDT](/parfums/azzaro-wanted) — 10 900 DA
+**Alternative recommandée :** [Azzaro Wanted EDT](/parfums/azzaro-wanted) — {{prix:azzaro-wanted}}
 
 Azzaro Wanted partage la structure boisée-aromatique de Sauvage avec sa propre signature cardamome-vétiver. Ce n'est pas un dupe — c'est un parfum différent, de qualité réelle, à la moitié du prix.
 
 ### Si vous aimez Coco Mademoiselle Chanel
 
-**Alternative recommandée :** [Cacharel Noa EDT](/parfums/cacharel-noa) — 11 000 DA
+**Alternative recommandée :** [Cacharel Noa EDT](/parfums/cacharel-noa) — {{prix:cacharel-noa}}
 
 Noa de Cacharel offre une sophistication florale comparable, avec une composition de qualité certifiée et une tenue excellente. Un tiers du prix environ.
 
 ### Si vous aimez Black Opium YSL
 
-**Alternative recommandée :** [Prada Candy EDP](/parfums/prada-candy) — 13 900 DA
+**Alternative recommandée :** [Prada Candy EDP](/parfums/prada-candy) — {{prix:prada-candy}}
 
 Même famille oriental-gourmand, même sophistication de composition, avec la signature Prada qui est son propre univers. Ce n'est pas moins bien — c'est différemment bien.
 
 ### Si vous aimez Lancôme La Vie est Belle
 
-**Alternative recommandée :** [Mauboussin Pour Elle EDP](/parfums/mauboussin-pour-elle) — 8 500 DA
+**Alternative recommandée :** [Mauboussin Pour Elle EDP](/parfums/mauboussin-pour-elle) — {{prix:mauboussin-pour-elle}}
 
 Mauboussin (grande maison de joaillerie parisienne) propose un floral-oriental de qualité comparable à une fraction du prix. Cassis, pivoine et vanille ambrée — même famille olfactive, qualité authentique.
 
 ### Si vous aimez Invictus Paco Rabanne
 
-**Alternative recommandée :** [Nautica Voyage EDT](/parfums/nautica-voyage) — 7 900 DA
+**Alternative recommandée :** [Nautica Voyage EDT](/parfums/nautica-voyage) — {{prix:nautica-voyage}}
 
 L'aquatique masculin accessible par excellence. Qualité de composition certifiée, tenue honnête, prix imbattable.
 
@@ -788,7 +788,7 @@ L'aquatique masculin accessible par excellence. Qualité de composition certifi�
 
 Certains parfums sont tout simplement irremplaçables. Leurs formules utilisent des ingrédients rares que personne d'autre n'utilise au même niveau de qualité :
 
-**[Creed Aventus](/parfums/creed-aventus)** — L'ananas-bouleau-ambre gris de Creed n'a aucun équivalent réel. Le prix est élevé (36 000 DA) mais aucun dupe ne s'en approche vraiment.
+**[Creed Aventus](/parfums/creed-aventus)** — L'ananas-bouleau-ambre gris de Creed n'a aucun équivalent réel. Le prix est élevé ({{prix:creed-aventus}}) mais aucun dupe ne s'en approche vraiment.
 
 **[Dior Fahrenheit](/parfums/fahrenheit-dior)** — La violette-gasoil-cuir de Fahrenheit est une formule si particulière qu'elle n'a jamais été vraiment dupliquée.
 
@@ -796,7 +796,7 @@ Certains parfums sont tout simplement irremplaçables. Leurs formules utilisent 
 
 ## Notre recommandation
 
-Achetez des originaux moins médiatisés plutôt que des dupes de parfums célèbres. Pour 8 000 à 12 000 DA, vous pouvez acquérir un parfum authentique de [Davidoff](/parfums/davidoff-cool-water), [Azzaro](/parfums/azzaro-chrome), [Nautica](/parfums/nautica-voyage) ou [Cacharel](/parfums/amor-amor-cacharel) qui durera 3 à 5 fois plus longtemps qu'un dupe à 1 000 DA.
+Achetez des originaux moins médiatisés plutôt que des dupes de parfums célèbres. Pour 9 000 à 17 000 DA, vous pouvez acquérir un parfum authentique de [Davidoff](/parfums/davidoff-cool-water), [Azzaro](/parfums/azzaro-chrome), [Nautica](/parfums/nautica-voyage) ou [Cacharel](/parfums/amor-amor-cacharel) qui durera 3 à 5 fois plus longtemps qu'un dupe à 1 000 DA.
 
 Maison Numidia ne vend que des parfums **originaux et authentiques**, avec livraison COD dans les 58 wilayas. Consultez notre [catalogue parfums femme](/parfums-femme) et [parfums homme](/parfums-homme).`,
     author: {
@@ -833,37 +833,37 @@ Un parfum poudré est une fragrance qui évoque la texture douce et soyeuse de l
 
 ### Pour les amatrices de poudré classique
 
-**[Lancôme Trésor EDP](/parfums/tresor-lancome) — 13 500 DA**
+**[Lancôme Trésor EDP](/parfums/tresor-lancome) — {{prix:tresor-lancome}}**
 
 Trésor est le grand classique poudré-floral. La rose de mai et l'iris poudré s'associent à un fond ambré-musqué pour créer le poudré romantique parfait. Intemporel, tenace, d'une élégance absolue. Idéal pour les femmes qui cherchent quelque chose de grand et de classique.
 
-**[Guerlain Insolence EDP](/parfums/insolence-guerlain) — 11 900 DA**
+**[Guerlain Insolence EDP](/parfums/insolence-guerlain) — {{prix:insolence-guerlain}}**
 
 Insolence porte la marque de fabrique violette-iris de Guerlain dans une version moderne et accessible. Le poudré de violette est plus frais et plus fruité que le poudré d'iris classique — une interprétation contemporaine de l'élégance poudrée.
 
 ### Pour les amatrices de poudré moderne
 
-**[Mon Guerlain EDP](/parfums/mon-guerlain) — 12 900 DA**
+**[Mon Guerlain EDP](/parfums/mon-guerlain) — {{prix:mon-guerlain}}**
 
 Mon Guerlain propose un poudré inattendu : la lavande de Provence crémeuse associée à la vanille bourbon. Le résultat est un poudré aromatique-floral unique — doux, féminin, légèrement médicinal dans le meilleur sens du terme.
 
-**[Chloé Signature EDP](/parfums/chloe-signature) — 12 500 DA**
+**[Chloé Signature EDP](/parfums/chloe-signature) — {{prix:chloe-signature}}**
 
 La rose de mai et la pivoine créent un poudré floral très fin — presque imperceptible mais parfaitement présent. C'est le poudré moderne : discret, élégant, jamais envahissant.
 
 ### Pour les amatrices de poudré gourmand
 
-**[Prada Candy EDP](/parfums/prada-candy) — 13 900 DA**
+**[Prada Candy EDP](/parfums/prada-candy) — {{prix:prada-candy}}**
 
 Le caramel et le benjoin de Prada Candy créent un poudré gourmand d'une sophistication remarquable. C'est la poudre qui sent le luxe comestible — sucré mais intelligent, chaleureux et addictif.
 
-**[Hypnotic Poison Dior EDT](/parfums/hypnotic-poison-dior) — 12 900 DA**
+**[Hypnotic Poison Dior EDT](/parfums/hypnotic-poison-dior) — {{prix:hypnotic-poison-dior}}**
 
 Hypnotic Poison joue sur le poudré amandé — cette texture crémeuse-lactique de l'amande douce associée à la vanille boisée. Un poudré profond et sensuel, parfait pour les soirées.
 
 ### Pour les débutantes dans le poudré
 
-**[Kenzo Flower EDP](/parfums/kenzo-flower) — 9 900 DA**
+**[Kenzo Flower EDP](/parfums/kenzo-flower) — {{prix:kenzo-flower}}**
 
 La violette sauvage de Kenzo Flower est la porte d'entrée idéale dans l'univers poudré. Légère, florale, naturelle — elle ne fait pas peur aux femmes habituées aux floraux frais.
 
@@ -950,39 +950,39 @@ Pour l'été, l'EDT (Eau de Toilette) est souvent préférable à l'EDP en raiso
 
 ### Les indispensables de l'été algérien
 
-**[Dolce & Gabbana Light Blue EDT](/parfums/dolce-gabbana-light-blue) — 11 900 DA**
+**[Dolce & Gabbana Light Blue EDT](/parfums/dolce-gabbana-light-blue) — {{prix:dolce-gabbana-light-blue}}**
 
 Light Blue est LE parfum d'été féminin par excellence. Cédrat de Sicile, fleur de pommier et bambou créent une fraîcheur méditerranéenne qui évoque les matins d'été en bord de mer. Léger, accessible, intemporel — la référence absolue pour l'été algérien.
 
-**[Issey Miyake L'Eau d'Issey EDT](/parfums/l-eau-d-issey-femme) — 10 500 DA**
+**[Issey Miyake L'Eau d'Issey EDT](/parfums/l-eau-d-issey-femme) — {{prix:l-eau-d-issey-femme}}**
 
 Le parfum aquatique féminin iconique. Cyclamen, lotus et rose sur un fond de bois léger — une fraîcheur absolue qui ne fatigue jamais. Parfait pour les journées longues et chaudes du Ramadan ou pour la rentrée de septembre.
 
-**[Marc Jacobs Daisy EDT](/parfums/marc-jacobs-daisy) — 11 900 DA**
+**[Marc Jacobs Daisy EDT](/parfums/marc-jacobs-daisy) — {{prix:marc-jacobs-daisy}}**
 
 Fraise, gardénia et jasmin pour un été plein de fraîcheur et de bonne humeur. Le flacon aux marguerites est aussi joyeux que la fragrance elle-même. Excellent choix pour les jeunes femmes.
 
 ### Pour un été sophistiqué
 
-**[Armani My Way EDP](/parfums/armani-my-way) — 14 900 DA**
+**[Armani My Way EDP](/parfums/armani-my-way) — {{prix:armani-my-way}}**
 
 My Way tient remarquablement bien à la chaleur grâce à sa structure boisée-musquée. La fleur d'oranger et le jasmin se déploient magnifiquement à 30-35°C. C'est le parfum d'été pour la femme qui veut rester sophistiquée même en pleine canicule.
 
-**[Chloé Signature EDP](/parfums/chloe-signature) — 12 500 DA**
+**[Chloé Signature EDP](/parfums/chloe-signature) — {{prix:chloe-signature}}**
 
 La rose de mai et le litchi de Chloé Signature sont parfaitement calibrés pour les températures printanières et estivales. La base cèdre-musc est suffisamment légère pour ne pas alourdir par forte chaleur.
 
 ### Budget maîtrisé
 
-**[Éclat d'Arpège Lanvin EDT](/parfums/eclat-arpege-lanvin) — 8 900 DA**
+**[Éclat d'Arpège Lanvin EDT](/parfums/eclat-arpege-lanvin) — {{prix:eclat-arpege-lanvin}}**
 
-Le rapport fraîcheur-prix le plus compétitif de notre sélection. Pamplemousse, rose et musc blanc pour une légèreté estivale parfaite à moins de 9 000 DA.
+Le rapport fraîcheur-prix le plus compétitif de notre sélection. Pamplemousse, rose et musc blanc pour une légèreté estivale, à un tarif qui reste accessible.
 
-**[Cacharel Amor Amor EDT](/parfums/amor-amor-cacharel) — 8 500 DA**
+**[Cacharel Amor Amor EDT](/parfums/amor-amor-cacharel) — {{prix:amor-amor-cacharel}}**
 
 Floral-fruité léger et accessible — idéal pour les jeunes femmes qui cherchent un parfum de plage ou de quotidien estival sans se ruiner.
 
-**[Miu Miu L'Eau Bleue EDP](/parfums/miu-miu-l-eau) — 9 500 DA**
+**[Miu Miu L'Eau Bleue EDP](/parfums/miu-miu-l-eau) — {{prix:miu-miu-l-eau}}**
 
 L'EDP le plus aérien de notre catalogue. Notes aqueuses, pivoine et bois de santal léger — une légèreté presque aquatique idéale pour les canicules.
 
@@ -1028,7 +1028,7 @@ Voici notre sélection finale, classée par profil olfactif, pour passer l'été
 
 **4. [Chloé Signature](/parfums/chloe-signature)** — Rose de mai et pivoine. La transition idéale entre l'été côtier et les premiers soirs frais de septembre.
 
-**5. [Cacharel Amor Amor](/parfums/amor-amor-cacharel)** — Mandarine, cassis, fleur d'oranger. Le rapport qualité-prix imbattable sous les 9 000 DA.
+**5. [Cacharel Amor Amor](/parfums/amor-amor-cacharel)** — Mandarine, cassis, fleur d'oranger. Le rapport qualité-prix imbattable de la sélection.
 
 Tous ces parfums sont en stock avec livraison Yalidine 24-72h dans les 58 wilayas.
 
@@ -1091,7 +1091,7 @@ C'est évidemment le test le plus important, mais aussi le plus difficile si vou
 
 **La complexité olfactive :** Un parfum original est composé de matières premières de haute qualité qui créent une évolution sur la peau — tête, cœur, fond. Un contrefait sent souvent identique du début à la fin, sans complexité ni développement. Il peut aussi avoir des notes chimiques ou alcoolisées très marquées.
 
-**La longévité :** Un original comme [Dior Sauvage EDP](/parfums/dior-sauvage) tient 10 à 14 heures sur la peau. Les contrefaçons durent rarement plus de 1 à 2 heures car elles utilisent des bases de qualité médiocre.
+**La longévité :** Un original comme [Dior Sauvage EDP](/parfums/dior-sauvage) tient la journée sur la peau. Les contrefaçons, elles, s'évaporent en une heure ou deux : les bases utilisées sont de qualité médiocre.
 
 **L'alcool :** Vaporisez un peu sur votre poignet et attendez 30 secondes. Sur un original, l'alcool s'évapore rapidement et laisse place à la fragrance. Sur un contrefait, l'odeur d'alcool peut persister plus longtemps ou les notes chimiques restent présentes.
 
@@ -1099,12 +1099,12 @@ C'est évidemment le test le plus important, mais aussi le plus difficile si vou
 
 **Si c'est trop beau pour être vrai, ça ne l'est pas.**
 
-Un [Creed Aventus](/parfums/creed-aventus) vendu 3 000 DA est une contrefaçon. Un [Dior Sauvage EDP](/parfums/dior-sauvage) à 2 500 DA est une contrefaçon. Les grands parfums ont des coûts de production élevés — matières premières rares, flaconnerie de qualité, distribution internationale.
+Un [Creed Aventus](/parfums/creed-aventus) vendu 15 000 DA est une contrefaçon. Un [Dior Sauvage EDP](/parfums/dior-sauvage) à 2 500 DA est une contrefaçon. Les grands parfums ont des coûts de production élevés — matières premières rares, flaconnerie de qualité, distribution internationale.
 
 En Algérie, attendez-vous à payer :
-- Grandes maisons (Dior, Chanel, YSL) : **12 000 à 18 000 DA**
-- Marques premium (Armani, Paco Rabanne, Givenchy) : **8 000 à 14 000 DA**
-- Marques mid-range (Davidoff, Azzaro, Nautica) : **6 000 à 10 000 DA**
+- Grandes maisons (Dior, Chanel, YSL) : **23 000 à 48 000 DA**
+- Marques premium (Armani, Paco Rabanne, Givenchy) : **12 500 à 30 000 DA**
+- Marques mid-range (Davidoff, Azzaro, Nautica) : **8 000 à 20 000 DA**
 
 ### 5. La source d'achat
 
@@ -1146,7 +1146,7 @@ Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/p
     slug: "lattafa-khamrah-avis",
     title: "Lattafa Khamrah : avis complet 2026, notes et alternatives Algérie",
     metaTitle: "Lattafa Khamrah Avis 2026 — Notes, Tenue, Alternatives",
-    metaDescription: "Avis complet Lattafa Khamrah : notes praline-oud-vanille, sillage 12h, prix 8500 DA Algérie, alternatives orientales et où l'acheter.",
+    metaDescription: "Avis complet Lattafa Khamrah : notes praline-oud-vanille, tenue, alternatives orientales et où l'acheter en Algérie.",
     publishedAt: "2026-05-07",
     category: "guides",
     readTime: 8,
@@ -1177,12 +1177,12 @@ La base associe **vanille bourbon**, **ambre chaud** et **musc boisé**. C'est u
 
 En conditions algériennes, Khamrah affiche des performances supérieures à la moyenne du marché à son prix.
 
-- **Tenue sur peau :** 10 à 12 heures, parfois plus selon la peau
+- **Tenue sur peau :** parmi les plus tenaces de la gamme Lattafa
 - **Sillage :** intense les 4 premières heures, modéré ensuite
-- **Projection :** 1,5 à 2 mètres pendant 6 heures
-- **Tenue sur vêtements :** jusqu'à 24-36 heures sur tissus de laine
+- **Projection :** généreuse, surtout dans les premières heures
+- **Tenue sur vêtements :** nettement plus longue que sur la peau, en particulier sur la laine
 
-Pour un parfum vendu sous les 9 000 DA en Algérie, ces performances sont exceptionnelles et expliquent en grande partie la fidélité des acheteurs. À titre de comparaison, des EDP designer européens à 14 000 DA tiennent souvent moins longtemps.
+Pour un parfum vendu sous les 10 000 DA en Algérie, ces performances sont exceptionnelles et expliquent en grande partie la fidélité des acheteurs. À titre de comparaison, des EDP designer européens bien plus chers tiennent souvent moins longtemps.
 
 ## Khamrah vs Angels' Share Lattafa : quel choix ?
 
@@ -1200,7 +1200,7 @@ Si Khamrah vous intrigue mais que vous voulez explorer d'autres pistes orientale
 
 ### Lattafa Asad, l'oriental boisé puissant
 
-[Lattafa Asad](/parfums/lattafa-asad) reprend l'ADN performant de la maison mais oriente le parfum vers un boisé-ambré masculin plus sombre. Si vous trouvez Khamrah trop sucré ou si vous cherchez une signature 100% masculine, Asad est un candidat logique. Prix : autour de 6 500 DA.
+[Lattafa Asad](/parfums/lattafa-asad) reprend l'ADN performant de la maison mais oriente le parfum vers un boisé-ambré masculin plus sombre. Si vous trouvez Khamrah trop sucré ou si vous cherchez une signature 100% masculine, Asad est un candidat logique. Prix : autour de {{prix:lattafa-asad}}.
 
 ### Lattafa Yara, la version florale-gourmande
 
@@ -1212,7 +1212,7 @@ Si Khamrah vous intrigue mais que vous voulez explorer d'autres pistes orientale
 
 ## Prix Khamrah en Algérie
 
-Khamrah 100ml se trouve actuellement entre 8 000 et 9 500 DA en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 58 wilayas.
+Khamrah 100ml se trouve actuellement entre 8 000 et {{prix:ajmal-amber-wood}} en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 58 wilayas.
 
 Méfiez-vous des offres sous les 5 000 DA sur les réseaux sociaux : à ce prix, soit le flacon est dilué, soit c'est une contrefaçon. Lattafa applique une politique de prix homogène mondialement et les vrais Khamrah ne descendent jamais à ce niveau de tarif.
 
@@ -1224,7 +1224,7 @@ Pour explorer d'autres orientaux dans la même gamme, consultez notre [catalogue
 
 ## Conclusion : faut-il acheter Khamrah en 2026 ?
 
-Oui, sans hésitation, si vous aimez les orientaux gourmands et que vous cherchez une fragrance qui marque les esprits sans dépasser 9 000 DA. Khamrah reste en 2026 l'une des meilleures portes d'entrée vers la parfumerie orientale Dubai-style, avec un rapport performance-prix difficile à battre. Pour les soirées, mariages et grandes occasions algériennes, c'est un choix imparable. Pour le bureau quotidien en revanche, optez plutôt pour [Ajmal Amber Wood](/parfums/ajmal-amber-wood) ou [Lattafa Yara](/parfums/lattafa-yara), plus discrets.`,
+Oui, sans hésitation, si vous aimez les orientaux gourmands et que vous cherchez une fragrance qui marque les esprits sans dépasser 10 000 DA. Khamrah reste en 2026 l'une des meilleures portes d'entrée vers la parfumerie orientale Dubai-style, avec un rapport performance-prix difficile à battre. Pour les soirées, mariages et grandes occasions algériennes, c'est un choix imparable. Pour le bureau quotidien en revanche, optez plutôt pour [Ajmal Amber Wood](/parfums/ajmal-amber-wood) ou [Lattafa Yara](/parfums/lattafa-yara), plus discrets.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -1249,63 +1249,63 @@ Tous les parfums présentés sont en stock, livrables sous 24 à 72 heures via Y
 
 ## 1. Lancôme La Vie est Belle EDP
 
-[La Vie est Belle](/parfums/la-vie-est-belle-lancome) reste indétrônable en tête de notre classement. Ce floral-oriental gourmand iris-praline-patchouli créé par Olivier Polge en 2012 a traversé les modes sans prendre une ride. Son sillage chaud et accessible séduit les femmes de 25 à 60 ans, du quotidien aux grandes occasions. Pour l'Algérie, c'est aussi le parfum de l'automne et de l'hiver par excellence : la praline et l'iris s'épanouissent dès que les températures descendent. Tenue de 8 à 10 heures, projection généreuse les premières heures.
+[La Vie est Belle](/parfums/la-vie-est-belle-lancome) reste indétrônable en tête de notre classement. Ce floral-oriental gourmand iris-praline-patchouli créé par Olivier Polge en 2012 a traversé les modes sans prendre une ride. Son sillage chaud et accessible séduit les femmes de 25 à 60 ans, du quotidien aux grandes occasions. Pour l'Algérie, c'est aussi le parfum de l'automne et de l'hiver par excellence : la praline et l'iris s'épanouissent dès que les températures descendent. Bonne tenue et projection généreuse les premières heures.
 
-**Prix :** 14 900 DA · **Occasion :** quotidien, soirée, cadeau · **Famille :** floral oriental gourmand
+**Prix :** {{prix:la-vie-est-belle-lancome}} · **Occasion :** quotidien, soirée, cadeau · **Famille :** floral oriental gourmand
 
 ## 2. Chanel Coco Mademoiselle EDP
 
 [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) est la signature absolue de l'élégance française moderne. Orange fraîche, rose et patchouli créent un chypré féminin sophistiqué que toutes les générations se transmettent. C'est le parfum des femmes qui veulent être reconnues comme élégantes sans avoir à le revendiquer. À porter pour les occasions formelles et professionnelles.
 
-**Prix :** 16 500 DA · **Occasion :** bureau, soirée chic · **Famille :** chypré floral
+**Prix :** {{prix:coco-mademoiselle-chanel}} · **Occasion :** bureau, soirée chic · **Famille :** chypré floral
 
 ## 3. YSL Libre EDP
 
 [Libre de YSL](/parfums/libre-ysl) incarne la femme qui choisit ses propres règles. La lavande féminisée associée à la fleur d'oranger et à la vanille musquée crée une fragrance d'une modernité affirmée. Son sillage marque la pièce sans être agressif. Choix idéal pour les femmes confiantes qui veulent une signature distinctive sans tomber dans le spectaculaire.
 
-**Prix :** 14 900 DA · **Occasion :** soirée, occasions importantes · **Famille :** floral aromatique
+**Prix :** {{prix:libre-ysl}} · **Occasion :** soirée, occasions importantes · **Famille :** floral aromatique
 
 ## 4. Jean Paul Gaultier Scandal EDP
 
 [Scandal](/parfums/scandal-jean-paul-gaultier) mise sur le miel et le gardénia avec une facette patchouli-vanille très addictive. C'est le parfum de la fête, des sorties entre amies et des soirées où on veut être remarquée. Très apprécié des 20-35 ans en Algérie pour sa générosité de sillage et son côté joyeux. Le flacon en forme de buste est devenu iconique.
 
-**Prix :** 13 500 DA · **Occasion :** soirée, fête, week-end · **Famille :** floral gourmand
+**Prix :** {{prix:scandal-jean-paul-gaultier}} · **Occasion :** soirée, fête, week-end · **Famille :** floral gourmand
 
 ## 5. Dior Miss Dior EDP
 
 [Miss Dior](/parfums/miss-dior) est la version contemporaine de la féminité Dior. Pivoine, rose de Grasse et patchouli créent un floral-chypré moderne et lumineux. Plus jeune et plus aérien que J'adore, Miss Dior s'adresse aux femmes qui veulent l'élégance Dior sans la solennité du grand floral classique. Excellent pour le printemps-été en Algérie.
 
-**Prix :** 15 500 DA · **Occasion :** quotidien chic, romantique · **Famille :** floral chypré
+**Prix :** {{prix:miss-dior}} · **Occasion :** quotidien chic, romantique · **Famille :** floral chypré
 
 ## 6. Dior J'adore EDP
 
-[Dior J'adore](/parfums/dior-jadore) reste la référence du grand floral solaire. Ylang-ylang, rose et jasmin de Grasse composent l'expression la plus pure de la féminité dorée Dior. C'est le parfum des mariages algériens par excellence, des fiançailles et des grands événements familiaux. Tenue exceptionnelle de 10 heures et sillage qui parfume l'espace longtemps après votre passage.
+[Dior J'adore](/parfums/dior-jadore) reste la référence du grand floral solaire. Ylang-ylang, rose et jasmin de Grasse composent l'expression la plus pure de la féminité dorée Dior. C'est le parfum des mariages algériens par excellence, des fiançailles et des grands événements familiaux. Tenue tenace et sillage qui parfume l'espace longtemps après votre passage.
 
-**Prix :** 15 200 DA · **Occasion :** mariage, cérémonie · **Famille :** grand floral
+**Prix :** {{prix:dior-jadore}} · **Occasion :** mariage, cérémonie · **Famille :** grand floral
 
 ## 7. YSL Mon Paris EDP
 
 [Mon Paris](/parfums/mon-paris-ysl) propose un chypré-fruité moderne très réussi : framboise, pivoine et patchouli blanc. Plus pop et plus jeune que Libre, Mon Paris séduit les femmes qui veulent une signature romantique sans tomber dans le bonbon sucré. Excellent compromis pour celles qui hésitent entre floral fruité et chypré classique.
 
-**Prix :** 13 900 DA · **Occasion :** rendez-vous, sortie · **Famille :** chypré fruité
+**Prix :** {{prix:mon-paris-ysl}} · **Occasion :** rendez-vous, sortie · **Famille :** chypré fruité
 
 ## 8. Lancôme Idôle EDP
 
 [Idôle](/parfums/idole-lancome) est la vision moderne et minimaliste de la rose selon Lancôme. Trois roses (centifolia, damascena, isparta) sur un fond chypré transparent musc-poire-vanille. Sa silhouette ultra-fine en flacon plat reflète parfaitement le contenu : élégant, contemporain, jamais lourd. Idéal pour le bureau et les femmes qui détestent les sillages envahissants.
 
-**Prix :** 13 200 DA · **Occasion :** bureau, quotidien · **Famille :** floral chypré moderne
+**Prix :** {{prix:idole-lancome}} · **Occasion :** bureau, quotidien · **Famille :** floral chypré moderne
 
 ## 9. Narciso Rodriguez For Her EDP
 
 [For Her](/parfums/narciso-rodriguez-for-her) est le parfum du musc féminin par excellence. Sa formule autour du musc, de la rose et du santal crée une signature seconde peau d'une élégance discrète absolue. C'est le parfum qu'on ne sent pas en entrant dans la pièce mais qui laisse un sillage subtil dont tout le monde se souvient. Choix de connaisseuse.
 
-**Prix :** 13 900 DA · **Occasion :** bureau, intime · **Famille :** musc floral
+**Prix :** {{prix:narciso-rodriguez-for-her}} · **Occasion :** bureau, intime · **Famille :** musc floral
 
 ## 10. Paco Rabanne Lady Million EDP
 
 [Lady Million](/parfums/lady-million-paco-rabanne) reste la fragrance festive féminine la plus reconnue en Algérie. Néroli, framboise et patchouli composent un floral-chypré lumineux et glamour. Le flacon en lingot d'or doré est devenu iconique. Excellent choix pour les soirées d'hiver, les fêtes et les week-ends entre amies.
 
-**Prix :** 14 200 DA · **Occasion :** soirée, fête · **Famille :** floral chypré
+**Prix :** {{prix:lady-million-paco-rabanne}} · **Occasion :** soirée, fête · **Famille :** floral chypré
 
 ## Comment choisir parmi ce top 10 ?
 
@@ -1371,9 +1371,9 @@ Les prix réels d'un parfum authentique en Algérie dépendent de la gamme :
 
 | Gamme | Exemples | Prix indicatif |
 | --- | --- | --- |
-| Orientaux accessibles | Lattafa, Al Haramain, Rasasi | 7 000 - 10 000 DA |
-| Designers | [Dior Sauvage](/parfums/dior-sauvage), [Bleu de Chanel](/parfums/bleu-de-chanel) | 22 000 - 30 000 DA |
-| Niche / prestige | Creed, MFK Baccarat, Roja | 70 000 - 160 000 DA |
+| Orientaux accessibles | Lattafa, Al Haramain, Rasasi | 6 500 - 15 500 DA |
+| Designers | [Dior Sauvage](/parfums/dior-sauvage), [Bleu de Chanel](/parfums/bleu-de-chanel) | 30 000 - 38 000 DA |
+| Niche / prestige | Creed, MFK Baccarat, Roja | 54 000 - 145 000 DA |
 
 Si un vendeur vous propose un Creed Aventus ou un Baccarat Rouge 540 à quelques milliers de dinars, c'est un faux : ces parfums coûtent réellement cher, même en Algérie.
 
@@ -1388,7 +1388,7 @@ Explorez le catalogue par catégorie : [parfums homme](/parfums-homme), [parfums
     },
     faq: [
       { question: "Comment être sûr d'acheter un parfum original en Algérie ?", answer: "Passez par une parfumerie spécialisée qui garantit l'authenticité par écrit, propose le paiement à la livraison et accepte le refus du colis. Vous ne payez qu'après avoir reçu et vérifié le flacon. Méfiez-vous des prix trop bas : un parfum de grande marque a un coût de production réel." },
-      { question: "Où acheter un parfum original pas cher en Algérie ?", answer: "Les orientaux originaux (Lattafa, Al Haramain, Rasasi) offrent le meilleur rapport qualité-prix, entre 7 000 et 10 000 DA, tout en étant 100% authentiques. Maison Numidia propose ces marques avec livraison dans les 58 wilayas et paiement à la réception." },
+      { question: "Où acheter un parfum original pas cher en Algérie ?", answer: "Les orientaux originaux (Lattafa, Al Haramain, Rasasi) offrent le meilleur rapport qualité-prix, entre 6 500 et 15 500 DA, tout en étant 100% authentiques. Maison Numidia propose ces marques avec livraison dans les 58 wilayas et paiement à la réception." },
       { question: "Peut-on payer à la livraison pour un parfum en Algérie ?", answer: "Oui. Le paiement à la livraison (COD) est le standard en Algérie et la protection la plus efficace contre les contrefaçons : vous recevez le colis, vous vérifiez le parfum, et vous payez seulement s'il est conforme. Maison Numidia fonctionne uniquement en paiement à la réception." },
       { question: "Combien de temps prend la livraison d'un parfum en Algérie ?", answer: "Avec Yalidine Express, comptez 24 à 48h pour Alger, Oran, Blida et les grandes villes du nord, et 48 à 72h pour les wilayas plus éloignées comme Tamanrasset ou Adrar." },
       { question: "Maison Numidia, c'est quoi ?", answer: "Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums 100% originaux de plus de 120 marques (Dior, Chanel, Lattafa, Al Haramain, YSL...). Livraison Yalidine dans les 58 wilayas, paiement à la livraison, garantie d'authenticité avec droit de refus." }
@@ -1406,7 +1406,7 @@ Explorez le catalogue par catégorie : [parfums homme](/parfums-homme), [parfums
     excerpt: "Original ET abordable, c'est possible en Algérie. Voici les meilleurs parfums authentiques à petit budget, avec leurs prix réels en dinar et les pièges à éviter.",
     content: `## Parfum pas cher mais original en Algérie : c'est possible ?
 
-Oui, on peut acheter un parfum original pas cher en Algérie — à condition de cibler les bonnes marques. Les maisons orientales comme Lattafa, Al Haramain, Rasasi ou Armaf proposent des parfums 100% authentiques entre 6 000 et 10 000 DA, avec une qualité et une tenue qui rivalisent avec des designers vendus trois fois plus cher. Le piège à éviter : confondre "pas cher" avec "contrefaçon". Un vrai parfum à petit prix existe ; un faux Dior à 2 000 DA reste un faux.
+Oui, on peut acheter un parfum original pas cher en Algérie — à condition de cibler les bonnes marques. Les maisons orientales comme Lattafa, Al Haramain, Rasasi ou Armaf proposent des parfums 100% authentiques entre 6 500 et 15 500 DA, avec une qualité et une tenue qui rivalisent avec des designers vendus trois fois plus cher. Le piège à éviter : confondre "pas cher" avec "contrefaçon". Un vrai parfum à petit prix existe ; un faux Dior à 2 000 DA reste un faux.
 
 Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose ces parfums abordables et originaux avec paiement à la livraison dans les 58 wilayas.
 
@@ -1416,11 +1416,11 @@ Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose ces par
 
 | Parfum | Style | Prix indicatif |
 | --- | --- | --- |
-| [Lattafa Asad](/parfums/lattafa-asad) | Boisé ambré puissant | ~8 500 DA |
-| [Lattafa Oud Mood](/parfums/lattafa-oud-mood) | Oud oriental | ~7 500 DA |
-| [Al Haramain Amber Oud](/parfums/amber-oud-al-haramain) | Ambré gourmand | ~9 800 DA |
-| Rasasi Hawas | Aquatique frais | ~7 700 DA |
-| Armaf Club de Nuit | Inspiré niche | ~6 500 DA |
+| [Lattafa Asad](/parfums/lattafa-asad) | Boisé ambré puissant | {{prix:lattafa-asad}} |
+| [Lattafa Oud Mood](/parfums/lattafa-oud-mood) | Oud oriental | {{prix:lattafa-oud-mood}} |
+| [Al Haramain Amber Oud](/parfums/amber-oud-al-haramain) | Ambré gourmand | {{prix:amber-oud-al-haramain}} |
+| [Rasasi Hawas](/parfums/rasasi-hawas) | Aquatique frais | {{prix:rasasi-hawas}} |
+| [Armaf Club de Nuit Intense](/parfums/club-de-nuit-intense-armaf) | Inspiré niche | {{prix:club-de-nuit-intense-armaf}} |
 
 Ces fragrances sont devenues des références mondiales : Lattafa Khamrah et Asad, par exemple, sont régulièrement comparées à des parfums de niche bien plus coûteux.
 
@@ -1444,9 +1444,9 @@ Maison Numidia sélectionne des parfums originaux à tous les budgets, du orient
       role: "Experts parfumerie, basés à Blida"
     },
     faq: [
-      { question: "Quel est le meilleur parfum original pas cher en Algérie ?", answer: "Lattafa Asad et Lattafa Khamrah sont parmi les meilleurs : 100% originaux, tenue de plus de 10 heures, autour de 7 500 à 8 500 DA. Al Haramain Amber Oud et Rasasi Hawas sont aussi d'excellents choix abordables." },
+      { question: "Quel est le meilleur parfum original pas cher en Algérie ?", answer: "Lattafa Asad et Lattafa Khamrah sont parmi les meilleurs : 100% originaux, très bonne tenue, autour de 6 500 à 10 000 DA. Al Haramain Amber Oud et Rasasi Hawas sont aussi d'excellents choix abordables." },
       { question: "Un parfum pas cher peut-il être original ?", answer: "Oui, à condition de viser les marques orientales (Lattafa, Al Haramain, Armaf) dont le positionnement est naturellement abordable. En revanche, une grande marque (Dior, Chanel) vendue très peu cher est presque toujours une contrefaçon." },
-      { question: "Combien coûte un bon parfum oriental en Algérie ?", answer: "Entre 6 000 et 10 000 DA pour les références authentiques de Lattafa, Al Haramain, Rasasi ou Armaf, avec une tenue et un sillage comparables à des parfums bien plus chers." }
+      { question: "Combien coûte un bon parfum oriental en Algérie ?", answer: "Entre 6 500 et 15 500 DA pour les références authentiques de Lattafa, Al Haramain, Rasasi ou Armaf, avec une tenue et un sillage comparables à des parfums bien plus chers." }
     ]
   },
 
@@ -1461,7 +1461,7 @@ Maison Numidia sélectionne des parfums originaux à tous les budgets, du orient
     excerpt: "Le oud est roi en Algérie. Voici les meilleurs parfums oud et orientaux authentiques de 2026, classés par profil, avec prix en dinar et conseils de port.",
     content: `## Quel est le meilleur parfum oud en Algérie en 2026 ?
 
-Le meilleur parfum oud en Algérie en 2026 est, selon les ventes et les avis, **Lattafa Khamrah** : un gourmand-oriental à la cannelle, datte et oud, avec une tenue de plus de 10 heures pour environ 8 000 DA. Pour un profil plus boisé et puissant, **Lattafa Asad** et **Al Haramain Amber Oud** dominent. Le oud (bois d'agar) est la signature de la parfumerie orientale, particulièrement appréciée en Algérie pour sa profondeur et sa longévité exceptionnelle.
+Le meilleur parfum oud en Algérie en 2026 est, selon les ventes et les avis, **Lattafa Khamrah** : un gourmand-oriental à la cannelle, datte et oud, avec une très bonne tenue pour moins de 10 000 DA. Pour un profil plus boisé et puissant, **Lattafa Asad** et **Al Haramain Amber Oud** dominent. Le oud (bois d'agar) est la signature de la parfumerie orientale, particulièrement appréciée en Algérie pour sa profondeur et sa longévité exceptionnelle.
 
 Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose toute la sélection orientale et oud avec paiement à la livraison dans les 58 wilayas.
 
@@ -1471,11 +1471,11 @@ Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose toute l
 
 | Parfum | Profil olfactif | Prix indicatif |
 | --- | --- | --- |
-| Lattafa Khamrah | Cannelle, datte, oud, vanille | ~8 000 DA |
-| [Lattafa Asad](/parfums/lattafa-asad) | Oud, tabac, café, boisé | ~8 500 DA |
-| [Al Haramain Amber Oud](/parfums/amber-oud-al-haramain) | Ambre, oud, gourmand | ~9 800 DA |
-| Al Haramain L'Aventure | Boisé frais ambré | ~8 500 DA |
-| Rasasi Hawas | Aquatique, oud léger | ~7 700 DA |
+| [Lattafa Khamrah](/parfums/lattafa-khamrah) | Cannelle, datte, oud, vanille | {{prix:lattafa-khamrah}} |
+| [Lattafa Asad](/parfums/lattafa-asad) | Oud, tabac, café, boisé | {{prix:lattafa-asad}} |
+| [Al Haramain Amber Oud](/parfums/amber-oud-al-haramain) | Ambre, oud, gourmand | {{prix:amber-oud-al-haramain}} |
+| [Al Haramain L'Aventure](/parfums/l-aventure-al-haramain) | Boisé frais ambré | {{prix:l-aventure-al-haramain}} |
+| [Rasasi Hawas](/parfums/rasasi-hawas) | Aquatique, oud léger | {{prix:rasasi-hawas}} |
 
 ## Pourquoi le oud cartonne en Algérie
 
@@ -1493,8 +1493,8 @@ Tous ces parfums sont disponibles chez Maison Numidia, originaux garantis, payé
       role: "Experts parfumerie, basés à Blida"
     },
     faq: [
-      { question: "Quel est le meilleur parfum oud en Algérie ?", answer: "Lattafa Khamrah est le plus populaire : gourmand-oriental cannelle-datte-oud, tenue de plus de 10 heures, autour de 8 000 DA. Lattafa Asad et Al Haramain Amber Oud sont aussi d'excellents choix pour un profil plus boisé et puissant." },
-      { question: "Combien coûte un parfum oud original en Algérie ?", answer: "Les meilleurs parfums oud authentiques (Lattafa, Al Haramain, Rasasi) coûtent entre 7 500 et 10 000 DA en Algérie, avec une tenue et un sillage dignes de parfums de niche bien plus chers." },
+      { question: "Quel est le meilleur parfum oud en Algérie ?", answer: "Lattafa Khamrah est le plus populaire : gourmand-oriental cannelle-datte-oud, très bonne tenue, autour de 10 000 DA. Lattafa Asad et Al Haramain Amber Oud sont aussi d'excellents choix pour un profil plus boisé et puissant." },
+      { question: "Combien coûte un parfum oud original en Algérie ?", answer: "Les meilleurs parfums oud authentiques (Lattafa, Al Haramain, Rasasi) coûtent entre 6 500 et 15 500 DA en Algérie, avec une tenue et un sillage dignes de parfums de niche bien plus chers." },
       { question: "Le oud est-il adapté au climat algérien ?", answer: "Oui, parfaitement. Le oud et les orientaux gagnent en intensité sur peau chaude, là où les parfums frais s'évaporent vite. C'est ce qui en fait des valeurs sûres pour les étés algériens comme pour les soirées et l'Aïd." }
     ]
   }

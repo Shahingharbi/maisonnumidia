@@ -41811,39 +41811,32 @@
   ],
   "brands": [
     {
-      "slug": "dior",
-      "name": "Dior",
-      "origin": "France",
-      "description": "Maison de couture parisienne fondée en 1946 par Christian Dior. L'une des maisons de luxe les plus iconiques au monde.",
-      "featured": true
+      "slug": "acqua-di-parma",
+      "name": "Acqua di Parma",
+      "origin": "Italie",
+      "description": "Acqua di Parma, fondée en 1916. Sa Colonia originale est un monument de la parfumerie, un agrume hespéridé qui a traversé plus d'un siècle.",
+      "featured": false
     },
     {
-      "slug": "chanel",
-      "name": "Chanel",
+      "slug": "adopt-mon-parfum",
+      "name": "Adopt Mon Parfum",
       "origin": "France",
-      "description": "La maison fondée par Gabrielle Chanel en 1910 est le symbole absolu de l'élégance parisienne.",
-      "featured": true
+      "featured": false,
+      "description": "Marque française fondée à Lyon en 1986, Adopt Mon Parfum propose des parfums abordables et variés en petits formats. Narcotique est sa fragrance la plus populaire, un floral oriental généreux et accessible. Disponible en Algérie chez Maison Numidia."
     },
     {
-      "slug": "ysl",
-      "name": "Yves Saint Laurent",
-      "origin": "France",
-      "description": "Maison de mode fondée en 1961, YSL est synonyme d'audace et de liberté dans la parfumerie moderne.",
-      "featured": true
-    },
-    {
-      "slug": "jean-paul-gaultier",
-      "name": "Jean Paul Gaultier",
-      "origin": "France",
-      "description": "L'enfant terrible de la mode française. Des flacons iconiques, des parfums qui osent.",
-      "featured": true
-    },
-    {
-      "slug": "lattafa",
-      "name": "Lattafa",
+      "slug": "afnan",
+      "name": "Afnan",
       "origin": "Émirats Arabes Unis",
-      "description": "Maison émiratie spécialisée dans les parfums orientaux de qualité à prix accessible.",
-      "featured": true
+      "description": "Afnan Perfumes est une référence de la parfumerie orientale accessible. Son best-seller 9PM offre des compositions riches à prix compétitifs.",
+      "featured": false
+    },
+    {
+      "slug": "ajmal",
+      "name": "Ajmal",
+      "origin": "Émirats arabes unis",
+      "description": "Ajmal Perfumes est une maison émiratie de parfumerie orientale fondée en 1951 à Hojai, en Inde, avant d'établir son siège à Dubaï. Quatre générations d'expertise familiale autour de l'oud ont fait d'Ajmal l'un des grands noms incontournables de la parfumerie arabe, avec ses propres plantations d'agar (oud) en Asie du Sud-Est et ses ateliers de distillation traditionnels. La signature olfactive Ajmal repose sur des matières premières nobles travaillées dans la pure tradition arabe : oud authentique, rose de Taïf, ambre, musc, safran et bois précieux. Le catalogue Maison Numidia met en avant des références emblématiques comme Amber Wood, oriental boisé chaleureux, Aurum, fragrance féminine ambrée luxueuse, Wisal pour la sensualité raffinée, ainsi que les gammes masculines et féminines Evoke et Sacrifice qui jouent sur la profondeur du oud et la richesse des résines. Pour le marché algérien, où l'attachement aux notes orientales authentiques relève du patrimoine quotidien, Ajmal incarne l'option premium accessible : la qualité Dubaï à des prix maîtrisés.",
+      "featured": false
     },
     {
       "slug": "al-haramain",
@@ -41853,25 +41846,116 @@
       "featured": true
     },
     {
-      "slug": "lancome",
-      "name": "Lancôme",
-      "origin": "France",
-      "description": "Maison de beauté française fondée en 1935. La féminité et l'élégance à la française.",
-      "featured": true
-    },
-    {
-      "slug": "givenchy",
-      "name": "Givenchy",
-      "origin": "France",
-      "description": "Maison parisienne fondée en 1952 par Hubert de Givenchy. Élégance et modernité.",
+      "slug": "al-rehab",
+      "name": "Al Rehab",
+      "origin": "Arabie Saoudite",
+      "description": "Fondée en 1975 à Riyad, Al Rehab est l'une des maisons de parfumerie orientale les plus accessibles au monde. Connue pour ses huiles de parfum concentrées et ses muscs gourmands comme le célèbre Choco Musk, la marque propose des fragrances authentiques à des prix imbattables.",
       "featured": false
     },
     {
-      "slug": "paco-rabanne",
-      "name": "Paco Rabanne",
+      "slug": "amouage",
+      "name": "Amouage",
+      "origin": "Oman",
+      "featured": false,
+      "description": "Fondée en 1983 à Mascate sous le patronage du Sultan d'Oman, Amouage est considérée comme l'une des maisons de parfumerie les plus précieuses au monde. Reflection Man est une ode à la sophistication boisée. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "anna-sui",
+      "name": "Anna Sui",
+      "origin": "États-Unis",
+      "description": "Anna Sui mêle rock et romantisme. Ses parfums, dans leurs flacons distinctifs, proposent des compositions florales-fruitées ludiques.",
+      "featured": false
+    },
+    {
+      "slug": "antonio-banderas",
+      "name": "Antonio Banderas",
+      "origin": "Espagne",
+      "featured": false,
+      "description": "L'acteur espagnol Antonio Banderas a su créer une gamme de parfums masculins accessibles et généreux. The Secret est une fragrance épicée et boisée qui a conquis un large public dans le monde entier. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "arabian-oud",
+      "name": "Arabian Oud",
+      "origin": "Arabie Saoudite",
+      "featured": false,
+      "description": "Arabian Oud est l'une des plus grandes maisons de parfumerie orientale au monde, fondée à Ryad en 1982. Ses créations capturent l'essence de la culture olfactive arabe — oud, musc, ambre, rose de Taïf — dans des compositions d'une richesse et d'une générosité rares, prisées à travers tout le monde arabe et au-delà."
+    },
+    {
+      "slug": "ariana-grande",
+      "name": "Ariana Grande",
+      "origin": "États-Unis",
+      "description": "Ariana Grande a conquis la parfumerie avec Cloud, devenu un phénomène viral et l'un des parfums les plus vendus de sa génération.",
+      "featured": false
+    },
+    {
+      "slug": "armaf",
+      "name": "Armaf",
+      "origin": "Émirats Arabes Unis",
+      "featured": false,
+      "description": "Armaf est une maison de parfumerie émiratie qui s'est imposée en quelques années comme l'une des marques les plus populaires dans le segment des fragrances accessibles haut de gamme. Connue pour ses interprétations de grandes signatures olfactives mondiales, Armaf offre une qualité de jus remarquable à des prix accessibles au plus grand nombre."
+    },
+    {
+      "slug": "azzaro",
+      "name": "Azzaro",
       "origin": "France",
-      "description": "Maison fondée en 1966, Paco Rabanne est connu pour ses créations audacieuses et ses parfums iconiques comme Invictus et 1 Million.",
-      "featured": true
+      "featured": false,
+      "description": "Maison parisienne fondée par Loris Azzaro en 1967, connue pour ses créations audacieuses. Chrome est devenu un classique masculin aquatique, tandis que Wanted impose une signature épicée contemporaine. Disponibles en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "beyonce",
+      "name": "Beyoncé",
+      "origin": "États-Unis",
+      "description": "La ligne Beyoncé, lancée en 2010 avec Heat, propose des compositions sensuelles qui capturent la confiance et le glamour.",
+      "featured": false
+    },
+    {
+      "slug": "boucheron",
+      "name": "Boucheron",
+      "origin": "France",
+      "description": "Boucheron, maison de haute joaillerie parisienne fondée en 1858 Place Vendôme. Des compositions opulentes qui portent le luxe français.",
+      "featured": false
+    },
+    {
+      "slug": "britney-spears",
+      "name": "Britney Spears",
+      "origin": "États-Unis",
+      "description": "La ligne Britney Spears, lancée en 2004 avec Curious, a redéfini la parfumerie celebrity avec des compositions florales-gourmandes accessibles.",
+      "featured": false
+    },
+    {
+      "slug": "burberry",
+      "name": "Burberry",
+      "origin": "Royaume-Uni",
+      "featured": true,
+      "description": "Maison britannique fondée en 1856, Burberry est synonyme d'élégance classique et de tradition anglaise. Goddess et Brit incarnent deux visions distinctes du parfum : solaire et intense. Disponibles en Algérie avec paiement à la livraison."
+    },
+    {
+      "slug": "bvlgari",
+      "name": "Bvlgari",
+      "origin": "Italie",
+      "featured": false,
+      "description": "Joaillier romain fondé en 1884, Bvlgari a su transposer son héritage méditerranéen dans des parfums d'une grande sophistication. Pour Homme Soir incarne l'élégance nocturne italienne. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "byredo",
+      "name": "Byredo",
+      "origin": "Suède",
+      "description": "Byredo, fondée à Stockholm en 2006. Gypsy Water et Bal d'Afrique sont des références de la parfumerie niche scandinave.",
+      "featured": false
+    },
+    {
+      "slug": "cacharel",
+      "name": "Cacharel",
+      "origin": "France",
+      "featured": false,
+      "description": "Maison française connue pour ses parfums poétiques et accessibles. Amor Amor et Yes I Am incarnent la féminité enjouée et les tendances jeunes. Les parfums Cacharel sont disponibles en Algérie chez Maison Numidia avec livraison dans toutes les wilayas."
+    },
+    {
+      "slug": "calvin-klein",
+      "name": "Calvin Klein",
+      "origin": "États-Unis",
+      "featured": true,
+      "description": "Maison américaine fondée en 1968, Calvin Klein a révolutionné la parfumerie avec CK One, premier parfum unisexe grand public lancé en 1994. Une vision propre et moderne du luxe accessible. Disponible en Algérie chez Maison Numidia."
     },
     {
       "slug": "carolina-herrera",
@@ -41881,59 +41965,150 @@
       "featured": true
     },
     {
-      "slug": "valentino",
-      "name": "Valentino",
-      "origin": "Italie",
-      "description": "Maison de haute couture romaine fondée en 1960. L'élégance italienne transcrite en parfums.",
-      "featured": true
-    },
-    {
-      "slug": "parfums-de-marly",
-      "name": "Parfums de Marly",
+      "slug": "cartier",
+      "name": "Cartier",
       "origin": "France",
-      "description": "Maison de niche française fondée en 2009, inspirée de la cour de Versailles et du roi Louis XV.",
-      "featured": true
+      "featured": false,
+      "description": "Joaillier parisien fondé en 1847, Cartier crée des parfums aussi précieux que ses bijoux légendaires. Déclaration est une ode à l'homme épicé et boisé, signature intemporelle de la maison. Disponible en Algérie chez Maison Numidia."
     },
     {
-      "slug": "armani",
-      "name": "Giorgio Armani",
+      "slug": "cerruti",
+      "name": "Cerruti",
       "origin": "Italie",
-      "description": "Maison fondée en 1975 par Giorgio Armani. Sophistication italienne et élégance minimaliste.",
-      "featured": true
-    },
-    {
-      "slug": "kayali",
-      "name": "Kayali",
-      "origin": "Émirats Arabes Unis",
-      "description": "Marque fondée en 2018 par Mona Kattan (Huda Beauty). Fragrances orientales-occidentales modernes.",
-      "featured": true
-    },
-    {
-      "slug": "hugo-boss",
-      "name": "Hugo Boss",
-      "origin": "Allemagne",
-      "description": "Maison de mode allemande fondée en 1924. Des parfums masculins polyvalents et accessibles.",
+      "description": "Cerruti, fondée par Nino Cerruti en 1967. Son parfum iconique 1881 reste une référence des fragrances aromatiques fraîches.",
       "featured": false
     },
     {
-      "slug": "versace",
-      "name": "Versace",
-      "origin": "Italie",
-      "description": "Maison de luxe italienne fondée en 1978. La sensualité méditerranéenne à l'état pur.",
+      "slug": "chanel",
+      "name": "Chanel",
+      "origin": "France",
+      "description": "La maison fondée par Gabrielle Chanel en 1910 est le symbole absolu de l'élégance parisienne.",
+      "featured": true
+    },
+    {
+      "slug": "chloe",
+      "name": "Chloé",
+      "origin": "France",
+      "featured": true,
+      "description": "Maison de mode parisienne fondée en 1952, Chloé propose des parfums à l'image de son vestiaire : romantiques, féminins et intemporels. Chloé Signature est devenu une référence de la parfumerie florale contemporaine. Disponible en Algérie."
+    },
+    {
+      "slug": "chopard",
+      "name": "Chopard",
+      "origin": "Suisse",
+      "description": "Chopard, maison suisse de haute joaillerie fondée en 1860. Ses parfums reflètent son savoir-faire du luxe avec des compositions précieuses.",
       "featured": false
     },
     {
-      "slug": "narciso-rodriguez",
-      "name": "Narciso Rodriguez",
+      "slug": "coach",
+      "name": "Coach",
       "origin": "États-Unis",
-      "description": "Designer américain connu pour ses fragrances musquées sensuelles et minimalistes.",
+      "featured": false,
+      "description": "Coach est une maison américaine de luxe accessible fondée à New York en 1941, célèbre pour ses maroquineries et ses parfums. Sa gamme de fragrances féminines — Wild Rose, Dreams, Floral — reflète une féminité moderne, libre et optimiste, avec une signature florale fraîche qui a séduit des millions de femmes dans le monde."
+    },
+    {
+      "slug": "creed",
+      "name": "Creed",
+      "origin": "France",
+      "featured": false,
+      "description": "Maison fondée à Londres en 1760, Creed est l'une des rares parfumeries artisanales encore familiales. Aventus, lancé en 2010, est devenu le parfum masculin le plus imité et le plus désiré de la parfumerie de niche. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "davidoff",
+      "name": "Davidoff",
+      "origin": "Suisse",
+      "featured": false,
+      "description": "Maison suisse connue mondialement pour Cool Water, l'une des fragrances masculines les plus vendues depuis 1988. Une vision fraîche et aquatique qui a défini un genre entier. Disponible en Algérie chez Maison Numidia avec livraison Yalidine."
+    },
+    {
+      "slug": "diesel",
+      "name": "Diesel",
+      "origin": "Italie",
+      "description": "Diesel est une maison de mode italienne fondée en 1978 par Renzo Rosso à Molvena, en Vénétie. Devenue une référence mondiale du denim et du streetwear premium, la marque a étendu son ADN rebelle et urbain à la parfumerie dès les années 1990, avec des fragrances qui célèbrent l'audace, la liberté et un certain sens de la transgression. La signature Diesel mêle des accords épicés, boisés, cuirés et aromatiques, dans des compositions taillées pour des hommes qui ne cherchent ni à plaire ni à passer inaperçus. Les références phares du catalogue Maison Numidia incluent Only The Brave, son boisé épicé culte au flacon en forme de poing serré, et Only The Brave Tattoo, déclinaison plus mate et tatouée pour ceux qui veulent une version plus sombre et plus testostéronée du même ADN. En Algérie, où le marché des parfums masculins valorise les sillages affirmés et les caractères tranchés, Diesel coche toutes les cases : énergie urbaine, qualité italienne, rapport qualité-prix solide et flacons qui marquent.",
       "featured": false
     },
     {
-      "slug": "swiss-arabian",
-      "name": "Swiss Arabian",
-      "origin": "Émirats Arabes Unis",
-      "description": "Maison qui fusionne l'art du parfum suisse avec les traditions olfactives arabes.",
+      "slug": "dior",
+      "name": "Dior",
+      "origin": "France",
+      "description": "Maison de couture parisienne fondée en 1946 par Christian Dior. L'une des maisons de luxe les plus iconiques au monde.",
+      "featured": true
+    },
+    {
+      "slug": "diptyque",
+      "name": "Diptyque",
+      "origin": "France",
+      "description": "Diptyque, fondée à Paris en 1961. Do Son, Philosykos, Tam Dao racontent des voyages olfactifs uniques avec une qualité exceptionnelle.",
+      "featured": false
+    },
+    {
+      "slug": "dolce-gabbana",
+      "name": "Dolce & Gabbana",
+      "origin": "Italie",
+      "featured": true,
+      "description": "Maison italienne fondée en 1985 par Domenico Dolce et Stefano Gabbana, D&G incarne la passion méditerranéenne et l'extravagance sicilienne. Light Blue et L'Impératrice comptent parmi les fragrances les plus vendues au monde. Disponibles en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "dkny",
+      "name": "Donna Karan",
+      "origin": "États-Unis",
+      "description": "DKNY (Donna Karan New York) est une maison américaine de prêt-à-porter et de parfumerie fondée en 1989 par la créatrice Donna Karan à Manhattan. La signature DKNY traduit l'énergie de New York en parfumerie : fragrances modernes, fruitées, fraîches, urbaines et joyeuses, conçues pour des femmes et des hommes actifs qui assument leur identité contemporaine. La maison s'est rendue célèbre avec sa saga Be Delicious lancée en 2004, dont le flacon en forme de pomme verte croquée est devenu une icône instantanément reconnaissable. Le catalogue Maison Numidia met en avant Be Delicious, le best-seller pomme verte au sillage gourmand-floral, sa version masculine DKNY Be Delicious Men aux accents plus boisés, ainsi que Golden Delicious, déclinaison plus chic et solaire de la saga féminine. Sur le marché algérien, où la clientèle féminine recherche des parfums frais et fruités pour les saisons chaudes méditerranéennes, DKNY occupe une place idéale : style américain accessible, fragrances polyvalentes pour le quotidien, et un univers ludique qui plaît particulièrement aux jeunes femmes urbaines.",
+      "featured": false
+    },
+    {
+      "slug": "el-nabil",
+      "name": "El Nabil",
+      "origin": "France",
+      "featured": false,
+      "description": "Maison de parfumerie orientale fondée en France par une équipe spécialisée dans les fragrances du Golfe. El Nabil propose des extraits de parfum sans alcool, respectant les traditions islamiques. Musc Makkah est sa référence phare. Disponible en Algérie."
+    },
+    {
+      "slug": "elie-saab",
+      "name": "Elie Saab",
+      "origin": "Liban",
+      "featured": false,
+      "description": "Couturier libanais mondialement reconnu pour ses robes de haute couture, Elie Saab a transposé son univers floral et précieux dans la parfumerie. Le Parfum, sa première fragrance, est un hommage à la féminité orientale. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "elizabeth-arden",
+      "name": "Elizabeth Arden",
+      "origin": "États-Unis",
+      "featured": false,
+      "description": "Pionnière de la beauté américaine fondée en 1910, Elizabeth Arden a marqué la parfumerie avec 5th Avenue, une fragrance florale qui célèbre l'élégance new-yorkaise. Disponible en Algérie avec livraison dans toutes les wilayas."
+    },
+    {
+      "slug": "elizabeth-taylor",
+      "name": "Elizabeth Taylor",
+      "origin": "États-Unis",
+      "description": "Elizabeth Taylor a été pionnière de la parfumerie celebrity. White Diamonds reste l'un des parfums celebrity les plus vendus de l'histoire.",
+      "featured": false
+    },
+    {
+      "slug": "ungaro",
+      "name": "Emanuel Ungaro",
+      "origin": "France",
+      "description": "Emanuel Ungaro, couturier français fondé en 1965. Ses parfums capturent la sensualité de la haute couture parisienne.",
+      "featured": false
+    },
+    {
+      "slug": "escada",
+      "name": "Escada",
+      "origin": "Allemagne",
+      "description": "Escada est réputée pour ses parfums féminins fruités et joyeux. Chaque été apporte une nouvelle édition limitée colorée et gourmande.",
+      "featured": false
+    },
+    {
+      "slug": "evaflor",
+      "name": "Evaflor",
+      "origin": "France",
+      "featured": false,
+      "description": "Maison française spécialisée dans les parfums classiques et accessibles, Evaflor est l'auteur de Whisky Silver, une fragrance fougère boisée qui fidélise ses amateurs depuis des décennies. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "ex-nihilo",
+      "name": "Ex Nihilo",
+      "origin": "France",
+      "description": "Ex Nihilo, fondée à Paris en 2013. Cette maison niche crée des compositions audacieuses avec un concept de personnalisation unique.",
       "featured": false
     },
     {
@@ -41944,53 +42119,25 @@
       "featured": false
     },
     {
-      "slug": "guerlain",
-      "name": "Guerlain",
+      "slug": "frederic-malle",
+      "name": "Frédéric Malle",
       "origin": "France",
-      "featured": true,
-      "description": "Fondée en 1828, Guerlain est l'une des plus anciennes maisons de parfumerie française. De Shalimar à Mon Guerlain, chaque création porte l'empreinte d'un savoir-faire artisanal transmis de génération en génération. Ses parfums sont disponibles en Algérie chez Maison Numidia, avec livraison dans les 58 wilayas."
+      "description": "Éditions de Parfums Frédéric Malle donne carte blanche aux plus grands nez. Portrait of a Lady et Carnal Flower sont des chefs-d'œuvre olfactifs.",
+      "featured": false
     },
     {
-      "slug": "dolce-gabbana",
-      "name": "Dolce & Gabbana",
+      "slug": "armani",
+      "name": "Giorgio Armani",
       "origin": "Italie",
-      "featured": true,
-      "description": "Maison italienne fondée en 1985 par Domenico Dolce et Stefano Gabbana, D&G incarne la passion méditerranéenne et l'extravagance sicilienne. Light Blue et L'Impératrice comptent parmi les fragrances les plus vendues au monde. Disponibles en Algérie chez Maison Numidia."
+      "description": "Maison fondée en 1975 par Giorgio Armani. Sophistication italienne et élégance minimaliste.",
+      "featured": true
     },
     {
-      "slug": "mugler",
-      "name": "Mugler",
+      "slug": "givenchy",
+      "name": "Givenchy",
       "origin": "France",
-      "featured": true,
-      "description": "Maison de couture parisienne fondée par Thierry Mugler en 1974. Alien et Angel, deux piliers de la parfumerie moderne, ont révolutionné le monde du parfum avec leurs compositions audacieuses. Les parfums Mugler originaux sont disponibles en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "prada",
-      "name": "Prada",
-      "origin": "Italie",
-      "featured": true,
-      "description": "La maison Prada, fondée à Milan en 1913, allie luxe discret et sophistication intellectuelle. Prada Candy, emblème de la collection, séduit par sa douceur envoûtante. Les parfums Prada originaux sont disponibles en Algérie chez Maison Numidia, livraison Yalidine."
-    },
-    {
-      "slug": "burberry",
-      "name": "Burberry",
-      "origin": "Royaume-Uni",
-      "featured": true,
-      "description": "Maison britannique fondée en 1856, Burberry est synonyme d'élégance classique et de tradition anglaise. Goddess et Brit incarnent deux visions distinctes du parfum : solaire et intense. Disponibles en Algérie avec paiement à la livraison."
-    },
-    {
-      "slug": "calvin-klein",
-      "name": "Calvin Klein",
-      "origin": "États-Unis",
-      "featured": true,
-      "description": "Maison américaine fondée en 1968, Calvin Klein a révolutionné la parfumerie avec CK One, premier parfum unisexe grand public lancé en 1994. Une vision propre et moderne du luxe accessible. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "chloe",
-      "name": "Chloé",
-      "origin": "France",
-      "featured": true,
-      "description": "Maison de mode parisienne fondée en 1952, Chloé propose des parfums à l'image de son vestiaire : romantiques, féminins et intemporels. Chloé Signature est devenu une référence de la parfumerie florale contemporaine. Disponible en Algérie."
+      "description": "Maison parisienne fondée en 1952 par Hubert de Givenchy. Élégance et modernité.",
+      "featured": false
     },
     {
       "slug": "gucci",
@@ -42000,214 +42147,11 @@
       "description": "Maison florentine fondée en 1921, Gucci est une icône du luxe mondial. Flora Gorgeous Gardenia porte l'héritage floral de la maison avec modernité. Les parfums Gucci originaux sont disponibles en Algérie chez Maison Numidia."
     },
     {
-      "slug": "tom-ford",
-      "name": "Tom Ford",
-      "origin": "États-Unis",
-      "featured": true,
-      "description": "Fondée en 2005 par le designer américain Tom Ford, la maison éponyme incarne le luxe sombre et la sophistication absolue. Black Orchid est devenu un classique moderne de la parfumerie de niche. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "louis-vuitton",
-      "name": "Louis Vuitton",
+      "slug": "guerlain",
+      "name": "Guerlain",
       "origin": "France",
       "featured": true,
-      "description": "La première maison de luxe mondiale, fondée à Paris en 1854, a lancé sa ligne de parfums en 2016. Ombre Nomade, hommage à l'oud et aux voyages, est l'une des créations les plus prisées des amateurs de parfums orientaux. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "cacharel",
-      "name": "Cacharel",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison française connue pour ses parfums poétiques et accessibles. Amor Amor et Yes I Am incarnent la féminité enjouée et les tendances jeunes. Les parfums Cacharel sont disponibles en Algérie chez Maison Numidia avec livraison dans toutes les wilayas."
-    },
-    {
-      "slug": "kenzo",
-      "name": "Kenzo",
-      "origin": "France",
-      "featured": false,
-      "description": "Fondée en 1970 par Kenzo Takada, la maison mêle influences japonaises et liberté parisienne. Flower by Kenzo et L'Eau Kenzo sont devenus des classiques du quotidien. Les parfums Kenzo originaux sont disponibles en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "elie-saab",
-      "name": "Elie Saab",
-      "origin": "Liban",
-      "featured": false,
-      "description": "Couturier libanais mondialement reconnu pour ses robes de haute couture, Elie Saab a transposé son univers floral et précieux dans la parfumerie. Le Parfum, sa première fragrance, est un hommage à la féminité orientale. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "yves-rocher",
-      "name": "Yves Rocher",
-      "origin": "France",
-      "featured": false,
-      "description": "Fondée en 1959 en Bretagne, Yves Rocher est pionnière de la cosmétique végétale. Ses parfums, accessibles et naturels, plaisent par leur fraîcheur sincère. Comme une Évidence reste son bestseller absolu. Disponible en Algérie avec paiement à la livraison."
-    },
-    {
-      "slug": "lanvin",
-      "name": "Lanvin",
-      "origin": "France",
-      "featured": false,
-      "description": "Fondée en 1889, Lanvin est la plus ancienne maison de couture française encore active. Éclat d'Arpège, son parfum phare, célèbre la légèreté florale avec une élégance intemporelle. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "amouage",
-      "name": "Amouage",
-      "origin": "Oman",
-      "featured": false,
-      "description": "Fondée en 1983 à Mascate sous le patronage du Sultan d'Oman, Amouage est considérée comme l'une des maisons de parfumerie les plus précieuses au monde. Reflection Man est une ode à la sophistication boisée. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "jimmy-choo",
-      "name": "Jimmy Choo",
-      "origin": "Royaume-Uni",
-      "featured": false,
-      "description": "Maison britannique fondée en 1996, Jimmy Choo transpose son élégance glamour dans la parfumerie. Jimmy Choo Femme EDP séduit par sa facette florale et cuirée, reflet d'une féminité assumée. Disponible en Algérie avec paiement à la livraison."
-    },
-    {
-      "slug": "marc-jacobs",
-      "name": "Marc Jacobs",
-      "origin": "États-Unis",
-      "featured": false,
-      "description": "Designer new-yorkais iconique, Marc Jacobs a su créer des fragrances aussi emblématiques que sa mode. Daisy, avec son flacon printanier, est l'un des parfums féminins les plus reconnaissables de sa génération. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "nishane",
-      "name": "Nishane",
-      "origin": "Turquie",
-      "featured": false,
-      "description": "Maison de parfumerie de niche fondée à Istanbul en 2012, Nishane crée des compositions d'exception qui puisent dans les traditions orientales et occidentales. Ani est une célébration florale d'une rare complexité. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "creed",
-      "name": "Creed",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison fondée à Londres en 1760, Creed est l'une des rares parfumeries artisanales encore familiales. Aventus, lancé en 2010, est devenu le parfum masculin le plus imité et le plus désiré de la parfumerie de niche. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "elizabeth-arden",
-      "name": "Elizabeth Arden",
-      "origin": "États-Unis",
-      "featured": false,
-      "description": "Pionnière de la beauté américaine fondée en 1910, Elizabeth Arden a marqué la parfumerie avec 5th Avenue, une fragrance florale qui célèbre l'élégance new-yorkaise. Disponible en Algérie avec livraison dans toutes les wilayas."
-    },
-    {
-      "slug": "mont-blanc",
-      "name": "Mont Blanc",
-      "origin": "Allemagne",
-      "featured": false,
-      "description": "Maison d'excellence fondée à Hambourg en 1906, Mont Blanc a développé une gamme de parfums aussi raffinés que ses célèbres stylos. Explorer et Lady Emblem incarnent l'aventure et la féminité moderne. Disponibles en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "jean-patou",
-      "name": "Jean Patou",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison parisienne fondée en 1914, Jean Patou est l'auteur de Joy, considérée pendant des décennies comme le parfum le plus cher du monde. Un héritage floral d'une richesse exceptionnelle. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "mauboussin",
-      "name": "Mauboussin",
-      "origin": "France",
-      "featured": false,
-      "description": "Joaillier parisien fondé en 1827, Mauboussin a transposé son art du bijou précieux dans la parfumerie. Pour Elle séduit par sa douceur fruitée et florale, accessible et raffinée. Disponible en Algérie avec paiement à la livraison."
-    },
-    {
-      "slug": "azzaro",
-      "name": "Azzaro",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison parisienne fondée par Loris Azzaro en 1967, connue pour ses créations audacieuses. Chrome est devenu un classique masculin aquatique, tandis que Wanted impose une signature épicée contemporaine. Disponibles en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "el-nabil",
-      "name": "El Nabil",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison de parfumerie orientale fondée en France par une équipe spécialisée dans les fragrances du Golfe. El Nabil propose des extraits de parfum sans alcool, respectant les traditions islamiques. Musc Makkah est sa référence phare. Disponible en Algérie."
-    },
-    {
-      "slug": "davidoff",
-      "name": "Davidoff",
-      "origin": "Suisse",
-      "featured": false,
-      "description": "Maison suisse connue mondialement pour Cool Water, l'une des fragrances masculines les plus vendues depuis 1988. Une vision fraîche et aquatique qui a défini un genre entier. Disponible en Algérie chez Maison Numidia avec livraison Yalidine."
-    },
-    {
-      "slug": "van-cleef-arpels",
-      "name": "Van Cleef & Arpels",
-      "origin": "France",
-      "featured": false,
-      "description": "Joaillier parisien fondé en 1906, Van Cleef & Arpels crée des parfums aussi précieux que ses joyaux. Féerie célèbre la magie et la femme avec une composition florale d'une grande délicatesse. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "zadig-voltaire",
-      "name": "Zadig & Voltaire",
-      "origin": "France",
-      "featured": false,
-      "description": "Marque parisienne fondée en 1997, Zadig & Voltaire incarne le rock chic et la liberté créative. This Is Her! impose un caractère boisé et cuiré résolument féminin et contemporain. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "rasasi",
-      "name": "Rasasi",
-      "origin": "Émirats Arabes Unis",
-      "featured": false,
-      "description": "Maison de parfumerie du Golfe fondée à Dubaï en 1979, Rasasi crée des fragrances orientales de haute qualité à des prix accessibles. Hawas est devenu un incontournable pour les amateurs d'oud et d'ambre. Disponible en Algérie."
-    },
-    {
-      "slug": "bvlgari",
-      "name": "Bvlgari",
-      "origin": "Italie",
-      "featured": false,
-      "description": "Joaillier romain fondé en 1884, Bvlgari a su transposer son héritage méditerranéen dans des parfums d'une grande sophistication. Pour Homme Soir incarne l'élégance nocturne italienne. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "cartier",
-      "name": "Cartier",
-      "origin": "France",
-      "featured": false,
-      "description": "Joaillier parisien fondé en 1847, Cartier crée des parfums aussi précieux que ses bijoux légendaires. Déclaration est une ode à l'homme épicé et boisé, signature intemporelle de la maison. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "lacoste",
-      "name": "Lacoste",
-      "origin": "France",
-      "featured": false,
-      "description": "Marque française fondée en 1933 par le tennisman René Lacoste, Lacoste incarne le sportswear chic et la fraîcheur. L.12.12 Noir apporte une dimension sombre et boisée à l'univers habituellement lumineux de la marque. Disponible en Algérie."
-    },
-    {
-      "slug": "nautica",
-      "name": "Nautica",
-      "origin": "États-Unis",
-      "featured": false,
-      "description": "Marque américaine ancrée dans l'univers nautique, Nautica propose des parfums frais et marins accessibles. Voyage est une référence aquatique masculine incontournable depuis 1992. Disponible en Algérie chez Maison Numidia avec livraison Yalidine."
-    },
-    {
-      "slug": "viktor-rolf",
-      "name": "Viktor & Rolf",
-      "origin": "Pays-Bas",
-      "featured": false,
-      "description": "Duo de créateurs hollandais reconnus pour leur approche conceptuelle de la mode, Viktor & Rolf crée des parfums décalés et iconiques. Spicebomb et Bonbon sont deux blockbusters olfactifs qui ont marqué leur décennie. Disponibles en Algérie."
-    },
-    {
-      "slug": "michael-kors",
-      "name": "Michael Kors",
-      "origin": "États-Unis",
-      "featured": false,
-      "description": "Designer américain symbole du luxe accessible, Michael Kors propose des parfums glamour et féminins. Gorgeous! capture la confiance et l'éclat d'une femme moderne. Disponible en Algérie chez Maison Numidia avec paiement à la livraison."
-    },
-    {
-      "slug": "ralph-lauren",
-      "name": "Ralph Lauren",
-      "origin": "États-Unis",
-      "featured": false,
-      "description": "Créateur américain fondé en 1967, Ralph Lauren incarne le rêve américain et l'élégance preppy. Romance est une fragrance florale romantique devenue un classique intemporel. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "guy-laroche",
-      "name": "Guy Laroche",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison de couture parisienne fondée en 1957, Guy Laroche reste dans les mémoires grâce à Drakkar Noir, parfum masculin culte des années 80 qui continue de séduire les nouvelles générations. Disponible en Algérie."
+      "description": "Fondée en 1828, Guerlain est l'une des plus anciennes maisons de parfumerie française. De Shalimar à Mon Guerlain, chaque création porte l'empreinte d'un savoir-faire artisanal transmis de génération en génération. Ses parfums sont disponibles en Algérie chez Maison Numidia, avec livraison dans les 58 wilayas."
     },
     {
       "slug": "guess",
@@ -42217,95 +42161,11 @@
       "description": "Marque américaine fondée en 1981, Guess associe glamour californien et accessibilité. Seductive Homme est une fragrance fraîche et séductrice pensée pour l'homme moderne. Disponible en Algérie chez Maison Numidia."
     },
     {
-      "slug": "miu-miu",
-      "name": "Miu Miu",
-      "origin": "Italie",
-      "featured": false,
-      "description": "Ligne créative de Miuccia Prada fondée en 1993, Miu Miu propose des parfums aussi audacieux que sa mode. L'Eau Bleue est une fragrance fraîche et féminine qui marie iris et notes aquatiques avec finesse. Disponible en Algérie."
-    },
-    {
-      "slug": "rochas",
-      "name": "Rochas",
+      "slug": "guy-laroche",
+      "name": "Guy Laroche",
       "origin": "France",
       "featured": false,
-      "description": "Maison parisienne fondée en 1925 par Marcel Rochas, connue pour ses parfums élégants et accessibles. Mademoiselle Rochas est une fragrance florale poudreuse qui célèbre la jeune femme française. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "issey-miyake",
-      "name": "Issey Miyake",
-      "origin": "Japon",
-      "featured": false,
-      "description": "Créateur japonais visionnaire fondé en 1970, Issey Miyake a révolutionné la parfumerie avec L'Eau d'Issey, symbole de pureté aquatique et de minimalisme japonais. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "maison-francis-kurkdjian",
-      "name": "Maison Francis Kurkdjian",
-      "origin": "France",
-      "featured": false,
-      "description": "Fondée en 2009 par Francis Kurkdjian, l'un des plus grands nez de sa génération, cette maison parisienne incarne le luxe contemporain. Baccarat Rouge 540 est devenu la fragrance niche la plus copiée et la plus désirée au monde. Disponible en Algérie."
-    },
-    {
-      "slug": "victorias-secret",
-      "name": "Victoria's Secret",
-      "origin": "États-Unis",
-      "featured": false,
-      "description": "Marque américaine emblématique de la lingerie et de la beauté féminine, Victoria's Secret propose des parfums glamour et accessibles. Bombshell est devenu le parfum féminin le plus vendu de la marque. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "antonio-banderas",
-      "name": "Antonio Banderas",
-      "origin": "Espagne",
-      "featured": false,
-      "description": "L'acteur espagnol Antonio Banderas a su créer une gamme de parfums masculins accessibles et généreux. The Secret est une fragrance épicée et boisée qui a conquis un large public dans le monde entier. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "shakira",
-      "name": "Shakira",
-      "origin": "Colombie",
-      "featured": false,
-      "description": "La star mondiale colombienne a décliné son énergie et sa sensualité dans une ligne de parfums féminins accessibles. Dance est une fragrance fruitée et florale qui capture l'essence de la liberté. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "pierre-cardin",
-      "name": "Pierre Cardin",
-      "origin": "France",
-      "featured": false,
-      "description": "Couturier français d'origine italienne, Pierre Cardin fut l'un des pionniers du prêt-à-porter de luxe. Pour Monsieur est un classique fougère chypré qui incarne l'élégance masculine française des années 70. Disponible en Algérie."
-    },
-    {
-      "slug": "evaflor",
-      "name": "Evaflor",
-      "origin": "France",
-      "featured": false,
-      "description": "Maison française spécialisée dans les parfums classiques et accessibles, Evaflor est l'auteur de Whisky Silver, une fragrance fougère boisée qui fidélise ses amateurs depuis des décennies. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "xerjoff",
-      "name": "Xerjoff",
-      "origin": "Italie",
-      "featured": false,
-      "description": "Maison de parfumerie de niche fondée à Turin en 2003, Xerjoff est reconnue pour ses flacons d'exception et ses compositions olfactives d'une grande complexité. Naxos est une référence absolue de la parfumerie orientale masculine. Disponible en Algérie."
-    },
-    {
-      "slug": "roja-dove",
-      "name": "Roja Dove",
-      "origin": "Royaume-Uni",
-      "featured": false,
-      "description": "Fondée par Roja Dove, considéré comme l'un des plus grands parfumeurs britanniques, cette maison propose des extraits de parfum d'une concentration et d'une qualité rares. Elysium Pour Homme est une ode à l'élégance masculine intemporelle. Disponible en Algérie."
-    },
-    {
-      "slug": "adopt-mon-parfum",
-      "name": "Adopt Mon Parfum",
-      "origin": "France",
-      "featured": false,
-      "description": "Marque française fondée à Lyon en 1986, Adopt Mon Parfum propose des parfums abordables et variés en petits formats. Narcotique est sa fragrance la plus populaire, un floral oriental généreux et accessible. Disponible en Algérie chez Maison Numidia."
-    },
-    {
-      "slug": "zara",
-      "name": "Zara",
-      "origin": "Espagne",
-      "featured": false,
-      "description": "Enseigne espagnole mondiale fondée en 1975, Zara a développé une gamme de parfums accessibles et tendance. Rose Gold est une fragrance florale fruitée légère, parfaite pour le quotidien. Disponible en Algérie chez Maison Numidia avec paiement à la livraison."
+      "description": "Maison de couture parisienne fondée en 1957, Guy Laroche reste dans les mémoires grâce à Drakkar Noir, parfum masculin culte des années 80 qui continue de séduire les nouvelles générations. Disponible en Algérie."
     },
     {
       "slug": "hermes",
@@ -42315,53 +42175,53 @@
       "featured": false
     },
     {
-      "slug": "nina-ricci",
-      "name": "Nina Ricci",
+      "slug": "hugo-boss",
+      "name": "Hugo Boss",
+      "origin": "Allemagne",
+      "description": "Maison de mode allemande fondée en 1924. Des parfums masculins polyvalents et accessibles.",
+      "featured": false
+    },
+    {
+      "slug": "initio",
+      "name": "Initio",
+      "origin": "France",
+      "description": "Initio Parfums Privés explore le pouvoir des phéromones. Oud for Greatness et Side Effect repoussent les limites de la parfumerie.",
+      "featured": false
+    },
+    {
+      "slug": "issey-miyake",
+      "name": "Issey Miyake",
+      "origin": "Japon",
+      "featured": false,
+      "description": "Créateur japonais visionnaire fondé en 1970, Issey Miyake a révolutionné la parfumerie avec L'Eau d'Issey, symbole de pureté aquatique et de minimalisme japonais. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "jean-patou",
+      "name": "Jean Patou",
       "origin": "France",
       "featured": false,
-      "description": "Fondée en 1932 à Paris, Nina Ricci est une maison de couture et de parfumerie qui a su traverser les décennies avec grâce. Ses parfums, dont le légendaire L'Air du Temps et le succès mondial Nina au flacon pomme, reflètent une féminité romantique et poétique chère à la maison."
+      "description": "Maison parisienne fondée en 1914, Jean Patou est l'auteur de Joy, considérée pendant des décennies comme le parfum le plus cher du monde. Un héritage floral d'une richesse exceptionnelle. Disponible en Algérie chez Maison Numidia."
     },
     {
-      "slug": "arabian-oud",
-      "name": "Arabian Oud",
-      "origin": "Arabie Saoudite",
-      "featured": false,
-      "description": "Arabian Oud est l'une des plus grandes maisons de parfumerie orientale au monde, fondée à Ryad en 1982. Ses créations capturent l'essence de la culture olfactive arabe — oud, musc, ambre, rose de Taïf — dans des compositions d'une richesse et d'une générosité rares, prisées à travers tout le monde arabe et au-delà."
+      "slug": "jean-paul-gaultier",
+      "name": "Jean Paul Gaultier",
+      "origin": "France",
+      "description": "L'enfant terrible de la mode française. Des flacons iconiques, des parfums qui osent.",
+      "featured": true
     },
     {
-      "slug": "armaf",
-      "name": "Armaf",
-      "origin": "Émirats Arabes Unis",
-      "featured": false,
-      "description": "Armaf est une maison de parfumerie émiratie qui s'est imposée en quelques années comme l'une des marques les plus populaires dans le segment des fragrances accessibles haut de gamme. Connue pour ses interprétations de grandes signatures olfactives mondiales, Armaf offre une qualité de jus remarquable à des prix accessibles au plus grand nombre."
-    },
-    {
-      "slug": "coach",
-      "name": "Coach",
+      "slug": "jennifer-lopez",
+      "name": "Jennifer Lopez",
       "origin": "États-Unis",
-      "featured": false,
-      "description": "Coach est une maison américaine de luxe accessible fondée à New York en 1941, célèbre pour ses maroquineries et ses parfums. Sa gamme de fragrances féminines — Wild Rose, Dreams, Floral — reflète une féminité moderne, libre et optimiste, avec une signature florale fraîche qui a séduit des millions de femmes dans le monde."
+      "description": "Jennifer Lopez a lancé Glow en 2002, créant un phénomène. Une fragrance fraîche qui a inspiré toute une génération de parfums.",
+      "featured": false
     },
     {
-      "slug": "montale",
-      "name": "Montale",
-      "origin": "France",
+      "slug": "jimmy-choo",
+      "name": "Jimmy Choo",
+      "origin": "Royaume-Uni",
       "featured": false,
-      "description": "Montale Paris est une maison de parfumerie niche fondée en 2003 par Pierre Montale après des années passées en Arabie Saoudite. Spécialisée dans les fragrances à base d'oud, de rose et de muscs orientaux, la maison propose des parfums d'une richesse et d'une générosité caractéristiques, appréciés dans tout le monde arabe et au-delà."
-    },
-    {
-      "slug": "mancera",
-      "name": "Mancera",
-      "origin": "France",
-      "featured": false,
-      "description": "Mancera est une maison de parfumerie niche parisienne fondée en 2008 par Pierre Montale et son fils David Montale. Alliant savoir-faire de la parfumerie française et inspiration orientale, Mancera propose des fragrances d'une qualité niche à des prix accessibles — un positionnement qui lui a valu une popularité croissante notamment en Algérie et dans le monde arabe."
-    },
-    {
-      "slug": "lolita-lempicka",
-      "name": "Lolita Lempicka",
-      "origin": "France",
-      "featured": false,
-      "description": "Lolita Lempicka est une maison de parfumerie française née en 1997, dont le premier parfum — au célèbre flacon pomme violette — est devenu un classique immédiat. Poétique, onirique et résolument féminin, le style Lolita Lempicka s'inspire des contes de fées revisités pour créer des fragrances d'une gourmandise florale unique."
+      "description": "Maison britannique fondée en 1996, Jimmy Choo transpose son élégance glamour dans la parfumerie. Jimmy Choo Femme EDP séduit par sa facette florale et cuirée, reflet d'une féminité assumée. Disponible en Algérie avec paiement à la livraison."
     },
     {
       "slug": "jo-malone",
@@ -42378,178 +42238,10 @@
       "featured": false
     },
     {
-      "slug": "diesel",
-      "name": "Diesel",
-      "origin": "Italie",
-      "description": "Diesel est une maison de mode italienne fondée en 1978 par Renzo Rosso à Molvena, en Vénétie. Devenue une référence mondiale du denim et du streetwear premium, la marque a étendu son ADN rebelle et urbain à la parfumerie dès les années 1990, avec des fragrances qui célèbrent l'audace, la liberté et un certain sens de la transgression. La signature Diesel mêle des accords épicés, boisés, cuirés et aromatiques, dans des compositions taillées pour des hommes qui ne cherchent ni à plaire ni à passer inaperçus. Les références phares du catalogue Maison Numidia incluent Only The Brave, son boisé épicé culte au flacon en forme de poing serré, et Only The Brave Tattoo, déclinaison plus mate et tatouée pour ceux qui veulent une version plus sombre et plus testostéronée du même ADN. En Algérie, où le marché des parfums masculins valorise les sillages affirmés et les caractères tranchés, Diesel coche toutes les cases : énergie urbaine, qualité italienne, rapport qualité-prix solide et flacons qui marquent.",
-      "featured": false
-    },
-    {
-      "slug": "ajmal",
-      "name": "Ajmal",
-      "origin": "Émirats arabes unis",
-      "description": "Ajmal Perfumes est une maison émiratie de parfumerie orientale fondée en 1951 à Hojai, en Inde, avant d'établir son siège à Dubaï. Quatre générations d'expertise familiale autour de l'oud ont fait d'Ajmal l'un des grands noms incontournables de la parfumerie arabe, avec ses propres plantations d'agar (oud) en Asie du Sud-Est et ses ateliers de distillation traditionnels. La signature olfactive Ajmal repose sur des matières premières nobles travaillées dans la pure tradition arabe : oud authentique, rose de Taïf, ambre, musc, safran et bois précieux. Le catalogue Maison Numidia met en avant des références emblématiques comme Amber Wood, oriental boisé chaleureux, Aurum, fragrance féminine ambrée luxueuse, Wisal pour la sensualité raffinée, ainsi que les gammes masculines et féminines Evoke et Sacrifice qui jouent sur la profondeur du oud et la richesse des résines. Pour le marché algérien, où l'attachement aux notes orientales authentiques relève du patrimoine quotidien, Ajmal incarne l'option premium accessible : la qualité Dubaï à des prix maîtrisés.",
-      "featured": false
-    },
-    {
-      "slug": "dkny",
-      "name": "Donna Karan",
-      "origin": "États-Unis",
-      "description": "DKNY (Donna Karan New York) est une maison américaine de prêt-à-porter et de parfumerie fondée en 1989 par la créatrice Donna Karan à Manhattan. La signature DKNY traduit l'énergie de New York en parfumerie : fragrances modernes, fruitées, fraîches, urbaines et joyeuses, conçues pour des femmes et des hommes actifs qui assument leur identité contemporaine. La maison s'est rendue célèbre avec sa saga Be Delicious lancée en 2004, dont le flacon en forme de pomme verte croquée est devenu une icône instantanément reconnaissable. Le catalogue Maison Numidia met en avant Be Delicious, le best-seller pomme verte au sillage gourmand-floral, sa version masculine DKNY Be Delicious Men aux accents plus boisés, ainsi que Golden Delicious, déclinaison plus chic et solaire de la saga féminine. Sur le marché algérien, où la clientèle féminine recherche des parfums frais et fruités pour les saisons chaudes méditerranéennes, DKNY occupe une place idéale : style américain accessible, fragrances polyvalentes pour le quotidien, et un univers ludique qui plaît particulièrement aux jeunes femmes urbaines.",
-      "featured": false
-    },
-    {
-      "slug": "lalique",
-      "name": "Lalique",
+      "slug": "juliette-has-a-gun",
+      "name": "Juliette Has a Gun",
       "origin": "France",
-      "description": "Lalique est une maison française mythique fondée en 1888 par René Lalique, maître verrier et joaillier de l'Art nouveau puis de l'Art déco. Avant de devenir une référence parfumée à part entière, Lalique a d'abord façonné les flacons des plus grandes maisons de parfumerie du XXe siècle, posant les bases de l'esthétique du parfum moderne. La maison crée ses propres fragrances depuis 1992, avec une signature olfactive qui marie tradition française, minéralité boisée et émotion artistique. Chaque flacon Lalique reste une pièce de cristal travaillée dans la manufacture historique de Wingen-sur-Moder, en Alsace. Le catalogue Maison Numidia présente trois références emblématiques : Encre Noire, le vétiver sombre culte aux notes de cyprès et de musc devenu un classique du gentleman discret, L'Insoumis, plus aromatique et frais autour de la lavande et du néroli, ainsi qu'Amour, fragrance féminine vanillée et solaire. Pour la clientèle algérienne en quête de signatures distinguées, Lalique offre cette élégance silencieuse de la haute parfumerie française à un positionnement plus accessible que les grandes maisons couture.",
-      "featured": false
-    },
-    {
-      "slug": "al-rehab",
-      "name": "Al Rehab",
-      "origin": "Arabie Saoudite",
-      "description": "Fondée en 1975 à Riyad, Al Rehab est l'une des maisons de parfumerie orientale les plus accessibles au monde. Connue pour ses huiles de parfum concentrées et ses muscs gourmands comme le célèbre Choco Musk, la marque propose des fragrances authentiques à des prix imbattables.",
-      "featured": false
-    },
-    {
-      "slug": "maison-margiela",
-      "name": "Maison Margiela",
-      "origin": "France",
-      "description": "Maison Margiela, fondée en 1988, est connue pour sa collection Replica. Chaque fragrance capture un souvenir précis avec une authenticité olfactive remarquable.",
-      "featured": false
-    },
-    {
-      "slug": "roberto-cavalli",
-      "name": "Roberto Cavalli",
-      "origin": "Italie",
-      "description": "Roberto Cavalli incarne le glamour italien. Ses parfums reflètent une audace sensuelle avec des notes de fleurs exotiques et de bois précieux.",
-      "featured": false
-    },
-    {
-      "slug": "salvatore-ferragamo",
-      "name": "Salvatore Ferragamo",
-      "origin": "Italie",
-      "description": "Salvatore Ferragamo, maison de luxe italienne fondée en 1927. Ses parfums allient élégance florentine et modernité.",
-      "featured": false
-    },
-    {
-      "slug": "moschino",
-      "name": "Moschino",
-      "origin": "Italie",
-      "description": "Moschino, fondée en 1983, est connue pour son approche ludique du luxe. Ses parfums, dans des flacons originaux, cachent des compositions de grande qualité.",
-      "featured": false
-    },
-    {
-      "slug": "escada",
-      "name": "Escada",
-      "origin": "Allemagne",
-      "description": "Escada est réputée pour ses parfums féminins fruités et joyeux. Chaque été apporte une nouvelle édition limitée colorée et gourmande.",
-      "featured": false
-    },
-    {
-      "slug": "cerruti",
-      "name": "Cerruti",
-      "origin": "Italie",
-      "description": "Cerruti, fondée par Nino Cerruti en 1967. Son parfum iconique 1881 reste une référence des fragrances aromatiques fraîches.",
-      "featured": false
-    },
-    {
-      "slug": "chopard",
-      "name": "Chopard",
-      "origin": "Suisse",
-      "description": "Chopard, maison suisse de haute joaillerie fondée en 1860. Ses parfums reflètent son savoir-faire du luxe avec des compositions précieuses.",
-      "featured": false
-    },
-    {
-      "slug": "trussardi",
-      "name": "Trussardi",
-      "origin": "Italie",
-      "description": "Trussardi, maison de mode italienne fondée en 1911 à Bergame. Du cuir raffiné aux accords frais, chaque fragrance porte le style italien.",
-      "featured": false
-    },
-    {
-      "slug": "nikos",
-      "name": "Nikos",
-      "origin": "France",
-      "description": "Nikos est connu pour sa ligne Sculpture. Sculpture pour Homme est devenue un classique des fragrances fraîches et aqueuses masculines.",
-      "featured": false
-    },
-    {
-      "slug": "britney-spears",
-      "name": "Britney Spears",
-      "origin": "États-Unis",
-      "description": "La ligne Britney Spears, lancée en 2004 avec Curious, a redéfini la parfumerie celebrity avec des compositions florales-gourmandes accessibles.",
-      "featured": false
-    },
-    {
-      "slug": "boucheron",
-      "name": "Boucheron",
-      "origin": "France",
-      "description": "Boucheron, maison de haute joaillerie parisienne fondée en 1858 Place Vendôme. Des compositions opulentes qui portent le luxe français.",
-      "featured": false
-    },
-    {
-      "slug": "kate-spade",
-      "name": "Kate Spade",
-      "origin": "États-Unis",
-      "description": "Kate Spade New York, fondée en 1993, connue pour son style coloré et optimiste. Ses parfums capturent cette joie de vivre.",
-      "featured": false
-    },
-    {
-      "slug": "afnan",
-      "name": "Afnan",
-      "origin": "Émirats Arabes Unis",
-      "description": "Afnan Perfumes est une référence de la parfumerie orientale accessible. Son best-seller 9PM offre des compositions riches à prix compétitifs.",
-      "featured": false
-    },
-    {
-      "slug": "acqua-di-parma",
-      "name": "Acqua di Parma",
-      "origin": "Italie",
-      "description": "Acqua di Parma, fondée en 1916. Sa Colonia originale est un monument de la parfumerie, un agrume hespéridé qui a traversé plus d'un siècle.",
-      "featured": false
-    },
-    {
-      "slug": "kilian",
-      "name": "Kilian",
-      "origin": "France",
-      "description": "Kilian Paris, fondée par Kilian Hennessy en 2007. Angels' Share et Love Don't Be Shy sont des icônes de la parfumerie niche contemporaine.",
-      "featured": false
-    },
-    {
-      "slug": "initio",
-      "name": "Initio",
-      "origin": "France",
-      "description": "Initio Parfums Privés explore le pouvoir des phéromones. Oud for Greatness et Side Effect repoussent les limites de la parfumerie.",
-      "featured": false
-    },
-    {
-      "slug": "frederic-malle",
-      "name": "Frédéric Malle",
-      "origin": "France",
-      "description": "Éditions de Parfums Frédéric Malle donne carte blanche aux plus grands nez. Portrait of a Lady et Carnal Flower sont des chefs-d'œuvre olfactifs.",
-      "featured": false
-    },
-    {
-      "slug": "byredo",
-      "name": "Byredo",
-      "origin": "Suède",
-      "description": "Byredo, fondée à Stockholm en 2006. Gypsy Water et Bal d'Afrique sont des références de la parfumerie niche scandinave.",
-      "featured": false
-    },
-    {
-      "slug": "diptyque",
-      "name": "Diptyque",
-      "origin": "France",
-      "description": "Diptyque, fondée à Paris en 1961. Do Son, Philosykos, Tam Dao racontent des voyages olfactifs uniques avec une qualité exceptionnelle.",
-      "featured": false
-    },
-    {
-      "slug": "elizabeth-taylor",
-      "name": "Elizabeth Taylor",
-      "origin": "États-Unis",
-      "description": "Elizabeth Taylor a été pionnière de la parfumerie celebrity. White Diamonds reste l'un des parfums celebrity les plus vendus de l'histoire.",
+      "description": "Juliette Has a Gun, fondée par Romano Ricci en 2005. Not a Perfume, sa création la plus célèbre, ne contient qu'une seule molécule.",
       "featured": false
     },
     {
@@ -42560,53 +42252,109 @@
       "featured": false
     },
     {
-      "slug": "ungaro",
-      "name": "Emanuel Ungaro",
+      "slug": "kate-spade",
+      "name": "Kate Spade",
+      "origin": "États-Unis",
+      "description": "Kate Spade New York, fondée en 1993, connue pour son style coloré et optimiste. Ses parfums capturent cette joie de vivre.",
+      "featured": false
+    },
+    {
+      "slug": "kayali",
+      "name": "Kayali",
+      "origin": "Émirats Arabes Unis",
+      "description": "Marque fondée en 2018 par Mona Kattan (Huda Beauty). Fragrances orientales-occidentales modernes.",
+      "featured": true
+    },
+    {
+      "slug": "kenzo",
+      "name": "Kenzo",
       "origin": "France",
-      "description": "Emanuel Ungaro, couturier français fondé en 1965. Ses parfums capturent la sensualité de la haute couture parisienne.",
-      "featured": false
+      "featured": false,
+      "description": "Fondée en 1970 par Kenzo Takada, la maison mêle influences japonaises et liberté parisienne. Flower by Kenzo et L'Eau Kenzo sont devenus des classiques du quotidien. Les parfums Kenzo originaux sont disponibles en Algérie chez Maison Numidia."
     },
     {
-      "slug": "st-dupont",
-      "name": "S.T. Dupont",
+      "slug": "kilian",
+      "name": "Kilian",
       "origin": "France",
-      "description": "S.T. Dupont, fondée en 1872. Ses parfums portent la même exigence de qualité que ses briquets et stylos légendaires.",
+      "description": "Kilian Paris, fondée par Kilian Hennessy en 2007. Angels' Share et Love Don't Be Shy sont des icônes de la parfumerie niche contemporaine.",
       "featured": false
     },
     {
-      "slug": "jennifer-lopez",
-      "name": "Jennifer Lopez",
-      "origin": "États-Unis",
-      "description": "Jennifer Lopez a lancé Glow en 2002, créant un phénomène. Une fragrance fraîche qui a inspiré toute une génération de parfums.",
+      "slug": "lacoste",
+      "name": "Lacoste",
+      "origin": "France",
+      "featured": false,
+      "description": "Marque française fondée en 1933 par le tennisman René Lacoste, Lacoste incarne le sportswear chic et la fraîcheur. L.12.12 Noir apporte une dimension sombre et boisée à l'univers habituellement lumineux de la marque. Disponible en Algérie."
+    },
+    {
+      "slug": "lalique",
+      "name": "Lalique",
+      "origin": "France",
+      "description": "Lalique est une maison française mythique fondée en 1888 par René Lalique, maître verrier et joaillier de l'Art nouveau puis de l'Art déco. Avant de devenir une référence parfumée à part entière, Lalique a d'abord façonné les flacons des plus grandes maisons de parfumerie du XXe siècle, posant les bases de l'esthétique du parfum moderne. La maison crée ses propres fragrances depuis 1992, avec une signature olfactive qui marie tradition française, minéralité boisée et émotion artistique. Chaque flacon Lalique reste une pièce de cristal travaillée dans la manufacture historique de Wingen-sur-Moder, en Alsace. Le catalogue Maison Numidia présente trois références emblématiques : Encre Noire, le vétiver sombre culte aux notes de cyprès et de musc devenu un classique du gentleman discret, L'Insoumis, plus aromatique et frais autour de la lavande et du néroli, ainsi qu'Amour, fragrance féminine vanillée et solaire. Pour la clientèle algérienne en quête de signatures distinguées, Lalique offre cette élégance silencieuse de la haute parfumerie française à un positionnement plus accessible que les grandes maisons couture.",
       "featured": false
     },
     {
-      "slug": "beyonce",
-      "name": "Beyoncé",
-      "origin": "États-Unis",
-      "description": "La ligne Beyoncé, lancée en 2010 avec Heat, propose des compositions sensuelles qui capturent la confiance et le glamour.",
+      "slug": "lancome",
+      "name": "Lancôme",
+      "origin": "France",
+      "description": "Maison de beauté française fondée en 1935. La féminité et l'élégance à la française.",
+      "featured": true
+    },
+    {
+      "slug": "lanvin",
+      "name": "Lanvin",
+      "origin": "France",
+      "featured": false,
+      "description": "Fondée en 1889, Lanvin est la plus ancienne maison de couture française encore active. Éclat d'Arpège, son parfum phare, célèbre la légèreté florale avec une élégance intemporelle. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "lattafa",
+      "name": "Lattafa",
+      "origin": "Émirats Arabes Unis",
+      "description": "Maison émiratie spécialisée dans les parfums orientaux de qualité à prix accessible.",
+      "featured": true
+    },
+    {
+      "slug": "lolita-lempicka",
+      "name": "Lolita Lempicka",
+      "origin": "France",
+      "featured": false,
+      "description": "Lolita Lempicka est une maison de parfumerie française née en 1997, dont le premier parfum — au célèbre flacon pomme violette — est devenu un classique immédiat. Poétique, onirique et résolument féminin, le style Lolita Lempicka s'inspire des contes de fées revisités pour créer des fragrances d'une gourmandise florale unique."
+    },
+    {
+      "slug": "louis-vuitton",
+      "name": "Louis Vuitton",
+      "origin": "France",
+      "featured": true,
+      "description": "La première maison de luxe mondiale, fondée à Paris en 1854, a lancé sa ligne de parfums en 2016. Ombre Nomade, hommage à l'oud et aux voyages, est l'une des créations les plus prisées des amateurs de parfums orientaux. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "maison-francis-kurkdjian",
+      "name": "Maison Francis Kurkdjian",
+      "origin": "France",
+      "featured": false,
+      "description": "Fondée en 2009 par Francis Kurkdjian, l'un des plus grands nez de sa génération, cette maison parisienne incarne le luxe contemporain. Baccarat Rouge 540 est devenu la fragrance niche la plus copiée et la plus désirée au monde. Disponible en Algérie."
+    },
+    {
+      "slug": "maison-margiela",
+      "name": "Maison Margiela",
+      "origin": "France",
+      "description": "Maison Margiela, fondée en 1988, est connue pour sa collection Replica. Chaque fragrance capture un souvenir précis avec une authenticité olfactive remarquable.",
       "featured": false
     },
     {
-      "slug": "paris-hilton",
-      "name": "Paris Hilton",
-      "origin": "États-Unis",
-      "description": "Paris Hilton a lancé son premier parfum en 2004. Sa ligne de fragrances florales et fruitées est l'une des plus vendues en celebrity.",
-      "featured": false
+      "slug": "mancera",
+      "name": "Mancera",
+      "origin": "France",
+      "featured": false,
+      "description": "Mancera est une maison de parfumerie niche parisienne fondée en 2008 par Pierre Montale et son fils David Montale. Alliant savoir-faire de la parfumerie française et inspiration orientale, Mancera propose des fragrances d'une qualité niche à des prix accessibles — un positionnement qui lui a valu une popularité croissante notamment en Algérie et dans le monde arabe."
     },
     {
-      "slug": "ariana-grande",
-      "name": "Ariana Grande",
+      "slug": "marc-jacobs",
+      "name": "Marc Jacobs",
       "origin": "États-Unis",
-      "description": "Ariana Grande a conquis la parfumerie avec Cloud, devenu un phénomène viral et l'un des parfums les plus vendus de sa génération.",
-      "featured": false
-    },
-    {
-      "slug": "anna-sui",
-      "name": "Anna Sui",
-      "origin": "États-Unis",
-      "description": "Anna Sui mêle rock et romantisme. Ses parfums, dans leurs flacons distinctifs, proposent des compositions florales-fruitées ludiques.",
-      "featured": false
+      "featured": false,
+      "description": "Designer new-yorkais iconique, Marc Jacobs a su créer des fragrances aussi emblématiques que sa mode. Daisy, avec son flacon printanier, est l'un des parfums féminins les plus reconnaissables de sa génération. Disponible en Algérie chez Maison Numidia."
     },
     {
       "slug": "mariah-carey",
@@ -42616,6 +42364,97 @@
       "featured": false
     },
     {
+      "slug": "mauboussin",
+      "name": "Mauboussin",
+      "origin": "France",
+      "featured": false,
+      "description": "Joaillier parisien fondé en 1827, Mauboussin a transposé son art du bijou précieux dans la parfumerie. Pour Elle séduit par sa douceur fruitée et florale, accessible et raffinée. Disponible en Algérie avec paiement à la livraison."
+    },
+    {
+      "slug": "memo-paris",
+      "name": "Memo Paris",
+      "origin": "France",
+      "description": "Memo Paris, fondée en 2007, est une maison de parfumerie de voyage. Chaque fragrance est inspirée par une destination du monde.",
+      "featured": false
+    },
+    {
+      "slug": "michael-kors",
+      "name": "Michael Kors",
+      "origin": "États-Unis",
+      "featured": false,
+      "description": "Designer américain symbole du luxe accessible, Michael Kors propose des parfums glamour et féminins. Gorgeous! capture la confiance et l'éclat d'une femme moderne. Disponible en Algérie chez Maison Numidia avec paiement à la livraison."
+    },
+    {
+      "slug": "miu-miu",
+      "name": "Miu Miu",
+      "origin": "Italie",
+      "featured": false,
+      "description": "Ligne créative de Miuccia Prada fondée en 1993, Miu Miu propose des parfums aussi audacieux que sa mode. L'Eau Bleue est une fragrance fraîche et féminine qui marie iris et notes aquatiques avec finesse. Disponible en Algérie."
+    },
+    {
+      "slug": "mont-blanc",
+      "name": "Mont Blanc",
+      "origin": "Allemagne",
+      "featured": false,
+      "description": "Maison d'excellence fondée à Hambourg en 1906, Mont Blanc a développé une gamme de parfums aussi raffinés que ses célèbres stylos. Explorer et Lady Emblem incarnent l'aventure et la féminité moderne. Disponibles en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "montale",
+      "name": "Montale",
+      "origin": "France",
+      "featured": false,
+      "description": "Montale Paris est une maison de parfumerie niche fondée en 2003 par Pierre Montale après des années passées en Arabie Saoudite. Spécialisée dans les fragrances à base d'oud, de rose et de muscs orientaux, la maison propose des parfums d'une richesse et d'une générosité caractéristiques, appréciés dans tout le monde arabe et au-delà."
+    },
+    {
+      "slug": "moschino",
+      "name": "Moschino",
+      "origin": "Italie",
+      "description": "Moschino, fondée en 1983, est connue pour son approche ludique du luxe. Ses parfums, dans des flacons originaux, cachent des compositions de grande qualité.",
+      "featured": false
+    },
+    {
+      "slug": "mugler",
+      "name": "Mugler",
+      "origin": "France",
+      "featured": true,
+      "description": "Maison de couture parisienne fondée par Thierry Mugler en 1974. Alien et Angel, deux piliers de la parfumerie moderne, ont révolutionné le monde du parfum avec leurs compositions audacieuses. Les parfums Mugler originaux sont disponibles en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "narciso-rodriguez",
+      "name": "Narciso Rodriguez",
+      "origin": "États-Unis",
+      "description": "Designer américain connu pour ses fragrances musquées sensuelles et minimalistes.",
+      "featured": false
+    },
+    {
+      "slug": "nautica",
+      "name": "Nautica",
+      "origin": "États-Unis",
+      "featured": false,
+      "description": "Marque américaine ancrée dans l'univers nautique, Nautica propose des parfums frais et marins accessibles. Voyage est une référence aquatique masculine incontournable depuis 1992. Disponible en Algérie chez Maison Numidia avec livraison Yalidine."
+    },
+    {
+      "slug": "nikos",
+      "name": "Nikos",
+      "origin": "France",
+      "description": "Nikos est connu pour sa ligne Sculpture. Sculpture pour Homme est devenue un classique des fragrances fraîches et aqueuses masculines.",
+      "featured": false
+    },
+    {
+      "slug": "nina-ricci",
+      "name": "Nina Ricci",
+      "origin": "France",
+      "featured": false,
+      "description": "Fondée en 1932 à Paris, Nina Ricci est une maison de couture et de parfumerie qui a su traverser les décennies avec grâce. Ses parfums, dont le légendaire L'Air du Temps et le succès mondial Nina au flacon pomme, reflètent une féminité romantique et poétique chère à la maison."
+    },
+    {
+      "slug": "nishane",
+      "name": "Nishane",
+      "origin": "Turquie",
+      "featured": false,
+      "description": "Maison de parfumerie de niche fondée à Istanbul en 2012, Nishane crée des compositions d'exception qui puisent dans les traditions orientales et occidentales. Ani est une célébration florale d'une rare complexité. Disponible en Algérie chez Maison Numidia."
+    },
+    {
       "slug": "orientica",
       "name": "Orientica",
       "origin": "Émirats Arabes Unis",
@@ -42623,10 +42462,24 @@
       "featured": false
     },
     {
-      "slug": "memo-paris",
-      "name": "Memo Paris",
+      "slug": "paco-rabanne",
+      "name": "Paco Rabanne",
       "origin": "France",
-      "description": "Memo Paris, fondée en 2007, est une maison de parfumerie de voyage. Chaque fragrance est inspirée par une destination du monde.",
+      "description": "Maison fondée en 1966, Paco Rabanne est connu pour ses créations audacieuses et ses parfums iconiques comme Invictus et 1 Million.",
+      "featured": true
+    },
+    {
+      "slug": "parfums-de-marly",
+      "name": "Parfums de Marly",
+      "origin": "France",
+      "description": "Maison de niche française fondée en 2009, inspirée de la cour de Versailles et du roi Louis XV.",
+      "featured": true
+    },
+    {
+      "slug": "paris-hilton",
+      "name": "Paris Hilton",
+      "origin": "États-Unis",
+      "description": "Paris Hilton a lancé son premier parfum en 2004. Sa ligne de fragrances florales et fruitées est l'une des plus vendues en celebrity.",
       "featured": false
     },
     {
@@ -42637,10 +42490,66 @@
       "featured": false
     },
     {
-      "slug": "ex-nihilo",
-      "name": "Ex Nihilo",
+      "slug": "pierre-cardin",
+      "name": "Pierre Cardin",
       "origin": "France",
-      "description": "Ex Nihilo, fondée à Paris en 2013. Cette maison niche crée des compositions audacieuses avec un concept de personnalisation unique.",
+      "featured": false,
+      "description": "Couturier français d'origine italienne, Pierre Cardin fut l'un des pionniers du prêt-à-porter de luxe. Pour Monsieur est un classique fougère chypré qui incarne l'élégance masculine française des années 70. Disponible en Algérie."
+    },
+    {
+      "slug": "prada",
+      "name": "Prada",
+      "origin": "Italie",
+      "featured": true,
+      "description": "La maison Prada, fondée à Milan en 1913, allie luxe discret et sophistication intellectuelle. Prada Candy, emblème de la collection, séduit par sa douceur envoûtante. Les parfums Prada originaux sont disponibles en Algérie chez Maison Numidia, livraison Yalidine."
+    },
+    {
+      "slug": "ralph-lauren",
+      "name": "Ralph Lauren",
+      "origin": "États-Unis",
+      "featured": false,
+      "description": "Créateur américain fondé en 1967, Ralph Lauren incarne le rêve américain et l'élégance preppy. Romance est une fragrance florale romantique devenue un classique intemporel. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "rasasi",
+      "name": "Rasasi",
+      "origin": "Émirats Arabes Unis",
+      "featured": false,
+      "description": "Maison de parfumerie du Golfe fondée à Dubaï en 1979, Rasasi crée des fragrances orientales de haute qualité à des prix accessibles. Hawas est devenu un incontournable pour les amateurs d'oud et d'ambre. Disponible en Algérie."
+    },
+    {
+      "slug": "roberto-cavalli",
+      "name": "Roberto Cavalli",
+      "origin": "Italie",
+      "description": "Roberto Cavalli incarne le glamour italien. Ses parfums reflètent une audace sensuelle avec des notes de fleurs exotiques et de bois précieux.",
+      "featured": false
+    },
+    {
+      "slug": "rochas",
+      "name": "Rochas",
+      "origin": "France",
+      "featured": false,
+      "description": "Maison parisienne fondée en 1925 par Marcel Rochas, connue pour ses parfums élégants et accessibles. Mademoiselle Rochas est une fragrance florale poudreuse qui célèbre la jeune femme française. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "roja-dove",
+      "name": "Roja Dove",
+      "origin": "Royaume-Uni",
+      "featured": false,
+      "description": "Fondée par Roja Dove, considéré comme l'un des plus grands parfumeurs britanniques, cette maison propose des extraits de parfum d'une concentration et d'une qualité rares. Elysium Pour Homme est une ode à l'élégance masculine intemporelle. Disponible en Algérie."
+    },
+    {
+      "slug": "st-dupont",
+      "name": "S.T. Dupont",
+      "origin": "France",
+      "description": "S.T. Dupont, fondée en 1872. Ses parfums portent la même exigence de qualité que ses briquets et stylos légendaires.",
+      "featured": false
+    },
+    {
+      "slug": "salvatore-ferragamo",
+      "name": "Salvatore Ferragamo",
+      "origin": "Italie",
+      "description": "Salvatore Ferragamo, maison de luxe italienne fondée en 1927. Ses parfums allient élégance florentine et modernité.",
       "featured": false
     },
     {
@@ -42651,11 +42560,109 @@
       "featured": false
     },
     {
-      "slug": "juliette-has-a-gun",
-      "name": "Juliette Has a Gun",
-      "origin": "France",
-      "description": "Juliette Has a Gun, fondée par Romano Ricci en 2005. Not a Perfume, sa création la plus célèbre, ne contient qu'une seule molécule.",
+      "slug": "shakira",
+      "name": "Shakira",
+      "origin": "Colombie",
+      "featured": false,
+      "description": "La star mondiale colombienne a décliné son énergie et sa sensualité dans une ligne de parfums féminins accessibles. Dance est une fragrance fruitée et florale qui capture l'essence de la liberté. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "swiss-arabian",
+      "name": "Swiss Arabian",
+      "origin": "Émirats Arabes Unis",
+      "description": "Maison qui fusionne l'art du parfum suisse avec les traditions olfactives arabes.",
       "featured": false
+    },
+    {
+      "slug": "tiziana-terenzi",
+      "name": "Tiziana Terenzi",
+      "origin": "Italie",
+      "featured": false,
+      "description": "Maison de parfumerie de niche italienne fondee en Toscane par la famille Terenzi, d'abord connue pour ses bougies avant de se consacrer au parfum. Ses compositions, souvent tres concentrees, sont portees par une flaconnerie travaillee a la main. Disponible en Algerie."
+    },
+    {
+      "slug": "tom-ford",
+      "name": "Tom Ford",
+      "origin": "États-Unis",
+      "featured": true,
+      "description": "Fondée en 2005 par le designer américain Tom Ford, la maison éponyme incarne le luxe sombre et la sophistication absolue. Black Orchid est devenu un classique moderne de la parfumerie de niche. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "trussardi",
+      "name": "Trussardi",
+      "origin": "Italie",
+      "description": "Trussardi, maison de mode italienne fondée en 1911 à Bergame. Du cuir raffiné aux accords frais, chaque fragrance porte le style italien.",
+      "featured": false
+    },
+    {
+      "slug": "valentino",
+      "name": "Valentino",
+      "origin": "Italie",
+      "description": "Maison de haute couture romaine fondée en 1960. L'élégance italienne transcrite en parfums.",
+      "featured": true
+    },
+    {
+      "slug": "van-cleef-arpels",
+      "name": "Van Cleef & Arpels",
+      "origin": "France",
+      "featured": false,
+      "description": "Joaillier parisien fondé en 1906, Van Cleef & Arpels crée des parfums aussi précieux que ses joyaux. Féerie célèbre la magie et la femme avec une composition florale d'une grande délicatesse. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "versace",
+      "name": "Versace",
+      "origin": "Italie",
+      "description": "Maison de luxe italienne fondée en 1978. La sensualité méditerranéenne à l'état pur.",
+      "featured": false
+    },
+    {
+      "slug": "victorias-secret",
+      "name": "Victoria's Secret",
+      "origin": "États-Unis",
+      "featured": false,
+      "description": "Marque américaine emblématique de la lingerie et de la beauté féminine, Victoria's Secret propose des parfums glamour et accessibles. Bombshell est devenu le parfum féminin le plus vendu de la marque. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "viktor-rolf",
+      "name": "Viktor & Rolf",
+      "origin": "Pays-Bas",
+      "featured": false,
+      "description": "Duo de créateurs hollandais reconnus pour leur approche conceptuelle de la mode, Viktor & Rolf crée des parfums décalés et iconiques. Spicebomb et Bonbon sont deux blockbusters olfactifs qui ont marqué leur décennie. Disponibles en Algérie."
+    },
+    {
+      "slug": "xerjoff",
+      "name": "Xerjoff",
+      "origin": "Italie",
+      "featured": false,
+      "description": "Maison de parfumerie de niche fondée à Turin en 2003, Xerjoff est reconnue pour ses flacons d'exception et ses compositions olfactives d'une grande complexité. Naxos est une référence absolue de la parfumerie orientale masculine. Disponible en Algérie."
+    },
+    {
+      "slug": "yves-rocher",
+      "name": "Yves Rocher",
+      "origin": "France",
+      "featured": false,
+      "description": "Fondée en 1959 en Bretagne, Yves Rocher est pionnière de la cosmétique végétale. Ses parfums, accessibles et naturels, plaisent par leur fraîcheur sincère. Comme une Évidence reste son bestseller absolu. Disponible en Algérie avec paiement à la livraison."
+    },
+    {
+      "slug": "ysl",
+      "name": "Yves Saint Laurent",
+      "origin": "France",
+      "description": "Maison de mode fondée en 1961, YSL est synonyme d'audace et de liberté dans la parfumerie moderne.",
+      "featured": true
+    },
+    {
+      "slug": "zadig-voltaire",
+      "name": "Zadig & Voltaire",
+      "origin": "France",
+      "featured": false,
+      "description": "Marque parisienne fondée en 1997, Zadig & Voltaire incarne le rock chic et la liberté créative. This Is Her! impose un caractère boisé et cuiré résolument féminin et contemporain. Disponible en Algérie chez Maison Numidia."
+    },
+    {
+      "slug": "zara",
+      "name": "Zara",
+      "origin": "Espagne",
+      "featured": false,
+      "description": "Enseigne espagnole mondiale fondée en 1975, Zara a développé une gamme de parfums accessibles et tendance. Rose Gold est une fragrance florale fruitée légère, parfaite pour le quotidien. Disponible en Algérie chez Maison Numidia avec paiement à la livraison."
     }
   ]
 }

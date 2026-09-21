@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import SocialRail from "@/components/layout/SocialRail";
+import ChromeBoutique from "@/components/layout/ChromeBoutique";
 import { CartProvider } from "@/contexts/CartContext";
 import {
   getOrganizationSchema,
@@ -145,10 +146,14 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(ldGraph) }}
         />
         <CartProvider>
-          <Header />
+          <ChromeBoutique>
+            <Header />
+          </ChromeBoutique>
           <main>{children}</main>
-          <Footer />
-          <SocialRail />
+          <ChromeBoutique>
+            <Footer />
+            <SocialRail />
+          </ChromeBoutique>
         </CartProvider>
       </body>
     </html>
