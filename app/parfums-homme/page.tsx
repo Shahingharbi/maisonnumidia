@@ -92,7 +92,7 @@ export default function ParfumsHommePage() {
                   sans conteste le parfum homme le plus vendu en Algérie. Son accord bergamote-ambroxan-cèdre
                   fonctionne dans tous les contextes : bureau, soirée, week-end. La chaleur algérienne
                   développe magnifiquement ses notes de fond, créant un sillage chaud et masculin qui
-                  peut tenir jusqu&apos;à 12 heures sur peau sèche.
+                  reste perceptible longtemps après l&apos;application.
                 </p>
                 <p className="mb-4">
                   Juste derrière, <Link href="/parfums/bleu-de-chanel" className="text-[#C9A84C] font-semibold hover:underline">Bleu de Chanel</Link> incarne

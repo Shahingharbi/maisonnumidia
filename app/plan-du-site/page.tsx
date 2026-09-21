@@ -43,6 +43,8 @@ export default function PlanDuSitePage() {
               { label: "Parfum Algérie", href: "/parfum-algerie" },
               { label: "Commander", href: "/commander" },
               { label: "Contact", href: "/contact" },
+              { label: "À propos", href: "/a-propos" },
+              { label: "Mentions légales", href: "/mentions-legales" },
             ].map((link) => (
               <Link
                 key={link.href}

@@ -15,22 +15,23 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Analytics :** GA4 (`G-77YXRM3HBT`) + Microsoft Clarity, dans `app/layout.tsx`
 - **Commandes :** EmailJS côté client (`app/commander/page.tsx`) → boîte du vendeur. Clés dans `.env.local` (local) et Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais coller les vraies valeurs dans ce fichier ni dans un commit.
 
-### État du catalogue (14 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
-- **735 produits** dans `data/products.json` (267 homme, 402 femme, 66 oriental)
+### État du catalogue (21 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
+- **732 produits** dans `data/products.json` (265 homme, 403 femme, 64 oriental)
 - **121 marques** dans `data/products.json.brands[]`
 - **14 articles blog** dans `data/blog.ts` (contenu en **Markdown**, pas HTML — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
-- **764 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
-- **~1101 pages** au total (sitemap.xml — produits + marques + brand filters + blog + statiques)
+- **761 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
+- **~1098 pages** au total (sitemap.xml — produits + marques + brand filters + blog + statiques)
 - **0 brandSlug orphelin, 0 related cassé, 0 produit sans image** (audit règle n°6)
-- Prix : **6 500 DA à 162 000 DA**, médiane ~20 500 DA (voir Règles prix)
+- Prix : **6 500 DA à 145 000 DA**, médiane ~20 000 DA (voir Règles prix)
+- Descriptions produit : médiane **300 mots** dans le champ `description` (le reste des 600 mots de la page est généré par `lib/product-content.ts`)
 
 Avant de citer un chiffre du catalogue dans une réponse, revérifier avec `node -e` — ce fichier est mis à jour ponctuellement, pas à chaque commit produit.
 
 ### Historique nettoyage
 - **Avril 2026 :** 25 produits fantômes supprimés (noms inventés, mauvaises marques), 35 marques ajoutées, 55 fichiers `_tmp_batch*.mjs` temporaires supprimés, fix maillage interne + crawl budget (voir section dédiée).
 - **Juin 2026 :** repricing complet (prix marché € × 270, puis recherche par agents), fusion de doublons (748 → 735), maillage `CategoryCatalogIndex` ajouté aux 3 pages catégorie, GEO (entité de marque, rail social).
-- **Septembre 2026 :** audit complet + corrections — voir ci-dessous.
+- **Septembre 2026 :** repricing sur le marché algérien (539 prix), puis audit des 735 fiches contre Fragrantica — 555 fiches corrigées (notes, famille, genre, concentration, volume, rupture), 137 descriptions réécrites, 43 images retéléchargées depuis le bon ID, 3 fiches de parfums inexistants retirées (→ 732 produits). Procédure : `scripts/_catalog-audit/README.md`.
 
 ---
 
@@ -93,6 +94,23 @@ Vérifier après coup avec `curl -sI https://maisonnumidia.store/parfums/ancien-
 
 ### Règle n°8 : Google Indexing API — NE JAMAIS mélanger les scopes OAuth dans un seul token
 `scripts/google-indexing-api.mjs` doit générer **deux JWT distincts** : un avec le scope `https://www.googleapis.com/auth/indexing` (pour `publishUrl`/`getUrlMetadata`), un avec `siteverification` + `webmasters.readonly` (pour tout le reste : Site Verification, URL Inspection). **Ne jamais les fusionner dans un seul `scope` de token.** Panne vécue : le 08/06/2026, l'ajout de `webmasters.readonly` au scope unique a cassé silencieusement l'Indexing API (401 sur 100% des soumissions, **tous les jours pendant 3 mois**, masqué parce que le script committait quand même le log d'échecs). Corrigé le 14/09/2026 en séparant les tokens (`INDEXING_SCOPE` / `GSC_SCOPE`). Le script fait maintenant échouer le job CI (`process.exitCode = 1`) si 0 succès sur un batch non-vide — ne pas supprimer cette garde.
+
+### Règle n°9 : ne JAMAIS créer une fiche sans avoir vérifié que le parfum existe
+
+Une fiche produit inventée est invendable et pollue le catalogue pendant des mois. Trois cas trouvés le 21/09/2026, tous nés d'un nom « plausible » écrit sans source :
+- `al-haramain-rose-d-arabie` — doublon de `al-haramain-rose-oud` sous un nom inventé
+- `franck-olivier-club-night` — n'existe pas ; l'ID image utilisé était celui de *Night Touch*
+- `lattafa-shamoos` — n'existe pas ; il existe une gamme *Shams Al Shamoos* en minis 35 ml
+
+Avant d'écrire une entrée dans `products.json`, il faut **une URL Fragrantica qui prouve l'existence du parfum**, obtenue par recherche (`fragrantica <marque> <nom>`), jamais par déduction. Le nom officiel est celui de Fragrantica, pas le libellé de la boutique qui le vend (« Ysl black opium edp extreme » → *Black Opium Extreme*). Vérifier aussi que la **marque** est la bonne : *Madawi* est un Arabian Oud, pas un Al Haramain, et la fiche a porté la mauvaise marque pendant des mois.
+
+Retirer une fiche fantôme = suppression + **301 vers la fiche canonique** si c'est un doublon, sinon vers la page marque (règle n°7), + réparation des `related[]` qui la citaient.
+
+Procédure d'audit complète et rejouable : `scripts/_catalog-audit/README.md`.
+
+### Règle n°10 : les textes générés par `lib/product-content.ts` obéissent aux mêmes règles de rédaction que `products.json`
+
+Ce fichier produit la moitié du contenu de chaque fiche (profil olfactif, performance, persona, comparaison, FAQ). Une formule interdite écrite ici sort sur **toutes les pages produit d'un coup**, ce qui est passé inaperçu longtemps parce que les audits ne regardaient que les données. Les mêmes interdictions s'appliquent : pas de formule IA, pas d'affirmation chiffrée tirée d'un champ non sourcé (`longevity`, `sillage`), pas de promesse commerciale invérifiable. Attention aussi à ne pas injecter deux fois le même paragraphe dans une seule page.
 
 ---
 

@@ -9,22 +9,33 @@ interface BreadcrumbItem {
 
 interface BreadcrumbProps {
   items: BreadcrumbItem[];
+  /**
+   * Émettre le JSON-LD BreadcrumbList. À passer à false sur une page qui publie déjà
+   * son propre BreadcrumbList (la fiche produit) : deux listes sur la même page,
+   * c'est du balisage contradictoire pour Google.
+   */
+  schema?: boolean;
 }
 
-export default function Breadcrumb({ items }: BreadcrumbProps) {
-  const schemaItems = items.map((item) => ({
-    name: item.label,
-    url: item.href || "/",
-  }));
+export default function Breadcrumb({ items, schema = true }: BreadcrumbProps) {
+  // Le dernier maillon est rendu sans lien, mais un ListItem sans URL réelle pointait
+  // jusqu'ici vers l'accueil : on ne garde dans le balisage que les maillons dont on
+  // connaît vraiment l'URL, précédés de l'accueil.
+  const schemaItems = [
+    { name: "Accueil", url: "/" },
+    ...items.filter((item) => item.href).map((item) => ({ name: item.label, url: item.href as string })),
+  ];
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(getBreadcrumbSchema(schemaItems)),
-        }}
-      />
+      {schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(getBreadcrumbSchema(schemaItems)),
+          }}
+        />
+      )}
       <nav aria-label="Fil d'Ariane" className="flex items-center gap-1.5 text-sm text-gray-400 flex-wrap">
         <Link href="/" className="hover:text-[#C9A84C] transition-colors">
           Accueil

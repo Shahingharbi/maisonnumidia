@@ -14,7 +14,18 @@ export interface Product {
   gender: "homme" | "femme" | "unisexe";
   category: "parfums-homme" | "parfums-femme" | "parfums-orientaux";
   family: string;
-  concentration: "EDP" | "EDT" | "EDC" | "Parfum";
+  // "EDP Intense", "Extrait de Parfum" et "Cologne" sont des concentrations réelles
+  // confirmées sur Fragrantica pendant l'audit de septembre 2026 : l'union d'origine
+  // (EDP/EDT/EDC/Parfum) ne les couvrait pas et mentait sur le contenu de products.json.
+  concentration:
+    | "EDP"
+    | "EDT"
+    | "EDC"
+    | "Parfum"
+    | "EDP Intense"
+    | "EDT Intense"
+    | "Extrait de Parfum"
+    | "Cologne";
   volume: string;
   price: number;
   originalPrice?: number | null;

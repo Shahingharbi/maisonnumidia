@@ -5,7 +5,9 @@ import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "À propos — Maison Numidia, parfums authentiques en Algérie",
+  // `absolute` : sans ça, le template du layout ajoute " | Maison Numidia" à un titre
+  // qui contient déjà le nom de la boutique.
+  title: { absolute: "À propos — Maison Numidia, parfums authentiques en Algérie" },
   description:
     "Découvrez l'histoire de Maison Numidia : boutique de parfums originaux fondée à Blida, livraison Yalidine 58 wilayas, engagement authenticité 100% garanti.",
   alternates: { canonical: "https://maisonnumidia.store/a-propos" },

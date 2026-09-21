@@ -127,6 +127,7 @@ export default async function ProductPage({ params }: Props) {
       <div className="bg-white border-b border-gray-100 pt-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4">
           <Breadcrumb
+            schema={false}
             items={[
               { label: categoryLabel, href: `/${product.category}` },
               { label: product.brand, href: `/${product.category}/${product.brandSlug}` },

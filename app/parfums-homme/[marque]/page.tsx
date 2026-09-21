@@ -6,6 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/seo";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import BrandCrossLinks from "@/components/category/BrandCrossLinks";
 
 interface Props {
   params: Promise<{ marque: string }>;
@@ -72,7 +73,7 @@ export default async function ParfumsHommeMarquePage({ params }: Props) {
             <Breadcrumb
               items={[
                 { label: "Parfums Homme", href: "/parfums-homme" },
-                { label: brand.name },
+                { label: brand.name, href: `/parfums-homme/${brand.slug}` },
               ]}
             />
           </div>
@@ -115,8 +116,8 @@ export default async function ParfumsHommeMarquePage({ params }: Props) {
             <p>
               La longévité et le sillage sont des critères essentiels pour le consommateur algérien.
               Les parfums {brand.name} pour homme se distinguent précisément sur ces deux points :
-              la plupart des références durent entre 8 et 14 heures sur la peau, avec un sillage
-              ample qui marque la présence sans être oppressant.
+              une tenue qui traverse la journée et un sillage ample, qui marque la présence sans
+              être oppressant. La fiche de chaque parfum en détaille le profil.
             </p>
 
             <h3 className="text-lg font-bold text-[#111111] pt-2">
@@ -174,6 +175,8 @@ export default async function ParfumsHommeMarquePage({ params }: Props) {
                 </Link>
               </div>
             </div>
+
+            <BrandCrossLinks section="parfums-homme" currentSlug={marque} />
           </div>
         </div>
       </section>

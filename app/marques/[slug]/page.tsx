@@ -80,7 +80,7 @@ export default async function MarquePage({ params }: Props) {
             <Breadcrumb
               items={[
                 { label: "Marques", href: "/marques" },
-                { label: brand.name },
+                { label: brand.name, href: `/marques/${brand.slug}` },
               ]}
             />
           </div>

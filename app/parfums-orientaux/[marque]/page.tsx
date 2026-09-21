@@ -6,6 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/seo";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import Breadcrumb from "@/components/layout/Breadcrumb";
+import BrandCrossLinks from "@/components/category/BrandCrossLinks";
 
 interface Props {
   params: Promise<{ marque: string }>;
@@ -63,7 +64,7 @@ export default async function ParfumsOrientauxMarquePage({ params }: Props) {
       <section className="py-12 sm:py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="mb-8">
-            <Breadcrumb items={[{ label: "Parfums Orientaux", href: "/parfums-orientaux" }, { label: brand.name }]} />
+            <Breadcrumb items={[{ label: "Parfums Orientaux", href: "/parfums-orientaux" }, { label: brand.name, href: `/parfums-orientaux/${brand.slug}` }]} />
           </div>
           <ProductGrid products={products} />
         </div>
@@ -106,6 +107,8 @@ export default async function ParfumsOrientauxMarquePage({ params }: Props) {
                 <Link href="/marques" className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">Toutes les marques</Link>
               </div>
             </div>
+
+            <BrandCrossLinks section="parfums-orientaux" currentSlug={marque} />
           </div>
         </div>
       </section>

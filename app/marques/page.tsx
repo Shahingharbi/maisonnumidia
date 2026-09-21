@@ -33,7 +33,7 @@ export default function MarquesPage() {
       <section className="py-12 sm:py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="mb-8">
-            <Breadcrumb items={[{ label: "Marques" }]} />
+            <Breadcrumb items={[{ label: "Marques", href: "/marques" }]} />
           </div>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">

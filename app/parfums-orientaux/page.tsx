@@ -103,8 +103,9 @@ export default function ParfumsOrientauxPage() {
                   Les parfums orientaux présentent aussi un avantage concret pour le marché algérien :
                   une longévité et un sillage supérieurs à la moyenne des fragrances occidentales. Là où
                   un <Link href="/parfums-homme" className="text-[#C9A84C] font-semibold hover:underline">parfum homme</Link>{" "}
-                  européen classique tient 6 à 8 heures, une fragrance orientale bien formulée dépasse
-                  souvent les 12 heures. Un avantage précieux lors des longues journées algériennes.
+                  européen classique s&apos;estompe en cours de journée, une fragrance orientale bien
+                  formulée tient nettement plus longtemps. Un avantage précieux lors des longues
+                  journées algériennes.
                 </p>
               </div>
 

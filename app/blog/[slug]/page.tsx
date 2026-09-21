@@ -175,7 +175,7 @@ export default async function BlogArticlePage({ params }: Props) {
             <Breadcrumb
               items={[
                 { label: "Blog", href: "/blog" },
-                { label: article.title },
+                { label: article.title, href: `/blog/${article.slug}` },
               ]}
             />
           </div>

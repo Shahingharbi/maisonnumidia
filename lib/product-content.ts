@@ -51,17 +51,29 @@ function familyContext(family: string): string {
   return `La famille ${family.toLowerCase()} se distingue par une signature olfactive unique, construite autour de matières premières soigneusement sélectionnées et équilibrées par le parfumeur.`;
 }
 
+// Ces repères décrivent la CLASSE de concentration (norme du métier), pas une mesure faite
+// sur ce flacon : la formulation doit rester générale, sinon on affirme au client une tenue
+// qu'on n'a jamais vérifiée (CLAUDE.md : ne jamais inventer de longévité).
 function concentrationContext(concentration: string): string {
   const c = concentration.toUpperCase();
-  if (c === "PARFUM" || c === "EXTRAIT")
-    return "L'Extrait de Parfum (ou Parfum) est la concentration la plus élevée, généralement entre 20 et 30% d'essence parfumée. Il offre une tenue exceptionnelle (8 à 12 heures, parfois plus) et un sillage maîtrisé. C'est le format le plus précieux et le plus durable.";
-  if (c === "EDP")
-    return "L'Eau de Parfum (EDP) contient entre 12 et 18% d'essence. C'est la concentration de référence pour les parfums de luxe, équilibrant tenue (6 à 8 heures), sillage présent et richesse olfactive. La concentration la plus polyvalente.";
-  if (c === "EDT")
-    return "L'Eau de Toilette (EDT) titre entre 6 et 12% d'essence. Plus légère et plus aérienne que l'Eau de Parfum, elle est idéale pour la journée et les climats chauds. Sa tenue est de 3 à 5 heures, parfaite pour une réapplication en milieu de journée.";
+  if (c.startsWith("PARFUM") || c.startsWith("EXTRAIT"))
+    return "L'Extrait de Parfum (ou Parfum) est la concentration la plus élevée, généralement entre 20 et 30% d'essence parfumée. C'est le format le plus précieux, celui dont on attend la tenue la plus longue et un sillage maîtrisé.";
+  if (c.startsWith("EDP"))
+    return "L'Eau de Parfum (EDP) contient entre 12 et 18% d'essence. C'est la concentration de référence pour les parfums de luxe : elle équilibre tenue, sillage et richesse olfactive, et reste la plus polyvalente.";
+  if (c.startsWith("EDT"))
+    return "L'Eau de Toilette (EDT) titre entre 6 et 12% d'essence. Plus légère et plus aérienne que l'Eau de Parfum, elle est adaptée à la journée et aux climats chauds, quitte à être réappliquée en cours de journée.";
   if (c === "EDC" || c === "COLOGNE")
     return "L'Eau de Cologne titre entre 2 et 5% d'essence. Très fraîche, elle est conçue pour être appliquée généreusement et offre une sensation de fraîcheur immédiate, particulièrement appréciable en été.";
   return `La concentration ${concentration} détermine la tenue et l'intensité du parfum sur la peau, ainsi que la richesse de son sillage.`;
+}
+
+// Échelle interne 1-5 de products.json : elle sert à qualifier, jamais à annoncer un nombre
+// d'heures — aucune de ces valeurs ne vient d'une mesure.
+function longevityLabelOf(longevity: number): string {
+  if (longevity >= 5) return "très longue";
+  if (longevity === 4) return "longue";
+  if (longevity === 3) return "bonne";
+  return "modérée";
 }
 
 export function generateOlfactoryProfile(product: Product): string {
@@ -93,22 +105,7 @@ export function generateOlfactoryProfile(product: Product): string {
 export function generatePerformance(product: Product): string {
   const longevity = product.longevity ?? 3;
   const sillage = product.sillage ?? 3;
-  const longevityLabel =
-    longevity >= 5
-      ? "exceptionnelle"
-      : longevity === 4
-      ? "très bonne"
-      : longevity === 3
-      ? "bonne"
-      : "modérée";
-  const longevityHours =
-    longevity >= 5
-      ? "10 à 12 heures, parfois davantage"
-      : longevity === 4
-      ? "7 à 9 heures"
-      : longevity === 3
-      ? "5 à 7 heures"
-      : "3 à 5 heures";
+  const longevityLabel = longevityLabelOf(longevity);
   const sillageLabel =
     sillage >= 5
       ? "imposant, capable de marquer une pièce"
@@ -122,7 +119,7 @@ export function generatePerformance(product: Product): string {
     "Le climat algérien, varié selon les régions,";
   const concentrationLine = concentrationContext(product.concentration);
 
-  return `Sur la peau, ${product.brand} ${product.name} affiche une tenue ${longevityLabel} : comptez environ ${longevityHours} avant que le parfum ne s'estompe complètement. Son sillage est ${sillageLabel}. ${climateLine} influence directement la performance : sur peau chauffée par le soleil estival, les notes de tête s'évaporent plus vite mais le fond gagne en intensité. En hiver, le parfum se révèle plus discrètement mais tient plus longtemps. ${concentrationLine}`;
+  return `Sur la peau, ${product.brand} ${product.name} affiche une tenue ${longevityLabel} et un sillage ${sillageLabel}. ${climateLine} influence directement la performance : sur peau chauffée par le soleil estival, les notes de tête s'évaporent plus vite mais le fond gagne en intensité. En hiver, le parfum se révèle plus discrètement mais tient plus longtemps. ${concentrationLine}`;
 }
 
 export function generatePersona(product: Product): string {
@@ -159,35 +156,40 @@ export function generateComparison(product: Product): string {
       : product.category === "parfums-femme"
       ? "féminines"
       : "orientales et unisexes";
-  const concentrationCompare = concentrationContext(product.concentration);
-  const familyCompare = familyContext(family);
+  // Ni familyContext() ni concentrationContext() ici : ces deux paragraphes sont déjà rendus
+  // plus haut sur la même page (profil olfactif et performance). Les réinjecter dupliquait
+  // mot pour mot deux blocs entiers sur chaque fiche.
+  const categoryLabel =
+    product.category === "parfums-homme"
+      ? "Parfums Homme"
+      : product.category === "parfums-femme"
+      ? "Parfums Femme"
+      : "Parfums Orientaux";
+  const noteSignature = [...product.notes.base, ...product.notes.heart][0];
+  const signatureLine = noteSignature
+    ? `Dans le catalogue, c'est ${noteSignature.toLowerCase()} qui rapproche le plus ce parfum de ses voisins de rayon.`
+    : "";
 
-  return `Comparé aux autres références ${competitorCategory} disponibles dans le catalogue Maison Numidia, ${product.brand} ${product.name} ${product.concentration} ${product.volume} se positionne dans le segment ${family.toLowerCase()}. ${familyCompare} ${concentrationCompare} Si vous appréciez cette signature olfactive, vous trouverez dans nos collections d'autres parfums proches en termes de famille ou de profil — n'hésitez pas à explorer notre catégorie ${product.category === "parfums-homme" ? "Parfums Homme" : product.category === "parfums-femme" ? "Parfums Femme" : "Parfums Orientaux"} pour découvrir des alternatives complémentaires.`;
+  return `Comparé aux autres références ${competitorCategory} du catalogue Maison Numidia, ${product.brand} ${product.name} ${product.concentration} ${product.volume} se situe dans le segment ${family.toLowerCase()}. ${signatureLine} Les parfums liés en bas de page sont ceux dont la construction s'en rapproche le plus, et la catégorie ${categoryLabel} réunit l'ensemble des références du même registre.`;
 }
 
 export function generateFAQ(product: Product): { q: string; a: string }[] {
-  const longevity = product.longevity ?? 3;
-  const longevityHours =
-    longevity >= 5
-      ? "10 à 12 heures"
-      : longevity === 4
-      ? "7 à 9 heures"
-      : longevity === 3
-      ? "5 à 7 heures"
-      : "3 à 5 heures";
+  const longevityLabel = longevityLabelOf(product.longevity ?? 3);
 
   return [
     {
       q: `Quelle est la tenue de ${product.brand} ${product.name} ?`,
-      a: `${product.brand} ${product.name} ${product.concentration} offre une tenue de ${longevityHours} environ. La performance varie selon le type de peau (les peaux sèches retiennent moins le parfum), la saison (la chaleur accélère l'évaporation des notes de tête mais intensifie le fond) et la zone d'application (les zones chaudes comme le cou ou les poignets diffusent davantage).`,
+      a: `${product.brand} ${product.name} ${product.concentration} offre une tenue ${longevityLabel}. La performance varie surtout selon le type de peau (les peaux sèches retiennent moins le parfum), la saison (la chaleur accélère l'évaporation des notes de tête mais intensifie le fond) et la zone d'application (les zones chaudes comme le cou ou les poignets diffusent davantage).`,
     },
     {
-      q: `Comment reconnaître un ${product.name} original en Algérie ?`,
-      a: `Vérifiez le numéro de lot (batch code) gravé sur le flacon et imprimé sur la boîte — les deux doivent être identiques. Le verre du flacon doit être épais et le spray fluide. L'odeur doit être complexe et évoluer dans le temps : un faux sent souvent l'alcool pur en ouverture et disparaît rapidement. Méfiez-vous des prix trop bas. Chez Maison Numidia, chaque flacon est garanti 100% authentique avec possibilité de refus à la livraison.`,
+      // Volontairement différent de la section "Comment reconnaître un ... original ?" plus haut
+      // dans la page : la répéter ici dupliquait les quatre mêmes vérifications sur chaque fiche.
+      q: `Puis-je refuser le colis à la livraison ?`,
+      a: `Oui. Le livreur Yalidine vous remet le colis et vous le réglez seulement si vous le gardez : vous pouvez examiner le flacon et refuser la livraison sans avoir à vous justifier, et sans rien payer. C'est le principe du paiement à la réception, et c'est aussi ce qui vous protège si le produit ne correspond pas à ce que vous attendiez.`,
     },
     {
       q: `Combien coûte ${product.brand} ${product.name} en Algérie ?`,
-      a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} est proposé chez Maison Numidia au prix affiché en haut de cette page, en dinar algérien. Ce prix inclut un flacon 100% authentique, importé depuis nos fournisseurs vérifiés. Les frais de livraison Yalidine sont en supplément (à partir de 500 DA selon la wilaya). Aucune carte bancaire n'est requise — vous payez uniquement à la livraison.`,
+      a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} est proposé chez Maison Numidia au prix affiché en haut de cette page, en dinar algérien, pour un flacon 100% original. Les frais de livraison Yalidine s'ajoutent à ce montant et dépendent de votre wilaya. Aucune carte bancaire n'est requise : vous payez à la livraison.`,
     },
     {
       q: `Combien de temps pour la livraison en Algérie ?`,
