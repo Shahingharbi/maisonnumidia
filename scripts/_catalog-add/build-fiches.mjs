@@ -84,11 +84,53 @@ function nettoieNom(nom, marque) {
     const re = new RegExp("^\\s*" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s*") + "\\s+", "i");
     if (re.test(n) && n.replace(re, " ").trim().length > 2) n = n.replace(re, " ");
   }
+  // La maison peut aussi réapparaître au milieu du nom : Fragrantica donne
+  // "Irresistible Givenchy Very Floral", ce qui ferait un h1 avec deux fois "Givenchy".
+  const partout = new RegExp("(^|\\s)" + marque.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+") + "(\\s|$)", "gi");
+  if (partout.test(n) && n.replace(partout, " ").trim().length > 2) n = n.replace(partout, " ");
   return n.replace(/\s+/g, " ").trim();
 }
 
+/**
+ * Le dernier mot de la maison ouvre parfois le nom ("Armani Code Elixir" chez Giorgio Armani,
+ * "Gaultier Divine" chez Jean Paul Gaultier). On ne le retire que si AUCUN produit existant
+ * de cette marque ne nomme ses parfums ainsi — chez Hugo Boss, "Boss Bottled" est justement
+ * la convention du catalogue, et l'enlever casserait la cohérence.
+ */
+function retireTeteRedondante(nom, marque, nomsExistants) {
+  const dernier = marque.split(/\s+/).pop();
+  if (!dernier || dernier.length < 3) return nom;
+  const tokens = nom.split(/\s+/);
+  if (tokens.length < 3) return nom;
+  if (norm(tokens[0]) !== norm(dernier)) return nom;
+  if (nomsExistants.some((x) => norm(x).startsWith(norm(dernier) + " "))) return nom;
+  return tokens.slice(1).join(" ");
+}
+
+// Fragrantica n'écrit pas toujours la maison comme le catalogue : "Rabanne" est la nouvelle
+// dénomination de Paco Rabanne, "Montblanc" s'écrit "Mont Blanc" chez nous. Sans ces alias,
+// build-fiches croit devoir créer une marque qui existe déjà et produit un brandSlug orphelin.
+const ALIAS_MARQUE = {
+  rabanne: "Paco Rabanne",
+  montblanc: "Mont Blanc",
+  "mont blanc": "Mont Blanc",
+  ysl: "Yves Saint Laurent",
+  "emporio armani": "Giorgio Armani",
+  "armani": "Giorgio Armani",
+  "dolce gabbana": "Dolce & Gabbana",
+  "dolce&gabbana": "Dolce & Gabbana",
+  "carolina herrera": "Carolina Herrera",
+  "maison francis kurkdjian": "Maison Francis Kurkdjian",
+  "van cleef arpels": "Van Cleef & Arpels",
+};
+
 const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
 const slugsPris = new Set(catalogue.products.map((p) => p.slug));
+// Parfums déjà injectés lors d'une vague précédente : leur fichier de recherche est toujours
+// là, mais les remonter créerait un doublon avec un slug suffixé en -2.
+const dejaInjectes = fs.existsSync("./scripts/_catalog-add/provenance.json")
+  ? new Set(JSON.parse(fs.readFileSync("./scripts/_catalog-add/provenance.json", "utf8")).map((x) => x.slugCandidat))
+  : new Set();
 const marquesParNom = new Map(catalogue.brands.map((b) => [norm(b.name), b]));
 // Le libellé affiché doit suivre celui des produits existants de la même marque :
 // brands[] dit "Giorgio Armani" mais les 40 fiches Armani affichent "Armani".
@@ -109,6 +151,7 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
   const r = JSON.parse(fs.readFileSync(DIR_R + "/" + f, "utf8"));
   const c = candidats.get(r.slug);
   const jette = (raison) => ecartes.push({ slug: r.slug, raison });
+  if (dejaInjectes.has(r.slug)) continue;
   if (!c) { jette("pas dans candidates.json"); continue; }
   if (r.existe === false) { jette("parfum inexistant d'après Fragrantica"); continue; }
   if (r.confiance === "basse") { jette("confiance basse"); continue; }
@@ -123,20 +166,44 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
   if (!["homme", "femme", "unisexe"].includes(genre)) { jette("genre non confirmé"); continue; }
 
   // La marque de Fragrantica fait foi (leçon Madawi : la boutique se trompe de maison).
-  const marqueBrute = nettoieMarque(fg.marqueOfficielle) || c.marque;
+  const marqueBrute0 = nettoieMarque(fg.marqueOfficielle) || c.marque;
+  const marqueBrute = ALIAS_MARQUE[norm(marqueBrute0)] || marqueBrute0;
   const marqueConnue = marquesParNom.get(norm(marqueBrute));
   const brandSlug = marqueConnue ? marqueConnue.slug : slugify(marqueBrute);
   const marque = marqueConnue ? libelleParSlug.get(brandSlug) || marqueConnue.name : marqueBrute;
   if (!marqueConnue) marquesACreer.set(brandSlug, marque);
-  const nom = nettoieNom(fg.nomOfficiel, marque);
+  const nomsMarque = catalogue.products.filter((p) => p.brandSlug === brandSlug).map((p) => p.name);
+  const nom = retireTeteRedondante(nettoieNom(fg.nomOfficiel, marque), marque, nomsMarque);
   if (!nom) { jette("nom vide après nettoyage"); continue; }
 
-  // Slug : <marque>-<nom officiel>, sans mot répété, 6 tokens max (convention de 75 % du catalogue).
+  // Même maison + même nom (aux accents et à la casse près) = le parfum est déjà au catalogue,
+  // même si le slug diffère : "Legend Red" existait sous le slug mont-blanc-legend-rouge.
+  const jumeau = catalogue.products.find((p) => p.brandSlug === brandSlug && norm(p.name).replace(/[^a-z0-9]/g, "") === norm(nom).replace(/[^a-z0-9]/g, ""));
+  if (jumeau) { jette(`doublon de ${jumeau.slug} (même marque, même nom "${jumeau.name}")`); continue; }
+
+  // Slug : <marque>-<nom officiel>, convention de 75 % du catalogue.
+  // On supprime les mots répétés ("narciso-rodriguez-narciso-poudree" -> "narciso-rodriguez-poudree"),
+  // SAUF si ça laisse le slug pendu sur un mot outil : "Le Sel d'Issey" chez Issey Miyake
+  // donnait "issey-miyake-le-sel-d".
+  const bruts = (brandSlug + "-" + slugify(nom)).split("-").filter(Boolean);
   const vus = new Set();
-  const tokens = (brandSlug + "-" + slugify(nom)).split("-").filter((t) => t && !vus.has(t) && vus.add(t));
-  let slug = tokens.slice(0, 6).join("-");
+  const dedupes = bruts.filter((t) => !vus.has(t) && vus.add(t));
+  const OUTILS = new Set(["d", "l", "de", "du", "la", "le", "les", "en", "et", "a", "in", "of", "the"]);
+  const tokens = OUTILS.has(dedupes[dedupes.length - 1]) ? bruts : dedupes;
+  const coupe = (n) => tokens.slice(0, n).join("-");
+  let slug = coupe(8);
+  while (slug.length > 48 && slug.split("-").length > 4) slug = coupe(slug.split("-").length - 1);
+
+  // Un slug déjà pris par une fiche du catalogue = presque toujours le MÊME parfum sous une
+  // graphie différente (Cacharel "Lou Lou" vs "LouLou"). On refuse au lieu de suffixer en -2 :
+  // un doublon publié coûte bien plus cher qu'un ajout manqué.
+  if (slugsPris.has(slug)) {
+    const existant = catalogue.products.find((p) => p.slug === slug);
+    jette(`doublon probable de ${slug}${existant ? ` ("${existant.brand} ${existant.name}")` : ""}`);
+    continue;
+  }
   let n = 2;
-  while (slugsPris.has(slug)) slug = tokens.slice(0, 6).join("-") + "-" + n++;
+  while (fiches.some((x) => x.slug === slug)) slug = coupe(tokens.length) + "-" + n++;
   slugsPris.add(slug);
 
   const concentration = r.concentrationConfirmee || c.concentration || "EDP";
@@ -179,7 +246,11 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
 }
 
 // related : même marque d'abord, puis même catégorie et même genre, prix le plus proche.
-const bassin = catalogue.products.concat(fiches);
+// On ne lie QUE vers des fiches publiables : celles du catalogue et celles de ce lot dont
+// le texte est prêt. Lier vers une fiche encore sans texte produit un related cassé le
+// jour où le lot part en ligne sans elle.
+const publiables = fiches.filter((f) => f.description);
+const bassin = catalogue.products.concat(publiables);
 for (const f of fiches) {
   const proches = bassin
     .filter((p) => p.slug !== f.slug)
