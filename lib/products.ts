@@ -46,6 +46,54 @@ export function getBrandSlugsForGenderPage(gender: "homme" | "femme"): string[] 
   ];
 }
 
+const sansAccent = (s: string) =>
+  s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+/**
+ * Les autres versions du même parfum : même maison, même début de nom.
+ * Black Opium en a cinq au catalogue (Intense, Extreme, Neon, Over Red), 1 Million aussi.
+ *
+ * C'est la question la plus posée à Google sur nos fiches — les requêtes contenant une
+ * déclinaison (Elixir, Intense, Extrême, Profumo, Le Parfum…) pèsent 38 588 impressions
+ * sur 16 mois, et c'est là que le site est le plus mal placé. Le tri se fait par prix
+ * croissant : c'est l'ordre dans lequel on choisit quand on hésite.
+ */
+export function getLineVersions(product: Product): Product[] {
+  const tokens = sansAccent(product.name).split(/[^a-z0-9]+/).filter(Boolean);
+  if (tokens.length === 0) return [];
+  const racine = tokens.slice(0, Math.min(2, tokens.length)).join(" ");
+  return products
+    .filter((p) => {
+      if (p.brandSlug !== product.brandSlug) return false;
+      const t = sansAccent(p.name).split(/[^a-z0-9]+/).filter(Boolean);
+      return t.slice(0, Math.min(2, t.length)).join(" ") === racine;
+    })
+    .sort((a, b) => a.price - b.price);
+}
+
+/**
+ * Ce qui distingue une version des autres : les notes qu'elle est seule à porter.
+ * Calculé sur les pyramides réelles, jamais décrit à la main — sinon la phrase
+ * survit à une correction de notes et devient fausse.
+ */
+export function getDistinctiveNotes(product: Product, versions: Product[]): string[] {
+  const siennes = [...product.notes.top, ...product.notes.heart, ...product.notes.base];
+  const ailleurs = new Set(
+    versions
+      .filter((v) => v.slug !== product.slug)
+      .flatMap((v) => [...v.notes.top, ...v.notes.heart, ...v.notes.base])
+      .map((n) => sansAccent(n))
+  );
+  return siennes.filter((n) => !ailleurs.has(sansAccent(n)));
+}
+
+/** Fourchette de prix d'une marque au catalogue, pour situer un parfum dans sa gamme. */
+export function getBrandPriceStats(brandSlug: string) {
+  const prix = products.filter((p) => p.brandSlug === brandSlug).map((p) => p.price).sort((a, b) => a - b);
+  if (!prix.length) return null;
+  return { min: prix[0], max: prix[prix.length - 1], mediane: prix[Math.floor(prix.length / 2)], nombre: prix.length };
+}
+
 export function getRelatedProducts(slugs: string[]): Product[] {
   return slugs
     .map((slug) => getProductBySlug(slug))

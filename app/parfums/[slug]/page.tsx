@@ -2,14 +2,25 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { getAllProductSlugs, getProductBySlug, getRelatedProducts, formatPrice, getDiscount } from "@/lib/products";
+import {
+  getAllProductSlugs,
+  getProductBySlug,
+  getRelatedProducts,
+  formatPrice,
+  getDiscount,
+  getLineVersions,
+  getBrandPriceStats,
+  getDistinctiveNotes,
+  getProductsByBrand,
+} from "@/lib/products";
 import { getProductSchema, getBreadcrumbSchema, generateProductMeta, getFAQSchema } from "@/lib/seo";
 import {
-  generateOlfactoryProfile,
-  generatePerformance,
+  generateFamilyAndFeel,
   generatePersona,
-  generateComparison,
   generateFAQ,
+  generatePriceSection,
+  generateVersionsSection,
+  generateConcentrationSection,
 } from "@/lib/product-content";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import ProductCard from "@/components/product/ProductCard";
@@ -80,12 +91,31 @@ export default async function ProductPage({ params }: Props) {
     { name: product.h1 ?? product.name, url: `/parfums/${product.slug}` },
   ]);
 
-  // Data-driven SEO content (unique per product)
-  const olfactoryProfile = generateOlfactoryProfile(product);
-  const performance = generatePerformance(product);
+  // Les autres versions de la meme ligne (Black Opium en a cinq, 1 Million aussi).
+  // C'est la question la plus posee a Google sur nos fiches, et notre position la plus faible.
+  const versions = getLineVersions(product);
+  const brandStats = getBrandPriceStats(product.brandSlug);
+
+  // Contenu genere, propre a ce produit
+  const priceSection = generatePriceSection(product, brandStats, versions);
+  const versionsSection = generateVersionsSection(product, versions);
+  const concentrationSection = generateConcentrationSection(product, versions);
+  const familyAndFeel = generateFamilyAndFeel(product);
   const persona = generatePersona(product);
-  const comparison = generateComparison(product);
-  const faq = generateFAQ(product);
+  const faq = generateFAQ(product, versions);
+  // Nom de la ligne = la version au nom le plus court (Black Opium pour Black Opium Extreme).
+  // « Prix de Dior » mais « Prix d'Yves Saint Laurent ».
+  const marqueElidee = /^[aeiouyàâäéèêëîïôöùûüh]/i.test(product.brand.trim())
+    ? `d'${product.brand}`
+    : `de ${product.brand}`;
+  const ligneNom = versions.length > 1
+    ? versions.reduce((a, b) => (a.name.length <= b.name.length ? a : b)).name
+    : product.name;
+  // Repli quand le parfum n'a pas de soeur : les references de la marque les plus proches en prix.
+  const voisinsMarque = getProductsByBrand(product.brandSlug)
+    .filter((v) => v.slug !== product.slug && v.inStock)
+    .sort((a, b) => Math.abs(a.price - product.price) - Math.abs(b.price - product.price))
+    .slice(0, 6);
   const faqSchema = getFAQSchema(faq.map((item) => ({ question: item.q, answer: item.a })));
 
   // Articles de blog pertinents selon le genre du produit
@@ -251,19 +281,95 @@ export default async function ProductPage({ params }: Props) {
       <section className="bg-[#FAFAF8] py-14 sm:py-20 border-t border-gray-100">
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
 
-          <h2 className="text-2xl sm:text-3xl font-bold text-[#111111] mb-8">
-            {product.brand} {product.name} en Algérie — Guide complet
-          </h2>
-
           <div className="space-y-6 text-gray-600 text-sm sm:text-base leading-relaxed">
 
-            <p>{product.description}</p>
+            {/* La description est redigee en paragraphes : un seul <p> les ecraserait. */}
+            {product.description.split(/\n{2,}/).map((para, i) => (
+              <p key={i}>{para.trim()}</p>
+            ))}
 
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Caractéristiques du parfum
-            </h3>
+            {/* Le prix ouvre la section : c'est le premier mot que l'internaute ajoute au nom
+                du parfum (28 793 impressions sur 16 mois, devant tous les autres). */}
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              Prix {marqueElidee} {product.name} en Algérie
+            </h2>
+            <p>{priceSection}</p>
+
+            {versions.length > 1 ? (
+              <>
+                <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+                  Quelle version de {ligneNom} choisir ?
+                </h2>
+                <p>{versionsSection}</p>
+                <div className="overflow-x-auto">
+                  <table className="w-full text-sm border-collapse">
+                    <thead>
+                      <tr className="border-b border-gray-200 text-left">
+                        <th className="py-2 pr-4 font-semibold text-[#111111]">Version</th>
+                        <th className="py-2 pr-4 font-semibold text-[#111111]">Concentration</th>
+                        <th className="py-2 pr-4 font-semibold text-[#111111]">Contenance</th>
+                        <th className="py-2 pr-4 font-semibold text-[#111111]">Prix</th>
+                        <th className="py-2 font-semibold text-[#111111]">Ce qui la distingue</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {versions.map((v) => {
+                        const distinctives = getDistinctiveNotes(v, versions);
+                        const estCelleCi = v.slug === product.slug;
+                        return (
+                          <tr key={v.slug} className={`border-b border-gray-100 ${estCelleCi ? "bg-[#C9A84C]/10" : ""}`}>
+                            <td className="py-2.5 pr-4">
+                              {estCelleCi ? (
+                                <strong className="text-[#111111]">{v.name}</strong>
+                              ) : (
+                                <Link href={`/parfums/${v.slug}`} className="text-[#C9A84C] hover:text-[#8B6914] font-medium">
+                                  {v.name}
+                                </Link>
+                              )}
+                            </td>
+                            <td className="py-2.5 pr-4">{v.concentration}</td>
+                            <td className="py-2.5 pr-4">{v.volume}</td>
+                            <td className="py-2.5 pr-4 whitespace-nowrap">{formatPrice(v.price)}</td>
+                            <td className="py-2.5">
+                              {distinctives.length ? distinctives.slice(0, 3).join(", ") : "Formule de référence"}
+                            </td>
+                          </tr>
+                        );
+                      })}
+                    </tbody>
+                  </table>
+                </div>
+              </>
+            ) : (
+              <>
+                <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+                  Les autres parfums {product.brand} du catalogue
+                </h2>
+                <p>
+                  Ce parfum est la seule version de sa ligne que nous distribuons. Dans le reste
+                  de la collection {product.brand}, voici les références les plus proches en
+                  budget, qui répondent souvent à la même hésitation.
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {voisinsMarque.map((v) => (
+                    <Link
+                      key={v.slug}
+                      href={`/parfums/${v.slug}`}
+                      className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/40 px-3 py-1.5 rounded-lg transition-colors"
+                    >
+                      {v.name} · {formatPrice(v.price)}
+                    </Link>
+                  ))}
+                </div>
+              </>
+            )}
+
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              {product.concentration} {product.volume} : ce que change la concentration
+            </h2>
+            <p>{concentrationSection}</p>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-              <div className="bg-white rounded-xl p-3 border border-gray-100">
+              <div className="bg-white rounded-lg p-3 border border-gray-100">
                 <div className="text-xs text-gray-400 mb-0.5">Marque</div>
                 <Link href={`/marques/${product.brandSlug}`} className="text-sm font-semibold text-[#C9A84C] hover:text-[#8B6914] transition-colors">
                   {product.brand}
@@ -271,112 +377,63 @@ export default async function ProductPage({ params }: Props) {
               </div>
               {[
                 { label: "Concentration", value: product.concentration },
-                { label: "Volume", value: product.volume },
+                { label: "Contenance", value: product.volume },
                 { label: "Famille", value: product.family },
                 { label: "Genre", value: genderLabel },
                 { label: "Occasions", value: product.occasions.slice(0, 2).join(", ") },
               ].map(({ label, value }) => (
-                <div key={label} className="bg-white rounded-xl p-3 border border-gray-100">
+                <div key={label} className="bg-white rounded-lg p-3 border border-gray-100">
                   <div className="text-xs text-gray-400 mb-0.5">{label}</div>
                   <div className="text-sm font-semibold text-[#111111]">{value}</div>
                 </div>
               ))}
             </div>
 
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Tenue et projection
-            </h3>
-            <div className="grid grid-cols-2 gap-6 max-w-sm">
-              {[
-                { label: "Longévité", value: product.longevity },
-                { label: "Sillage", value: product.sillage },
-              ].map(({ label, value }) => (
-                <div key={label}>
-                  <span className="text-sm text-gray-500">{label}</span>
-                  <div className="flex gap-1 mt-2">
-                    {[1, 2, 3, 4, 5].map((s) => (
-                      <div
-                        key={s}
-                        className={`h-2 flex-1 rounded-full ${s <= value ? "bg-[#C9A84C]" : "bg-gray-200"}`}
-                      />
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              {product.family} : ce que {product.name} donne sur la peau
+            </h2>
+            <p>{familyAndFeel}</p>
 
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Profil olfactif détaillé
-            </h3>
-            <p>{olfactoryProfile}</p>
-
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Performance en Algérie : tenue et sillage
-            </h3>
-            <p>{performance}</p>
-
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Pour qui est {product.brand} {product.name} ?
-            </h3>
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              Pour qui, et quand le porter
+            </h2>
             <p>{persona}</p>
 
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Quand porter {product.brand} {product.name} ?
-            </h3>
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              Reconnaître un {product.name} original en Algérie
+            </h2>
             <p>
-              {product.brand} {product.name} est particulièrement adapté pour {occasionContext[product.category] ?? "les amateurs de parfums en Algérie"}.
-              Les occasions idéales pour cette fragrance sont : {product.occasions.join(", ")}.
-              Pour les saisons, ce parfum se porte de préférence en {product.seasons.join(" et ")}.
-              Grâce à {product.longevity >= 4 ? "son excellente" : "sa bonne"} longévité,
-              il accompagne votre journée du matin jusqu'au soir sans retouche nécessaire.
-            </p>
-
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Comment se compare {product.name} dans notre catalogue
-            </h3>
-            <p>{comparison}</p>
-
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Acheter {product.brand} {product.name} en Algérie
-            </h3>
-            <p>
-              Maison Numidia propose {product.brand} {product.name} {product.concentration} {product.volume}
-              au prix de <strong className="text-[#111111]">{formatPrice(product.price)}</strong>, livré partout en Algérie
-              via Yalidine Express en 24 à 72 heures. Chaque flacon est 100% authentique,
-              contrôlé avant expédition. Vous payez uniquement à la réception de votre commande —
-              aucune carte bancaire, aucune avance.
-            </p>
-            <p>
-              Nous livrons dans toutes les wilayas : {deliveryWilayas.join(", ")} et bien d&apos;autres.
-              Pour commander, ajoutez ce parfum à votre panier et choisissez votre wilaya lors
-              de la validation. Notre équipe vous contacte pour confirmation dans les 24 heures.
-            </p>
-
-            <h3 className="text-lg font-bold text-[#111111] pt-4">
-              Comment reconnaître un {product.name} original ?
-            </h3>
-            <p>
-              Face aux contrefaçons qui circulent en Algérie, voici les vérifications essentielles
-              pour s&apos;assurer de l&apos;authenticité d&apos;un {product.brand} {product.name} :
+              Face aux contrefaçons qui circulent, voici ce qui se vérifie flacon en main,
+              au moment de la livraison :
             </p>
             <ul className="space-y-2 list-disc list-inside text-gray-600">
-              <li>Le flacon est d&apos;une qualité irréprochable : verre épais, spray fluide, bouchon hermétique.</li>
-              <li>Le numéro de lot (batch code) est présent et cohérent sur le flacon et la boîte.</li>
-              <li>L&apos;odeur est complexe et évolue sur la peau — un faux sent souvent l&apos;alcool ou le chimique.</li>
-              <li>Le prix trop bas est un signal d&apos;alarme : un {product.brand} original a un coût de production réel.</li>
+              <li>Le verre est épais, le spray fluide et régulier, le bouchon tient fermement.</li>
+              <li>Le numéro de lot est présent et <strong className="text-[#111111]">identique</strong> sur le flacon et sur la boîte.</li>
+              <li>L&apos;odeur évolue au fil des minutes ; une contrefaçon sent souvent l&apos;alcool à l&apos;ouverture puis disparaît.</li>
+              <li>Un prix très inférieur au marché est le signal le plus fiable : un {product.brand} a un coût de production réel.</li>
             </ul>
             <p>
-              Chez Maison Numidia, <strong className="text-[#111111]">chaque parfum est garanti 100% original</strong>.
-              Nous nous engageons sur l&apos;authenticité de chaque flacon. En cas de doute à la réception,
-              vous pouvez refuser la livraison — aucune question posée.
+              C&apos;est exactement pour cette vérification que nous livrons en paiement à la
+              réception : vous contrôlez le flacon devant le livreur, et vous refusez le colis
+              si quelque chose ne va pas, sans avoir rien avancé.
             </p>
 
-            <h3 className="text-lg font-bold text-[#111111] pt-6">
-              Questions fréquentes — {product.brand} {product.name}
-            </h3>
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              Acheter {product.brand} {product.name} en Algérie
+            </h2>
+            <p>
+              La livraison est assurée par Yalidine Express dans les 58 wilayas :
+              {" "}{deliveryWilayas.join(", ")}, et toutes les autres. Ajoutez le parfum au panier,
+              indiquez votre wilaya, et notre équipe vous appelle pour confirmer la commande
+              avant l&apos;expédition. Aucune carte bancaire n&apos;est demandée à aucun moment.
+            </p>
+
+            <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
+              Questions fréquentes
+            </h2>
             <div className="space-y-4">
               {faq.map((item) => (
-                <div key={item.q} className="bg-white rounded-xl p-4 border border-gray-100">
+                <div key={item.q} className="bg-white rounded-lg p-4 border border-gray-100">
                   <p className="font-semibold text-[#111111] text-sm sm:text-base mb-1.5">{item.q}</p>
                   <p className="text-gray-600 text-sm leading-relaxed">{item.a}</p>
                 </div>

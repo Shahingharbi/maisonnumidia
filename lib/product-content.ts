@@ -1,4 +1,75 @@
 import type { Product } from "@/lib/types";
+import { formatPrice, getDistinctiveNotes } from "@/lib/products";
+
+/** « de Dior » mais « d'Yves Saint Laurent » : sans ça le h2 sort en « Prix de Yves Saint Laurent ». */
+const de = (mot: string) =>
+  /^[aeiouyàâäéèêëîïôöùûüh]/i.test(mot.trim()) ? `d'${mot}` : `de ${mot}`;
+
+/**
+ * Section prix. C'est la première chose que cherche l'internaute : « prix » apparaît dans
+ * 28 793 impressions sur les fiches produit en 16 mois, plus que n'importe quel autre mot
+ * ajouté au nom du parfum. Le texte doit donc donner le prix, la contenance, ce que le prix
+ * inclut et ce qu'il n'inclut pas — pas tourner autour.
+ */
+export function generatePriceSection(
+  product: Product,
+  stats: { min: number; max: number; mediane: number; nombre: number } | null,
+  versions: Product[]
+): string {
+  const base = `${product.brand} ${product.name} est proposé à ${formatPrice(product.price)} chez Maison Numidia, en ${product.concentration} ${product.volume}.`;
+
+  let situation = "";
+  if (stats && stats.nombre >= 5) {
+    const cote = product.price < stats.mediane ? "en dessous" : product.price > stats.mediane ? "au-dessus" : "au niveau";
+    situation = ` Sur les ${stats.nombre} parfums ${product.brand} du catalogue, qui vont de ${formatPrice(stats.min)} à ${formatPrice(stats.max)}, il se situe ${cote} du milieu de gamme de la maison.`;
+  }
+
+  let echelle = "";
+  if (versions.length > 1) {
+    const moinsCher = versions[0];
+    const plusCher = versions[versions.length - 1];
+    echelle = moinsCher.slug === plusCher.slug
+      ? ""
+      : ` La ligne complète s'étale de ${formatPrice(moinsCher.price)} pour ${moinsCher.name} à ${formatPrice(plusCher.price)} pour ${plusCher.name} : le tableau plus bas détaille ce qui sépare chaque version.`;
+  }
+
+  const livraison = ` Les frais de livraison Yalidine s'ajoutent à ce montant et dépendent de votre wilaya. Le règlement se fait à la réception : vous ne payez rien avant d'avoir le flacon en main, et vous pouvez refuser le colis.`;
+
+  return base + situation + echelle + livraison;
+}
+
+/**
+ * Section « quelle version choisir ». Les requêtes qui citent une déclinaison (Intense,
+ * Elixir, Extrême, Neon…) totalisent 38 588 impressions et c'est la position la plus
+ * faible du site (9,2 en moyenne) : personne n'explique la différence, nous non plus.
+ * Le texte s'appuie sur les notes réellement enregistrées, jamais sur une impression.
+ */
+export function generateVersionsSection(product: Product, versions: Product[]): string {
+  if (versions.length < 2) return "";
+
+  const autres = versions.filter((v) => v.slug !== product.slug);
+  const racine = versions.reduce((a, b) => (a.name.length <= b.name.length ? a : b));
+  const intro = `Maison Numidia distribue ${versions.length} versions de cette ligne. Elles partagent la même signature — celle de ${racine.name} — mais aucune ne sent tout à fait comme les autres : la concentration change, et surtout les notes ajoutées à la formule d'origine.`;
+
+  // Le tableau juste en dessous donne deja les notes qui separent chaque version :
+  // ce paragraphe explique comment le lire, il ne le recopie pas.
+  const propre = getDistinctiveNotes(product, versions);
+  const laVotre = propre.length
+    ? ` Celle que vous consultez est la seule de notre catalogue à porter ${propre.slice(0, 3).join(", ").toLowerCase()} : c'est ce qui la sépare de ses voisines.`
+    : ` Celle que vous consultez est la formule de référence, celle dont les autres sont des variations.`;
+
+  const concentrations = [...new Set(versions.map((v) => v.concentration))];
+  const lecture = concentrations.length > 1
+    ? ` La ligne existe en ${concentrations.join(", ")} : plus la concentration est élevée, plus le parfum se fait dense et proche de la peau, là où une eau de toilette s'ouvre plus franchement et se réapplique sans y penser.`
+    : ` Toutes les versions sont proposées dans la même concentration : la différence se joue uniquement sur les notes ajoutées à la formule.`;
+
+  const volumes = [...new Set(versions.map((v) => v.volume))];
+  const contenance = volumes.length === 1
+    ? ` Toutes sont vendues en ${volumes[0]}, donc les prix du tableau se comparent directement.`
+    : ` Les contenances diffèrent d'une version à l'autre : c'est à regarder avant de comparer les prix.`;
+
+  return intro + laVotre + lecture + contenance;
+}
 
 const climateByCategory: Record<string, string> = {
   "parfums-homme":
@@ -24,6 +95,8 @@ function familyContext(family: string): string {
     return "Les parfums boisés aromatiques mêlent la fraîcheur des herbes aromatiques (lavande, romarin, sauge) à la profondeur des bois nobles. Cette construction donne un parfum à la fois énergique en ouverture et chaleureux en fond.";
   if (f.includes("boisé") && f.includes("épicé"))
     return "La famille boisée épicée combine la noblesse des bois (cèdre, vétiver, santal) avec des épices chaudes (poivre noir, cardamome, cannelle). Le résultat est un parfum riche et complexe, parfait pour le caractère.";
+  if (f.includes("gourmand"))
+    return "Les gourmands jouent sur des matières comestibles — café, vanille, caramel, praliné, cacao. C'est une famille récente, née dans les années 1990, qui assume le sucré sans tomber dans le dessert quand un fond boisé ou résineux vient la tenir.";
   if (f.includes("oriental") && f.includes("épicé"))
     return "Les orientaux épicés sont une signature emblématique de la parfumerie arabe et indienne. Ils marient des épices chaudes à des résines précieuses (encens, myrrhe), pour une fragrance profonde et envoûtante.";
   if (f.includes("oriental") && f.includes("vanillé"))
@@ -42,8 +115,6 @@ function familyContext(family: string): string {
     return "La famille chyprée est un classique intemporel : son accord bergamote, mousse de chêne, ciste et patchouli construit un parfum élégant, sophistiqué et à la signature reconnaissable.";
   if (f.includes("fougère"))
     return "La famille fougère, structurée autour de la lavande, du géranium, de la mousse et de la coumarine, est l'une des plus utilisées en parfumerie masculine pour son caractère raffiné et propre.";
-  if (f.includes("gourmand"))
-    return "Les parfums gourmands évoquent les saveurs sucrées : caramel, miel, praliné, chocolat. Une famille jeune et moderne qui séduit par son originalité et sa sensualité enveloppante.";
   if (f.includes("musc") || f.includes("ambré"))
     return "Les parfums musqués et ambrés sont parmi les plus addictifs de la parfumerie. Le musc apporte une douceur peau, l'ambre une chaleur dorée — deux ingrédients piliers de la parfumerie orientale.";
   if (f.includes("cuir"))
@@ -76,124 +147,116 @@ function longevityLabelOf(longevity: number): string {
   return "modérée";
 }
 
-export function generateOlfactoryProfile(product: Product): string {
-  const allNotes = [
-    ...product.notes.top,
-    ...product.notes.heart,
-    ...product.notes.base,
-  ];
-  const noteCount = allNotes.length;
-  const family = product.family || "olfactive";
-  const opening =
-    product.notes.top.length > 0
-      ? `À l'ouverture, ${product.brand} ${product.name} dévoile ${product.notes.top.join(", ").toLowerCase()}, une introduction qui pose immédiatement le caractère du parfum.`
-      : "";
-  const heart =
-    product.notes.heart.length > 0
-      ? ` Le cœur révèle ensuite ${product.notes.heart.join(", ").toLowerCase()}, signature centrale qui s'épanouit dans les heures qui suivent l'application.`
-      : "";
-  const base =
-    product.notes.base.length > 0
-      ? ` Enfin, le fond se compose de ${product.notes.base.join(", ").toLowerCase()}, accord profond qui assure la persistance du parfum sur la peau et sur les vêtements.`
-      : "";
-  const familyLine = ` ${familyContext(family)}`;
-  const balanceLine = ` Au total, ${noteCount} matières premières s'articulent autour de la famille ${family.toLowerCase()} pour construire une fragrance équilibrée et reconnaissable.`;
-
-  return opening + heart + base + familyLine + balanceLine;
-}
-
-export function generatePerformance(product: Product): string {
-  const longevity = product.longevity ?? 3;
+/**
+ * Famille olfactive et comportement sur la peau.
+ *
+ * Cette fonction n'enumere PAS les notes : la pyramide est affichee en haut de la fiche et
+ * la description redigee les commente deja. Les repeter une troisieme fois gonflait le nombre
+ * de mots sans rien apprendre au lecteur.
+ */
+export function generateFamilyAndFeel(product: Product): string {
+  const famille = product.family || "";
   const sillage = product.sillage ?? 3;
-  const longevityLabel = longevityLabelOf(longevity);
   const sillageLabel =
     sillage >= 5
-      ? "imposant, capable de marquer une pièce"
+      ? "capable de marquer une pièce"
       : sillage === 4
-      ? "généreux et bien perceptible autour de soi"
+      ? "généreux, bien perceptible autour de soi"
       : sillage === 3
-      ? "présent sans être intrusif, parfait pour la journée"
-      : "discret, idéal pour le bureau ou les contextes feutrés";
-  const climateLine =
-    climateByCategory[product.category] ||
-    "Le climat algérien, varié selon les régions,";
-  const concentrationLine = concentrationContext(product.concentration);
+      ? "présent sans être envahissant"
+      : "discret, proche de la peau";
 
-  return `Sur la peau, ${product.brand} ${product.name} affiche une tenue ${longevityLabel} et un sillage ${sillageLabel}. ${climateLine} influence directement la performance : sur peau chauffée par le soleil estival, les notes de tête s'évaporent plus vite mais le fond gagne en intensité. En hiver, le parfum se révèle plus discrètement mais tient plus longtemps. ${concentrationLine}`;
+  const surPeau = `Sur la peau, la tenue est ${longevityLabelOf(product.longevity ?? 3)} et le sillage ${sillageLabel}.`;
+  const climat = `${climateByCategory[product.category] || "Le climat algérien, varié selon les régions,"} joue son rôle : à la chaleur, les notes de tête s'évaporent plus vite mais le fond gagne en intensité ; au froid, le parfum met plus de temps à se déployer.`;
+
+  return `${familyContext(famille)} ${surPeau} ${climat}`;
+}
+
+export function generateConcentrationSection(product: Product, versions: Product[]): string {
+  const ml = parseInt(String(product.volume).replace(/[^0-9]/g, ""), 10);
+  const intro = concentrationContext(product.concentration);
+  const auMl = Number.isFinite(ml) && ml > 0
+    ? ` Ce flacon de ${product.volume} revient à ${Math.round(product.price / ml)} DA le millilitre.`
+    : "";
+
+  // Le prix au millilitre ne dit quelque chose que si les contenances different.
+  // Quand toute la ligne est en 90 ml, comparer le prix au ml revient a comparer les prix :
+  // autant le dire simplement.
+  const autres = versions
+    .filter((v) => v.slug !== product.slug)
+    .map((v) => ({ v, ml: parseInt(String(v.volume).replace(/[^0-9]/g, ""), 10) }))
+    .filter((x) => Number.isFinite(x.ml) && x.ml > 0);
+  const volumesDifferents = autres.some((x) => x.ml !== ml);
+
+  let comparaison = "";
+  if (volumesDifferents && Number.isFinite(ml) && ml > 0) {
+    const meilleur = autres
+      .map((x) => ({ ...x, parMl: x.v.price / x.ml }))
+      .sort((a, b) => a.parMl - b.parMl)[0];
+    comparaison = meilleur.parMl < product.price / ml
+      ? ` Dans la même ligne, ${meilleur.v.name} revient à ${Math.round(meilleur.parMl)} DA le millilitre dans son format ${meilleur.v.volume} : le flacon coûte plus cher à l'achat, mais chaque vaporisation revient moins cher.`
+      : ` C'est le format le plus avantageux de la ligne au millilitre.`;
+  }
+
+  return intro + auMl + comparaison;
 }
 
 export function generatePersona(product: Product): string {
-  const audience =
-    audienceByCategory[product.category] ||
-    "les amateurs de parfumerie de qualité en Algérie";
-  const occasionsList = product.occasions?.length
-    ? product.occasions.join(", ").toLowerCase()
-    : "le quotidien";
-  const seasonsList = product.seasons?.length
-    ? product.seasons.join(", ").toLowerCase()
-    : "toutes les saisons";
-  const seasonAdvice = (() => {
-    const s = (product.seasons || []).map((x) => x.toLowerCase());
-    if (s.includes("été") && s.includes("printemps"))
-      return "Sur le littoral algérois ou oranais, ce parfum trouve sa pleine expression en saison chaude — appliquez-le légèrement le matin pour éviter la saturation à l'arrivée des hautes températures.";
-    if (s.includes("hiver") && s.includes("automne"))
-      return "Pour les soirées d'hiver à Constantine ou les après-midi d'automne sur les Hauts Plateaux, la profondeur du parfum se révèle pleinement et accompagne les tenues plus couvrantes.";
-    if (s.includes("été"))
-      return "Réservé aux mois les plus chauds, ce parfum trouve toute sa cohérence sous le soleil estival algérien, notamment sur les plages d'Oran ou de Tipaza.";
-    if (s.includes("hiver"))
-      return "C'est un parfum de saison froide : la chaleur du corps en hiver libère progressivement ses notes les plus précieuses, parfait pour les soirées et les sorties d'hiver.";
-    return "Sa polyvalence saisonnière en fait un compagnon olfactif fiable tout au long de l'année, à adapter selon la météo et l'occasion.";
-  })();
+  const occasions = product.occasions?.length ? product.occasions.join(", ").toLowerCase() : "le quotidien";
+  const saisons = product.seasons?.length ? product.seasons.join(" et ").toLowerCase() : "toute l'année";
+  const t = `${product.family} ${[...product.notes.top, ...product.notes.heart, ...product.notes.base].join(" ")}`.toLowerCase();
 
-  return `Ce parfum s'adresse particulièrement à ${audience}. Les occasions où ${product.brand} ${product.name} déploie tout son potentiel sont nombreuses : ${occasionsList}. Côté calendrier, il est conseillé en ${seasonsList}. ${seasonAdvice} Que ce soit pour un usage quotidien à Alger, Oran, Constantine, Annaba, Sétif ou n'importe quelle autre wilaya, ${product.name} sait s'adapter au rythme de vie algérien tout en affirmant un parti pris olfactif assumé.`;
+  const chaud = /oud|vanille|ambre|gourmand|épice|cuir|tabac|résine|encens|café|caramel/.test(t);
+  const frais = /agrume|aquatique|marin|citron|bergamote|menthe|vert|thé/.test(t);
+
+  const conseil = chaud && !frais
+    ? "Une vaporisation suffit le plus souvent : ces compositions gagnent à être dosées court, et elles tiennent mieux sur un vêtement que sur une peau sèche."
+    : frais && !chaud
+    ? "Ce type de composition s'évapore vite à la chaleur : appliquez le matin sur une peau hydratée, et gardez le flacon à portée pour une seconde vaporisation en cours de journée."
+    : "Deux vaporisations au creux du cou suffisent : la zone est chaude, elle diffuse sans que le parfum devienne envahissant.";
+
+  // Les occasions viennent d'une liste de libelles ("Soirée", "Occasions spéciales") :
+  // les couler dans une phrase demanderait un article par item. On les presente telles quelles.
+  const cadre = `Les moments où il est le plus à sa place : ${occasions}. Côté saison, il donne le meilleur en ${saisons}.`;
+
+  return `${cadre} ${conseil} Reste le bon réflexe avant d'acheter un parfum qu'on ne connaît pas : le tester sur soi plutôt que sur une touche de papier, et attendre le fond avant de se décider — c'est lui qu'on portera le reste de la journée.`;
 }
 
-export function generateComparison(product: Product): string {
-  const family = product.family || "";
-  const competitorCategory =
-    product.category === "parfums-homme"
-      ? "masculines"
-      : product.category === "parfums-femme"
-      ? "féminines"
-      : "orientales et unisexes";
-  // Ni familyContext() ni concentrationContext() ici : ces deux paragraphes sont déjà rendus
-  // plus haut sur la même page (profil olfactif et performance). Les réinjecter dupliquait
-  // mot pour mot deux blocs entiers sur chaque fiche.
-  const categoryLabel =
-    product.category === "parfums-homme"
-      ? "Parfums Homme"
-      : product.category === "parfums-femme"
-      ? "Parfums Femme"
-      : "Parfums Orientaux";
-  const noteSignature = [...product.notes.base, ...product.notes.heart][0];
-  const signatureLine = noteSignature
-    ? `Dans le catalogue, c'est ${noteSignature.toLowerCase()} qui rapproche le plus ce parfum de ses voisins de rayon.`
-    : "";
+/**
+ * FAQ. Trois questions, pas huit : sur 16 mois, les requetes qui atterrissent sur une fiche
+ * portent sur le prix (28 793 impressions), la declinaison (38 588) et l'authenticite (697).
+ * Celles sur la tenue ou les avis n'existent quasiment pas — les poser ici ne sert personne.
+ */
+export function generateFAQ(product: Product, versions: Product[] = []): { q: string; a: string }[] {
+  const autres = versions.filter((v) => v.slug !== product.slug);
+  const questions: { q: string; a: string }[] = [];
 
-  return `Comparé aux autres références ${competitorCategory} du catalogue Maison Numidia, ${product.brand} ${product.name} ${product.concentration} ${product.volume} se situe dans le segment ${family.toLowerCase()}. ${signatureLine} Les parfums liés en bas de page sont ceux dont la construction s'en rapproche le plus, et la catégorie ${categoryLabel} réunit l'ensemble des références du même registre.`;
-}
+  questions.push({
+    q: `Combien coûte ${product.brand} ${product.name} en Algérie ?`,
+    a: `Le prix affiché en haut de cette page est celui du flacon ${product.concentration} ${product.volume}, en dinar algérien, pour un produit 100% original. Les frais de livraison Yalidine s'y ajoutent et dépendent de votre wilaya. Aucune carte bancaire n'est demandée : vous réglez au livreur, à la réception.`,
+  });
 
-export function generateFAQ(product: Product): { q: string; a: string }[] {
-  const longevityLabel = longevityLabelOf(product.longevity ?? 3);
+  if (autres.length) {
+    const comparee = autres[0];
+    const d = getDistinctiveNotes(comparee, versions);
+    const ecart = d.length
+      ? `pousse la formule vers ${d.slice(0, 2).join(" et ").toLowerCase()}`
+      : `reprend la même construction dans une autre concentration`;
+    questions.push({
+      q: `Quelle différence entre ${product.name} et ${comparee.name} ?`,
+      a: `${comparee.name} est vendu en ${comparee.concentration} ${comparee.volume} et ${ecart}. ${product.name} reste en ${product.concentration}. Une concentration plus élevée ne rend pas le parfum « meilleur » : elle le rend plus dense et plus proche de la peau, là où une eau de toilette s'ouvre plus franchement. Le tableau des versions, plus haut sur cette page, compare les ${versions.length} déclinaisons que nous distribuons.`,
+    });
+  } else {
+    questions.push({
+      q: `${product.name} existe-t-il en d'autres contenances ?`,
+      a: `Nous distribuons ce parfum en ${product.volume}. C'est la contenance la plus courante sur le marché algérien, et celle pour laquelle nos fournisseurs ont un approvisionnement régulier. Si une autre contenance vous intéresse, l'équipe peut vous dire au téléphone si elle est trouvable.`,
+    });
+  }
 
-  return [
-    {
-      q: `Quelle est la tenue de ${product.brand} ${product.name} ?`,
-      a: `${product.brand} ${product.name} ${product.concentration} offre une tenue ${longevityLabel}. La performance varie surtout selon le type de peau (les peaux sèches retiennent moins le parfum), la saison (la chaleur accélère l'évaporation des notes de tête mais intensifie le fond) et la zone d'application (les zones chaudes comme le cou ou les poignets diffusent davantage).`,
-    },
-    {
-      // Volontairement différent de la section "Comment reconnaître un ... original ?" plus haut
-      // dans la page : la répéter ici dupliquait les quatre mêmes vérifications sur chaque fiche.
-      q: `Puis-je refuser le colis à la livraison ?`,
-      a: `Oui. Le livreur Yalidine vous remet le colis et vous le réglez seulement si vous le gardez : vous pouvez examiner le flacon et refuser la livraison sans avoir à vous justifier, et sans rien payer. C'est le principe du paiement à la réception, et c'est aussi ce qui vous protège si le produit ne correspond pas à ce que vous attendiez.`,
-    },
-    {
-      q: `Combien coûte ${product.brand} ${product.name} en Algérie ?`,
-      a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} est proposé chez Maison Numidia au prix affiché en haut de cette page, en dinar algérien, pour un flacon 100% original. Les frais de livraison Yalidine s'ajoutent à ce montant et dépendent de votre wilaya. Aucune carte bancaire n'est requise : vous payez à la livraison.`,
-    },
-    {
-      q: `Combien de temps pour la livraison en Algérie ?`,
-      a: `La livraison est assurée par Yalidine Express dans les 58 wilayas d'Algérie. Pour Alger, Oran, Blida et les grandes villes du nord, comptez 24 à 48 heures après confirmation de la commande. Pour les wilayas plus éloignées (Tamanrasset, Adrar, Tindouf), la livraison prend généralement 48 à 72 heures. Notre équipe vous contacte par téléphone dans les 24 heures pour valider votre commande avant expédition.`,
-    },
-  ];
+  questions.push({
+    q: `Comment être sûr de recevoir un ${product.name} original ?`,
+    a: `Le paiement à la réception est votre garantie : le livreur vous remet le colis, vous examinez le flacon, et vous ne réglez que si vous le gardez. Vous pouvez refuser la livraison sans vous justifier et sans rien payer. Les points à vérifier sur place sont listés plus haut sur cette page : qualité du verre et du spray, numéro de lot identique sur le flacon et la boîte, odeur qui évolue au lieu de sentir l'alcool.`,
+  });
+
+  return questions;
 }
