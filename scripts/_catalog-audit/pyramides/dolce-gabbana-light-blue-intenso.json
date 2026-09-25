@@ -1,0 +1,13 @@
+{
+ "slug": "dolce-gabbana-light-blue-intenso",
+ "notes": {
+  "top": ["Pamplemousse", "Mandarine"],
+  "heart": ["Eau de mer", "Genevrier"],
+  "base": ["Musc", "Bois ambre"]
+ },
+ "source": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-Pour-Homme-44035.html",
+ "decoupageFourni": true,
+ "remarque": "Pyramide enregistree confirmee exacte par Fragrantica (Light Blue Eau Intense Pour Homme, 2017, EDP) : aucun changement necessaire cote pyramide. En revanche le texte de description (products.json) cite bergamote en tete, bois de cedre/lavande/poivre en coeur et vetiver en fond, des notes absentes de la vraie pyramide. C'est le texte qui doit etre corrige, pas la pyramide : elle garde ses notes actuelles.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-25"
+}
