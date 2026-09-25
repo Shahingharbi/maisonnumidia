@@ -61,6 +61,18 @@ const nextConfig: NextConfig = {
       { source: "/parfums/al-haramain-rose-d-arabie", destination: "/parfums/al-haramain-rose-oud", permanent: true },
       { source: "/parfums/franck-olivier-club-night", destination: "/marques/franck-olivier", permanent: true },
       { source: "/parfums/lattafa-shamoos", destination: "/marques/lattafa", permanent: true },
+      // Fusion de doublons du 25/09/2026 : deux URL decrivaient le meme parfum, meme ID
+      // Fragrantica. L URL conservee est celle qui recoit le plus de clics en Search Console.
+      { source: "/parfums/dior-blooming-bouquet", destination: "/parfums/miss-dior-blooming-bouquet", permanent: true },
+      { source: "/parfums/hugo-boss-hugo-homme", destination: "/parfums/hugo-man-hugo-boss", permanent: true },
+      { source: "/parfums/lattafa-oud-mood-noir", destination: "/parfums/lattafa-oud-mood", permanent: true },
+      { source: "/parfums/lanvin-eclat-d-arpege", destination: "/parfums/eclat-arpege-lanvin", permanent: true },
+      { source: "/parfums/mugler-innocent", destination: "/parfums/thierry-mugler-innocent", permanent: true },
+      { source: "/parfums/viktor-rolf-bon-bon", destination: "/parfums/bonbon-viktor-rolf", permanent: true },
+      { source: "/parfums/issey-miyake-l-homme-issey", destination: "/parfums/l-eau-d-issey-homme", permanent: true },
+      { source: "/parfums/lancome-la-nuit-tresor-nu", destination: "/parfums/lancome-la-nuit-tresor-nude", permanent: true },
+      { source: "/parfums/ultra-male-jean-paul-gaultier", destination: "/parfums/jean-paul-gaultier-ultra-male", permanent: true },
+      { source: "/parfums/givenchy-gentleman-parfum", destination: "/parfums/givenchy-gentleman", permanent: true },
       { source: "/parfums/acqua-di-gio-femme-armani", destination: "/parfums/armani-acqua-di-gioia", permanent: true },
       { source: "/parfums/armani-si-passione", destination: "/parfums/si-passione-armani", permanent: true },
       // Fusion de doublons (juin 2026) — 301 vers la fiche canonique

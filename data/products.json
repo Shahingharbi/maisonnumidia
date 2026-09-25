@@ -4580,67 +4580,9 @@
       "related": [
         "la-nuit-de-l-homme-ysl",
         "habit-rouge-guerlain",
-        "ultra-male-jean-paul-gaultier"
+        "jean-paul-gaultier-ultra-male"
       ],
       "h1": "Viktor Rolf Spicebomb Parfum Homme Algérie"
-    },
-    {
-      "id": "ultra-male-jean-paul-gaultier",
-      "slug": "ultra-male-jean-paul-gaultier",
-      "name": "Ultra Male",
-      "brand": "Jean Paul Gaultier",
-      "brandSlug": "jean-paul-gaultier",
-      "gender": "homme",
-      "category": "parfums-homme",
-      "family": "Oriental Fougère",
-      "concentration": "EDT",
-      "volume": "125ml",
-      "price": 24500,
-      "originalPrice": null,
-      "badge": null,
-      "shortDescription": "La masculinité amplifiée par Jean Paul Gaultier. Poire juteuse, lavande et vanille pour un oriental aromatique excessif et irrésistible — Ultra Male, pour les hommes qui n'ont pas peur.",
-      "description": "Jean Paul Gaultier Ultra Male EDT est exactement ce que son nom promet: la masculinité portée à son degré maximal. Lancé en 2015 comme une intensification du Le Male original, Ultra Male reprend les codes de son prédécesseur et les pousse dans leurs retranchements — plus sucré, plus intense, plus affirmé. L'ouverture est une surprise gourmande: poire dorée juteuse et légèrement sucrée associée à la bergamote lumineuse et au feuillage frais. Cette entrée fruitée et appétissante n'est pas ce qu'on attend d'un parfum masculin — c'est précisément l'intention de Jean Paul Gaultier, qui a toujours aimé jouer avec les codes du genre. Le cœur aromatique-oriental est le cœur du parfum: lavande aromatique profonde, sapin baumier légèrement résineux et cannelle chaude. Cet accord aromatique-épicé est familier pour ceux qui connaissent Le Male, mais ici plus intense, plus profond, plus affirmé dans chaque direction. La base est somptueuse et addictive: vanille crémeuse et généreuse, cèdre légèrement boisé et patchouli sombre. Ce fond vanillé-boisé-patchoulé donne à Ultra Male son caractère distinctif — chaud, enveloppant, légèrement gourmand — et sa tenue exceptionnelle de 12 heures. En Algérie, Ultra Male est le parfum des hommes qui aiment les fragrances sucrées et orientales, mais veulent quelque chose de plus structuré et plus masculin qu'un oriental pur. Ultra Male fait partie des références haut de gamme du catalogue, dans cette tranche où chaque note est travaillée et où la concentration du jus se ressent immédiatement. L'identité boisée-aromatique de Ultra Male trouve un public naturel en Algérie, où ce style n'a jamais cessé d'être porté malgré les modes passagères. La longévité de Ultra Male dépasse la journée complète et conserve son identité olfactive jusque tard le soir. Ultra Male donne le meilleur de lui-même en automne, hiver, là où climat et structure du parfum s'accordent naturellement. Ultra Male est plutôt un parfum du soir et du week-end, à porter là où une présence olfactive affirmée est bienvenue.",
-      "notes": {
-        "top": [
-          "Poire",
-          "Lavande",
-          "Menthe",
-          "Bergamote",
-          "Citron"
-        ],
-        "heart": [
-          "Cannelle",
-          "Sauge Sclarée",
-          "Carvi"
-        ],
-        "base": [
-          "Vanille Noire",
-          "Ambre",
-          "Patchouli",
-          "Cèdre"
-        ]
-      },
-      "occasions": [
-        "Soirée",
-        "Automne",
-        "Occasions Spéciales"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 5,
-      "sillage": 5,
-      "image": "/images/products/ultra-male-jean-paul-gaultier.jpg",
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "le-male-jean-paul-gaultier",
-        "le-male-le-parfum",
-        "spicebomb-viktor-rolf"
-      ],
-      "h1": "Jean Paul Gaultier Ultra Male Parfum Homme Algérie"
     },
     {
       "id": "poison-girl-dior",
@@ -4756,7 +4698,7 @@
     {
       "id": "insolence-guerlain",
       "slug": "insolence-guerlain",
-      "name": "Insolence",
+      "name": "Insolence Eau de Parfum",
       "brand": "Guerlain",
       "brandSlug": "guerlain",
       "gender": "femme",
@@ -4804,7 +4746,7 @@
         "tresor-lancome",
         "chloe-signature"
       ],
-      "h1": "Guerlain Insolence Parfum Femme Algérie"
+      "h1": "Guerlain Insolence Eau de Parfum Parfum Femme Algérie"
     },
     {
       "id": "kenzo-flower",
@@ -6988,8 +6930,8 @@
     {
       "id": "y-ysl-homme",
       "slug": "y-ysl-homme",
-      "h1": "Yves Saint Laurent Y Parfum Homme Algérie",
-      "name": "Y",
+      "h1": "Yves Saint Laurent Y Eau de Parfum Parfum Homme Algérie",
+      "name": "Y Eau de Parfum",
       "brand": "Yves Saint Laurent",
       "brandSlug": "ysl",
       "category": "parfums-homme",
@@ -7707,60 +7649,6 @@
         "miss-dior",
         "dior-jadore",
         "flowerbomb-viktor-rolf"
-      ]
-    },
-    {
-      "id": "dior-blooming-bouquet",
-      "slug": "dior-blooming-bouquet",
-      "h1": "Dior Miss Dior Blooming Bouquet Parfum Femme Algérie",
-      "name": "Miss Dior Blooming Bouquet",
-      "brand": "Dior",
-      "brandSlug": "dior",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDT",
-      "volume": "100ml",
-      "price": 30500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/dior-blooming-bouquet.jpg",
-      "shortDescription": "Dior Blooming Bouquet est l'une des fragrances féminines les plus vendues au monde — pivoine, musc blanc et notes poudrées pour une légèreté florale irrésistible.",
-      "description": "Dior Blooming Bouquet est une fragrance qui a conquis les femmes du monde entier grâce à sa légèreté florale, son élégance discrète et son accessibilité olfactive. Lancé en 2014 et devenu un bestseller mondial, il incarne la vision contemporaine de la féminité Dior: délicate, fraîche, immédiatement séduisante. L'ouverture est d'une légèreté remarquable: une pointe de pamplemousse transparent et une fleur de pivoine fraîche qui s'épanouit en quelques secondes. C'est une note de tête qui fait sourire — lumineuse, printanière, optimiste. Le cœur développe un accord floral tout en douceur: pivoine encore plus pleine, rose légère, musc blanc poudré qui commence à ancrer la composition dans sa signature caractéristique. La base est minimale et raffinée: musc blanc pur, santal crémeux, une poudre délicate qui reste sur la peau comme un souvenir. En Algérie, Blooming Bouquet est le parfum parfait pour les femmes qui veulent quelque chose d'élégant sans être agressif. Idéal pour le bureau, les sorties diurnes, les réunions de famille. Sa discrétion et sa fraîcheur en font également un excellent choix pour les femmes qui souhaitent un parfum de printemps et d'été. Flacon 100ml EDT original, livraison Yalidine, paiement à la réception. Dior Blooming Bouquet se positionne dans le haut du panier de notre catalogue algérien — un tarif qui reflète l'exigence d'une maison établie et la qualité des matières premières utilisées. Le caractère floral de Blooming Bouquet offre une alternative lumineuse aux registres plus chauds qui ont longtemps dominé la parfumerie féminine algérienne. Tenue honnête mais modérée pour Blooming Bouquet — cinq à sept heures avec un sillage qui se calme progressivement. Période de port privilégiée pour Blooming Bouquet : printemps, été, où la construction olfactive révèle toute sa richesse. À porter selon l'humeur, Blooming Bouquet offre cette adaptabilité rare qui en fait un parfum de collection indispensable.",
-      "notes": {
-        "top": [
-          "Pamplemousse",
-          "Pomme"
-        ],
-        "heart": [
-          "Pivoine",
-          "Rose blanche",
-          "Musc blanc"
-        ],
-        "base": [
-          "Musc blanc",
-          "Santal",
-          "Poudre"
-        ]
-      },
-      "family": "Floral Poudré",
-      "occasions": [
-        "Bureau",
-        "Journée",
-        "Printemps"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été"
-      ],
-      "longevity": 3,
-      "sillage": 2,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "miss-dior",
-        "chance-eau-tendre-chanel",
-        "gucci-bloom"
       ]
     },
     {
@@ -13239,8 +13127,8 @@
       "isOriental": false,
       "related": [
         "miss-dior",
-        "dior-blooming-bouquet",
-        "chanel-chance-eau-fraiche"
+        "chanel-chance-eau-fraiche",
+        "joy-dior"
       ]
     },
     {
@@ -15831,61 +15719,6 @@
         "212-vip-women-carolina-herrera",
         "carolina-herrera-212-men",
         "good-girl-carolina-herrera"
-      ]
-    },
-    {
-      "id": "mugler-innocent",
-      "slug": "mugler-innocent",
-      "h1": "Mugler Innocent Parfum Femme Algérie",
-      "name": "Innocent",
-      "brand": "Mugler",
-      "brandSlug": "mugler",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDT",
-      "volume": "75ml",
-      "price": 16500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/mugler-innocent.jpg",
-      "shortDescription": "Innocent ouvre sur la mandarine et la bergamote, puis un cœur de cassis, de fruits rouges et d'amande glisse vers un fond gourmand de praline, de musc blanc et d'ambre. Un oriental vanillé signé Mugler, sucré sans excès, à porter en journée comme en soirée.",
-      "description": "Mugler a construit Innocent comme une version plus douce de l'univers gourmand de la maison : un oriental vanillé où le sucré reste mesuré, porté par une pyramide assez courte et facile à identifier. Le nom même du parfum renvoie à cette idée de douceur simple, sans la démesure d'autres compositions plus opulentes de la même famille olfactive.\n\nL'ouverture se limite à la mandarine et à la bergamote, un accord agrume simple qui laisse rapidement la place au cœur plutôt que de s'attarder sur une phase fraîche prolongée. Cette entrée en matière reste volontairement discrète, presque effacée, pour mieux préparer l'arrivée du cœur fruité.\n\nLe cassis, les fruits rouges et l'amande forment un cœur fruité et légèrement gourmand, avant que la praline, le musc blanc et l'ambre ne prennent le relais en fond. L'amande apporte une facette légèrement lactée qui annonce déjà la douceur du fond, tandis que la praline installe la note gourmande la plus marquée de toute la composition. C'est cette base qui donne au parfum son caractère chaleureux et sa tenue sur la peau.\n\nIl se porte aussi bien en journée qu'en soirée, avec une préférence pour l'automne et l'hiver, même si le printemps lui convient également. Sa douceur mesurée en fait un choix facile pour un usage régulier, sans lasser au fil des jours. Maison Numidia le propose en flacon de 75 ml, EDT, produit original livré par Yalidine dans les 58 wilayas, payé à la réception avec droit de refus à la livraison.",
-      "notes": {
-        "top": [
-          "Mandarine",
-          "Bergamote"
-        ],
-        "heart": [
-          "Cassis",
-          "Fruits rouges",
-          "Amande"
-        ],
-        "base": [
-          "Praline",
-          "Musc blanc",
-          "Ambre"
-        ]
-      },
-      "family": "Oriental Vanillé",
-      "occasions": [
-        "Journée",
-        "Bureau",
-        "Soirée"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver",
-        "Printemps"
-      ],
-      "longevity": 4,
-      "sillage": 3,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "angel-mugler",
-        "alien-goddess-mugler",
-        "la-vie-est-belle-lancome"
       ]
     },
     {
@@ -23520,57 +23353,6 @@
       ]
     },
     {
-      "id": "hugo-boss-hugo-homme",
-      "slug": "hugo-boss-hugo-homme",
-      "h1": "Hugo Boss Hugo Man Parfum Homme Algérie",
-      "name": "Hugo Man",
-      "brand": "Hugo Boss",
-      "brandSlug": "hugo-boss",
-      "category": "parfums-homme",
-      "gender": "homme",
-      "concentration": "EDT",
-      "volume": "125ml",
-      "price": 14500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/hugo-boss-hugo-homme.jpg",
-      "shortDescription": "Hugo Boss Hugo Man est un Eau de Toilette masculin aromatique boisé de 125ml, ouvert sur la pomme verte et la lavande avant un fond de pin et de sapin baumier. Une fragrance fraîche pour le quotidien, le week-end ou le sport. Livraison Yalidine 58 wilayas, paiement à la réception.",
-      "description": "Hugo Man, chez Hugo Boss, est une Eau de Toilette masculine de 125ml qui appartient à la famille aromatique boisé, un registre frais et vert pensé pour un usage large et sans façon.\n\nL'ouverture repose sur la pomme verte, croquante et légèrement acidulée, qui donne au parfum son énergie immédiate. Le cœur se resserre autour de la lavande, note aromatique par excellence, propre et rafraîchissante. Le fond se déploie ensuite sur des notes boisées franches, associées au pin et au sapin baumier, deux notes qui évoquent la forêt et l'air extérieur plutôt qu'un boisé chaud et sucré.\n\nCette construction courte, de la pomme à la lavande puis aux bois de conifère, donne à Hugo Man une lecture directe : le parfum ne cherche pas la complexité mais l'efficacité. C'est une fragrance de tous les jours, à l'aise au bureau comme le week-end, et suffisamment légère pour accompagner une activité sportive sans devenir écrasante une fois la chaleur du corps montée.\n\nLe printemps et l'été restent les saisons les plus favorables à Hugo Man : la fraîcheur de la pomme verte et de la lavande s'accorde naturellement aux journées chaudes, quand un boisé plus dense serait de trop. C'est aussi un parfum accessible, qui convient à un usage quotidien sans monopoliser l'attention.\n\nMaison Numidia propose ce Hugo Boss Hugo Man 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception. Comme pour toute commande, le client garde la possibilité de refuser le colis à la livraison s'il ne correspond pas à ses attentes.",
-      "notes": {
-        "top": [
-          "Pomme verte"
-        ],
-        "heart": [
-          "Lavande"
-        ],
-        "base": [
-          "Pin",
-          "Notes boisées",
-          "Sapin baumier"
-        ]
-      },
-      "family": "Aromatique Boisé",
-      "occasions": [
-        "Quotidien",
-        "Week-end",
-        "Sport"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été"
-      ],
-      "longevity": 3,
-      "sillage": 3,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "boss-the-scent-homme",
-        "boss-alive",
-        "hugo-boss-bottled"
-      ]
-    },
-    {
       "id": "azzaro-most-wanted",
       "slug": "azzaro-most-wanted",
       "h1": "Azzaro Most Wanted Parfum Homme Algérie",
@@ -23883,75 +23665,6 @@
         "ajmal-evoke-homme",
         "rasasi-daris",
         "al-haramain-amber-oud"
-      ]
-    },
-    {
-      "id": "issey-miyake-l-homme-issey",
-      "slug": "issey-miyake-l-homme-issey",
-      "h1": "Issey Miyake L'Eau d'Issey pour Homme Parfum Homme Algérie",
-      "name": "L'Eau d'Issey pour Homme",
-      "brand": "Issey Miyake",
-      "brandSlug": "issey-miyake",
-      "category": "parfums-homme",
-      "gender": "homme",
-      "concentration": "EDT",
-      "volume": "100ml",
-      "price": 16000,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/issey-miyake-l-homme-issey.jpg",
-      "shortDescription": "Issey Miyake L'Eau d'Issey pour Homme est un boisé aquatique emblématique lancé en 1994, pendant masculin du célèbre L'Eau d'Issey. Yuzu, mandarine et cyprès en ouverture, puis vétiver de Tahiti et santal en fond, pour une fraîcheur épicée devenue une référence.",
-      "description": "Issey Miyake L'Eau d'Issey pour Homme est le pendant masculin du célèbre L'Eau d'Issey féminin, lancé en 1994. Ce parfum a marqué son époque en imposant une fraîcheur aquatique nouvelle dans la parfumerie masculine, à une période où les fragrances boisées classiques dominaient encore largement le marché.\n\nL'ouverture est un accord d'agrumes vif et complexe: yuzu japonais, citron, bergamote, verveine citronnée et mandarine se mêlent à des notes plus originales comme le cyprès, la calone (pour l'effet marin), la coriandre, la sauge et l'estragon. Cette pyramide d'ouverture, particulièrement riche pour l'époque, crée une sensation immédiate de fraîcheur et d'énergie.\n\nLe cœur s'oriente vers des notes plus chaudes et épicées: lotus bleu et muguet pour la facette florale, noix de muscade, géranium bourbon, safran, cannelle de Ceylan et réséda pour la profondeur épicée. Cette construction contraste avec la fraîcheur de l'ouverture et prépare la transition vers un fond plus boisé.\n\nLa base repose sur le vétiver de Tahiti, le musc, le cèdre, le santal, l'ambre et une pointe de tabac, qui ancrent le parfum dans un sillage boisé chaud et persistant.\n\nL'Eau d'Issey pour Homme est le parfum de l'homme qui apprécie la fraîcheur sans sacrifier la profondeur. Sa réputation de fondateur d'une famille olfactive tient à cette construction originale, mêlant agrumes, épices et bois d'une manière qui n'avait pas d'équivalent à sa sortie. En Algérie, ce parfum Issey Miyake reste très demandé pour sa fraîcheur distinctive et son excellent rapport qualité-prix.\n\nChez Maison Numidia, L'Eau d'Issey pour Homme fait partie des références accessibles du catalogue, avec une composition travaillée qui se ressent dès la première vaporisation. Ce style boisé-aquatique trouve un public fidèle en Algérie, où la fraîcheur reste recherchée toute l'année.\n\nÀ utiliser aussi bien en semaine qu'en week-end, L'Eau d'Issey pour Homme reste approprié dans la plupart des contextes, du bureau aux sorties décontractées.",
-      "notes": {
-        "top": [
-          "Yuzu",
-          "Citron",
-          "Bergamote",
-          "Verveine citronnée",
-          "Mandarine",
-          "Cyprès",
-          "Calone",
-          "Coriandre",
-          "Sauge",
-          "Estragon"
-        ],
-        "heart": [
-          "Lotus bleu",
-          "Muguet",
-          "Noix de muscade",
-          "Géranium bourbon",
-          "Safran",
-          "Cannelle de Ceylan",
-          "Réséda"
-        ],
-        "base": [
-          "Vétiver de Tahiti",
-          "Musc",
-          "Cèdre",
-          "Santal",
-          "Ambre",
-          "Tabac"
-        ]
-      },
-      "family": "Aquatique Boisé",
-      "occasions": [
-        "Bureau",
-        "Quotidien",
-        "Sport"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été"
-      ],
-      "longevity": 3,
-      "sillage": 3,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "issey-miyake-a-drop-d-issey",
-        "acqua-di-gio-armani",
-        "davidoff-cool-water"
       ]
     },
     {
@@ -26372,7 +26085,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "hugo-boss-hugo-homme",
+        "hugo-man-hugo-boss",
         "boss-the-scent-homme",
         "boss-alive"
       ]
@@ -26659,8 +26372,8 @@
     {
       "id": "chanel-chance-eau-tendre",
       "slug": "chanel-chance-eau-tendre",
-      "h1": "Chanel Chance Eau Tendre Parfum Femme Algérie",
-      "name": "Chance Eau Tendre",
+      "h1": "Chanel Chance Eau Tendre Eau de Parfum Parfum Femme Algérie",
+      "name": "Chance Eau Tendre Eau de Parfum",
       "brand": "Chanel",
       "brandSlug": "chanel",
       "category": "parfums-femme",
@@ -26760,61 +26473,6 @@
         "hermes-l-ombre-des-merveilles",
         "hermes-jour-d-hermes",
         "terre-d-hermes"
-      ]
-    },
-    {
-      "id": "lanvin-eclat-d-arpege",
-      "slug": "lanvin-eclat-d-arpege",
-      "h1": "Lanvin Eclat d'Arpège Parfum Femme Algérie",
-      "name": "Eclat d'Arpège",
-      "brand": "Lanvin",
-      "brandSlug": "lanvin",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 13000,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/lanvin-eclat-d-arpege.jpg",
-      "shortDescription": "Lanvin Eclat d'Arpège est une eau de parfum féminine florale fruitée, plus légère et accessible qu'Arpège. Grenade rose, mandarine et bergamote ouvrent sur un bouquet de pivoine, rose et muguet, avant un fond de musc blanc et d'ambre léger. Pour le bureau et le quotidien printanier.",
-      "description": "Lanvin Eclat d'Arpège est une eau de parfum féminine de 100 ml, rattachée à la famille florale fruitée. Elle propose une version plus légère et plus actuelle que l'Arpège historique, pensée pour un usage quotidien plutôt que pour les grandes occasions.\n\nL'ouverture est fraîche et fruitée : la grenade rose, la mandarine et la bergamote composent un accord lumineux et pétillant, immédiatement agréable. Le cœur développe un bouquet floral classique de pivoine, rose et muguet, un ensemble printanier qui garde la légèreté de l'ouverture sans jamais devenir fade. La base, discrète, repose sur le musc blanc, le cèdre et l'ambre léger, pour une tenue douce qui laisse le bouquet floral respirer.\n\nEclat d'Arpège convient particulièrement au bureau et à un usage quotidien, avec une préférence pour le printemps, tout en restant agréable en été. Comparée à Arpège, cette version mise sur l'accessibilité plutôt que sur la densité, un choix qui trouve un public naturel parmi les femmes qui préfèrent porter leur parfum au quotidien plutôt que pour les grandes occasions, sans pour autant sacrifier l'élégance de la maison Lanvin.\n\nMaison Numidia propose cette eau de parfum Lanvin authentique, livrée partout en Algérie grâce à Yalidine, dans les 58 wilayas. Le règlement s'effectue à la réception, et la cliente peut refuser la livraison si le parfum reçu ne correspond pas à ses attentes.",
-      "notes": {
-        "top": [
-          "Grenade rose",
-          "Mandarine",
-          "Bergamote"
-        ],
-        "heart": [
-          "Pivoine",
-          "Rose",
-          "Muguet"
-        ],
-        "base": [
-          "Musc blanc",
-          "Cèdre",
-          "Ambre léger"
-        ]
-      },
-      "family": "Floral Fruité",
-      "occasions": [
-        "Bureau",
-        "Quotidien",
-        "Printemps"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été"
-      ],
-      "longevity": 3,
-      "sillage": 2,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "lanvin-arpege",
-        "lanvin-jeanne",
-        "nina-ricci-premier-jour"
       ]
     },
     {
@@ -31497,7 +31155,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "ultra-male-jean-paul-gaultier",
+        "jean-paul-gaultier-ultra-male",
         "le-male-jean-paul-gaultier",
         "carolina-herrera-bad-boy"
       ]
@@ -32802,7 +32460,7 @@
       "isOriental": false,
       "related": [
         "lanvin-arpege",
-        "lanvin-eclat-d-arpege",
+        "eclat-arpege-lanvin",
         "lacoste-challenge"
       ]
     },
@@ -33851,7 +33509,7 @@
       "related": [
         "ferragamo-signorina",
         "azzaro-chrome",
-        "issey-miyake-l-homme-issey"
+        "l-eau-d-issey-homme"
       ]
     },
     {
@@ -36114,62 +35772,6 @@
       ]
     },
     {
-      "id": "viktor-rolf-bon-bon",
-      "slug": "viktor-rolf-bon-bon",
-      "h1": "Viktor Rolf Bon Bon Parfum Femme Algérie",
-      "name": "Bon Bon",
-      "brand": "Viktor & Rolf",
-      "brandSlug": "viktor-rolf",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 21500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/viktor-rolf-bon-bon.jpg",
-      "shortDescription": "Viktor & Rolf Bon Bon est un gourmand floral luxueux et enveloppant. Caramel, pêche et bois de santal dans un parfum irrésistiblement doux pour la femme qui s'offre des plaisirs.",
-      "description": "Viktor & Rolf Bon Bon est une déclaration d'amour au plaisir sans complexe. La maison hollandaise Viktor & Rolf, connue pour ses créations mode conceptuelles et audacieuses, a transposé sa philosophie dans un parfum gourmand floral qui refuse toute retenue. Le flacon de Bon Bon est déjà une déclaration: un sac à main en résine rose bonbon avec une chaine dorée, transportable comme un accessoire précieux. Ce flacon est devenu l'un des objets de parfumerie les plus collectionnés et photographiés de la dernière décennie. La composition est un chef-d'oeuvre de parfumerie gourmande. L'ouverture est une explosion fruitée de pêche, mandarine et mandarine de Sicile dans un accord juteux et pétillant. Le cœur révèle la touche signature de la maison: caramel doux, bois de santal et un accord pivoine-jasmin qui fond littéralement sur la peau. La base est généreuse et persistante — vanille soyeuse, bois de cèdre et musc — un accord qui accompagne comme un nuage agréable des heures durant. Bon Bon est la fragrance de celles qui ne se privent pas. Côté prix, Viktor & Rolf Bon Bon se situe dans le segment luxe — un investissement olfactif qui se justifie par la signature reconnaissable et la longévité du parfum. La palette florale de Bon Bon rééquilibre l'approche olfactive traditionnelle, avec plus de fraîcheur et moins de poudre. Côté tenue, Bon Bon dépasse largement les huit heures, un atout décisif pour qui déteste re-vaporiser en journée. Période de port privilégiée pour Bon Bon : automne, hiver, où la construction olfactive révèle toute sa richesse. Bon Bon accompagne aussi bien le quotidien que les occasions spéciales — bureau, déjeuner, cérémonie — avec une présence assumée sans excès.",
-      "notes": {
-        "top": [
-          "Pêche",
-          "Mandarine",
-          "Orange"
-        ],
-        "heart": [
-          "Caramel",
-          "Fleur d'oranger",
-          "Jasmin"
-        ],
-        "base": [
-          "Ambre",
-          "Bois de santal",
-          "Bois de gaïac",
-          "Cèdre"
-        ]
-      },
-      "family": "Fruité Floral Gourmand",
-      "occasions": [
-        "Soirée",
-        "Week-end",
-        "Sorties"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 5,
-      "sillage": 4,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "flowerbomb-viktor-rolf",
-        "britney-spears-fantasy",
-        "black-opium-ysl"
-      ]
-    },
-    {
       "id": "marc-jacobs-daisy-wild",
       "slug": "marc-jacobs-daisy-wild",
       "h1": "Marc Jacobs Daisy Wild Parfum Femme Algérie",
@@ -36670,64 +36272,6 @@
         "al-haramain-amber-oud-tobacco",
         "afnan-supremacy-noir",
         "lattafa-fakhar-homme"
-      ]
-    },
-    {
-      "id": "lattafa-oud-mood-noir",
-      "slug": "lattafa-oud-mood-noir",
-      "h1": "Lattafa Oud Mood Parfum Mixte Algérie",
-      "name": "Oud Mood",
-      "brand": "Lattafa",
-      "brandSlug": "lattafa",
-      "category": "parfums-orientaux",
-      "gender": "unisexe",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 7400,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/lattafa-oud-mood-noir.jpg",
-      "shortDescription": "Lattafa Oud Mood est une eau de parfum unisexe orientale boisée, construite autour d'un accord oud-rose-safran. Piment de la Jamaïque en tête, caramel et patchouli au cœur, fond d'ambre, d'encens et de musc. Pour les soirées et les nuits d'hiver.",
-      "description": "Lattafa Oud Mood est une eau de parfum unisexe de 100 ml, rattachée à la famille orientale boisée. Elle fait partie des compositions les plus connues du catalogue Lattafa, construite autour d'un accord oud-rose classique du genre.\n\nL'ouverture associe la rose, le safran et le piment de la Jamaïque dans un accord épicé et floral à la fois, chaleureux dès les premières minutes. Le cœur développe l'oud, le caramel, des notes florales et le patchouli, un ensemble à la fois boisé et légèrement gourmand qui donne à Oud Mood sa personnalité reconnaissable. La base, dense, repose sur des notes boisées, l'ambre, l'encens, des résines et le musc, pour un fond oriental profond qui tient longtemps sur les vêtements.\n\nOud Mood convient particulièrement aux soirées et aux nuits d'hiver, quand son profil oriental et résineux trouve tout son sens, avec une bonne tenue en automne également. Son profil unisexe permet de le porter seul ou en accord avec un partenaire qui partage le même goût pour les orientaux boisés. C'est une fragrance qui s'inscrit naturellement dans les habitudes olfactives algériennes, où l'oud et la rose restent des valeurs familières.\n\nMaison Numidia propose ce Lattafa Oud Mood authentique, livré partout en Algérie grâce à Yalidine, dans les 58 wilayas. Le règlement se fait à la réception, et le client garde la possibilité de refuser la livraison si le produit ne correspond pas à sa commande.",
-      "notes": {
-        "top": [
-          "Rose",
-          "Safran",
-          "Piment de la Jamaïque"
-        ],
-        "heart": [
-          "Oud",
-          "Caramel",
-          "Notes florales",
-          "Patchouli"
-        ],
-        "base": [
-          "Notes boisées",
-          "Ambre",
-          "Encens",
-          "Résines",
-          "Musc"
-        ]
-      },
-      "family": "Oriental Boisé",
-      "occasions": [
-        "Soirée",
-        "Hiver",
-        "Nuit"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 5,
-      "sillage": 5,
-      "inStock": true,
-      "featured": false,
-      "isOriental": true,
-      "related": [
-        "lattafa-oud-mood",
-        "afnan-supremacy-noir",
-        "amber-oud-al-haramain"
       ]
     },
     {
@@ -38376,8 +37920,8 @@
     {
       "id": "hermes-h24-intense",
       "slug": "hermes-h24-intense",
-      "h1": "Hermès H24 Intense Parfum Homme Algérie",
-      "name": "H24",
+      "h1": "Hermès H24 Eau de Parfum Parfum Homme Algérie",
+      "name": "H24 Eau de Parfum",
       "brand": "Hermès",
       "brandSlug": "hermes",
       "category": "parfums-homme",
@@ -38586,7 +38130,7 @@
       "isOriental": false,
       "related": [
         "kilian-angels-share",
-        "viktor-rolf-bon-bon",
+        "bonbon-viktor-rolf",
         "tom-ford-lost-cherry"
       ]
     },
@@ -39790,59 +39334,6 @@
       ]
     },
     {
-      "id": "givenchy-gentleman-parfum",
-      "slug": "givenchy-gentleman-parfum",
-      "h1": "Givenchy Gentleman Parfum Homme Algérie",
-      "name": "Gentleman",
-      "brand": "Givenchy",
-      "brandSlug": "givenchy",
-      "category": "parfums-homme",
-      "gender": "homme",
-      "concentration": "EDP",
-      "volume": "50ml",
-      "price": 21500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/givenchy-gentleman-parfum.jpg",
-      "shortDescription": "Gentleman Eau de Parfum de Givenchy est une version plus intense de la ligne Gentleman, un boisé floral raffiné. Poivre, lavande et iris poudré sur un fond de patchouli et de vanille noire pour un homme au caractère affirmé.",
-      "description": "Givenchy Gentleman Eau de Parfum fait partie de la ligne Gentleman, une gamme masculine qui a su se réinventer tout en restant fidèle à ses valeurs fondatrices: élégance, masculinité et sophistication. Lancée en 2018 par les parfumeurs Olivier Cresp et Nathalie Lorson, cette version Eau de Parfum représente une expression plus intense de ce caractère masculin.\n\nL'histoire du Gentleman chez Givenchy remonte à 1974, mais c'est la reformulation contemporaine qui a véritablement conquis les hommes modernes. Chaque nouvelle version a apporté sa propre vision, et cette Eau de Parfum illustre la volonté de la maison d'approfondir cette signature.\n\nL'ouverture est directe: le poivre et la lavande créent une entrée aromatique et légèrement épicée qui attire l'attention sans être agressive.\n\nLe cœur révèle l'iris dans toute sa noblesse poudreuse, associé au baume de tolu et au baume du Pérou. Cette combinaison crée un accord floral-résineux d'une grande sophistication, chaleureux et enveloppant.\n\nLa base est la véritable signature de cette version: le patchouli boisé et la vanille noire créent un fond chaud, enveloppant et persistant. C'est ici que le Gentleman Eau de Parfum justifie pleinement son statut haut de gamme, avec cette facette gourmande-boisée addictive typique des orientaux modernes.\n\nChez Maison Numidia, Givenchy Gentleman Eau de Parfum s'adresse aux amateurs qui acceptent de payer le prix juste pour une fragrance de grande maison, sans chercher à transiger sur la qualité. Profil boisé bien exécuté, qui s'intègre facilement dans le quotidien parfumé algérien où ce registre reste la norme du \"vrai parfum\". Côté tenue, il dépasse largement les huit heures, un atout décisif pour qui déteste re-vaporiser en journée. Saisons idéales: automne et hiver, quand les températures permettent au parfum de se développer sans être écrasé. À porter en soirée ou lors d'événements où l'on veut laisser un souvenir durable, Gentleman Eau de Parfum y excelle.",
-      "notes": {
-        "top": [
-          "Poivre",
-          "Lavande"
-        ],
-        "heart": [
-          "Iris",
-          "Baume de Tolu",
-          "Baume du Pérou"
-        ],
-        "base": [
-          "Patchouli",
-          "Vanille noire"
-        ]
-      },
-      "family": "Floral Boisé",
-      "occasions": [
-        "Soirée",
-        "Bureau",
-        "Événement"
-      ],
-      "seasons": [
-        "Automne",
-        "Hiver"
-      ],
-      "longevity": 5,
-      "sillage": 4,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "acqua-di-gio-armani",
-        "bleu-de-chanel-parfum",
-        "pegasus-parfums-de-marly"
-      ]
-    },
-    {
       "id": "burberry-hero-parfum",
       "slug": "burberry-hero-parfum",
       "h1": "Burberry Hero Parfum Homme Algérie",
@@ -39887,7 +39378,7 @@
       "isOriental": false,
       "related": [
         "bleu-de-chanel-parfum",
-        "givenchy-gentleman-parfum",
+        "givenchy-gentleman",
         "paco-rabanne-phantom-parfum"
       ]
     },
@@ -39939,7 +39430,7 @@
       "isOriental": false,
       "related": [
         "acqua-di-gio-armani",
-        "givenchy-gentleman-parfum",
+        "givenchy-gentleman",
         "paco-rabanne-phantom-parfum"
       ]
     },
@@ -39993,59 +39484,8 @@
       "isOriental": false,
       "related": [
         "chanel-gabrielle-essence",
-        "lancome-la-nuit-tresor-nu",
+        "lancome-la-nuit-tresor-nude",
         "yves-saint-laurent-mon-paris-intensement"
-      ]
-    },
-    {
-      "id": "lancome-la-nuit-tresor-nu",
-      "slug": "lancome-la-nuit-tresor-nu",
-      "h1": "Lancôme La Nuit Trésor Nude Parfum Femme Algérie",
-      "name": "La Nuit Trésor Nude",
-      "brand": "Lancôme",
-      "brandSlug": "lancome",
-      "category": "parfums-femme",
-      "gender": "femme",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 27500,
-      "originalPrice": null,
-      "badge": null,
-      "image": "/images/products/lancome-la-nuit-tresor-nu.jpg",
-      "shortDescription": "La Nuit Trésor Nu de Lancôme est une interprétation sensuelle et épurée du Trésor. Rose centifolia, lychee et musc blanc pour un parfum féminin nocturne d'une élégance absolue.",
-      "description": "Lancôme La Nuit Trésor Nu est l'évolution la plus contemporaine de la saga Trésor, l'une des lignes parfumées féminines les plus emblématiques de la maison parisienne. Là où le Trésor original (1990) proposait un floral aldéhydé classique et La Nuit Trésor un oriental sensuel, La Nuit Trésor Nu offre une vision plus épurée et moderne de la séduction nocturne. Le nom 'Nu' évoque la nudité dans son sens le plus poétique: une beauté naturelle, sans artifice, qui laisse transparaître la vraie personnalité. C'est exactement ce que ce parfum tente de capturer — l'essence même de la féminité contemporaine. L'ouverture est lumineuse et fruitée: le litchi rose et la bergamote créent une première impression fraîche et légèrement sucrée qui invite immédiatement à poursuivre le voyage olfactif. Cette entrée est moderne et accessible, très différente du style plus classique des anciennes versions. Le cœur est dominé par la rose centifolia de Grasse, l'une des matières premières les plus précieuses de la parfumerie. Ici, elle s'exprime dans toute sa pureté et sa complexité florale, accompagnée d'un accord de musc soyeux qui lui donne une dimension charnelle et sensuelle. La base est minimaliste et efficace: musc blanc, bois de santal et ambre gris créent un fond aérien mais persistant, qui reste sur la peau de manière très discrète mais remarquable. Un parfum de peau qui semble venir de l'intérieur., d'Algérie par Yalidine, paiement à la réception. Le positionnement tarifaire de La Nuit Trésor Nu reflète son statut : pièce maîtresse d'une collection, pas parfum d'appoint. Le caractère floral de La Nuit Trésor Nu offre une alternative lumineuse aux registres plus chauds qui ont longtemps dominé la parfumerie féminine algérienne. La longévité de La Nuit Trésor Nu dépasse la journée complète et conserve son identité olfactive jusque tard le soir. Côté calendrier, Lancôme a conçu La Nuit Trésor Nu pour briller en printemps, été, automne — une indication utile à prendre en compte avant de le porter hors contexte. Lancôme a dosé La Nuit Trésor Nu pour s'adapter à toutes les journées d'une femme algérienne moderne, du lever au coucher.",
-      "notes": {
-        "top": [
-          "Bergamote"
-        ],
-        "heart": [
-          "Rose"
-        ],
-        "base": [
-          "Vanille",
-          "Noix de coco"
-        ]
-      },
-      "family": "Floral Musqué",
-      "occasions": [
-        "Soirée",
-        "Rendez-vous",
-        "Nuit"
-      ],
-      "seasons": [
-        "Printemps",
-        "Été",
-        "Automne"
-      ],
-      "longevity": 4,
-      "sillage": 3,
-      "inStock": true,
-      "featured": false,
-      "isOriental": false,
-      "related": [
-        "guerlain-mon-guerlain-intense",
-        "lancome-idole-le-parfum",
-        "chanel-gabrielle-essence"
       ]
     },
     {
@@ -40362,7 +39802,7 @@
       "isOriental": false,
       "related": [
         "idole-aura-lancome",
-        "lancome-la-nuit-tresor-nu",
+        "lancome-la-nuit-tresor-nude",
         "miss-dior-blooming-bouquet"
       ]
     },
@@ -40963,7 +40403,7 @@
       "related": [
         "givenchy-gentleman",
         "givenchy-gentleman-society",
-        "givenchy-gentleman-parfum"
+        "givenchy-gentleman-reserve-privee"
       ]
     },
     {
@@ -41227,7 +40667,7 @@
       "isOriental": false,
       "related": [
         "le-male-le-parfum",
-        "ultra-male-jean-paul-gaultier",
+        "jean-paul-gaultier-ultra-male",
         "scandal-pour-homme-jean-paul-gaultier"
       ]
     },
@@ -44812,7 +44252,7 @@
       "related": [
         "lanvin-a-girl-in-capri",
         "eclat-arpege-lanvin",
-        "lanvin-eclat-d-arpege"
+        "lanvin-eclat-de-fleurs"
       ]
     },
     {
@@ -48728,7 +48168,7 @@
       "badge": null,
       "isOriental": false,
       "related": [
-        "dior-blooming-bouquet",
+        "miss-dior-blooming-bouquet",
         "dior-joy-intense",
         "joy-dior"
       ]
@@ -51518,7 +50958,7 @@
       "related": [
         "nuit-d-issey-homme",
         "issey-miyake-l-eau-super-majeure-d-issey",
-        "issey-miyake-l-homme-issey"
+        "l-eau-d-issey-homme"
       ]
     },
     {
@@ -51572,8 +51012,8 @@
       "isOriental": false,
       "related": [
         "l-eau-d-issey-homme",
-        "issey-miyake-l-homme-issey",
-        "nuit-d-issey-homme"
+        "nuit-d-issey-homme",
+        "issey-miyake-fusion-d-extreme"
       ]
     },
     {
@@ -51683,7 +51123,7 @@
       "related": [
         "nuit-d-issey-homme",
         "issey-miyake-fusion-d-extreme",
-        "issey-miyake-l-homme-issey"
+        "l-eau-d-issey-homme"
       ]
     },
     {
@@ -53212,8 +52652,8 @@
       "isOriental": false,
       "related": [
         "eclat-arpege-lanvin",
-        "lanvin-eclat-d-arpege",
-        "lanvin-modern-princess-blooming"
+        "lanvin-modern-princess-blooming",
+        "lanvin-modern-princess"
       ]
     },
     {
@@ -53265,8 +52705,8 @@
       "isOriental": false,
       "related": [
         "eclat-arpege-lanvin",
-        "lanvin-eclat-d-arpege",
-        "lanvin-water-lily-les-fleurs-de-lanvin"
+        "lanvin-water-lily-les-fleurs-de-lanvin",
+        "lanvin-modern-princess"
       ]
     },
     {
@@ -53373,8 +52813,8 @@
       "isOriental": false,
       "related": [
         "eclat-arpege-lanvin",
-        "lanvin-eclat-d-arpege",
-        "lanvin-water-lily-les-fleurs-de-lanvin"
+        "lanvin-water-lily-les-fleurs-de-lanvin",
+        "lanvin-modern-princess-blooming"
       ]
     },
     {
