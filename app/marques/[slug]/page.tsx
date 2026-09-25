@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getBrandBySlug, getProductsByBrand, getAllBrandSlugs, getAllBrands } from "@/lib/products";
+import { getBrandBySlug, getProductsByBrand, getBrandsWithProducts } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getBreadcrumbSchema, getItemListSchema } from "@/lib/seo";
@@ -11,7 +11,8 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return getAllBrandSlugs().map((slug) => ({ slug }));
+  // Pas de page pour une marque sans produit (cf. getBrandsWithProducts).
+  return getBrandsWithProducts().map((b) => ({ slug: b.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -31,6 +32,10 @@ export default async function MarquePage({ params }: Props) {
   if (!brand) notFound();
 
   const products = getProductsByBrand(slug);
+
+  // Marque creee en avance de phase : pas de page tant qu'elle n'a aucun produit.
+
+  if (products.length === 0) notFound();
 
   const breadcrumbSchema = getBreadcrumbSchema([
     { name: "Accueil", url: "/" },
@@ -156,9 +161,9 @@ export default async function MarquePage({ params }: Props) {
             <div className="mt-8 pt-6 border-t border-gray-100">
               <p className="text-xs font-semibold text-gray-400 uppercase tracking-[0.15em] mb-4">Autres marques disponibles</p>
               <div className="flex flex-wrap gap-2">
-                {getAllBrands()
+                {getBrandsWithProducts()
                   .filter((b) => b.slug !== slug)
-                  .slice(0, 20)
+                  .slice(0, 12)
                   .map((b) => (
                     <Link key={b.slug} href={`/marques/${b.slug}`}
                       className="text-xs border border-gray-200 hover:border-[#C9A84C] hover:text-[#C9A84C] text-gray-500 px-3 py-1.5 transition-colors">

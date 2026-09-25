@@ -100,6 +100,19 @@ export function getRelatedProducts(slugs: string[]): Product[] {
     .filter(Boolean) as Product[];
 }
 
+/**
+ * Marques qui ont au moins un produit au catalogue.
+ *
+ * Une marque doit exister dans brands[] AVANT que ses produits soient injectes (regle n4),
+ * donc le fichier contient toujours quelques marques en avance de phase. Elles ne doivent
+ * ni apparaitre dans /marques, ni etre pre-generees : une page marque a zero produit est
+ * une page vide offerte a Google. Le sitemap, lui, derive deja des produits.
+ */
+export function getBrandsWithProducts(): Brand[] {
+  const avecProduits = new Set(products.map((p) => p.brandSlug));
+  return brands.filter((b) => avecProduits.has(b.slug));
+}
+
 export function getAllBrands(): Brand[] {
   return brands;
 }

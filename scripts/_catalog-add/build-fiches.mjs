@@ -122,6 +122,11 @@ const ALIAS_MARQUE = {
   "carolina herrera": "Carolina Herrera",
   "maison francis kurkdjian": "Maison Francis Kurkdjian",
   "van cleef arpels": "Van Cleef & Arpels",
+  "viktor&rolf": "Viktor&Rolf",
+  "viktor & rolf": "Viktor&Rolf",
+  "initio parfums prives": "Initio",
+  "initio parfums privés": "Initio",
+  "lacoste fragrances": "Lacoste",
 };
 
 const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));

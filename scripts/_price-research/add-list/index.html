@@ -1,0 +1,222 @@
+<title>Parfums à ajouter</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@400;700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#161510; --ink-soft:#5b5748; --ink-faint:#948f7e;
+    --paper:#FAFAF8; --raised:#FFFFFF; --sunken:#F2EFE6;
+    --line:#E6E1D2; --line-soft:#EFECE2;
+    --gold:#B3903E; --gold-deep:#8B6914; --gold-bg:#FBF4E1;
+    --ok:#2F6F53; --ok-bg:#EAF3ED; --warn:#9A5B1E; --warn-bg:#FBEFE1;
+    --shadow:0 1px 2px rgba(30,26,10,.04),0 10px 28px -14px rgba(30,26,10,.14);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#EDE9DC; --ink-soft:#B5AF9C; --ink-faint:#7f7a69;
+      --paper:#15140F; --raised:#1D1B14; --sunken:#100F0B;
+      --line:#34301F; --line-soft:#27251A;
+      --gold:#D3B15C; --gold-deep:#E8C876; --gold-bg:#2A2410;
+      --ok:#6FBE97; --ok-bg:#122620; --warn:#E0A56B; --warn-bg:#2B1D10;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 28px -14px rgba(0,0,0,.55);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#EDE9DC; --ink-soft:#B5AF9C; --ink-faint:#7f7a69;
+    --paper:#15140F; --raised:#1D1B14; --sunken:#100F0B;
+    --line:#34301F; --line-soft:#27251A;
+    --gold:#D3B15C; --gold-deep:#E8C876; --gold-bg:#2A2410;
+    --ok:#6FBE97; --ok-bg:#122620; --warn:#E0A56B; --warn-bg:#2B1D10;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 28px -14px rgba(0,0,0,.55);
+  }
+  *{box-sizing:border-box}
+  body{background:var(--paper);color:var(--ink);font-family:'DM Sans',system-ui,sans-serif;margin:0;padding-inline:18px;padding-block:30px 60px;font-variant-numeric:tabular-nums}
+  .wrap{max-width:1180px;margin:0 auto}
+  h1,h2{font-family:'Libre Bodoni',Georgia,serif;font-weight:700;text-wrap:balance;margin:0}
+  .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-deep);font-weight:700;margin-bottom:8px}
+  h1{font-size:clamp(26px,4vw,38px);line-height:1.1}
+  .sub{color:var(--ink-soft);font-size:15px;line-height:1.55;max-width:66ch;margin:10px 0 0}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:26px 0}
+  .stat{background:var(--raised);padding:16px 18px}
+  .stat .n{font-family:'Libre Bodoni',serif;font-size:27px;font-weight:700;line-height:1}
+  .stat .l{color:var(--ink-soft);font-size:12.5px;margin-top:6px;line-height:1.35}
+  .stat.gold .n{color:var(--gold-deep)}
+  .panel{background:var(--raised);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);overflow:hidden}
+  .toolbar{display:flex;flex-direction:column;gap:10px;padding:14px 16px;border-bottom:1px solid var(--line);background:var(--sunken)}
+  .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .tabs{display:flex;gap:4px;background:var(--line-soft);padding:3px;border-radius:9px}
+  .tab{border:0;background:transparent;color:var(--ink-soft);font:inherit;font-size:13px;font-weight:700;padding:7px 12px;border-radius:7px;cursor:pointer}
+  .tab.active{background:var(--raised);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  .search{flex:1 1 220px;min-width:160px;background:var(--raised);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font:inherit;font-size:14px;color:var(--ink)}
+  select,.toggle{background:var(--raised);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font:inherit;font-size:13px;color:var(--ink);cursor:pointer;max-width:100%}
+  .toggle{display:inline-flex;gap:6px;align-items:center}
+  .chip{border:1px solid var(--line);background:var(--raised);color:var(--ink-soft);font:inherit;font-size:12.5px;font-weight:500;padding:6px 11px;border-radius:999px;cursor:pointer;white-space:nowrap}
+  .chip.active{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+  :focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+  .count{font-size:13px;color:var(--ink-soft)}
+  .tablewrap{overflow-x:auto}
+  table{width:100%;border-collapse:collapse;font-size:13.5px}
+  thead th{text-align:left;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-faint);font-weight:700;padding:10px 12px;border-bottom:1px solid var(--line);background:var(--raised);white-space:nowrap}
+  th.num,td.num{text-align:right}
+  tbody tr.main{border-bottom:1px solid var(--line-soft);cursor:pointer}
+  tbody tr.main:hover{background:var(--sunken)}
+  td{padding:10px 12px;vertical-align:top}
+  .brand{font-weight:700;white-space:nowrap}
+  .meta{color:var(--ink-faint);font-size:12px;margin-top:2px}
+  .demand{display:inline-block;min-width:34px;text-align:center;font-size:12px;font-weight:700;padding:3px 8px;border-radius:999px;border:1px solid var(--line);color:var(--ink-soft)}
+  .demand.d4{background:var(--gold);border-color:var(--gold);color:#fff}
+  .demand.d3{background:var(--gold-bg);border-color:var(--gold);color:var(--gold-deep)}
+  .demand.d2{background:var(--sunken)}
+  .stock{font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:999px}
+  .stock.in{background:var(--ok-bg);color:var(--ok)}
+  .stock.out{background:var(--warn-bg);color:var(--warn)}
+  .detail td{background:var(--sunken);font-size:13px;color:var(--ink-soft);padding:12px 16px;border-bottom:1px solid var(--line)}
+  .detail a{color:var(--gold-deep)}
+  .pager{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 16px;border-top:1px solid var(--line);flex-wrap:wrap}
+  .pager button{border:1px solid var(--line);background:var(--raised);color:var(--ink);font:inherit;font-size:13px;padding:7px 12px;border-radius:8px;cursor:pointer}
+  .pager button:disabled{opacity:.4;cursor:default}
+  .empty{padding:40px;text-align:center;color:var(--ink-faint)}
+  .foot{margin-top:20px;padding:18px 20px;border-radius:10px;background:var(--sunken);border:1px solid var(--line);color:var(--ink-soft);font-size:13px;line-height:1.65}
+  .foot h2{font-family:'DM Sans',sans-serif;font-size:14px;color:var(--ink);margin-bottom:8px}
+  .foot ul{margin:0;padding-left:18px}
+  @media (max-width:640px){ .hide-sm{display:none} }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Maison Numidia · Extension du catalogue</div>
+    <h1>Parfums vendus en Algérie, absents de notre catalogue</h1>
+    <p class="sub">Tirés des catalogues complets de 12 boutiques en ligne algériennes au 15/09/2026, dédoublonnés entre eux et contre nos 735 fiches. Le nombre de boutiques qui vendent un parfum est le meilleur signal de demande locale.</p>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="panel">
+    <div class="toolbar">
+      <div class="row">
+        <div class="tabs" role="tablist">
+          <button class="tab active" id="tab-new" data-tab="0">Nouveaux</button>
+          <button class="tab" id="tab-var" data-tab="1">Autre concentration d'un parfum qu'on a</button>
+        </div>
+        <input class="search" id="q" type="search" placeholder="Marque ou parfum…">
+      </div>
+      <div class="row">
+        <button class="chip active" data-shops="all">Toutes</button>
+        <button class="chip" data-shops="4">4+ boutiques</button>
+        <button class="chip" data-shops="3">3</button>
+        <button class="chip" data-shops="2">2</button>
+        <button class="chip" data-shops="1">1</button>
+        <select id="cat" aria-label="Catégorie">
+          <option value="">Toutes catégories</option>
+          <option value="parfums-homme">Homme</option>
+          <option value="parfums-femme">Femme</option>
+          <option value="parfums-orientaux">Oriental</option>
+          <option value="a-determiner">Genre à déterminer</option>
+        </select>
+        <select id="brand" aria-label="Marque"><option value="">Toutes marques</option></select>
+        <label class="toggle"><input type="checkbox" id="stock"> En stock</label>
+        <label class="toggle"><input type="checkbox" id="known"> Marques qu'on vend</label>
+        <select id="sort" aria-label="Tri">
+          <option value="shops">Tri : demande (nb boutiques)</option>
+          <option value="brand">Tri : marque A→Z</option>
+          <option value="priceAsc">Tri : prix croissant</option>
+          <option value="priceDesc">Tri : prix décroissant</option>
+        </select>
+        <span class="count" id="count"></span>
+      </div>
+    </div>
+    <div class="tablewrap">
+      <table>
+        <thead><tr>
+          <th>Marque</th><th>Parfum</th><th class="hide-sm">Catégorie</th><th>Boutiques</th>
+          <th class="num hide-sm">Prix marché</th><th class="num">Prix proposé</th><th>Stock</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+      <div class="empty" id="empty" hidden>Aucun parfum pour ces filtres.</div>
+    </div>
+    <div class="pager">
+      <button id="prev">← Précédent</button>
+      <span class="count" id="pageinfo"></span>
+      <button id="next">Suivant →</button>
+    </div>
+  </div>
+
+  <div class="foot">
+    <h2>Comment la liste est construite</h2>
+    <ul>
+      <li><b>Un parfum</b> = marque + mots distinctifs du nom + concentration (EDT, EDP, Parfum, Extrait) + genre quand il est écrit. Les contenances, les accroches type « (DUPE …) » et les mots marketing sont ignorés.</li>
+      <li><b>Doublons retirés</b> : 107 fautes d'orthographe fusionnées automatiquement (Extase/Exstase, Legend/Légende…) et 557 paires ambiguës tranchées une à une par des agents (230 fusionnées, dont 50 déjà dans notre catalogue).</li>
+      <li><b>Exclus</b> : coffrets, testeurs, déodorants, minis et décants, montres/sacs/packs, produits enfants, et une boutique de décants (smellgood-dz).</li>
+      <li><b>Prix marché</b> = médiane des prix de vente constatés à la contenance la plus courante. <b>Prix proposé</b> = médiane + 3 %, arrondi (même règle que le recalage des prix du 15/09/2026). Plancher du catalogue : 6 500 DA.</li>
+      <li><b>À vérifier à la création de chaque fiche</b> : genre et concentration quand ils ne sont pas écrits, notes olfactives et image (Fragrantica, ID vérifié), existence réelle du parfum pour ceux vendus par une seule boutique.</li>
+    </ul>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script>
+const ROWS = (window.ADD_ROWS || []).map((r, i) => ({ i, brand: r[0], name: r[1], conc: r[2], cat: r[3], vol: r[4], market: r[5], proposed: r[6], shops: r[7], sites: r[8], stock: !!r[9], url: r[10], variant: r[11] === 1, ourSlug: r[12], known: r[13] === 1 }));
+const CAT = { 'parfums-homme': 'Homme', 'parfums-femme': 'Femme', 'parfums-orientaux': 'Oriental', 'a-determiner': 'À déterminer' };
+const SITE = { briki: 'Briki', gallery: 'Gallery', must: 'Must', tendance: 'Tendance', aromatica: 'Aromatica', parfumalgerie: 'Parfum Algérie', parfumalgerieshop: 'parfumalgerie.shop', odorem: 'Odorem', palais: 'Palais des Parfums', parfumdeluxe: 'Parfum Deluxe', dion: 'Dion', leena: 'Leena', leila: 'Leila' };
+const fmt = (n) => n.toLocaleString('fr-FR').replace(/ | /g, ' ') + ' DA';
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+const PAGE = 100;
+let st = { tab: 0, q: '', shops: 'all', cat: '', brand: '', stock: false, known: false, sort: 'shops', page: 0, open: -1 };
+
+const nouveaux = ROWS.filter((r) => !r.variant);
+document.getElementById('stats').innerHTML = [
+  [nouveaux.length.toLocaleString('fr-FR'), 'parfums nouveaux, dédoublonnés', ''],
+  [nouveaux.filter((r) => r.shops >= 4).length, 'vendus par 4 boutiques ou plus', 'gold'],
+  [nouveaux.filter((r) => r.shops >= 2).length.toLocaleString('fr-FR'), 'vendus par au moins 2 boutiques', ''],
+  [new Set(nouveaux.map((r) => r.brand)).size, 'marques représentées', ''],
+  [nouveaux.filter((r) => r.stock).length.toLocaleString('fr-FR'), 'en stock chez au moins un concurrent', ''],
+].map(([n, l, c]) => `<div class="stat ${c}"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
+
+const brandSel = document.getElementById('brand');
+[...new Set(ROWS.map((r) => r.brand))].sort((a, b) => a.localeCompare(b, 'fr')).forEach((b) => { const o = document.createElement('option'); o.value = b; o.textContent = b; brandSel.appendChild(o); });
+
+function filtered() {
+  const q = st.q.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  let rows = ROWS.filter((r) => (st.tab === 1) === r.variant);
+  if (st.shops !== 'all') rows = rows.filter((r) => (st.shops === '4' ? r.shops >= 4 : r.shops === +st.shops));
+  if (st.cat) rows = rows.filter((r) => r.cat === st.cat);
+  if (st.brand) rows = rows.filter((r) => r.brand === st.brand);
+  if (st.stock) rows = rows.filter((r) => r.stock);
+  if (st.known) rows = rows.filter((r) => r.known);
+  if (q) rows = rows.filter((r) => (r.brand + ' ' + r.name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').includes(q));
+  const s = { shops: (a, b) => b.shops - a.shops || a.brand.localeCompare(b.brand), brand: (a, b) => a.brand.localeCompare(b.brand, 'fr') || a.name.localeCompare(b.name, 'fr'), priceAsc: (a, b) => a.proposed - b.proposed, priceDesc: (a, b) => b.proposed - a.proposed }[st.sort];
+  return rows.sort(s);
+}
+
+function render() {
+  const rows = filtered();
+  const pages = Math.max(1, Math.ceil(rows.length / PAGE));
+  st.page = Math.min(st.page, pages - 1);
+  const slice = rows.slice(st.page * PAGE, st.page * PAGE + PAGE);
+  document.getElementById('count').textContent = `${rows.length.toLocaleString('fr-FR')} parfum${rows.length > 1 ? 's' : ''}`;
+  document.getElementById('pageinfo').textContent = `Page ${st.page + 1} / ${pages}`;
+  document.getElementById('prev').disabled = st.page === 0;
+  document.getElementById('next').disabled = st.page >= pages - 1;
+  document.getElementById('empty').hidden = rows.length > 0;
+  document.getElementById('tbody').innerHTML = slice.map((r) => {
+    const d = r.shops >= 4 ? 'd4' : r.shops === 3 ? 'd3' : r.shops === 2 ? 'd2' : '';
+    const meta = [r.conc, r.vol].filter(Boolean).join(' · ');
+    const detail = st.open === r.i ? `<tr class="detail"><td colspan="7">Vendu par : ${r.sites.split(',').map((s) => esc(SITE[s] || s)).join(', ')}${r.url ? ` · <a href="${esc(r.url)}" target="_blank" rel="noopener">voir une offre</a>` : ''}${r.variant && r.ourSlug ? ` · variante de notre fiche <b>${esc(r.ourSlug)}</b>` : ''}</td></tr>` : '';
+    return `<tr class="main" data-i="${r.i}"><td class="brand">${esc(r.brand)}</td><td>${esc(r.name)}${meta ? `<div class="meta">${esc(meta)}</div>` : ''}</td><td class="hide-sm">${CAT[r.cat] || ''}</td><td><span class="demand ${d}">${r.shops}</span></td><td class="num hide-sm">${fmt(r.market)}</td><td class="num"><b>${fmt(r.proposed)}</b></td><td><span class="stock ${r.stock ? 'in' : 'out'}">${r.stock ? 'Oui' : 'Rupture'}</span></td></tr>${detail}`;
+  }).join('');
+}
+
+document.querySelectorAll('.tab').forEach((b) => b.onclick = () => { st.tab = +b.dataset.tab; st.page = 0; document.querySelectorAll('.tab').forEach((x) => x.classList.toggle('active', x === b)); render(); });
+document.querySelectorAll('[data-shops]').forEach((b) => b.onclick = () => { st.shops = b.dataset.shops; st.page = 0; document.querySelectorAll('[data-shops]').forEach((x) => x.classList.toggle('active', x === b)); render(); });
+document.getElementById('q').oninput = (e) => { st.q = e.target.value.trim(); st.page = 0; render(); };
+document.getElementById('cat').onchange = (e) => { st.cat = e.target.value; st.page = 0; render(); };
+brandSel.onchange = (e) => { st.brand = e.target.value; st.page = 0; render(); };
+document.getElementById('stock').onchange = (e) => { st.stock = e.target.checked; st.page = 0; render(); };
+document.getElementById('known').onchange = (e) => { st.known = e.target.checked; st.page = 0; render(); };
+document.getElementById('sort').onchange = (e) => { st.sort = e.target.value; st.page = 0; render(); };
+document.getElementById('prev').onclick = () => { st.page--; render(); window.scrollTo({ top: document.querySelector('.panel').offsetTop - 10 }); };
+document.getElementById('next').onclick = () => { st.page++; render(); window.scrollTo({ top: document.querySelector('.panel').offsetTop - 10 }); };
+document.getElementById('tbody').onclick = (e) => { const tr = e.target.closest('tr.main'); if (!tr || e.target.closest('a')) return; const i = +tr.dataset.i; st.open = st.open === i ? -1 : i; render(); };
+render();
+</script>

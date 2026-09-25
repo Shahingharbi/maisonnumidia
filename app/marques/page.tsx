@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllBrands, getProductsByBrand } from "@/lib/products";
+import { getBrandsWithProducts, getProductsByBrand } from "@/lib/products";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 
 export const metadata: Metadata = {
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default function MarquesPage() {
-  const brands = getAllBrands();
+  const brands = getBrandsWithProducts();
 
   return (
     <>
