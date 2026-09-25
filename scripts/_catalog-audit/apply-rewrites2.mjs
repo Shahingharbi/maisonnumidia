@@ -24,7 +24,14 @@ const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques",
   "epices", "notes epicees", "notes florales", "notes vertes", "notes boisees", "notes aromatiques", "aromatiques",
   "fumee", "fraicheur", "notes fruitees", "notes sucrees", "notes poudrees", "notes ambrees", "notes lactees",
   "notes gourmandes", "notes animales", "notes minerales", "notes salines", "notes solaires", "notes terreuses",
-  "resines", "balsamique", "chypre", "fougere", "cuir", "bois", "boisees"]);
+  "resines", "balsamique", "chypre", "fougere", "cuir", "bois", "boisees",
+  // Vocabulaire d accord releve sur les lots suivants : ce sont des descriptions de
+  // famille ou de texture, pas des revendications de note precise.
+  "ambre", "ambre boise", "ambre chaud", "ambre sucre", "bois precieux", "bois sec",
+  "bois secs", "bois blanc", "bouquet floral", "note fruitee", "note lactee",
+  "accord gourmand", "accord aquatique", "accord marin", "accord boise", "mineral",
+  "epices chaudes", "epices douces", "musc oriental", "notes vertes", "verdure",
+  "notes musquees", "musc blanc", "notes cremeuses", "notes confites"]);
 
 const LETTRES = "abcdefghijklmnopqrstuvwxyz0123456789";
 function contientMot(hay, needle) {
