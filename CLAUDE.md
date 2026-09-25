@@ -15,23 +15,31 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Analytics :** GA4 (`G-77YXRM3HBT`) + Microsoft Clarity, dans `app/layout.tsx`
 - **Commandes :** EmailJS côté client (`app/commander/page.tsx`) → boîte du vendeur. Clés dans `.env.local` (local) et Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais coller les vraies valeurs dans ce fichier ni dans un commit.
 
-### État du catalogue (21 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
-- **732 produits** dans `data/products.json` (265 homme, 403 femme, 64 oriental)
-- **121 marques** dans `data/products.json.brands[]`
+### État du catalogue (25 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
+- **1 048 produits** dans `data/products.json` (387 homme, 547 femme, 114 oriental)
+- **133 marques** dans `data/products.json.brands[]` — dont quelques-unes sans produit, créées en
+  avance de phase : elles sont exclues de `/marques` et renvoient 404 (`getBrandsWithProducts`)
+- **36 produits en rupture** (`inStock: false`) : parfums arrêtés ou introuvables, vérifiés un par un
 - **14 articles blog** dans `data/blog.ts` (contenu en **Markdown**, pas HTML — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
-- **761 images** dans `/public/images/products/` (Fragrantica CDN) — **0 manquante**
-- **~1098 pages** au total (sitemap.xml — produits + marques + brand filters + blog + statiques)
-- **0 brandSlug orphelin, 0 related cassé, 0 produit sans image** (audit règle n°6)
-- Prix : **6 500 DA à 145 000 DA**, médiane ~20 000 DA (voir Règles prix)
-- Descriptions produit : médiane **300 mots** dans le champ `description` (le reste des 600 mots de la page est généré par `lib/product-content.ts`)
+- **1 120 images** dans `/public/images/products/` (CDN Fragrantica, ID vérifié fiche par fiche)
+- **0 brandSlug orphelin, 0 related cassé, 0 produit sans image, 0 doublon** (audit règle n°6)
+- Prix : **6 500 DA à 145 000 DA**, médiane ~20 500 DA (voir Règles prix)
+- Descriptions produit : médiane **240 mots** dans le champ `description` (le reste des 600 mots de
+  la page vient de `lib/product-content.ts`)
 
 Avant de citer un chiffre du catalogue dans une réponse, revérifier avec `node -e` — ce fichier est mis à jour ponctuellement, pas à chaque commit produit.
 
 ### Historique nettoyage
 - **Avril 2026 :** 25 produits fantômes supprimés (noms inventés, mauvaises marques), 35 marques ajoutées, 55 fichiers `_tmp_batch*.mjs` temporaires supprimés, fix maillage interne + crawl budget (voir section dédiée).
 - **Juin 2026 :** repricing complet (prix marché € × 270, puis recherche par agents), fusion de doublons (748 → 735), maillage `CategoryCatalogIndex` ajouté aux 3 pages catégorie, GEO (entité de marque, rail social).
-- **Septembre 2026 :** repricing sur le marché algérien (539 prix), puis audit des 735 fiches contre Fragrantica — 555 fiches corrigées (notes, famille, genre, concentration, volume, rupture), 137 descriptions réécrites, 43 images retéléchargées depuis le bon ID, 3 fiches de parfums inexistants retirées (→ 732 produits). Procédure : `scripts/_catalog-audit/README.md`.
+- **Septembre 2026 :** repricing sur le marché algérien (539 prix), puis audit des 735 fiches contre
+  Fragrantica — 555 fiches corrigées, 137 descriptions réécrites, 43 images retéléchargées, 3 parfums
+  inexistants retirés. Puis **extension du catalogue à 1 048 produits** (+316 en trois vagues, pipeline
+  `scripts/_catalog-add/`), **458 descriptions réécrites** (les anciennes étaient assemblées à partir de
+  phrases types), fiche produit restructurée sur les données Search Console, maillage remis en
+  mère → filles → produits, 14 parfums supplémentaires passés en rupture, 10 doublons fusionnés avec
+  301. Procédures : `scripts/_catalog-audit/README.md` et `scripts/_catalog-add/`.
 
 ---
 
