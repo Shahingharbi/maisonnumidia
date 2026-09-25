@@ -18,7 +18,9 @@ for (const r of pages) {
 }
 
 const aRefaire = notes
-  .filter((n) => n.score >= 8)
+  // Seuil ajustable : 8 pour les fiches clairement assemblees, 4 pour rattraper celles
+  // qui n ont plus de formule type mais tiennent encore en un seul bloc de texte.
+  .filter((n) => n.score >= Number(process.env.SEUIL || 8))
   .map((n) => {
     const p = parSlug.get(n.slug);
     const imp = impressions.get(n.slug) || 0;
