@@ -148,9 +148,29 @@ Ce fichier produit la moitié du contenu de chaque fiche (profil olfactif, perfo
 - Jamais de double `| Maison Numidia`
 
 ### H1
-- Format : `{Marque} {Nom} Parfum {Genre} Algérie` (mot-clé exact SEMrush)
-- Stocké dans le champ `h1` de products.json
-- Exemple : `"h1": "Dior Sauvage Parfum Homme Algérie"`
+- Format : `{Marque} {Nom} Parfum {Genre} Algérie`, stocké dans le champ `h1` de products.json.
+  Exemple : `"h1": "Dior Sauvage Parfum Homme Algérie"`. Genre = **Homme / Femme / Mixte**.
+- **Jamais `Parfum Oriental` ni `Parfum Niche` à la place du genre.** 35 fiches étaient dans ce cas :
+  sur 16 mois, le mot « oriental » apparaît dans **zéro impression** de ces pages, alors que
+  homme/femme est tapé. Corrigé le 25/09/2026.
+- **La forme de la marque ne se déduit pas d'un gabarit : elle se mesure.** Vérifié sur les
+  requêtes Search Console de chaque maison :
+
+  | maison | forme tapée | à ne pas utiliser |
+  |---|---|---|
+  | Giorgio Armani | **Armani** (668 imp.) | Giorgio Armani (105) |
+  | Yves Saint Laurent | **Yves Saint Laurent** (1 227) | YSL (699) |
+  | Paco Rabanne | **Rabanne** (869) | Paco Rabanne (0) |
+  | Mont Blanc | Montblanc (329) ≈ Mont Blanc (249) | — |
+
+  Autrement dit, aligner mécaniquement tous les h1 sur `brands[].name` **dégraderait** les fiches
+  Armani. Avant de toucher à la forme d'une marque dans les h1, lancer `node scripts/_gsc/audit-h1.mjs`.
+- **Le h1 doit contenir les termes réellement tapés pour cette fiche.** La fiche Kayali affichait
+  « Kayali Eden » alors que « kayali eden juicy apple » pèse 587 impressions : le terme manquait.
+  Le numéro de série d'un nom officiel (« Eden Juicy Apple **01** ») reste dans `name` mais n'a rien
+  à faire dans le h1, personne ne le tape.
+- Outils : `scripts/_gsc/audit-h1.mjs` (diagnostic, confronte les h1 aux requêtes) et
+  `scripts/_gsc/corrige-h1.mjs` (simulation par défaut, `--apply` pour écrire).
 
 ### Meta descriptions
 - Naturelles, pas de prix, max 155 caractères

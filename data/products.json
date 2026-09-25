@@ -745,7 +745,7 @@
         "born-in-roma-valentino",
         "narciso-rodriguez-for-her"
       ],
-      "h1": "Kayali Eden Parfum Mixte Algérie",
+      "h1": "Kayali Eden Juicy Apple Parfum Mixte Algérie",
       "originalPrice": null
     },
     {
@@ -1136,7 +1136,7 @@
         "lattafa-asad",
         "1-million-paco-rabanne"
       ],
-      "h1": "Lattafa Oud Mood Parfum Oriental Algérie"
+      "h1": "Lattafa Oud Mood Parfum Mixte Algérie"
     },
     {
       "id": "amber-oud-al-haramain",
@@ -1190,7 +1190,7 @@
         "lattafa-asad",
         "el-nabil-musc-makkah"
       ],
-      "h1": "Amber Oud Al Haramain Parfum Oriental Algérie",
+      "h1": "Amber Oud Al Haramain Parfum Mixte Algérie",
       "originalPrice": null
     },
     {
@@ -1247,7 +1247,7 @@
         "amber-oud-al-haramain",
         "el-nabil-musc-makkah"
       ],
-      "h1": "Lattafa Asad Parfum Oriental Algérie",
+      "h1": "Lattafa Asad Parfum Homme Algérie",
       "originalPrice": null
     },
     {
@@ -2343,7 +2343,7 @@
         "layton-parfums-de-marly",
         "dior-homme"
       ],
-      "h1": "Amouage Reflection Parfum Homme Algérie"
+      "h1": "Amouage Reflection Man Parfum Homme Algérie"
     },
     {
       "id": "jimmy-choo-femme",
@@ -3640,7 +3640,7 @@
         "lattafa-oud-mood",
         "kayali-eden"
       ],
-      "h1": "El Nabil Musc Makkah Parfum Oriental Algérie"
+      "h1": "El Nabil Musc Makkah Parfum Mixte Algérie"
     },
     {
       "id": "davidoff-cool-water",
@@ -4251,7 +4251,7 @@
         "lattafa-oud-mood",
         "el-nabil-musc-makkah"
       ],
-      "h1": "Rasasi Hawas Parfum Oriental Algérie"
+      "h1": "Rasasi Hawas Parfum Homme Algérie"
     },
     {
       "id": "bvlgari-pour-homme-soir",
@@ -6516,7 +6516,7 @@
         "el-nabil-musc-makkah",
         "rasasi-hawas"
       ],
-      "h1": "Louis Vuitton Ombre Nomade Parfum Oriental Algérie"
+      "h1": "Louis Vuitton Ombre Nomade Parfum Mixte Algérie"
     },
     {
       "id": "xerjoff-naxos",
@@ -6793,7 +6793,7 @@
         "rasasi-hawas",
         "layton-parfums-de-marly"
       ],
-      "h1": "Sultan Al Oud Parfum Oriental Algérie"
+      "h1": "Sultan Al Oud Parfum Homme Algérie"
     },
     {
       "id": "flowerbomb-viktor-rolf",
@@ -8443,7 +8443,7 @@
     {
       "id": "kalemat-arabian-oud",
       "slug": "kalemat-arabian-oud",
-      "h1": "Arabian Oud Kalemat Parfum Oriental Algérie",
+      "h1": "Arabian Oud Kalemat Parfum Mixte Algérie",
       "name": "Kalemat",
       "brand": "Arabian Oud",
       "brandSlug": "arabian-oud",
@@ -8499,7 +8499,7 @@
     {
       "id": "club-de-nuit-intense-armaf",
       "slug": "club-de-nuit-intense-armaf",
-      "h1": "Armaf Club de Nuit Intense Parfum Homme Algérie",
+      "h1": "Armaf Club de Nuit Intense Man Parfum Homme Algérie",
       "name": "Club de Nuit Intense Man",
       "brand": "Armaf",
       "brandSlug": "armaf",
@@ -9481,7 +9481,7 @@
     {
       "id": "montale-dark-aoud",
       "slug": "montale-dark-aoud",
-      "h1": "Montale Dark Aoud Parfum Oriental Algérie",
+      "h1": "Montale Dark Aoud Parfum Mixte Algérie",
       "name": "Dark Aoud",
       "brand": "Montale",
       "brandSlug": "montale",
@@ -9816,7 +9816,7 @@
     {
       "id": "lattafa-oud-for-glory",
       "slug": "lattafa-oud-for-glory",
-      "h1": "Lattafa Oud for Glory Parfum Oriental Algérie",
+      "h1": "Lattafa Oud for Glory Parfum Mixte Algérie",
       "name": "Oud for Glory",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -13078,7 +13078,7 @@
     {
       "id": "lattafa-khamrah",
       "slug": "lattafa-khamrah",
-      "h1": "Lattafa Khamrah Parfum Oriental Algérie",
+      "h1": "Lattafa Khamrah Parfum Mixte Algérie",
       "name": "Khamrah",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -13643,7 +13643,7 @@
     {
       "id": "tom-ford-oud-wood",
       "slug": "tom-ford-oud-wood",
-      "h1": "Tom Ford Oud Wood Parfum Oriental Algérie",
+      "h1": "Tom Ford Oud Wood Parfum Mixte Algérie",
       "name": "Oud Wood",
       "brand": "Tom Ford",
       "brandSlug": "tom-ford",
@@ -14318,7 +14318,7 @@
     {
       "id": "lattafa-raghba",
       "slug": "lattafa-raghba",
-      "h1": "Lattafa Raghba Parfum Oriental Algérie",
+      "h1": "Lattafa Raghba Parfum Mixte Algérie",
       "name": "Raghba",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -14425,7 +14425,7 @@
     {
       "id": "al-haramain-rose-oud",
       "slug": "al-haramain-rose-oud",
-      "h1": "Al Haramain Rose Oud Parfum Oriental Algérie",
+      "h1": "Al Haramain Rose Oud Parfum Mixte Algérie",
       "name": "Rose Oud",
       "brand": "Al Haramain",
       "brandSlug": "al-haramain",
@@ -14478,7 +14478,7 @@
     {
       "id": "swiss-arabian-shaghaf-oud",
       "slug": "swiss-arabian-shaghaf-oud",
-      "h1": "Swiss Arabian Shaghaf Oud Parfum Oriental Algérie",
+      "h1": "Swiss Arabian Shaghaf Oud Parfum Mixte Algérie",
       "name": "Shaghaf Oud",
       "brand": "Swiss Arabian",
       "brandSlug": "swiss-arabian",
@@ -16053,7 +16053,7 @@
     {
       "id": "ajmal-amber-wood",
       "slug": "ajmal-amber-wood",
-      "h1": "Ajmal Amber Wood Parfum Oriental Algérie",
+      "h1": "Ajmal Amber Wood Parfum Mixte Algérie",
       "name": "Amber Wood",
       "brand": "Ajmal",
       "brandSlug": "ajmal",
@@ -16276,7 +16276,7 @@
     {
       "id": "tom-ford-rose-prick",
       "slug": "tom-ford-rose-prick",
-      "h1": "Tom Ford Rose Prick Parfum Oriental Algérie",
+      "h1": "Tom Ford Rose Prick Parfum Mixte Algérie",
       "name": "Rose Prick",
       "brand": "Tom Ford",
       "brandSlug": "tom-ford",
@@ -19753,7 +19753,7 @@
     {
       "id": "al-haramain-amber-oud",
       "slug": "al-haramain-amber-oud",
-      "h1": "Al Haramain Amber Oud Parfum Oriental Algérie",
+      "h1": "Al Haramain Amber Oud Parfum Mixte Algérie",
       "name": "Amber Oud",
       "brand": "Al Haramain",
       "brandSlug": "al-haramain",
@@ -19808,7 +19808,7 @@
     {
       "id": "rasasi-choco-musk",
       "slug": "rasasi-choco-musk",
-      "h1": "Rasasi Choco Musk Parfum Oriental Algérie",
+      "h1": "Rasasi Choco Musk Parfum Mixte Algérie",
       "name": "Choco Musk",
       "brand": "Al Rehab",
       "brandSlug": "al-rehab",
@@ -19863,7 +19863,7 @@
     {
       "id": "swiss-arabian-mukhalat-malaki",
       "slug": "swiss-arabian-mukhalat-malaki",
-      "h1": "Swiss Arabian Mukhalat Malaki Parfum Oriental Algérie",
+      "h1": "Swiss Arabian Mukhalat Malaki Parfum Mixte Algérie",
       "name": "Mukhalat Malaki",
       "brand": "Swiss Arabian",
       "brandSlug": "swiss-arabian",
@@ -21094,7 +21094,7 @@
     {
       "id": "lattafa-oud-for-glory-intense",
       "slug": "lattafa-oud-for-glory-intense",
-      "h1": "Lattafa Oud for Glory Intense Parfum Oriental Algérie",
+      "h1": "Lattafa Oud for Glory Intense Parfum Mixte Algérie",
       "name": "Oud for Glory Intense",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -21599,7 +21599,7 @@
     {
       "id": "lattafa-yara-moi",
       "slug": "lattafa-yara-moi",
-      "h1": "Lattafa Yara Moi Parfum Oriental Femme Algérie",
+      "h1": "Lattafa Yara Moi Parfum Femme Femme Algérie",
       "name": "Yara Moi",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -22360,7 +22360,7 @@
     {
       "id": "al-haramain-oudh-patchouli",
       "slug": "al-haramain-oudh-patchouli",
-      "h1": "Al Haramain Oudh Patchouli Parfum Oriental Algérie",
+      "h1": "Al Haramain Oudh Patchouli Parfum Mixte Algérie",
       "name": "Oudh Patchouli",
       "brand": "Al Haramain",
       "brandSlug": "al-haramain",
@@ -22805,7 +22805,7 @@
     {
       "id": "burberry-brit-femme",
       "slug": "burberry-brit-femme",
-      "h1": "Burberry Brit Femme Parfum Algérie",
+      "h1": "Burberry Burberry Brit for Women Parfum Femme Algérie",
       "name": "Burberry Brit for Women",
       "brand": "Burberry",
       "brandSlug": "burberry",
@@ -22916,7 +22916,7 @@
     {
       "id": "armaf-club-de-nuit-intense-femme",
       "slug": "armaf-club-de-nuit-intense-femme",
-      "h1": "Armaf Club de Nuit Intense Femme Parfum Algérie",
+      "h1": "Armaf Club de Nuit Intense Woman Parfum Femme Algérie",
       "name": "Club de Nuit Intense Woman",
       "brand": "Armaf",
       "brandSlug": "armaf",
@@ -23781,7 +23781,7 @@
     {
       "id": "al-haramain-black-oudh",
       "slug": "al-haramain-black-oudh",
-      "h1": "Al Haramain Black Oudh Parfum Oriental Algérie",
+      "h1": "Al Haramain Black Oudh Parfum Mixte Algérie",
       "name": "Black Oudh",
       "brand": "Al Haramain",
       "brandSlug": "al-haramain",
@@ -24460,7 +24460,7 @@
     {
       "id": "rasasi-fattan-pour-femme",
       "slug": "rasasi-fattan-pour-femme",
-      "h1": "Rasasi Fattan Parfum Oriental Femme Algérie",
+      "h1": "Rasasi Fattan Parfum Femme Femme Algérie",
       "name": "Fattan pour Femme",
       "brand": "Rasasi",
       "brandSlug": "rasasi",
@@ -25941,7 +25941,7 @@
     {
       "id": "swiss-arabian-layali-rouge",
       "slug": "swiss-arabian-layali-rouge",
-      "h1": "Swiss Arabian Layali Rouge Parfum Oriental Algérie",
+      "h1": "Swiss Arabian Layali Rouge Parfum Femme Algérie",
       "name": "Layali Rouge",
       "brand": "Swiss Arabian",
       "brandSlug": "swiss-arabian",
@@ -30234,7 +30234,7 @@
     {
       "id": "hugo-boss-the-scent-private-accord",
       "slug": "hugo-boss-the-scent-private-accord",
-      "h1": "Hugo Boss The Scent Private Accord Homme Algérie",
+      "h1": "Hugo Boss The Scent Private Accord Parfum Homme Algérie",
       "name": "The Scent Private Accord",
       "brand": "Hugo Boss",
       "brandSlug": "hugo-boss",
@@ -31340,7 +31340,7 @@
     {
       "id": "guerlain-aqua-allegoria-bergamote",
       "slug": "guerlain-aqua-allegoria-bergamote",
-      "h1": "Guerlain Aqua Allegoria Bergamote Calabria Algérie",
+      "h1": "Guerlain Aqua Allegoria Bergamote Calabria Parfum Femme Algérie",
       "name": "Aqua Allegoria Bergamote Calabria",
       "brand": "Guerlain",
       "brandSlug": "guerlain",
@@ -31505,7 +31505,7 @@
     {
       "id": "lattafa-bade-al-oud",
       "slug": "lattafa-bade-al-oud",
-      "h1": "Lattafa Bade Al Oud Parfum Oriental Algérie",
+      "h1": "Lattafa Bade Al Oud Parfum Mixte Algérie",
       "name": "Bade'e Al Oud",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -31835,7 +31835,7 @@
     {
       "id": "swiss-arabian-wajd",
       "slug": "swiss-arabian-wajd",
-      "h1": "Swiss Arabian Wajd Parfum Oriental Algérie",
+      "h1": "Swiss Arabian Wajd Parfum Mixte Algérie",
       "name": "Wajd",
       "brand": "Swiss Arabian",
       "brandSlug": "swiss-arabian",
@@ -32103,7 +32103,7 @@
     {
       "id": "guerlain-mon-guerlain-sparkling-bouquet",
       "slug": "guerlain-mon-guerlain-sparkling-bouquet",
-      "h1": "Guerlain Mon Guerlain Sparkling Bouquet Algérie",
+      "h1": "Guerlain Mon Guerlain Sparkling Bouquet Parfum Femme Algérie",
       "name": "Mon Guerlain Sparkling Bouquet",
       "brand": "Guerlain",
       "brandSlug": "guerlain",
@@ -33082,7 +33082,7 @@
     {
       "id": "guerlain-mon-guerlain-bloom-of-rose",
       "slug": "guerlain-mon-guerlain-bloom-of-rose",
-      "h1": "Guerlain Mon Guerlain Bloom of Rose Algérie",
+      "h1": "Guerlain Mon Guerlain Bloom of Rose Parfum Femme Algérie",
       "name": "Mon Guerlain Bloom of Rose",
       "brand": "Guerlain",
       "brandSlug": "guerlain",
@@ -33299,7 +33299,7 @@
     {
       "id": "lattafa-velvet-oud",
       "slug": "lattafa-velvet-oud",
-      "h1": "Lattafa Velvet Oud Parfum Oriental Algérie",
+      "h1": "Lattafa Velvet Oud Parfum Mixte Algérie",
       "name": "Velvet Oud",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -33353,7 +33353,7 @@
     {
       "id": "al-haramain-amber-oud-tobacco",
       "slug": "al-haramain-amber-oud-tobacco",
-      "h1": "Al Haramain Amber Oud Tobacco Edition Algérie",
+      "h1": "Al Haramain Amber Oud Tobacco Edition Parfum Mixte Algérie",
       "name": "Amber Oud Tobacco Edition",
       "brand": "Al Haramain",
       "brandSlug": "al-haramain",
@@ -36228,7 +36228,7 @@
     {
       "id": "lattafa-ejaazi",
       "slug": "lattafa-ejaazi",
-      "h1": "Lattafa Ejaazi Parfum Oriental Algérie",
+      "h1": "Lattafa Ejaazi Parfum Mixte Algérie",
       "name": "Ejaazi",
       "brand": "Lattafa",
       "brandSlug": "lattafa",
@@ -36346,7 +36346,7 @@
     {
       "id": "al-haramain-amber-oud-bleu",
       "slug": "al-haramain-amber-oud-bleu",
-      "h1": "Al Haramain Amber Oud Bleu Parfum Oriental Algérie",
+      "h1": "Al Haramain Amber Oud Bleu Parfum Mixte Algérie",
       "name": "Amber Oud Bleu Edition",
       "brand": "Al Haramain",
       "brandSlug": "al-haramain",
@@ -36403,7 +36403,7 @@
     {
       "id": "ajmal-aurum",
       "slug": "ajmal-aurum",
-      "h1": "Ajmal Aurum Parfum Oriental Femme Algérie",
+      "h1": "Ajmal Aurum Parfum Femme Femme Algérie",
       "name": "Aurum",
       "brand": "Ajmal",
       "brandSlug": "ajmal",
@@ -36458,7 +36458,7 @@
     {
       "id": "ajmal-wisal",
       "slug": "ajmal-wisal",
-      "h1": "Ajmal Wisal Parfum Oriental Femme Algérie",
+      "h1": "Ajmal Wisal Parfum Femme Femme Algérie",
       "name": "Wisal",
       "brand": "Ajmal",
       "brandSlug": "ajmal",
@@ -36568,7 +36568,7 @@
     {
       "id": "afnan-supremacy-noir",
       "slug": "afnan-supremacy-noir",
-      "h1": "Afnan Supremacy Noir Parfum Oriental Algérie",
+      "h1": "Afnan Supremacy Noir Parfum Mixte Algérie",
       "name": "Supremacy Noir",
       "brand": "Afnan",
       "brandSlug": "afnan",
@@ -36622,7 +36622,7 @@
     {
       "id": "orientica-oud-saffron",
       "slug": "orientica-oud-saffron",
-      "h1": "Orientica Oud Saffron Parfum Oriental Algérie",
+      "h1": "Orientica Oud Saffron Parfum Mixte Algérie",
       "name": "Oud Saffron",
       "brand": "Orientica",
       "brandSlug": "orientica",
@@ -40103,7 +40103,7 @@
     {
       "id": "juliette-has-a-gun-not-a-perfume",
       "slug": "juliette-has-a-gun-not-a-perfume",
-      "h1": "Juliette Has A Gun Not A Perfume Algérie",
+      "h1": "Juliette Has A Gun Not A Perfume Parfum Femme Algérie",
       "name": "Not A Perfume",
       "brand": "Juliette Has A Gun",
       "brandSlug": "juliette-has-a-gun",

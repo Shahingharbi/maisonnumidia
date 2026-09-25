@@ -1,0 +1,416 @@
+[
+ {
+  "slug": "kayali-eden",
+  "avant": "Kayali Eden Parfum Mixte Algérie",
+  "apres": "Kayali Eden Juicy Apple Parfum Mixte Algérie",
+  "imp": 5842,
+  "raisons": [
+   "terme tapé absent du h1 : juicy, apple"
+  ]
+ },
+ {
+  "slug": "lattafa-khamrah",
+  "avant": "Lattafa Khamrah Parfum Oriental Algérie",
+  "apres": "Lattafa Khamrah Parfum Mixte Algérie",
+  "imp": 997,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "club-de-nuit-intense-armaf",
+  "avant": "Armaf Club de Nuit Intense Parfum Homme Algérie",
+  "apres": "Armaf Club de Nuit Intense Man Parfum Homme Algérie",
+  "imp": 766,
+  "raisons": [
+   "terme tapé absent du h1 : man"
+  ]
+ },
+ {
+  "slug": "amouage-reflection",
+  "avant": "Amouage Reflection Parfum Homme Algérie",
+  "apres": "Amouage Reflection Man Parfum Homme Algérie",
+  "imp": 586,
+  "raisons": [
+   "terme tapé absent du h1 : man"
+  ]
+ },
+ {
+  "slug": "louis-vuitton-ombre-nomade",
+  "avant": "Louis Vuitton Ombre Nomade Parfum Oriental Algérie",
+  "apres": "Louis Vuitton Ombre Nomade Parfum Mixte Algérie",
+  "imp": 388,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "lattafa-asad",
+  "avant": "Lattafa Asad Parfum Oriental Algérie",
+  "apres": "Lattafa Asad Parfum Homme Algérie",
+  "imp": 253,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "rasasi-hawas",
+  "avant": "Rasasi Hawas Parfum Oriental Algérie",
+  "apres": "Rasasi Hawas Parfum Homme Algérie",
+  "imp": 246,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "burberry-brit-femme",
+  "avant": "Burberry Brit Femme Parfum Algérie",
+  "apres": "Burberry Burberry Brit for Women Parfum Femme Algérie",
+  "imp": 184,
+  "raisons": [
+   "terme tapé absent du h1 : for"
+  ]
+ },
+ {
+  "slug": "al-haramain-amber-oud-tobacco",
+  "avant": "Al Haramain Amber Oud Tobacco Edition Algérie",
+  "apres": "Al Haramain Amber Oud Tobacco Edition Parfum Mixte Algérie",
+  "imp": 175,
+  "raisons": [
+   "mot « Parfum » absent"
+  ]
+ },
+ {
+  "slug": "armaf-club-de-nuit-intense-femme",
+  "avant": "Armaf Club de Nuit Intense Femme Parfum Algérie",
+  "apres": "Armaf Club de Nuit Intense Woman Parfum Femme Algérie",
+  "imp": 170,
+  "raisons": [
+   "terme tapé absent du h1 : woman"
+  ]
+ },
+ {
+  "slug": "afnan-supremacy-noir",
+  "avant": "Afnan Supremacy Noir Parfum Oriental Algérie",
+  "apres": "Afnan Supremacy Noir Parfum Mixte Algérie",
+  "imp": 139,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "swiss-arabian-shaghaf-oud",
+  "avant": "Swiss Arabian Shaghaf Oud Parfum Oriental Algérie",
+  "apres": "Swiss Arabian Shaghaf Oud Parfum Mixte Algérie",
+  "imp": 119,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "ajmal-wisal",
+  "avant": "Ajmal Wisal Parfum Oriental Femme Algérie",
+  "apres": "Ajmal Wisal Parfum Femme Femme Algérie",
+  "imp": 76,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "lattafa-yara-moi",
+  "avant": "Lattafa Yara Moi Parfum Oriental Femme Algérie",
+  "apres": "Lattafa Yara Moi Parfum Femme Femme Algérie",
+  "imp": 67,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "amber-oud-al-haramain",
+  "avant": "Amber Oud Al Haramain Parfum Oriental Algérie",
+  "apres": "Amber Oud Al Haramain Parfum Mixte Algérie",
+  "imp": 62,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "kalemat-arabian-oud",
+  "avant": "Arabian Oud Kalemat Parfum Oriental Algérie",
+  "apres": "Arabian Oud Kalemat Parfum Mixte Algérie",
+  "imp": 58,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "tom-ford-oud-wood",
+  "avant": "Tom Ford Oud Wood Parfum Oriental Algérie",
+  "apres": "Tom Ford Oud Wood Parfum Mixte Algérie",
+  "imp": 54,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "lattafa-oud-mood",
+  "avant": "Lattafa Oud Mood Parfum Oriental Algérie",
+  "apres": "Lattafa Oud Mood Parfum Mixte Algérie",
+  "imp": 44,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "lattafa-velvet-oud",
+  "avant": "Lattafa Velvet Oud Parfum Oriental Algérie",
+  "apres": "Lattafa Velvet Oud Parfum Mixte Algérie",
+  "imp": 36,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "lattafa-bade-al-oud",
+  "avant": "Lattafa Bade Al Oud Parfum Oriental Algérie",
+  "apres": "Lattafa Bade Al Oud Parfum Mixte Algérie",
+  "imp": 32,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "lattafa-raghba",
+  "avant": "Lattafa Raghba Parfum Oriental Algérie",
+  "apres": "Lattafa Raghba Parfum Mixte Algérie",
+  "imp": 30,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "al-haramain-amber-oud",
+  "avant": "Al Haramain Amber Oud Parfum Oriental Algérie",
+  "apres": "Al Haramain Amber Oud Parfum Mixte Algérie",
+  "imp": 30,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "swiss-arabian-layali-rouge",
+  "avant": "Swiss Arabian Layali Rouge Parfum Oriental Algérie",
+  "apres": "Swiss Arabian Layali Rouge Parfum Femme Algérie",
+  "imp": 29,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "al-haramain-oudh-patchouli",
+  "avant": "Al Haramain Oudh Patchouli Parfum Oriental Algérie",
+  "apres": "Al Haramain Oudh Patchouli Parfum Mixte Algérie",
+  "imp": 28,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "ajmal-amber-wood",
+  "avant": "Ajmal Amber Wood Parfum Oriental Algérie",
+  "apres": "Ajmal Amber Wood Parfum Mixte Algérie",
+  "imp": 24,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "swiss-arabian-wajd",
+  "avant": "Swiss Arabian Wajd Parfum Oriental Algérie",
+  "apres": "Swiss Arabian Wajd Parfum Mixte Algérie",
+  "imp": 22,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "al-haramain-amber-oud-bleu",
+  "avant": "Al Haramain Amber Oud Bleu Parfum Oriental Algérie",
+  "apres": "Al Haramain Amber Oud Bleu Parfum Mixte Algérie",
+  "imp": 20,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "juliette-has-a-gun-not-a-perfume",
+  "avant": "Juliette Has A Gun Not A Perfume Algérie",
+  "apres": "Juliette Has A Gun Not A Perfume Parfum Femme Algérie",
+  "imp": 18,
+  "raisons": [
+   "mot « Parfum » absent"
+  ]
+ },
+ {
+  "slug": "lattafa-ejaazi",
+  "avant": "Lattafa Ejaazi Parfum Oriental Algérie",
+  "apres": "Lattafa Ejaazi Parfum Mixte Algérie",
+  "imp": 17,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "el-nabil-musc-makkah",
+  "avant": "El Nabil Musc Makkah Parfum Oriental Algérie",
+  "apres": "El Nabil Musc Makkah Parfum Mixte Algérie",
+  "imp": 16,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "rasasi-choco-musk",
+  "avant": "Rasasi Choco Musk Parfum Oriental Algérie",
+  "apres": "Rasasi Choco Musk Parfum Mixte Algérie",
+  "imp": 16,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "tom-ford-rose-prick",
+  "avant": "Tom Ford Rose Prick Parfum Oriental Algérie",
+  "apres": "Tom Ford Rose Prick Parfum Mixte Algérie",
+  "imp": 15,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "ajmal-aurum",
+  "avant": "Ajmal Aurum Parfum Oriental Femme Algérie",
+  "apres": "Ajmal Aurum Parfum Femme Femme Algérie",
+  "imp": 15,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "rasasi-fattan-pour-femme",
+  "avant": "Rasasi Fattan Parfum Oriental Femme Algérie",
+  "apres": "Rasasi Fattan Parfum Femme Femme Algérie",
+  "imp": 14,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "swiss-arabian-mukhalat-malaki",
+  "avant": "Swiss Arabian Mukhalat Malaki Parfum Oriental Algérie",
+  "apres": "Swiss Arabian Mukhalat Malaki Parfum Mixte Algérie",
+  "imp": 12,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "guerlain-mon-guerlain-sparkling-bouquet",
+  "avant": "Guerlain Mon Guerlain Sparkling Bouquet Algérie",
+  "apres": "Guerlain Mon Guerlain Sparkling Bouquet Parfum Femme Algérie",
+  "imp": 11,
+  "raisons": [
+   "mot « Parfum » absent"
+  ]
+ },
+ {
+  "slug": "lattafa-oud-for-glory",
+  "avant": "Lattafa Oud for Glory Parfum Oriental Algérie",
+  "apres": "Lattafa Oud for Glory Parfum Mixte Algérie",
+  "imp": 6,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "hugo-boss-the-scent-private-accord",
+  "avant": "Hugo Boss The Scent Private Accord Homme Algérie",
+  "apres": "Hugo Boss The Scent Private Accord Parfum Homme Algérie",
+  "imp": 5,
+  "raisons": [
+   "mot « Parfum » absent"
+  ]
+ },
+ {
+  "slug": "guerlain-aqua-allegoria-bergamote",
+  "avant": "Guerlain Aqua Allegoria Bergamote Calabria Algérie",
+  "apres": "Guerlain Aqua Allegoria Bergamote Calabria Parfum Femme Algérie",
+  "imp": 5,
+  "raisons": [
+   "mot « Parfum » absent"
+  ]
+ },
+ {
+  "slug": "lattafa-oud-for-glory-intense",
+  "avant": "Lattafa Oud for Glory Intense Parfum Oriental Algérie",
+  "apres": "Lattafa Oud for Glory Intense Parfum Mixte Algérie",
+  "imp": 3,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "al-haramain-black-oudh",
+  "avant": "Al Haramain Black Oudh Parfum Oriental Algérie",
+  "apres": "Al Haramain Black Oudh Parfum Mixte Algérie",
+  "imp": 3,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "montale-dark-aoud",
+  "avant": "Montale Dark Aoud Parfum Oriental Algérie",
+  "apres": "Montale Dark Aoud Parfum Mixte Algérie",
+  "imp": 1,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "sultan-al-oud",
+  "avant": "Sultan Al Oud Parfum Oriental Algérie",
+  "apres": "Sultan Al Oud Parfum Homme Algérie",
+  "imp": 0,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "al-haramain-rose-oud",
+  "avant": "Al Haramain Rose Oud Parfum Oriental Algérie",
+  "apres": "Al Haramain Rose Oud Parfum Mixte Algérie",
+  "imp": 0,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ },
+ {
+  "slug": "guerlain-mon-guerlain-bloom-of-rose",
+  "avant": "Guerlain Mon Guerlain Bloom of Rose Algérie",
+  "apres": "Guerlain Mon Guerlain Bloom of Rose Parfum Femme Algérie",
+  "imp": 0,
+  "raisons": [
+   "mot « Parfum » absent"
+  ]
+ },
+ {
+  "slug": "orientica-oud-saffron",
+  "avant": "Orientica Oud Saffron Parfum Oriental Algérie",
+  "apres": "Orientica Oud Saffron Parfum Mixte Algérie",
+  "imp": 0,
+  "raisons": [
+   "« Parfum Oriental » -> genre (0 impression sur « oriental »)"
+  ]
+ }
+]
