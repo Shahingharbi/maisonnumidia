@@ -289,7 +289,6 @@ export default function ParfumsOrientauxPage() {
           </div>
 
           <CategoryCatalogIndex
-            products={products}
             category="parfums-orientaux"
             categoryLabel="Parfums Orientaux"
           />

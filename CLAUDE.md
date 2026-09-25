@@ -70,13 +70,31 @@ Quand on ajoute un produit avec un nouveau `brandSlug`, la marque correspondante
 - Les breadcrumbs produit seront cassés
 - **Script de vérification :** `node -e "const p=require('./data/products.json');const b=new Set(p.brands.map(x=>x.slug));p.products.filter(x=>!b.has(x.brandSlug)).forEach(x=>console.log(x.slug,'→',x.brandSlug))"`
 
-### Règle n°5 : Maillage interne minimum
-- **Header** : lien vers chaque catégorie + top 5-7 marques par catégorie + Blog + Marques
-- **Footer** : 3 catégories + 10 marques populaires + Blog + Plan du site
-- **Pages catégorie** : BrandPills avec au moins 25 marques (pas 10)
-- **Pages marque** : cross-links vers 20 autres marques en bas de page
-- **Pages produit** : breadcrumb + related (3 min) + liens blog + lien brand filter
-- **Page /plan-du-site** : liens vers TOUTES les pages du site (hub de crawl)
+### Règle n°5 : Maillage interne — mère, filles, produits
+
+**Structure (revue le 25/09/2026).** Trois niveaux, et on ne saute pas un niveau pour le plaisir :
+
+1. **Collections mères** = les 3 catégories (`/parfums-homme`, `/parfums-femme`, `/parfums-orientaux`). Elles se lient entre elles, et elles envoient vers **toutes** leurs pages marque.
+2. **Collections filles** = les pages marque filtrées (`/parfums-femme/dior`). Chacune remonte vers sa mère, porte les produits de sa marque, et lie **12** autres marques de la même section (`BrandCrossLinks`).
+3. **Produits** = atteignables depuis leur page marque, la grille de la catégorie, `/plan-du-site`, le sitemap et les produits liés.
+
+**Ce qu'on ne refait pas.** `CategoryCatalogIndex` listait au départ *chaque produit* de la catégorie : `/parfums-femme` sortait **466 liens produit**, et les fiches phares y étaient liées jusqu'à 4 fois (grille + index + blocs éditoriaux). Ça a rempli son office en juin 2026 quand rien n'était indexé, mais une fois le crawl rétabli (91 % des URL vérifiées indexées) ça ne fait plus que diluer. L'annuaire ne liste plus que les marques.
+
+**Piège à ne jamais réintroduire.** L'annuaire tirait sa liste de marques des produits de la **catégorie**, alors que les pages filles sont générées par **genre** (règle n°2). Les deux listes ne coïncidaient pas : **12 pages marque femme et 21 pages marque homme ne recevaient aucun lien depuis leur propre catégorie**. `CategoryCatalogIndex` appelle désormais `getBrandSlugsForGenderPage()`, la même fonction que `generateStaticParams` et que le sitemap. Toute nouvelle liste de marques doit passer par là.
+
+**Volumes de référence**, à vérifier avec `node scripts/_gsc/mesure-maillage.mjs` (serveur de dev lancé, ou `BASE=https://maisonnumidia.store`) :
+
+| page | liens internes sortants |
+|---|---|
+| catégorie (mère) | ~150, dont toutes ses pages marque |
+| page marque (fille) | ~60, dont 12 marques sœurs |
+| fiche produit | ~60, dont 3 produits liés et 3 articles |
+| `/plan-du-site` | toutes les pages du site (hub de crawl, seule page où l'exhaustivité est voulue) |
+
+**Header** : chaque catégorie + top 5-7 marques par catégorie + Blog + Marques.
+**Footer** : 3 catégories + 10 marques populaires + Blog + Plan du site.
+**Pages catégorie** : BrandPills avec au moins 25 marques en haut.
+**Pages produit** : fil d'Ariane + `related` (3 minimum) + liens blog + lien vers la page marque filtrée.
 
 ### Règle n°6 : Vérification avant chaque push
 Lancer cet audit avant de push :

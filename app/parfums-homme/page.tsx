@@ -307,7 +307,6 @@ export default function ParfumsHommePage() {
           </div>
 
           <CategoryCatalogIndex
-            products={products}
             category="parfums-homme"
             categoryLabel="Parfums Homme"
           />

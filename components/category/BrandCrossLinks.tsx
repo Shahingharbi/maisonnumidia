@@ -6,7 +6,11 @@ interface Props {
   section: "parfums-homme" | "parfums-femme" | "parfums-orientaux";
   /** Marque de la page courante, exclue de la liste. */
   currentSlug: string;
-  /** Nombre de marques à lier (règle n°5 du CLAUDE.md : 20 minimum sur une page marque). */
+  /**
+   * Nombre de marques a lier. Volontairement modeste : une page marque sortait 44 liens
+   * vers ses soeurs, ce qui dilue plus que ca ne transmet. Douze suffisent a relier le
+   * niveau entre lui, l'annuaire complet reste sur la page categorie et sur /plan-du-site.
+   */
   limit?: number;
 }
 
@@ -18,7 +22,7 @@ interface Props {
  * La liste suit EXACTEMENT le filtre utilisé par les pages elles-mêmes (règle n°2) : `gender`
  * pour homme et femme, `category` pour les orientaux — sinon on lierait des pages en 404.
  */
-export default function BrandCrossLinks({ section, currentSlug, limit = 24 }: Props) {
+export default function BrandCrossLinks({ section, currentSlug, limit = 12 }: Props) {
   const slugs =
     section === "parfums-orientaux"
       ? [...new Set(getProductsByCategory("parfums-orientaux").map((p) => p.brandSlug))]

@@ -1,0 +1,122 @@
+[
+ {
+  "nom": "prix",
+  "requetes": 2414,
+  "clics": 1035,
+  "impressions": 35145,
+  "ctr": 0.029449423815621,
+  "position": 7.052525252525252
+ },
+ {
+  "nom": "algerie / dz",
+  "requetes": 1059,
+  "clics": 1225,
+  "impressions": 31339,
+  "ctr": 0.039088675452311816,
+  "position": 7.003637640001276
+ },
+ {
+  "nom": "original / authentique",
+  "requetes": 265,
+  "clics": 84,
+  "impressions": 2268,
+  "ctr": 0.037037037037037035,
+  "position": 9.38447971781305
+ },
+ {
+  "nom": "pas cher / promo",
+  "requetes": 38,
+  "clics": 4,
+  "impressions": 72,
+  "ctr": 0.05555555555555555,
+  "position": 15.041666666666666
+ },
+ {
+  "nom": "genre (homme / femme)",
+  "requetes": 3280,
+  "clics": 371,
+  "impressions": 20851,
+  "ctr": 0.01779291161095391,
+  "position": 9.612824324972424
+ },
+ {
+  "nom": "contenance (ml)",
+  "requetes": 754,
+  "clics": 102,
+  "impressions": 4524,
+  "ctr": 0.022546419098143235,
+  "position": 7.984084880636605
+ },
+ {
+  "nom": "concentration",
+  "requetes": 1658,
+  "clics": 68,
+  "impressions": 4477,
+  "ctr": 0.015188742461469734,
+  "position": 17.611570247933884
+ },
+ {
+  "nom": "avis / test",
+  "requetes": 32,
+  "clics": 0,
+  "impressions": 44,
+  "ctr": 0,
+  "position": 15.545454545454545
+ },
+ {
+  "nom": "notes olfactives",
+  "requetes": 107,
+  "clics": 2,
+  "impressions": 161,
+  "ctr": 0.012422360248447204,
+  "position": 11.900621118012422
+ },
+ {
+  "nom": "tenue / sillage",
+  "requetes": 10,
+  "clics": 0,
+  "impressions": 24,
+  "ctr": 0,
+  "position": 2.75
+ },
+ {
+  "nom": "achat / livraison",
+  "requetes": 79,
+  "clics": 18,
+  "impressions": 603,
+  "ctr": 0.029850746268656716,
+  "position": 14.61525704809287
+ },
+ {
+  "nom": "meilleur / top / classement",
+  "requetes": 70,
+  "clics": 5,
+  "impressions": 529,
+  "ctr": 0.00945179584120983,
+  "position": 10.306238185255198
+ },
+ {
+  "nom": "similaire / equivalent",
+  "requetes": 8,
+  "clics": 2,
+  "impressions": 13,
+  "ctr": 0.15384615384615385,
+  "position": 9.153846153846153
+ },
+ {
+  "nom": "marque du catalogue",
+  "requetes": 13909,
+  "clics": 2246,
+  "impressions": 95137,
+  "ctr": 0.023608059955642916,
+  "position": 10.191082333897432
+ },
+ {
+  "nom": "nom de parfum du catalogue",
+  "requetes": 16121,
+  "clics": 2140,
+  "impressions": 107579,
+  "ctr": 0.019892358173993065,
+  "position": 10.072514152390337
+ }
+]

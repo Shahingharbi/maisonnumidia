@@ -315,7 +315,6 @@ export default function ParfumsFemmePage() {
           </div>
 
           <CategoryCatalogIndex
-            products={products}
             category="parfums-femme"
             categoryLabel="Parfums Femme"
           />
