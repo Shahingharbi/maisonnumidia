@@ -5,7 +5,8 @@
 import fs from "fs";
 
 const COMB = /[̀-ͯ]/g;
-const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(COMB, "").replace(/['’]/g, " ").replace(/\s+/g, " ");
+const LIGATURES = /[œæ]/g;
+const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(COMB, "").replace(LIGATURES, (c) => ({ "œ": "oe", "æ": "ae" })[c]).replace(/['’]/g, " ").replace(/\s+/g, " ");
 const mots = (s) => String(s || "").split(/\s+/).filter(Boolean).length;
 
 const PHRASES = [

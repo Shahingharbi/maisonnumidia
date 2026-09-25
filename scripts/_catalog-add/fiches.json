@@ -1,5 +1,70 @@
 [
  {
+  "id": "armaf-club-de-nuit-oud",
+  "slug": "armaf-club-de-nuit-oud",
+  "name": "Club de Nuit Oud",
+  "h1": "Armaf Club de Nuit Oud Parfum Mixte Algérie",
+  "brand": "Armaf",
+  "brandSlug": "armaf",
+  "gender": "unisexe",
+  "category": "parfums-orientaux",
+  "family": "Fruité Boisé Vanillé",
+  "concentration": "EDP",
+  "volume": "105ml",
+  "price": 20500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Pêche",
+    "Poire",
+    "Fruit de la passion",
+    "Ananas",
+    "Prune",
+    "Bergamote"
+   ],
+   "heart": [
+    "Jasmin",
+    "Bois de cachemire",
+    "Freesia",
+    "Feuilles de violette"
+   ],
+   "base": [
+    "Musc",
+    "Ambre cristal",
+    "Vanille",
+    "Oud du Cambodge"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/armaf-club-de-nuit-oud.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": true,
+  "related": [
+   "armaf-club-de-nuit-untold",
+   "armaf-club-de-nuit-milestone",
+   "club-de-nuit-intense-armaf"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Oud-88825.html",
+   "fragranticaId": 88825,
+   "boutiques": 3,
+   "slugCandidat": "armaf-club-de-nuit-oud"
+  }
+ },
+ {
   "id": "boucheron-jaipur-homme",
   "slug": "boucheron-jaipur-homme",
   "name": "Jaipur Homme",
@@ -13,8 +78,8 @@
   "volume": "100ml",
   "price": 14000,
   "originalPrice": null,
-  "shortDescription": "Jaipur Homme installe un oriental épicé raffiné, entre agrumes et cannelle. La cardamome et le citron ouvrent la composition, la cannelle et l'œillet la réchauffent au cœur, avant un fond de benjoin, de fève tonka et de patchouli qui referme l'ensemble sur une note boisée.",
-  "description": "Jaipur Homme compte parmi les références historiques de Boucheron, une maison joaillière qui a construit sa parfumerie sur des compositions riches et bien structurées. Cette eau de parfum oriental épicé s'adresse aux hommes qui aiment les fragrances avec du caractère, ni trop légères ni trop discrètes au fil de la journée.\n\nL'ouverture rassemble plusieurs agrumes, le citron et le citron vert, associés à la bergamote pour une fraîcheur classique, mais c'est la cardamome qui donne le vrai ton épicé de la composition dès les premières minutes. Cette entrée annonce un parfum qui ne restera pas simplement frais bien longtemps.\n\nLe cœur confirme cette orientation avec la cannelle et l'œillet, deux notes épicées et légèrement florales, adoucies par la rose et le jasmin. Ce mélange installe une transition riche entre l'ouverture citronnée et le fond, plus dense. Celui-ci s'appuie sur le benjoin et la fève tonka pour la chaleur, le patchouli pour la profondeur terreuse, et le cèdre pour la structure boisée, l'ensemble formant une base persistante et bien dosée.\n\nJaipur Homme se porte au bureau comme en soirée, du printemps à l'automne, quand on veut un oriental épicé qui reste élégant sans être discret. Maison Numidia le propose garanti 100% original, livré dans les 58 wilayas via Yalidine, payable à la réception avec droit de refus à la livraison si le parfum ne convient pas.",
+  "shortDescription": "Boucheron Jaipur Homme est une eau de parfum orientale épicée de 100 ml, pensée pour un homme qui aime les sillages chauds et affirmés au bureau comme en soirée. La cardamome et les agrumes ouvrent sur un cœur épicé, avant un fond boisé ambré qui tient sur la peau.",
+  "description": "Boucheron Jaipur Homme appartient à la famille orientale épicée, un registre pour les hommes qui recherchent un parfum affirmé, capable de tenir sa place aussi bien en réunion qu'en soirée. Cette eau de parfum de 100 ml assume un caractère chaud et légèrement sucré, loin des fougères aromatiques trop discrètes, sans jamais devenir envahissant.\n\nL'ouverture associe la cardamome à un trio d'agrumes, citron, citron vert et bergamote, pour un départ frais et vif qui capte immédiatement l'attention. Cette entrée en matière dure quelques minutes avant de laisser place au cœur du parfum, le temps que la peau réchauffe les premières notes.\n\nLe cœur s'articule autour de la cannelle et de l'œillet, deux notes épicées qui donnent au parfum son relief, accompagnées de rose et de jasmin qui apportent une touche florale inattendue sur un jus masculin. Le fond referme la composition sur le benjoin, la fève tonka, le patchouli et le cèdre, un accord boisé ambré qui prolonge le sillage plusieurs heures et laisse une trace chaleureuse sur les vêtements.\n\nJaipur Homme trouve naturellement sa place au bureau comme en soirée, au printemps et à l'automne, quand les températures modérées laissent ce type de composition s'exprimer sans excès. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception, un droit de refus restant possible directement à la livraison si le colis ne convient pas.",
   "notes": {
    "top": [
     "Cardamome",
@@ -76,8 +141,8 @@
   "volume": "100ml",
   "price": 17500,
   "originalPrice": null,
-  "shortDescription": "Pour L'Homme reste l'une des fougères aromatiques les plus reconnaissables de Cacharel, portée par la lavande, le citron et la bergamote en ouverture. Le cœur épicé de muscade et œillet mène vers un fond boisé santal-cèdre-vétiver, dans cette Eau de Toilette 100ml pensée pour un usage quotidien.",
-  "description": "Pour L'Homme fait partie des grands classiques du vestiaire Cacharel, une fougère aromatique en Eau de Toilette 100ml construite pour un usage quotidien sans esbroufe. Ce type de composition s'adresse à un homme qui cherche une fraîcheur nette, portée au bureau comme dans la vie de tous les jours, sans avoir besoin de renouveler l'application trop souvent.\n\nL'ouverture réunit lavande, citron et bergamote, un accord aromatique et citronné qui donne un départ vif, immédiatement identifiable comme masculin dans la tradition de la parfumerie française. Cette fraîcheur initiale pose le ton de tout le parfum et reste perceptible une bonne partie de la journée.\n\nLe cœur associe muscade, géranium et œillet, une facette épicée et florale qui apporte du relief sans alourdir la composition. Le fond, tenu par le bois de santal, le cèdre, le musc et le vétiver, referme le parfum sur une base boisée sèche et propre, fidèle à l'esprit fougère hérité des grands classiques masculins.\n\nPour L'Homme se porte en journée et au bureau, avec une préférence marquée pour le printemps et l'été où sa fraîcheur aromatique prend tout son sens. C'est un parfum simple à porter, qui traverse les années sans se démoder. Maison Numidia livre Pour L'Homme de Cacharel garanti 100% original dans les 58 wilayas via Yalidine, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Cacharel pour L'Homme est une eau de toilette fougère aromatique de 100 ml, une signature fraîche pour le quotidien, au bureau comme en soirée. La lavande et la muscade ouvrent sur un cœur floral épicé, puis un fond boisé qui tient sur la peau.",
+  "description": "Cacharel pour L'Homme s'inscrit dans la famille fougère aromatique, un registre construit autour de la lavande et des bois, pensé pour un homme qui veut un parfum net et facile à porter au quotidien. Cette eau de toilette de 100 ml garde un caractère frais sans jamais tomber dans la simplicité, avec assez de matière pour tenir sa place en société.\n\nL'ouverture mêle la muscade et la bergamote à la lavande et à la sauge sclarée, un départ aromatique et légèrement épicé qui installe immédiatement le ton fougère du parfum. Cette entrée s'efface progressivement pour laisser apparaître le cœur, plus floral, au fil des premières minutes sur la peau.\n\nLe cœur rassemble l'œillet, le géranium, l'ylang-ylang, le muguet, le cyclamen et le jasmin, un bouquet floral dense qui adoucit la fraîcheur du départ sans perdre le caractère masculin de la composition. Le fond referme sur le sapin, le vétiver, le cèdre, la mousse de chêne, le bois de santal, l'ambre et le musc, un accord boisé complexe qui donne au parfum sa tenue et son sillage sur la durée.\n\nCacharel pour L'Homme convient au bureau comme aux sorties du soir, avec une préférence pour le printemps et l'automne où la fraîcheur aromatique du départ s'exprime le mieux. Maison Numidia le vend 100% original, livré par Yalidine dans les 58 wilayas, en paiement à la réception, avec un droit de refus à la livraison si le produit ne correspond pas à l'attente.",
   "notes": {
    "top": [
     "Muscade",
@@ -144,8 +209,8 @@
   "volume": "75ml",
   "price": 19500,
   "originalPrice": null,
-  "shortDescription": "Yes I Am Fabulous de Cacharel condense sa signature oriental vanillé autour de trois accords seulement, la mûre en tête, l'héliotrope au cœur et un fond gourmand lait-noisette. Cette Eau de Parfum 75ml, épurée dans sa construction, vise les soirées froides et les occasions marquantes.",
-  "description": "La ligne Yes I Am de Cacharel s'enrichit avec Fabulous, une Eau de Parfum 75ml qui choisit la simplicité plutôt que l'accumulation de notes. La famille oriental vanillé y est traitée en quelques touches seulement, ce qui donne une composition lisible et reconnaissable dès les premières minutes, sans notes superflues qui viendraient brouiller le propos.\n\nL'ouverture repose entièrement sur la mûre, un fruit rouge charnu et légèrement acidulé qui donne le ton dès l'application. Ce choix d'une note unique en tête tranche avec les compositions à multiples facettes et installe immédiatement l'identité gourmande du parfum, sans détour.\n\nLe cœur se concentre sur l'héliotrope, une fleur à la facette poudrée et légèrement amandée qui prolonge la douceur amorcée par la mûre en début de composition. Le fond referme la composition sur un duo lait et noisette, un accord gourmand chaud qui ancre le parfum dans la famille oriental vanillé annoncée dès son nom.\n\nYes I Am Fabulous se réserve aux soirées et aux occasions spéciales, avec une préférence pour l'automne et l'hiver où sa gourmandise trouve tout son sens. Sa construction épurée en fait une signature facile à reconnaître parmi d'autres orientaux plus chargés. Maison Numidia propose Yes I Am Fabulous de Cacharel garanti 100% original, livré dans les 58 wilayas via Yalidine, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Cacharel Yes I Am Fabulous est une eau de parfum orientale vanillée de 75 ml pensée pour le soir, une signature gourmande et enveloppante. La mûre ouvre sur un cœur d'héliotrope, avant un fond de lait et de noisette proche de la peau.",
+  "description": "Cacharel Yes I Am Fabulous appartient à la famille orientale vanillée, un registre gourmand pensé pour une femme qui aime les parfums enveloppants et sucrés sans excès. Cette eau de parfum de 75 ml se distingue par une construction courte et concentrée, où chaque accord prend le temps de s'installer sur la peau plutôt que de se disperser, dans un esprit résolument féminin et facile à identifier au premier passage.\n\nL'ouverture s'appuie sur la mûre, un départ fruité et généreux qui donne immédiatement le ton gourmand du parfum et annonce la suite de la composition. Cette note fruitée reste présente un moment avant de s'effacer doucement pour laisser place au cœur, plus doux, qui prend ensuite le dessus sur la peau.\n\nLe cœur se resserre sur l'héliotrope, une note poudrée et florale qui apporte de la rondeur et adoucit le fruité du départ sans jamais devenir lourde. Le fond referme la composition sur le lait et la noisette, un accord gourmand qui rappelle la pâtisserie et donne au sillage sa chaleur, une base proche de la peau plutôt que projetée, qui tient bien au fil des heures.\n\nYes I Am Fabulous se porte de préférence en soirée et lors des occasions spéciales, à l'automne et en hiver, quand ce type de composition enveloppante trouve tout son sens et accompagne les tenues plus habillées. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception, et un droit de refus reste possible directement au moment de la livraison si le parfum ne convient pas.",
   "notes": {
    "top": [
     "Mure"
@@ -183,6 +248,248 @@
    "fragranticaId": 59130,
    "boutiques": 4,
    "slugCandidat": "cacharel-yes-i-am-fabulous"
+  }
+ },
+ {
+  "id": "chanel-chance-eau-splendide",
+  "slug": "chanel-chance-eau-splendide",
+  "name": "Chance Eau Splendide",
+  "h1": "Chanel Chance Eau Splendide Parfum Femme Algérie",
+  "brand": "Chanel",
+  "brandSlug": "chanel",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruité",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 44500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Fruits Rouges",
+    "Framboise",
+    "Rose",
+    "Violette",
+    "Pêche"
+   ],
+   "heart": [
+    "Iris",
+    "Géranium Rosat"
+   ],
+   "base": [
+    "Musc Blanc",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/chanel-chance-eau-splendide.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "chanel-chance-eau-tendre",
+   "allure-femme-chanel",
+   "coco-mademoiselle-chanel"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Splendide-104610.html",
+   "fragranticaId": 104610,
+   "boutiques": 4,
+   "slugCandidat": "chanel-chance-eau-splendide"
+  }
+ },
+ {
+  "id": "chloe-nomade-jasmin-naturel-intense",
+  "slug": "chloe-nomade-jasmin-naturel-intense",
+  "name": "Nomade Jasmin Naturel Intense",
+  "h1": "Chloé Nomade Jasmin Naturel Intense Parfum Femme Algérie",
+  "brand": "Chloé",
+  "brandSlug": "chloe",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruité",
+  "concentration": "EDP",
+  "volume": "75ml",
+  "price": 22000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Mirabelle",
+    "Poire"
+   ],
+   "heart": [
+    "Jasmin d'Égypte",
+    "Datte",
+    "Freesia"
+   ],
+   "base": [
+    "Vanille",
+    "Bois de santal",
+    "Mousse de chêne",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/chloe-nomade-jasmin-naturel-intense.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "chloe-see-by-chloe",
+   "chloe-rose-naturelle-intense",
+   "chloe-nomade"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Chloe/Nomade-Jasmin-Naturel-Intense-79230.html",
+   "fragranticaId": 79230,
+   "boutiques": 4,
+   "slugCandidat": "chloe-nomade-jasmin-naturel-intense"
+  }
+ },
+ {
+  "id": "chopard-cedar-malaki",
+  "slug": "chopard-cedar-malaki",
+  "name": "Cedar Malaki",
+  "h1": "Chopard Cedar Malaki Parfum Mixte Algérie",
+  "brand": "Chopard",
+  "brandSlug": "chopard",
+  "gender": "unisexe",
+  "category": "parfums-homme",
+  "family": "Boisé Aromatique",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "price": 20500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Cyprès",
+    "Cardamome",
+    "Armoise",
+    "Pamplemousse",
+    "Lavande"
+   ],
+   "heart": [
+    "Cèdre de l'Atlas",
+    "Cèdre du Liban"
+   ],
+   "base": [
+    "Cypriol (Nagarmotha)",
+    "Labdanum",
+    "Patchouli",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/chopard-cedar-malaki.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "chopard-musk-malaki",
+   "chopard-black-incense-malaki",
+   "chopard-rose-malaki"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Chopard/Cedar-Malaki-79336.html",
+   "fragranticaId": 79336,
+   "boutiques": 3,
+   "slugCandidat": "chopard-malaki-cedar"
+  }
+ },
+ {
+  "id": "chopard-leather-malaki",
+  "slug": "chopard-leather-malaki",
+  "name": "Leather Malaki",
+  "h1": "Chopard Leather Malaki Parfum Homme Algérie",
+  "brand": "Chopard",
+  "brandSlug": "chopard",
+  "gender": "homme",
+  "category": "parfums-homme",
+  "family": "Cuir Boisé Aromatique",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "price": 20500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Poivre noir",
+    "Bergamote"
+   ],
+   "heart": [
+    "Cèdre",
+    "Cyprès",
+    "Notes épicées"
+   ],
+   "base": [
+    "Cuir",
+    "Labdanum",
+    "Notes minérales",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/chopard-leather-malaki.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "chopard-musk-malaki",
+   "chopard-oud-malaki",
+   "chopard-black-incense-malaki"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Chopard/Leather-Malaki-93521.html",
+   "fragranticaId": 93521,
+   "boutiques": 3,
+   "slugCandidat": "chopard-malaki-leather"
   }
  },
  {
@@ -244,6 +551,180 @@
   }
  },
  {
+  "id": "dolce-gabbana-light-blue-eau-intense",
+  "slug": "dolce-gabbana-light-blue-eau-intense",
+  "name": "Light Blue Eau Intense",
+  "h1": "Dolce & Gabbana Light Blue Eau Intense Parfum Femme Algérie",
+  "brand": "Dolce & Gabbana",
+  "brandSlug": "dolce-gabbana",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruité",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 20500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Citron",
+    "Pomme Granny Smith"
+   ],
+   "heart": [
+    "Jasmin",
+    "Souci"
+   ],
+   "base": [
+    "Musc",
+    "Bois ambré"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/dolce-gabbana-light-blue-eau-intense.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "dolce-gabbana-pour-femme",
+   "dolce-gabbana-the-only-one-2",
+   "dolce-gabbana-light-blue-forever-femme"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-44034.html",
+   "fragranticaId": 44034,
+   "boutiques": 3,
+   "slugCandidat": "dolce-gabbana-d-g-light-blue"
+  }
+ },
+ {
+  "id": "dolce-gabbana-the-one-gold",
+  "slug": "dolce-gabbana-the-one-gold",
+  "name": "The One Gold",
+  "h1": "Dolce & Gabbana The One Gold Parfum Femme Algérie",
+  "brand": "Dolce & Gabbana",
+  "brandSlug": "dolce-gabbana",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruité",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "price": 23000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Prune",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmin",
+    "Muguet"
+   ],
+   "base": [
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "image": "/images/products/dolce-gabbana-the-one-gold.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "dolce-gabbana-light-blue-capri-in-love",
+   "dolce-gabbana-the-only-one",
+   "dolce-gabbana-the-only-one-2"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Gold-69001.html",
+   "fragranticaId": 69001,
+   "boutiques": 4,
+   "slugCandidat": "dolce-gabbana-d-g-the-one"
+  }
+ },
+ {
+  "id": "elie-saab-elixir-love",
+  "slug": "elie-saab-elixir-love",
+  "name": "Elixir Love",
+  "h1": "Elie Saab Elixir Love Parfum Femme Algérie",
+  "brand": "Elie Saab",
+  "brandSlug": "elie-saab",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruité Chypré",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 20500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Rose Damascena",
+    "Cerise"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmin",
+    "Néroli"
+   ],
+   "base": [
+    "Patchouli",
+    "Mousse de chêne",
+    "Ambroxan"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/elie-saab-elixir-love.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "elie-saab-le-parfum-royal",
+   "elie-saab-girl-of-now",
+   "elie-saab-girl-of-now-forever"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Elie-Saab/Elixir-Love-96451.html",
+   "fragranticaId": 96451,
+   "boutiques": 3,
+   "slugCandidat": "elie-saab-elixir-love"
+  }
+ },
+ {
   "id": "armani-prive-bleu-lazuli",
   "slug": "armani-prive-bleu-lazuli",
   "name": "Privé Bleu Lazuli",
@@ -257,8 +738,8 @@
   "volume": "100ml",
   "price": 65000,
   "originalPrice": null,
-  "shortDescription": "Privé Bleu Lazuli, de la collection haute parfumerie Armani Privé, associe le maté, la cardamome et la bergamote à la prune, à l'osmanthus et au jasmin, sur un fond de miel, tabac, vanille et bois de santal. Un oriental épicé mixte, dense et chaleureux.",
-  "description": "Bleu Lazuli appartient à la collection Armani Privé, la haute parfumerie de Giorgio Armani, ici en Eau de Parfum et flacon de 100ml, dans une version unisexe. Une composition oriental épicé pensée pour celles et ceux qui recherchent un sillage riche, capable de tenir la comparaison en soirée comme au bureau.\n\nLa tête associe le maté, la cardamome et la bergamote, une entrée à la fois fraîche et épicée, portée par l'amertume verte du maté et le grain poivré de la cardamome. La bergamote apporte la respiration agrume nécessaire pour équilibrer l'ensemble.\n\nLe cœur se densifie avec la prune, gourmande et légèrement acidulée, entourée de l'osmanthus et du jasmin, deux fleurs qui apportent de la profondeur sans tomber dans le sucré. Le fond referme la composition sur le miel, le tabac, la vanille et le bois de santal, un accord chaud et enveloppant typique des orientaux épicés haut de gamme.\n\nBleu Lazuli se porte volontiers au printemps et à l'automne, plutôt en fin de journée ou pour une occasion marquante, tant sa présence est affirmée. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Giorgio Armani Privé Bleu Lazuli est une eau de parfum orientale épicée de 100 ml, une création unisexe fraîche puis enveloppante, pour le bureau comme le soir. Le maté et la cardamome ouvrent sur un cœur de prune et d'osmanthe, avant un fond miel et santal.",
+  "description": "Giorgio Armani Privé Bleu Lazuli s'inscrit dans la famille orientale épicée, une composition unisexe pensée pour celles et ceux qui aiment les parfums à la fois frais au départ et chaleureux en fond. Cette eau de parfum de 100 ml joue sur ce contraste, entre une entrée légère et une base dense qui s'installe durablement sur la peau, dans un esprit moderne qui s'écarte des orientaux trop classiques.\n\nL'ouverture associe le maté à la cardamome et à la bergamote, un accord à la fois vert et légèrement épicé qui donne au parfum son énergie initiale dès l'application. Cette fraîcheur tient quelques minutes avant que le cœur ne prenne le relais et n'apporte plus de matière à la composition.\n\nLe cœur s'articule autour de la prune, de l'osmanthe et du jasmin, un trio qui apporte à la fois du fruité et du floral sans jamais devenir sucré. Le fond referme la composition sur le miel, le tabac, la vanille et le bois de santal, un accord ambré et chaud qui donne au sillage sa profondeur et sa tenue dans la durée, perceptible plusieurs heures après l'application.\n\nPrivé Bleu Lazuli se porte aussi bien au bureau qu'en soirée, avec une préférence pour le printemps et l'automne, des saisons où sa double facette fraîche et chaude s'exprime pleinement. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception, un droit de refus restant possible directement à la livraison si le flacon ne convient pas.",
   "notes": {
    "top": [
     "Mate",
@@ -364,6 +845,124 @@
   }
  },
  {
+  "id": "armani-emporio-stronger-with-you-powerfully",
+  "slug": "armani-emporio-stronger-with-you-powerfully",
+  "name": "Emporio Armani Stronger With You Powerfully",
+  "h1": "Giorgio Armani Emporio Armani Stronger With You Powerfully Parfum Homme Algérie",
+  "brand": "Giorgio Armani",
+  "brandSlug": "armani",
+  "gender": "homme",
+  "category": "parfums-homme",
+  "family": "Oriental Vanille",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 33500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Cerise",
+    "Mandarine"
+   ],
+   "heart": [
+    "Epices",
+    "Lavande"
+   ],
+   "base": [
+    "Chataigne",
+    "Vanille",
+    "Bois ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/armani-emporio-stronger-with-you-powerfully.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "armani-acqua-di-gio-absolu",
+   "armani-code-elixir",
+   "armani-acqua-di-gio-elixir"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Powerfully-123070.html",
+   "fragranticaId": 123070,
+   "boutiques": 4,
+   "slugCandidat": "giorgio-armani-stronger-with-you-powerfully"
+  }
+ },
+ {
+  "id": "givenchy-l-interdit-absolu",
+  "slug": "givenchy-l-interdit-absolu",
+  "name": "L'Interdit Absolu",
+  "h1": "Givenchy L'Interdit Absolu Parfum Femme Algérie",
+  "brand": "Givenchy",
+  "brandSlug": "givenchy",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Oriental Floral Boisé",
+  "concentration": "EDP Intense",
+  "volume": "80ml",
+  "price": 29000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Lavande",
+    "Cardamome",
+    "Néroli"
+   ],
+   "heart": [
+    "Fleur d'oranger",
+    "Tubéreuse",
+    "Jasmin"
+   ],
+   "base": [
+    "Vétiver",
+    "Patchouli",
+    "Tabac"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "image": "/images/products/givenchy-l-interdit-absolu.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "givenchy-l-interdit-rouge-ultime",
+   "givenchy-l-interdit-rouge",
+   "givenchy-irresistible-very-floral"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Absolu-95831.html",
+   "fragranticaId": 95831,
+   "boutiques": 4,
+   "slugCandidat": "givenchy-interdit-absolu-edp-intense"
+  }
+ },
+ {
   "id": "givenchy-irresistible-nude-velvet",
   "slug": "givenchy-irresistible-nude-velvet",
   "name": "Irresistible Nude Velvet",
@@ -377,8 +976,8 @@
   "volume": "80ml",
   "price": 26000,
   "originalPrice": null,
-  "shortDescription": "Irresistible Nude Velvet de Givenchy associe amande et ambrette en ouverture à un cœur de rose et d'iris, sur un fond boisé-musqué relevé d'un accord poudre de riz. Un floral poudré doux et velouté, pour les femmes qui préfèrent une élégance feutrée.",
-  "description": "Irresistible Nude Velvet s'adresse aux femmes qui aiment la rose et l'iris dans une version douce, presque cotonneuse, loin des versions plus vives et plus capiteuses de la rose. Givenchy le propose en Eau de Parfum 80 ml, dans la même famille que le reste de la collection Irresistible, mais avec une facette plus poudrée et plus feutrée, presque enveloppée dans du velours.\n\nL'ouverture associe l'amande à l'ambrette, un départ doux et légèrement poudré qui installe immédiatement l'ambiance veloutée du parfum et prépare l'arrivée du cœur floral, sans jamais forcer sur l'intensité.\n\nLe cœur réunit la rose et l'iris, un duo floral poudré classique mais toujours efficace, qui donne au parfum sa vraie identité et sa texture presque veloutée sur la peau nue. En fond, le bois de cèdre, le musc et un accord poudre de riz referment la composition sur une base tendre, qui rappelle la peau fraîchement poudrée et prolonge la sensation de douceur bien après l'application.\n\nIrresistible Nude Velvet se porte en soirée ou pour une occasion spéciale, l'automne et l'hiver étant les saisons qui mettent le mieux en valeur sa douceur enveloppante et sa texture poudrée si particulière. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus complet à la livraison si besoin.",
+  "shortDescription": "Givenchy Irresistible Nude Velvet est une eau de parfum florale poudrée de 80 ml, pensée pour le soir et les occasions spéciales. L'amande et le néroli ouvrent sur un cœur de rose et d'iris, avant un fond de cèdre, musc et poudre de riz.",
+  "description": "Givenchy Irresistible Nude Velvet appartient à la famille florale poudrée, un registre délicat pensé pour une femme qui aime les parfums doux sans être sucrés. Cette eau de parfum de 80 ml construit son caractère sur une matière fine, entre fleurs et poudre, qui reste proche de la peau plutôt que projetée au loin, dans un style discret plutôt que démonstratif.\n\nL'ouverture réunit l'amande, l'ambrette et le néroli, un accord à la fois gourmand et floral qui installe une première impression douce dès l'application. Ce départ tient quelques minutes avant de laisser progressivement la place au cœur du parfum, plus concentré sur la fleur.\n\nLe cœur se concentre sur la rose et l'iris, deux notes florales classiques qui donnent à la composition sa dimension élégante et intemporelle, loin des accords trop sucrés. Le fond referme sur le bois de cèdre, le musc et un accord poudre de riz, une base sèche et poudrée qui explique le nom du parfum et qui tient bien sur la peau au fil des heures, jusqu'en fin de journée.\n\nIrresistible Nude Velvet convient particulièrement aux soirées et aux occasions spéciales, à l'automne et en hiver, quand les compositions poudrées prennent tout leur sens et s'accordent aux tenues plus habillées. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception, ainsi qu'un droit de refus possible directement à la livraison.",
   "notes": {
    "top": [
     "Amande",
@@ -423,6 +1022,60 @@
   }
  },
  {
+  "id": "gucci-bloom-ambrosia-di-fiori",
+  "slug": "gucci-bloom-ambrosia-di-fiori",
+  "name": "Bloom Ambrosia di Fiori",
+  "h1": "Gucci Bloom Ambrosia di Fiori Parfum Femme Algérie",
+  "brand": "Gucci",
+  "brandSlug": "gucci",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "price": 23000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Jasmin (bourgeon)",
+    "Tubéreuse",
+    "Fleur de Rangoon",
+    "Iris",
+    "Rose de Damas"
+   ],
+   "heart": [],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "image": "/images/products/gucci-bloom-ambrosia-di-fiori.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "gucci-envy-me",
+   "gucci-bloom",
+   "gucci-bloom-intense"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Gucci-Bloom-Ambrosia-di-Fiori-57355.html",
+   "fragranticaId": 57355,
+   "boutiques": 4,
+   "slugCandidat": "gucci-bloom-ambrosia-di-fiori-intense"
+  }
+ },
+ {
   "id": "gucci-flora-gorgeous-magnolia",
   "slug": "gucci-flora-gorgeous-magnolia",
   "name": "Flora Gorgeous Magnolia",
@@ -436,8 +1089,8 @@
   "volume": "100ml",
   "price": 25500,
   "originalPrice": null,
-  "shortDescription": "Flora Gorgeous Magnolia de Gucci associe un accord de mûre en tête au magnolia en cœur, sur un fond de patchouli, bois blonds et noix de coco. Un floral fruité boisé féminin, rond et facile à porter, du bureau à la soirée.",
-  "description": "Gucci enrichit sa collection Flora avec Gorgeous Magnolia, une Eau de Parfum en flacon de 100ml construite autour de la fleur qui donne son nom au parfum. Une fragrance florale fruitée boisée pensée pour un usage aussi bien professionnel que pour le soir.\n\nL'ouverture s'appuie sur un accord de mûre, fruité et légèrement sucré, qui donne immédiatement de la gourmandise à la composition sans tomber dans l'excès.\n\nLe cœur met en avant le magnolia, une fleur ronde et délicate qui occupe toute la place centrale du parfum. En fond, le patchouli, les bois blonds et un accord de noix de coco apportent chaleur et douceur, pour une tenue confortable sur la peau tout au long de la journée.\n\nFlora Gorgeous Magnolia convient bien au printemps et à l'automne, aussi bien pour une journée de bureau qu'une sortie en soirée. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Gucci Flora Gorgeous Magnolia est une eau de parfum florale fruitée boisée de 100 ml, une signature lumineuse pour le bureau comme pour le soir. L'accord de mûre ouvre sur un cœur de magnolia, avant un fond patchouli, bois blonds et noix de coco qui prolonge le sillage.",
+  "description": "Gucci Flora Gorgeous Magnolia s'inscrit dans la famille florale fruitée boisée, un registre lumineux pensé pour une femme qui veut un parfum facile à porter au quotidien sans renoncer au caractère. Cette eau de parfum de 100 ml met en avant une seule fleur, le magnolia, autour de laquelle s'organise toute la composition, dans un esprit épuré plutôt qu'un bouquet chargé.\n\nL'ouverture s'appuie sur un accord de mûre, un départ fruité et juteux qui donne immédiatement de la fraîcheur au parfum. Cette première impression tient quelques minutes avant de laisser transparaître le cœur floral qui constitue le vrai sujet de la composition.\n\nLe cœur se concentre entièrement sur le magnolia, une fleur à la fois lumineuse et fraîche qui donne son nom au parfum et qui reste perceptible du début à la fin sur la peau. Le fond referme la composition sur le patchouli, des bois blonds et un accord de noix de coco, une base à la fois boisée et gourmande qui adoucit le floral du cœur et prolonge le sillage plusieurs heures durant.\n\nFlora Gorgeous Magnolia se porte aussi bien au bureau qu'en soirée, avec une préférence pour le printemps et l'automne, des saisons où sa fraîcheur fruitée et florale s'exprime le mieux. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception, un droit de refus restant possible directement au moment de la livraison.",
   "notes": {
    "top": [
     "Accord de mûre"
@@ -492,8 +1145,8 @@
   "volume": "125ml",
   "price": 20500,
   "originalPrice": null,
-  "shortDescription": "Aqua Allegoria Flora Salvaggia de Guerlain ouvre sur des notes aqueuses, la violette, le melon et des fleurs sauvages, avant un cœur solaire de jasmin et fleur d'oranger, sur un fond de violette, iris et musc blanc. Une eau florale fraîche, légère et facile à vivre.",
-  "description": "Guerlain ajoute Flora Salvaggia à sa collection Aqua Allegoria, en Eau de Toilette et flacon de 125ml. Une composition florale fraîche pensée pour une femme qui aime les parfums légers, faciles à porter au quotidien comme en soirée d'été.\n\nL'ouverture associe des notes aqueuses à la violette, au melon et à des fleurs sauvages, pour une entrée fraîche et végétale qui évoque un champ après la pluie.\n\nLe cœur se réchauffe avec des notes solaires, le jasmin et la fleur d'oranger, un trio floral lumineux qui prend le relais de la fraîcheur initiale. Le fond referme la composition sur la violette, l'iris et le musc blanc, pour une tenue douce et poudrée qui ne cherche jamais à en faire trop.\n\nFlora Salvaggia se porte volontiers au printemps et à l'automne, au bureau comme en soirée, dès que l'on cherche une fraîcheur florale sans lourdeur. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Guerlain Aqua Allegoria Flora Salvaggia est une eau de toilette florale de 125 ml, fraîche et lumineuse, pour le bureau comme pour le soir. Les notes aqueuses et la violette ouvrent sur un cœur de jasmin et fleur d'oranger, avant un fond de musc blanc et d'iris.",
+  "description": "Guerlain Aqua Allegoria Flora Salvaggia appartient à la famille florale, dans l'esprit de la collection Aqua Allegoria construite autour de compositions fraîches et naturelles. Cette eau de toilette de 125 ml s'adresse à une femme qui recherche un parfum léger, facile à porter au quotidien, sans jamais tomber dans la lourdeur ni dans l'excès de matière.\n\nL'ouverture mêle des notes aqueuses à la violette, au melon et à des fleurs sauvages, un départ à la fois frais et champêtre qui évoque une promenade en pleine nature dès les premières minutes sur la peau. Cette impression tient un moment avant que le cœur ne prenne le relais.\n\nLe cœur s'appuie sur des notes solaires, le jasmin et la fleur d'oranger, un accord floral lumineux qui prolonge la fraîcheur du départ tout en lui donnant plus de rondeur. Le fond referme la composition sur la violette, l'iris et le musc blanc, une base poudrée et propre qui reste discrète sur la peau et accompagne le sillage sans jamais l'alourdir, jusqu'en fin de journée.\n\nAqua Allegoria Flora Salvaggia se porte aussi bien au bureau qu'en soirée, avec une préférence pour le printemps et l'automne, quand sa fraîcheur florale trouve le plus naturellement sa place dans le quotidien. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas d'Algérie et paiement à la réception, ainsi qu'un droit de refus possible directement à la livraison.",
   "notes": {
    "top": [
     "Notes aqueuses",
@@ -553,8 +1206,8 @@
   "volume": "100ml",
   "price": 20500,
   "originalPrice": null,
-  "shortDescription": "Habit Rouge L'Instinct de Guerlain revisite le classique Habit Rouge avec des notes vertes, du pamplemousse et de la bergamote en tête, puis le cannabis, le maté et la rose rouge au cœur, sur un fond de cuir, patchouli et vanille. Une version plus verte du cuir Guerlain.",
-  "description": "Habit Rouge L'Instinct est la relecture plus verte et plus contemporaine que propose Guerlain de son Habit Rouge historique, en Eau de Parfum et flacon de 100ml. Une fragrance cuir pensée pour un homme qui aime les compositions structurées, du bureau à la soirée.\n\nL'ouverture joue sur des notes vertes, le pamplemousse et la bergamote, un trio frais et légèrement amer qui tranche avec la douceur habituelle des cuirs classiques.\n\nLe cœur surprend avec le cannabis et le maté, deux notes herbacées et modernes, accompagnées de la rose rouge qui apporte une touche plus traditionnelle. En fond, le cuir, le patchouli et la vanille reconstituent la signature chaude et enveloppante de la famille cuir, avec une bonne tenue.\n\nHabit Rouge L'Instinct convient bien au printemps et à l'automne, aussi bien pour une journée de travail qu'une soirée. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Habit Rouge L'Instinct de Guerlain revisite le classique en Eau de Parfum, pensé pour l'homme qui aime les cuirs habillés d'épices douces. Bergamote et pamplemousse ouvrent le bal, avant un cœur floral et boisé qui s'installe pour la journée comme pour le soir.",
+  "description": "Habit Rouge L'Instinct est la relecture en Eau de Parfum d'un des cuirs les plus reconnaissables de la maison Guerlain, pensée pour l'homme qui veut un sillage affirmé sans tomber dans la lourdeur. En 100 ml, ce parfum homme s'adresse à ceux qui aiment les compositions construites, où l'agrume du départ laisse place à un cœur végétal puis à un fond chaud et enveloppant.\n\nL'ouverture joue sur la fraîcheur acidulée de la bergamote et du pamplemousse, portée par des notes vertes qui apportent un aspect vif et légèrement piquant. Cette entrée en matière tranche avec le classicisme du nom Habit Rouge et annonce une composition résolument actuelle, loin des standards trop sucrés.\n\nLe cœur s'ouvre sur un accord inattendu de rose, de cannabis et de maté, une association verte et légèrement fumée qui donne au parfum son caractère singulier. Le fond révèle ensuite le cuir, associé au patchouli et à la vanille : un socle boisé et gourmand qui prolonge la tenue sur la peau tout en gardant une certaine retenue, fidèle à l'esprit Guerlain.\n\nCe parfum trouve sa place au bureau comme en soirée, porté au printemps ou en automne, quand la fraîcheur du début et la chaleur du fond trouvent le bon équilibre avec la température extérieure. Maison Numidia propose Habit Rouge L'Instinct 100 % original, avec livraison Yalidine dans les 58 wilayas et paiement à la réception : la commande peut être refusée à la livraison si elle ne convient pas.",
   "notes": {
    "top": [
     "Bergamote",
@@ -613,8 +1266,8 @@
   "volume": "100ml",
   "price": 29000,
   "originalPrice": null,
-  "shortDescription": "Une relecture plus cuirée et plus dense du classique Habit Rouge, avec un fond patchouli-vanille qui donne du poids au sillage. Un parfum pour homme pensé pour les soirées fraîches et les tenues habillées.",
-  "description": "Habit Rouge Privé revisite l'un des piliers de Guerlain en accentuant le côté cuir de la composition originale. C'est un choix pour les hommes qui connaissent déjà l'univers Habit Rouge et cherchent une version plus affirmée, avec plus de matière et de tenue sur la peau. Le flacon 100ml en EDP est pensé pour un usage régulier en dehors de l'été, quand un sillage plus dense trouve sa place.\n\nL'ouverture reste fidèle à l'esprit Guerlain avec la bergamote et le gingembre, un départ frais et légèrement épicé qui prépare le terrain avant l'arrivée du cœur, sans jamais chercher à être spectaculaire dans les premières minutes.\n\nLe cœur associe la fleur d'oranger à l'iris, un accord floral-poudré qui apporte de l'élégance et adoucit la transition vers le fond, un choix assez rare qui distingue Habit Rouge Privé des cuirs plus rustiques. C'est ce fond, justement, qui fait la personnalité du parfum : cuir, patchouli et vanille se mêlent pour donner un sillage chaud, dense et masculin, loin d'un cuir sec ou trop tabac.\n\nSon profil en fait un parfum de bureau l'après-midi et de soirée le reste du temps, particulièrement à l'aise au printemps et à l'automne quand la fraîcheur du haut trouve un équilibre avec la chaleur du fond. Maison Numidia le garantit 100% original, livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Habit Rouge Privé de Guerlain est une Eau de Parfum pour homme qui approfondit le cuir de la maison avec une touche d'agrumes épicés et de fleurs blanches. Un parfum dense, pensé pour les tenues habillées de bureau comme de soirée.",
+  "description": "Habit Rouge Privé décline en Eau de Parfum l'accord cuir signé Guerlain, avec une intensité pensée pour l'homme qui recherche un parfum de caractère plutôt qu'une fragrance discrète. En 100 ml, cette version resserre l'accord autour d'un cuir plus dense, soutenu par des touches épicées et florales. Elle s'adresse à ceux qui portent leur parfum comme une signature, plutôt que comme un simple accessoire du matin.\n\nL'ouverture associe la bergamote au gingembre, un duo qui donne un départ à la fois frais et légèrement piquant, loin d'un agrume classique. Cette entrée prépare le terrain à un cœur plus enveloppant, sans jamais tomber dans la lourdeur dès les premières minutes. Le gingembre en particulier apporte une chaleur discrète qui distingue cette ouverture d'un simple accord d'agrumes.\n\nLe cœur fait dialoguer la fleur d'oranger et l'iris, une association blanche et poudrée qui adoucit la construction avant que le fond ne prenne le relais. Le sillage se referme sur le cuir, le patchouli et la vanille, un socle chaud et boisé qui porte la signature de la maison Guerlain jusqu'au bout de la journée. L'iris, en particulier, donne à l'ensemble une élégance feutrée qui contraste avec la densité du cuir en fond.\n\nCe parfum convient aussi bien au bureau qu'à une soirée, porté au printemps ou en automne quand les températures laissent la place à des compositions plus construites. Maison Numidia le propose 100 % original, avec livraison Yalidine vers les 58 wilayas et paiement à la réception ; la livraison peut être refusée si le produit ne correspond pas à la commande.",
   "notes": {
    "top": [
     "Bergamote",
@@ -671,8 +1324,8 @@
   "volume": "100ml",
   "price": 21500,
   "originalPrice": null,
-  "shortDescription": "Guerlain Homme ouvre sur la menthe, le citron vert et le rhum, avant un cœur de notes florales, sur un fond de vétiver, cèdre et patchouli. Une composition aromatique boisée fraîche et virile, pensée pour un usage quotidien.",
-  "description": "Guerlain Homme est une Eau de Parfum en flacon de 100ml, pensée comme une signature masculine simple et directe. Une composition aromatique boisée destinée à un usage de tous les jours, en journée comme au bureau.\n\nL'ouverture associe la menthe, le citron vert et le rhum, un accord frais et légèrement sucré qui rappelle l'ambiance d'un cocktail d'été sans jamais tomber dans le sucré excessif.\n\nLe cœur reste discret avec des notes florales qui adoucissent la transition, avant que le fond ne s'installe sur le vétiver, le cèdre et le patchouli, un trio boisé sec qui donne au parfum sa tenue et son caractère masculin affirmé.\n\nGuerlain Homme se porte particulièrement bien au printemps et en été, pour une utilisation en journée ou au bureau, quand on veut un sillage frais sans être discret pour autant. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Guerlain Homme en Eau de Parfum mise sur un accord aromatique frais, entre menthe, citron vert et rhum, avant de s'installer sur un fond boisé de vétiver et de cèdre. Un parfum pensé pour les journées actives, du printemps à l'été.",
+  "description": "Guerlain Homme, en Eau de Parfum de 100 ml, est une composition aromatique boisée pensée pour l'homme actif qui cherche une fraîcheur nette dès le matin. Le nom simple de ce parfum masculin résume son ambition : incarner une signature Guerlain directe, sans fioritures, construite autour d'un accord vif et végétal familier. C'est un parfum pensé pour un usage quotidien, loin des compositions trop sophistiquées.\n\nL'ouverture associe la menthe, le citron vert et le rhum, un trio qui donne un départ vif et légèrement gourmand, presque désaltérant. Cette entrée en matière installe immédiatement le ton aromatique du parfum, loin des agrumes classiques trop plats. Le rhum apporte une note plus chaude qui évite à l'ensemble de rester trop aqueux.\n\nLe cœur s'appuie sur des notes florales qui apportent de la rondeur sans alourdir la fraîcheur initiale, avant que le fond ne prenne le relais avec le vétiver, le cèdre et le patchouli. Ce socle boisé donne au parfum sa tenue et son caractère, tout en restant cohérent avec l'esprit frais du départ. Le patchouli ajoute une légère profondeur qui prolonge la fraîcheur aromatique sans la transformer en accord lourd.\n\nGuerlain Homme se porte en journée comme au bureau, du printemps à l'été, quand les compositions aromatiques trouvent naturellement leur place. Maison Numidia le propose 100 % original, livré par Yalidine dans les 58 wilayas avec paiement à la réception, et la possibilité de refuser la commande à la livraison si elle ne convient pas.",
   "notes": {
    "top": [
     "Menthe",
@@ -729,8 +1382,8 @@
   "volume": "125ml",
   "price": 32000,
   "originalPrice": null,
-  "shortDescription": "Oud Essentiel de Guerlain rassemble l'oud, le cuir, la rose, le safran et le géranium dans une composition boisée épicée dense, sans distinction de tête ni de fond. Un parfum unisexe puissant, pensé pour les soirées froides et les grandes occasions.",
-  "description": "Oud Essentiel compte parmi les créations les plus denses de Guerlain, en Eau de Parfum et flacon de 125ml, dans une version unisexe. Une composition boisée épicée pensée pour les soirées et les occasions spéciales, plutôt que pour un usage léger de journée.\n\nLes cinq notes qui composent ce parfum se dévoilent presque simultanément sur la peau : l'oud, profond et boisé, rencontre le cuir, qui ajoute une facette animale et texturée dès les premières minutes.\n\nLa rose apporte une respiration florale qui contraste avec la densité du bois et du cuir, pendant que le safran introduit une pointe épicée et légèrement métallique. Le géranium referme l'ensemble sur une note verte qui équilibre la composition sans l'alléger complètement.\n\nOud Essentiel trouve sa place à l'automne et en hiver, pour une soirée ou un événement où l'on veut un sillage mémorable. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Oud Essentiel de Guerlain est une Eau de Parfum unisexe qui assemble l'oud, le cuir, la rose, le safran et le géranium dans une composition dense et épicée. Un parfum pensé pour les soirées d'automne et d'hiver, en 125 ml.",
+  "description": "Oud Essentiel de Guerlain, en Eau de Parfum de 125 ml, s'adresse aussi bien aux hommes qu'aux femmes qui recherchent un parfum boisé épicé affirmé, loin des compositions légères du quotidien. C'est un parfum de caractère, pensé pour les moments où l'on veut être remarqué sans en dire trop. Le format 125 ml en fait un flacon pensé pour durer, à réserver aux occasions où l'on assume une présence marquée.\n\nLa composition assemble l'oud et le cuir avec la rose, le safran et le géranium, un accord dense où le boisé et l'épicé se répondent sans jamais s'effacer l'un l'autre. Le safran apporte une chaleur presque poivrée, le géranium une facette verte qui équilibre la profondeur de l'oud et du cuir. Cette construction resserrée privilégie l'intensité à la légèreté, dans l'esprit des grandes compositions boisées de la maison Guerlain.\n\nLa rose adoucit l'ensemble d'une touche presque poudrée, tandis que le cuir et l'oud donnent au parfum sa tenue et sa signature reconnaissable. C'est un accord qui se déploie progressivement sur la peau, sans étapes marquées, mais avec une continuité entre la première impression et la suite du parfum une fois posé sur la peau. Le résultat reste identifiable du début à la fin, sans rupture nette entre les différentes notes.\n\nOud Essentiel trouve sa place en soirée ou lors d'occasions spéciales, porté en automne ou en hiver quand les compositions boisées épicées prennent tout leur sens. Maison Numidia le propose 100 % original, avec livraison Yalidine dans les 58 wilayas et paiement à la réception ; la commande peut être refusée à la livraison si elle ne convient pas.",
   "notes": {
    "top": [
     "Oud",
@@ -770,6 +1423,177 @@
   }
  },
  {
+  "id": "hermes-jour-d-absolu",
+  "slug": "hermes-jour-d-absolu",
+  "name": "Jour d'Hermès Absolu",
+  "h1": "Hermès Jour d'Hermès Absolu Parfum Femme Algérie",
+  "brand": "Hermès",
+  "brandSlug": "hermes",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral",
+  "concentration": "EDP",
+  "volume": "85ml",
+  "price": 23000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Fleur d'abricotier"
+   ],
+   "heart": [
+    "Gardénia"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/hermes-jour-d-absolu.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "hermes-twilly-d-hermes-eau-poivree",
+   "hermes-24-faubourg",
+   "twilly-d-hermes"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Jour-d-Hermes-Absolu-23907.html",
+   "fragranticaId": 23907,
+   "boutiques": 4,
+   "slugCandidat": "hermes-jour-d-absolu"
+  }
+ },
+ {
+  "id": "hugo-boss-bottled-marine",
+  "slug": "hugo-boss-bottled-marine",
+  "name": "Boss Bottled Marine",
+  "h1": "Hugo Boss Boss Bottled Marine Parfum Homme Algérie",
+  "brand": "Hugo Boss",
+  "brandSlug": "hugo-boss",
+  "gender": "homme",
+  "category": "parfums-homme",
+  "family": "Boisé Aromatique Aquatique",
+  "concentration": "EDT",
+  "volume": "200ml",
+  "price": 20500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Pomme givrée",
+    "Menthe"
+   ],
+   "heart": [
+    "Cannelle",
+    "Sauge sclarée"
+   ],
+   "base": [
+    "Bois de cachemire",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "longevity": 3,
+  "sillage": 3,
+  "image": "/images/products/hugo-boss-bottled-marine.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "hugo-boss-just-different",
+   "hugo-boss-x-superman",
+   "hugo-boss-bottled-parfum"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Marine-72259.html",
+   "fragranticaId": 72259,
+   "boutiques": 3,
+   "slugCandidat": "hugo-boss-bottled-marine-edt"
+  }
+ },
+ {
+  "id": "hugo-boss-in-motion",
+  "slug": "hugo-boss-in-motion",
+  "name": "Boss in Motion",
+  "h1": "Hugo Boss Boss in Motion Parfum Homme Algérie",
+  "brand": "Hugo Boss",
+  "brandSlug": "hugo-boss",
+  "gender": "homme",
+  "category": "parfums-homme",
+  "family": "Boisé Épicé",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "price": 13000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Feuilles de violette",
+    "Basilic"
+   ],
+   "heart": [
+    "Poivre rose",
+    "Cannelle",
+    "Cardamome",
+    "Muscade"
+   ],
+   "base": [
+    "Bois de santal",
+    "Vétiver",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 3,
+  "sillage": 3,
+  "image": "/images/products/hugo-boss-in-motion.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "hugo-boss-bottled-sport",
+   "hugo-boss-number-one",
+   "hugo-boss-reversed"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-in-Motion-382.html",
+   "fragranticaId": 382,
+   "boutiques": 5,
+   "slugCandidat": "hugo-boss-in-motion-edt"
+  }
+ },
+ {
   "id": "issey-miyake-le-sel-d-issey",
   "slug": "issey-miyake-le-sel-d-issey",
   "name": "Le Sel d'Issey",
@@ -783,8 +1607,8 @@
   "volume": "100ml",
   "price": 20500,
   "originalPrice": null,
-  "shortDescription": "Le Sel d'Issey construit tout son propos autour d'un accord salin marin, mêlé au gingembre, à l'algue et à l'eau de mer. Le vétiver, le cèdre et la mousse de chêne viennent ancrer cette fraîcheur dans une matière plus boisée. Une composition marine linéaire, sans étages classiques, très reconnaissable.",
-  "description": "Le Sel d'Issey s'écarte de la structure classique en pyramide pour proposer une composition plus linéaire, où l'accord salin domine du début à la fin. Cette Eau de Toilette de 100 ml s'adresse à l'homme qui aime l'esprit marin d'Issey Miyake mais cherche quelque chose de plus minéral que L'Eau d'Issey originale, plus proche du bord de mer que du flacon aquatique classique.\n\nDès l'application, l'accord salin se déploie avec le gingembre, l'algue et l'eau de mer, un ensemble qui recrée sans détour la sensation d'air marin plutôt qu'une simple note aquatique parmi d'autres, avec une pointe d'épice qui évite la mono-facette.\n\nPlutôt que d'évoluer par étages successifs, le parfum reste construit sur ce même accord salin tout du long, soutenu par le vétiver, le cèdre et la mousse de chêne qui apportent la matière boisée nécessaire pour que la fraîcheur ne s'évapore pas trop vite. C'est cette continuité, du départ jusqu'aux dernières heures sur peau, qui fait la signature du Sel d'Issey, loin des parfums construits en trois temps bien séparés.\n\nLe Sel d'Issey se porte naturellement la journée et au bureau, du printemps à l'été, sur un homme attaché aux parfums marins francs et directs. Maison Numidia le propose 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison si le flacon ne convient pas.",
+  "shortDescription": "Le Sel d'Issey d'Issey Miyake est une Eau de Toilette pour homme portée par un accord salin et marin, entre algue, eau de mer et bois. Un parfum frais et minéral pensé pour la journée et le bureau, du printemps à l'été.",
+  "description": "Le Sel d'Issey, en Eau de Toilette de 100 ml, s'adresse à l'homme qui aime les parfums frais et minéraux plutôt que les compositions sucrées ou boisées classiques. Ce parfum construit tout son propos autour de la mer, avec un grand accord qui va du salin au boisé sans rupture marquée. Le flacon et le nom rappellent directement cette inspiration marine, fidèle à l'univers d'Issey Miyake.\n\nLa composition s'ouvre sur un accord salin associé au gingembre, à l'algue et à l'eau de mer, un ensemble qui évoque directement le bord de mer et l'air iodé. Le gingembre apporte une pointe épicée qui empêche l'accord marin de rester trop plat, tout en gardant une grande fraîcheur. L'algue, elle, renforce cette impression d'air marin sans ajouter de lourdeur à l'ensemble.\n\nLe vétiver, le cèdre et la mousse de chêne referment la composition sur une base boisée sèche, qui ancre l'accord salin sans l'alourdir. Cette continuité entre le sel, l'algue et le bois donne au parfum son caractère minéral, reconnaissable dès les premières minutes et stable tout au long de la journée. La mousse de chêne, en particulier, apporte une sécheresse boisée qui contraste avec la fraîcheur marine du départ.\n\nLe Sel d'Issey se porte naturellement en journée, au bureau, du printemps à l'été, quand la fraîcheur saline trouve son plein sens. Maison Numidia le propose 100 % original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception, et la possibilité de refuser la commande à la livraison si elle ne convient pas.",
   "notes": {
    "top": [
     "Accord salin",
@@ -839,8 +1663,8 @@
   "volume": "125ml",
   "price": 31000,
   "originalPrice": null,
-  "shortDescription": "Le Male In Blue s'ouvre sur la lavande, avant un cœur d'anis qui apporte une facette légèrement sucrée et anisée. Le fond de benjoin referme cette Eau de Parfum Jean Paul Gaultier de 125ml sur une note chaude et résineuse, dans un registre aromatique affirmé.",
-  "description": "Le Male In Blue s'inscrit dans la déclinaison In Blue de la ligne Le Male, une Eau de Parfum de 125ml qui reprend la structure aromatique de la collection en la teintant différemment plutôt que de repartir d'une page blanche.\n\nLa lavande ouvre la composition, fidèle à l'identité de la ligne Le Male, avant de laisser place à l'anis au cœur du parfum. Cette note apporte une facette légèrement sucrée et anisée, moins attendue que les cœurs plus classiques, qui donne à Le Male In Blue une partie de sa singularité par rapport aux autres versions de la gamme.\n\nLe fond mise sur le benjoin, une résine chaude et légèrement vanillée qui referme la composition sur une sensation enveloppante et persistante en fin de journée. L'ensemble reste construit en trois temps nets, sans surcharge de notes, ce qui facilite sa lecture du premier vaporisateur jusqu'en fin de journée et lui donne un caractère facile à identifier.\n\nLe Male In Blue se porte au bureau comme en soirée, avec une préférence pour le printemps et l'automne, des saisons intermédiaires où sa concentration en Eau de Parfum trouve un bon équilibre entre légèreté et présence. Le flacon de 125ml en fait un format généreux pour un usage fréquent plutôt qu'occasionnel. Maison Numidia le propose 100% original, livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Le Male In Blue de Jean Paul Gaultier est une Eau de Parfum pour homme construite sur un accord aromatique resserré : lavande, anis et benjoin. Un parfum dense pensé pour le bureau comme pour le soir, au printemps et en automne.",
+  "description": "Le Male In Blue, en Eau de Parfum de 125 ml, revisite la silhouette du flacon marin de Jean Paul Gaultier avec une écriture aromatique plus resserrée. Ce parfum masculin s'adresse à l'homme qui préfère une composition simple et lisible plutôt qu'une pyramide chargée, construite ici autour de trois accords qui se répondent du départ au fond.\n\nL'ouverture repose entièrement sur la lavande, une note aromatique franche qui donne au parfum sa fraîcheur immédiate et sa signature la plus reconnaissable. Loin d'un agrume classique, cette entrée en matière installe d'emblée un profil propre et net, fidèle à l'esprit aromatique de la famille olfactive du parfum.\n\nLe cœur laisse place à l'anis, qui prolonge la fraîcheur de la lavande avec une facette légèrement épicée et gourmande, sans jamais dominer la composition. Le fond se referme sur le benjoin, une note ambrée qui apporte de la chaleur et de la tenue, et qui équilibre la vivacité des deux accords précédents. Cette construction courte donne au parfum une identité directe, où chaque étape reste perceptible sans surcharge.\n\nCe parfum se porte au bureau comme en soirée, au printemps et en automne, quand la fraîcheur aromatique de la lavande trouve un bon équilibre avec les températures de mi-saison. Maison Numidia le propose 100 % original, avec livraison Yalidine dans les 58 wilayas et paiement à la réception ; la commande peut être refusée à la livraison si elle ne correspond pas aux attentes.",
   "notes": {
    "top": [
     "Lavande"
@@ -893,8 +1717,8 @@
   "volume": "100ml",
   "price": 11000,
   "originalPrice": null,
-  "shortDescription": "Le citron vert et le basilic donnent le ton de Karl New York Mercer Street, relevés par le poivre blanc. Le cœur de rhubarbe et de jasmin d'eau précède un fond de vétiver, bois blancs et musc, sur cette eau de toilette homme en 100ml.",
-  "description": "Karl New York Mercer Street rend hommage à l'énergie urbaine de New York dans une version fraîche et nette, au sein de la famille boisée aromatique. Cette eau de toilette homme en 100ml convient au quotidien, particulièrement quand les températures montent et que l'on cherche une fragrance légère.\n\nL'ouverture combine le citron vert et le basilic pour un accord vert et acidulé, relevé par le poivre blanc qui ajoute une pointe légèrement piquante dès les premières minutes de la fragrance.\n\nLe cœur s'appuie sur la rhubarbe, une note fruitée et légèrement acidulée assez inhabituelle, accompagnée du jasmin d'eau et du géranium pour une facette florale discrète. Le fond referme la composition sur le vétiver, les bois blancs et le musc, un accord boisé propre qui donne au sillage sa tenue sans jamais l'alourdir.\n\nKarl New York Mercer Street se porte en journée comme au bureau, au printemps et en été où sa fraîcheur verte est la plus appréciable. Maison Numidia le propose garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Karl New York Mercer Street, en Eau de Toilette pour homme, ouvre sur le citron vert, le basilic et le poivre blanc avant un cœur floral et un fond boisé musqué. Un parfum frais pensé pour la journée et le bureau, du printemps à l'été.",
+  "description": "Karl New York Mercer Street, en Eau de Toilette de 100 ml, appartient à la famille boisée aromatique et s'adresse à l'homme actif qui cherche un parfum frais pour la journée. Le nom rend hommage à un quartier de New York, et la composition suit cette idée d'énergie urbaine avec un départ vif et un fond boisé discret. Cette inspiration urbaine se retrouve dans la construction nette du parfum, pensée pour accompagner un rythme de journée soutenu.\n\nL'ouverture associe le citron vert, le basilic et le poivre blanc, un trio qui donne un accord frais et légèrement piquant dès les premières minutes. Le basilic apporte une facette aromatique nette, tandis que le poivre blanc tempère l'agrume d'une pointe chaude qui évite au départ d'être trop plat.\n\nLe cœur s'ouvre sur la rhubarbe, le jasmin d'eau et le géranium, une association à la fois fruitée et florale qui garde la fraîcheur du départ tout en apportant du volume à la composition. Le fond referme l'ensemble sur le vétiver, les bois blancs et le musc, un socle boisé propre qui prolonge le parfum sans jamais l'alourdir.\n\nCe parfum se porte naturellement en journée et au bureau, du printemps à l'été, quand les compositions boisées aromatiques fraîches trouvent leur place. Maison Numidia le propose 100 % original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception, et la possibilité de refuser la commande à la livraison si elle ne convient pas.",
   "notes": {
    "top": [
     "Citron vert",
@@ -953,8 +1777,8 @@
   "volume": "100ml",
   "price": 43000,
   "originalPrice": null,
-  "shortDescription": "Avec Vanilla | 28, Kayali installe un oriental vanillé unisexe autour de l'orchidée de vanille et du jasmin. La cassonade et la fève tonka réchauffent le cœur, sur un fond ambré et musqué. Un flacon 100 ml pour les amateurs de gourmand chaleureux.",
-  "description": "Kayali signe avec Vanilla | 28 un parfum oriental vanillé pensé pour un usage mixte, aussi bien porté par les femmes que par les hommes qui aiment les compositions gourmandes et enveloppantes. Ce format eau de parfum de 100 ml s'adresse à ceux qui recherchent une vanille travaillée, loin des interprétations trop simples du genre, avec un accord floral qui vient équilibrer la douceur.\n\nL'ouverture associe l'orchidée de vanille au jasmin, un mariage floral et gourmand qui donne d'emblée le ton chaleureux du parfum. C'est une entrée en matière douce, sans être écœurante, où le floral vient tempérer la rondeur de la vanille dès les premières minutes.\n\nLe cœur approfondit cette direction avec la cassonade et la fève tonka, deux notes qui ajoutent une dimension presque comestible, entre caramel léger et amande. Le fond, porté par l'ambre, le bois ambré, le musc et le patchouli, referme la composition sur une base dense et persistante, typique des orientaux vanillés, qui prolonge la chaleur du parfum bien après l'application.\n\nVanilla | 28 trouve naturellement sa place en soirée et lors des occasions spéciales, surtout à l'automne et en hiver, quand ce type de parfum chaud prend tout son sens. Maison Numidia le propose en 100 ml, garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Vanilla | 28 ouvre sur l'orchidée de vanille et le jasmin, avant un cœur de cassonade et de fève tonka. Le fond ambré, boisé et musqué donne à cette Eau de Parfum Kayali de 100ml, unisexe, une signature gourmande pensée pour les soirées d'automne et d'hiver.",
+  "description": "Vanilla | 28 fait partie de la collection de parfums Kayali construite autour de la vanille comme note centrale, ici déclinée dans un registre oriental vanillé assumé. Cette Eau de Parfum de 100ml s'adresse à un public unisexe qui recherche une vanille travaillée, dense et enveloppante plutôt qu'une simple note sucrée, avec une composition pensée pour durer longtemps sur la peau.\n\nL'ouverture s'appuie sur l'orchidée de vanille, une facette plus florale et moins sucrée que la vanille classique, accompagnée du jasmin qui apporte une clarté blanche et légèrement indolée. Ce duo installe d'emblée le caractère de la composition sans verser dans la lourdeur, une vanille qui reste aérée avant que le cœur ne prenne le relais.\n\nLe cœur se referme sur la cassonade et la fève tonka, deux notes qui prolongent la dimension gourmande sans jamais tomber dans l'excès de sucre, la fève tonka apportant sa facette légèrement boisée. Le fond installe l'ambre, le bois ambré, le musc et le patchouli, un socle chaud, dense et légèrement terreux qui donne à Vanilla | 28 sa tenue et son sillage, la vraie signature de cette composition orientale vanillée.\n\nVanilla | 28 se porte en soirée et pour les occasions spéciales, avec une préférence pour l'automne et l'hiver, des saisons où cette densité ambrée et boisée trouve tout son sens sur la peau. Maison Numidia propose ce parfum Kayali 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Orchidée de vanille",
@@ -999,6 +1823,350 @@
   }
  },
  {
+  "id": "kenzo-homme-marine",
+  "slug": "kenzo-homme-marine",
+  "name": "Homme Marine",
+  "h1": "Kenzo Homme Marine Parfum Homme Algérie",
+  "brand": "Kenzo",
+  "brandSlug": "kenzo",
+  "gender": "homme",
+  "category": "parfums-homme",
+  "family": "Boisé Aquatique",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "price": 29000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Notes marines"
+   ],
+   "heart": [
+    "Ylang-ylang"
+   ],
+   "base": [
+    "Bois de santal",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "longevity": 3,
+  "sillage": 3,
+  "image": "/images/products/kenzo-homme-marine.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "kenzo-homme-indigo",
+   "kenzo-homme-santal-marin",
+   "kenzo-jungle-homme"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Kenzo/Kenzo-Homme-Marine-80042.html",
+   "fragranticaId": 80042,
+   "boutiques": 4,
+   "slugCandidat": "kenzo-homme-marine-edt"
+  }
+ },
+ {
+  "id": "lancome-idole-peach-n-roses",
+  "slug": "lancome-idole-peach-n-roses",
+  "name": "Idole Peach 'N Roses",
+  "h1": "Lancôme Idole Peach 'N Roses Parfum Femme Algérie",
+  "brand": "Lancôme",
+  "brandSlug": "lancome",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruite",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 30500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Fruits rouges",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Peche"
+   ],
+   "base": [
+    "Rose"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/lancome-idole-peach-n-roses.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "lancome-la-vie-est-belle-l-elixir",
+   "la-vie-est-belle-intensement",
+   "la-vie-est-belle-lancome"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Idole-Peach-N-Roses-120731.html",
+   "fragranticaId": 120731,
+   "boutiques": 4,
+   "slugCandidat": "lancome-idole-peach-roses"
+  }
+ },
+ {
+  "id": "lancome-idole-power",
+  "slug": "lancome-idole-power",
+  "name": "Idôle Power",
+  "h1": "Lancôme Idôle Power Parfum Femme Algérie",
+  "brand": "Lancôme",
+  "brandSlug": "lancome",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruité Boisé",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "price": 30000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Pomme (accord pomarose)"
+   ],
+   "heart": [
+    "Rose de mai"
+   ],
+   "base": [
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "image": "/images/products/lancome-idole-power.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "lancome-la-vie-est-belle-l-elixir",
+   "la-vie-est-belle-intensement",
+   "la-vie-est-belle-lancome"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Idole-101224.html",
+   "fragranticaId": 101224,
+   "boutiques": 4,
+   "slugCandidat": "lancome-idole-power-edp-intense"
+  }
+ },
+ {
+  "id": "lancome-la-vie-est-belle-vanille-nude",
+  "slug": "lancome-la-vie-est-belle-vanille-nude",
+  "name": "La Vie Est Belle Vanille Nude",
+  "h1": "Lancôme La Vie Est Belle Vanille Nude Parfum Femme Algérie",
+  "brand": "Lancôme",
+  "brandSlug": "lancome",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Oriental",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 30500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Notes solaires",
+    "Jasmin"
+   ],
+   "heart": [
+    "Vanille bourbon"
+   ],
+   "base": [
+    "Musc blanc",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/lancome-la-vie-est-belle-vanille-nude.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "lancome-la-vie-est-belle-l-elixir",
+   "la-vie-est-belle-intensement",
+   "la-vie-est-belle-lancome"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Lancome/La-Vie-Est-Belle-Vanille-Nude-109311.html",
+   "fragranticaId": 109311,
+   "boutiques": 4,
+   "slugCandidat": "lancome-la-vie-est-belle-vanille"
+  }
+ },
+ {
+  "id": "lanvin-les-fleurs-de-blue-orchid",
+  "slug": "lanvin-les-fleurs-de-blue-orchid",
+  "name": "Les Fleurs de - Blue Orchid",
+  "h1": "Lanvin Les Fleurs de - Blue Orchid Parfum Femme Algérie",
+  "brand": "Lanvin",
+  "brandSlug": "lanvin",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Boisé",
+  "concentration": "EDT",
+  "volume": "90ml",
+  "price": 13000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Pomme",
+    "Citron"
+   ],
+   "heart": [
+    "Orchidée bleue",
+    "Iris"
+   ],
+   "base": [
+    "Musc",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "longevity": 3,
+  "sillage": 3,
+  "image": "/images/products/lanvin-les-fleurs-de-blue-orchid.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "eclat-arpege-lanvin",
+   "lanvin-water-lily-les-fleurs-de-lanvin",
+   "lanvin-modern-princess-blooming"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Lanvin/Blue-Orchid-69741.html",
+   "fragranticaId": 69741,
+   "boutiques": 5,
+   "slugCandidat": "lanvin-les-fleurs-de-blue-orchid"
+  }
+ },
+ {
+  "id": "mancera-red-tobacco-intense",
+  "slug": "mancera-red-tobacco-intense",
+  "name": "Red Tobacco Intense",
+  "h1": "Mancera Red Tobacco Intense Parfum Mixte Algérie",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "gender": "unisexe",
+  "category": "parfums-orientaux",
+  "family": "Boisé Épicé",
+  "concentration": "Extrait de Parfum",
+  "volume": "120ml",
+  "price": 25000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Bois d'agar (oud)",
+    "Cannelle",
+    "Encens",
+    "Safran",
+    "Poire",
+    "Muscade"
+   ],
+   "heart": [
+    "Tabac",
+    "Cuir",
+    "Patchouli",
+    "Vétiver",
+    "Jasmin"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Bois de santal",
+    "Bois de gaïac",
+    "Ambre gris"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "image": "/images/products/mancera-red-tobacco-intense.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": true,
+  "related": [
+   "mancera-hindu-kush",
+   "mancera-black-noir",
+   "mancera-wild-rose-oud"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Mancera/Red-Tobacco-Intense-84246.html",
+   "fragranticaId": 84246,
+   "boutiques": 4,
+   "slugCandidat": "mancera-red-tobacco-intense"
+  }
+ },
+ {
   "id": "marc-jacobs-perfect-intense",
   "slug": "marc-jacobs-perfect-intense",
   "name": "Perfect Intense",
@@ -1012,8 +2180,8 @@
   "volume": "100ml",
   "price": 22500,
   "originalPrice": null,
-  "shortDescription": "Perfect Intense s'articule autour de la jonquille, du jasmin de nuit, des amandes grillées et du bois de santal, un accord floral gourmand dense signé Marc Jacobs. Cette Eau de Parfum de 100ml intensifie l'esprit Perfect original pour les soirées d'automne et d'hiver.",
-  "description": "Perfect Intense fait partie de la ligne Perfect chez Marc Jacobs, déclinée ici en Eau de Parfum de 100ml au profil floral gourmand plus marqué que l'original. Elle s'adresse aux femmes qui cherchent un parfum de soirée dense, construit autour d'un nombre restreint de notes mais bien dosées, plutôt qu'une pyramide à multiples étages.\n\nLa composition s'appuie sur la jonquille et le jasmin de nuit, deux notes florales blanches qui donnent tout de suite le ton, sans étape de transition marquée entre une ouverture et un cœur classique, un choix qui simplifie la lecture du parfum tout en gardant son intensité.\n\nLes amandes grillées apportent la dimension gourmande qui donne son nom à la ligne Perfect, un accord chaleureux et légèrement torréfié qui contraste avec la fraîcheur des fleurs blanches citées plus haut. Le bois de santal referme la composition sur une base crémeuse et boisée, qui soutient l'ensemble et prolonge sa présence sur la peau au fil des heures.\n\nPerfect Intense se porte en soirée et lors des occasions spéciales, avec une préférence pour l'automne et l'hiver, quand ce type d'accord floral gourmand dense trouve le mieux sa place dans une tenue de soirée soignée. Maison Numidia le propose garanti 100% original, avec une livraison Yalidine dans les 58 wilayas, un paiement à la réception et un droit de refus à la livraison sur chaque commande.",
+  "shortDescription": "Perfect Intense ouvre sur la jonquille et le jasmin de nuit, avant un cœur d'amandes grillées sur un fond de bois de santal. Cette Eau de Parfum Marc Jacobs de 100ml, floral gourmand, intensifie la version originale pour la soirée et les occasions spéciales.",
+  "description": "Perfect Intense est la version la plus dense de la ligne Perfect signée Marc Jacobs, une Eau de Parfum de 100ml au profil floral gourmand pensée pour une femme qui veut un sillage plus marqué que celui de l'eau de toilette d'origine. Le nom résume l'intention de la maison : garder l'architecture florale du premier Perfect tout en l'intensifiant nettement.\n\nL'ouverture associe la jonquille, une fleur jaune à la facette légèrement verte et poudrée, au jasmin de nuit, une variété récoltée en soirée et réputée pour un parfum plus dense que le jasmin cueilli le jour. Ce duo installe une fraîcheur florale qui prépare le terrain au cœur gourmand de la composition, sans jamais dominer trop longtemps.\n\nLe cœur repose sur les amandes grillées, une note chaude et légèrement torréfiée qui ancre Perfect Intense dans le registre gourmand annoncé par sa famille olfactive. Le fond referme la composition sur le bois de santal, crémeux et doux, qui prolonge la tenue du parfum et adoucit le contraste entre la fraîcheur de la jonquille et la gourmandise des amandes grillées, jusqu'à la fin de la journée.\n\nPerfect Intense se porte en soirée et pour les occasions spéciales, avec une préférence pour l'automne et l'hiver, des saisons qui mettent en valeur la densité de cette composition florale gourmande. Maison Numidia propose ce parfum Marc Jacobs 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Jonquille",
@@ -1067,8 +2235,8 @@
   "volume": "90ml",
   "price": 28000,
   "originalPrice": null,
-  "shortDescription": "Alien Pulp signe un floral fruité lumineux, entre la framboise juteuse de l'ouverture et le fond musqué-vanillé qui referme la composition. Son cœur de jasmin et d'agrumes doux lui donne une fraîcheur facile à porter, pensée pour un usage quotidien plutôt qu'une signature de soirée.",
-  "description": "Alien Pulp appartient à la famille florale fruitée et vise un public qui aime les parfums lumineux, faciles à porter, sans pour autant sacrifier la présence. Cette déclinaison en Eau de Parfum 90ml s'adresse aux femmes qui cherchent un flacon pour le quotidien, du bureau aux sorties de journée, plutôt qu'une fragrance réservée aux grandes occasions. C'est un parfum pensé pour accompagner une routine plutôt que pour marquer une seule soirée.\n\nL'ouverture est franchement fruitée, portée par la framboise et le zeste de citron, deux notes qui donnent tout de suite un élan pétillant et une acidité fraîche à la composition. C'est une entrée en matière gourmande et sans lourdeur, qui installe immédiatement le ton du parfum et prépare l'arrivée du cœur floral.\n\nLe cœur adoucit ce départ avec du jasmin, de la mandarine verte et de l'orange douce : un accord floral-agrumes qui prolonge la fraîcheur initiale tout en apportant plus de rondeur et de matière. Le fond change ensuite de registre avec du musc, du cashmeran et de la vanilline, un sillage doux et légèrement poudré qui tient la fragrance sur la peau sans jamais devenir écrasant, même après plusieurs heures de port.\n\nCette structure claire en fait un parfum de printemps et d'été, à porter en journée comme au bureau, quand on cherche un sillage frais plutôt qu'imposant. Maison Numidia propose Alien Pulp garanti 100% original, livré dans les 58 wilayas via Yalidine, avec paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Alien Pulp ouvre sur la framboise et l'écorce de citron, avant un cœur de jasmin, mandarine verte et orange douce. Cette Eau de Parfum Mugler de 90ml, florale fruitée, se porte en journée et au bureau, au printemps comme en été.",
+  "description": "Alien Pulp est une déclinaison fruitée de la ligne Alien signée Mugler, une Eau de Parfum de 90ml au profil floral fruité pensée pour une femme qui veut une version plus juteuse et plus lumineuse de cet univers, portée au quotidien plutôt qu'en soirée. Le flacon iconique reste le même, mais le jus change de registre pour s'adresser à celles qui cherchent un sillage plus accessible sur la journée.\n\nL'ouverture s'appuie sur la framboise, gourmande et acidulée, associée à l'écorce de citron qui apporte une fraîcheur mordante et légèrement amère. Ce contraste entre le fruit rouge et l'agrume installe d'emblée le caractère pétillant de la composition, loin de la densité florale du parfum d'origine dont Alien Pulp s'inspire, et donne le ton d'un jus pensé pour être porté sans complexe dès le matin.\n\nLe cœur déploie le jasmin, la mandarine verte et l'orange douce, un trio qui prolonge la fraîcheur fruitée tout en apportant une facette florale légère, sans jamais alourdir la composition ni virer au sucré. Le fond s'installe sur le musc, le cashmeran et la vanilline, un socle doux et légèrement boisé qui donne à Alien Pulp sa tenue, tout en restant discret derrière le fruité de l'ouverture et la fraîcheur du cœur, pour un résultat facile à porter.\n\nAlien Pulp se porte en journée et au bureau, avec une préférence pour le printemps et l'été, des saisons qui accompagnent bien la fraîcheur fruitée de cette composition et sa légèreté générale. Maison Numidia propose ce parfum Mugler 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Framboise",
@@ -1113,6 +2281,63 @@
   }
  },
  {
+  "id": "narciso-rodriguez-for-her-forever",
+  "slug": "narciso-rodriguez-for-her-forever",
+  "name": "For Her Forever",
+  "h1": "Narciso Rodriguez For Her Forever Parfum Femme Algérie",
+  "brand": "Narciso Rodriguez",
+  "brandSlug": "narciso-rodriguez",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Musqué",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 22500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Fleur d'oranger d'Afrique",
+    "Tubéreuse",
+    "Gardénia",
+    "Jasmin",
+    "Osmanthus",
+    "Frangipanier",
+    "Musc Narciso",
+    "Patchouli"
+   ],
+   "heart": [],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/narciso-rodriguez-for-her-forever.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "narciso-rodriguez-for-her",
+   "narciso-rodriguez-all-of-me",
+   "narciso-rodriguez-for-her-musc-noir-rose"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Narciso-Rodriguez/Narciso-Rodriguez-For-Her-Forever-78835.html",
+   "fragranticaId": 78835,
+   "boutiques": 4,
+   "slugCandidat": "narciso-rodriguez-for-her-forever-edp"
+  }
+ },
+ {
   "id": "nina-ricci-l-extase-rose-absolue",
   "slug": "nina-ricci-l-extase-rose-absolue",
   "name": "L'Extase Rose Absolue",
@@ -1126,8 +2351,8 @@
   "volume": "80ml",
   "price": 15000,
   "originalPrice": null,
-  "shortDescription": "L'Extase Rose Absolue de Nina Ricci ouvre sur un accord poivré, poivre rose et poivre noir, avant un cœur de rose de Taif et de cèdre de l'Atlas. Le fond de benjoin, vanille, patchouli et musc donne à cette Eau de Parfum femme 80ml sa profondeur, pour les soirées froides.",
-  "description": "L'Extase Rose Absolue appartient à la ligne L'Extase de Nina Ricci et met la rose au centre d'une composition oriental florale. Cette Eau de Parfum femme 80ml s'adresse à celles qui aiment les parfums de rose travaillés dans un registre plus dense et épicé que les compositions florales classiques.\n\nL'ouverture surprend par son duo de poivres, le poivre rose et le poivre noir, qui donnent un départ vif et légèrement piquant, loin d'un accord fruité ou hespéridé attendu. Cette entrée en matière prépare le terrain pour la rose qui arrive juste après, sans jamais paraître froide.\n\nLe cœur révèle la rose de Taif, variété réputée pour sa richesse, associée au cèdre de l'Atlas qui apporte une facette boisée sèche. Cette alliance donne à la rose une allure plus sombre et sophistiquée qu'une rose classique, loin des accords floraux trop légers. Le fond referme la composition sur le benjoin, la vanille, le patchouli et le musc, un accord ambré et gourmand qui assure une bonne tenue tout au long de la soirée.\n\nL'Extase Rose Absolue se porte pour les soirées et les occasions spéciales, et trouve sa saison naturelle en automne et en hiver, quand les compositions de rose plus riches prennent tout leur sens. Maison Numidia garantit ce flacon 100% original, livré par Yalidine dans les 58 wilayas, en paiement à la réception avec droit de refus à la livraison.",
+  "shortDescription": "L'Extase Rose Absolue ouvre sur le poivre rose et le poivre noir, avant un cœur de rose de Taïf et de cèdre de l'Atlas. Cette Eau de Parfum Nina Ricci de 80ml, oriental floral, se porte en soirée à l'automne et en hiver.",
+  "description": "L'Extase Rose Absolue prolonge la ligne L'Extase de Nina Ricci avec une Eau de Parfum de 80ml au profil oriental floral, pensée pour une femme qui veut une rose travaillée dans un registre plus chaud et plus épicé qu'une rose fraîche classique, avec un sillage qui s'affirme sans devenir écrasant.\n\nL'ouverture associe le poivre rose et le poivre noir, un duo épicé qui installe une chaleur sèche dès les premières minutes, loin d'un départ fruité ou hespéridé habituel. Cette entrée poivrée, presque piquante, prépare le terrain à la rose qui domine ensuite le cœur de la composition, sans jamais s'effacer complètement au fil des heures.\n\nLe cœur repose sur la rose de Taïf, réputée pour sa densité et sa facette légèrement miellée, associée au cèdre de l'Atlas qui lui apporte une structure boisée et sèche, presque austère par contraste. Le fond referme la composition sur le benjoin, la vanille, le patchouli et le musc, un socle ambré et enveloppant qui prolonge la tenue de la rose bien après l'application, jusqu'au soir, et lui donne toute sa profondeur.\n\nL'Extase Rose Absolue se porte en soirée et pour les occasions spéciales, avec une préférence pour l'automne et l'hiver, des saisons qui accompagnent bien la densité de cette rose orientale et sa chaleur épicée. Maison Numidia propose ce parfum Nina Ricci 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Poivre rose",
@@ -1185,8 +2410,8 @@
   "volume": "100ml",
   "price": 53500,
   "originalPrice": null,
-  "shortDescription": "Fan Your Flames X ouvre sur la noix de coco, le rhum et le lentisque avant de s'installer sur un cœur tabac-fève tonka, sur un fond mousse de chêne et patchouli. Un extrait boisé gourmand dense, mixte, pensé pour les soirées froides.",
-  "description": "Fan Your Flames X appartient à la famille boisée gourmande et s'inscrit dans le style affirmé de la maison turque Nishane, connue pour ses compositions denses et travaillées. Cet Extrait de Parfum 100ml, pensé pour un usage mixte, s'adresse à celles et ceux qui recherchent une fragrance originale, loin des sillages passe-partout que l'on croise partout en ville.\n\nL'ouverture surprend par son duo gourmand-boisé : la noix de coco et le rhum installent une facette chaude et sucrée, presque tropicale, tandis que le lentisque, aussi appelé mastic, apporte une résine légèrement verte qui vient structurer le départ et lui donner du relief dès les premières minutes.\n\nLe cœur bascule vers un registre plus sec et aromatique avec le tabac, la fève tonka, la carotte et le thym, un accord inhabituel qui mêle notes gourmandes et facettes herbacées presque terreuses, loin des compositions plus attendues. Le fond referme la composition sur de la mousse de chêne, du patchouli et du cèdre, une base boisée profonde qui prolonge la tenue et ancre le parfum sur la peau durablement, bien après le moment de l'application.\n\nCette densité en fait une fragrance d'automne et d'hiver, réservée aux soirées et aux occasions spéciales plutôt qu'à un usage discret de tous les jours. Maison Numidia propose Fan Your Flames X garanti 100% original, livré dans les 58 wilayas via Yalidine, avec paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Fan Your Flames X ouvre sur la noix de coco, le rhum et le mastic de lentisque, avant un cœur de tabac et de fève tonka. Cet Extrait de Parfum Nishane de 100ml, unisexe et boisé gourmand, se porte en soirée à l'automne et en hiver.",
+  "description": "Fan Your Flames X est un Extrait de Parfum Nishane de 100ml au profil boisé gourmand, une composition unisexe pensée pour un porteur qui aime les compositions denses, chaudes et légèrement sucrées plutôt que les sillages discrets et passe-partout, avec une concentration qui promet une bonne présence sur la peau.\n\nL'ouverture associe la noix de coco, crémeuse et légèrement grillée, au rhum, chaud et sucré, avec le mastic de lentisque qui apporte une facette sèche et légèrement verte. Ce trio installe d'emblée un accord gourmand et boisé qui tranche avec les départs hespéridés classiques, sans jamais devenir écœurant ni trop sucré.\n\nLe cœur s'appuie sur le tabac et la fève tonka, deux notes chaudes et enveloppantes, complétées par la carotte et le thym qui apportent une facette légèrement racinée et aromatique, plus inattendue dans ce registre gourmand. Le fond referme Fan Your Flames X sur la mousse de chêne, le patchouli et le cèdre, un socle boisé et sec qui prolonge la tenue de la composition et équilibre la gourmandise de l'ouverture et du cœur, pour une signature reconnaissable entre mille.\n\nFan Your Flames X se porte en soirée et pour les occasions spéciales, avec une préférence pour l'automne et l'hiver, des saisons qui mettent en valeur la densité boisée de cette composition et sa chaleur gourmande. Maison Numidia propose ce parfum Nishane 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Noix de coco",
@@ -1246,8 +2471,8 @@
   "volume": "125ml",
   "price": 54500,
   "originalPrice": null,
-  "shortDescription": "Sedley mise sur une fraîcheur simple et directe, entre menthe et agrumes. Le lavandin prend le relais au cœur avec sa facette aromatique, avant qu'un fond de bois de santal referme la composition sur une note propre et légèrement boisée.",
-  "description": "Sedley figure parmi les compositions unisexes de Parfums de Marly, en Eau de Parfum, flacon de 125ml, dans la famille boisée aromatique. Sa structure épurée en fait un parfum de tous les jours, taillé pour la journée et le bureau plutôt que pour les grandes occasions, avec un profil facile à porter.\n\nL'ouverture combine la menthe et des agrumes, pour un départ vif et rafraîchissant qui donne immédiatement le ton d'une composition sans lourdeur. Cette entrée nette annonce une fragrance pensée pour la simplicité plutôt que pour l'accumulation.\n\nLe cœur repose sur le lavandin, matière aromatique proche de la lavande mais plus herbacée, qui prolonge la fraîcheur du départ tout en lui donnant un peu plus de texture. En fond, le bois de santal apporte une base sèche et discrète, qui referme la composition sans jamais l'alourdir ni la sucrer, pour un rendu qui reste net jusqu'au bout.\n\nSedley trouve sa place au printemps et en été, pour un usage de bureau ou pour des journées actives où l'on cherche une fraîcheur qui reste propre du matin jusqu'au soir. Maison Numidia propose Sedley de Parfums de Marly garanti 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Sedley ouvre sur un bouquet d'agrumes et de menthe, avant un cœur de lavande, romarin, géranium et oliban. Cette Eau de Parfum Parfums de Marly de 125ml, boisée aromatique et unisexe, se porte au bureau au printemps et en été.",
+  "description": "Sedley s'inscrit dans le registre boisé aromatique de Parfums de Marly, une Eau de Parfum de 125ml unisexe pensée pour une fraîcheur structurée, portée au quotidien plutôt que réservée aux grandes occasions, avec une tenue pensée pour accompagner une journée de bureau du matin jusqu'au soir.\n\nL'ouverture rassemble le citron, la bergamote, le pamplemousse et la mandarine, un bouquet d'agrumes large et lumineux, relevé par la menthe qui apporte une pointe mentholée et vive. Cette entrée hespéridée dense installe d'emblée le caractère frais de Sedley, sans jamais devenir monotone au fil des minutes, et la distingue des colognes plus légères de la même maison.\n\nLe cœur se déploie sur la lavande, le romarin, le géranium et l'oliban, un quatuor aromatique et boisé qui ancre la composition dans son registre annoncé, entre herbes fraîches et facette plus sèche. Le fond referme la composition sur l'ambroxan, le bois de santal, le cèdre, le cashmeran, le vétiver et le patchouli, un socle boisé dense qui donne à Sedley sa tenue et son sillage, loin des eaux fraîches trop légères et vite évaporées.\n\nSedley se porte en journée et au bureau, avec une préférence pour le printemps et l'été, des saisons où cette fraîcheur aromatique trouve tout son sens sans jamais devenir écrasante. Maison Numidia propose ce parfum Parfums de Marly 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Citron",
@@ -1299,6 +2524,285 @@
   }
  },
  {
+  "id": "prada-paradoxe-radical-essence",
+  "slug": "prada-paradoxe-radical-essence",
+  "name": "Paradoxe Radical Essence",
+  "h1": "Prada Paradoxe Radical Essence Parfum Femme Algérie",
+  "brand": "Prada",
+  "brandSlug": "prada",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Boisé Musqué",
+  "concentration": "Parfum",
+  "volume": "90ml",
+  "price": 36000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Néroli",
+    "Fleur d'Oranger"
+   ],
+   "heart": [
+    "Pistache"
+   ],
+   "base": [
+    "Santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 5,
+  "sillage": 4,
+  "image": "/images/products/prada-paradoxe-radical-essence.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "prada-paradoxe",
+   "prada-la-femme",
+   "prada-infusion-de-rose"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Prada/Prada-Paradoxe-Radical-Essence-108298.html",
+   "fragranticaId": 108298,
+   "boutiques": 4,
+   "slugCandidat": "prada-paradoxe-radical-essence"
+  }
+ },
+ {
+  "id": "prada-paradoxe-virtual-flower",
+  "slug": "prada-paradoxe-virtual-flower",
+  "name": "Paradoxe Virtual Flower",
+  "h1": "Prada Paradoxe Virtual Flower Parfum Femme Algérie",
+  "brand": "Prada",
+  "brandSlug": "prada",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Musque",
+  "concentration": "EDP",
+  "volume": "90ml",
+  "price": 30500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Bergamote verte"
+   ],
+   "heart": [
+    "Accord Jasmin IA",
+    "Neroli"
+   ],
+   "base": [
+    "Musc",
+    "Ambrette"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/prada-paradoxe-virtual-flower.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "prada-paradoxe",
+   "prada-la-femme",
+   "prada-infusion-de-rose"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Prada/Prada-Paradoxe-Virtual-Flower-95006.html",
+   "fragranticaId": 95006,
+   "boutiques": 4,
+   "slugCandidat": "prada-paradoxe-virtual-flower"
+  }
+ },
+ {
+  "id": "valentino-born-in-roma-extradose-uomo",
+  "slug": "valentino-born-in-roma-extradose-uomo",
+  "name": "Born in Roma Extradose Uomo",
+  "h1": "Valentino Born in Roma Extradose Uomo Parfum Homme Algérie",
+  "brand": "Valentino",
+  "brandSlug": "valentino",
+  "gender": "homme",
+  "category": "parfums-homme",
+  "family": "Boise Aromatique",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 30500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Epices"
+   ],
+   "heart": [
+    "Vetiver",
+    "Lavande sauvage"
+   ],
+   "base": [
+    "Accord boise fume"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/valentino-born-in-roma-extradose-uomo.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "valentino-uomo-intense",
+   "valentino-uomo-born-in-roma",
+   "valentino-uomo-born-in-roma-coral-fantasy"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Valentino/Born-in-Roma-Extradose-Uomo-101383.html",
+   "fragranticaId": 101383,
+   "boutiques": 4,
+   "slugCandidat": "valentino-born-in-roma-extradose-uomo"
+  }
+ },
+ {
+  "id": "valentino-donna-born-in-roma-intense",
+  "slug": "valentino-donna-born-in-roma-intense",
+  "name": "Donna Born In Roma Intense",
+  "h1": "Valentino Donna Born In Roma Intense Parfum Femme Algérie",
+  "brand": "Valentino",
+  "brandSlug": "valentino",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Oriental",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "price": 33500,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Vanille bourbon",
+    "Ambre"
+   ],
+   "heart": [
+    "Jasmin"
+   ],
+   "base": [
+    "Benjoin"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/valentino-donna-born-in-roma-intense.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "valentino-vendetta-donna",
+   "valentino-born-in-roma-extradose-donna",
+   "valentino-donna-born-in-roma-yellow-dream"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Valentino/Valentino-Donna-Born-In-Roma-Intense-78739.html",
+   "fragranticaId": 78739,
+   "boutiques": 4,
+   "slugCandidat": "valentino-born-in-roma-intense-donna"
+  }
+ },
+ {
+  "id": "ysl-libre-berry-crush",
+  "slug": "ysl-libre-berry-crush",
+  "name": "Libre Berry Crush",
+  "h1": "Yves Saint Laurent Libre Berry Crush Parfum Femme Algérie",
+  "brand": "Yves Saint Laurent",
+  "brandSlug": "ysl",
+  "gender": "femme",
+  "category": "parfums-femme",
+  "family": "Floral Fruite",
+  "concentration": "EDP",
+  "volume": "90ml",
+  "price": 36000,
+  "originalPrice": null,
+  "shortDescription": null,
+  "description": null,
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Framboise"
+   ],
+   "heart": [
+    "Lavande Diva",
+    "Fleur d'oranger marocaine"
+   ],
+   "base": [
+    "Vanille bourbon",
+    "Musc",
+    "Noix de coco"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "longevity": 4,
+  "sillage": 4,
+  "image": "/images/products/ysl-libre-berry-crush.jpg",
+  "inStock": true,
+  "featured": false,
+  "badge": null,
+  "isOriental": false,
+  "related": [
+   "ysl-libre-l-absolu-platine",
+   "ysl-libre-l-eau-nue",
+   "libre-le-parfum-ysl"
+  ],
+  "_source": {
+   "fragrantica": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Libre-Berry-Crush-120531.html",
+   "fragranticaId": 120531,
+   "boutiques": 4,
+   "slugCandidat": "yves-saint-laurent-libre-berry-crush"
+  }
+ },
+ {
   "id": "ysl-yvresse-champagne",
   "slug": "ysl-yvresse-champagne",
   "name": "Yvresse (Champagne)",
@@ -1312,8 +2816,8 @@
   "volume": "80ml",
   "price": 28000,
   "originalPrice": null,
-  "shortDescription": "Sous son surnom Champagne, Yvresse d'Yves Saint Laurent est un chypré fruité porté par la pêche, la nectarine et l'abricot en ouverture, puis un cœur épicé de cannelle et de rose. Le fond boisé, entre mousse de chêne, ambre et vanille, lui donne une profondeur chaleureuse et enveloppante.",
-  "description": "Sous son surnom Champagne, Yvresse signée Yves Saint Laurent séduit les amatrices de chyprés fruités qui aiment les compositions à la fois pétillantes et sophistiquées. Ce parfum s'adresse à celles qui cherchent une signature olfactive gourmande sans tomber dans le sucré, avec ce twist épicé qui la démarque des chyprés classiques.\n\nL'ouverture surprend par son côté juteux et vif : la pêche, la nectarine et l'abricot apportent une fraîcheur fruitée immédiate, relevée par la pointe aromatique du carvi, de l'anis et de la menthe. Ce départ pétillant et presque effervescent explique bien le surnom « Champagne » associé à ce parfum.\n\nLe cœur se réchauffe avec une facette épicée et florale : la cannelle et le litchi se mêlent à un bouquet de rose, d'huile de rose, d'œillet, de violette, d'iris, de jasmin et de muguet, pour une élégance florale dense et raffinée. Le fond installe la signature chyprée du parfum, entre mousse de chêne, ambre, benjoin, vanille, patchouli, styrax, cèdre, musc, vétiver et une touche de noix de coco qui adoucit l'ensemble.\n\nYvresse (Champagne) trouve sa place au bureau comme en soirée, et se porte particulièrement bien au printemps et en automne, quand sa chaleur épicée trouve un bel équilibre avec la fraîcheur des saisons intermédiaires. Maison Numidia propose ce parfum 100% original, livré partout en Algérie via Yalidine dans les 58 wilayas, avec paiement à la réception et droit de refus à la livraison.",
+  "shortDescription": "Yvresse (Champagne) ouvre sur la pêche, la nectarine et l'abricot relevés de menthe, avant un cœur floral dense. Cette Eau de Toilette Yves Saint Laurent de 80ml, chyprée fruitée, se porte au bureau et en soirée, au printemps et à l'automne.",
+  "description": "Yvresse (Champagne) est une Eau de Toilette Yves Saint Laurent de 80ml au profil chypré fruité, une composition féminine construite sur un accord de fruits juteux et un fond chypré classique, à la fois vive et structurée, héritière d'un style de parfumerie plus ample que les eaux minimalistes actuelles.\n\nL'ouverture associe la pêche, la nectarine et l'abricot, un trio de fruits à chair juteuse, relevé par le carvi, l'anis et la menthe qui apportent une facette épicée et fraîche inattendue. Ce départ fruité dense évite la simplicité d'un accord pêche seul et installe d'emblée le caractère affirmé du parfum.\n\nLe cœur déploie un bouquet floral large, entre cannelle, litchi, rose, essence de rose, œillet, violette, iris, jasmin et muguet, une composition dense qui prolonge la richesse de l'ouverture sans jamais devenir sucrée ni simpliste. Le fond referme Yvresse (Champagne) sur la mousse de chêne, l'ambre, le benjoin, la vanille, le patchouli, le styrax, le cèdre, le musc, le vétiver et la noix de coco, un socle chypré classique qui ancre la composition et lui donne toute sa tenue.\n\nYvresse (Champagne) se porte au bureau comme en soirée, avec une préférence pour le printemps et l'automne, des saisons qui équilibrent bien la densité fruitée et chyprée de cette composition. Maison Numidia propose ce parfum Yves Saint Laurent 100% original, avec livraison Yalidine dans les 58 wilayas, paiement à la réception et droit de refus à la livraison.",
   "notes": {
    "top": [
     "Pêche",

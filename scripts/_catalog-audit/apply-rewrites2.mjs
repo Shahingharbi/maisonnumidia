@@ -9,7 +9,8 @@ import fs from "fs";
 const APPLY = process.argv.includes("--apply");
 const DIR = "./scripts/_catalog-audit/rewrites2";
 const COMB = /[̀-ͯ]/g;
-const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(COMB, "").replace(/['’]/g, " ");
+const LIGATURES = /[œæ]/g;
+const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(COMB, "").replace(LIGATURES, (c) => ({ "œ": "oe", "æ": "ae" })[c]).replace(/['’]/g, " ");
 const mots = (s) => String(s || "").split(/\s+/).filter(Boolean).length;
 
 const FORMULES = ["il est important de noter", "en conclusion", "n hesitez", "pour conclure",

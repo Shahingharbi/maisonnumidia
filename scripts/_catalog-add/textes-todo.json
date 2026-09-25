@@ -1,1 +1,856 @@
-[]
+[
+ {
+  "slug": "armaf-club-de-nuit-oud",
+  "slugCandidat": "armaf-club-de-nuit-oud",
+  "brand": "Armaf",
+  "name": "Club de Nuit Oud",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "105ml",
+  "family": "Fruité Boisé Vanillé",
+  "notes": {
+   "top": [
+    "Pêche",
+    "Poire",
+    "Fruit de la passion",
+    "Ananas",
+    "Prune",
+    "Bergamote"
+   ],
+   "heart": [
+    "Jasmin",
+    "Bois de cachemire",
+    "Freesia",
+    "Feuilles de violette"
+   ],
+   "base": [
+    "Musc",
+    "Ambre cristal",
+    "Vanille",
+    "Oud du Cambodge"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "chanel-chance-eau-splendide",
+  "slugCandidat": "chanel-chance-eau-splendide",
+  "brand": "Chanel",
+  "name": "Chance Eau Splendide",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Fruits Rouges",
+    "Framboise",
+    "Rose",
+    "Violette",
+    "Pêche"
+   ],
+   "heart": [
+    "Iris",
+    "Géranium Rosat"
+   ],
+   "base": [
+    "Musc Blanc",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "chloe-nomade-jasmin-naturel-intense",
+  "slugCandidat": "chloe-nomade-jasmin-naturel-intense",
+  "brand": "Chloé",
+  "name": "Nomade Jasmin Naturel Intense",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "75ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Mirabelle",
+    "Poire"
+   ],
+   "heart": [
+    "Jasmin d'Égypte",
+    "Datte",
+    "Freesia"
+   ],
+   "base": [
+    "Vanille",
+    "Bois de santal",
+    "Mousse de chêne",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "chopard-cedar-malaki",
+  "slugCandidat": "chopard-malaki-cedar",
+  "brand": "Chopard",
+  "name": "Cedar Malaki",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Cyprès",
+    "Cardamome",
+    "Armoise",
+    "Pamplemousse",
+    "Lavande"
+   ],
+   "heart": [
+    "Cèdre de l'Atlas",
+    "Cèdre du Liban"
+   ],
+   "base": [
+    "Cypriol (Nagarmotha)",
+    "Labdanum",
+    "Patchouli",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "chopard-leather-malaki",
+  "slugCandidat": "chopard-malaki-leather",
+  "brand": "Chopard",
+  "name": "Leather Malaki",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Cuir Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Poivre noir",
+    "Bergamote"
+   ],
+   "heart": [
+    "Cèdre",
+    "Cyprès",
+    "Notes épicées"
+   ],
+   "base": [
+    "Cuir",
+    "Labdanum",
+    "Notes minérales",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "dolce-gabbana-light-blue-eau-intense",
+  "slugCandidat": "dolce-gabbana-d-g-light-blue",
+  "brand": "Dolce & Gabbana",
+  "name": "Light Blue Eau Intense",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Citron",
+    "Pomme Granny Smith"
+   ],
+   "heart": [
+    "Jasmin",
+    "Souci"
+   ],
+   "base": [
+    "Musc",
+    "Bois ambré"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "dolce-gabbana-the-one-gold",
+  "slugCandidat": "dolce-gabbana-d-g-the-one",
+  "brand": "Dolce & Gabbana",
+  "name": "The One Gold",
+  "gender": "femme",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Prune",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmin",
+    "Muguet"
+   ],
+   "base": [
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "elie-saab-elixir-love",
+  "slugCandidat": "elie-saab-elixir-love",
+  "brand": "Elie Saab",
+  "name": "Elixir Love",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité Chypré",
+  "notes": {
+   "top": [
+    "Rose Damascena",
+    "Cerise"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmin",
+    "Néroli"
+   ],
+   "base": [
+    "Patchouli",
+    "Mousse de chêne",
+    "Ambroxan"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "armani-emporio-stronger-with-you-powerfully",
+  "slugCandidat": "giorgio-armani-stronger-with-you-powerfully",
+  "brand": "Giorgio Armani",
+  "name": "Emporio Armani Stronger With You Powerfully",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Vanille",
+  "notes": {
+   "top": [
+    "Cerise",
+    "Mandarine"
+   ],
+   "heart": [
+    "Epices",
+    "Lavande"
+   ],
+   "base": [
+    "Chataigne",
+    "Vanille",
+    "Bois ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "givenchy-l-interdit-absolu",
+  "slugCandidat": "givenchy-interdit-absolu-edp-intense",
+  "brand": "Givenchy",
+  "name": "L'Interdit Absolu",
+  "gender": "femme",
+  "concentration": "EDP Intense",
+  "volume": "80ml",
+  "family": "Oriental Floral Boisé",
+  "notes": {
+   "top": [
+    "Lavande",
+    "Cardamome",
+    "Néroli"
+   ],
+   "heart": [
+    "Fleur d'oranger",
+    "Tubéreuse",
+    "Jasmin"
+   ],
+   "base": [
+    "Vétiver",
+    "Patchouli",
+    "Tabac"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "gucci-bloom-ambrosia-di-fiori",
+  "slugCandidat": "gucci-bloom-ambrosia-di-fiori-intense",
+  "brand": "Gucci",
+  "name": "Bloom Ambrosia di Fiori",
+  "gender": "femme",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "family": "Floral",
+  "notes": {
+   "top": [
+    "Jasmin (bourgeon)",
+    "Tubéreuse",
+    "Fleur de Rangoon",
+    "Iris",
+    "Rose de Damas"
+   ],
+   "heart": [],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "hermes-jour-d-absolu",
+  "slugCandidat": "hermes-jour-d-absolu",
+  "brand": "Hermès",
+  "name": "Jour d'Hermès Absolu",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "85ml",
+  "family": "Floral",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Fleur d'abricotier"
+   ],
+   "heart": [
+    "Gardénia"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "hugo-boss-bottled-marine",
+  "slugCandidat": "hugo-boss-bottled-marine-edt",
+  "brand": "Hugo Boss",
+  "name": "Boss Bottled Marine",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "200ml",
+  "family": "Boisé Aromatique Aquatique",
+  "notes": {
+   "top": [
+    "Pomme givrée",
+    "Menthe"
+   ],
+   "heart": [
+    "Cannelle",
+    "Sauge sclarée"
+   ],
+   "base": [
+    "Bois de cachemire",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "hugo-boss-in-motion",
+  "slugCandidat": "hugo-boss-in-motion-edt",
+  "brand": "Hugo Boss",
+  "name": "Boss in Motion",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Feuilles de violette",
+    "Basilic"
+   ],
+   "heart": [
+    "Poivre rose",
+    "Cannelle",
+    "Cardamome",
+    "Muscade"
+   ],
+   "base": [
+    "Bois de santal",
+    "Vétiver",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "kenzo-homme-marine",
+  "slugCandidat": "kenzo-homme-marine-edt",
+  "brand": "Kenzo",
+  "name": "Homme Marine",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Boisé Aquatique",
+  "notes": {
+   "top": [
+    "Notes marines"
+   ],
+   "heart": [
+    "Ylang-ylang"
+   ],
+   "base": [
+    "Bois de santal",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "lancome-idole-peach-n-roses",
+  "slugCandidat": "lancome-idole-peach-roses",
+  "brand": "Lancôme",
+  "name": "Idole Peach 'N Roses",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruite",
+  "notes": {
+   "top": [
+    "Fruits rouges",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Peche"
+   ],
+   "base": [
+    "Rose"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "lancome-idole-power",
+  "slugCandidat": "lancome-idole-power-edp-intense",
+  "brand": "Lancôme",
+  "name": "Idôle Power",
+  "gender": "femme",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "family": "Floral Fruité Boisé",
+  "notes": {
+   "top": [
+    "Pomme (accord pomarose)"
+   ],
+   "heart": [
+    "Rose de mai"
+   ],
+   "base": [
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "lancome-la-vie-est-belle-vanille-nude",
+  "slugCandidat": "lancome-la-vie-est-belle-vanille",
+  "brand": "Lancôme",
+  "name": "La Vie Est Belle Vanille Nude",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Oriental",
+  "notes": {
+   "top": [
+    "Notes solaires",
+    "Jasmin"
+   ],
+   "heart": [
+    "Vanille bourbon"
+   ],
+   "base": [
+    "Musc blanc",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "lanvin-les-fleurs-de-blue-orchid",
+  "slugCandidat": "lanvin-les-fleurs-de-blue-orchid",
+  "brand": "Lanvin",
+  "name": "Les Fleurs de - Blue Orchid",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "90ml",
+  "family": "Floral Boisé",
+  "notes": {
+   "top": [
+    "Pomme",
+    "Citron"
+   ],
+   "heart": [
+    "Orchidée bleue",
+    "Iris"
+   ],
+   "base": [
+    "Musc",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "mancera-red-tobacco-intense",
+  "slugCandidat": "mancera-red-tobacco-intense",
+  "brand": "Mancera",
+  "name": "Red Tobacco Intense",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "120ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Bois d'agar (oud)",
+    "Cannelle",
+    "Encens",
+    "Safran",
+    "Poire",
+    "Muscade"
+   ],
+   "heart": [
+    "Tabac",
+    "Cuir",
+    "Patchouli",
+    "Vétiver",
+    "Jasmin"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Bois de santal",
+    "Bois de gaïac",
+    "Ambre gris"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "narciso-rodriguez-for-her-forever",
+  "slugCandidat": "narciso-rodriguez-for-her-forever-edp",
+  "brand": "Narciso Rodriguez",
+  "name": "For Her Forever",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Musqué",
+  "notes": {
+   "top": [
+    "Fleur d'oranger d'Afrique",
+    "Tubéreuse",
+    "Gardénia",
+    "Jasmin",
+    "Osmanthus",
+    "Frangipanier",
+    "Musc Narciso",
+    "Patchouli"
+   ],
+   "heart": [],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "prada-paradoxe-radical-essence",
+  "slugCandidat": "prada-paradoxe-radical-essence",
+  "brand": "Prada",
+  "name": "Paradoxe Radical Essence",
+  "gender": "femme",
+  "concentration": "Parfum",
+  "volume": "90ml",
+  "family": "Floral Boisé Musqué",
+  "notes": {
+   "top": [
+    "Néroli",
+    "Fleur d'Oranger"
+   ],
+   "heart": [
+    "Pistache"
+   ],
+   "base": [
+    "Santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "prada-paradoxe-virtual-flower",
+  "slugCandidat": "prada-paradoxe-virtual-flower",
+  "brand": "Prada",
+  "name": "Paradoxe Virtual Flower",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "90ml",
+  "family": "Floral Musque",
+  "notes": {
+   "top": [
+    "Bergamote verte"
+   ],
+   "heart": [
+    "Accord Jasmin IA",
+    "Neroli"
+   ],
+   "base": [
+    "Musc",
+    "Ambrette"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "valentino-born-in-roma-extradose-uomo",
+  "slugCandidat": "valentino-born-in-roma-extradose-uomo",
+  "brand": "Valentino",
+  "name": "Born in Roma Extradose Uomo",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boise Aromatique",
+  "notes": {
+   "top": [
+    "Epices"
+   ],
+   "heart": [
+    "Vetiver",
+    "Lavande sauvage"
+   ],
+   "base": [
+    "Accord boise fume"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "valentino-donna-born-in-roma-intense",
+  "slugCandidat": "valentino-born-in-roma-intense-donna",
+  "brand": "Valentino",
+  "name": "Donna Born In Roma Intense",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Oriental",
+  "notes": {
+   "top": [
+    "Vanille bourbon",
+    "Ambre"
+   ],
+   "heart": [
+    "Jasmin"
+   ],
+   "base": [
+    "Benjoin"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "ysl-libre-berry-crush",
+  "slugCandidat": "yves-saint-laurent-libre-berry-crush",
+  "brand": "Yves Saint Laurent",
+  "name": "Libre Berry Crush",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "90ml",
+  "family": "Floral Fruite",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Framboise"
+   ],
+   "heart": [
+    "Lavande Diva",
+    "Fleur d'oranger marocaine"
+   ],
+   "base": [
+    "Vanille bourbon",
+    "Musc",
+    "Noix de coco"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ }
+]

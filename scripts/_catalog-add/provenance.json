@@ -2280,5 +2280,152 @@
   "fragranticaId": 32269,
   "boutiques": 4,
   "slugCandidat": "yves-saint-laurent-ysl-tuxedo-edp"
+ },
+ {
+  "slug": "boucheron-jaipur-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Boucheron/Jaipur-Homme-137.html",
+  "fragranticaId": 137,
+  "boutiques": 4,
+  "slugCandidat": "boucheron-jaipur-homme"
+ },
+ {
+  "slug": "cacharel-pour-l-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Cacharel/Cacharel-pour-L-Homme-2036.html",
+  "fragranticaId": 2036,
+  "boutiques": 4,
+  "slugCandidat": "cacharel-pour-homme"
+ },
+ {
+  "slug": "cacharel-yes-i-am-fabulous",
+  "fragrantica": "https://www.fragrantica.com/perfume/Cacharel/Yes-I-Am-Fabulous-59130.html",
+  "fragranticaId": 59130,
+  "boutiques": 4,
+  "slugCandidat": "cacharel-yes-i-am-fabulous"
+ },
+ {
+  "slug": "dior-jasmin-des-anges",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Jasmin-Des-Anges-48383.html",
+  "fragranticaId": 48383,
+  "boutiques": 3,
+  "slugCandidat": "dior-jasmin-des-anges-edp"
+ },
+ {
+  "slug": "armani-prive-bleu-lazuli",
+  "fragrantica": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Prive-Bleu-Lazuli-48059.html",
+  "fragranticaId": 48059,
+  "boutiques": 4,
+  "slugCandidat": "giorgio-armani-prive-bleu-lazuli-edp"
+ },
+ {
+  "slug": "armani-cuir-zerzura",
+  "fragrantica": "https://www.fragrantica.com/perfume/Giorgio-Armani/Cuir-Zerzura-62025.html",
+  "fragranticaId": 62025,
+  "boutiques": 3,
+  "slugCandidat": "giorgio-armani-prive-cuir-zerzura-edp"
+ },
+ {
+  "slug": "givenchy-irresistible-nude-velvet",
+  "fragrantica": "https://www.fragrantica.com/perfume/Givenchy/Irresistible-Nude-Velvet-100894.html",
+  "fragranticaId": 100894,
+  "boutiques": 3,
+  "slugCandidat": "givenchy-irresistible-nude-velvet"
+ },
+ {
+  "slug": "gucci-flora-gorgeous-magnolia",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Flora-Gorgeous-Magnolia-83621.html",
+  "fragranticaId": 83621,
+  "boutiques": 4,
+  "slugCandidat": "gucci-flora-gorgeous-magnolia"
+ },
+ {
+  "slug": "guerlain-aqua-allegoria-flora-salvaggia",
+  "fragrantica": "https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Salvaggia-66359.html",
+  "fragranticaId": 66359,
+  "boutiques": 4,
+  "slugCandidat": "guerlain-aqua-allegoria-flora-salvaggia-edt"
+ },
+ {
+  "slug": "guerlain-habit-rouge-l-instinct",
+  "fragrantica": "https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-L-Instinct-73514.html",
+  "fragranticaId": 73514,
+  "boutiques": 4,
+  "slugCandidat": "guerlain-habit-rouge-l-instinct-edt"
+ },
+ {
+  "slug": "guerlain-habit-rouge-prive",
+  "fragrantica": "https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Rouge-Prive-80690.html",
+  "fragranticaId": 80690,
+  "boutiques": 3,
+  "slugCandidat": "guerlain-habit-rouge-prive"
+ },
+ {
+  "slug": "guerlain-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Guerlain/Guerlain-Homme-Eau-de-Parfum-2016-47793.html",
+  "fragranticaId": 47793,
+  "boutiques": 4,
+  "slugCandidat": "guerlain-homme"
+ },
+ {
+  "slug": "guerlain-oud-essentiel",
+  "fragrantica": "https://www.fragrantica.com/perfume/Guerlain/Oud-Essentiel-96471.html",
+  "fragranticaId": 96471,
+  "boutiques": 4,
+  "slugCandidat": "guerlain-oud-essentiel"
+ },
+ {
+  "slug": "issey-miyake-le-sel-d-issey",
+  "fragrantica": "https://www.fragrantica.com/perfume/Issey-Miyake/Le-Sel-d-Issey-95642.html",
+  "fragranticaId": 95642,
+  "boutiques": 6,
+  "slugCandidat": "issey-miyake-le-sel-d-edt"
+ },
+ {
+  "slug": "jean-paul-gaultier-le-male-in-blue",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-In-Blue-122212.html",
+  "fragranticaId": 122212,
+  "boutiques": 3,
+  "slugCandidat": "jean-paul-gaultier-le-male-in"
+ },
+ {
+  "slug": "karl-lagerfeld-new-york-mercer-street",
+  "fragrantica": "https://www.fragrantica.com/perfume/Karl-Lagerfeld/Karl-New-York-Mercer-Street-61312.html",
+  "fragranticaId": 61312,
+  "boutiques": 5,
+  "slugCandidat": "karl-lagerfeld-new-york-mercer-street"
+ },
+ {
+  "slug": "kayali-vanilla-28",
+  "fragrantica": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Vanilla-28-52616.html",
+  "fragranticaId": 52616,
+  "boutiques": 3,
+  "slugCandidat": "kayali-vanilla-28"
+ },
+ {
+  "slug": "marc-jacobs-perfect-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Marc-Jacobs/Perfect-Intense-68534.html",
+  "fragranticaId": 68534,
+  "boutiques": 3,
+  "slugCandidat": "marc-jacobs-perfect-intense"
+ },
+ {
+  "slug": "mugler-alien-pulp",
+  "fragrantica": "https://www.fragrantica.com/perfume/Mugler/Alien-Pulp-121443.html",
+  "fragranticaId": 121443,
+  "boutiques": 3,
+  "slugCandidat": "mugler-alien-pulp-edp-fruitee"
+ },
+ {
+  "slug": "nishane-fan-your-flames-x",
+  "fragrantica": "https://www.fragrantica.com/perfume/Nishane/Fan-Your-Flames-X-80466.html",
+  "fragranticaId": 80466,
+  "boutiques": 3,
+  "slugCandidat": "nishane-fan-your-flames"
+ },
+ {
+  "slug": "parfums-de-marly-sedley",
+  "fragrantica": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Sedley-56273.html",
+  "fragranticaId": 56273,
+  "boutiques": 4,
+  "slugCandidat": "parfums-de-marly-sedley"
  }
 ]
