@@ -8,7 +8,7 @@ const BASE = "https://maisonnumidia.store";
 // NE PAS utiliser new Date() qui fait croire à Google que tout change chaque jour
 // (signal négatif pour le budget crawl). Mettre à jour manuellement à chaque
 // modification significative du catalogue ou du sitemap lui-même.
-const CATALOG_DATE = new Date("2026-09-21");
+const CATALOG_DATE = new Date("2026-09-25");
 const SITE_LAUNCH = new Date("2026-01-15");
 // Date du dernier changement réel des pages catégorie (ajout de l'index catalogue
 // crawlable / maillage interne). Honnête : ces pages ont effectivement changé.

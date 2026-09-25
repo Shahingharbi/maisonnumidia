@@ -108,6 +108,11 @@ export default async function ProductPage({ params }: Props) {
   const marqueElidee = /^[aeiouyàâäéèêëîïôöùûüh]/i.test(product.brand.trim())
     ? `d'${product.brand}`
     : `de ${product.brand}`;
+  // Certains parfums n'ont pas de pyramide decoupee publiee : toutes les notes sont
+  // rangees dans `top`. On l'affiche alors comme une simple liste de notes.
+  const toutesLesNotes = [...product.notes.top, ...product.notes.heart, ...product.notes.base];
+  const pyramideDecoupee = product.notes.heart.length > 0 || product.notes.base.length > 0;
+
   const ligneNom = versions.length > 1
     ? versions.reduce((a, b) => (a.name.length <= b.name.length ? a : b)).name
     : product.name;
@@ -256,20 +261,32 @@ export default async function ProductPage({ params }: Props) {
                 </div>
               </div>
 
-              {/* Olfactive pyramid */}
+              {/* Olfactive pyramid.
+                  Quelques parfums n'ont pas de pyramide découpée publiée : toutes leurs notes
+                  sont dans `top`. Afficher « Cœur : » et « Fond : » vides donnerait une fiche
+                  qui a l'air incomplète — on annonce alors simplement « Notes ». */}
               <div className="border-t border-gray-100 pt-5">
-                <h2 className="font-semibold text-[#111111] mb-3 text-sm uppercase tracking-[0.12em]">Pyramide olfactive</h2>
+                <h2 className="font-semibold text-[#111111] mb-3 text-sm uppercase tracking-[0.12em]">
+                  {pyramideDecoupee ? "Pyramide olfactive" : "Notes olfactives"}
+                </h2>
                 <div className="space-y-2">
-                  {[
-                    { label: "Tête", notes: product.notes.top },
-                    { label: "Cœur", notes: product.notes.heart },
-                    { label: "Fond", notes: product.notes.base },
-                  ].map((tier) => (
-                    <div key={tier.label} className="flex items-start gap-3 text-sm">
-                      <span className="text-gray-400 w-10 shrink-0 pt-0.5">{tier.label}</span>
-                      <span className="text-gray-700">{tier.notes.join(", ")}</span>
-                    </div>
-                  ))}
+                  {(pyramideDecoupee
+                    ? [
+                        { label: "Tête", notes: product.notes.top },
+                        { label: "Cœur", notes: product.notes.heart },
+                        { label: "Fond", notes: product.notes.base },
+                      ]
+                    : [{ label: "", notes: toutesLesNotes }]
+                  )
+                    .filter((tier) => tier.notes.length > 0)
+                    .map((tier) => (
+                      <div key={tier.label || "toutes"} className="flex items-start gap-3 text-sm">
+                        {tier.label && (
+                          <span className="text-gray-400 w-10 shrink-0 pt-0.5">{tier.label}</span>
+                        )}
+                        <span className="text-gray-700">{tier.notes.join(", ")}</span>
+                      </div>
+                    ))}
                 </div>
               </div>
             </div>

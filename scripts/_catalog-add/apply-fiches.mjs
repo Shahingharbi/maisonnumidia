@@ -20,11 +20,21 @@ const CHAMPS = ["id", "slug", "name", "h1", "brand", "brandSlug", "gender", "cat
 // téléchargée n'est pas en erreur : elle n'est pas prête. On la laisse pour la vague
 // suivante. Tout le reste (champ manquant, slug déjà pris, marque orpheline, related
 // incomplet) bloque le lot entier : une fiche cassée au milieu de 700 bonnes coûte cher.
+// check-fiches.mjs a deja passe le lot au crible (longueur, formules interdites, note citee
+// hors pyramide…). On ne republie pas ici ce qu'il a recale : la fiche attend une reprise.
+const recales = new Map();
+if (fs.existsSync("./scripts/_catalog-add/check-fiches.json")) {
+  for (const x of JSON.parse(fs.readFileSync("./scripts/_catalog-add/check-fiches.json", "utf8"))) {
+    recales.set(x.slug, x.pb.join(" | "));
+  }
+}
+
 const enAttente = [];
 const pretes = [];
 for (const f of fiches) {
   if (!f.description || !f.shortDescription) { enAttente.push([f.slug, "texte pas encore rédigé"]); continue; }
   if (!fs.existsSync("./public/images/products/" + f.slug + ".jpg")) { enAttente.push([f.slug, "image pas encore téléchargée"]); continue; }
+  if (recales.has(f.slug)) { enAttente.push([f.slug, "recalé au contrôle : " + recales.get(f.slug)]); continue; }
   pretes.push(f);
 }
 
