@@ -100,7 +100,10 @@ for (const f of fs.readdirSync(DIR).filter((x) => x.endsWith(".json"))) {
 
   // Note citée mais absente de la pyramide de CETTE fiche.
   const fiche = ["top", "heart", "base"].flatMap((k) => (p.notes[k] || []).map((n) => norm(n).trim()));
-  const couvert = (v) => fiche.some((n) => n === v || n.includes(v) || v.includes(n));
+  // Meme raison que dans check-fiches : un mot present dans la marque ou le nom du produit
+  // n'est pas une note citee hors fiche.
+  const identite = norm(p.brand + " " + p.name);
+  const couvert = (v) => fiche.some((n) => n === v || n.includes(v) || v.includes(n)) || identite.includes(v);
   const intruses = [...vocab].filter((v) => !GENERIQUE.has(v) && !couvert(v) && contientMot(plat, v));
   if (intruses.length > 1) pb.push(`notes hors fiche : ${intruses.slice(0, 4).join(", ")}`);
 

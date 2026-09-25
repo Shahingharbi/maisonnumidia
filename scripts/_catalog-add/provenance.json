@@ -3071,5 +3071,390 @@
   "fragranticaId": 64643,
   "boutiques": 3,
   "slugCandidat": "escada-summer-festival"
+ },
+ {
+  "slug": "calvin-klein-beauty",
+  "fragrantica": "https://www.fragrantica.com/perfume/Calvin-Klein/Beauty-8840.html",
+  "fragranticaId": 8840,
+  "boutiques": 3,
+  "slugCandidat": "calvin-klein-ck-beauty-edp"
+ },
+ {
+  "slug": "calvin-klein-ck-one-reflections",
+  "fragrantica": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Reflections-79608.html",
+  "fragranticaId": 79608,
+  "boutiques": 3,
+  "slugCandidat": "calvin-klein-ck-one-reflections"
+ },
+ {
+  "slug": "calvin-klein-deep-euphoria",
+  "fragrantica": "https://www.fragrantica.com/perfume/Calvin-Klein/Deep-Euphoria-39604.html",
+  "fragranticaId": 39604,
+  "boutiques": 3,
+  "slugCandidat": "calvin-klein-deep-euphoria"
+ },
+ {
+  "slug": "caron-aimez-moi-comme-je-suis",
+  "fragrantica": "https://www.fragrantica.com/perfume/Caron/Aimez-Moi-Comme-Je-Suis-62675.html",
+  "fragranticaId": 62675,
+  "boutiques": 3,
+  "slugCandidat": "caron-aimez-moi-comme-je-suis"
+ },
+ {
+  "slug": "etat-libre-d-orange-you-or-someone-like",
+  "fragrantica": "https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/You-Or-Someone-Like-You-43531.html",
+  "fragranticaId": 43531,
+  "boutiques": 3,
+  "slugCandidat": "etat-libre-d-orange-you-or"
+ },
+ {
+  "slug": "fresh-sugar-lemon",
+  "fragrantica": "https://www.fragrantica.com/perfume/Fresh/Sugar-Lemon-12005.html",
+  "fragranticaId": 12005,
+  "boutiques": 3,
+  "slugCandidat": "fresh-sugar-lemon-edp"
+ },
+ {
+  "slug": "givenchy-xeryus",
+  "fragrantica": "https://www.fragrantica.com/perfume/Givenchy/Xeryus-861.html",
+  "fragranticaId": 861,
+  "boutiques": 3,
+  "slugCandidat": "givenchy-xeryus-eau-de-toilette"
+ },
+ {
+  "slug": "hugo-boss-bottled-tonic",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Tonic-43331.html",
+  "fragranticaId": 43331,
+  "boutiques": 3,
+  "slugCandidat": "hugo-boss-bottled-tonic"
+ },
+ {
+  "slug": "hugo-boss-bottled-united",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-United-50109.html",
+  "fragranticaId": 50109,
+  "boutiques": 3,
+  "slugCandidat": "hugo-boss-bottled-united-edt"
+ },
+ {
+  "slug": "ibraheem-alqurashi-french-tobacco",
+  "fragrantica": "https://www.fragrantica.com/perfume/Ibraheem-AlQurashi/French-Tobacco-100552.html",
+  "fragranticaId": 100552,
+  "boutiques": 3,
+  "slugCandidat": "ibraheem-alqurashi-french-tobacco"
+ },
+ {
+  "slug": "issey-miyake-l-eau-bleue-d-pour-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-Bleue-d-Issey-Pour-Homme-724.html",
+  "fragranticaId": 724,
+  "boutiques": 3,
+  "slugCandidat": "issey-miyake-l-eau-bleue-d"
+ },
+ {
+  "slug": "issey-miyake-nuit-d-bleu-astral",
+  "fragrantica": "https://www.fragrantica.com/perfume/Issey-Miyake/Nuit-d-Issey-Bleu-Astral-43311.html",
+  "fragranticaId": 43311,
+  "boutiques": 3,
+  "slugCandidat": "issey-miyake-nuit-d-bleu-astral"
+ },
+ {
+  "slug": "jacadi-mademoiselle",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jacadi/Mademoiselle-34886.html",
+  "fragranticaId": 34886,
+  "boutiques": 3,
+  "slugCandidat": "jacadi-madmoiselle-edt"
+ },
+ {
+  "slug": "joop-wow",
+  "fragrantica": "https://www.fragrantica.com/perfume/Joop/Wow-42887.html",
+  "fragranticaId": 42887,
+  "boutiques": 3,
+  "slugCandidat": "joop-wow-edt"
+ },
+ {
+  "slug": "juicy-couture-oui",
+  "fragrantica": "https://www.fragrantica.com/perfume/Juicy-Couture/Juicy-Couture-Oui-50345.html",
+  "fragranticaId": 50345,
+  "boutiques": 3,
+  "slugCandidat": "juicy-couture-oui-edp"
+ },
+ {
+  "slug": "juicy-couture-viva-la-gold",
+  "fragrantica": "https://www.fragrantica.com/perfume/Juicy-Couture/Viva-la-Juicy-Gold-Couture-25753.html",
+  "fragranticaId": 25753,
+  "boutiques": 3,
+  "slugCandidat": "juicy-couture-viva-la-gold-edp"
+ },
+ {
+  "slug": "kenzo-flower-ikebana-indigo",
+  "fragrantica": "https://www.fragrantica.com/perfume/Kenzo/Flower-Ikebana-Indigo-101285.html",
+  "fragranticaId": 101285,
+  "boutiques": 3,
+  "slugCandidat": "kenzo-flower-ikebana-indigo-edp"
+ },
+ {
+  "slug": "kenzo-homme-sport-extreme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Kenzo/Kenzo-Homme-Sport-Extreme-18174.html",
+  "fragranticaId": 18174,
+  "boutiques": 3,
+  "slugCandidat": "kenzo-homme-sport-extreme"
+ },
+ {
+  "slug": "korloff-paris-majestic-tuberose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Korloff-Paris/Majestic-Tuberose-41699.html",
+  "fragranticaId": 41699,
+  "boutiques": 3,
+  "slugCandidat": "korloff-majestic-tuberose-edp"
+ },
+ {
+  "slug": "korloff-paris-pour-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Korloff-Paris/Korloff-Pour-Homme-57746.html",
+  "fragranticaId": 57746,
+  "boutiques": 3,
+  "slugCandidat": "korloff-pour-homme-edp"
+ },
+ {
+  "slug": "korloff-paris-un-soir-a-paris",
+  "fragrantica": "https://www.fragrantica.com/perfume/Korloff-Paris/Un-Soir-A-Paris-28428.html",
+  "fragranticaId": 28428,
+  "boutiques": 3,
+  "slugCandidat": "korloff-un-soir-a-paris-edp"
+ },
+ {
+  "slug": "lalique-ombre-noire",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lalique/Ombre-Noire-48063.html",
+  "fragranticaId": 48063,
+  "boutiques": 3,
+  "slugCandidat": "lalique-ombre-noire-edp"
+ },
+ {
+  "slug": "lancome-la-vie-est-belle-en-rose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/La-Vie-est-Belle-en-Rose-53345.html",
+  "fragranticaId": 53345,
+  "boutiques": 3,
+  "slugCandidat": "lancome-la-vie-est-belle-en"
+ },
+ {
+  "slug": "lanvin-me",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lanvin/Lanvin-Me-17701.html",
+  "fragranticaId": 17701,
+  "boutiques": 3,
+  "slugCandidat": "lanvin-me"
+ },
+ {
+  "slug": "maison-crivelli-hibiscus-mahajad",
+  "fragrantica": "https://www.fragrantica.com/perfume/Maison-Crivelli/Hibiscus-Mahajad-69069.html",
+  "fragranticaId": 69069,
+  "boutiques": 3,
+  "slugCandidat": "maison-crivelli-hibiscus-mahajad-extrait"
+ },
+ {
+  "slug": "maison-crivelli-oud-maracuja",
+  "fragrantica": "https://www.fragrantica.com/perfume/Maison-Crivelli/Oud-Maracuja-83842.html",
+  "fragranticaId": 83842,
+  "boutiques": 3,
+  "slugCandidat": "maison-crivelli-oud-maracuja"
+ },
+ {
+  "slug": "marc-antoine-barrois-ganymede",
+  "fragrantica": "https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Ganymede-54720.html",
+  "fragranticaId": 54720,
+  "boutiques": 3,
+  "slugCandidat": "marc-antoine-barrois-ganymede-edp"
+ },
+ {
+  "slug": "marc-antoine-barrois-tilia",
+  "fragrantica": "https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Tilia-91688.html",
+  "fragranticaId": 91688,
+  "boutiques": 3,
+  "slugCandidat": "marc-antoine-barrois-tilia"
+ },
+ {
+  "slug": "mercedes-benz-select-night",
+  "fragrantica": "https://www.fragrantica.com/perfume/Mercedes-Benz/Mercedes-Benz-Select-Night-51645.html",
+  "fragranticaId": 51645,
+  "boutiques": 3,
+  "slugCandidat": "mercedes-benz-select-night"
+ },
+ {
+  "slug": "moschino-funny",
+  "fragrantica": "https://www.fragrantica.com/perfume/Moschino/Moschino-Funny-1215.html",
+  "fragranticaId": 1215,
+  "boutiques": 3,
+  "slugCandidat": "moschino-funny"
+ },
+ {
+  "slug": "nina-ricci-l-extase-rose-absolue",
+  "fragrantica": "https://www.fragrantica.com/perfume/Nina-Ricci/L-Extase-Rose-Absolue-43084.html",
+  "fragranticaId": 43084,
+  "boutiques": 5,
+  "slugCandidat": "nina-ricci-l-extase-rose-absolue"
+ },
+ {
+  "slug": "nina-ricci-luna",
+  "fragrantica": "https://www.fragrantica.com/perfume/Nina-Ricci/Luna-39376.html",
+  "fragranticaId": 39376,
+  "boutiques": 3,
+  "slugCandidat": "nina-ricci-luna"
+ },
+ {
+  "slug": "nina-ricci-rose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Nina-Ricci/Nina-Rose-61210.html",
+  "fragranticaId": 61210,
+  "boutiques": 3,
+  "slugCandidat": "nina-ricci-rose"
+ },
+ {
+  "slug": "omanluxury-caden",
+  "fragrantica": "https://www.fragrantica.com/perfume/Omanluxury/Caden-105465.html",
+  "fragranticaId": 105465,
+  "boutiques": 3,
+  "slugCandidat": "omanluxury-caden"
+ },
+ {
+  "slug": "orto-parisi-megamare",
+  "fragrantica": "https://www.fragrantica.com/perfume/Orto-Parisi/Megamare-53471.html",
+  "fragranticaId": 53471,
+  "boutiques": 3,
+  "slugCandidat": "orto-parisi-megamare"
+ },
+ {
+  "slug": "paco-rabanne-olympea-solar",
+  "fragrantica": "https://www.fragrantica.com/perfume/Rabanne/Olympea-Solar-72556.html",
+  "fragranticaId": 72556,
+  "boutiques": 3,
+  "slugCandidat": "paco-rabanne-olympea-solar"
+ },
+ {
+  "slug": "paco-rabanne-rose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Rabanne/Paco-Rose-121881.html",
+  "fragranticaId": 121881,
+  "boutiques": 3,
+  "slugCandidat": "paco-rabanne-rose"
+ },
+ {
+  "slug": "prada-l-homme-water-splash",
+  "fragrantica": "https://www.fragrantica.com/perfume/Prada/Prada-L-Homme-Water-Splash-54677.html",
+  "fragranticaId": 54677,
+  "boutiques": 3,
+  "slugCandidat": "prada-l-homme-water-splash"
+ },
+ {
+  "slug": "prada-la-femme-water-splash",
+  "fragrantica": "https://www.fragrantica.com/perfume/Prada/Prada-La-Femme-Water-Splash-54676.html",
+  "fragranticaId": 54676,
+  "boutiques": 3,
+  "slugCandidat": "prada-la-femme-water-splash"
+ },
+ {
+  "slug": "ralph-lauren-s-club",
+  "fragrantica": "https://www.fragrantica.com/perfume/Ralph-Lauren/Ralph-s-Club-68282.html",
+  "fragranticaId": 68282,
+  "boutiques": 3,
+  "slugCandidat": "ralph-lauren-s-club"
+ },
+ {
+  "slug": "roberto-cavalli-paradise-found-for-men",
+  "fragrantica": "https://www.fragrantica.com/perfume/Roberto-Cavalli/Paradise-Found-For-Men-63092.html",
+  "fragranticaId": 63092,
+  "boutiques": 3,
+  "slugCandidat": "roberto-cavalli-paradise-found-edt"
+ },
+ {
+  "slug": "rochas-mademoiselle-fun-in-pink",
+  "fragrantica": "https://www.fragrantica.com/perfume/Rochas/Mademoiselle-Rochas-Eau-de-Toilette-50179.html",
+  "fragranticaId": 50179,
+  "boutiques": 3,
+  "slugCandidat": "rochas-mademoiselle-fun-in-pink-edt"
+ },
+ {
+  "slug": "roger-gallet-open-black",
+  "fragrantica": "https://www.fragrantica.com/perfume/Roger-Gallet/Open-Black-43792.html",
+  "fragranticaId": 43792,
+  "boutiques": 3,
+  "slugCandidat": "roger-gallet-open-black-edt"
+ },
+ {
+  "slug": "st-dupont-pure-bloom",
+  "fragrantica": "https://www.fragrantica.com/perfume/S-T-Dupont/Pure-Bloom-55622.html",
+  "fragranticaId": 55622,
+  "boutiques": 3,
+  "slugCandidat": "s-t-dupont-pure-bloom"
+ },
+ {
+  "slug": "st-dupont-royal-amber",
+  "fragrantica": "https://www.fragrantica.com/perfume/S-T-Dupont/Royal-Amber-43063.html",
+  "fragranticaId": 43063,
+  "boutiques": 3,
+  "slugCandidat": "s-t-dupont-royal-amber"
+ },
+ {
+  "slug": "ted-lapidus-oud-blanc",
+  "fragrantica": "https://www.fragrantica.com/perfume/Ted-Lapidus/Oud-Blanc-28824.html",
+  "fragranticaId": 28824,
+  "boutiques": 3,
+  "slugCandidat": "ted-lapidus-oud-blanc-edp"
+ },
+ {
+  "slug": "ted-lapidus-oud-noir",
+  "fragrantica": "https://www.fragrantica.com/perfume/Ted-Lapidus/Oud-Noir-28825.html",
+  "fragranticaId": 28825,
+  "boutiques": 3,
+  "slugCandidat": "ted-lapidus-oud-noir-edp"
+ },
+ {
+  "slug": "ted-lapidus-pour-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Ted-Lapidus/Lapidus-Pour-Homme-5943.html",
+  "fragranticaId": 5943,
+  "boutiques": 3,
+  "slugCandidat": "ted-lapidus-pour-homme-edt"
+ },
+ {
+  "slug": "thomas-kosmala-n-4-apres-l-amour",
+  "fragrantica": "https://www.fragrantica.com/perfume/Thomas-Kosmala/Apres-l-Amour-53742.html",
+  "fragranticaId": 53742,
+  "boutiques": 3,
+  "slugCandidat": "thomas-kosmala-apres-l-amour-edp"
+ },
+ {
+  "slug": "tiziana-terenzi-gold-rose-oudh",
+  "fragrantica": "https://www.fragrantica.com/perfume/Tiziana-Terenzi/Gold-Rose-Oudh-16522.html",
+  "fragranticaId": 16522,
+  "boutiques": 3,
+  "slugCandidat": "tiziana-terenzi-gold-rose-oudh"
+ },
+ {
+  "slug": "unique-e-luxury-beverly-hills-exclusive",
+  "fragrantica": "https://www.fragrantica.com/perfume/Unique-e-Luxury/Beverly-Hills-Exclusive-66081.html",
+  "fragranticaId": 66081,
+  "boutiques": 3,
+  "slugCandidat": "unique-luxury-e-beverly-hills-exclusive"
+ },
+ {
+  "slug": "vertus-sole-patchouli",
+  "fragrantica": "https://www.fragrantica.com/perfume/Vertus/Sole-Patchouli-47929.html",
+  "fragranticaId": 47929,
+  "boutiques": 3,
+  "slugCandidat": "vertus-sole-patchouli-edp"
+ },
+ {
+  "slug": "yves-rocher-mon-rouge",
+  "fragrantica": "https://www.fragrantica.com/perfume/Yves-Rocher/Mon-Rouge-62373.html",
+  "fragranticaId": 62373,
+  "boutiques": 3,
+  "slugCandidat": "yves-rocher-mon-rouge-edp"
+ },
+ {
+  "slug": "yves-rocher-oui-a-l-amour",
+  "fragrantica": "https://www.fragrantica.com/perfume/Yves-Rocher/Oui-a-l-Amour-46091.html",
+  "fragranticaId": 46091,
+  "boutiques": 3,
+  "slugCandidat": "yves-rocher-oui-a-l-amour"
+ },
+ {
+  "slug": "ysl-yvresse-champagne",
+  "fragrantica": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Yvresse-Champagne-101.html",
+  "fragranticaId": 101,
+  "boutiques": 3,
+  "slugCandidat": "yves-saint-laurent-ysl-yvresse-edt"
  }
 ]

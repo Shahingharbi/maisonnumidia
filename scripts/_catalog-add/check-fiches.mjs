@@ -38,7 +38,9 @@ const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques",
   "bois secs", "bois blanc", "bouquet floral", "note fruitee", "note lactee",
   "accord gourmand", "accord aquatique", "accord marin", "accord boise", "mineral",
   "epices chaudes", "epices douces", "musc oriental", "notes vertes", "verdure",
-  "notes musquees", "musc blanc", "notes cremeuses", "notes confites"]);
+  "notes musquees", "musc blanc", "notes cremeuses", "notes confites",
+  "note aquatique", "bois musques", "rose fraiche", "resine", "notes herbacees",
+  "accord vert", "note verte", "notes ambrees", "bois flotte"]);
 
 const LETTRES = "abcdefghijklmnopqrstuvwxyz0123456789";
 function contientMot(hay, needle) {
@@ -94,7 +96,11 @@ for (const f of fiches) {
   }
 
   const fiche = ["top", "heart", "base"].flatMap((k) => (f.notes[k] || []).map((n) => norm(n).trim()));
-  const couvert = (v) => fiche.some((n) => n === v || n.includes(v) || v.includes(n));
+  // Le nom du parfum et celui de la maison contiennent parfois un mot du vocabulaire des
+  // notes : « orange » chez Etat Libre d'Orange, « champagne » dans Yvresse Champagne.
+  // Le citer n'est pas revendiquer une note.
+  const identite = norm(f.brand + " " + f.name);
+  const couvert = (v) => fiche.some((n) => n === v || n.includes(v) || v.includes(n)) || identite.includes(v);
   const intruses = [...vocab].filter((v) => !GENERIQUE.has(v) && !couvert(v) && contientMot(plat, v));
   if (intruses.length) pb.push("note hors fiche : " + intruses.slice(0, 4).join(", "));
 
