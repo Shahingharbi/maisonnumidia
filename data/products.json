@@ -25055,7 +25055,7 @@
       ],
       "longevity": 3,
       "sillage": 2,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -25382,7 +25382,7 @@
       ],
       "longevity": 4,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -25872,7 +25872,7 @@
       ],
       "longevity": 4,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -26533,7 +26533,7 @@
       ],
       "longevity": 4,
       "sillage": 4,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -31055,7 +31055,7 @@
       ],
       "longevity": 5,
       "sillage": 4,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -31274,7 +31274,7 @@
       ],
       "longevity": 3,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -31328,7 +31328,7 @@
       ],
       "longevity": 4,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -31659,7 +31659,7 @@
       ],
       "longevity": 5,
       "sillage": 4,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -31713,7 +31713,7 @@
       ],
       "longevity": 4,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -33503,7 +33503,7 @@
       ],
       "longevity": 4,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -33671,7 +33671,7 @@
       ],
       "longevity": 3,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -33731,7 +33731,7 @@
       ],
       "longevity": 3,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -33845,7 +33845,7 @@
       ],
       "longevity": 3,
       "sillage": 3,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -38364,7 +38364,7 @@
       ],
       "longevity": 5,
       "sillage": 4,
-      "inStock": true,
+      "inStock": false,
       "featured": false,
       "isOriental": false,
       "related": [
@@ -42401,8 +42401,8 @@
     {
       "id": "chanel-bleu-de-l-exclusif",
       "slug": "chanel-bleu-de-l-exclusif",
-      "name": "Bleu de L'Exclusif",
-      "h1": "Chanel Bleu de L'Exclusif Parfum Homme Algérie",
+      "name": "Bleu de Chanel L'Exclusif",
+      "h1": "Chanel Bleu de Chanel L'Exclusif Parfum Homme Algérie",
       "brand": "Chanel",
       "brandSlug": "chanel",
       "gender": "homme",

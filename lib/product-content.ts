@@ -1,10 +1,6 @@
 import type { Product } from "@/lib/types";
 import { formatPrice, getDistinctiveNotes } from "@/lib/products";
 
-/** « de Dior » mais « d'Yves Saint Laurent » : sans ça le h2 sort en « Prix de Yves Saint Laurent ». */
-const de = (mot: string) =>
-  /^[aeiouyàâäéèêëîïôöùûüh]/i.test(mot.trim()) ? `d'${mot}` : `de ${mot}`;
-
 /**
  * Section prix. C'est la première chose que cherche l'internaute : « prix » apparaît dans
  * 28 793 impressions sur les fiches produit en 16 mois, plus que n'importe quel autre mot
@@ -231,9 +227,16 @@ export function generateFAQ(product: Product, versions: Product[] = []): { q: st
   const autres = versions.filter((v) => v.slug !== product.slug);
   const questions: { q: string; a: string }[] = [];
 
+  // La reponse doit contenir le chiffre, pas renvoyer vers « le prix affiche en haut de page » :
+  // c'est la condition pour etre repris en position zero ou dans les « Autres questions posees ».
+  // Le montant n'est pas ecrit en dur : il vient de products.json et se regenere a chaque build,
+  // donc il ne peut pas se perimer dans le code. Le meme texte alimente le balisage FAQPage.
+  const dispo = product.inStock
+    ? ""
+    : ` Ce parfum est actuellement en rupture : la marque ne le produit plus ou il n'est plus approvisionnable en Algérie.`;
   questions.push({
     q: `Combien coûte ${product.brand} ${product.name} en Algérie ?`,
-    a: `Le prix affiché en haut de cette page est celui du flacon ${product.concentration} ${product.volume}, en dinar algérien, pour un produit 100% original. Les frais de livraison Yalidine s'y ajoutent et dépendent de votre wilaya. Aucune carte bancaire n'est demandée : vous réglez au livreur, à la réception.`,
+    a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} coûte ${formatPrice(product.price)} chez Maison Numidia.${dispo} Les frais de livraison Yalidine s'ajoutent à ce montant et varient selon la wilaya. Le paiement se fait à la réception, en espèces, sans carte bancaire ni avance.`,
   });
 
   if (autres.length) {
@@ -244,12 +247,12 @@ export function generateFAQ(product: Product, versions: Product[] = []): { q: st
       : `reprend la même construction dans une autre concentration`;
     questions.push({
       q: `Quelle différence entre ${product.name} et ${comparee.name} ?`,
-      a: `${comparee.name} est vendu en ${comparee.concentration} ${comparee.volume} et ${ecart}. ${product.name} reste en ${product.concentration}. Une concentration plus élevée ne rend pas le parfum « meilleur » : elle le rend plus dense et plus proche de la peau, là où une eau de toilette s'ouvre plus franchement. Le tableau des versions, plus haut sur cette page, compare les ${versions.length} déclinaisons que nous distribuons.`,
+      a: `${product.name} est une ${product.concentration} ${product.volume} à ${formatPrice(product.price)} ; ${comparee.name} est une ${comparee.concentration} ${comparee.volume} à ${formatPrice(comparee.price)} et ${ecart}. Une concentration plus élevée ne rend pas le parfum « meilleur » : elle le rend plus dense et plus proche de la peau, là où une eau de toilette s'ouvre plus franchement. Le tableau plus haut sur cette page compare les ${versions.length} déclinaisons que nous distribuons.`,
     });
   } else {
     questions.push({
       q: `${product.name} existe-t-il en d'autres contenances ?`,
-      a: `Nous distribuons ce parfum en ${product.volume}. C'est la contenance la plus courante sur le marché algérien, et celle pour laquelle nos fournisseurs ont un approvisionnement régulier. Si une autre contenance vous intéresse, l'équipe peut vous dire au téléphone si elle est trouvable.`,
+      a: `Nous le distribuons en un seul format : ${product.concentration} ${product.volume}, à ${formatPrice(product.price)}. C'est la contenance la plus courante sur le marché algérien, et celle pour laquelle l'approvisionnement est régulier. Si un autre format vous intéresse, l'équipe peut vous dire au téléphone s'il est trouvable.`,
     });
   }
 
