@@ -98,10 +98,15 @@ Quand on ajoute un produit avec un nouveau `brandSlug`, la marque correspondante
 
 | page | liens internes sortants |
 |---|---|
-| catégorie (mère) | ~150, dont toutes ses pages marque |
-| page marque (fille) | ~60, dont 12 marques sœurs |
-| fiche produit | ~60, dont 3 produits liés et 3 articles |
+| catégorie (mère) | 130 à 190, dont **toutes** ses pages marque (149 pour femme, 134 pour homme, 86 pour oriental) |
+| page marque (fille) | 105 à 125, dont 12 marques sœurs et tous les produits de la marque |
+| fiche produit | ~63, dont 3 produits liés et 3 articles |
 | `/plan-du-site` | toutes les pages du site (hub de crawl, seule page où l'exhaustivité est voulue) |
+
+Ces volumes montent avec le catalogue, et c'est normal : ce qui grossit sur une page mère, ce
+sont ses pages marque, et sur une page marque, ses propres produits. Le chiffre à surveiller est
+celui de la **fiche produit**, qui doit rester autour de 60 : c'est là que la dilution
+recommencerait si un bloc éditorial se remettait à lister des produits.
 
 **Header** : chaque catégorie + top 5-7 marques par catégorie + Blog + Marques.
 **Footer** : 3 catégories + 10 marques populaires + Blog + Plan du site.
