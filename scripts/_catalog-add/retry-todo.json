@@ -1,652 +1,97 @@
 [
  {
-  "slug": "boucheron-jaipur-homme",
-  "slugCandidat": "boucheron-jaipur-homme",
-  "brand": "Boucheron",
-  "name": "Jaipur Homme",
-  "gender": "homme",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Oriental Épicé",
-  "notes": {
-   "top": [
-    "Cardamome",
-    "Citron",
-    "Citron vert",
-    "Bergamote"
-   ],
-   "heart": [
-    "Cannelle",
-    "Oeillet",
-    "Rose",
-    "Jasmin"
-   ],
-   "base": [
-    "Benjoin",
-    "Feve tonka",
-    "Patchouli",
-    "Cedre"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "note hors fiche : œillet"
- },
- {
-  "slug": "cacharel-pour-l-homme",
-  "slugCandidat": "cacharel-pour-homme",
-  "brand": "Cacharel",
-  "name": "pour L'Homme",
+  "slug": "chopard-1000-miglia",
+  "slugCandidat": "chopard-1000-miglia-eau-de-toilette",
+  "brand": "Chopard",
+  "name": "1000 Miglia",
   "gender": "homme",
   "concentration": "EDT",
-  "volume": "100ml",
-  "family": "Fougere Aromatique",
-  "notes": {
-   "top": [
-    "Muscade",
-    "Bergamote",
-    "Lavande",
-    "Sauge sclaree"
-   ],
-   "heart": [
-    "Oeillet",
-    "Geranium",
-    "Ylang-ylang",
-    "Muguet",
-    "Cyclamen",
-    "Jasmin"
-   ],
-   "base": [
-    "Sapin",
-    "Vetiver",
-    "Cedre",
-    "Mousse de chene",
-    "Bois de santal",
-    "Ambre",
-    "Musc"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "note hors fiche : citron, œillet"
- },
- {
-  "slug": "cacharel-yes-i-am-fabulous",
-  "slugCandidat": "cacharel-yes-i-am-fabulous",
-  "brand": "Cacharel",
-  "name": "Yes I Am Fabulous",
-  "gender": "femme",
-  "concentration": "EDP",
-  "volume": "75ml",
-  "family": "Oriental Vanillé",
-  "notes": {
-   "top": [
-    "Mure"
-   ],
-   "heart": [
-    "Heliotrope"
-   ],
-   "base": [
-    "Lait",
-    "Noisette"
-   ]
-  },
-  "occasions": [
-   "Soirée",
-   "Occasions spéciales"
-  ],
-  "seasons": [
-   "Automne",
-   "Hiver"
-  ],
-  "probleme": "note hors fiche : vanille"
- },
- {
-  "slug": "armani-prive-bleu-lazuli",
-  "slugCandidat": "giorgio-armani-prive-bleu-lazuli-edp",
-  "brand": "Giorgio Armani",
-  "name": "Privé Bleu Lazuli",
-  "gender": "unisexe",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Oriental Épicé",
-  "notes": {
-   "top": [
-    "Mate",
-    "Cardamome",
-    "Bergamote"
-   ],
-   "heart": [
-    "Prune",
-    "Osmanthe",
-    "Jasmin"
-   ],
-   "base": [
-    "Miel",
-    "Tabac",
-    "Vanille",
-    "Bois de santal"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "note hors fiche : osmanthus, poivre"
- },
- {
-  "slug": "givenchy-irresistible-nude-velvet",
-  "slugCandidat": "givenchy-irresistible-nude-velvet",
-  "brand": "Givenchy",
-  "name": "Irresistible Nude Velvet",
-  "gender": "femme",
-  "concentration": "EDP",
   "volume": "80ml",
-  "family": "Floral Poudré",
+  "family": "Fougère Aromatique",
   "notes": {
    "top": [
-    "Amande",
-    "Ambrette",
-    "Neroli"
-   ],
-   "heart": [
-    "Rose",
-    "Iris"
-   ],
-   "base": [
-    "Bois de cedre",
-    "Musc",
-    "Accord poudre de riz"
-   ]
-  },
-  "occasions": [
-   "Soirée",
-   "Occasions spéciales"
-  ],
-  "seasons": [
-   "Automne",
-   "Hiver"
-  ],
-  "probleme": "note hors fiche : velours"
- },
- {
-  "slug": "gucci-flora-gorgeous-magnolia",
-  "slugCandidat": "gucci-flora-gorgeous-magnolia",
-  "brand": "Gucci",
-  "name": "Flora Gorgeous Magnolia",
-  "gender": "femme",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Floral Fruité Boisé",
-  "notes": {
-   "top": [
-    "Accord de mûre"
-   ],
-   "heart": [
-    "Magnolia"
-   ],
-   "base": [
-    "Patchouli",
-    "Bois blonds",
-    "Accord de noix de coco"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "description 164 mots"
- },
- {
-  "slug": "guerlain-aqua-allegoria-flora-salvaggia",
-  "slugCandidat": "guerlain-aqua-allegoria-flora-salvaggia-edt",
-  "brand": "Guerlain",
-  "name": "Aqua Allegoria Flora Salvaggia",
-  "gender": "femme",
-  "concentration": "EDT",
-  "volume": "125ml",
-  "family": "Floral",
-  "notes": {
-   "top": [
-    "Notes aqueuses",
-    "Violette",
-    "Melon",
-    "Fleurs sauvages"
-   ],
-   "heart": [
-    "Notes solaires",
-    "Jasmin",
-    "Fleur d'oranger"
-   ],
-   "base": [
-    "Violette",
-    "Iris",
-    "Musc blanc"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "description 169 mots"
- },
- {
-  "slug": "guerlain-habit-rouge-l-instinct",
-  "slugCandidat": "guerlain-habit-rouge-l-instinct-edt",
-  "brand": "Guerlain",
-  "name": "Habit Rouge L'Instinct",
-  "gender": "homme",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Cuir",
-  "notes": {
-   "top": [
+    "Lavande",
     "Bergamote",
-    "Pamplemousse",
-    "Notes vertes"
+    "Baies de genièvre"
    ],
    "heart": [
-    "Rose",
-    "Cannabis",
-    "Maté"
-   ],
-   "base": [
+    "Violette",
     "Cuir",
-    "Patchouli",
-    "Vanille"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "description 162 mots | note hors fiche : notes herbacees"
- },
- {
-  "slug": "guerlain-habit-rouge-prive",
-  "slugCandidat": "guerlain-habit-rouge-prive",
-  "brand": "Guerlain",
-  "name": "Habit Rouge Rouge Privé",
-  "gender": "homme",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Cuir",
-  "notes": {
-   "top": [
-    "Bergamote",
-    "Gingembre"
-   ],
-   "heart": [
-    "Fleur d'oranger",
-    "Iris"
+    "Asphalte",
+    "Herbe verte"
    ],
    "base": [
-    "Cuir",
-    "Patchouli",
-    "Vanille"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "note hors fiche : tabac"
- },
- {
-  "slug": "guerlain-homme",
-  "slugCandidat": "guerlain-homme",
-  "brand": "Guerlain",
-  "name": "Homme",
-  "gender": "homme",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Aromatique Boisé",
-  "notes": {
-   "top": [
-    "Menthe",
-    "Citron vert",
-    "Rhum"
-   ],
-   "heart": [
-    "Notes florales"
-   ],
-   "base": [
-    "Vétiver",
-    "Cèdre",
-    "Patchouli"
-   ]
-  },
-  "occasions": [
-   "Journée",
-   "Bureau"
-  ],
-  "seasons": [
-   "Printemps",
-   "Été"
-  ],
-  "probleme": "description 161 mots"
- },
- {
-  "slug": "guerlain-oud-essentiel",
-  "slugCandidat": "guerlain-oud-essentiel",
-  "brand": "Guerlain",
-  "name": "Oud Essentiel",
-  "gender": "unisexe",
-  "concentration": "EDP",
-  "volume": "125ml",
-  "family": "Boise Epice",
-  "notes": {
-   "top": [
-    "Oud",
-    "Cuir",
-    "Rose",
-    "Safran",
-    "Geranium"
-   ],
-   "heart": [],
-   "base": []
-  },
-  "occasions": [
-   "Soirée",
-   "Occasions spéciales"
-  ],
-  "seasons": [
-   "Automne",
-   "Hiver"
-  ],
-  "probleme": "description 165 mots"
- },
- {
-  "slug": "issey-miyake-le-sel-d-issey",
-  "slugCandidat": "issey-miyake-le-sel-d-edt",
-  "brand": "Issey Miyake",
-  "name": "Le Sel d'Issey",
-  "gender": "homme",
-  "concentration": "EDT",
-  "volume": "100ml",
-  "family": "Boisé Marin",
-  "notes": {
-   "top": [
-    "Accord salin",
-    "Gingembre",
-    "Algue",
-    "Eau de mer",
-    "Vétiver",
-    "Cèdre",
-    "Mousse de chêne"
-   ],
-   "heart": [],
-   "base": []
-  },
-  "occasions": [
-   "Journée",
-   "Bureau"
-  ],
-  "seasons": [
-   "Printemps",
-   "Été"
-  ],
-  "probleme": "note hors fiche : note aquatique"
- },
- {
-  "slug": "jean-paul-gaultier-le-male-in-blue",
-  "slugCandidat": "jean-paul-gaultier-le-male-in",
-  "brand": "Jean Paul Gaultier",
-  "name": "Le Male In Blue",
-  "gender": "homme",
-  "concentration": "EDP",
-  "volume": "125ml",
-  "family": "Aromatique",
-  "notes": {
-   "top": [
-    "Lavande"
-   ],
-   "heart": [
-    "Anis"
-   ],
-   "base": [
-    "Benjoin"
-   ]
-  },
-  "occasions": [
-   "Bureau",
-   "Soirée"
-  ],
-  "seasons": [
-   "Printemps",
-   "Automne"
-  ],
-  "probleme": "note hors fiche : resine"
- },
- {
-  "slug": "karl-lagerfeld-new-york-mercer-street",
-  "slugCandidat": "karl-lagerfeld-new-york-mercer-street",
-  "brand": "Karl Lagerfeld",
-  "name": "Karl New York Mercer Street",
-  "gender": "homme",
-  "concentration": "EDT",
-  "volume": "100ml",
-  "family": "Boisé Aromatique",
-  "notes": {
-   "top": [
-    "Citron vert",
-    "Basilic",
-    "Poivre blanc"
-   ],
-   "heart": [
-    "Rhubarbe",
-    "Jasmin d'eau",
-    "Géranium"
-   ],
-   "base": [
-    "Vétiver",
-    "Bois blancs",
-    "Musc"
-   ]
-  },
-  "occasions": [
-   "Journée",
-   "Bureau"
-  ],
-  "seasons": [
-   "Printemps",
-   "Été"
-  ],
-  "probleme": "note hors fiche : accord vert"
- },
- {
-  "slug": "kayali-vanilla-28",
-  "slugCandidat": "kayali-vanilla-28",
-  "brand": "Kayali",
-  "name": "Vanilla | 28",
-  "gender": "unisexe",
-  "concentration": "EDP",
-  "volume": "100ml",
-  "family": "Oriental Vanillé",
-  "notes": {
-   "top": [
-    "Orchidée de vanille",
-    "Jasmin"
-   ],
-   "heart": [
-    "Cassonade",
-    "Fève tonka"
-   ],
-   "base": [
+    "Notes boisées",
     "Ambre",
-    "Bois ambré",
-    "Musc",
-    "Patchouli"
+    "Café"
    ]
   },
   "occasions": [
-   "Soirée",
-   "Occasions spéciales"
+   "Bureau",
+   "Soirée"
   ],
   "seasons": [
-   "Automne",
-   "Hiver"
+   "Printemps",
+   "Automne"
   ],
-  "probleme": "note hors fiche : caramel, amande"
+  "probleme": "note hors fiche : poivre"
  },
  {
-  "slug": "marc-jacobs-perfect-intense",
-  "slugCandidat": "marc-jacobs-perfect-intense",
-  "brand": "Marc Jacobs",
-  "name": "Perfect Intense",
+  "slug": "juicy-couture-la-la",
+  "slugCandidat": "juicy-couture-la",
+  "brand": "Juicy Couture",
+  "name": "La La",
   "gender": "femme",
   "concentration": "EDP",
   "volume": "100ml",
-  "family": "Floral Gourmand",
-  "notes": {
-   "top": [
-    "Jonquille",
-    "Jasmin de nuit"
-   ],
-   "heart": [
-    "Amandes grillées"
-   ],
-   "base": [
-    "Bois de santal"
-   ]
-  },
-  "occasions": [
-   "Soirée",
-   "Occasions spéciales"
-  ],
-  "seasons": [
-   "Automne",
-   "Hiver"
-  ],
-  "probleme": "note hors fiche : notes florales blanches"
- },
- {
-  "slug": "mugler-alien-pulp",
-  "slugCandidat": "mugler-alien-pulp-edp-fruitee",
-  "brand": "Mugler",
-  "name": "Alien Pulp",
-  "gender": "femme",
-  "concentration": "EDP",
-  "volume": "90ml",
   "family": "Floral Fruité",
   "notes": {
    "top": [
-    "Framboise",
-    "Écorce de citron"
+    "Mandarine",
+    "Pomme verte",
+    "Groseille"
    ],
    "heart": [
-    "Jasmin",
-    "Mandarine verte",
-    "Orange douce"
+    "Muguet",
+    "Fleur d'oranger",
+    "Violette (feuilles poudrées)"
    ],
-   "base": [
-    "Musc",
-    "Cashmeran",
-    "Vanilline"
-   ]
+   "base": []
   },
   "occasions": [
-   "Journée",
-   "Bureau"
+   "Bureau",
+   "Soirée"
   ],
   "seasons": [
    "Printemps",
-   "Été"
+   "Automne"
   ],
-  "probleme": "note hors fiche : vanille, zeste de citron"
+  "probleme": "note hors fiche : feuilles de violette"
  },
  {
-  "slug": "nina-ricci-l-extase-rose-absolue",
-  "slugCandidat": "nina-ricci-l-extase-rose-absolue",
-  "brand": "Nina Ricci",
-  "name": "L'Extase Rose Absolue",
-  "gender": "femme",
+  "slug": "mercedes-benz-man-private",
+  "slugCandidat": "mercedes-benz-man-private",
+  "brand": "Mercedes-Benz",
+  "name": "Man Private",
+  "gender": "homme",
   "concentration": "EDP",
-  "volume": "80ml",
-  "family": "Oriental Floral",
-  "notes": {
-   "top": [
-    "Poivre rose",
-    "Poivre noir"
-   ],
-   "heart": [
-    "Rose de Taïf",
-    "Cèdre de l'Atlas"
-   ],
-   "base": [
-    "Benjoin",
-    "Vanille",
-    "Patchouli",
-    "Musc"
-   ]
-  },
-  "occasions": [
-   "Soirée",
-   "Occasions spéciales"
-  ],
-  "seasons": [
-   "Automne",
-   "Hiver"
-  ],
-  "probleme": "note hors fiche : rose absolue"
- },
- {
-  "slug": "nishane-fan-your-flames-x",
-  "slugCandidat": "nishane-fan-your-flames",
-  "brand": "Nishane",
-  "name": "Fan Your Flames X",
-  "gender": "unisexe",
-  "concentration": "Extrait de Parfum",
   "volume": "100ml",
-  "family": "Boisé Gourmand",
+  "family": "Boisé Oriental",
   "notes": {
    "top": [
-    "Noix de coco",
-    "Rhum",
-    "Mastic (lentisque)"
+    "Cyprès",
+    "Cardamome",
+    "Armoise"
    ],
    "heart": [
-    "Tabac",
-    "Fève tonka",
-    "Carotte",
-    "Thym"
+    "Labdanum",
+    "Ambroxan",
+    "Lavande"
    ],
    "base": [
-    "Mousse de chêne",
+    "Cèdre",
     "Patchouli",
-    "Cèdre"
+    "Bois de cachemire"
    ]
   },
   "occasions": [
@@ -657,90 +102,28 @@
    "Automne",
    "Hiver"
   ],
-  "probleme": "note hors fiche : resine"
+  "probleme": "note hors fiche : poivre"
  },
  {
-  "slug": "parfums-de-marly-sedley",
-  "slugCandidat": "parfums-de-marly-sedley",
-  "brand": "Parfums de Marly",
-  "name": "Sedley",
-  "gender": "unisexe",
-  "concentration": "EDP",
-  "volume": "125ml",
-  "family": "Boise Aromatique",
-  "notes": {
-   "top": [
-    "Citron",
-    "Menthe",
-    "Bergamote",
-    "Pamplemousse",
-    "Mandarine"
-   ],
-   "heart": [
-    "Lavande",
-    "Romarin",
-    "Géranium",
-    "Oliban"
-   ],
-   "base": [
-    "Ambroxan",
-    "Bois de santal",
-    "Cèdre",
-    "Cashmeran",
-    "Vétiver",
-    "Patchouli"
-   ]
-  },
-  "occasions": [
-   "Journée",
-   "Bureau"
-  ],
-  "seasons": [
-   "Printemps",
-   "Été"
-  ],
-  "probleme": "note hors fiche : lavandin"
- },
- {
-  "slug": "ysl-yvresse-champagne",
-  "slugCandidat": "yves-saint-laurent-ysl-yvresse-edt",
-  "brand": "Yves Saint Laurent",
-  "name": "Yvresse (Champagne)",
+  "slug": "prada-paradoxe-virtual-flower",
+  "slugCandidat": "prada-paradoxe-virtual-flower",
+  "brand": "Prada",
+  "name": "Paradoxe Virtual Flower",
   "gender": "femme",
-  "concentration": "EDT",
-  "volume": "80ml",
-  "family": "Chypré Fruité",
+  "concentration": "EDP",
+  "volume": "90ml",
+  "family": "Floral Musque",
   "notes": {
    "top": [
-    "Pêche",
-    "Nectarine",
-    "Abricot",
-    "Carvi",
-    "Anis",
-    "Menthe"
+    "Bergamote verte"
    ],
    "heart": [
-    "Cannelle",
-    "Litchi",
-    "Rose",
-    "Essence de rose",
-    "Œillet",
-    "Violette",
-    "Iris",
-    "Jasmin",
-    "Muguet"
+    "Accord Jasmin IA",
+    "Neroli"
    ],
    "base": [
-    "Mousse de chêne",
-    "Ambre",
-    "Benjoin",
-    "Vanille",
-    "Patchouli",
-    "Styrax",
-    "Cèdre",
     "Musc",
-    "Vétiver",
-    "Noix de coco"
+    "Ambrette"
    ]
   },
   "occasions": [
@@ -751,6 +134,38 @@
    "Printemps",
    "Automne"
   ],
-  "probleme": "note hors fiche : champagne"
+  "probleme": "note hors fiche : fleur d oranger, oranger"
+ },
+ {
+  "slug": "unique-e-luxury-crush-on-me",
+  "slugCandidat": "unique-luxury-e-crush-on-me",
+  "brand": "Unique'e Luxury",
+  "name": "Crush On Me",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Gourmand Boisé",
+  "notes": {
+   "top": [
+    "Gingembre",
+    "Citron Vert"
+   ],
+   "heart": [
+    "Notes Florales"
+   ],
+   "base": [
+    "Caramel",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "probleme": "note hors fiche : vanille"
  }
 ]
