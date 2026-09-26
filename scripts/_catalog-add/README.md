@@ -74,3 +74,28 @@ n'avance ni pays ni date, et c'est la bonne réponse.
 | `fix-related.mjs` | répare les `related[]` cassés ou tombés sous 3 |
 | `apply-pyramides-lot.mjs` | reporte une pyramide re-cherchée dans le fichier de recherche |
 | `apply-marques.mjs` | crée les marques documentées dans `brands[]` |
+| `ecarter-pyramide-douteuse.mjs` | sort du lot une fiche dont le texte et la pyramide se contredisent |
+
+## Quand `check-fiches.mjs` signale « note hors fiche »
+
+**Lire la phrase avant de faire réécrire le texte.** Sur les quatre lots passés, la très grande
+majorité de ces recalages venaient du contrôle : 24 sur 27 au lot du 26/09, six sur six avant.
+Le contrôle cherche un mot du vocabulaire des notes dans le texte ; il ne comprend pas la phrase
+qui l'entoure. Les cas récurrents, tous désormais gérés :
+
+- **comparaison ou négation** — « un agrume plus complexe que le citron », « sans tomber dans
+  l'excès de vanille » : la note sert de point de repère, elle n'est pas revendiquée. Le contrôle
+  regarde maintenant les 48 caractères en amont (`REPERES`, `citeeCommeNote`).
+- **synonymes** — oliban et encens, néroli et fleur d'oranger, ciste et labdanum, Granny Smith
+  et pomme verte (`SYNONYMES`).
+- **famille et accord** — « la famille musc boisé », « un accord solaire » décrivent une
+  impression, pas une matière (`GENERIQUE`).
+- **forme** — singulier/pluriel, « épicées » contre « épices », particule « de » (`formes`).
+
+Après tout assouplissement du contrôle, vérifier qu'il mord encore : injecter deux notes absentes
+dans une fiche déclarée conforme et relancer. Si elles passent, le contrôle ne sert plus à rien.
+
+Restent les vrais écarts. Si la pyramide et le texte se contredisent sur **plusieurs** notes, le
+problème n'est pas le texte : c'est qu'un des deux relevés Fragrantica est tronqué. On ne devine
+pas lequel — la source est fermée aux outils automatiques. Sortir le parfum du lot avec
+`ecarter-pyramide-douteuse.mjs`, il repart en recherche.

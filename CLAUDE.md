@@ -16,15 +16,17 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Commandes :** EmailJS côté client (`app/commander/page.tsx`) → boîte du vendeur. Clés dans `.env.local` (local) et Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais coller les vraies valeurs dans ce fichier ni dans un commit.
 
 ### État du catalogue (26 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
-- **1 457 produits** dans `data/products.json` (524 homme, 715 femme, 218 oriental)
-- **150 marques** dans `data/products.json.brands[]` — celles sans produit sont exclues de
-  `/marques` et renvoient 404 (`getBrandsWithProducts`)
+- **1 729 produits** dans `data/products.json` (612 homme, 846 femme, 271 oriental — par
+  `category` ; par `gender` : 549 homme, 755 femme, 425 unisexe, et les deux ne se confondent
+  pas, voir règle n°2)
+- **150 marques** dans `data/products.json.brands[]`, toutes pourvues d'au moins un produit.
+  Celles qui n'en auraient pas sont exclues de `/marques` et renvoient 404 (`getBrandsWithProducts`)
 - **36 produits en rupture** (`inStock: false`) : parfums arrêtés ou introuvables, vérifiés un par un
 - **14 articles blog** dans `data/blog.ts` (contenu en **Markdown** — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
 - **0 brandSlug orphelin, 0 related cassé, 0 produit sans image, 0 doublon** (audit règle n°6)
-- Prix : **6 500 DA à 145 000 DA** (voir Règles prix)
-- Descriptions produit : médiane **233 mots**, aucune en un seul bloc, aucune assemblée à partir
+- Prix : **6 500 DA à 145 000 DA**, médiane 23 000 DA (voir Règles prix)
+- Descriptions produit : médiane **232 mots**, aucune en un seul bloc, aucune assemblée à partir
   de phrases types. 30 pyramides sans découpage publié (Louis Vuitton, Tom Ford) s'affichent en
   « Notes olfactives ».
 
