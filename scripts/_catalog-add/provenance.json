@@ -3456,5 +3456,40 @@
   "fragranticaId": 101,
   "boutiques": 3,
   "slugCandidat": "yves-saint-laurent-ysl-yvresse-edt"
+ },
+ {
+  "slug": "chopard-1000-miglia",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chopard/1000-Miglia-20846.html",
+  "fragranticaId": 20846,
+  "boutiques": 3,
+  "slugCandidat": "chopard-1000-miglia-eau-de-toilette"
+ },
+ {
+  "slug": "juicy-couture-la-la",
+  "fragrantica": "https://www.fragrantica.com/perfume/Juicy-Couture/Couture-La-La-17112.html",
+  "fragranticaId": 17112,
+  "boutiques": 3,
+  "slugCandidat": "juicy-couture-la"
+ },
+ {
+  "slug": "mercedes-benz-man-private",
+  "fragrantica": "https://www.fragrantica.com/perfume/Mercedes-Benz/Mercedes-Benz-Man-Private-47002.html",
+  "fragranticaId": 47002,
+  "boutiques": 3,
+  "slugCandidat": "mercedes-benz-man-private"
+ },
+ {
+  "slug": "prada-paradoxe-virtual-flower",
+  "fragrantica": "https://www.fragrantica.com/perfume/Prada/Prada-Paradoxe-Virtual-Flower-95006.html",
+  "fragranticaId": 95006,
+  "boutiques": 4,
+  "slugCandidat": "prada-paradoxe-virtual-flower"
+ },
+ {
+  "slug": "unique-e-luxury-crush-on-me",
+  "fragrantica": "https://www.fragrantica.com/perfume/Unique-e-Luxury/Crush-On-Me-66082.html",
+  "fragranticaId": 66082,
+  "boutiques": 3,
+  "slugCandidat": "unique-luxury-e-crush-on-me"
  }
 ]

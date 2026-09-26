@@ -66351,6 +66351,265 @@
         "libre-ysl",
         "ysl-cinema"
       ]
+    },
+    {
+      "id": "chopard-1000-miglia",
+      "slug": "chopard-1000-miglia",
+      "name": "1000 Miglia",
+      "h1": "Chopard 1000 Miglia Parfum Homme Algérie",
+      "brand": "Chopard",
+      "brandSlug": "chopard",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Fougère Aromatique",
+      "concentration": "EDT",
+      "volume": "80ml",
+      "price": 17000,
+      "originalPrice": null,
+      "shortDescription": "Chopard 1000 Miglia est une eau de toilette homme fougère aromatique en 80 ml, entre lavande, bergamote et fond boisé ambré. Un parfum structuré pour le bureau ou la soirée. Original, livré dans les 58 wilayas via Yalidine, paiement à la réception.",
+      "description": "Chopard 1000 Miglia est un parfum homme de la famille fougère aromatique, décliné en eau de toilette 80 ml. Original et vendu par Maison Numidia, il s'adresse à un homme actif qui aime les compositions structurées, entre fraîcheur aromatique et fond boisé chaleureux, aussi à l'aise au bureau que pour une soirée entre amis. C'est un parfum facile à intégrer dans une garde-robe olfactive déjà installée, sans jamais chercher à se faire remarquer à outrance.\n\nL'ouverture joue sur la lavande, la bergamote et les baies de genièvre, un accord aromatique frais et légèrement épicé qui capte l'attention dès les premières minutes sur la peau. Cette entrée en matière annonce une fougère nette, sans lourdeur, pensée pour durer sur le sillage sans jamais devenir entêtante. Elle reste perceptible un bon moment avant de laisser la place au cœur de la composition.\n\nLe cœur laisse apparaître la violette, le cuir et une facette asphalte assez inattendue, adoucie par une note d'herbe verte qui garde la composition naturelle et vivante. Cette étape centrale donne au parfum son caractère le plus marqué, entre douceur florale et aspérité urbaine. En fond, les notes boisées rejoignent l'ambre et le café, un accord chaud et légèrement torréfié qui signe le caractère masculin du parfum jusqu'au bout de la journée, sans jamais devenir lourd ni écrasant sur la peau.\n\n1000 Miglia convient au bureau comme aux sorties du soir, et se porte particulièrement bien au printemps et en automne, quand les températures laissent respirer sa fraîcheur aromatique sans écraser son fond boisé. Maison Numidia livre ce parfum 100% original dans les 58 wilayas via Yalidine, en paiement à la réception, avec un droit de refus à la livraison si le produit ne convient pas.",
+      "notes": {
+        "top": [
+          "Lavande",
+          "Bergamote",
+          "Baies de genièvre"
+        ],
+        "heart": [
+          "Violette",
+          "Cuir",
+          "Asphalte",
+          "Herbe verte"
+        ],
+        "base": [
+          "Notes boisées",
+          "Ambre",
+          "Café"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 3,
+      "sillage": 3,
+      "image": "/images/products/chopard-1000-miglia.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "chopard-leather-malaki",
+        "chopard-musk-malaki",
+        "chopard-cedar-malaki"
+      ]
+    },
+    {
+      "id": "juicy-couture-la-la",
+      "slug": "juicy-couture-la-la",
+      "name": "La La",
+      "h1": "Juicy Couture La La Parfum Femme Algérie",
+      "brand": "Juicy Couture",
+      "brandSlug": "juicy-couture",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Fruité",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 13000,
+      "originalPrice": null,
+      "shortDescription": "Juicy Couture La La est une eau de parfum femme florale fruitée en 100 ml, entre mandarine, pomme verte et fleurs poudrées. Un parfum frais et facile à porter au quotidien. Original, livraison Yalidine dans les 58 wilayas, paiement à la réception.",
+      "description": "Juicy Couture La La est un eau de parfum féminin de la famille florale fruitée, en flacon de 100 ml. Original et distribué par Maison Numidia, il s'adresse aux femmes qui aiment les parfums lumineux et fruités, faciles à porter au bureau comme en soirée sans jamais devenir envahissants. C'est une signature légère, pensée pour accompagner le quotidien sans effort.\n\nL'ouverture s'appuie sur la mandarine, la pomme verte et la groseille, un accord fruité pétillant et légèrement acidulé qui donne tout de suite le ton juvénile du parfum. Cette entrée fraîche et croquante capte l'attention dès l'application, sans jamais tomber dans le sucré excessif ni dans la lourdeur. Elle évoque un jardin de fruits frais, vif et gourmand à la fois.\n\nLe cœur dévoile le muguet, la fleur d'oranger et la violette (feuilles poudrées), une association florale ronde et légèrement poudrée qui prolonge la fraîcheur du début sur la peau. La composition reste proche du corps, sans base appuyée, ce qui en fait un parfum discret et facile à renouveler dans la journée selon l'envie, sans jamais saturer l'air autour de soi.\n\nCe parfum se porte au bureau comme lors d'une soirée, et trouve sa place au printemps et à l'automne, quand un floral fruité frais fait toute la différence. Maison Numidia livre ce parfum 100% original dans les 58 wilayas via Yalidine, en paiement à la réception, avec un droit de refus à la livraison si le produit ne convient pas.",
+      "notes": {
+        "top": [
+          "Mandarine",
+          "Pomme verte",
+          "Groseille"
+        ],
+        "heart": [
+          "Muguet",
+          "Fleur d'oranger",
+          "Violette (feuilles poudrées)"
+        ],
+        "base": []
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "image": "/images/products/juicy-couture-la-la.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "juicy-couture-oui",
+        "juicy-couture-viva-la-noir",
+        "juicy-couture-viva-la-gold"
+      ]
+    },
+    {
+      "id": "mercedes-benz-man-private",
+      "slug": "mercedes-benz-man-private",
+      "name": "Man Private",
+      "h1": "Mercedes-Benz Man Private Parfum Homme Algérie",
+      "brand": "Mercedes-Benz",
+      "brandSlug": "mercedes-benz",
+      "gender": "homme",
+      "category": "parfums-homme",
+      "family": "Boisé Oriental",
+      "concentration": "EDP",
+      "volume": "100ml",
+      "price": 16500,
+      "originalPrice": null,
+      "shortDescription": "Mercedes-Benz Man Private est une eau de parfum homme boisée orientale en 100 ml, entre cyprès, cardamome et fond boisé chaud. Un parfum dense pour les soirées et occasions spéciales. Original, livré dans les 58 wilayas via Yalidine, paiement à la réception.",
+      "description": "Mercedes-Benz Man Private est un eau de parfum homme de la famille boisée orientale, en flacon de 100 ml. Original et vendu par Maison Numidia, il s'adresse à un homme qui recherche une composition dense et affirmée, réservée aux moments où l'on veut marquer les esprits. Ce n'est pas un parfum de tous les jours, mais une signature pensée pour les rendez-vous importants.\n\nL'ouverture associe le cyprès, la cardamome et l'armoise, un accord boisé et épicé assez sec qui installe d'emblée une allure sérieuse et hivernale. Cette entrée en matière tranche avec les parfums plus légers et annonce un sillage qui va s'épaissir avec le temps passé sur la peau, sans jamais perdre en netteté.\n\nLe cœur repose sur le labdanum, l'ambroxan et la lavande, un accord ambré et aromatique qui apporte de la profondeur sans perdre en netteté. En fond, le cèdre, le patchouli et le bois de cachemire referment la composition sur une base boisée chaude, qui tient bien sur la peau jusqu'au soir sans s'estomper, avec une empreinte qui reste identifiable longtemps après l'application.\n\nCe parfum convient aux soirées et aux occasions spéciales, et se porte surtout en automne et en hiver, quand sa densité boisée trouve tout son sens. Maison Numidia livre ce parfum 100% original dans les 58 wilayas via Yalidine, en paiement à la réception, avec un droit de refus à la livraison si le produit ne convient pas.",
+      "notes": {
+        "top": [
+          "Cyprès",
+          "Cardamome",
+          "Armoise"
+        ],
+        "heart": [
+          "Labdanum",
+          "Ambroxan",
+          "Lavande"
+        ],
+        "base": [
+          "Cèdre",
+          "Patchouli",
+          "Bois de cachemire"
+        ]
+      },
+      "occasions": [
+        "Soirée",
+        "Occasions spéciales"
+      ],
+      "seasons": [
+        "Automne",
+        "Hiver"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "image": "/images/products/mercedes-benz-man-private.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "mercedes-benz-select-night",
+        "mercedes-benz-man-intense",
+        "mercedes-benz-club-black"
+      ]
+    },
+    {
+      "id": "prada-paradoxe-virtual-flower",
+      "slug": "prada-paradoxe-virtual-flower",
+      "name": "Paradoxe Virtual Flower",
+      "h1": "Prada Paradoxe Virtual Flower Parfum Femme Algérie",
+      "brand": "Prada",
+      "brandSlug": "prada",
+      "gender": "femme",
+      "category": "parfums-femme",
+      "family": "Floral Musque",
+      "concentration": "EDP",
+      "volume": "90ml",
+      "price": 30500,
+      "originalPrice": null,
+      "shortDescription": "Prada Paradoxe Virtual Flower est une eau de parfum femme florale musquée en 90 ml, entre bergamote verte, jasmin et musc. Un parfum épuré, proche de la peau, pour le bureau comme en soirée. Original, livraison Yalidine dans les 58 wilayas, paiement à la réception.",
+      "description": "Prada Paradoxe Virtual Flower est un eau de parfum féminin de la famille florale musquée, en flacon de 90 ml. Original et distribué par Maison Numidia, il s'adresse aux femmes qui aiment les compositions modernes, épurées et proches de la peau, à porter au bureau comme en soirée. C'est un parfum pensé pour un usage répété, sans jamais fatiguer l'entourage, ce qui en fait une base fiable pour construire une routine olfactive simple au quotidien.\n\nL'ouverture repose sur la bergamote verte, un accord frais et légèrement vert qui donne une première impression nette et lumineuse dès l'application. Cette entrée courte laisse rapidement la place au cœur floral, qui constitue le vrai caractère de ce parfum et son argument principal auprès de celles qui le portent.\n\nLe cœur associe l'accord Jasmin IA et le néroli, une facette florale blanche et légèrement citronnée qui reste douce sans jamais devenir entêtante. En fond, le musc et l'ambrette prennent le relais avec une texture propre et poudrée, typique des parfums floraux musqués contemporains, qui reste proche de la peau toute la journée et se prolonge discrètement sur les vêtements.\n\nCe parfum se porte aussi bien au bureau qu'en soirée, et trouve sa place au printemps et à l'automne, quand un floral musqué frais reste agréable à porter. Maison Numidia livre ce parfum 100% original dans les 58 wilayas via Yalidine, en paiement à la réception, avec un droit de refus à la livraison si le produit ne convient pas.",
+      "notes": {
+        "top": [
+          "Bergamote verte"
+        ],
+        "heart": [
+          "Accord Jasmin IA",
+          "Neroli"
+        ],
+        "base": [
+          "Musc",
+          "Ambrette"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 4,
+      "sillage": 4,
+      "image": "/images/products/prada-paradoxe-virtual-flower.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "prada-paradoxe",
+        "prada-la-femme",
+        "prada-infusion-de-rose"
+      ]
+    },
+    {
+      "id": "unique-e-luxury-crush-on-me",
+      "slug": "unique-e-luxury-crush-on-me",
+      "name": "Crush On Me",
+      "h1": "Unique'e Luxury Crush On Me Parfum Mixte Algérie",
+      "brand": "Unique'e Luxury",
+      "brandSlug": "unique-e-luxury",
+      "gender": "unisexe",
+      "category": "parfums-femme",
+      "family": "Gourmand Boisé",
+      "concentration": "Extrait de Parfum",
+      "volume": "100ml",
+      "price": 57000,
+      "originalPrice": null,
+      "shortDescription": "Unique'e Luxury Crush On Me est un extrait de parfum unisexe gourmand boisé en 100 ml, entre gingembre, notes florales et fond caramel patchouli. Un parfum dense pour le bureau ou la soirée. Original, livraison Yalidine dans les 58 wilayas, paiement à la réception.",
+      "description": "Unique'e Luxury Crush On Me est un extrait de parfum unisexe de la famille gourmande boisée, en flacon de 100 ml. Original et vendu par Maison Numidia, il s'adresse à celles et ceux qui aiment les parfums denses et sucrés, avec assez de bois pour ne jamais devenir trop léger sur la peau. C'est une composition affirmée, pensée pour laisser une empreinte durable chez celles et ceux qui aiment se faire remarquer sans en abuser.\n\nL'ouverture mêle le gingembre et le citron vert, un accord frais et légèrement piquant qui tranche avec la gourmandise annoncée par le reste de la composition. Cette entrée vive dure quelques minutes avant de laisser progressivement place au cœur floral qui suit, sans rupture brutale ni transition trop marquée.\n\nLe cœur s'appuie sur des notes florales qui adoucissent la fraîcheur du départ sans jamais l'effacer complètement. En fond, le caramel et le patchouli forment un accord gourmand et boisé, chaud et enveloppant, qui installe la signature du parfum sur la durée et reste présent longtemps après l'application, sur la peau comme sur les vêtements.\n\nCe parfum convient au bureau comme en soirée, et se porte bien au printemps et à l'automne, quand son fond gourmand boisé reste agréable sans être écrasant. Maison Numidia livre ce parfum 100% original dans les 58 wilayas via Yalidine, en paiement à la réception, avec un droit de refus à la livraison si le produit ne convient pas.",
+      "notes": {
+        "top": [
+          "Gingembre",
+          "Citron Vert"
+        ],
+        "heart": [
+          "Notes Florales"
+        ],
+        "base": [
+          "Caramel",
+          "Patchouli"
+        ]
+      },
+      "occasions": [
+        "Bureau",
+        "Soirée"
+      ],
+      "seasons": [
+        "Printemps",
+        "Automne"
+      ],
+      "longevity": 5,
+      "sillage": 4,
+      "image": "/images/products/unique-e-luxury-crush-on-me.jpg",
+      "inStock": true,
+      "featured": false,
+      "badge": null,
+      "isOriental": false,
+      "related": [
+        "unique-e-luxury-beverly-hills-exclusive",
+        "unique-e-luxury-kutay",
+        "byredo-bal-d-afrique"
+      ]
     }
   ],
   "brands": [
