@@ -1,0 +1,23 @@
+{
+ "slug": "hugo-boss-selection",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Selection-387.html",
+  "id": 387,
+  "nomOfficiel": "Boss Selection",
+  "marqueOfficielle": "Hugo Boss",
+  "genre": "homme",
+  "annee": 2006
+ },
+ "notes": {
+  "top": ["Pamplemousse", "Citron", "Mandarine", "Poivre Rose", "Anis Etoile"],
+  "heart": ["Geranium", "Cardamome", "Muscade", "Petitgrain", "Feuille de Cedre"],
+  "base": ["Vetiver", "Patchouli", "Bois de Cedre", "Bois de Santal", "Musc"]
+ },
+ "famille": "Aromatique Fougere",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "L'extrait de recherche liste les notes de la fougere sans pyramide top/coeur/base explicite ; repartition reconstituee par type de note usuel (agrumes/epices en tete, aromatiques en coeur, bois/mousse en fond) - confiance abaissee en consequence.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

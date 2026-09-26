@@ -1,0 +1,23 @@
+{
+  "slug": "dolce-gabbana-d-g-light-blue-3",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Love-Is-Love-Pour-Femme-60037.html",
+    "id": 60037,
+    "nomOfficiel": "Light Blue Love Is Love Pour Femme",
+    "marqueOfficielle": "Dolce & Gabbana",
+    "genre": "femme",
+    "annee": 2020
+  },
+  "notes": {
+    "top": ["Citron", "Pomme Granny Smith", "Baies rouges"],
+    "heart": ["Glace vanille", "Framboise", "Jasmin"],
+    "base": ["Crème fouettée", "Musc", "Cèdre", "Ambre"]
+  },
+  "famille": "Floral Boisé Musqué",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Il existe aussi une version Pour Homme (id 60038) ; la boutique source vendait la version femme.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

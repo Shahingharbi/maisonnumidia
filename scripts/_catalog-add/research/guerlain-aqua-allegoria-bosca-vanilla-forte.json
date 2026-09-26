@@ -1,0 +1,23 @@
+{
+  "slug": "guerlain-aqua-allegoria-bosca-vanilla-forte",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Aqua Allegoria Forte Bosca Vanilla",
+    "marqueOfficielle": "Guerlain",
+    "genre": "unisexe",
+    "annee": 2023
+  },
+  "notes": {
+    "top": ["Bergamote", "Eucalyptus"],
+    "heart": ["Bois flotté"],
+    "base": ["Vanille"]
+  },
+  "famille": "Boisé Vanillé",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Existence confirmee via plusieurs sources (fragrantica en resume de recherche, Ulta Beauty, Surrender to Chance, Liberty London, Cult Beauty) : 'Aqua Allegoria Forte Bosca Vanilla', Guerlain, 2023, unisexe. L'ordre des mots differe du libelle boutique ('Bosca Vanilla Forte' vs officiel 'Forte Bosca Vanilla') -- meme produit. ID Fragrantica exact non recupere cette session (outils satures) : a rechercher avant integration finale. Pyramide notes partielle (accords principaux seulement, pas de repartition top/heart/base detaillee source).",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

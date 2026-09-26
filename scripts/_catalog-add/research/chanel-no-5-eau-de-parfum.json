@@ -1,0 +1,23 @@
+{
+ "slug": "chanel-no-5-eau-de-parfum",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-40069.html",
+  "id": 40069,
+  "nomOfficiel": "Chanel N°5 Eau de Parfum",
+  "marqueOfficielle": "Chanel",
+  "genre": "femme",
+  "annee": 1986
+ },
+ "notes": {
+  "top": ["Aldéhydes", "Ylang-Ylang", "Néroli", "Bergamote", "Pêche"],
+  "heart": ["Iris", "Jasmin", "Rose", "Muguet"],
+  "base": ["Bois de Santal", "Mousse de Chêne", "Vanille", "Patchouli", "Vétiver"]
+ },
+ "famille": "Floral Aldéhydé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

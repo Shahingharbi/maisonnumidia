@@ -24,8 +24,24 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "carolina-herrera-good-girl-jasmine-absolute",
+  "raison": "confiance basse"
+ },
+ {
   "slug": "carolina-herrera-la-bomba",
   "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "cartier-eau-de",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "cartier-l-envol-de-parfum",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "cartier-pasha-edition-limitee-parfum",
+  "raison": "pas d'ID Fragrantica (image impossible)"
  },
  {
   "slug": "cerruti-image",
@@ -36,8 +52,16 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "chloe-atelier-des-fleurs-papyrus-eau",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "creed-aventus-absolu",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "dior-christian-30-montaigne",
+  "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "dior-j-adore-l-or-essence",
@@ -60,11 +84,47 @@
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
+  "slug": "essential-parfums-divine-vanille",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "etat-libre-d-orange-attaquer-le",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "giorgio-armani-my-way-sunny-vanilla",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "giorgio-armani-ocean-di-gioia-edp",
   "raison": "confiance basse"
  },
  {
+  "slug": "giorgio-armani-stronger-with-you-tobacco",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "gucci-guilty-elixir-de-parfum",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "guerlain-absolus-allegoria-santal-royal-edp",
+  "raison": "doublon de guerlain-santal-royal (même marque, même nom \"Santal Royal\")"
+ },
+ {
+  "slug": "guerlain-aqua-allegoria-bosca-vanilla-forte",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "hermes-amazone-edt",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "hermes-equipage-edt",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "hermes-hiris-edt",
   "raison": "moins de 3 notes olfactives"
  },
  {
@@ -72,8 +132,16 @@
   "raison": "moins de 3 notes olfactives"
  },
  {
+  "slug": "hugo-boss-oud-aromatic-eau-de",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "issey-miyake-l-eau-d-pour",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "jean-paul-gaultier-jpg-divine-le",
+  "raison": "doublon de jean-paul-gaultier-divine-le-parfum (même marque, même nom \"Divine Le Parfum\")"
  },
  {
   "slug": "lanvin-les-fleurs-de-sunny-magnolia",
@@ -104,8 +172,16 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "paco-rabanne-million-red-parfum",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "paco-rabanne-phantom-elixir",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "paco-rabanne-ultra-violet-man-eau",
+  "raison": "doublon de paco-rabanne-ultraviolet-man (même marque, même nom \"Ultraviolet Man\")"
  },
  {
   "slug": "rochas-girl",
@@ -132,11 +208,27 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "versace-atelier-eclat-de-rose",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "versace-blue-jeans",
   "raison": "confiance basse"
  },
  {
   "slug": "victor-rolf-good-fortune-eau-de",
   "raison": "doublon de good-fortune-viktor-rolf (même marque, même nom \"Good Fortune\")"
+ },
+ {
+  "slug": "xerjoff-casamorati-1888",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "xerjoff-lira-edp",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "xerjoff-torino-21",
+  "raison": "doublon de xerjoff-torino21 (même marque, même nom \"Torino21\")"
  }
 ]

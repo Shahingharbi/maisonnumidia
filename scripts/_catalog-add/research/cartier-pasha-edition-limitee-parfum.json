@@ -1,0 +1,23 @@
+{
+  "slug": "cartier-pasha-edition-limitee-parfum",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Pasha de Cartier Noir Absolu",
+    "marqueOfficielle": "Cartier",
+    "genre": "homme",
+    "annee": null
+  },
+  "notes": {
+    "top": ["Lavande"],
+    "heart": ["Accord fougère"],
+    "base": ["Bois de santal"]
+  },
+  "famille": "Fougère Boisé",
+  "concentrationConfirmee": "Parfum",
+  "volumeExiste": true,
+  "remarque": "Existence confirmee sur le site officiel cartier.com : 'Pasha de Cartier Noir Absolu', concentration Parfum, homme, accord fougere + bois de santal, plusieurs facettes de lavande. La boutique source (odorem-dz.com) vend ce produit sous 'Pasha (Edition Limitee) Parfum' -- Noir Absolu est tres probablement la meme reference (edition dans la ligne Pasha Parfum), mais l'ID et la pyramide exacte Fragrantica n'ont pas pu etre recuperes cette session (outils satures/bloques) : a reverifier avant integration finale, notamment le volume (boutique annonce 125ml, candidat liste 100ml).",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

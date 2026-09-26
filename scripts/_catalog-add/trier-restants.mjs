@@ -19,7 +19,22 @@ const PAS_UN_PARFUM = [
   "shampoing", "shampooing", "apres-shampoing", "gel douche", "savon", "deodorant", "deo ",
   "anti-transpirant", "talc", "spf", "solaire", "huile corps", "body lotion", "body milk",
   "brosse", "peigne", "eponge", "trousse", "pochette", "miroir",
-];
+  // Repere pendant la recherche du lot 3 : le filtre laissait passer du maquillage et
+  // du soin sous un nom de ligne, sans mot-cle evident.
+  "diorskin", "renergie", "hydra zen", "multi-lift", "skin glowing", "nude skin",
+  "spray corps", "brume corps", "eau fraiche corps", "deaoderant", "deodorant",
+  "advanced genifique", "absolue precious", "teint idole", "capture totale",
+]
+
+// Le libelle de la boutique attribue parfois le parfum a la mauvaise maison. La recherche
+// a trouve un « Dolce & Gabbana Ananda by M. Micallef » (c est un M. Micallef), un
+// « Dolce & Gabbana Phantom in Red Rabanne » (c est un Rabanne), quatre « Jean Paul
+// Gaultier Michel Duriez Prive » et deux « Rue Broca » ranges sous Gucci et Bvlgari.
+// Ces lignes portent le nom de la vraie maison dans leur libelle : on les ecarte, elles
+// reviendront sous la bonne marque si cette maison entre au catalogue.
+const MAISONS_ETRANGERES = ["m. micallef", "micallef", "rabanne", "michel duriez",
+  "rue broca", "by kilian", "initio", "nishane", "xerjoff", "amouage", "roja"];
+
 
 // 2 — Formats qui ne sont pas le flacon principal.
 const MAUVAIS_FORMAT = [
@@ -68,6 +83,10 @@ for (const c of candidats) {
   if (cosmetique) { rejeter(`ce n'est pas un parfum (« ${cosmetique.trim()} »)`); continue; }
   const format = MAUVAIS_FORMAT.find((m) => t.includes(norm(m)));
   if (format) { rejeter(`format secondaire (« ${format.trim()} »)`); continue; }
+  // Le nom cite une maison qui n'est pas celle de la colonne marque : la boutique s'est
+  // trompee d'attribution, la fiche serait creee sous la mauvaise maison.
+  const etrangere = MAISONS_ETRANGERES.find((m) => t.includes(norm(m)) && !norm(c.marque).includes(norm(m)));
+  if (etrangere) { rejeter(`le nom cite une autre maison (« ${etrangere} »)`); continue; }
   // La contenance manque souvent dans le champ dédié mais figure dans le libellé
   // (« Calvin Klein sheer beauty edt 100 »). On la récupère avant de rejeter la fiche.
   let volume = c.volume;

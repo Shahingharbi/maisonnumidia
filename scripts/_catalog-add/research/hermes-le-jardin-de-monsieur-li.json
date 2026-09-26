@@ -1,0 +1,23 @@
+{
+ "slug": "hermes-le-jardin-de-monsieur-li",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.fr/parfum/Hermes/Le-Jardin-de-Monsieur-Li-29818.html",
+  "id": 29818,
+  "nomOfficiel": "Le Jardin de Monsieur Li",
+  "marqueOfficielle": "Hermès",
+  "genre": "unisexe",
+  "annee": 2015
+ },
+ "notes": {
+  "top": ["Mandarine", "Pamplemousse", "Bergamote"],
+  "heart": ["Néroli", "Jasmin", "Note verte"],
+  "base": []
+ },
+ "famille": "Hespéridé Aromatique",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Existence confirmee (ligne Jardins d'Hermes, toujours en EDT). Notes de tete et de coeur trouvees (source secondaire) ; notes de fond non retrouvees dans les extraits consultes -- tableau laisse incomplet plutot que devine.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

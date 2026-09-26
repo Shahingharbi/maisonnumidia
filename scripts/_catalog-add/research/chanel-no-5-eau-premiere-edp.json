@@ -1,0 +1,23 @@
+{
+ "slug": "chanel-no-5-eau-premiere-edp",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Eau-Premiere-1360.html",
+  "id": 1360,
+  "nomOfficiel": "Chanel N°5 Eau Première",
+  "marqueOfficielle": "Chanel",
+  "genre": "femme",
+  "annee": 2008
+ },
+ "notes": {
+  "top": ["Aldéhydes", "Ylang-Ylang", "Néroli"],
+  "heart": ["Jasmin", "Rose"],
+  "base": ["Vanille", "Bois de Santal", "Vétiver"]
+ },
+ "famille": "Floral Aldéhydé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Fragrantica liste deux fiches proches (2008 ID 1360, et une reedition 2015 ID 31172) ; la boutique source ne precise pas la version, ID retenu = fiche principale la plus citee.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

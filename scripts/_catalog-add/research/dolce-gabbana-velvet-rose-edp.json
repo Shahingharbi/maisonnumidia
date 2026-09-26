@@ -1,0 +1,23 @@
+{
+  "slug": "dolce-gabbana-velvet-rose-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Rose-25153.html",
+    "id": 25153,
+    "nomOfficiel": "Velvet Rose",
+    "marqueOfficielle": "Dolce & Gabbana",
+    "genre": "femme",
+    "annee": 2014
+  },
+  "notes": {
+    "top": ["Agrumes", "Lys"],
+    "heart": ["Rose de mai", "Rose du Maroc", "Rose de Bulgarie", "Pélargonium d'Égypte"],
+    "base": ["Musc"]
+  },
+  "famille": "Floral",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Les revendeurs trouvés vendent surtout le format 100ml (3.3oz) ; le format 50ml du candidat n'est pas confirmé directement mais reste cohérent avec le reste de la Velvet Collection, aussi vendue en 50ml.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

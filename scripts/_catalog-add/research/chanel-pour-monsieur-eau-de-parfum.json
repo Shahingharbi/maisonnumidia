@@ -1,0 +1,23 @@
+{
+ "slug": "chanel-pour-monsieur-eau-de-parfum",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Chanel/Pour-Monsieur-Eau-de-Parfum-43001.html",
+  "id": 43001,
+  "nomOfficiel": "Pour Monsieur Eau de Parfum",
+  "marqueOfficielle": "Chanel",
+  "genre": "homme",
+  "annee": 2016
+ },
+ "notes": {
+  "top": ["Citron"],
+  "heart": ["Lavande", "Noix de Muscade"],
+  "base": ["Vanille", "Vétiver"]
+ },
+ "famille": "Boisé Chypré",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Repartition top/coeur/fond estimee a partir de la liste de notes globale donnee par Fragrantica ; la fiche source ne detaille pas la pyramide exacte.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

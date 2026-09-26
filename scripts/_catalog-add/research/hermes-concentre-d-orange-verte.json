@@ -1,0 +1,23 @@
+{
+ "slug": "hermes-concentre-d-orange-verte",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.fr/parfum/Hermes/Concentre-d-Orange-Verte-4658.html",
+  "id": 4658,
+  "nomOfficiel": "Concentré d'Orange Verte",
+  "marqueOfficielle": "Hermès",
+  "genre": "unisexe",
+  "annee": 2004
+ },
+ "notes": {
+  "top": ["Orange"],
+  "heart": ["Patchouli"],
+  "base": ["Cèdre"]
+ },
+ "famille": "Hespéridé",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Existence confirmee (ligne Colognes Hermes). Notes issues de la description officielle hermes.com ('eclat d'une orange, patchouli sensuel, cedre fusant') plutot que du tableau Fragrantica notes-par-notes complet.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

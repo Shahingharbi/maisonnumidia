@@ -1,0 +1,23 @@
+{
+ "slug": "lancome-loncome-maison-oud-bouquet",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Lancome/Oud-Bouquet-Eau-de-Parfum-26776.html",
+  "id": 26776,
+  "nomOfficiel": "Oud Bouquet Eau de Parfum",
+  "marqueOfficielle": "Lancôme",
+  "genre": "unisexe",
+  "annee": 2014
+ },
+ "notes": {
+  "top": ["Safran"],
+  "heart": ["Rose"],
+  "base": ["Oud", "Praline", "Vanille"]
+ },
+ "famille": "Oriental Boisé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Doublon probable de lancome-prive-oud-bouquet-eau-de : même parfum ('Maison Lancôme Ôud Bouquet Eau de Parfum'), 'LONCÔME' est une coquille pour 'LANCÔME' chez la boutique source (briki-parfums.com). A fusionner ou écarter l'un des deux avant ajout au catalogue.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

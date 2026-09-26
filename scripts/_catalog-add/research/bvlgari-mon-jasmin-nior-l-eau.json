@@ -1,0 +1,23 @@
+{
+  "slug": "bvlgari-mon-jasmin-nior-l-eau",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Mon Jasmin Noir L'Eau Exquise",
+    "marqueOfficielle": "Bvlgari",
+    "genre": "femme",
+    "annee": 2012
+  },
+  "notes": {
+    "top": ["Pomelo", "Pamplemousse", "Amande"],
+    "heart": ["Thé", "Jasmin"],
+    "base": ["Musc", "Cèdre"]
+  },
+  "famille": "Floral",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Existence et identité très solidement confirmées (nom, marque, genre, année 2012, nez Sophie Labbé, notes, concentration EDT 75ml cohérents sur de nombreuses sources indépendantes reprenant Fragrantica). Mais l'URL fragrantica.com/.../Mon-Jasmin-Noir-L-Eau-Exquise-XXXXX.html n'a jamais affiché son numéro d'ID en clair dans les résultats de recherche consultés (systématiquement tronquée) : id laissé à null par prudence conformément à la règle sur les ID Fragrantica, à renseigner manuellement en ouvrant la fiche.",
+  "confiance": "basse",
+  "verifieLe": "2026-09-26"
+}

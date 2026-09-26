@@ -1,0 +1,23 @@
+{
+ "slug": "chanel-chane-n-19-edp",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Eau-de-Parfum-12345.html",
+  "id": 12345,
+  "nomOfficiel": "Chanel N°19 Eau de Parfum",
+  "marqueOfficielle": "Chanel",
+  "genre": "femme",
+  "annee": 1971
+ },
+ "notes": {
+  "top": ["Notes Vertes", "Bergamote", "Néroli"],
+  "heart": ["Iris", "Rose", "Narcisse", "Muguet", "Ylang-Ylang"],
+  "base": ["Mousse de Chêne", "Vétiver", "Cuir", "Bois de Santal"]
+ },
+ "famille": "Floral Vert",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Libelle boutique 'Chane n 19' = faute de frappe pour Chanel N°19 (le classique, pas la version Poudre).",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

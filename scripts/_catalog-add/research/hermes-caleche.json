@@ -1,0 +1,23 @@
+{
+ "slug": "hermes-caleche",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.fr/parfum/Hermes/Caleche-23.html",
+  "id": 23,
+  "nomOfficiel": "Calèche",
+  "marqueOfficielle": "Hermès",
+  "genre": "femme",
+  "annee": 1961
+ },
+ "notes": {
+  "top": ["Aldéhydes", "Bergamote"],
+  "heart": ["Rose", "Jasmin", "Muguet"],
+  "base": ["Mousse de chêne", "Vétiver"]
+ },
+ "famille": "Floral Aldéhydé",
+ "concentrationConfirmee": null,
+ "volumeExiste": true,
+ "remarque": "Marque de base 'Caleche' (1961, nez Guy Robert) confirmee sur la fiche de reference Fragrantica. La boutique ne precise pas la concentration : plusieurs fiches distinctes coexistent (Caleche-23 = reference generale/parfum, Caleche-Parfum-38348, Caleche-Soie-de-Parfum-29233, Caleche-Eau-Delicate-24) -- concentration laissee non confirmee plutot que devinee.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "hugo-boss-the-scent-magnetic-edp",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-For-Him-Magnetic-78424.html",
+  "id": 78424,
+  "nomOfficiel": "Boss The Scent For Him Magnetic",
+  "marqueOfficielle": "Hugo Boss",
+  "genre": "homme",
+  "annee": 2022
+ },
+ "notes": {
+  "top": ["Maninka"],
+  "heart": ["Son"],
+  "base": ["Vanille Noire"]
+ },
+ "famille": "Oriental Vanille",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Existe aussi en version femme (ID 78423, 'For Her') ; genre retenu 'homme' car l'URL boutique source precise explicitement 'eau-de-parfum-homme-100ml'.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

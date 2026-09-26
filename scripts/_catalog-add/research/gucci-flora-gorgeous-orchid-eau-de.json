@@ -1,0 +1,23 @@
+{
+ "slug": "gucci-flora-gorgeous-orchid-eau-de",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Gucci/Flora-Gorgeous-Orchid-94979.html",
+  "id": 94979,
+  "nomOfficiel": "Flora Gorgeous Orchid",
+  "marqueOfficielle": "Gucci",
+  "genre": "femme",
+  "annee": 2024
+ },
+ "notes": {
+  "top": ["Poire", "Baies Rouges"],
+  "heart": ["Orchidée"],
+  "base": ["Duo de Vanille", "Accord Marin Ozonique"]
+ },
+ "famille": "Floral Gourmand",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Écart de volume à vérifier avant fiche : le candidat indique 100ml mais l'URL boutique source contient '-50ml' dans le slug (parfumdeluxedz.com) — probable erreur de la boutique sur le volume réel proposé, ou 50ml effectivement vendu malgré le titre '100ml' du prix listé.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}
