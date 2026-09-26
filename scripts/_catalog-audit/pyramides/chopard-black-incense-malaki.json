@@ -1,13 +1,1 @@
-{
- "slug": "chopard-black-incense-malaki",
- "notes": {
-  "top": ["Cuir", "Fumée", "Résine", "Bois d'Agar (Oud)", "Notes Boisées", "Épices", "Oliban"],
-  "heart": [],
-  "base": []
- },
- "source": "https://www.fragrantica.com/perfume/Chopard/Black-Incense-Malaki-61770.html",
- "decoupageFourni": false,
- "remarque": "Ces 7 notes correspondent aux 'main accords' Fragrantica, listés sans pyramide tête/coeur/fond officielle. Une pyramide alternative existe chez un revendeur (FragranceX/Wikiparfum : tête=Épices/Lavande/Herbes douces, coeur=Encens fumé/Oliban, fond=Oud/Cèdre) mais elle introduit Lavande et Herbes douces absentes de la fiche actuelle et ne mentionne ni Cuir ni Résine qui y figurent : source pas assez fiable pour répartir ces 7 notes sans en inventer certaines. Conformément à la règle 4, tout reste groupé en tête.",
- "confiance": "moyenne",
- "verifieLe": "2026-09-25"
-}
+{"slug":"chopard-black-incense-malaki","notes":{"top":["Lavandin","Sauge","Cardamome","Cumin","Épices","Lavande"],"heart":["Oliban","Oud"],"base":["Patchouli","Bois de cèdre","Bois de gaïac","Ciste","Labdanum","Bois"]},"source":"https://www.nocibe.fr/fr/p/5002561055","decoupageFourni":true,"remarque":null,"confiance":"haute","verifieLe":"2026-09-26"}
