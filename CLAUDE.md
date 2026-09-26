@@ -127,8 +127,24 @@ Dans `next.config.ts` → `redirects()`. Sinon l'ancienne URL devient un 404 viv
 ```
 Vérifier après coup avec `curl -sI https://maisonnumidia.store/parfums/ancien-slug` (attendu : `308` + bon `location`).
 
-### Règle n°8 : Google Indexing API — NE JAMAIS mélanger les scopes OAuth dans un seul token
-`scripts/google-indexing-api.mjs` doit générer **deux JWT distincts** : un avec le scope `https://www.googleapis.com/auth/indexing` (pour `publishUrl`/`getUrlMetadata`), un avec `siteverification` + `webmasters.readonly` (pour tout le reste : Site Verification, URL Inspection). **Ne jamais les fusionner dans un seul `scope` de token.** Panne vécue : le 08/06/2026, l'ajout de `webmasters.readonly` au scope unique a cassé silencieusement l'Indexing API (401 sur 100% des soumissions, **tous les jours pendant 3 mois**, masqué parce que le script committait quand même le log d'échecs). Corrigé le 14/09/2026 en séparant les tokens (`INDEXING_SCOPE` / `GSC_SCOPE`). Le script fait maintenant échouer le job CI (`process.exitCode = 1`) si 0 succès sur un batch non-vide — ne pas supprimer cette garde.
+### Règle n°8 : Google Indexing API — deux scopes séparés, et le secret CI doit suivre
+
+`scripts/google-indexing-api.mjs` doit générer **deux JWT distincts** : un avec le scope `https://www.googleapis.com/auth/indexing` (pour `publishUrl`/`getUrlMetadata`), un avec `siteverification` + `webmasters.readonly` (pour tout le reste : Site Verification, URL Inspection). **Ne jamais les fusionner dans un seul `scope` de token.**
+
+**Historique de la panne, et pourquoi il faut la lire en entier.** Le 08/06/2026, l'ajout de `webmasters.readonly` au scope unique a cassé l'Indexing API : 401 sur 100 % des soumissions, tous les jours, masqué parce que le script committait quand même le log d'échecs. Les tokens ont été séparés le 14/09/2026 — et **ça n'a pas suffi** : le journal montre 200 échecs 401 par jour du 15/09 au 26/09, soit douze jours de plus. Ce fichier a affirmé « corrigé » pendant tout ce temps.
+
+Diagnostic du 26/09/2026 : le code est bon. Lancé en local avec `.credentials/google-indexing.json`, **et aussi par la variable d'environnement `GOOGLE_INDEXING_CREDENTIALS_JSON` (le chemin exact de la CI)**, il renvoie HTTP 200 — y compris sur les URLs mêmes qui échouent en CI. La seule variable qui reste est donc le **contenu du secret GitHub** : il ne correspond pas à la clé locale. À corriger dans Settings → Secrets → Actions → `GOOGLE_INDEXING_CREDENTIALS_JSON`, en y recopiant le JSON de `.credentials/google-indexing.json`.
+
+**La leçon de méthode :** une panne « corrigée » ne l'est que si on a vu le succès dans le journal. `node -e` sur `data/indexing-log.json` donne la réponse en une ligne :
+```bash
+node -e "const l=require('./data/indexing-log.json');l.runs.slice(-7).forEach(r=>console.log(r.date,'ok='+r.urls.length,'err='+r.errors.length))"
+```
+
+Le script fait échouer le job CI (`process.exitCode = 1`) si 0 succès sur un batch non-vide — ne pas supprimer cette garde. Elle a bien fonctionné : le job est rouge tous les jours depuis le 14/09. Personne n'a regardé l'onglet Actions, ce qui est l'autre moitié du problème.
+
+**Options utiles :** `--dry-run` (prévisualise), `--url=` (une seule URL), `--verify-list` (propriétés vérifiées par le compte de service), `--inspect-limit=0` (saute la phase URL Inspection, qui peut être longue), `--urls-file=<fichier>` (liste explicite, une URL par ligne, prioritaire sur la file calculée — à utiliser le lendemain d'un gros ajout).
+
+La file classe les URLs jamais pingées par **date de première apparition au sitemap** (`log.firstSeen`), la plus récente d'abord : avec 2 227 URLs et 200 pings par jour, un tour complet prend onze jours, et c'est la page neuve qui ne peut pas attendre.
 
 ### Règle n°9 : ne JAMAIS créer une fiche sans avoir vérifié que le parfum existe
 

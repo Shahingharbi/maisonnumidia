@@ -238,6 +238,10 @@ const VERIFY_METHOD = args.find((a) => a.startsWith("--method="))?.slice(9) || "
 const CHECK_STATUS = args.find((a) => a.startsWith("--check="))?.slice(8);
 const INSPECT_LIMIT_ARG = args.find((a) => a.startsWith("--inspect-limit="));
 const INSPECT_LIMIT = INSPECT_LIMIT_ARG ? parseInt(INSPECT_LIMIT_ARG.slice(16), 10) : INSPECT_BUDGET;
+// Liste explicite (un chemin vers un fichier, une URL par ligne) : passe devant la file
+// calculée. Sert le lendemain d'un gros ajout, quand on sait exactement quelles pages
+// Google ne connaît pas encore et qu'on ne veut pas attendre le tour du sitemap.
+const URLS_FILE = args.find((a) => a.startsWith("--urls-file="))?.slice(12);
 
 async function main() {
   const creds = loadCredentials();
@@ -385,17 +389,35 @@ async function main() {
     return;
   }
 
+  // ── Date de première apparition au sitemap ──────────────────────────────
+  // Sans elle, toutes les URLs jamais pingées se valent, et la file suit l'ordre du
+  // sitemap : le blog part en premier, les fiches ajoutées le matin même attendent
+  // plusieurs jours. Avec 2 227 URLs et 200 pings par jour, un tour complet prend
+  // onze jours — c'est précisément la page neuve qui ne peut pas attendre, puisque
+  // c'est la seule que Google ne connaît pas encore.
+  if (!log.firstSeen) {
+    // Amorçage : une URL déjà soumise est connue depuis ce jour-là ; les autres
+    // apparaissent aujourd'hui pour ce qu'en sait le journal.
+    log.firstSeen = {};
+    for (const u of allUrls) log.firstSeen[u] = log.submitted[u] || Date.now();
+  } else {
+    for (const u of allUrls) if (!log.firstSeen[u]) log.firstSeen[u] = Date.now();
+  }
+
   // ── File de ping : non indexées d'abord (plus anciennement pingées), puis inconnues ──
   const lastPing = (u) => log.submitted[u] || 0;
+  const vueLe = (u) => log.firstSeen[u] || 0;
   const pingBudget = DRY_RUN ? (remaining > 0 ? remaining : DAILY_QUOTA) : remaining;
   let queue;
   if (property) {
     const notIndexed = allUrls
       .filter((u) => log.indexStatus[u] && !log.indexStatus[u].indexed)
       .sort((a, b) => lastPing(a) - lastPing(b));
+    // Jamais pingée : la plus récemment apparue passe devant. À égalité, celle qui
+    // attend depuis le plus longtemps.
     const unknown = allUrls
       .filter((u) => !log.indexStatus[u])
-      .sort((a, b) => lastPing(a) - lastPing(b));
+      .sort((a, b) => vueLe(b) - vueLe(a) || lastPing(a) - lastPing(b));
     queue = [...notIndexed, ...unknown].slice(0, pingBudget);
     console.log(`File: ${notIndexed.length} non indexées + ${unknown.length} inconnues → ping ${queue.length}`);
   } else {
@@ -405,6 +427,14 @@ async function main() {
       .filter((u) => submittedKeys.has(u))
       .sort((a, b) => lastPing(a) - lastPing(b));
     queue = [...neverSubmitted, ...oldest].slice(0, pingBudget);
+  }
+  // La liste explicite écrase la file calculée : c'est son intérêt.
+  if (URLS_FILE) {
+    const demandees = fs.readFileSync(URLS_FILE, "utf8").split("\n").map((l) => l.trim()).filter(Boolean);
+    const absentes = demandees.filter((u) => !allUrls.includes(u));
+    if (absentes.length) console.log(`⚠ ${absentes.length} URLs de la liste sont absentes du sitemap — elles seront soumises quand même`);
+    queue = demandees.slice(0, pingBudget);
+    console.log(`Liste explicite (${URLS_FILE}) : ${demandees.length} URLs → ping ${queue.length}`);
   }
   console.log(`A soumettre: ${queue.length} URLs (espacées de ${RATE_LIMIT_MS}ms)\n`);
 
