@@ -40,7 +40,12 @@ const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques",
   "epices chaudes", "epices douces", "musc oriental", "notes vertes", "verdure",
   "notes musquees", "musc blanc", "notes cremeuses", "notes confites",
   "note aquatique", "bois musques", "rose fraiche", "resine", "notes herbacees",
-  "accord vert", "note verte", "notes ambrees", "bois flotte"]);
+  "accord vert", "note verte", "notes ambrees", "bois flotte",
+  // Noms de FAMILLE entres dans le vocabulaire parce qu un produit du catalogue porte
+  // une note litteralement appelee « Floral » ou « Aromatique ». Ecrire « un floral
+  // aromatique » decrit la famille, ca ne revendique aucune note.
+  "floral", "aromatique", "accord ambre", "bois ambre", "baume", "cuir boise",
+  "coeur de patchouli", "notes florales blanches", "notes boisees seches"]);
 
 const LETTRES = "abcdefghijklmnopqrstuvwxyz0123456789";
 function contientMot(hay, needle) {

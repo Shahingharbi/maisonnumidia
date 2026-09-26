@@ -1,11 +1,91 @@
 [
  {
+  "slug": "azzaro-chrom-edp",
+  "raison": "doublon de azzaro-chrome (même marque, même nom \"Chrome\")"
+ },
+ {
+  "slug": "azzaro-chrome-limited-edition",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "azzaro-chrome-parfum-bleu",
+  "raison": "doublon probable de azzaro-chrome-parfum (\"Azzaro Chrome Le Parfum\")"
+ },
+ {
   "slug": "azzaro-pour-homme-limited-edition",
   "raison": "confiance basse"
  },
  {
   "slug": "burberry-my",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "bvlgari-eau-parfumee-au-the-vert",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-irina-imperiali-edp",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-jasmin-noir-the-essence-of",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-le-gemme-ambero",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-le-gemme-garanat",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-le-gemme-gyan",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-le-gemme-tygar",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-man-extreme-eau-de-parfum",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-man-wood-essence-parfum-homme",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-mon-jasmin-nior-l-eau",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "bvlgari-pour-femme-eau-de-toilette",
+  "raison": "doublon de bvlgari-pour-femme (même marque, même nom \"Pour Femme\")"
+ },
+ {
+  "slug": "bvlgari-prive-gyan-eau-de-parfum",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-prive-le-gemme-garanat-eau",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-prive-tygar-eau-de-parfum",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "bvlgari-rue-broca-theoreme-eau-de",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "bvlgari-splendida-edp",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "bvlgari-zahira-bvlgarie-edp",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "cacharel-eden",
@@ -16,6 +96,10 @@
   "raison": "doublon de cacharel-loulou (même marque, même nom \"Lou Lou\")"
  },
  {
+  "slug": "carolina-herrera-212-heroes-forever-young",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "carolina-herrera-212-men-heroes-forever",
   "raison": "confiance basse"
  },
@@ -24,12 +108,100 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "carolina-herrera-212-vip-are-you",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "carolina-herrera-212-vip-black-own",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "carolina-herrera-212-vip-black-this",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "carolina-herrera-212-vip-men-are",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "carolina-herrera-212-vip-men-wins",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "carolina-herrera-212-vip-rose-red",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "carolina-herrera-212sexy-eau-de-parfum",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "carolina-herrera-amber-desire-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-amethyst-haze-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-bab-boy-it-s",
+  "raison": "doublon de carolina-herrera-bad-boy (même marque, même nom \"Bad Boy\")"
+ },
+ {
+  "slug": "carolina-herrera-burning-rose-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-ch-woman",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "carolina-herrera-confidential-iris-empire-edp",
+  "raison": "doublon probable de carolina-herrera-iris-empire"
+ },
+ {
+  "slug": "carolina-herrera-deaoderant-212-vip-femme",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "carolina-herrera-gold-myrrh-absolute-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
   "slug": "carolina-herrera-good-girl-jasmine-absolute",
   "raison": "confiance basse"
  },
  {
+  "slug": "carolina-herrera-good-girl-superstars",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "carolina-herrera-la-bomba",
   "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "carolina-herrera-mystery-tobacco-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-oud-couture-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-platinum-leather-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-saffron-lazuli-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-sandal-ruby-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "carolina-herrera-tuberose-edp",
+  "raison": "confiance basse"
  },
  {
   "slug": "cartier-eau-de",
@@ -52,6 +224,30 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "chanel-chane-n-19-edp",
+  "raison": "doublon de chanel-n-19 (même marque, même nom \"N°19\")"
+ },
+ {
+  "slug": "chanel-jean-for-women-eau-de",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "chanel-no-5-eau-de-parfum",
+  "raison": "doublon de chanel-no5 (même marque, même nom \"N°5\")"
+ },
+ {
+  "slug": "chanel-no-5-eau-premiere-edp",
+  "raison": "doublon de chanel-n5-eau-premiere (même marque, même nom \"N°5 Eau Première\")"
+ },
+ {
+  "slug": "chanel-paris-eau-de-toilette",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "chanel-prive-le-lion-eau-de",
+  "raison": "doublon probable de chanel-le-lion-les-exclusifs-de-chanel"
+ },
+ {
   "slug": "chloe-atelier-des-fleurs-papyrus-eau",
   "raison": "moins de 3 notes olfactives"
  },
@@ -60,24 +256,108 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "dior-2024-sauvage-eau-forte-parfum",
+  "raison": "doublon de dior-sauvage-eau-forte (même marque, même nom \"Sauvage Eau Forte\")"
+ },
+ {
   "slug": "dior-christian-30-montaigne",
   "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dior-christian-diorskin-nude-skin-glowing",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dior-christian-eau-de-dolce-vite",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "dior-christian-eau-forte-parfum-sans",
+  "raison": "doublon de dior-sauvage-eau-forte (même marque, même nom \"Sauvage Eau Forte\")"
+ },
+ {
+  "slug": "dior-collection-privee-la-colle-noire",
+  "raison": "doublon probable de dior-la-colle-noire"
+ },
+ {
+  "slug": "dior-diordirection3f-8071i17",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dior-eau-de-parfum-absolue",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dior-homme-edition-2020",
+  "raison": "doublon de dior-homme (même marque, même nom \"Homme\")"
+ },
+ {
+  "slug": "dior-j-adore-infinissime-2024-eau",
+  "raison": "doublon de dior-jadore-infinissime (même marque, même nom \"J'adore Infinissime\")"
  },
  {
   "slug": "dior-j-adore-l-or-essence",
   "raison": "confiance basse"
  },
  {
+  "slug": "dior-so-real-havana-06j70",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dolce-gabbana-ananda-by-m-micallef",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "dolce-gabbana-d-g-devotion-edp",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "dolce-gabbana-d-g-l-imperatrice",
+  "raison": "doublon de dolce-gabbana-l-imperatrice-limited-edition (même marque, même nom \"L'Imperatrice Limited Edition\")"
+ },
+ {
+  "slug": "dolce-gabbana-d-g-queen-edp",
+  "raison": "doublon probable de dolce-gabbana-q"
  },
  {
   "slug": "dolce-gabbana-d-g-the-king",
   "raison": "doublon probable de dolce-gabbana-k (\"Dolce & Gabbana K by Dolce & Gabbana\")"
  },
  {
+  "slug": "dolce-gabbana-eau-de-parfum-the",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dolce-gabbana-k-by-king-eau",
+  "raison": "doublon probable de dolce-gabbana-k (\"Dolce & Gabbana K by Dolce & Gabbana\")"
+ },
+ {
+  "slug": "dolce-gabbana-lail-malaki-edp",
+  "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "dolce-gabbana-lail-sihri-edp",
+  "raison": "doublon de dolce-gabbana-the-one-mysterious-night (même marque, même nom \"The One Mysterious Night\")"
+ },
+ {
+  "slug": "dolce-gabbana-lail-sihri-the-one",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "dolce-gabbana-light-blue-capri-in-2",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "dolce-gabbana-only-one-red-de",
+  "raison": "doublon de dolce-gabbana-the-only-one-2 (même marque, même nom \"The Only One 2\")"
+ },
+ {
+  "slug": "dolce-gabbana-phantom-in-red-rabanne",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-luminous-night",
+  "raison": "doublon probable de dolce-gabbana-the-one-luminous-night"
  },
  {
   "slug": "eaudace-edp",
@@ -104,8 +384,16 @@
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
+  "slug": "gucci-guilty-cologne-edt",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "gucci-guilty-elixir-de-parfum",
   "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "gucci-rue-broca-hooked-eau-de",
+  "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "guerlain-absolus-allegoria-santal-royal-edp",
@@ -128,6 +416,46 @@
   "raison": "moins de 3 notes olfactives"
  },
  {
+  "slug": "hermes-terre-d-flacon-serie-h",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "hermes-terre-d-spray-corps-sans",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "hugo-boss-blanc-bottled-unlimited-eau",
+  "raison": "doublon de hugo-boss-bottled-unlimited (même marque, même nom \"Boss Bottled Unlimited\")"
+ },
+ {
+  "slug": "hugo-boss-bottled-beyond-au-de",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "hugo-boss-bottled-elixir",
+  "raison": "doublon probable de hugo-boss-bottled-elixir"
+ },
+ {
+  "slug": "hugo-boss-bottled-pacific-limited-edition",
+  "raison": "doublon probable de hugo-boss-bottled-pacific"
+ },
+ {
+  "slug": "hugo-boss-bottled-united-limited-edition",
+  "raison": "doublon de hugo-boss-bottled-united (même marque, même nom \"Boss Bottled United\")"
+ },
+ {
+  "slug": "hugo-boss-hogu-extrem-edp",
+  "raison": "doublon de hugo-boss-extreme (même marque, même nom \"Hugo Extreme\")"
+ },
+ {
+  "slug": "hugo-boss-juste-derfferent-edt",
+  "raison": "doublon de hugo-boss-just-different (même marque, même nom \"Hugo Just Different\")"
+ },
+ {
+  "slug": "hugo-boss-man-eau-de-toilette",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "hugo-boss-now-edt",
   "raison": "moins de 3 notes olfactives"
  },
@@ -140,8 +468,84 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "jean-paul-gaultier-hugo-boss-jeans",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "jean-paul-gaultier-jpg-divine-le",
   "raison": "doublon de jean-paul-gaultier-divine-le-parfum (même marque, même nom \"Divine Le Parfum\")"
+ },
+ {
+  "slug": "jean-paul-gaultier-jpg-le-male-2",
+  "raison": "doublon de le-male-le-parfum (même marque, même nom \"Le Male Le Parfum\")"
+ },
+ {
+  "slug": "jean-paul-gaultier-jpg-le-male-3",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "jean-paul-gaultier-le-male-collector",
+  "raison": "confiance basse"
+ },
+ {
+  "slug": "jean-paul-gaultier-le-male-elixir-3",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "jean-paul-gaultier-le-male-in-2",
+  "raison": "doublon de jean-paul-gaultier-le-male-in-blue (même marque, même nom \"Le Male In Blue\")"
+ },
+ {
+  "slug": "jean-paul-gaultier-michel-duriez-prive-2",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "jean-paul-gaultier-michel-duriez-prive-3",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "jean-paul-gaultier-michel-duriez-prive-4",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "jean-paul-gaultier-michel-duriez-prive",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "jean-paul-gaultier-rue-broca-hooked",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "jean-paul-gaultier-ultra-mal-edt",
+  "raison": "doublon de jean-paul-gaultier-ultra-male (même marque, même nom \"Ultra Male\")"
+ },
+ {
+  "slug": "lancome-giorgio-armani-my-way-nectar",
+  "raison": "doublon de armani-my-way-nectar (même marque, même nom \"My Way Nectar\")"
+ },
+ {
+  "slug": "lancome-hydra-zen-glow",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "lancome-idole-now-la-nouvelle-florale",
+  "raison": "doublon de lancome-idole-now (même marque, même nom \"Idôle Now\")"
+ },
+ {
+  "slug": "lancome-la-vie-ets-belle-soleil",
+  "raison": "doublon de lancome-la-vie-est-belle-soleil-cristal (même marque, même nom \"La Vie Est Belle Soleil Cristal\")"
+ },
+ {
+  "slug": "lancome-lancom-tresor-nude-edt",
+  "raison": "doublon de lancome-la-nuit-tresor-nude (même marque, même nom \"La Nuit Trésor Nude\")"
+ },
+ {
+  "slug": "lancome-prive-oud-bouquet-eau-de",
+  "raison": "doublon probable de lancome-oud-bouquet"
+ },
+ {
+  "slug": "lancome-renergie-multi-lift-nuit",
+  "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "lanvin-les-fleurs-de-sunny-magnolia",
