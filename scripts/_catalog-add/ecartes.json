@@ -372,6 +372,22 @@
   "raison": "moins de 3 notes olfactives"
  },
  {
+  "slug": "giorgio-armani-alhambra-your-touch-for-2",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "giorgio-armani-alhambra-your-touch-for",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "giorgio-armani-emporio-stronger-with-you-2",
+  "raison": "doublon de armani-emporio-stronger-with-you-leather (même marque, même nom \"Emporio Armani Stronger With You Leather\")"
+ },
+ {
+  "slug": "giorgio-armani-emporio-stronger-with-you-3",
+  "raison": "doublon de armani-emporio-stronger-with-you-sandalwood (même marque, même nom \"Emporio Armani Stronger With You Sandalwood\")"
+ },
+ {
   "slug": "giorgio-armani-my-way-sunny-vanilla",
   "raison": "parfum inexistant d'après Fragrantica"
  },
@@ -380,8 +396,36 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "giorgio-armani-prive-musc-shamal-eau",
+  "raison": "doublon probable de armani-prive-musc-shamal"
+ },
+ {
+  "slug": "giorgio-armani-si-passion-red-musc",
+  "raison": "doublon de armani-si-passione-red-musk (même marque, même nom \"Sì Passione Red Musk\")"
+ },
+ {
   "slug": "giorgio-armani-stronger-with-you-tobacco",
   "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "givenchy-givenchy2011-ange-ou-demon-le",
+  "raison": "doublon probable de givenchy-ange-ou-demon-le-secret-elixir"
+ },
+ {
+  "slug": "givenchy-irresistible-nectar-eau-de-parfum",
+  "raison": "doublon de givenchy-irresistible-nectar (même marque, même nom \"Irrésistible Nectar\")"
+ },
+ {
+  "slug": "givenchy-l-interdit-angelique-rouge-eau",
+  "raison": "doublon de givenchy-l-interdit-angelique-rouge (même marque, même nom \"L'Interdit Angélique Rouge\")"
+ },
+ {
+  "slug": "givenchy-live-irresistible-rosy-crush-eau",
+  "raison": "doublon de givenchy-live-irresistible-rosy-crush (même marque, même nom \"Live Irresistible Rosy Crush\")"
+ },
+ {
+  "slug": "givenchy-pour-homme-edt-new-packaging",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "gucci-guilty-cologne-edt",
@@ -396,12 +440,84 @@
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
+  "slug": "guerlain-absolus-allegoria-oud-essentiel-eau",
+  "raison": "doublon de guerlain-oud-essentiel (même marque, même nom \"Oud Essentiel\")"
+ },
+ {
   "slug": "guerlain-absolus-allegoria-santal-royal-edp",
   "raison": "doublon de guerlain-santal-royal (même marque, même nom \"Santal Royal\")"
  },
  {
   "slug": "guerlain-aqua-allegoria-bosca-vanilla-forte",
   "raison": "pas d'ID Fragrantica (image impossible)"
+ },
+ {
+  "slug": "guerlain-aqua-allegoria-nerolia-vetiver-edp",
+  "raison": "doublon de guerlain-aqua-allegoria-forte-nerolia-vetiver (même marque, même nom \"Aqua Allegoria Forte Nerolia Vetiver\")"
+ },
+ {
+  "slug": "guerlain-aqua-allegoria-oud-yuzu-forte",
+  "raison": "doublon probable de guerlain-aqua-allegoria-forte-oud-yuzu"
+ },
+ {
+  "slug": "guerlain-aqua-allegoria-rosa-palissandro-forte",
+  "raison": "doublon probable de guerlain-aqua-allegoria-forte-rosa-palissandro"
+ },
+ {
+  "slug": "guerlain-aqua-pamplellune-edt",
+  "raison": "doublon probable de guerlain-aqua-allegoria-pamplelune"
+ },
+ {
+  "slug": "guerlain-black-perfecto-by-la-petite",
+  "raison": "doublon de guerlain-black-perfecto-by-la-petite-robe-noire (même marque, même nom \"Black Perfecto by La Petite Robe Noire Florale\")"
+ },
+ {
+  "slug": "guerlain-black-perfecto-edt-florale",
+  "raison": "doublon de guerlain-black-perfecto-by-la-petite-robe-noire (même marque, même nom \"Black Perfecto by La Petite Robe Noire Florale\")"
+ },
+ {
+  "slug": "guerlain-frenchy-lavande-by-eau-de",
+  "raison": "doublon probable de guerlain-frenchy-lavande"
+ },
+ {
+  "slug": "guerlain-guerlaine-edt-spalking-bouqet",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "guerlain-her-blossom-by-burberry",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "guerlain-l-homme-ideal-cologne-forte-2",
+  "raison": "doublon de guerlain-l-homme-ideal-cologne-forte (même marque, même nom \"L'Homme Idéal Cologne Forte\")"
+ },
+ {
+  "slug": "guerlain-la-petite-robe-noir-edt",
+  "raison": "doublon de guerlain-black-perfecto-by-la-petite-robe-noire (même marque, même nom \"Black Perfecto by La Petite Robe Noire Florale\")"
+ },
+ {
+  "slug": "guerlain-les-absolus-d-orient-encens",
+  "raison": "doublon de guerlain-les-absolus-d-orient-encens-mythique (même marque, même nom \"Les Absolus d'Orient Encens Mythique\")"
+ },
+ {
+  "slug": "guerlain-les-absolus-d-orient-epices",
+  "raison": "doublon de guerlain-les-absolus-d-orient-epices-exquises (même marque, même nom \"Les Absolus d'Orient Épices Exquises\")"
+ },
+ {
+  "slug": "guerlain-les-absolus-d-orient-musc",
+  "raison": "doublon de guerlain-les-absolus-d-orient-musc-noble (même marque, même nom \"Les Absolus d'Orient Musc Noble\")"
+ },
+ {
+  "slug": "guerlain-paris-jardins-de-bagatelle-eau",
+  "raison": "doublon probable de guerlain-jardins-de-bagatelle"
+ },
+ {
+  "slug": "guerlain-robe-noire-ma-premier",
+  "raison": "doublon probable de guerlain-la-petite-robe-noire-ma-premiere"
+ },
+ {
+  "slug": "guerlain-vetiver-eau-de-toilette-ancien",
+  "raison": "doublon de guerlain-vetiver (même marque, même nom \"Vétiver\")"
  },
  {
   "slug": "hermes-amazone-edt",
@@ -564,8 +680,44 @@
   "raison": "doublon de mont-blanc-legend-rouge (même marque, même nom \"Legend Red\")"
  },
  {
+  "slug": "paco-rabanne-1-million-cologne-eau",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "paco-rabanne-1-million-royal-parfum",
+  "raison": "doublon de paco-rabanne-1-million-royal (même marque, même nom \"1 Million Royal\")"
+ },
+ {
+  "slug": "paco-rabanne-1million-elixir",
+  "raison": "doublon de paco-rabanne-1-million-elixir (même marque, même nom \"1 Million Elixir\")"
+ },
+ {
+  "slug": "paco-rabanne-2010-lady-million-limited",
+  "raison": "doublon de lady-million-paco-rabanne (même marque, même nom \"Lady Million\")"
+ },
+ {
   "slug": "paco-rabanne-black-xs-eau-de",
   "raison": "doublon de paco-rabanne-black-xs-for-her (même marque, même nom \"Black XS for Her\")"
+ },
+ {
+  "slug": "paco-rabanne-black-xs-l-exces",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "paco-rabanne-eau-de-parfum-extreme",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "paco-rabanne-fame-edp-pink",
+  "raison": "doublon probable de paco-rabanne-fame-blooming-pink"
+ },
+ {
+  "slug": "paco-rabanne-fame-in-love",
+  "raison": "doublon probable de paco-rabanne-fame-in-love"
+ },
+ {
+  "slug": "paco-rabanne-invictus-victory-absolu",
+  "raison": "doublon probable de paco-rabanne-invictus-victory-absolu"
  },
  {
   "slug": "paco-rabanne-invictus-victory-elixir",
@@ -580,12 +732,32 @@
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
+  "slug": "paco-rabanne-olympea-blossom-edp",
+  "raison": "doublon probable de paco-rabanne-olympea-blossom"
+ },
+ {
+  "slug": "paco-rabanne-olympea-solar-intense-80",
+  "raison": "doublon de paco-rabanne-olympea-solar (même marque, même nom \"Olympéa Solar\")"
+ },
+ {
+  "slug": "paco-rabanne-one-million-night-elixir",
+  "raison": "doublon de paco-rabanne-1-million-night-elixir (même marque, même nom \"1 Million Night Elixir\")"
+ },
+ {
   "slug": "paco-rabanne-phantom-elixir",
   "raison": "confiance basse"
  },
  {
+  "slug": "paco-rabanne-phantom-legion-the-collector",
+  "raison": "doublon probable de paco-rabanne-phantom-legion"
+ },
+ {
   "slug": "paco-rabanne-ultra-violet-man-eau",
   "raison": "doublon de paco-rabanne-ultraviolet-man (même marque, même nom \"Ultraviolet Man\")"
+ },
+ {
+  "slug": "paco-rabanne-xs-excess",
+  "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "rochas-girl",
@@ -634,5 +806,65 @@
  {
   "slug": "xerjoff-torino-21",
   "raison": "doublon de xerjoff-torino21 (même marque, même nom \"Torino21\")"
+ },
+ {
+  "slug": "yves-saint-laurent-37-rue-de-2",
+  "raison": "doublon de ysl-37-rue-de-bellechasse (même marque, même nom \"37 Rue de Bellechasse\")"
+ },
+ {
+  "slug": "yves-saint-laurent-cinema-ancien-patch",
+  "raison": "doublon de ysl-cinema (même marque, même nom \"Cinéma\")"
+ },
+ {
+  "slug": "yves-saint-laurent-iced-cologne-eau",
+  "raison": "doublon de ysl-y-iced-cologne (même marque, même nom \"Y Iced Cologne\")"
+ },
+ {
+  "slug": "yves-saint-laurent-libre-berry-crush-2",
+  "raison": "doublon de ysl-libre-berry-crush (même marque, même nom \"Libre Berry Crush\")"
+ },
+ {
+  "slug": "yves-saint-laurent-libre-flowers-flames-2",
+  "raison": "doublon de ysl-libre-flowers-flames (même marque, même nom \"Libre Flowers & Flames\")"
+ },
+ {
+  "slug": "yves-saint-laurent-prive-37-rue",
+  "raison": "doublon de ysl-37-rue-de-bellechasse (même marque, même nom \"37 Rue de Bellechasse\")"
+ },
+ {
+  "slug": "yves-saint-laurent-prive-lavalliere-accord",
+  "raison": "doublon probable de ysl-lavalliere"
+ },
+ {
+  "slug": "yves-saint-laurent-prive-saharienne-sultry",
+  "raison": "doublon de ysl-saharienne (même marque, même nom \"Saharienne\")"
+ },
+ {
+  "slug": "yves-saint-laurent-prive-supreme-bouquet",
+  "raison": "doublon de ysl-supreme-bouquet (même marque, même nom \"Supreme Bouquet\")"
+ },
+ {
+  "slug": "yves-saint-laurent-rocher-eau-fraiche",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "yves-saint-laurent-rocher-sable-fauve",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "yves-saint-laurent-ruebroca-pride-eau",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "yves-saint-laurent-supreme-bouquet-collection",
+  "raison": "doublon de ysl-supreme-bouquet (même marque, même nom \"Supreme Bouquet\")"
+ },
+ {
+  "slug": "yves-saint-laurent-ysl-libre-flower",
+  "raison": "doublon de ysl-libre-flowers-flames (même marque, même nom \"Libre Flowers & Flames\")"
+ },
+ {
+  "slug": "yves-saint-laurent-ysl-y-live",
+  "raison": "doublon probable de ysl-y-live"
  }
 ]

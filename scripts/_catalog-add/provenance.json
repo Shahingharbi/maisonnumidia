@@ -5143,5 +5143,873 @@
   "fragranticaId": 126252,
   "boutiques": 1,
   "slugCandidat": "dior-christian-j-adore-intense-parfum"
+ },
+ {
+  "slug": "carolina-herrera-good-girl-gold-fantasy",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Gold-Fantasy-76675.html",
+  "fragranticaId": 76675,
+  "boutiques": 2,
+  "slugCandidat": "carolina-herrera-good-girl-gold-fantasy"
+ },
+ {
+  "slug": "carolina-herrera-good-girl-bowtastic-edition",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Bowtastic-Edition-111761.html",
+  "fragranticaId": 111761,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-good-girl-new-york"
+ },
+ {
+  "slug": "carolina-herrera-good-girl-sparkling-ice",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Sparkling-Ice-96597.html",
+  "fragranticaId": 96597,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-good-girl-sparkling-ice"
+ },
+ {
+  "slug": "carolina-herrera-neroli-boheme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Neroli-Boheme-31056.html",
+  "fragranticaId": 31056,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-neroli-boheme-edp"
+ },
+ {
+  "slug": "carolina-herrera-vetiver-paradise",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Vetiver-Paradise-45728.html",
+  "fragranticaId": 45728,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-vetiver-paradise-eau-de"
+ },
+ {
+  "slug": "carolina-herrera-virgin-mint",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Virgin-Mint-45727.html",
+  "fragranticaId": 45727,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-virgin-mint-eau-de"
+ },
+ {
+  "slug": "chanel-les-exclusifs-de-1932",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-1932-17388.html",
+  "fragranticaId": 17388,
+  "boutiques": 1,
+  "slugCandidat": "chanel-1932-les-exclusifs-de"
+ },
+ {
+  "slug": "chanel-allure-homme-sport-superleggera",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-Superleggera-95753.html",
+  "fragranticaId": 95753,
+  "boutiques": 1,
+  "slugCandidat": "chanel-allure-homme-sport-superleggera-eau"
+ },
+ {
+  "slug": "chanel-les-exclusifs-de-beige",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Beige-4686.html",
+  "fragranticaId": 4686,
+  "boutiques": 1,
+  "slugCandidat": "chanel-beige-les-exclusifs-de"
+ },
+ {
+  "slug": "chanel-bel-respiro-les-exclusifs-de-chanel",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Bel-Respiro-Eau-de-Parfum-41782.html",
+  "fragranticaId": 41782,
+  "boutiques": 1,
+  "slugCandidat": "chanel-bel-respiro-eau-de-parfum"
+ },
+ {
+  "slug": "chanel-bleu-de-all-over-spray",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-All-Over-Spray-67790.html",
+  "fragranticaId": 67790,
+  "boutiques": 1,
+  "slugCandidat": "chanel-bleu-de-all-over-spray"
+ },
+ {
+  "slug": "chanel-egoiste-platinum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Egoiste-Platinum-614.html",
+  "fragranticaId": 614,
+  "boutiques": 1,
+  "slugCandidat": "chanel-egoiste-platinum-eau-de-toilette"
+ },
+ {
+  "slug": "chanel-le-lion-les-exclusifs-de-chanel",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Le-Lion-Eau-de-Parfum-61036.html",
+  "fragranticaId": 61036,
+  "boutiques": 1,
+  "slugCandidat": "chanel-le-lion-de-les-exclusifs"
+ },
+ {
+  "slug": "chanel-n-19-poudre",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Poudre-12424.html",
+  "fragranticaId": 12424,
+  "boutiques": 1,
+  "slugCandidat": "chanel-n-19-poudre-eau-de"
+ },
+ {
+  "slug": "dior-j-adore-l-absolu",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/J-Adore-L-Absolu-4496.html",
+  "fragranticaId": 4496,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-j-adore-l-absolu"
+ },
+ {
+  "slug": "dior-la-colle-noire",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/La-Colle-Noire-38153.html",
+  "fragranticaId": 38153,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-la-colle-noire"
+ },
+ {
+  "slug": "dior-rouge-trafalgar-esprit-de-parfum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Rouge-Trafalgar-Esprit-De-Parfum-95983.html",
+  "fragranticaId": 95983,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-rouge-trafalgar-esprit-de"
+ },
+ {
+  "slug": "dior-spice-blend",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Spice-Blend-56055.html",
+  "fragranticaId": 56055,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-spice-blend"
+ },
+ {
+  "slug": "dior-balade-sauvage",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Balade-Sauvage-48398.html",
+  "fragranticaId": 48398,
+  "boutiques": 1,
+  "slugCandidat": "dior-collection-privee-balade-sauvage-eau"
+ },
+ {
+  "slug": "dior-poison",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Poison-218.html",
+  "fragranticaId": 218,
+  "boutiques": 1,
+  "slugCandidat": "dior-cristian-poison"
+ },
+ {
+  "slug": "dior-diorissimo-les-creations-de-monsieur-eau",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Les-Creations-de-Monsieur-Dior-Diorissimo-Eau-de-Parfum-7370.html",
+  "fragranticaId": 7370,
+  "boutiques": 1,
+  "slugCandidat": "dior-diorissime-eau-de-parfum-femme"
+ },
+ {
+  "slug": "dior-eau-sauvage-cologne",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Eau-Sauvage-Cologne-30854.html",
+  "fragranticaId": 30854,
+  "boutiques": 1,
+  "slugCandidat": "dior-eau-sauvage-cologne"
+ },
+ {
+  "slug": "dior-eau-sauvage-parfum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Eau-Sauvage-Parfum-2017-43977.html",
+  "fragranticaId": 43977,
+  "boutiques": 1,
+  "slugCandidat": "dior-eau-sauvage-parfume"
+ },
+ {
+  "slug": "dior-escale-a-portofino",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Cruise-Collection-Escale-a-Portofino-3291.html",
+  "fragranticaId": 3291,
+  "boutiques": 1,
+  "slugCandidat": "dior-escale-a-portofino-eau-de"
+ },
+ {
+  "slug": "dior-feve-delicieuse",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Feve-Delicieuse-2018-48392.html",
+  "fragranticaId": 48392,
+  "boutiques": 1,
+  "slugCandidat": "dior-feve-delicieuse-by-eau-de"
+ },
+ {
+  "slug": "dior-gris",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Gris-Dior-48387.html",
+  "fragranticaId": 48387,
+  "boutiques": 1,
+  "slugCandidat": "dior-gris-eau-de-parfum-mixte"
+ },
+ {
+  "slug": "dior-holy-peony",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Holy-Peony-53124.html",
+  "fragranticaId": 53124,
+  "boutiques": 1,
+  "slugCandidat": "dior-holy-peony-eau-de-parfum"
+ },
+ {
+  "slug": "dior-j-adore-in-joy",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/J-Adore-In-Joy-43704.html",
+  "fragranticaId": 43704,
+  "boutiques": 1,
+  "slugCandidat": "dior-j-ador-in-joy-edp"
+ },
+ {
+  "slug": "dior-lucky",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Lucky-48385.html",
+  "fragranticaId": 48385,
+  "boutiques": 1,
+  "slugCandidat": "dior-lucky-edp"
+ },
+ {
+  "slug": "dior-oud-rosewood",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Oud-Rosewood-60318.html",
+  "fragranticaId": 60318,
+  "boutiques": 1,
+  "slugCandidat": "dior-oud-rosewood-edp"
+ },
+ {
+  "slug": "dior-paradise",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Dior-Paradise-132884.html",
+  "fragranticaId": 132884,
+  "boutiques": 1,
+  "slugCandidat": "dior-paradise"
+ },
+ {
+  "slug": "dior-bois-d-argent-esprit-de-parfum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Bois-d-Argent-Esprit-de-Parfum-108727.html",
+  "fragranticaId": 108727,
+  "boutiques": 1,
+  "slugCandidat": "dior-prive-2025-bois-d-argent"
+ },
+ {
+  "slug": "dior-ambre-nuit",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Ambre-Nuit-48395.html",
+  "fragranticaId": 48395,
+  "boutiques": 1,
+  "slugCandidat": "dior-prive-ambre-nuit-eau-de"
+ },
+ {
+  "slug": "dior-patchouli-imperial",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Patchouli-Imperial-48381.html",
+  "fragranticaId": 48381,
+  "boutiques": 1,
+  "slugCandidat": "dior-prive-patchouli-imperial-eau-de"
+ },
+ {
+  "slug": "dior-sakura",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Sakura-48379.html",
+  "fragranticaId": 48379,
+  "boutiques": 1,
+  "slugCandidat": "dior-prive-sakura-eau-de-parfum"
+ },
+ {
+  "slug": "dior-vanilla-diorama",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Vanilla-Diorama-68198.html",
+  "fragranticaId": 68198,
+  "boutiques": 1,
+  "slugCandidat": "dior-prive-vanilla-diorama-eau-de"
+ },
+ {
+  "slug": "dior-purple-oud",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Purple-Oud-48376.html",
+  "fragranticaId": 48376,
+  "boutiques": 1,
+  "slugCandidat": "dior-purple-oud-de"
+ },
+ {
+  "slug": "dolce-gabbana-blue-jasmine",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Blue-Jasmine-90660.html",
+  "fragranticaId": 90660,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-blue-jasmine"
+ },
+ {
+  "slug": "dolce-gabbana-d-g-anthology-la-force-11",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/D-G-Anthology-La-Force-11-6842.html",
+  "fragranticaId": 6842,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-d-g-anthology-la"
+ },
+ {
+  "slug": "dolce-gabbana-d-g-anthology-le-bateleur-1",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/D-G-Anthology-Le-Bateleur-1-6085.html",
+  "fragranticaId": 6085,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-d-g-anthology-le"
+ },
+ {
+  "slug": "dolce-gabbana-light-blue-forever",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Forever-66555.html",
+  "fragranticaId": 66555,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-d-g-light-bleu"
+ },
+ {
+  "slug": "dolce-gabbana-q",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Q-by-Dolce-Gabbana-78873.html",
+  "fragranticaId": 78873,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-d-g-queen-eau"
+ },
+ {
+  "slug": "dolce-gabbana-rosa-excelsa",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Rosa-Excelsa-32612.html",
+  "fragranticaId": 32612,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-d-g-rosa-excelsa"
+ },
+ {
+  "slug": "dolce-gabbana-dgvib3",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/DGVIB3-Eau-de-Parfum-87434.html",
+  "fragranticaId": 87434,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-dgvib3-edp"
+ },
+ {
+  "slug": "dolce-gabbana-l-imperatrice-royale",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/L-Imperatrice-Royale-102672.html",
+  "fragranticaId": 102672,
+  "boutiques": 2,
+  "slugCandidat": "dolce-gabbana-l-imperatrice-royale-edt"
+ },
+ {
+  "slug": "dolce-gabbana-light-blue-escape-to-panarea",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Escape-to-Panarea-23620.html",
+  "fragranticaId": 23620,
+  "boutiques": 2,
+  "slugCandidat": "dolce-gabbana-light-blue-escape-to"
+ },
+ {
+  "slug": "dolce-gabbana-magnolia",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Magnolia-126394.html",
+  "fragranticaId": 126394,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-magnolia"
+ },
+ {
+  "slug": "dolce-gabbana-q-parfum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Q-by-Dolce-Gabbana-Parfum-103330.html",
+  "fragranticaId": 103330,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-queen-by-parfum"
+ },
+ {
+  "slug": "dolce-gabbana-q-elixir",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Q-by-Dolce-Gabbana-Elixir-125737.html",
+  "fragranticaId": 125737,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-queen-elixir-by"
+ },
+ {
+  "slug": "dolce-gabbana-rose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Rose-64693.html",
+  "fragranticaId": 64693,
+  "boutiques": 2,
+  "slugCandidat": "dolce-gabbana-rose-eau-de-toilette"
+ },
+ {
+  "slug": "dolce-gabbana-shine",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Shine-59129.html",
+  "fragranticaId": 59129,
+  "boutiques": 2,
+  "slugCandidat": "dolce-gabbana-shine"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-desire",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Desire-17124.html",
+  "fragranticaId": 17124,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-the-one-desire"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Eau-de-Parfum-Intense-121010.html",
+  "fragranticaId": 121010,
+  "boutiques": 2,
+  "slugCandidat": "dolce-gabbana-the-one-eau-de"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-grey",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Grey-50611.html",
+  "fragranticaId": 50611,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-the-one-grey-eau"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-lace-edition",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Lace-Edition-13498.html",
+  "fragranticaId": 13498,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-the-one-lace-edition"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-pour-homme-parfum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Pour-Homme-Parfum-121009.html",
+  "fragranticaId": 121009,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-the-one-pour-homme"
+ },
+ {
+  "slug": "dolce-gabbana-the-one-royal-night",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-Royal-Night-33180.html",
+  "fragranticaId": 33180,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-the-one-royal-night"
+ },
+ {
+  "slug": "dolce-gabbana-velvet-amber-sun",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Amber-Sun-46199.html",
+  "fragranticaId": 46199,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-velvet-amber-sun"
+ },
+ {
+  "slug": "dolce-gabbana-velvet-blue-musk",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Blue-Musk-85511.html",
+  "fragranticaId": 85511,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-velvet-blue-musk-edp"
+ },
+ {
+  "slug": "dolce-gabbana-velvet-mimosa-bloom",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Mimosa-Bloom-31356.html",
+  "fragranticaId": 31356,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-velvet-mimosa-bloom-edp"
+ },
+ {
+  "slug": "dolce-gabbana-velvet-rose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Rose-25153.html",
+  "fragranticaId": 25153,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-velvet-rose-edp"
+ },
+ {
+  "slug": "dolce-gabbana-velvet-sicily",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Sicily-51464.html",
+  "fragranticaId": 51464,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-velvet-sicily-edp"
+ },
+ {
+  "slug": "dolce-gabbana-velvet-wood",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Velvet-Wood-13743.html",
+  "fragranticaId": 13743,
+  "boutiques": 1,
+  "slugCandidat": "dolce-gabbana-velvet-wood-edp"
+ },
+ {
+  "slug": "gucci-a-song-for-the-rose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/A-Song-For-The-Rose-Eau-de-Parfum-53087.html",
+  "fragranticaId": 53087,
+  "boutiques": 1,
+  "slugCandidat": "gucci-a-song-for-the-rose"
+ },
+ {
+  "slug": "gucci-bloom-ambrosia-d-oro",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Bloom-Ambrosia-d-Oro-124141.html",
+  "fragranticaId": 124141,
+  "boutiques": 1,
+  "slugCandidat": "gucci-bloom-ambrosia-d-oro-edp"
+ },
+ {
+  "slug": "gucci-bloom-nettare-di-fiori",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Gucci-Bloom-Nettare-Di-Fiori-50572.html",
+  "fragranticaId": 50572,
+  "boutiques": 1,
+  "slugCandidat": "gucci-bloom-nettare-di-fiori"
+ },
+ {
+  "slug": "gucci-fading-autumn-scented-water",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Fading-Autumn-Scented-Water-53094.html",
+  "fragranticaId": 53094,
+  "boutiques": 1,
+  "slugCandidat": "gucci-fading-autumn-woods-acqua-profumata"
+ },
+ {
+  "slug": "gucci-flora-gorgeous-orchid",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Flora-Gorgeous-Orchid-94979.html",
+  "fragranticaId": 94979,
+  "boutiques": 1,
+  "slugCandidat": "gucci-flora-gorgeous-orchid-eau-de"
+ },
+ {
+  "slug": "gucci-flora-gorgeous-orchid-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Flora-Gorgeous-Orchid-Intense-136128.html",
+  "fragranticaId": 136128,
+  "boutiques": 1,
+  "slugCandidat": "gucci-flora-gorgeous-orchid-intense"
+ },
+ {
+  "slug": "gucci-flora",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Flora-by-Gucci-Eau-de-Parfum-7610.html",
+  "fragranticaId": 7610,
+  "boutiques": 2,
+  "slugCandidat": "gucci-flora"
+ },
+ {
+  "slug": "gucci-guilty-absolu-de-parfum-pour-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Absolu-de-Parfum-Pour-Homme-109086.html",
+  "fragranticaId": 109086,
+  "boutiques": 1,
+  "slugCandidat": "gucci-guilty-absolu-de-parfum-pour-2"
+ },
+ {
+  "slug": "gucci-guilty-elixir-de-parfum-pour-femme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Elixir-de-Parfum-pour-Femme-84546.html",
+  "fragranticaId": 84546,
+  "boutiques": 1,
+  "slugCandidat": "gucci-guilty-elixir-de-parfum-pour"
+ },
+ {
+  "slug": "gucci-guilty-love-edition-mmxxi-pour-femme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Guilty-Love-Edition-MMXXI-pour-Femme-64360.html",
+  "fragranticaId": 64360,
+  "boutiques": 1,
+  "slugCandidat": "gucci-guilty-love-edition-mmxxi-pour"
+ },
+ {
+  "slug": "gucci-guilty-oud",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Oud-50012.html",
+  "fragranticaId": 50012,
+  "boutiques": 1,
+  "slugCandidat": "gucci-guilty-oud"
+ },
+ {
+  "slug": "gucci-hortus-sanitatis",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Hortus-Sanitatis-59838.html",
+  "fragranticaId": 59838,
+  "boutiques": 1,
+  "slugCandidat": "gucci-hortus-sanitatis-edp"
+ },
+ {
+  "slug": "gucci-lignum-idealis",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/Lignum-Idealis-121533.html",
+  "fragranticaId": 121533,
+  "boutiques": 1,
+  "slugCandidat": "gucci-lignum-idealis-eau-de-parfum"
+ },
+ {
+  "slug": "gucci-a-gloaming-night",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/A-Gloaming-Night-69736.html",
+  "fragranticaId": 69736,
+  "boutiques": 1,
+  "slugCandidat": "gucci-prive-a-gloaming-night-eau"
+ },
+ {
+  "slug": "gucci-a-midnight-stroll",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/A-Midnight-Stroll-60864.html",
+  "fragranticaId": 60864,
+  "boutiques": 1,
+  "slugCandidat": "gucci-prive-a-midnight-stroll-eau"
+ },
+ {
+  "slug": "gucci-the-virgin-violet",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/The-Virgin-Violet-Eau-de-Parfum-53092.html",
+  "fragranticaId": 53092,
+  "boutiques": 1,
+  "slugCandidat": "gucci-prive-the-virgin-violet-violette"
+ },
+ {
+  "slug": "gucci-the-eyes-of-tiger",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/The-Eyes-Of-The-Tiger-Eau-de-Parfum-53093.html",
+  "fragranticaId": 53093,
+  "boutiques": 1,
+  "slugCandidat": "gucci-the-eyes-of-tiger-eau"
+ },
+ {
+  "slug": "gucci-the-last-day-of-summer",
+  "fragrantica": "https://www.fragrantica.com/perfume/Gucci/The-Last-Day-Of-Summer-Eau-de-Parfum-53090.html",
+  "fragranticaId": 53090,
+  "boutiques": 1,
+  "slugCandidat": "gucci-the-last-day-of-summer"
+ },
+ {
+  "slug": "hermes-barenia-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Barenia-Intense-111208.html",
+  "fragranticaId": 111208,
+  "boutiques": 1,
+  "slugCandidat": "hermes-2025-barenia-intense-edp"
+ },
+ {
+  "slug": "hermes-barenia-pleine-fleur",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Barenia-Pleine-Fleur-135912.html",
+  "fragranticaId": 135912,
+  "boutiques": 1,
+  "slugCandidat": "hermes-barenia-pleine-fleur"
+ },
+ {
+  "slug": "hermes-bel-ami-vetiver",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Hermes/Bel-Ami-Vetiver-22616.html",
+  "fragranticaId": 22616,
+  "boutiques": 1,
+  "slugCandidat": "hermes-bel-ami-vetiver-eau-de"
+ },
+ {
+  "slug": "hermes-caleche",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Hermes/Caleche-23.html",
+  "fragranticaId": 23,
+  "boutiques": 1,
+  "slugCandidat": "hermes-caleche"
+ },
+ {
+  "slug": "hermes-concentre-d-orange-verte",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Hermes/Concentre-d-Orange-Verte-4658.html",
+  "fragranticaId": 4658,
+  "boutiques": 1,
+  "slugCandidat": "hermes-concentre-d-orange-verte"
+ },
+ {
+  "slug": "hermes-eau-de-citron-noir",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Hermes/Eau-de-Citron-Noir-49231.html",
+  "fragranticaId": 49231,
+  "boutiques": 1,
+  "slugCandidat": "hermes-eau-de-citron-noir"
+ },
+ {
+  "slug": "hermes-hermessence-iris-ukiyoe",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Hermessence-Iris-Ukiyoe-10514.html",
+  "fragranticaId": 10514,
+  "boutiques": 1,
+  "slugCandidat": "hermes-iris-ukiyoe"
+ },
+ {
+  "slug": "hermes-le-jardin-de-monsieur-li",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Hermes/Le-Jardin-de-Monsieur-Li-29818.html",
+  "fragranticaId": 29818,
+  "boutiques": 1,
+  "slugCandidat": "hermes-le-jardin-de-monsieur-li"
+ },
+ {
+  "slug": "hermes-hermessence-agar-ebene",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Hermessence-Agar-Ebene-48131.html",
+  "fragranticaId": 48131,
+  "boutiques": 1,
+  "slugCandidat": "hermes-parfums-agar-ebene"
+ },
+ {
+  "slug": "hermes-hermessence-poivre-samarcande",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Hermessence-Poivre-Samarcande-2671.html",
+  "fragranticaId": 2671,
+  "boutiques": 1,
+  "slugCandidat": "hermes-prive-hermessence-poivre-samarcande-eau"
+ },
+ {
+  "slug": "hermes-un-jardin-sous-la-mer",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hermes/Un-Jardin-Sous-la-Mer-123604.html",
+  "fragranticaId": 123604,
+  "boutiques": 2,
+  "slugCandidat": "hermes-un-jardin-sous-la-mer"
+ },
+ {
+  "slug": "hermes-un-jardin-sur-la-lagune",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Hermes/Un-Jardin-Sur-La-Lagune-53373.html",
+  "fragranticaId": 53373,
+  "boutiques": 1,
+  "slugCandidat": "hermes-un-jardin-sur-la-lagune"
+ },
+ {
+  "slug": "hugo-boss-bottled-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Intense-Eau-de-Parfum-40468.html",
+  "fragranticaId": 40468,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-2016-bottled-intense-eau"
+ },
+ {
+  "slug": "hugo-boss-bottled-elixir",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Elixir-84074.html",
+  "fragranticaId": 84074,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-2023-bottled-elixir-parfum"
+ },
+ {
+  "slug": "hugo-boss-bottled-pacific",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Pacific-79762.html",
+  "fragranticaId": 79762,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-2023-bottled-pacific-eau"
+ },
+ {
+  "slug": "hugo-boss-bottled-oud",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Oud-31141.html",
+  "fragranticaId": 31141,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-bottled-oud"
+ },
+ {
+  "slug": "hugo-boss-bottled-triumph-elixir",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Triumph-Elixir-91853.html",
+  "fragranticaId": 91853,
+  "boutiques": 2,
+  "slugCandidat": "hugo-boss-bottled-triumph-elixir"
+ },
+ {
+  "slug": "hugo-boss-red",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-Red-17157.html",
+  "fragranticaId": 17157,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-eau-de-toilette-red"
+ },
+ {
+  "slug": "hugo-boss-element",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Element-5243.html",
+  "fragranticaId": 5243,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-element-eau-de-toilette"
+ },
+ {
+  "slug": "hugo-boss-femme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Femme-821.html",
+  "fragranticaId": 821,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-femme-new-packaging-edp"
+ },
+ {
+  "slug": "hugo-boss-jeans-man",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-Jeans-Man-78426.html",
+  "fragranticaId": 78426,
+  "boutiques": 2,
+  "slugCandidat": "hugo-boss-jeans-edt"
+ },
+ {
+  "slug": "hugo-boss-jour-pour-femme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Jour-Pour-Femme-18385.html",
+  "fragranticaId": 18385,
+  "boutiques": 2,
+  "slugCandidat": "hugo-boss-jour-pour-femme-edp"
+ },
+ {
+  "slug": "hugo-boss-selection",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Selection-387.html",
+  "fragranticaId": 387,
+  "boutiques": 2,
+  "slugCandidat": "hugo-boss-selection"
+ },
+ {
+  "slug": "hugo-boss-the-collection-silk-jasmine",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/BOSS-The-Collection-Silk-Jasmine-12260.html",
+  "fragranticaId": 12260,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-the-collection-silk-jasmine"
+ },
+ {
+  "slug": "hugo-boss-the-scent-absolute",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-Absolute-56295.html",
+  "fragranticaId": 56295,
+  "boutiques": 2,
+  "slugCandidat": "hugo-boss-the-scent-absolute"
+ },
+ {
+  "slug": "hugo-boss-the-scent-for-her-magnetic",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-For-Her-Magnetic-78423.html",
+  "fragranticaId": 78423,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-the-scent-magnetic-eau"
+ },
+ {
+  "slug": "hugo-boss-the-scent-for-him-magnetic",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-For-Him-Magnetic-78424.html",
+  "fragranticaId": 78424,
+  "boutiques": 2,
+  "slugCandidat": "hugo-boss-the-scent-magnetic-edp"
+ },
+ {
+  "slug": "hugo-boss-the-scent-pure-accord-for-her",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-Pure-Accord-For-Her-64830.html",
+  "fragranticaId": 64830,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-the-scent-pure-accord"
+ },
+ {
+  "slug": "hugo-boss-x-krink",
+  "fragrantica": "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-x-Krink-120998.html",
+  "fragranticaId": 120998,
+  "boutiques": 1,
+  "slugCandidat": "hugo-boss-x-krink-edp"
+ },
+ {
+  "slug": "jean-paul-gaultier-classique-airlines",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Classique-Eau-de-Parfum-Airlines-60943.html",
+  "fragranticaId": 60943,
+  "boutiques": 1,
+  "slugCandidat": "jean-paul-gaultier-airlines-by-eau"
+ },
+ {
+  "slug": "jean-paul-gaultier-divine",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Gaultier-Divine-83889.html",
+  "fragranticaId": 83889,
+  "boutiques": 1,
+  "slugCandidat": "jean-paul-gaultier-divine-2023-eau"
+ },
+ {
+  "slug": "jean-paul-gaultier-classique-pride-edition-2026",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Classique-Pride-Edition-2026-131277.html",
+  "fragranticaId": 131277,
+  "boutiques": 1,
+  "slugCandidat": "jean-paul-gaultier-jpg-classique-pride"
+ },
+ {
+  "slug": "jean-paul-gaultier-la-cologne-fleur-du-male",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/La-Cologne-Fleur-du-Male-2716.html",
+  "fragranticaId": 2716,
+  "boutiques": 1,
+  "slugCandidat": "jean-paul-gaultier-la-cologne-fleur"
+ },
+ {
+  "slug": "jean-paul-gaultier-le-male-terrible",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Terrible-9502.html",
+  "fragranticaId": 9502,
+  "boutiques": 1,
+  "slugCandidat": "jean-paul-gaultier-le-male-terrible"
+ },
+ {
+  "slug": "jean-paul-gaultier-scandal-elixir",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Elixir-121454.html",
+  "fragranticaId": 121454,
+  "boutiques": 1,
+  "slugCandidat": "jean-paul-gaultier-scandal-elixir-pour"
+ },
+ {
+  "slug": "jean-paul-gaultier-scandal-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Intense-102883.html",
+  "fragranticaId": 102883,
+  "boutiques": 2,
+  "slugCandidat": "jean-paul-gaultier-scandal-intense-femme"
+ },
+ {
+  "slug": "lancome-off-now",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Off-Now-106345.html",
+  "fragranticaId": 106345,
+  "boutiques": 1,
+  "slugCandidat": "lancome-2025-off-now-eau-de"
+ },
+ {
+  "slug": "lancome-over-the-top",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Over-The-Top-106347.html",
+  "fragranticaId": 106347,
+  "boutiques": 1,
+  "slugCandidat": "lancome-2025-over-the-top-eau"
+ },
+ {
+  "slug": "lancome-hypnose-senses",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Hypnose-Senses-6205.html",
+  "fragranticaId": 6205,
+  "boutiques": 1,
+  "slugCandidat": "lancome-hypnose-senses-eau-de-parfum"
+ },
+ {
+  "slug": "lancome-la-nuit-tresor-fleur-de-nuit",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/La-Nuit-Tresor-Fleur-de-Nuit-78579.html",
+  "fragranticaId": 78579,
+  "boutiques": 1,
+  "slugCandidat": "lancome-la-nuit-de-tresor-fleur"
+ },
+ {
+  "slug": "lancome-oud-bouquet",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Oud-Bouquet-Eau-de-Parfum-26776.html",
+  "fragranticaId": 26776,
+  "boutiques": 1,
+  "slugCandidat": "lancome-loncome-maison-oud-bouquet"
+ },
+ {
+  "slug": "lancome-o-de",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/O-de-Lancome-187.html",
+  "fragranticaId": 187,
+  "boutiques": 1,
+  "slugCandidat": "lancome-o-de-eau-toilette"
+ },
+ {
+  "slug": "lancome-tresor-30-years-limited-edition",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lancome/Tresor-30-Years-Limited-Edition-60562.html",
+  "fragranticaId": 60562,
+  "boutiques": 1,
+  "slugCandidat": "lancome-tresor-edition-limitee-eau-de"
  }
 ]
