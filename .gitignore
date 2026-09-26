@@ -62,3 +62,11 @@ scripts/_catalog-audit/*.json
 
 # config locale de l outil de dev
 /.claude/launch.json
+
+# scratch de session : captures d ecran, brouillons, clones de reference, logs d indexation
+/screenshots/
+/design-clone/
+/.tmp_blog_expand/
+/.audit_batch1.jsonl
+/.idx-log-latest.json
+/.scratch_sections.json

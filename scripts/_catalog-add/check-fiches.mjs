@@ -45,19 +45,67 @@ const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques",
   // une note litteralement appelee « Floral » ou « Aromatique ». Ecrire « un floral
   // aromatique » decrit la famille, ca ne revendique aucune note.
   "floral", "aromatique", "accord ambre", "bois ambre", "baume", "cuir boise",
-  "coeur de patchouli", "notes florales blanches", "notes boisees seches"]);
+  "coeur de patchouli", "notes florales blanches", "notes boisees seches",
+  "solaire", "musc boise", "velours"]);
+
+// Deux noms pour la meme matiere. Ecrire « la fumee de l encens » quand la pyramide dit
+// « Oliban » n est pas une invention : c est le meme produit, le francais parfumeur emploie
+// les deux. Idem pour le neroli, qui est la distillation de la fleur d oranger.
+const SYNONYMES = [
+  ["encens", "oliban", "franquincense"],
+  ["neroli", "fleur d oranger", "fleurs d oranger", "oranger", "petit grain"],
+  ["labdanum", "ciste", "ciste labdanum", "ciste-labdanum"],
+  ["pomme verte", "pomme granny smith", "granny smith"],
+  ["mousse de chene", "oakmoss"],
+  ["feve tonka", "tonka"],
+  ["orchidee vanille", "orchidee de vanille"],
+  ["epices fraiches", "epicees fraiches", "epice frais", "epices fraiches"],
+];
+
+// Marqueurs de comparaison, de negation et de famille. Quand l un d eux precede de peu la
+// note signalee, la phrase ne revendique pas cette note : elle s en sert de point de repere
+// (« un agrume plus complexe que le citron »), l ecarte (« sans tomber dans l exces de
+// vanille »), la traduit (« Velvet, qui signifie velours »), ou nomme une famille
+// (« la famille musc boise »). Six fois sur six lors des lots precedents, un recalage de ce
+// genre venait du controle et non du texte — d ou cette fenetre.
+const REPERES = ["que", "qu", "sans", "ni", "rappelle", "rappellent", "evoque", "evoquent",
+  "signifie", "comme", "contrairement", "au lieu", "plutot", "exces", "loin de", "ecarte",
+  "facette", "facettes", "famille", "registre", "profil", "oriental", "orientale",
+  "moins", "davantage", "habituel", "classique", "different", "distingue", "accord"];
+const FENETRE = 48;
 
 const LETTRES = "abcdefghijklmnopqrstuvwxyz0123456789";
-function contientMot(hay, needle) {
+// Renvoie les positions ou `needle` apparait comme un mot entier.
+function positionsMot(hay, needle) {
+  const out = [];
   let i = hay.indexOf(needle);
   while (i !== -1) {
     const avant = i === 0 ? " " : hay[i - 1];
     const apres = hay[i + needle.length] === undefined ? " " : hay[i + needle.length];
-    if (!LETTRES.includes(avant) && !LETTRES.includes(apres)) return true;
+    if (!LETTRES.includes(avant) && !LETTRES.includes(apres)) out.push(i);
     i = hay.indexOf(needle, i + 1);
+  }
+  return out;
+}
+const contientMot = (hay, needle) => positionsMot(hay, needle).length > 0;
+
+// La note est-elle citee au moins une fois SANS marqueur de comparaison devant elle ?
+// C est seulement dans ce cas qu il s agit d une revendication.
+function citeeCommeNote(plat, v) {
+  for (const i of positionsMot(plat, v)) {
+    const amont = plat.slice(Math.max(0, i - FENETRE), i);
+    const motsAmont = amont.split(/[^a-z0-9]+/).filter(Boolean);
+    if (!REPERES.some((r) => motsAmont.includes(r))) return true;
   }
   return false;
 }
+
+// Rapprochements de forme : singulier/pluriel, participe feminin double (« epicee »),
+// et particules (« orchidee DE vanille » contre « Orchidee vanille »).
+const PARTICULES = new Set(["de", "du", "des", "d", "la", "le", "les", "l", "a", "au", "aux", "en"]);
+const sing = (s) => s.split(" ").map((m) => m.replace(/[sx]$/, "").replace(/ee$/, "e")).join(" ");
+const compact = (s) => s.split(" ").filter((m) => !PARTICULES.has(m)).join(" ");
+const formes = (s) => [...new Set([s, sing(s), compact(s), sing(compact(s))])];
 
 const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
 const fiches = JSON.parse(fs.readFileSync("./scripts/_catalog-add/fiches.json", "utf8"));
@@ -105,8 +153,17 @@ for (const f of fiches) {
   // notes : « orange » chez Etat Libre d'Orange, « champagne » dans Yvresse Champagne.
   // Le citer n'est pas revendiquer une note.
   const identite = norm(f.brand + " " + f.name);
-  const couvert = (v) => fiche.some((n) => n === v || n.includes(v) || v.includes(n)) || identite.includes(v);
-  const intruses = [...vocab].filter((v) => !GENERIQUE.has(v) && !couvert(v) && contientMot(plat, v));
+  const fichePlus = fiche.flatMap((n) => {
+    const eq = SYNONYMES.find((g) => g.includes(n));
+    return eq ? [n, ...eq] : [n];
+  }).flatMap(formes);
+  const couvertUne = (v) => fichePlus.some((n) => n === v || n.includes(v) || v.includes(n)) || identite.includes(v);
+  const couvert = (v) => formes(v).some(couvertUne) || (v.startsWith("accord ") && couvertUne(v.slice(7)));
+  // « un accord solaire » decrit la meme chose que la note « Notes solaires » du vocabulaire :
+  // le prefixe « accord » annonce justement qu on parle d une impression, pas d une matiere.
+  const generique = (v) => GENERIQUE.has(v) || GENERIQUE.has(sing(v)) ||
+    (v.startsWith("accord ") && (GENERIQUE.has(v.slice(7)) || GENERIQUE.has(sing(v.slice(7)))));
+  const intruses = [...vocab].filter((v) => !generique(v) && !couvert(v) && citeeCommeNote(plat, v));
   if (intruses.length) pb.push("note hors fiche : " + intruses.slice(0, 4).join(", "));
 
   const acc = norm(f.shortDescription).split(".")[0].trim().slice(0, 40);
