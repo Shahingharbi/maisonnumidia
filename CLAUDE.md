@@ -15,18 +15,20 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Analytics :** GA4 (`G-77YXRM3HBT`) + Microsoft Clarity, dans `app/layout.tsx`
 - **Commandes :** EmailJS côté client (`app/commander/page.tsx`) → boîte du vendeur. Clés dans `.env.local` (local) et Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais coller les vraies valeurs dans ce fichier ni dans un commit.
 
-### État du catalogue (25 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
-- **1 048 produits** dans `data/products.json` (387 homme, 547 femme, 114 oriental)
-- **133 marques** dans `data/products.json.brands[]` — dont quelques-unes sans produit, créées en
-  avance de phase : elles sont exclues de `/marques` et renvoient 404 (`getBrandsWithProducts`)
+### État du catalogue (26 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
+- **1 457 produits** dans `data/products.json` (524 homme, 715 femme, 218 oriental)
+- **150 marques** dans `data/products.json.brands[]` — celles sans produit sont exclues de
+  `/marques` et renvoient 404 (`getBrandsWithProducts`)
 - **36 produits en rupture** (`inStock: false`) : parfums arrêtés ou introuvables, vérifiés un par un
-- **14 articles blog** dans `data/blog.ts` (contenu en **Markdown**, pas HTML — voir section blog plus bas)
+- **14 articles blog** dans `data/blog.ts` (contenu en **Markdown** — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
-- **1 120 images** dans `/public/images/products/` (CDN Fragrantica, ID vérifié fiche par fiche)
 - **0 brandSlug orphelin, 0 related cassé, 0 produit sans image, 0 doublon** (audit règle n°6)
-- Prix : **6 500 DA à 145 000 DA**, médiane ~20 500 DA (voir Règles prix)
-- Descriptions produit : médiane **240 mots** dans le champ `description` (le reste des 600 mots de
-  la page vient de `lib/product-content.ts`)
+- Prix : **6 500 DA à 145 000 DA** (voir Règles prix)
+- Descriptions produit : médiane **233 mots**, aucune en un seul bloc, aucune assemblée à partir
+  de phrases types. 30 pyramides sans découpage publié (Louis Vuitton, Tom Ford) s'affichent en
+  « Notes olfactives ».
+
+**Reprise de l'ajout de produits : `scripts/_catalog-add/REPRENDRE-ICI.md`.**
 
 Avant de citer un chiffre du catalogue dans une réponse, revérifier avec `node -e` — ce fichier est mis à jour ponctuellement, pas à chaque commit produit.
 

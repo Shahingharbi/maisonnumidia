@@ -4779,5 +4779,369 @@
   "fragranticaId": 58274,
   "boutiques": 2,
   "slugCandidat": "yves-saint-laurent-atlas-garden-by"
+ },
+ {
+  "slug": "azzaro-eau-belle-d-azzaro",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Eau-Belle-D-Azzaro-1249.html",
+  "fragranticaId": 1249,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-1995-eau-belle-d-de"
+ },
+ {
+  "slug": "azzaro-chrome-sport",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Chrome-Sport-7938.html",
+  "fragranticaId": 7938,
+  "boutiques": 2,
+  "slugCandidat": "azzaro-chrome-sport"
+ },
+ {
+  "slug": "azzaro-decibel",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Decibel-12434.html",
+  "fragranticaId": 12434,
+  "boutiques": 2,
+  "slugCandidat": "azzaro-decibel-edt"
+ },
+ {
+  "slug": "azzaro-fun",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Fun-54973.html",
+  "fragranticaId": 54973,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-fun"
+ },
+ {
+  "slug": "azzaro-mademoiselle",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Mademoiselle-34192.html",
+  "fragranticaId": 34192,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-mademoiselle-edt"
+ },
+ {
+  "slug": "azzaro-mademoiselle-l-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Mademoiselle-Azzaro-L-Intense-Eau-de-Parfum-69675.html",
+  "fragranticaId": 69675,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-mademoiselle-l-intense-eau-de"
+ },
+ {
+  "slug": "azzaro-now-men",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Azzaro-Now-Men-958.html",
+  "fragranticaId": 958,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-men-now"
+ },
+ {
+  "slug": "azzaro-sea",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Sea-54974.html",
+  "fragranticaId": 54974,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-sea"
+ },
+ {
+  "slug": "azzaro-shine",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Shine-54972.html",
+  "fragranticaId": 54972,
+  "boutiques": 2,
+  "slugCandidat": "azzaro-shine"
+ },
+ {
+  "slug": "azzaro-wanted-girl-tonic",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Wanted-Girl-Tonic-59732.html",
+  "fragranticaId": 59732,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-wanted-girl-tonic-edt"
+ },
+ {
+  "slug": "azzaro-wanted-tonic",
+  "fragrantica": "https://www.fragrantica.com/perfume/Azzaro/Wanted-Tonic-59733.html",
+  "fragranticaId": 59733,
+  "boutiques": 1,
+  "slugCandidat": "azzaro-wanted-tonic-edt"
+ },
+ {
+  "slug": "bvlgari-blv",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Bvlgari/BLV-156.html",
+  "fragranticaId": 156,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-blv-pour-femme-edp"
+ },
+ {
+  "slug": "bvlgari-blv-pour-homme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/BLV-Pour-Homme-148.html",
+  "fragranticaId": 148,
+  "boutiques": 2,
+  "slugCandidat": "bvlgari-blv-pour-homme-edt"
+ },
+ {
+  "slug": "bvlgari-eau-parfumee-au-the-noir",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/Eau-Parfumee-au-The-Noir-31400.html",
+  "fragranticaId": 31400,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-eau-parfumee-au-the-noir"
+ },
+ {
+  "slug": "bvlgari-le-gemme-azaran",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/Azaran-66122.html",
+  "fragranticaId": 66122,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-le-gemme-azaran"
+ },
+ {
+  "slug": "bvlgari-le-gemme-empyr",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Bvlgari/Le-Gemme-Empyr-69493.html",
+  "fragranticaId": 69493,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-le-gemme-empyr"
+ },
+ {
+  "slug": "bvlgari-man-extreme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/Bvlgari-Man-Extreme-17373.html",
+  "fragranticaId": 17373,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-man-extreme-edp-intense"
+ },
+ {
+  "slug": "bvlgari-man-glacial-essence",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/Bvlgari-Man-Glacial-Essence-62569.html",
+  "fragranticaId": 62569,
+  "boutiques": 2,
+  "slugCandidat": "bvlgari-man-glacial-essence-edp"
+ },
+ {
+  "slug": "bvlgari-man-rain-essence",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Bvlgari/Bvlgari-Man-Rain-Essence-79335.html",
+  "fragranticaId": 79335,
+  "boutiques": 2,
+  "slugCandidat": "bvlgari-man-rain-essence-edp"
+ },
+ {
+  "slug": "bvlgari-rose-goldea-blossom-delight",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/Rose-Goldea-Blossom-Delight-55754.html",
+  "fragranticaId": 55754,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-rose-goldea-blossom-delight-eau"
+ },
+ {
+  "slug": "bvlgari-splendida-iris-d-or",
+  "fragrantica": "https://www.fragrantica.com/perfume/Bvlgari/Splendida-Iris-d-Or-43950.html",
+  "fragranticaId": 43950,
+  "boutiques": 1,
+  "slugCandidat": "bvlgari-splendida-iris-d-or"
+ },
+ {
+  "slug": "bvlgari-splendida-patchouli-tentation",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Bvlgari/Splendida-Patchouli-Tentation-60779.html",
+  "fragranticaId": 60779,
+  "boutiques": 2,
+  "slugCandidat": "bvlgari-splendida-patchouli-tentation"
+ },
+ {
+  "slug": "carolina-herrera-212-heroes-forever-young",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-Forever-Young-72453.html",
+  "fragranticaId": 72453,
+  "boutiques": 2,
+  "slugCandidat": "carolina-herrera-212-heroes-for-her"
+ },
+ {
+  "slug": "carolina-herrera-212-men-summer",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-Summer-17474.html",
+  "fragranticaId": 17474,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-212-men-summer-limited"
+ },
+ {
+  "slug": "carolina-herrera-212-vip-rose-elixir",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Carolina-Herrera/212-VIP-Rose-Elixir-91736.html",
+  "fragranticaId": 91736,
+  "boutiques": 2,
+  "slugCandidat": "carolina-herrera-212-vip-rose-elixir"
+ },
+ {
+  "slug": "carolina-herrera-bad-boy-dazzling-garden",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Dazzling-Garden-84050.html",
+  "fragranticaId": 84050,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-bad-boy-dazzling-garden"
+ },
+ {
+  "slug": "carolina-herrera-bad-boy-extreme",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Extreme-78562.html",
+  "fragranticaId": 78562,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-bad-boy-extreme-edp"
+ },
+ {
+  "slug": "carolina-herrera-bad-boy-gold-fantasy",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Gold-Fantasy-76365.html",
+  "fragranticaId": 76365,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-bad-boy-gold-fantasy"
+ },
+ {
+  "slug": "carolina-herrera-bergamot-bloom",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bergamot-Bloom-45724.html",
+  "fragranticaId": 45724,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-bergamot-bloom-eau-de"
+ },
+ {
+  "slug": "carolina-herrera-ch-insignia-men",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Insignia-Men-50015.html",
+  "fragranticaId": 50015,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-ch-insignia-eau-de"
+ },
+ {
+  "slug": "carolina-herrera-iris-empire",
+  "fragrantica": "https://www.fragrantica.fr/parfum/Iris-Empire-62790",
+  "fragranticaId": 62790,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-ch-iris-empire-edp"
+ },
+ {
+  "slug": "carolina-herrera-ch-men-wild-love",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Men-Wild-Love-105410.html",
+  "fragranticaId": 105410,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-ch-men-wild-love"
+ },
+ {
+  "slug": "carolina-herrera-ch-pasion-for-her",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Pasion-for-Her-78640.html",
+  "fragranticaId": 78640,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-ch-passion-for-her"
+ },
+ {
+  "slug": "carolina-herrera-platinum-leather",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Platinum-Leather-50678.html",
+  "fragranticaId": 50678,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-collection-prive-platinum-leather"
+ },
+ {
+  "slug": "carolina-herrera-saffron-lazuli",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Saffron-Lazuli-59562.html",
+  "fragranticaId": 59562,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-collection-prive-saffron-lazuli"
+ },
+ {
+  "slug": "carolina-herrera-tuberose",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Herrera-Tuberose-31052.html",
+  "fragranticaId": 31052,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-collection-prive-tuberose-eau"
+ },
+ {
+  "slug": "carolina-herrera-gold-incense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Gold-Incense-43642.html",
+  "fragranticaId": 43642,
+  "boutiques": 1,
+  "slugCandidat": "carolina-herrera-gold-incense-edp"
+ },
+ {
+  "slug": "carolina-herrera-good-girl-fantastic-pink",
+  "fragrantica": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Fantastic-Pink-58923.html",
+  "fragranticaId": 58923,
+  "boutiques": 2,
+  "slugCandidat": "carolina-herrera-good-girl-fantastic-pink"
+ },
+ {
+  "slug": "chanel-coco-mademoiselle-crush-absolu",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Crush-Absolu-137506.html",
+  "fragranticaId": 137506,
+  "boutiques": 1,
+  "slugCandidat": "chanel-paris-coco-mademoiselle-crush-absolu"
+ },
+ {
+  "slug": "chanel-coco-mademoiselle-l-eau-privee",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-L-Eau-Privee-62194.html",
+  "fragranticaId": 62194,
+  "boutiques": 1,
+  "slugCandidat": "chanel-paris-coco-mademoiselle-l-eau"
+ },
+ {
+  "slug": "chanel-pour-monsieur",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Pour-Monsieur-Eau-de-Parfum-43001.html",
+  "fragranticaId": 43001,
+  "boutiques": 1,
+  "slugCandidat": "chanel-pour-monsieur-eau-de-parfum"
+ },
+ {
+  "slug": "chanel-comete-les-exclusifs-de-chanel",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Comete-90434.html",
+  "fragranticaId": 90434,
+  "boutiques": 1,
+  "slugCandidat": "chanel-prive-comete-les-exclusifs-de"
+ },
+ {
+  "slug": "chanel-sycomore-les-exclusifs-de-chanel",
+  "fragrantica": "https://www.fragrantica.com/perfume/Chanel/Sycomore-Eau-de-Parfum-41780.html",
+  "fragranticaId": 41780,
+  "boutiques": 1,
+  "slugCandidat": "chanel-prive-sycomore-les-exclusifs-de"
+ },
+ {
+  "slug": "dior-addict-eau-delice",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Dior-Addict-Eau-Delice-18123.html",
+  "fragranticaId": 18123,
+  "boutiques": 1,
+  "slugCandidat": "dior-addict-eau-delice-de-toilette"
+ },
+ {
+  "slug": "dior-addict-eau-fraiche-2014",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Dior-Addict-Eau-Fraiche-2014-25611.html",
+  "fragranticaId": 25611,
+  "boutiques": 1,
+  "slugCandidat": "dior-addict-eau-fraiche-edt"
+ },
+ {
+  "slug": "dior-addict-rosy-glow",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Addict-Rosy-Glow-Eau-de-Parfum-121567.html",
+  "fragranticaId": 121567,
+  "boutiques": 1,
+  "slugCandidat": "dior-addict-rosy-glow"
+ },
+ {
+  "slug": "dior-les-creations-de-monsieur-diorama",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Les-Creations-de-Monsieur-Dior-Diorama-10408.html",
+  "fragranticaId": 10408,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-diorama-eau-de-toilette"
+ },
+ {
+  "slug": "dior-dioriviera",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Dioriviera-81847.html",
+  "fragranticaId": 81847,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-dioriviera"
+ },
+ {
+  "slug": "dior-homme-sport-very-cool-spray",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Dior-Homme-Sport-Very-Cool-Spray-48208.html",
+  "fragranticaId": 48208,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-eau-de-toilette-homme"
+ },
+ {
+  "slug": "dior-eau-noire",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/Eau-Noire-1378.html",
+  "fragranticaId": 1378,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-eau-noire-de-parfum"
+ },
+ {
+  "slug": "dior-j-adore-absolu",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/J-Adore-Absolu-51818.html",
+  "fragranticaId": 51818,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-j-adore-absolu"
+ },
+ {
+  "slug": "dior-j-adore-intense",
+  "fragrantica": "https://www.fragrantica.com/perfume/Dior/J-adore-Intense-126252.html",
+  "fragranticaId": 126252,
+  "boutiques": 1,
+  "slugCandidat": "dior-christian-j-adore-intense-parfum"
  }
 ]
