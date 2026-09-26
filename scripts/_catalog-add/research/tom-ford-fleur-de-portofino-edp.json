@@ -1,0 +1,23 @@
+{
+  "slug": "tom-ford-fleur-de-portofino-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Tom-Ford/Fleur-de-Portofino-30677.html",
+    "id": 30677,
+    "nomOfficiel": "Fleur de Portofino",
+    "marqueOfficielle": "Tom Ford",
+    "genre": "unisexe",
+    "annee": 2015
+  },
+  "notes": {
+    "top": ["Bergamote", "Mandarine", "Oranger des Caraibes", "Citron de Sicile", "Feuille d'oranger", "Feuille de violette"],
+    "heart": ["Robinier", "Jasmin", "Magnolia", "Fleur d'oranger", "Osmanthus", "Rose du Maroc"],
+    "base": ["Miel de robinier", "Ambrette", "Civette", "Vanille", "Baume de tolu", "Labdanum"]
+  },
+  "famille": "Floral Fruite",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Ne pas confondre avec Fleur de Portofino Acqua (2019, version plus legere, ID 55658) : le candidat ne mentionne pas 'Acqua', donc version originale 2015 (ID 30677).",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

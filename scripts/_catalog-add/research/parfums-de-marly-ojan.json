@@ -1,0 +1,23 @@
+{
+ "slug": "parfums-de-marly-ojan",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Oajan-21548.html",
+  "id": 21548,
+  "nomOfficiel": "Oajan",
+  "marqueOfficielle": "Parfums de Marly",
+  "genre": "unisexe",
+  "annee": 2013
+ },
+ "notes": {
+  "top": ["Miel", "Osmanthus", "Cannelle"],
+  "heart": ["Armoise", "Labdanum", "Ambre gris", "Benjoin"],
+  "base": ["Vanille", "Patchouli", "Musc", "Fève tonka"]
+ },
+ "famille": "Oriental Gourmand",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Nom exact Fragrantica : 'Oajan' (collection Royal Essence) — la boutique/le candidat orthographient 'OJAN' (sans le second 'a'). Corriger le nom officiel lors de l'ajout. Vendu en 125 ml.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "nishane-ege",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Nishane/EGE-AIGAIO-64092.html",
+  "id": 64092,
+  "nomOfficiel": "EGE / ΑΙΓΑΙΟ",
+  "marqueOfficielle": "Nishane",
+  "genre": "unisexe",
+  "annee": 2020
+ },
+ "notes": {
+  "top": ["Yuzu", "Feuille de Violette"],
+  "heart": ["Anis", "Basilic", "Menthe"],
+  "base": []
+ },
+ "famille": "Aromatique Épicé",
+ "concentrationConfirmee": "Extrait de Parfum",
+ "volumeExiste": true,
+ "remarque": "Pyramide non structurée clairement en top/coeur/fond par la source (description olfactive continue) ; notes reconstituées prudemment à partir de la description, pas de notes de fond confirmées.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

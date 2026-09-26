@@ -1,0 +1,23 @@
+{
+ "slug": "bvlgari-falkar-edp",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Bvlgari/Falkar-53560.html",
+  "id": 53560,
+  "nomOfficiel": "Falkar",
+  "marqueOfficielle": "Bvlgari",
+  "genre": "homme",
+  "annee": 2019
+ },
+ "notes": {
+  "top": ["Noix de muscade", "Cannelle"],
+  "heart": ["Cypriol (Nagarmotha)", "Oliban"],
+  "base": ["Oud", "Musc noir", "Safran"]
+ },
+ "famille": "Boisé Oriental",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": false,
+ "remarque": "Le champ volume du candidat indique 100 ml, mais la source (odorem-dz.com/produit/bvlgari-falkar-125ml-edp/) et le site officiel Bvlgari donnent 125 ml comme format réel — probable erreur d'extraction, à corriger en 125 ml si ajouté.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

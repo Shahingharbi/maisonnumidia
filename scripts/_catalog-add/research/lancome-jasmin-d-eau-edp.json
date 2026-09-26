@@ -1,0 +1,23 @@
+{
+  "slug": "lancome-jasmin-d-eau-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Lancome/Jasmin-D-eau-65828.html",
+    "id": 65828,
+    "nomOfficiel": "Jasmin d'Eau",
+    "marqueOfficielle": "Lancome",
+    "genre": "femme",
+    "annee": 2021
+  },
+  "notes": {
+    "top": ["Bergamote", "Fleur de prunier"],
+    "heart": ["Jasmin", "The de jasmin", "The"],
+    "base": ["Peche blanche"]
+  },
+  "famille": "Floral",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Repartition top/heart/base approximative : le resume Fragrantica liste les notes (Jasmin, The de jasmin, The, Peche blanche, Bergamote, Fleur de prunier) sans pyramide clairement segmentee.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

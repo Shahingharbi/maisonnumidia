@@ -1,0 +1,23 @@
+{
+  "slug": "acqua-di-parma-ambra-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Ambra-Eau-de-Parfum-56000.html",
+    "id": 56000,
+    "nomOfficiel": "Ambra Eau de Parfum",
+    "marqueOfficielle": "Acqua di Parma",
+    "genre": "unisexe",
+    "annee": 2019
+  },
+  "notes": {
+    "top": ["Orange", "Petitgrain", "Bergamote de Calabre"],
+    "heart": ["Cedre", "Rose", "Nagarmotha", "Patchouli"],
+    "base": ["Ambre gris", "Santal", "Musc", "Labdanum", "Vanille"]
+  },
+  "famille": "Boise Aromatique",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Ne pas confondre avec Colonia Ambra (cologne homme 2015, ID 30427) : le candidat precise EDP, ce qui correspond a Ambra Eau de Parfum (2019, unisexe, ID 56000).",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

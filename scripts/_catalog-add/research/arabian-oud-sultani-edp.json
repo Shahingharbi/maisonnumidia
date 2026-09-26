@@ -1,0 +1,23 @@
+{
+ "slug": "arabian-oud-sultani-edp",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Arabian-Oud/Sultani-65420.html",
+  "id": 65420,
+  "nomOfficiel": "Sultani",
+  "marqueOfficielle": "Arabian Oud",
+  "genre": "homme",
+  "annee": 2020
+ },
+ "notes": {
+  "top": ["Cardamome", "Bergamote", "Poivre Rose", "Baies Rouges", "Mandarine"],
+  "heart": ["Freesia", "Rose de Damas", "Muguet"],
+  "base": ["Musc Blanc", "Ambre", "Santal", "Patchouli"]
+ },
+ "famille": "Oriental",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Ne pas confondre avec « Sultani Amberwood » (2025, unisexe, ID 111181), parfum distinct malgré le nom proche — le candidat correspond au « Sultani » original homme. Le site source (odorem-dz.com) indique 200ml dans son URL alors que le candidat retient 100ml : le 100ml existe bel et bien chez Arabian Oud (confirmé sur le site officiel), donc pas un signal d'inexistence, mais à vérifier le volume exact facturé avant mise en ligne.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

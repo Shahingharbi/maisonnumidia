@@ -1,0 +1,23 @@
+{
+ "slug": "essential-parfums-mon-vetiver",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.fr/parfum/Essential-Parfums/Mon-Vetiver-50788.html",
+  "id": 50788,
+  "nomOfficiel": "Mon Vetiver",
+  "marqueOfficielle": "Essential Parfums",
+  "genre": "unisexe",
+  "annee": 2018
+ },
+ "notes": {
+  "top": ["Citron vert", "Menthe poivree"],
+  "heart": ["Baies de genievre"],
+  "base": ["Vetiver"]
+ },
+ "famille": "Boise Aromatique",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "A ne pas confondre avec 'Mon Vetiver' de Ramon Monegal (2011, ID 56555), maison differente.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

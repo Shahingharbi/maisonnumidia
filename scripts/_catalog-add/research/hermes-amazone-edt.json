@@ -1,0 +1,23 @@
+{
+ "slug": "hermes-amazone-edt",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.fr/parfum/Hermes/Amazone-2017-43327.html",
+  "id": 43327,
+  "nomOfficiel": "Amazone (2017)",
+  "marqueOfficielle": "Hermes",
+  "genre": "femme",
+  "annee": 2017
+ },
+ "notes": {
+  "top": ["Bourgeon de cassis", "Fleur de cassissier"],
+  "heart": [],
+  "base": []
+ },
+ "famille": "Floral Vert",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Hermes a deux fiches Fragrantica distinctes nommees 'Amazone' : la version originale de 1974 (ID 4656) et une version 2017 (ID 43327), plus une 'Amazone Eau de Fraicheur' (1993) et 'Rose Amazone' (2014). La page produit Hermes.com actuelle (Amazone Eau de Toilette 100ml) met en avant le bourgeon de cassis et la rose, ce qui correspond mieux a la fiche 2017 retenue ici, mais la fiche 1974 partage aussi la note de cassis : verification manuelle recommandee avant publication.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

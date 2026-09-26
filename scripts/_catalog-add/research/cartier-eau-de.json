@@ -1,0 +1,23 @@
+{
+  "slug": "cartier-eau-de",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Eau de Cartier",
+    "marqueOfficielle": "Cartier",
+    "genre": "unisexe",
+    "annee": 2001
+  },
+  "notes": {
+    "top": ["Bergamote", "Cardamome"],
+    "heart": ["Cèdre"],
+    "base": ["Patchouli"]
+  },
+  "famille": "Boisé Aromatique",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Eau de Cartier est un classique historique de la maison (lance en 2001, unisexe, tres documente) -- existence quasi certaine malgre l'echec des outils de recherche cette session (WebSearch epuise, Brave rate-limited, Marginalia n'a renvoye que des parfums voisins comme 'Declaration L'Eau'). ID Fragrantica non confirme (null, pas deduit) : a recuperer via une recherche fragrantica <marque> <nom> normale avant integration finale. Ne pas confondre avec 'Eau de Cartier Concentree', 'Essence de Cartier' ou 'Declaration L'Eau'.",
+  "confiance": "basse",
+  "verifieLe": "2026-09-26"
+}

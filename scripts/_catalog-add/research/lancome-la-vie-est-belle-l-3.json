@@ -1,0 +1,23 @@
+{
+  "slug": "lancome-la-vie-est-belle-l-3",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Lancome/La-Vie-est-Belle-L-Elixir-Very-Cherry-133579.html",
+    "id": 133579,
+    "nomOfficiel": "La Vie est Belle L'Elixir Very Cherry",
+    "marqueOfficielle": "Lancôme",
+    "genre": "femme",
+    "annee": 2026
+  },
+  "notes": {
+    "top": ["Notes ozoniques", "Notes vertes", "Accord aquatique"],
+    "heart": ["Cerise"],
+    "base": ["Oud"]
+  },
+  "famille": "Fruité Boisé",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Notes reconstituees a partir des accords principaux Fragrantica (cherry, oud, ozonic, aquatic, green), pas de la pyramide top/heart/base detaillee (non disponible via les outils de recherche accessibles cette session) -- a revalider si possible.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

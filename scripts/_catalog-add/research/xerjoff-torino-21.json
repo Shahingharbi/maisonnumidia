@@ -1,0 +1,23 @@
+{
+ "slug": "xerjoff-torino-21",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Xerjoff/Torino21-70424.html",
+  "id": 70424,
+  "nomOfficiel": "Torino21",
+  "marqueOfficielle": "Xerjoff",
+  "genre": "unisexe",
+  "annee": null
+ },
+ "notes": {
+  "top": ["Menthe", "Citron", "Thym", "Basilic"],
+  "heart": ["Jasmin", "Romarin", "Cassis", "Lavande"],
+  "base": ["Musc", "Verveine"]
+ },
+ "famille": "Aromatique",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Année non fournie par le titre du résultat de recherche (parfum lié aux Nitto ATP Finals de Turin) ; laissée null plutôt que déduite.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

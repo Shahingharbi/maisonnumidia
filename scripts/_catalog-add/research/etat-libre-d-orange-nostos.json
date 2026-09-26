@@ -1,0 +1,23 @@
+{
+ "slug": "etat-libre-d-orange-nostos",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/Nostos-83820.html",
+  "id": 83820,
+  "nomOfficiel": "Nostos",
+  "marqueOfficielle": "Etat Libre d'Orange",
+  "genre": "unisexe",
+  "annee": 2023
+ },
+ "notes": {
+  "top": ["Mandarine", "Safran"],
+  "heart": ["Oud", "Daim", "Rose de Turquie", "Encens", "Jasmin"],
+  "base": ["Georgywood", "Ambrofix", "Bois de santal", "Musc"]
+ },
+ "famille": "Boisé Oriental",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Fragrantica liste les notes sans pyramide top/coeur/base détaillée dans le résumé (parfum exclusif Harrods) ; répartition ci-dessus approximative, à revérifier avant rédaction finale.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

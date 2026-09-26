@@ -1,0 +1,23 @@
+{
+  "slug": "kayali-elixir-11-eau-de-parfum",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Elixir-11-52610.html",
+    "id": 52610,
+    "nomOfficiel": "Elixir 11",
+    "marqueOfficielle": "Kayali",
+    "genre": "unisexe",
+    "annee": 2018
+  },
+  "notes": {
+    "top": ["Petales de rose", "Pomme rouge"],
+    "heart": ["Rose de mai", "Jasmin Sambac"],
+    "base": ["Patchouli", "Ambre", "Vanille"]
+  },
+  "famille": "Floral Fruite",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Candidat indiquait genre 'mixte' -> correspond a 'unisexe' (for women and men) sur Fragrantica.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

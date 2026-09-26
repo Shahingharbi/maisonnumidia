@@ -1,0 +1,23 @@
+{
+ "slug": "tom-ford-jasmin-rouge",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Tom-Ford/Jasmin-Rouge-12765.html",
+  "id": 12765,
+  "nomOfficiel": "Jasmin Rouge",
+  "marqueOfficielle": "Tom Ford",
+  "genre": "femme",
+  "annee": 2011
+ },
+ "notes": {
+  "top": ["Poivre Noir", "Poivre Blanc"],
+  "heart": ["Jasmin Sambac", "Sauge Sclarée"],
+  "base": []
+ },
+ "famille": "Floral Oriental",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Pyramide olfactive partielle seulement dans le résumé de recherche (jasmin sambac, sauge sclarée, poivres) ; pas de notes de fond confirmées, à ne pas compléter par déduction.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

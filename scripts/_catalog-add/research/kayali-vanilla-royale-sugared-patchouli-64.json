@@ -1,0 +1,23 @@
+{
+  "slug": "kayali-vanilla-royale-sugared-patchouli-64",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Vanilla-Royale-Sugared-Patchouli-64-Eau-De-Parfum-Intense-77430.html",
+    "id": 77430,
+    "nomOfficiel": "Vanilla Royale Sugared Patchouli | 64 Eau de Parfum Intense",
+    "marqueOfficielle": "Kayali",
+    "genre": "unisexe",
+    "annee": 2022
+  },
+  "notes": {
+    "top": ["Rhum doré", "Orchidée vanille", "Jasmin crémeux"],
+    "heart": ["Patchouli sucré", "Cassonade", "Crème brûlée", "Notes épicées", "Cuir", "Fève tonka", "Rose"],
+    "base": ["Patchouli", "Cassonade", "Oud royal", "Ambre", "Musc", "Vanille de Madagascar"]
+  },
+  "famille": "Oriental Gourmand",
+  "concentrationConfirmee": "EDP Intense",
+  "volumeExiste": true,
+  "remarque": "Le nom officiel Fragrantica inclut 'Eau de Parfum Intense' (pas simplement EDP) : concentration a corriger en 'EDP Intense' si le champ produit distingue les deux.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

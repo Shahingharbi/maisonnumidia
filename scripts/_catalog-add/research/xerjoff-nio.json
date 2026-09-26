@@ -1,0 +1,23 @@
+{
+  "slug": "xerjoff-nio",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Nio-10244.html",
+    "id": 10244,
+    "nomOfficiel": "Nio",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "homme",
+    "annee": 2009
+  },
+  "notes": {
+    "top": ["Bergamote", "Notes vertes", "Neroli"],
+    "heart": ["Cardamome", "Poivre rose", "Jasmin", "Muscade"],
+    "base": ["Vetiver", "Cedre de Virginie", "Bois de gaiac", "Ambre", "Patchouli"]
+  },
+  "famille": "Boise Epice",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": null,
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "xerjoff-lira-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/news/Xerjoff-s-LIRA-A-Gourmand-Masterpiece-24738.html",
+    "id": null,
+    "nomOfficiel": "Lira",
+    "marqueOfficielle": "Xerjoff (Casamorati)",
+    "genre": "femme",
+    "annee": 2011
+  },
+  "notes": {
+    "top": ["Lavande", "Bergamote", "Orange sanguine"],
+    "heart": ["Jasmin", "Reglisse", "Cannelle"],
+    "base": ["Vanille", "Musc", "Caramel"]
+  },
+  "famille": "Oriental Gourmand",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Existence confirmee (article Fragrantica + site officiel Xerjoff/Casamorati + plusieurs revendeurs niche), mais aucune URL fragrantica.com/perfume/... avec l'ID numerique n'est apparue dans les resultats de recherche -> id laisse a null plutot que deduit.",
+  "confiance": "basse",
+  "verifieLe": "2026-09-26"
+}

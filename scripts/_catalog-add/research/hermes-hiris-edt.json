@@ -1,0 +1,23 @@
+{
+ "slug": "hermes-hiris-edt",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.fr/parfum/Hermes/Hiris-20.html",
+  "id": 20,
+  "nomOfficiel": "Hiris",
+  "marqueOfficielle": "Hermes",
+  "genre": "femme",
+  "annee": 1999
+ },
+ "notes": {
+  "top": ["Iris"],
+  "heart": [],
+  "base": []
+ },
+ "famille": "Floral Vert",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Notes coeur/fond non recuperees dans l'extrait de recherche, a completer si besoin avant redaction de la fiche complete.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

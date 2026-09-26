@@ -1,0 +1,23 @@
+{
+  "slug": "carolina-herrera-good-girl-jasmine-absolute",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Good Girl Jasmine Absolute",
+    "marqueOfficielle": "Carolina Herrera",
+    "genre": "femme",
+    "annee": null
+  },
+  "notes": {
+    "top": ["Jasmin"],
+    "heart": ["Jasmin absolu"],
+    "base": ["Fève tonka", "Vanille"]
+  },
+  "famille": "Floral Gourmand",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Existence confirmee sur le site officiel carolinaherrera.com (Eau de Parfum, femme, categorie 'Gourmand Fragrance', best-seller, dispo en plusieurs tailles). ID et pyramide Fragrantica exacte non obtenus (WebSearch epuise, Brave rate-limited, Marginalia sans resultat) -- notes ci-dessus provisoires (theme jasmin + gourmand tonka/vanille coherent avec la ligne Good Girl), a revalider avant integration finale.",
+  "confiance": "basse",
+  "verifieLe": "2026-09-26"
+}

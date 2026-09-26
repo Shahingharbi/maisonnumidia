@@ -1,0 +1,23 @@
+{
+ "slug": "arabian-oud-leather",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Arabian-Oud/Arabian-Leather-76554.html",
+  "id": 76554,
+  "nomOfficiel": "Arabian Leather",
+  "marqueOfficielle": "Arabian Oud",
+  "genre": "unisexe",
+  "annee": null
+ },
+ "notes": {
+  "top": ["Poivre rose", "Bergamote"],
+  "heart": ["Racine d'Iris", "Ambre", "Caramel"],
+  "base": ["Vétiver", "Musc"]
+ },
+ "famille": "Boisé Cuir",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "L'annee de lancement n'apparait pas dans le resultat de recherche (pas de millesime dans le titre Fragrantica). Ne pas confondre avec 'Arabian Leather Musk' (ID 76555), variante distincte a la pyramide differente (abricot, cranberry, cuir, miel, oud, musc, patchouli, cacao).",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

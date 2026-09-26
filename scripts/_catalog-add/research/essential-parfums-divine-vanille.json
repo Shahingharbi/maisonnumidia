@@ -1,0 +1,23 @@
+{
+  "slug": "essential-parfums-divine-vanille",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Divine Vanille",
+    "marqueOfficielle": "Essential Parfums",
+    "genre": "unisexe",
+    "annee": null
+  },
+  "notes": {
+    "top": ["Sauge", "Cannelle", "Poivre noir"],
+    "heart": ["Absolu d'osmanthus"],
+    "base": ["Fève tonka", "Benjoin", "Patchouli", "Vanille de Madagascar"]
+  },
+  "famille": "Oriental Vanillé",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Existence confirmee sur le site officiel Essential Parfums (essentialparfums.com), parfumeur Olivier Pescheux, 100ml EDP disponible. Outils de recherche (WebSearch epuise, moteurs tiers rate-limited) n'ont pas permis d'obtenir la page fragrantica.com ni son ID -- a rechercher manuellement avant integration finale (id: null, ne pas deduire).",
+  "confiance": "basse",
+  "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "dior-dolce-vita-de-edt",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Dior/Dolce-Vita-222.html",
+  "id": 222,
+  "nomOfficiel": "Dolce Vita",
+  "marqueOfficielle": "Dior",
+  "genre": "femme",
+  "annee": 1994
+ },
+ "notes": {
+  "top": ["Lys", "Magnolia", "Rose"],
+  "heart": ["Pêche", "Abricot", "Cannelle"],
+  "base": ["Bois de Santal", "Héliotrope", "Vanille"]
+ },
+ "famille": "Floral Fruité",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "La fiche Fragrantica principale (ID 222) ne precise pas la concentration dans le resume disponible ; la version originale de 1994 est connue pour avoir ete lancee en Eau de Toilette, ce qui correspond au produit fournisseur (edt, 100ml). Existent aussi 'Dolce Vita Parfum' (ID 33769) et 'Eau de Dolce Vita' (ID 2578, 1998) - versions distinctes a ne pas confondre.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

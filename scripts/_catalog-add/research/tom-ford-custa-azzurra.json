@@ -1,0 +1,23 @@
+{
+ "slug": "tom-ford-custa-azzurra",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Tom-Ford/Costa-Azzurra-25482.html",
+  "id": 25482,
+  "nomOfficiel": "Costa Azzurra",
+  "marqueOfficielle": "Tom Ford",
+  "genre": "unisexe",
+  "annee": 2014
+ },
+ "notes": {
+  "top": ["Bois flotté", "Algue", "Cardamome"],
+  "heart": ["Cyprès", "Genévrier", "Armoise"],
+  "base": ["Encens", "Vétiver", "Chêne"]
+ },
+ "famille": "Boisé Aromatique",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Le nom fournisseur 'Custa Azzurra' est une coquille pour 'Costa Azzurra'. Plusieurs fiches Fragrantica coexistent sous ce nom (lancement 2014 ID 25482, reedition Signature Collection 2021 ID 64617, version Parfum 2022 ID 71511, variante Acqua 2019 ID 52789) - meme gamme, packagings et concentrations differents au fil des annees. ID retenu = fiche de lancement EDP, la plus documentee et la plus proche du produit fournisseur (EDP 100ml).",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

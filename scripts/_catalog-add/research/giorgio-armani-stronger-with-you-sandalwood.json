@@ -1,0 +1,23 @@
+{
+ "slug": "giorgio-armani-stronger-with-you-sandalwood",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Sandalwood-102519.html",
+  "id": 102519,
+  "nomOfficiel": "Emporio Armani Stronger With You Sandalwood",
+  "marqueOfficielle": "Emporio Armani",
+  "genre": "unisexe",
+  "annee": 2025
+ },
+ "notes": {
+  "top": ["Safran"],
+  "heart": ["Lavande", "Châtaigne"],
+  "base": ["Bois de Santal", "Vanille", "Cèdre"]
+ },
+ "famille": "Oriental Boisé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Nom officiel Fragrantica = 'Emporio Armani Stronger With You Sandalwood' (ligne Emporio Armani, diffusion de Giorgio Armani), classe sous le repertoire designer Giorgio Armani. Verifier la forme de marque a utiliser (Armani / Giorgio Armani / Emporio Armani) selon la convention deja en place dans products.json avant creation de la fiche - meme sujet que la regle h1 sur la forme mesuree des maisons.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

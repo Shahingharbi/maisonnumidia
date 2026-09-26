@@ -1,0 +1,23 @@
+{
+  "slug": "bdk-parfums-pas-e-soir-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/BDK-Parfums/Pas-Se-Soir-39470.html",
+    "id": 39470,
+    "nomOfficiel": "Pas Ce Soir",
+    "marqueOfficielle": "BDK Parfums",
+    "genre": "femme",
+    "annee": 2016
+  },
+  "notes": {
+    "top": ["Gingembre", "Mandarine", "Poivre noir"],
+    "heart": ["Coing", "Jasmin du Maroc", "Fleur d'oranger"],
+    "base": ["Cashmeran", "Bois ambre", "Patchouli de Singapour"]
+  },
+  "famille": "Floral Epice",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Existe aussi en version Extrait (2023, mixte, ID 83663) : le candidat precise EDP donc c'est la version originale 2016 (femme, ID 39470).",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}
