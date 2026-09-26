@@ -1,0 +1,23 @@
+{
+  "slug": "givenchy-lovely-prism-edt",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Givenchy/Lovely-prism-850.html",
+    "id": 850,
+    "nomOfficiel": "Lovely Prism",
+    "marqueOfficielle": "Givenchy",
+    "genre": "femme",
+    "annee": 2006
+  },
+  "notes": {
+    "top": ["Pomme verte", "Cassis"],
+    "heart": ["Magnolia"],
+    "base": ["Santal", "Iris"]
+  },
+  "famille": "Floral Fruité",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Le titre Fragrantica ne precise pas explicitement 'Eau de Toilette' (une seule version semble exister) ; concentration EDT retenue d'apres le libelle de la boutique source, plausible pour ce type de parfum jeune des annees 2000.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

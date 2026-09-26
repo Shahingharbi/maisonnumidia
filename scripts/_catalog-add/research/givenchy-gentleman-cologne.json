@@ -1,0 +1,23 @@
+{
+  "slug": "givenchy-gentleman-cologne",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Givenchy/Gentleman-Cologne-53694.html",
+    "id": 53694,
+    "nomOfficiel": "Gentleman Cologne",
+    "marqueOfficielle": "Givenchy",
+    "genre": "homme",
+    "annee": 2019
+  },
+  "notes": {
+    "top": ["Bergamote", "Citron", "Petit grain"],
+    "heart": ["Iris", "Vétiver", "Romarin"],
+    "base": ["Musc", "Ambroxan"]
+  },
+  "famille": "Aromatique Boisé",
+  "concentrationConfirmee": "Cologne",
+  "volumeExiste": true,
+  "remarque": "Disponible officiellement en 50 et 100 ml, correspond au volume de la boutique source.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

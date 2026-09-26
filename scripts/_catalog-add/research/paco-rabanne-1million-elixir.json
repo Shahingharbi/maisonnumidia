@@ -1,0 +1,23 @@
+{
+  "slug": "paco-rabanne-1million-elixir",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Rabanne/1-Million-Elixir-71708.html",
+    "id": 71708,
+    "nomOfficiel": "1 Million Elixir",
+    "marqueOfficielle": "Rabanne",
+    "genre": "homme",
+    "annee": 2022
+  },
+  "notes": {
+    "top": ["Davana", "Pomme croquante"],
+    "heart": ["Rose de Damas", "Osmanthus", "Bois de cèdre"],
+    "base": ["Vanille absolue", "Fèves tonka", "Patchouli"]
+  },
+  "famille": "Ambré Vanillé",
+  "concentrationConfirmee": "Parfum",
+  "volumeExiste": true,
+  "remarque": "Concentration = 'Parfum Intense' selon Rabanne/Fragrantica ; classee ici 'Parfum' (valeur la plus proche dans l'enum).",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "paco-rabanne-black-xs-los-angeles",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Rabanne/Black-XS-Los-Angeles-for-Him-35254.html",
+    "id": 35254,
+    "nomOfficiel": "Black XS Los Angeles for Him",
+    "marqueOfficielle": "Rabanne",
+    "genre": "homme",
+    "annee": 2016
+  },
+  "notes": {
+    "top": ["Orange", "Sauge sclarée", "Citron"],
+    "heart": ["Cannelle", "Ananas", "Pomme", "Muguet"],
+    "base": ["Notes boisées", "Coumarine", "Vanille", "Mousse de chêne"]
+  },
+  "famille": "Oriental Boisé",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Ambiguite de genre : il existe DEUX editions distinctes 'Black XS Los Angeles' 2016, for Him (ID 35254, retenu ici) et for Her (ID 35253) ; la page boutique source ne precise pas laquelle des deux est vendue sous ce nom générique 'Edition Limitée'. Choix par defaut = version homme (notes les mieux documentees). A revalider avec une 2e recherche avant publication si possible.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

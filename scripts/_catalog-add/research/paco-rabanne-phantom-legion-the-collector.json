@@ -1,0 +1,23 @@
+{
+  "slug": "paco-rabanne-phantom-legion-the-collector",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Rabanne/Phantom-Legion-71654.html",
+    "id": 71654,
+    "nomOfficiel": "Phantom Legion",
+    "marqueOfficielle": "Rabanne",
+    "genre": "homme",
+    "annee": 2022
+  },
+  "notes": {
+    "top": ["Lavande", "Zeste de citron", "Citron"],
+    "heart": ["Fumée", "Lavande", "Notes terreuses", "Patchouli", "Pomme"],
+    "base": ["Lavande", "Vanille", "Vétiver"]
+  },
+  "famille": "Boisé Aromatique",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Doublon probable avec le candidat 'paco-rabanne-phantom-legion-eau-de' : meme prix (19 500 DA), meme volume 100ml, memes boutiques source du meme lot (parfumdeluxedz.com / palaisdesparfums-dz.com) et meme fiche Fragrantica (ID 71654, edition collector 'Legion' du parfum Phantom). Ne creer qu'UNE seule fiche pour les deux slugs.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

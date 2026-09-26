@@ -1,0 +1,23 @@
+{
+  "slug": "givenchy-l-ange-noir-eau-de",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Givenchy/L-Ange-Noir-41014.html",
+    "id": 41014,
+    "nomOfficiel": "L'Ange Noir",
+    "marqueOfficielle": "Givenchy",
+    "genre": "femme",
+    "annee": 2016
+  },
+  "notes": {
+    "top": ["Poire", "Bergamote de Calabre"],
+    "heart": ["Pivoine", "Iris blanc", "Sésame"],
+    "base": ["Patchouli", "Musc", "Santal", "Cèdre"]
+  },
+  "famille": "Floral Oriental",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Deux versions existent : 'L'Ange Noir' original (2016, ID 41014, pas de qualificatif de concentration dans le titre Fragrantica) et 'L'Ange Noir Eau de Toilette' (2017, ID 43431, EDT, cree par Emilie Coppermann). La boutique precise 'Eau de Parfum', donc retenu la version 2016 (par defaut EDP faute d'indication EDT). Volume 75 ml non confirme explicitement dans le resume mais plausible.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

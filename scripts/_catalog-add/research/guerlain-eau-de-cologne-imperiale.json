@@ -1,0 +1,23 @@
+{
+ "slug": "guerlain-eau-de-cologne-imperiale",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-Imperiale-3346.html",
+  "id": 3346,
+  "nomOfficiel": "Eau de Cologne Impériale",
+  "marqueOfficielle": "Guerlain",
+  "genre": "femme",
+  "annee": 1860
+ },
+ "notes": {
+  "top": ["Agrumes", "Verveine citronnée", "Bergamote", "Néroli", "Citron", "Orange"],
+  "heart": [],
+  "base": ["Romarin", "Cèdre", "Fève tonka"]
+ },
+ "famille": "Hespéridé",
+ "concentrationConfirmee": "EDC",
+ "volumeExiste": true,
+ "remarque": "Fragrantica classe la fiche principale 'for women' malgré une origine et un usage historiquement plutôt unisexe (créée pour l'impératrice Eugénie mais vendue ensuite largement) — vérifier le genre avant publication, ne pas confondre avec l'édition limitée 'Lunar New Year' (ID 53240, classée 'women and men', 2019) qui est un flacon différent.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

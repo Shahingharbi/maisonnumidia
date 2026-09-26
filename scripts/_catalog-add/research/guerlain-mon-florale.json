@@ -1,0 +1,23 @@
+{
+ "slug": "guerlain-mon-florale",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Florale-48099.html",
+  "id": 48099,
+  "nomOfficiel": "Mon Guerlain Florale",
+  "marqueOfficielle": "Guerlain",
+  "genre": "femme",
+  "annee": 2018
+ },
+ "notes": {
+  "top": ["Lavande", "Bergamote", "Mandarine", "Citron"],
+  "heart": ["Jasmin sambac", "Pivoine"],
+  "base": ["Vanille", "Notes boisées"]
+ },
+ "famille": "Floral",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

@@ -33,7 +33,11 @@ const PAS_UN_PARFUM = [
 // Ces lignes portent le nom de la vraie maison dans leur libelle : on les ecarte, elles
 // reviendront sous la bonne marque si cette maison entre au catalogue.
 const MAISONS_ETRANGERES = ["m. micallef", "micallef", "rabanne", "michel duriez",
-  "rue broca", "by kilian", "initio", "nishane", "xerjoff", "amouage", "roja"];
+  "rue broca", "by kilian", "initio", "nishane", "xerjoff", "amouage", "roja",
+  // Releve sur la vague du 27/09 : un Yves Rocher range sous Yves Saint Laurent,
+  // un Burberry sous Guerlain, un Alhambra sous Giorgio Armani.
+  "yves rocher", "rocher", "burberry", "alhambra", "maison alhambra", "lattafa",
+  "armaf", "afnan", "al haramain"];
 
 
 // 2 — Formats qui ne sont pas le flacon principal.

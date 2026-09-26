@@ -1,0 +1,23 @@
+{
+  "slug": "givenchy-eau-de-toilette-femme",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Givenchy/Eau-de-Givenchy-2018-49600.html",
+    "id": 49600,
+    "nomOfficiel": "Eau de Givenchy (2018)",
+    "marqueOfficielle": "Givenchy",
+    "genre": "unisexe",
+    "annee": 2018
+  },
+  "notes": {
+    "top": ["Bergamote de Calabre", "Amande amère", "Petit grain"],
+    "heart": ["Fleur d'oranger absolue"],
+    "base": ["Musc blanc"]
+  },
+  "famille": "Hespéridé",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Fragrantica classe ce parfum 'for women and men' (unisexe), alors que la boutique source (parfumdeluxedz.com) le vend comme 'Femme' uniquement -- a signaler avant redaction de la fiche (champ gender). Volume 100 ml plausible mais non confirme mot pour mot dans le resume de recherche.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "guerlain-la-petite-robe-noir-edt",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Guerlain/Black-Perfecto-by-La-Petite-Robe-Noire-Eau-de-Toilette-Florale-50158.html",
+  "id": 50158,
+  "nomOfficiel": "Black Perfecto by La Petite Robe Noire Eau de Toilette Florale",
+  "marqueOfficielle": "Guerlain",
+  "genre": "femme",
+  "annee": 2018
+ },
+ "notes": {
+  "top": ["Eau de rose"],
+  "heart": ["Rose", "Rose rouge", "Amande"],
+  "base": ["Cuir", "The noir", "Musc noir"]
+ },
+ "famille": "Floral Oriental",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Le nom boutique ('la petit robe noir edt floral') omet 'Black Perfecto' mais aucune autre fiche Fragrantica 'La Petite Robe Noire Eau de Toilette Florale' n'existe : rattache a Black Perfecto EDT Florale (id 50158). Doublon probable avec le candidat 'guerlain-black-perfecto-edt-florale', meme ID Fragrantica -> ne garder qu'une seule fiche lors de l'ajout au catalogue.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}
