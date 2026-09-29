@@ -210,10 +210,18 @@ function loadLog() {
   }
   try {
     const data = JSON.parse(fs.readFileSync(LOG_PATH, "utf8"));
+    // On repart de l'objet ENTIER. Cette fonction ne recopiait que submitted, runs et
+    // lastRun : indexStatus et firstSeen étaient jetés à chaque lancement, puis
+    // réécrits à la fin avec seulement ce que le run avait vu. Résultat, de juin au
+    // 29/09/2026 : le robot ré-inspectait chaque jour les mêmes ~480 premières URLs
+    // du sitemap et oubliait tout le lendemain — le ciblage des pages non indexées
+    // n'a jamais porté au-delà — et le tri par firstSeen était ré-amorcé à chaque run.
     return {
+      ...data,
       submitted: data.submitted || {},
       runs: data.runs || [],
       lastRun: data.lastRun || null,
+      indexStatus: data.indexStatus || {},
     };
   } catch {
     return { submitted: {}, runs: [], lastRun: null };
@@ -248,11 +256,33 @@ async function main() {
   console.log(`Service Account: ${creds.client_email}`);
   console.log(`Project: ${creds.project_id}`);
 
+  // ── Tokens : un par scope, et RENOUVELÉS avant expiration ──────────────
+  // Un token Google vit une heure. Or la phase URL Inspection coûte ~7,5 s par URL
+  // (mesuré le 29/09/2026 : 197 s pour 25) : une heure n'en couvre que ~480. Le job
+  // CI dépassait donc l'heure AVANT de commencer à soumettre, avec un token mort
+  // depuis plusieurs minutes — 401 sur 100 % des pings, tous les jours du 09/06 au
+  // 28/09/2026. La panne a commencé le lendemain de l'ajout de cette phase (3c4d326,
+  // 08/06). Séparer les scopes le 14/09 n'y changeait rien, et un test local lancé
+  // avec --inspect-limit=0 ou --url= soumettait à la seconde : il ne pouvait pas
+  // reproduire le problème. Le mail de GitHub, lui, disait « Failed in 1 hour, 4
+  // minutes » : la durée était l'indice.
+  const TOKEN_MAX_AGE_MS = Number(process.env.TOKEN_MAX_AGE_MS) || 45 * 60 * 1000;
+  const cache = new Map();
+  const jeton = async (scope) => {
+    const c = cache.get(scope);
+    if (c && Date.now() - c.at < TOKEN_MAX_AGE_MS) return c.value;
+    const value = await getAccessToken(creds, scope);
+    if (c) console.log(`  (token ${scope === INDEXING_SCOPE ? "Indexing" : "Search Console"} renouvelé)`);
+    cache.set(scope, { value, at: Date.now() });
+    return value;
+  };
+
   console.log("Requesting access tokens...");
   // Token dédié Indexing API (publishUrl / getUrlMetadata) — scope pur, jamais mélangé.
-  const token = await getAccessToken(creds, INDEXING_SCOPE);
+  // Demandés d'emblée pour qu'une vraie panne d'authentification échoue tout de suite.
+  const token = await jeton(INDEXING_SCOPE);
   // Token dédié Search Console (Site Verification + URL Inspection).
-  const gscToken = await getAccessToken(creds, GSC_SCOPE);
+  const gscToken = await jeton(GSC_SCOPE);
   console.log("Access tokens: OK\n");
 
   // ---------- Site Verification: list current ownerships ----------
@@ -361,19 +391,34 @@ async function main() {
         return !s || !s.checkedAt || Date.now() - s.checkedAt > staleMs;
       })
       .slice(0, INSPECT_LIMIT);
-    console.log(`Inspection de ${toInspect.length} URLs (statut manquant ou > ${INDEX_STALE_DAYS}j)...`);
-    let insp = 0;
+    // Plafond de DURÉE, pas seulement de nombre : à ~7,5 s l'appel, 1 500 inspections
+    // prendraient trois heures. Ce qui n'est pas inspecté aujourd'hui l'est demain —
+    // la file reprend sur les statuts manquants ou périmés.
+    const INSPECT_MAX_MS = (Number(process.env.INSPECT_MAX_MIN) || 20) * 60 * 1000;
+    const debutInspection = Date.now();
+    console.log(`Inspection de ${toInspect.length} URLs au plus, ${INSPECT_MAX_MS / 60000} min max (statut manquant ou > ${INDEX_STALE_DAYS}j)...`);
+    let insp = 0, echecsDeSuite = 0, arret = null;
     for (const u of toInspect) {
-      const r = await inspectIndexStatus(gscToken, property, u);
+      if (Date.now() - debutInspection > INSPECT_MAX_MS) { arret = "durée"; break; }
+      const r = await inspectIndexStatus(await jeton(GSC_SCOPE), property, u);
       if (r.ok) {
         log.indexStatus[u] = { state: r.state, indexed: isIndexed(r.state), checkedAt: Date.now() };
+        echecsDeSuite = 0;
       } else if (r.status === 429) {
-        console.log("Quota URL Inspection atteint — arrêt de l'inspection.");
+        arret = "quota URL Inspection";
+        break;
+      } else if (++echecsDeSuite >= 20) {
+        // Vingt échecs d'affilée hors quota : quelque chose est cassé. On ne continue pas
+        // à moudre en silence pendant une heure — c'est exactement ce qui a masqué la panne.
+        arret = `20 échecs d'affilée (dernier : HTTP ${r.status})`;
         break;
       }
       if (++insp % 50 === 0) { console.log(`  inspecté ${insp}/${toInspect.length}`); saveLog(log); }
       await new Promise((res) => setTimeout(res, 120));
     }
+    const reste = toInspect.length - insp;
+    console.log(`Inspection : ${insp} faites en ${Math.round((Date.now() - debutInspection) / 1000)} s` +
+      (arret ? ` — arrêt (${arret}), ${reste} reportées au prochain passage` : ""));
     saveLog(log);
     const known = allUrls.filter((u) => log.indexStatus[u]);
     const idx = known.filter((u) => log.indexStatus[u].indexed).length;
@@ -449,7 +494,7 @@ async function main() {
   for (let i = 0; i < queue.length; i++) {
     const url = queue[i];
     try {
-      const result = await publishUrl(token, url);
+      const result = await publishUrl(await jeton(INDEXING_SCOPE), url);
       if (result.status === 200) {
         log.submitted[url] = Date.now();
         runEntry.urls.push(url);

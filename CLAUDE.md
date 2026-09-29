@@ -131,16 +131,26 @@ Vérifier après coup avec `curl -sI https://maisonnumidia.store/parfums/ancien-
 
 `scripts/google-indexing-api.mjs` doit générer **deux JWT distincts** : un avec le scope `https://www.googleapis.com/auth/indexing` (pour `publishUrl`/`getUrlMetadata`), un avec `siteverification` + `webmasters.readonly` (pour tout le reste : Site Verification, URL Inspection). **Ne jamais les fusionner dans un seul `scope` de token.**
 
-**Historique de la panne, et pourquoi il faut la lire en entier.** Le 08/06/2026, l'ajout de `webmasters.readonly` au scope unique a cassé l'Indexing API : 401 sur 100 % des soumissions, tous les jours, masqué parce que le script committait quand même le log d'échecs. Les tokens ont été séparés le 14/09/2026 — et **ça n'a pas suffi** : le journal montre 200 échecs 401 par jour du 15/09 au 26/09, soit douze jours de plus. Ce fichier a affirmé « corrigé » pendant tout ce temps.
+**Historique de la panne — deux faux diagnostics avant le bon.** Du 09/06 au 28/09/2026, 401 sur 100 % des soumissions, tous les jours, masqué au début parce que le script committait quand même le log d'échecs.
 
-Diagnostic du 26/09/2026 : le code est bon. Lancé en local avec `.credentials/google-indexing.json`, **et aussi par la variable d'environnement `GOOGLE_INDEXING_CREDENTIALS_JSON` (le chemin exact de la CI)**, il renvoie HTTP 200 — y compris sur les URLs mêmes qui échouent en CI. La seule variable qui reste est donc le **contenu du secret GitHub** : il ne correspond pas à la clé locale. À corriger dans Settings → Secrets → Actions → `GOOGLE_INDEXING_CREDENTIALS_JSON`, en y recopiant le JSON de `.credentials/google-indexing.json`.
+1. **14/09 — « c'est le token multi-scope ».** Tokens séparés. Faux : les 401 ont continué.
+2. **26/09 — « c'est le secret GitHub ».** Le script marchait en local, y compris par la variable d'environnement de la CI, donc le secret semblait être la seule différence. Faux aussi : la CI obtenait bien ses tokens et enregistrait des statuts URL Inspection avec — le secret était valide.
+3. **29/09 — la vraie cause : le token expirait en cours de route.** Un token Google vit **une heure**. La phase URL Inspection, ajoutée le 08/06 (commit `3c4d326`, la veille du premier 401), coûte ~7,5 s par URL : elle dépassait l'heure, et la soumission partait avec un token mort. Le mail de GitHub le disait depuis le début : « Failed in 1 hour, 4 minutes ». Les tests locaux ne pouvaient pas reproduire la panne, parce qu'ils soumettaient à la seconde (`--url=` ou `--inspect-limit=0`).
 
-**La leçon de méthode :** une panne « corrigée » ne l'est que si on a vu le succès dans le journal. `node -e` sur `data/indexing-log.json` donne la réponse en une ligne :
+Correctif : les tokens sont **renouvelés au-delà de 45 minutes** (fonction `jeton()`, testable en forçant `TOKEN_MAX_AGE_MS=10000`), et l'inspection est **plafonnée en durée** (20 min, `INSPECT_MAX_MIN`) au lieu d'un nombre d'URLs. Elle s'arrête aussi après 20 échecs d'affilée plutôt que de moudre en silence.
+
+**Second bug trouvé le même jour, plus ancien et plus coûteux :** `loadLog()` ne recopiait que `submitted`, `runs` et `lastRun`. `indexStatus` et `firstSeen` étaient jetés à chaque lancement, puis réécrits avec ce seul run. Depuis juin, le robot ré-inspectait donc chaque jour **les mêmes ~480 premières URLs du sitemap** et oubliait tout le lendemain : le ciblage des pages non indexées, raison d'être de la phase d'inspection, n'a jamais porté au-delà. Corrigé ; vérifié par un aller-retour chargement → sauvegarde (558 statuts conservés, dont **178 pages non indexées** qui passent désormais en tête de file). Tout nouveau champ du journal doit survivre à ce test.
+
+**Deux leçons de méthode :**
+- Une panne « corrigée » ne l'est que si on a vu le succès **dans le journal de la CI**, pas en local. `node -e` sur `data/indexing-log.json` donne la réponse en une ligne :
 ```bash
 node -e "const l=require('./data/indexing-log.json');l.runs.slice(-7).forEach(r=>console.log(r.date,'ok='+r.urls.length,'err='+r.errors.length))"
 ```
+- **Quand un test local réussit et la CI échoue, chercher ce que le test ne reproduit pas** — ici la durée — avant d'accuser l'environnement. Et lire le mail d'échec en entier : la durée du job y figurait.
 
-Le script fait échouer le job CI (`process.exitCode = 1`) si 0 succès sur un batch non-vide — ne pas supprimer cette garde. Elle a bien fonctionné : le job est rouge tous les jours depuis le 14/09. Personne n'a regardé l'onglet Actions, ce qui est l'autre moitié du problème.
+Le script fait échouer le job CI (`process.exitCode = 1`) si 0 succès sur un batch non-vide — ne pas supprimer cette garde. Elle a bien fonctionné : Shahin recevait un mail d'échec chaque jour.
+
+**Ne jamais lancer ce script en arrière-plan pendant qu'un autre tourne.** Chaque instance charge le journal au démarrage et le réécrit en entier à la fin : la dernière à finir écrase les soumissions de l'autre. C'est arrivé le 26/09 — un test à blanc oublié a effacé la trace de 198 soumissions réussies et les 557 statuts d'indexation du journal.
 
 **Options utiles :** `--dry-run` (prévisualise), `--url=` (une seule URL), `--verify-list` (propriétés vérifiées par le compte de service), `--inspect-limit=0` (saute la phase URL Inspection, qui peut être longue), `--urls-file=<fichier>` (liste explicite, une URL par ligne, prioritaire sur la file calculée — à utiliser le lendemain d'un gros ajout).
 
