@@ -6,6 +6,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import SocialRail from "@/components/layout/SocialRail";
 import PopupSuivi from "@/components/layout/PopupSuivi";
+import { newsletterActive } from "@/lib/newsletter";
 import ChromeBoutique from "@/components/layout/ChromeBoutique";
 import { CartProvider } from "@/contexts/CartContext";
 import {
@@ -154,7 +155,7 @@ export default function RootLayout({
           <ChromeBoutique>
             <Footer />
             <SocialRail />
-            <PopupSuivi />
+            <PopupSuivi newsletter={newsletterActive()} />
           </ChromeBoutique>
         </CartProvider>
       </body>

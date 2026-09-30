@@ -2,27 +2,31 @@
 
 import { useId, useState } from "react";
 
-type Source = "footer" | "page" | "commande";
-type Etat = "repos" | "envoi" | "ok" | "deja" | "erreur";
+type Source = "footer" | "page" | "commande" | "popup";
+type Etat = "repos" | "envoi" | "ok" | "erreur";
 
 const MESSAGES_ERREUR: Record<string, string> = {
   format: "Cette adresse email ne semble pas valide.",
   trop: "Trop de tentatives. Réessayez dans quelques minutes.",
   indisponible: "Les inscriptions sont momentanément fermées.",
+  serveur: "L'inscription n'a pas abouti. Réessayez dans un instant.",
 };
 
 /**
  * Formulaire d'inscription à la newsletter, en trois habillages :
  *  - "footer" : reprend exactement le bloc d'origine du pied de page (champ souligné, « Valider ») ;
  *  - "page"   : la page /newsletter ;
- *  - "carte"  : l'écran de confirmation de commande.
+ *  - "carte"  : l'écran de confirmation de commande ;
+ *  - "popup"  : la carte « Suivez nos arrivages », en une ligne compacte.
  */
 export default function FormulaireNewsletter({
   source,
   variante = source === "footer" ? "footer" : "page",
+  onSucces,
 }: {
   source: Source;
-  variante?: "footer" | "page" | "carte";
+  variante?: "footer" | "page" | "carte" | "popup";
+  onSucces?: () => void;
 }) {
   const [email, setEmail] = useState("");
   const [site, setSite] = useState(""); // champ piège anti-robots, invisible
@@ -43,7 +47,8 @@ export default function FormulaireNewsletter({
       });
       const data = await r.json().catch(() => ({}));
       if (data.ok) {
-        setEtat(data.deja ? "deja" : "ok");
+        setEtat("ok");
+        onSucces?.();
         return;
       }
       setErreur(MESSAGES_ERREUR[data.erreur] || "Une erreur est survenue. Réessayez.");
@@ -55,16 +60,15 @@ export default function FormulaireNewsletter({
   }
 
   const footer = variante === "footer";
+  const popup = variante === "popup";
 
-  if (etat === "ok" || etat === "deja") {
+  if (etat === "ok") {
     return (
       <p
         role="status"
-        className={footer ? "text-sm text-[#535359] py-2" : "text-[14px] text-[#111111] py-2"}
+        className={footer ? "text-sm text-[#535359] py-2" : popup ? "text-[13px] text-[#111111] py-2" : "text-[14px] text-[#111111] py-2"}
       >
-        {etat === "ok"
-          ? "Merci, c'est noté. Vous serez parmi les premiers informés."
-          : "Cette adresse est déjà inscrite. Merci de votre fidélité."}
+        Merci, c&apos;est noté. Vous serez parmi les premiers informés.
       </p>
     );
   }
@@ -88,7 +92,28 @@ export default function FormulaireNewsletter({
         Votre adresse email
       </label>
 
-      {footer ? (
+      {popup ? (
+        <div className="flex gap-2">
+          <input
+            id={`${id}-email`}
+            type="email"
+            required
+            autoComplete="email"
+            inputMode="email"
+            placeholder="Votre email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            className="flex-1 min-w-0 h-10 border border-[#DCDCD5] rounded-lg px-3 text-[13px] text-[#111111] bg-white focus:outline-none focus:border-[#C9A84C] focus:ring-2 focus:ring-[#C9A84C]/20 transition"
+          />
+          <button
+            type="submit"
+            disabled={etat === "envoi"}
+            className="shrink-0 h-10 px-4 bg-[#111111] hover:bg-[#2C2C2C] text-white text-[12.5px] font-semibold rounded-lg transition-colors disabled:opacity-50"
+          >
+            {etat === "envoi" ? "…" : (<><span className="sm:hidden">OK</span><span className="hidden sm:inline">S&apos;inscrire</span></>)}
+          </button>
+        </div>
+      ) : footer ? (
         <div className="flex items-center justify-center gap-4 max-w-sm mx-auto">
           <input
             id={`${id}-email`}

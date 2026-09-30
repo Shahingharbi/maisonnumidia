@@ -1,125 +1,61 @@
-// Stockage des abonnés à la newsletter.
+// Stockage des abonnés : un Google Form relié à une Google Sheet.
 //
-// Le site n'a pas de base de données : les produits sont dans un JSON, les commandes
-// partent par EmailJS, et le tableau de bord garde ses données dans le navigateur de
-// Shahin (localStorage). Un email tapé par un visiteur n'avait donc nulle part où
-// arriver — le formulaire du footer, affiché depuis le lancement, ne faisait rien.
+// Le site n'a pas de base de données, et Shahin préfère ne pas en brancher une dans Vercel.
+// Un Google Form fait l'affaire sans aucun compte à créer : le serveur du site envoie
+// l'email au formulaire, Google l'ajoute comme une ligne dans la Sheet liée, avec la date.
+// La liste vit dans le Google Drive de Shahin, privée, lisible depuis son téléphone.
 //
-// On utilise Upstash Redis, branché depuis Vercel → Storage → Upstash for Redis.
-// L'intégration injecte les variables d'environnement toute seule. On parle à Redis par
-// son API HTTP : aucune dépendance à installer.
+// POUR BRANCHER (une fois) : créer le formulaire avec une question « Email », le relier à
+// une Sheet, le publier, puis renseigner ci-dessous l'adresse d'envoi et l'identifiant du
+// champ (tous deux lisibles dans le code source public du formulaire). Les variables
+// d'environnement, si elles existent un jour, prennent le dessus.
 //
-// Structure :
-//   nl:abonnes   hash  email → {"date": ISO, "source": "footer" | "page" | "commande"}
-//   nl:rl:<ip>   compteur anti-abus, expire au bout de 10 minutes
+// Publier ces valeurs dans un dépôt public ne montre aucun email : elles permettent
+// seulement d'AJOUTER une ligne. La Sheet, elle, reste accessible au seul compte de Shahin.
 //
-// Fichier réservé au serveur : il lit le jeton Redis, qui ne doit jamais partir dans le
-// JavaScript envoyé au navigateur.
+// Fichier réservé au serveur.
 
 import "server-only";
 
-export const SOURCES = ["footer", "page", "commande"] as const;
+export const SOURCES = ["footer", "page", "commande", "popup"] as const;
 export type Source = (typeof SOURCES)[number];
 
-export type Abonne = { email: string; date: string; source: Source };
+/** https://docs.google.com/forms/d/e/<identifiant>/formResponse */
+const ACTION = process.env.NEWSLETTER_FORM_ACTION || "";
+/** entry.<nombre> de la question « Email » */
+const CHAMP_EMAIL = process.env.NEWSLETTER_FORM_EMAIL || "";
+/** entry.<nombre> d'une question « Source », facultative : dit d'où vient l'inscription */
+const CHAMP_SOURCE = process.env.NEWSLETTER_FORM_SOURCE || "";
+/** Lien de la Google Sheet, pour le bouton du tableau de bord. Facultatif. */
+export const LIEN_FEUILLE = process.env.NEWSLETTER_SHEET_URL || "";
 
-const CLE = "nl:abonnes";
-
-function config(): { url: string; jeton: string } | null {
-  const url = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
-  const jeton = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
-  return url && jeton ? { url: url.replace(/\/$/, ""), jeton } : null;
-}
-
-/** Vrai quand le stockage est branché. Sans lui, les formulaires ne s'affichent pas. */
+/** Vrai quand le formulaire est branché. Sans lui, aucun champ d'inscription ne s'affiche. */
 export function newsletterActive(): boolean {
-  return config() !== null;
-}
-
-async function redis(commande: (string | number)[]): Promise<unknown> {
-  const c = config();
-  if (!c) throw new Error("Stockage newsletter non configuré");
-  const r = await fetch(c.url, {
-    method: "POST",
-    headers: { Authorization: `Bearer ${c.jeton}`, "Content-Type": "application/json" },
-    body: JSON.stringify(commande),
-    cache: "no-store",
-  });
-  const data = (await r.json()) as { result?: unknown; error?: string };
-  if (!r.ok || data.error) throw new Error(`Redis : ${data.error || r.status}`);
-  return data.result;
-}
-
-async function pipeline(commandes: (string | number)[][]): Promise<unknown[]> {
-  const c = config();
-  if (!c) throw new Error("Stockage newsletter non configuré");
-  const r = await fetch(`${c.url}/pipeline`, {
-    method: "POST",
-    headers: { Authorization: `Bearer ${c.jeton}`, "Content-Type": "application/json" },
-    body: JSON.stringify(commandes),
-    cache: "no-store",
-  });
-  const data = (await r.json()) as { result?: unknown; error?: string }[];
-  if (!r.ok) throw new Error(`Redis : ${r.status}`);
-  return data.map((d) => {
-    if (d.error) throw new Error(`Redis : ${d.error}`);
-    return d.result;
-  });
+  return Boolean(ACTION && CHAMP_EMAIL);
 }
 
 // Assez strict pour écarter les fautes de frappe grossières, assez souple pour ne jamais
-// refuser une adresse réelle. La seule vraie validation, c'est l'email qui arrive.
-const FORMAT = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+// refuser une adresse réelle. On refuse aussi un premier caractère = + - @ : dans une
+// Google Sheet, il ferait lire l'adresse comme une formule.
+const FORMAT = /^[^\s@=+\-][^\s@]*@[^\s@]+\.[^\s@]{2,}$/;
 
 export function emailValide(email: string): boolean {
   return email.length <= 254 && FORMAT.test(email);
 }
 
-/**
- * Inscrit un email. Renvoie "nouveau" ou "deja". HSETNX conserve la date et la source
- * de la PREMIÈRE inscription : se réinscrire depuis un autre formulaire n'écrase rien.
- */
-export async function inscrire(email: string, source: Source): Promise<"nouveau" | "deja"> {
-  const valeur = JSON.stringify({ date: new Date().toISOString(), source });
-  const r = await redis(["HSETNX", CLE, email, valeur]);
-  return r === 1 ? "nouveau" : "deja";
-}
-
-/**
- * Limite à 8 tentatives par tranche de 10 minutes et par visiteur. L'adresse IP n'est
- * pas stockée telle quelle : seule une empreinte courte sert de clé, et elle expire.
- */
-export async function tropDeTentatives(ip: string): Promise<boolean> {
-  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(`nl:${ip}`));
-  const empreinte = Array.from(new Uint8Array(buf).slice(0, 8))
-    .map((b) => b.toString(16).padStart(2, "0"))
-    .join("");
-  const cle = `nl:rl:${empreinte}`;
-  const [compte] = await pipeline([
-    ["INCR", cle],
-    ["EXPIRE", cle, 600],
-  ]);
-  return Number(compte) > 8;
-}
-
-export async function listerAbonnes(): Promise<Abonne[]> {
-  const brut = (await redis(["HGETALL", CLE])) as string[] | null;
-  const abonnes: Abonne[] = [];
-  for (let i = 0; brut && i < brut.length; i += 2) {
-    let date = "";
-    let source: Source = "footer";
-    try {
-      const v = JSON.parse(brut[i + 1]);
-      date = String(v.date || "");
-      if (SOURCES.includes(v.source)) source = v.source;
-    } catch {
-      // valeur illisible : on garde l'email, c'est ce qui compte
-    }
-    abonnes.push({ email: brut[i], date, source });
-  }
-  return abonnes.sort((a, b) => b.date.localeCompare(a.date));
-}
-
-export async function retirerAbonne(email: string): Promise<boolean> {
-  return (await redis(["HDEL", CLE, email])) === 1;
+export async function inscrire(email: string, source: Source): Promise<void> {
+  const corps = new URLSearchParams({ [CHAMP_EMAIL]: email });
+  if (CHAMP_SOURCE) corps.set(CHAMP_SOURCE, source);
+  const r = await fetch(ACTION, {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: corps.toString(),
+    cache: "no-store",
+    // Google répond 200 quand la réponse est enregistrée. Un formulaire non publié ou
+    // réservé aux comptes connectés redirige vers la page de connexion : en suivant la
+    // redirection, on lirait un 200 trompeur et l'email serait perdu en silence.
+    redirect: "manual",
+    signal: AbortSignal.timeout(10_000),
+  });
+  if (r.status !== 200) throw new Error(`Google Forms : HTTP ${r.status}`);
 }
