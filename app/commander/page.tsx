@@ -7,6 +7,7 @@ import { CheckCircle, Phone, ShoppingBag, ExternalLink } from "lucide-react";
 import { useCart } from "@/contexts/CartContext";
 import { formatPrice } from "@/lib/products";
 import emailjs from "@emailjs/browser";
+import BlocNewsletterCommande from "@/components/newsletter/BlocNewsletterCommande";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // EMAILJS CONFIG — à remplir sur https://www.emailjs.com/
@@ -181,6 +182,10 @@ export default function CommanderPage() {
               <ExternalLink size={14} />
             </a>
           )}
+
+          {/* Newsletter : seulement quand la commande est bien partie. Si elle doit encore
+              être confirmée sur WhatsApp, rien ne doit détourner de ce bouton. */}
+          {!emailFailed && <BlocNewsletterCommande />}
 
           <Link
             href="/"

@@ -9,6 +9,7 @@ import {
   Users,
   Wallet,
   Settings,
+  Mail,
   LogOut,
 } from "lucide-react";
 import { TdbProvider, useTdb } from "@/components/tdb/TdbProvider";
@@ -17,12 +18,14 @@ import VueCommandes from "@/components/tdb/VueCommandes";
 import VueClients from "@/components/tdb/VueClients";
 import VueCaisse from "@/components/tdb/VueCaisse";
 import VueReglages from "@/components/tdb/VueReglages";
+import VueNewsletter from "@/components/tdb/VueNewsletter";
 
 const ONGLETS = [
   { cle: "bord", label: "Tableau de bord", Icone: BarChart3 },
   { cle: "commandes", label: "Commandes", Icone: ClipboardList },
   { cle: "clients", label: "Clients", Icone: Users },
   { cle: "caisse", label: "Caisse", Icone: Wallet },
+  { cle: "newsletter", label: "Newsletter", Icone: Mail },
   { cle: "reglages", label: "Réglages", Icone: Settings },
 ] as const;
 
@@ -110,6 +113,7 @@ function Contenu() {
             {onglet === "commandes" && <VueCommandes />}
             {onglet === "clients" && <VueClients />}
             {onglet === "caisse" && <VueCaisse />}
+            {onglet === "newsletter" && <VueNewsletter />}
             {onglet === "reglages" && <VueReglages />}
           </>
         )}

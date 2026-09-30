@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { Phone, MapPin } from "lucide-react";
+import BlocNewsletterFooter from "@/components/newsletter/BlocNewsletterFooter";
+import { newsletterActive } from "@/lib/newsletter";
 
 const cols = [
   {
@@ -42,40 +44,10 @@ const cols = [
 export default function Footer() {
   return (
     <footer className="bg-[#F5F5F5] mt-auto">
-      {/* Newsletter */}
-      <div className="max-w-[1440px] mx-auto px-6 lg:px-10 py-14 text-center">
-        <h3
-          className="text-[#535359]"
-          style={{
-            fontFamily: "var(--font-libre-bodoni), Georgia, serif",
-            fontSize: 24,
-            fontWeight: 400,
-          }}
-        >
-          Newsletter
-        </h3>
-        <p className="text-sm text-[#535359] mt-2 mb-5 opacity-70">
-          Abonnez-vous pour recevoir nos nouveautés et offres exclusives
-        </p>
-        <div className="flex items-center justify-center gap-4 max-w-sm mx-auto">
-          <input
-            type="email"
-            placeholder="Votre email"
-            className="flex-1 bg-transparent outline-none text-sm text-[#535359] py-2"
-            style={{ borderBottom: "1px solid #535359" }}
-          />
-          <button
-            className="cursor-pointer bg-transparent border-none text-xs font-medium uppercase tracking-[1px] text-[#535359] hover:opacity-70 transition-opacity"
-          >
-            Valider
-          </button>
-        </div>
-      </div>
-
-      {/* HR */}
-      <div className="max-w-[1440px] mx-auto px-6 lg:px-10">
-        <hr className="border-none" style={{ borderTop: "1px solid #e5e5e5" }} />
-      </div>
+      {/* Newsletter. Jusqu'au 30/09/2026 ce bloc était décoratif : le champ n'était relié à
+          rien et « Valider » n'avait aucune action, donc chaque email tapé ici était perdu.
+          Il ne s'affiche que si le stockage des abonnés est branché (lib/newsletter.ts). */}
+      {newsletterActive() && <BlocNewsletterFooter />}
 
       {/* Main footer */}
       <div className="max-w-[1440px] mx-auto px-6 lg:px-10 py-14">

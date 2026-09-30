@@ -45,6 +45,11 @@ export default function MentionsLegalesPage() {
               sont utilisées uniquement pour le traitement de votre commande et ne sont pas
               transmises à des tiers.
             </p>
+            <p>
+              L&apos;adresse email laissée pour la newsletter sert uniquement à vous envoyer nos
+              nouveautés et nos offres. Elle n&apos;est ni vendue ni transmise à des tiers. Pour
+              vous désinscrire ou faire supprimer votre adresse, contactez-nous au 07 94 49 60 59.
+            </p>
           </section>
         </div>
       </div>

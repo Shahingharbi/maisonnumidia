@@ -14,6 +14,7 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **WhatsApp (FR) :** +33782214993
 - **Analytics :** GA4 (`G-77YXRM3HBT`) + Microsoft Clarity, dans `app/layout.tsx`
 - **Commandes :** EmailJS côté client (`app/commander/page.tsx`) → boîte du vendeur. Clés dans `.env.local` (local) et Vercel → Settings → Environment Variables (Production + Preview + Dev). Ne jamais coller les vraies valeurs dans ce fichier ni dans un commit.
+- **Newsletter (30/09/2026) :** abonnés stockés dans **Upstash Redis** (Vercel → Storage), seule donnée du site gardée côté serveur — `lib/newsletter.ts`. Inscription depuis le footer, `/newsletter` (noindex, hors sitemap) et l'écran de fin de commande ; liste dans `/tableau-de-bord` → onglet Newsletter. Sans les variables Redis, les formulaires ne s'affichent pas (le footer avait un formulaire décoratif qui perdait chaque email). **La liste n'est servie que si `TDB_PASS` est défini dans Vercel** : le dépôt GitHub est public et le mot de passe par défaut de `lib/tdb/auth.ts` y est lisible. Ne jamais lever cette garde. La pop-up « Suivez-nous » (`components/layout/PopupSuivi.tsx`) documente ses règles anti-insistance en tête de fichier.
 
 ### État du catalogue (26 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
 - **1 729 produits** dans `data/products.json` (612 homme, 846 femme, 271 oriental — par

@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import SocialRail from "@/components/layout/SocialRail";
+import PopupSuivi from "@/components/layout/PopupSuivi";
 import ChromeBoutique from "@/components/layout/ChromeBoutique";
 import { CartProvider } from "@/contexts/CartContext";
 import {
@@ -153,6 +154,7 @@ export default function RootLayout({
           <ChromeBoutique>
             <Footer />
             <SocialRail />
+            <PopupSuivi />
           </ChromeBoutique>
         </CartProvider>
       </body>
