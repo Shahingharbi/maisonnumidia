@@ -1,61 +1,59 @@
-// Stockage des abonnés : un Google Form relié à une Google Sheet.
+// Abonnés à la newsletter : directement dans une liste Brevo.
 //
-// Le site n'a pas de base de données, et Shahin préfère ne pas en brancher une dans Vercel.
-// Un Google Form fait l'affaire sans aucun compte à créer : le serveur du site envoie
-// l'email au formulaire, Google l'ajoute comme une ligne dans la Sheet liée, avec la date.
-// La liste vit dans le Google Drive de Shahin, privée, lisible depuis son téléphone.
+// Brevo est l'outil d'envoi de Shahin (il l'utilise déjà pour son autre boutique) : les
+// newsletters partiront de là, avec le lien de désinscription obligatoire. Inscrire les
+// abonnés directement dans la liste évite tout export, et Brevo met à jour un contact
+// existant au lieu de créer un doublon.
 //
-// POUR BRANCHER (une fois) : créer le formulaire avec une question « Email », le relier à
-// une Sheet, le publier, puis renseigner ci-dessous l'adresse d'envoi et l'identifiant du
-// champ (tous deux lisibles dans le code source public du formulaire). Les variables
-// d'environnement, si elles existent un jour, prennent le dessus.
+// LA CLÉ D'API DONNE UN ACCÈS COMPLET AU COMPTE BREVO : envoi d'emails, lecture de tous
+// les contacts, y compris ceux de l'autre boutique. Elle ne doit JAMAIS être écrite dans
+// ce dépôt, qui est public. Elle vit dans Vercel → Settings → Environment Variables :
+//   BREVO_API_KEY   la clé (xkeysib-…)
+//   BREVO_LIST_ID   le numéro de la liste Maison Numidia dans Brevo
+// Sans ces deux valeurs, aucun champ d'inscription ne s'affiche sur le site.
 //
-// Publier ces valeurs dans un dépôt public ne montre aucun email : elles permettent
-// seulement d'AJOUTER une ligne. La Sheet, elle, reste accessible au seul compte de Shahin.
-//
-// Fichier réservé au serveur.
+// Fichier réservé au serveur : la clé ne doit jamais partir dans le JavaScript du navigateur.
 
 import "server-only";
 
-export const SOURCES = ["footer", "page", "commande", "popup"] as const;
-export type Source = (typeof SOURCES)[number];
+const API = process.env.BREVO_API_URL || "https://api.brevo.com/v3"; // surchargé seulement pour les tests locaux
+const CLE = process.env.BREVO_API_KEY || "";
+const LISTE = Number(process.env.BREVO_LIST_ID || "");
 
-/** https://docs.google.com/forms/d/e/<identifiant>/formResponse */
-const ACTION = process.env.NEWSLETTER_FORM_ACTION || "";
-/** entry.<nombre> de la question « Email » */
-const CHAMP_EMAIL = process.env.NEWSLETTER_FORM_EMAIL || "";
-/** entry.<nombre> d'une question « Source », facultative : dit d'où vient l'inscription */
-const CHAMP_SOURCE = process.env.NEWSLETTER_FORM_SOURCE || "";
-/** Lien de la Google Sheet, pour le bouton du tableau de bord. Facultatif. */
-export const LIEN_FEUILLE = process.env.NEWSLETTER_SHEET_URL || "";
-
-/** Vrai quand le formulaire est branché. Sans lui, aucun champ d'inscription ne s'affiche. */
+/** Vrai quand Brevo est branché. */
 export function newsletterActive(): boolean {
-  return Boolean(ACTION && CHAMP_EMAIL);
+  return Boolean(CLE) && Number.isInteger(LISTE) && LISTE > 0;
+}
+
+/** Numéro de la liste Brevo, pour l'onglet du tableau de bord. */
+export function numeroListe(): number | null {
+  return newsletterActive() ? LISTE : null;
 }
 
 // Assez strict pour écarter les fautes de frappe grossières, assez souple pour ne jamais
-// refuser une adresse réelle. On refuse aussi un premier caractère = + - @ : dans une
-// Google Sheet, il ferait lire l'adresse comme une formule.
-const FORMAT = /^[^\s@=+\-][^\s@]*@[^\s@]+\.[^\s@]{2,}$/;
+// refuser une adresse réelle.
+const FORMAT = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
 export function emailValide(email: string): boolean {
   return email.length <= 254 && FORMAT.test(email);
 }
 
-export async function inscrire(email: string, source: Source): Promise<void> {
-  const corps = new URLSearchParams({ [CHAMP_EMAIL]: email });
-  if (CHAMP_SOURCE) corps.set(CHAMP_SOURCE, source);
-  const r = await fetch(ACTION, {
+/**
+ * Ajoute l'email à la liste. `updateEnabled` : un contact déjà connu de Brevo (inscrit à la
+ * boutique cosmétique, par exemple) est rattaché à cette liste au lieu de provoquer une erreur.
+ * Brevo répond 201 (contact créé) ou 204 (contact existant mis à jour).
+ */
+export async function inscrire(email: string): Promise<void> {
+  const r = await fetch(`${API}/contacts`, {
     method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    body: corps.toString(),
+    headers: { "api-key": CLE, accept: "application/json", "content-type": "application/json" },
+    body: JSON.stringify({ email, listIds: [LISTE], updateEnabled: true }),
     cache: "no-store",
-    // Google répond 200 quand la réponse est enregistrée. Un formulaire non publié ou
-    // réservé aux comptes connectés redirige vers la page de connexion : en suivant la
-    // redirection, on lirait un 200 trompeur et l'email serait perdu en silence.
-    redirect: "manual",
     signal: AbortSignal.timeout(10_000),
   });
-  if (r.status !== 200) throw new Error(`Google Forms : HTTP ${r.status}`);
+  if (r.status !== 201 && r.status !== 204) {
+    // Le message de Brevo aide au diagnostic dans les logs Vercel ; il ne contient pas la clé.
+    const detail = await r.text().catch(() => "");
+    throw new Error(`Brevo : HTTP ${r.status} ${detail.slice(0, 200)}`);
+  }
 }
