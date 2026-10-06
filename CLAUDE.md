@@ -320,6 +320,19 @@ Pipeline rejouable (`scripts/_price-research/`, lancer depuis la racine du repo,
 4. `apply-market-prices.mjs` (simulation) puis `--apply`. Garde-fous : variation max 45 % en niveau A ou vérifiée web, 25 % en niveau B, 20 % en estimation ; au-delà, le produit va dans la liste "à revoir" et garde son prix.
 Recalage du 15/09/2026 : 539 prix modifiés (248 hausses, 291 baisses), 43 à revoir, 153 inchangés.
 
+**La liste « à revoir » du 15/09 n'a jamais été relue** — et elle contenait de vrais prix justes bloqués par le plafond : Zadig & Voltaire This Is Him est resté à 10 000 DA pour un marché à 18 900 DA, jusqu'à ce que Shahin le remarque le 06/10. Un plafond de variation ne doit jamais être une impasse : ce qui le dépasse part en vérification, et revient.
+
+**Procédure de rafraîchissement depuis le 06/10/2026** (`scripts/_price-research/rafraichir.mjs`) :
+1. Collecte fraîche (`fetch-apis.mjs` + `agents/fetch-oriental-shops.mjs`, ~1 h), puis `match-v3.mjs` sur **toutes** les fiches (1 371 sur 1 729 ont un prix concurrent fiable au 06/10).
+2. `node scripts/_price-research/rafraichir.mjs` : plan. Applique d'office ce qui reste sous le plafond (A 45 %, B 25 %), envoie le reste dans `rafraichissement/a-verifier.json` : gros écarts, ancienne liste « à revoir », prix à moins de 55 % de la médiane de leur maison.
+3. Workflow de vérification (agents Sonnet, identité exacte : même déclinaison, concentration, format, ni testeur ni décant) → `rafraichissement/verifs/lot-N.json`. **Figer la liste avant de lancer** (`a-verifier-fige.json`) : relancer le script pendant que les agents lisent la réécrirait.
+4. Relire chaque cas vérifié avant d'appliquer, puis **recalculer le prix avec la médiane de TOUTES les sources vérifiées**, pas avec la plus basse (Gris Dior : 4 boutiques entre 65 500 et 85 000 DA → 74 500 DA, et non 67 500).
+- **`data/prix-imposes.json`** : un prix fixé par Shahin n'est jamais recalculé (This Is Him à 21 000 DA).
+- **parfumalgerie.shop est systématiquement plus chère** que les autres boutiques (~+40 % sur Givenchy, Nishane Zenne 49 500 DA contre 31 000–32 200 ailleurs). Seule source d'un prix : ne pas suivre.
+- Le prix normal compte, pas une promo temporaire (Clinique Happy for Men : 11 500 DA, pas les 9 000 DA soldés chez Briki).
+
+Passage du 06/10/2026 : 478 prix recalés d'office (133 hausses, 345 baisses — 317 de ces baisses sur des fiches ajoutées en septembre, dont la chaîne d'ajout avait fixé le prix un peu au-dessus de la règle), 12 après vérification, ~30 cas incertains soumis à Shahin.
+
 Fourchettes réelles au 15/09/2026 (vérifier avec `node -e` avant de s'y fier, ça évolue) :
 - Dior / Chanel : **23 000 à 48 000 DA**
 - Mid-range (Paco Rabanne, Armani, JPG) : **12 500 à 30 000 DA**
