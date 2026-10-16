@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { Phone, MapPin } from "lucide-react";
 import BlocNewsletterFooter from "@/components/newsletter/BlocNewsletterFooter";
 import { newsletterActive } from "@/lib/newsletter";

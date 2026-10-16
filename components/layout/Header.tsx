@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import Image from "next/image";
 import { Menu, X, ChevronDown, Phone } from "lucide-react";
 import CartButton from "@/components/cart/CartButton";

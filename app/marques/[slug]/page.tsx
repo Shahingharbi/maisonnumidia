@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { getBrandBySlug, getProductsByBrand, getBrandsWithProducts } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import Breadcrumb from "@/components/layout/Breadcrumb";

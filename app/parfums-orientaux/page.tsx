@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { getOrientalProducts, getBrandBySlug } from "@/lib/products";
 import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";

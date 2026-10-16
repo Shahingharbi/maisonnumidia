@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 

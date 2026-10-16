@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { getAllProducts, getAllBrands, getProductsByCategory } from "@/lib/products";
 import { articles } from "@/data/blog";
 

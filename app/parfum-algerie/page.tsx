@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { getFeaturedProducts, getAllBrands } from "@/lib/products";
 import ProductCard from "@/components/product/ProductCard";
 import { ArrowRight, Truck, Shield, Phone } from "lucide-react";

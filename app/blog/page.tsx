@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { articles } from "@/data/blog";
 import { Clock, ArrowRight } from "lucide-react";
 import { getItemListSchema } from "@/lib/seo";

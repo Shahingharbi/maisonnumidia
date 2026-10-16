@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import FormulaireNewsletter from "@/components/newsletter/FormulaireNewsletter";
 import { newsletterActive } from "@/lib/newsletter";
 

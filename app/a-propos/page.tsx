@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { MapPin, Phone, Shield, Truck, Award, Users } from "lucide-react";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getBreadcrumbSchema } from "@/lib/seo";

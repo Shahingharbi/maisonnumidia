@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import { getArticleBySlug, getAllArticleSlugs } from "@/data/blog";
 import { Clock, ArrowLeft, ArrowRight } from "lucide-react";
 import Breadcrumb from "@/components/layout/Breadcrumb";

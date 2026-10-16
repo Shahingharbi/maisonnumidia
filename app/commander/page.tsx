@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import Link from "@/components/Lien";
 import Image from "next/image";
 import { CheckCircle, Phone, ShoppingBag, ExternalLink } from "lucide-react";
 import { useCart } from "@/contexts/CartContext";

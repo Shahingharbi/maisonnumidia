@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/Lien";
 
 interface Brand {
   label: string;
