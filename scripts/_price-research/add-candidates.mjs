@@ -9,10 +9,10 @@
 // Lecture seule. Sorties : scripts/_price-research/add-candidates.json (+ résumé console)
 import fs from "fs";
 import { norm, FILLER, brandSignatures, TOKEN_ALIASES, volOf, NON_PERFUME } from "./lib-match.mjs";
+import { prixDeVente } from "./regle-prix.mjs";
 
 const RAW = "./scripts/_price-research/raw2";
 const EXCLUDED_SITES = new Set(["smellgood"]); // décants
-const PREMIUM = 0.03;
 const { products, brands } = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
 const report = JSON.parse(fs.readFileSync("./scripts/_price-research/report-v3.json", "utf8"));
 const matchedUrls = new Set(report.flatMap((r) => [...(r.sources || []), ...(r.weakSources || [])].map((s) => s.url)).filter(Boolean));
@@ -158,8 +158,8 @@ for (const [gk, list] of groups) {
       const mainVol = Object.entries(volCount).sort((a, b) => b[1] - a[1] || Math.abs(100 - a[0]) - Math.abs(100 - b[0]))[0]?.[0];
       const atVol = mainVol ? clist.filter((o) => String(o.vol) === mainVol).map((o) => o.price) : clist.map((o) => o.price);
       const med = [...atVol].sort((a, b) => a - b)[atVol.length >> 1];
-      const target = med * (1 + PREMIUM);
-      const proposed = Math.ceil(target / (target < 10000 ? 100 : 500)) * (target < 10000 ? 100 : 500);
+      // Règle partagée (regle-prix.mjs) : un nouveau parfum entre au même niveau de marge que le reste.
+      const proposed = prixDeVente(med);
       // statut vs notre catalogue
       const ourK = [`${brandKey}|${base}|${g}`, `${brandKey}|${base}|-`];
       const ourConcs = ourK.map((k) => ourByBase.get(k)).find(Boolean);

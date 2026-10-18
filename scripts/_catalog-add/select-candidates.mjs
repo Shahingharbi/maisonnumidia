@@ -4,6 +4,7 @@
 // Sortie : scripts/_catalog-add/candidates.json (+ resume des marques manquantes).
 // Ne touche jamais data/products.json.
 import fs from "fs";
+import { prixDeVente } from "../_price-research/regle-prix.mjs";
 
 const COMB = new RegExp("[" + String.fromCharCode(0x300) + "-" + String.fromCharCode(0x36f) + "]", "g");
 const NONALNUM = new RegExp("[^a-z0-9]+", "g");
@@ -59,7 +60,9 @@ for (const r of ROWS) {
     concentration: o.concentration || null,
     volume: o.volume || null,
     categorieIndice: o.categorie,
-    prix: Math.max(6500, o.prixNous || o.prixMedian || 0),
+    // Prix recalculé depuis le prix marché brut avec la règle partagée : prixNous, figé dans
+    // add-list/data.js, date de l'ancienne règle (+3 %).
+    prix: o.prixMedian ? prixDeVente(o.prixMedian) : Math.max(6500, o.prixNous || 0),
     nbBoutiques: o.nbBoutiques,
     boutiques: o.boutiques,
     source: o.url,

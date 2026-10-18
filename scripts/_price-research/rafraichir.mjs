@@ -19,6 +19,7 @@
 //
 // Sorties : scripts/_price-research/rafraichissement/{plan.json, a-verifier.json, journal.json}
 import fs from "fs";
+import { prixDeVente } from "./regle-prix.mjs";
 
 const APPLY = process.argv.includes("--apply");
 // Pendant qu'un workflow de vérification tourne, ses fichiers sont incomplets : cette option
@@ -29,16 +30,12 @@ const SORTIE = `${DIR}/rafraichissement`;
 const VERIF = `${SORTIE}/verifs`; // un fichier par lot, écrit par les agents
 fs.mkdirSync(VERIF, { recursive: true });
 
-const PREMIUM = 0.03;
-const PLANCHER = 6500;
 // Plafond de variation appliquée sans vérification : A = 2+ boutiques cohérentes, B = 1 seule.
 const PLAFOND = { A: 0.45, B: 0.25 };
 
-const prixDe = (marche) => {
-  const t = marche * (1 + PREMIUM);
-  const pas = t < 10000 ? 100 : 500;
-  return Math.max(PLANCHER, Math.ceil(t / pas) * pas);
-};
+// Règle de prix partagée (regle-prix.mjs) : médiane +20 % jusqu'à 15 000 DA, +10 % au-dessus,
+// depuis le 18/10/2026 (+3 % auparavant). Ne jamais la recoder ici.
+const prixDe = (marche) => prixDeVente(marche);
 const ml = (v) => parseInt(String(v), 10) || 100;
 // Même ajustement de format que match-v3 : le prix ne suit pas le volume linéairement.
 const ajusteVolume = (prix, volSource, volCible) => prix * Math.pow(volCible / volSource, 0.72);
