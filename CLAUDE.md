@@ -24,7 +24,7 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
   pas, voir règle n°2)
 - **150 marques** dans `data/products.json.brands[]`, toutes pourvues d'au moins un produit.
   Celles qui n'en auraient pas sont exclues de `/marques` et renvoient 404 (`getBrandsWithProducts`)
-- **36 produits en rupture** (`inStock: false`) : parfums arrêtés ou introuvables, vérifiés un par un
+- **63 produits en rupture** (`inStock: false`) au 18/10/2026 : parfums arrêtés ou éditions limitées passées, **chacun avec une preuve écrite** (fiche « Discontinued » d'un revendeur, article, date de l'édition limitée). Liste et preuves des 27 derniers : `scripts/_price-research/ruptures/`. Une rupture chez toutes les boutiques algériennes ne suffit PAS : sur 322 parfums épuisés ou absents en Algérie, 71 étaient encore fabriqués.
 - **14 articles blog** dans `data/blog.ts` (contenu en **Markdown** — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
 - **0 brandSlug orphelin, 0 related cassé, 0 produit sans image, 0 doublon** (audit règle n°6)
