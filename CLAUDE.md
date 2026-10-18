@@ -8,7 +8,8 @@
 
 Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yalidine 58 wilayas.
 - **Stack :** Next.js **16.1.6** (App Router, Turbopack), React 19, Tailwind v4, TypeScript strict, pnpm
-- **Déploiement :** Vercel — GitHub : Shahingharbi/maisonnumidia
+- **Déploiement :** Vercel — GitHub : Shahingharbi/maisonnumidia. **Depuis le 16/10/2026 : compte `shahingharbi`, offre Pro**, projet `maisonnumidia` (l'ancien compte gratuit `contatto-2302` a été mis en pause pour dépassement : 2,9 M de requêtes CDN sur 30 jours pour 1 M autorisé). Les variables d'environnement (EmailJS, Brevo) sont propres à chaque projet Vercel : **en changeant de projet, les recopier et redéployer**, sinon le site est construit avec `YOUR_SERVICE_ID` et plus aucune commande n'arrive par email (vécu du 16 au 18/10/2026).
+- **Liens internes : TOUJOURS `import Link from "@/components/Lien"`, jamais `next/link`.** Ce composant coupe le préchargement automatique de Next.js. Avec ~190 liens par catégorie, 63 par fiche et 2 200 sur le plan du site, chaque passage de Googlebot (qui affiche la page sur toute sa hauteur) déclenchait des centaines de requêtes : c'est ce qui a fait exploser le quota Vercel. Mesuré après correctif : 287 liens visibles, 0 requête de préchargement.
 - **Domaine :** maisonnumidia.store (le `www` redirige en 301 vers l'apex — voir `next.config.ts`)
 - **Téléphone :** 07 94 49 60 59
 - **WhatsApp (FR) :** +33782214993
