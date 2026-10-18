@@ -29,7 +29,7 @@ export const articles: BlogArticle[] = [
 
 Trouver le meilleur parfum homme n'est pas une question simple. Entre les classiques intemporels, les nouvelles sorties et les parfums orientaux qui font fureur en Algérie, le choix peut sembler vertigineux. Chez Maison Numidia, nous avons sélectionné les 10 meilleures fragrances masculines disponibles en Algérie — basées sur les ventes, les avis clients, et notre expertise de la parfumerie.
 
-Tous ces parfums sont disponibles avec livraison dans les 58 wilayas via Yalidine, et paiement à la livraison (COD).
+Tous ces parfums sont disponibles avec livraison dans les 69 wilayas via Yalidine, et paiement à la livraison.
 
 ---
 
@@ -186,7 +186,7 @@ Avant de décider, posez-vous ces trois questions :
 ## Commander votre parfum homme en Algérie
 
 Tous les parfums de ce classement sont disponibles chez **Maison Numidia** avec :
-- Livraison dans les **58 wilayas** via Yalidine Express (24-72h)
+- Livraison dans les **69 wilayas** via Yalidine Express (24-72h)
 - **Paiement à la livraison** — aucune carte bancaire requise
 - Parfums **100% authentiques** garantis
 - Service client **WhatsApp** disponible 7j/7
@@ -299,7 +299,7 @@ Une fois que vous savez ce que vous aimez, investissez dans un Delina ou un Layt
 Jusqu'à récemment, acheter des parfums de niche en Algérie relevait du parcours du combattant : voyages à Paris, commandes internationales avec frais de douanes élevés, risque de contrefaçon sur les plateformes non officielles.
 
 **Maison Numidia** change cela en important directement des fragrances niche authentiques et en les proposant :
-- **En ligne** avec livraison dans les 58 wilayas
+- **En ligne** avec livraison dans les 69 wilayas
 - **Paiement à la livraison** — aucun risque pour vous
 - **Authenticité garantie** — nous nous engageons sur la qualité
 - **Conseils personnalisés** via WhatsApp
@@ -463,7 +463,7 @@ Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/p
     slug: "meilleur-parfum-femme",
     title: "Meilleur Parfum Femme 2026 : Notre Sélection pour l'Algérie",
     metaTitle: "Meilleur Parfum Femme 2026 en Algérie — Top 10",
-    metaDescription: "Quel est le meilleur parfum femme en Algérie en 2026 ? Notre top 10 des fragrances féminines avec prix en DA, livraison dans les 58 wilayas.",
+    metaDescription: "Quel est le meilleur parfum femme en Algérie en 2026 ? Notre top 10 des fragrances féminines avec prix en DA, livraison dans les 69 wilayas.",
     publishedAt: "2026-02-10",
     category: "Guide d'achat",
     readTime: 9,
@@ -472,7 +472,7 @@ Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/p
 
 Choisir le meilleur parfum femme, c'est une décision qui mérite réflexion. Entre les floraux légers pour le quotidien, les orientaux profonds pour les soirées, et les chyprés sophistiqués pour les occasions spéciales, chaque femme a ses propres codes olfactifs. En Algérie, les goûts féminins combinent l'attachement aux grandes marques internationales avec une sensibilité pour les notes florales et orientales.
 
-Voici notre sélection des 10 meilleurs parfums femme disponibles chez Maison Numidia, avec livraison dans les 58 wilayas et paiement à la réception.
+Voici notre sélection des 10 meilleurs parfums femme disponibles chez Maison Numidia, avec livraison dans les 69 wilayas et paiement à la réception.
 
 ## 1. Armani My Way EDP — Le Meilleur Floral Polyvalent
 
@@ -711,7 +711,7 @@ Selon nos ventes, les notes florales préférées des femmes algériennes sont, 
 
 ## Commander vos parfums floraux en Algérie
 
-Toute notre sélection de [parfums femme](/parfums-femme) est disponible avec livraison dans les 58 wilayas algériennes via Yalidine, paiement à la livraison (COD). Pas d'avance, pas de risque — vous payez quand vous recevez votre commande.
+Toute notre sélection de [parfums femme](/parfums-femme) est disponible avec livraison dans les 69 wilayas algériennes via Yalidine, paiement à la livraison. Pas d'avance, pas de risque — vous payez quand vous recevez votre commande.
 
 Pour une consultation personnalisée, contactez-nous via WhatsApp.`,
     author: {
@@ -798,7 +798,7 @@ Certains parfums sont tout simplement irremplaçables. Leurs formules utilisent 
 
 Achetez des originaux moins médiatisés plutôt que des dupes de parfums célèbres. Pour 9 000 à 17 000 DA, vous pouvez acquérir un parfum authentique de [Davidoff](/parfums/davidoff-cool-water), [Azzaro](/parfums/azzaro-chrome), [Nautica](/parfums/nautica-voyage) ou [Cacharel](/parfums/amor-amor-cacharel) qui durera 3 à 5 fois plus longtemps qu'un dupe à 1 000 DA.
 
-Maison Numidia ne vend que des parfums **originaux et authentiques**, avec livraison COD dans les 58 wilayas. Consultez notre [catalogue parfums femme](/parfums-femme) et [parfums homme](/parfums-homme).`,
+Maison Numidia ne vend que des parfums **originaux et authentiques**, avec livraison et paiement à la réception dans les 69 wilayas. Consultez notre [catalogue parfums femme](/parfums-femme) et [parfums homme](/parfums-homme).`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -907,7 +907,7 @@ Pour l'Aïd el-Fitr et l'Aïd el-Adha, beaucoup de femmes algériennes choisisse
 
 ## Commander vos parfums poudrés en Algérie
 
-Toute notre sélection est disponible avec livraison dans les 58 wilayas, paiement à la réception. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes nos fragrances poudrées et leur disponibilité.`,
+Toute notre sélection est disponible avec livraison dans les 69 wilayas, paiement à la réception. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes nos fragrances poudrées et leur disponibilité.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -1030,11 +1030,11 @@ Voici notre sélection finale, classée par profil olfactif, pour passer l'été
 
 **5. [Cacharel Amor Amor](/parfums/amor-amor-cacharel)** — Mandarine, cassis, fleur d'oranger. Le rapport qualité-prix imbattable de la sélection.
 
-Tous ces parfums sont en stock avec livraison Yalidine 24-72h dans les 58 wilayas.
+Tous ces parfums sont en stock avec livraison Yalidine 24-72h dans les 69 wilayas.
 
 ## Commander vos parfums d'été en Algérie
 
-Tous nos parfums sont disponibles avec livraison COD dans les 58 wilayas algériennes via Yalidine. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes les fragrances avec leur prix en dinar algérien.`,
+Tous nos parfums sont disponibles avec livraison et paiement à la réception dans les 69 wilayas algériennes via Yalidine. Consultez notre catalogue de [parfums femme](/parfums-femme) pour découvrir toutes les fragrances avec leur prix en dinar algérien.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -1132,9 +1132,9 @@ Le marché algérien de la contrefaçon a évolué : les copies sont mieux fabri
 
 Maison Numidia garantit l'authenticité de 100% de ses parfums. Tous nos produits sont originaux, contrôlés à la réception, et livrés dans leur emballage d'origine intact.
 
-Le paiement à la livraison (COD) vous permet de vérifier votre commande à réception avant de payer — vous pouvez inspecter le flacon, l'emballage, et vérifier tous les signes d'authenticité décrits dans ce guide.
+Le paiement à la livraison vous permet de vérifier votre commande à réception avant de payer — vous pouvez inspecter le flacon, l'emballage, et vérifier tous les signes d'authenticité décrits dans ce guide.
 
-Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/parfums-femme) et [parfums orientaux](/parfums-orientaux) — livraison dans les 58 wilayas algériennes.`,
+Consultez notre catalogue de [parfums homme](/parfums-homme), [parfums femme](/parfums-femme) et [parfums orientaux](/parfums-orientaux) — livraison dans les 69 wilayas algériennes.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -1212,13 +1212,13 @@ Si Khamrah vous intrigue mais que vous voulez explorer d'autres pistes orientale
 
 ## Prix Khamrah en Algérie
 
-Khamrah 100ml se trouve actuellement entre 8 000 et {{prix:ajmal-amber-wood}} en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 58 wilayas.
+Khamrah 100ml se trouve actuellement entre 8 000 et {{prix:ajmal-amber-wood}} en Algérie selon le revendeur. Chez Maison Numidia, le tarif est aligné sur le marché authentique avec garantie d'origine et livraison incluse dans les 69 wilayas.
 
 Méfiez-vous des offres sous les 5 000 DA sur les réseaux sociaux : à ce prix, soit le flacon est dilué, soit c'est une contrefaçon. Lattafa applique une politique de prix homogène mondialement et les vrais Khamrah ne descendent jamais à ce niveau de tarif.
 
 ## Où acheter Lattafa Khamrah en Algérie
 
-Pour acheter Khamrah en toute confiance, privilégiez les revendeurs qui peuvent justifier la traçabilité du flacon. Maison Numidia importe directement depuis les distributeurs officiels Lattafa et garantit l'authenticité de chaque flacon livré, avec paiement à la livraison via Yalidine dans les 58 wilayas.
+Pour acheter Khamrah en toute confiance, privilégiez les revendeurs qui peuvent justifier la traçabilité du flacon. Maison Numidia importe directement depuis les distributeurs officiels Lattafa et garantit l'authenticité de chaque flacon livré, avec paiement à la livraison via Yalidine dans les 69 wilayas.
 
 Pour explorer d'autres orientaux dans la même gamme, consultez notre [catalogue parfums orientaux](/parfums-orientaux). Et si l'univers de la niche vous intéresse, lisez notre [guide complet des parfums de niche en Algérie](/blog/parfum-de-niche-algerie) pour comprendre comment Khamrah s'inscrit dans la nouvelle vague oriental-niche moderne.
 
@@ -1236,7 +1236,7 @@ Oui, sans hésitation, si vous aimez les orientaux gourmands et que vous cherche
     slug: "meilleur-parfum-femme-2026",
     title: "Meilleur Parfum Femme 2026 en Algérie — Top 10",
     metaTitle: "Meilleur Parfum Femme 2026 Algérie — Top 10",
-    metaDescription: "Top 10 des meilleurs parfums femme 2026 en Algérie, prix en DA, livraison Yalidine 58 wilayas et paiement à la livraison.",
+    metaDescription: "Top 10 des meilleurs parfums femme 2026 en Algérie, prix en DA, livraison Yalidine 69 wilayas et paiement à la livraison.",
     publishedAt: "2026-05-07",
     category: "tendances",
     readTime: 9,
@@ -1317,7 +1317,7 @@ Si vous ne savez pas par où commencer, voici nos recommandations selon votre pr
 - **Parfum de bureau discret :** Idôle ou Narciso For Her.
 - **Parfum de fête et de sortie :** Scandal, Lady Million ou Mon Paris.
 
-Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, consultez notre [catalogue complet de parfums femme](/parfums-femme) avec filtres par marque, famille olfactive et budget. Livraison Yalidine 24-72h dans les 58 wilayas, paiement à la livraison, authenticité garantie sur chaque flacon.`,
+Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, consultez notre [catalogue complet de parfums femme](/parfums-femme) avec filtres par marque, famille olfactive et budget. Livraison Yalidine 24-72h dans les 69 wilayas, paiement à la livraison, authenticité garantie sur chaque flacon.`,
     author: {
       name: "L'équipe Maison Numidia",
       role: "Experts parfumerie, basés à Blida"
@@ -1328,7 +1328,7 @@ Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, 
     slug: "parfum-original-algerie",
     title: "Parfum Original en Algérie : Guide Complet pour Acheter Authentique en 2026",
     metaTitle: "Parfum Original en Algérie — Où Acheter Authentique (2026)",
-    metaDescription: "Comment acheter un parfum 100% original en Algérie en 2026 : où commander, comment reconnaître un faux, prix réels en dinar, paiement à la livraison dans les 58 wilayas.",
+    metaDescription: "Comment acheter un parfum 100% original en Algérie en 2026 : où commander, comment reconnaître un faux, prix réels en dinar, paiement à la livraison dans les 69 wilayas.",
     publishedAt: "2026-06-09",
     category: "Guide d'achat",
     readTime: 9,
@@ -1337,7 +1337,7 @@ Pour aller plus loin et explorer toutes les fragrances disponibles en Algérie, 
 
 Un parfum original en Algérie est un flacon authentique fabriqué par la marque elle-même (Dior, Chanel, Lattafa, Al Haramain...), par opposition aux contrefaçons qui circulent largement sur le marché. Pour acheter un parfum 100% original en Algérie, le moyen le plus sûr est de passer par une parfumerie spécialisée qui garantit l'authenticité et propose le paiement à la livraison — ce qui permet de vérifier le flacon avant de payer.
 
-Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums originaux de plus de 120 marques, livrés dans les 58 wilayas avec paiement à la réception et droit de refus du colis. (À ne pas confondre avec la chanteuse Numidia Lezoul : Maison Numidia est une boutique de parfums.)
+Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums originaux de plus de 120 marques, livrés dans les 69 wilayas avec paiement à la réception et droit de refus du colis. (À ne pas confondre avec la chanteuse Numidia Lezoul : Maison Numidia est une boutique de parfums.)
 
 ---
 
@@ -1349,7 +1349,7 @@ La règle d'or : **un prix trop bas est le premier signal d'alarme.** Un Dior ou
 
 ## Où acheter un parfum original en Algérie ?
 
-Le canal le plus fiable est une **parfumerie en ligne spécialisée** qui (1) garantit l'authenticité par écrit, (2) propose le **paiement à la livraison (COD)**, et (3) accepte le **refus du colis** si le flacon n'est pas conforme. Ces trois conditions protègent l'acheteur : vous ne payez qu'après avoir reçu et vérifié votre parfum.
+Le canal le plus fiable est une **parfumerie en ligne spécialisée** qui (1) garantit l'authenticité par écrit, (2) propose le **paiement à la livraison**, et (3) accepte le **refus du colis** si le flacon n'est pas conforme. Ces trois conditions protègent l'acheteur : vous ne payez qu'après avoir reçu et vérifié votre parfum.
 
 C'est exactement le modèle de Maison Numidia : commande en ligne, livraison Yalidine 24-72h, paiement cash à la réception, aucune avance, aucune carte bancaire. Que vous soyez à **Alger, Oran, Constantine, Annaba, Blida, Sétif** ou dans n'importe quelle wilaya, le colis arrive chez vous et vous payez seulement s'il vous convient.
 
@@ -1388,10 +1388,10 @@ Explorez le catalogue par catégorie : [parfums homme](/parfums-homme), [parfums
     },
     faq: [
       { question: "Comment être sûr d'acheter un parfum original en Algérie ?", answer: "Passez par une parfumerie spécialisée qui garantit l'authenticité par écrit, propose le paiement à la livraison et accepte le refus du colis. Vous ne payez qu'après avoir reçu et vérifié le flacon. Méfiez-vous des prix trop bas : un parfum de grande marque a un coût de production réel." },
-      { question: "Où acheter un parfum original pas cher en Algérie ?", answer: "Les orientaux originaux (Lattafa, Al Haramain, Rasasi) offrent le meilleur rapport qualité-prix, entre 6 500 et 15 500 DA, tout en étant 100% authentiques. Maison Numidia propose ces marques avec livraison dans les 58 wilayas et paiement à la réception." },
-      { question: "Peut-on payer à la livraison pour un parfum en Algérie ?", answer: "Oui. Le paiement à la livraison (COD) est le standard en Algérie et la protection la plus efficace contre les contrefaçons : vous recevez le colis, vous vérifiez le parfum, et vous payez seulement s'il est conforme. Maison Numidia fonctionne uniquement en paiement à la réception." },
+      { question: "Où acheter un parfum original pas cher en Algérie ?", answer: "Les orientaux originaux (Lattafa, Al Haramain, Rasasi) offrent le meilleur rapport qualité-prix, entre 6 500 et 15 500 DA, tout en étant 100% authentiques. Maison Numidia propose ces marques avec livraison dans les 69 wilayas et paiement à la réception." },
+      { question: "Peut-on payer à la livraison pour un parfum en Algérie ?", answer: "Oui. Le paiement à la livraison est le standard en Algérie et la protection la plus efficace contre les contrefaçons : vous recevez le colis, vous vérifiez le parfum, et vous payez seulement s'il est conforme. Maison Numidia fonctionne uniquement en paiement à la réception." },
       { question: "Combien de temps prend la livraison d'un parfum en Algérie ?", answer: "Avec Yalidine Express, comptez 24 à 48h pour Alger, Oran, Blida et les grandes villes du nord, et 48 à 72h pour les wilayas plus éloignées comme Tamanrasset ou Adrar." },
-      { question: "Maison Numidia, c'est quoi ?", answer: "Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums 100% originaux de plus de 120 marques (Dior, Chanel, Lattafa, Al Haramain, YSL...). Livraison Yalidine dans les 58 wilayas, paiement à la livraison, garantie d'authenticité avec droit de refus." }
+      { question: "Maison Numidia, c'est quoi ?", answer: "Maison Numidia est une parfumerie en ligne algérienne basée à Blida, spécialisée dans les parfums 100% originaux de plus de 120 marques (Dior, Chanel, Lattafa, Al Haramain, YSL...). Livraison Yalidine dans les 69 wilayas, paiement à la livraison, garantie d'authenticité avec droit de refus." }
     ]
   },
 
@@ -1408,7 +1408,7 @@ Explorez le catalogue par catégorie : [parfums homme](/parfums-homme), [parfums
 
 Oui, on peut acheter un parfum original pas cher en Algérie — à condition de cibler les bonnes marques. Les maisons orientales comme Lattafa, Al Haramain, Rasasi ou Armaf proposent des parfums 100% authentiques entre 6 500 et 15 500 DA, avec une qualité et une tenue qui rivalisent avec des designers vendus trois fois plus cher. Le piège à éviter : confondre "pas cher" avec "contrefaçon". Un vrai parfum à petit prix existe ; un faux Dior à 2 000 DA reste un faux.
 
-Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose ces parfums abordables et originaux avec paiement à la livraison dans les 58 wilayas.
+Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose ces parfums abordables et originaux avec paiement à la livraison dans les 69 wilayas.
 
 ---
 
@@ -1454,7 +1454,7 @@ Maison Numidia sélectionne des parfums originaux à tous les budgets, du orient
     slug: "meilleur-parfum-oud-algerie",
     title: "Meilleur Parfum Oud et Oriental en Algérie 2026 : Le Classement",
     metaTitle: "Meilleur Parfum Oud Algérie 2026 — Classement Oriental",
-    metaDescription: "Le classement des meilleurs parfums oud et orientaux à acheter en Algérie en 2026 : Lattafa Khamrah, Al Haramain, Rasasi... Prix réels en dinar, tenue, livraison 58 wilayas.",
+    metaDescription: "Le classement des meilleurs parfums oud et orientaux à acheter en Algérie en 2026 : Lattafa Khamrah, Al Haramain, Rasasi... Prix réels en dinar, tenue, livraison 69 wilayas.",
     publishedAt: "2026-06-09",
     category: "Guide d'achat",
     readTime: 8,
@@ -1463,7 +1463,7 @@ Maison Numidia sélectionne des parfums originaux à tous les budgets, du orient
 
 Le meilleur parfum oud en Algérie en 2026 est, selon les ventes et les avis, **Lattafa Khamrah** : un gourmand-oriental à la cannelle, datte et oud, avec une très bonne tenue pour moins de 10 000 DA. Pour un profil plus boisé et puissant, **Lattafa Asad** et **Al Haramain Amber Oud** dominent. Le oud (bois d'agar) est la signature de la parfumerie orientale, particulièrement appréciée en Algérie pour sa profondeur et sa longévité exceptionnelle.
 
-Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose toute la sélection orientale et oud avec paiement à la livraison dans les 58 wilayas.
+Maison Numidia, parfumerie en ligne algérienne basée à Blida, propose toute la sélection orientale et oud avec paiement à la livraison dans les 69 wilayas.
 
 ---
 

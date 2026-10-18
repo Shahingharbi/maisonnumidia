@@ -78,7 +78,7 @@ export default async function OGImage() {
               display: "flex",
             }}
           >
-            Dior · Chanel · Lattafa · Al Haramain — 100% authentique, livraison Yalidine 58 wilayas, paiement à la réception
+            Dior · Chanel · Lattafa · Al Haramain — 100% authentique, livraison Yalidine 69 wilayas, paiement à la réception
           </div>
         </div>
 

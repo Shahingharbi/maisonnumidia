@@ -12,7 +12,7 @@ import ThreeColumnSection from "@/components/home/ThreeColumnSection";
 import { getFeaturedProducts } from "@/lib/products";
 
 export const metadata: Metadata = {
-  title: "Parfum Original en Algérie — Livraison 58 Wilayas, Paiement à la Réception",
+  title: "Parfum Original en Algérie — Livraison 69 Wilayas, Paiement à la Réception",
   description:
     "Parfumerie en ligne Algérie. Dior, Chanel, Lattafa, Al Haramain — parfums 100% originaux livrés partout en Algérie via Yalidine. Commandez en dinar, payez à la réception.",
   alternates: {
@@ -64,7 +64,7 @@ export default function HomePage() {
         panels={[
           {
             title: "Livraison express",
-            subtitle: "Yalidine dans les 58 wilayas — recevez votre parfum en 24h à 72h",
+            subtitle: "Yalidine dans les 69 wilayas — recevez votre parfum en 24h à 72h",
             cta: "Commander maintenant",
             ctaHref: "/commander",
             bgColor: "#f0ede8",

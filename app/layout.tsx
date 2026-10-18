@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     template: "%s | Maison Numidia",
   },
   description:
-    "Achetez votre parfum original en Algérie chez Maison Numidia. Dior, Chanel, Lattafa, Al Haramain — 100% authentique, livraison Yalidine 58 wilayas, paiement à la réception.",
+    "Achetez votre parfum original en Algérie chez Maison Numidia. Dior, Chanel, Lattafa, Al Haramain — 100% authentique, livraison Yalidine 69 wilayas, paiement à la réception.",
   metadataBase: new URL("https://maisonnumidia.store"),
   applicationName: "Maison Numidia",
   authors: [{ name: "Maison Numidia", url: "https://maisonnumidia.store" }],
@@ -59,13 +59,13 @@ export const metadata: Metadata = {
     url: "https://maisonnumidia.store",
     title: "Parfum Original en Algérie | Maison Numidia",
     description:
-      "Parfums 100% authentiques en Algérie : Dior, Chanel, Lattafa, Al Haramain. Livraison Yalidine 58 wilayas, paiement à la réception.",
+      "Parfums 100% authentiques en Algérie : Dior, Chanel, Lattafa, Al Haramain. Livraison Yalidine 69 wilayas, paiement à la réception.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Parfum Original en Algérie | Maison Numidia",
     description:
-      "Parfums 100% authentiques. Livraison 58 wilayas, paiement à la réception.",
+      "Parfums 100% authentiques. Livraison 69 wilayas, paiement à la réception.",
   },
   robots: {
     index: true,

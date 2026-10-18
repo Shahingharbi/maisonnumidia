@@ -22,7 +22,7 @@ export default function SeoTextBlock() {
               Chez <strong>Maison Numidia</strong>, nous avons construit une <strong>parfumerie en ligne en Algérie</strong> qui répond à ce problème. Toutes nos fragrances sont importées directement et leur authenticité est garantie. Vous commandez depuis chez vous, vous payez à la réception. C&apos;est aussi simple que ça.
             </p>
             <p>
-              La <strong>parfumerie algérie</strong> en ligne présente d&apos;autres avantages concrets. Les prix sont affichés directement en dinar algérien, sans surprise. Vous accédez à des dizaines de références que vous ne trouverez pas facilement dans les boutiques de votre ville, que vous soyez à <strong>Alger, Oran, Constantine, Blida</strong> ou dans n&apos;importe laquelle des 58 wilayas.
+              La <strong>parfumerie algérie</strong> en ligne présente d&apos;autres avantages concrets. Les prix sont affichés directement en dinar algérien, sans surprise. Vous accédez à des dizaines de références que vous ne trouverez pas facilement dans les boutiques de votre ville, que vous soyez à <strong>Alger, Oran, Constantine, Blida</strong> ou dans n&apos;importe laquelle des 69 wilayas.
             </p>
           </div>
         </div>
@@ -76,13 +76,13 @@ export default function SeoTextBlock() {
           </h3>
           <div className="space-y-4 text-gray-600 leading-relaxed" style={{ fontFamily: "var(--font-inter)" }}>
             <p>
-              La <strong>livraison parfums algerie</strong> est l&apos;un de nos points forts. Nous travaillons exclusivement avec Yalidine Express, le réseau logistique le plus fiable d&apos;Algérie, pour assurer une <strong>parfum livraison algerie</strong> dans les 58 wilayas du pays.
+              La <strong>livraison parfums algerie</strong> est l&apos;un de nos points forts. Nous travaillons exclusivement avec Yalidine Express, le réseau logistique le plus fiable d&apos;Algérie, pour assurer une <strong>parfum livraison algerie</strong> dans les 69 wilayas du pays.
             </p>
             <p>
               Les délais constatés varient selon votre localisation. Pour les grandes villes comme <strong>Alger, Oran, Blida, Constantine et Annaba</strong>, la livraison se fait généralement en 24 à 48 heures. Pour les wilayas plus éloignées, comptez 48 à 72 heures. Dans tous les cas, vous recevez un numéro de suivi dès l&apos;expédition.
             </p>
             <p>
-              Le <strong>paiement à la livraison</strong> (COD) est notre seul mode de règlement, par choix délibéré. Vous payez en cash uniquement quand le colis est entre vos mains et que vous avez vérifié son contenu. Aucune carte bancaire, aucun virement, aucun risque. C&apos;est la meilleure façon d&apos;<strong>acheter parfum en algerie</strong> en toute confiance.
+              Le <strong>paiement à la livraison</strong> est notre seul mode de règlement, par choix délibéré. Vous payez en cash uniquement quand le colis est entre vos mains et que vous avez vérifié son contenu. Aucune carte bancaire, aucun virement, aucun risque. C&apos;est la meilleure façon d&apos;<strong>acheter parfum en algerie</strong> en toute confiance.
             </p>
             <p>
               Nous livrons dans toutes les wilayas algériennes, des grandes métropoles jusqu&apos;aux villes du sud comme Tamanrasset, Ouargla et Ghardaïa. Aucune wilaya n&apos;est exclue de notre réseau de livraison.

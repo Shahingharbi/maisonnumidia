@@ -4,7 +4,7 @@ const features = [
   {
     icon: Truck,
     title: "Livraison partout en Algérie",
-    description: "Yalidine Express dans les 58 wilayas. Délai de 24h à 72h selon votre localisation.",
+    description: "Yalidine Express dans les 69 wilayas. Délai de 24h à 72h selon votre localisation.",
   },
   {
     icon: CreditCard,

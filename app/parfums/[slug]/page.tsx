@@ -253,7 +253,7 @@ export default async function ProductPage({ params }: Props) {
               <div className="grid grid-cols-2 gap-3">
                 <div className="flex items-center gap-2.5 text-sm text-gray-500 bg-[#FAFAF8] rounded-xl p-3">
                   <Truck size={16} className="text-[#C9A84C] shrink-0" />
-                  <span>Livraison Yalidine<br /><strong className="text-[#111111]">58 wilayas</strong></span>
+                  <span>Livraison Yalidine<br /><strong className="text-[#111111]">69 wilayas</strong></span>
                 </div>
                 <div className="flex items-center gap-2.5 text-sm text-gray-500 bg-[#FAFAF8] rounded-xl p-3">
                   <Shield size={16} className="text-[#C9A84C] shrink-0" />
@@ -439,7 +439,7 @@ export default async function ProductPage({ params }: Props) {
               Acheter {product.brand} {product.name} en Algérie
             </h2>
             <p>
-              La livraison est assurée par Yalidine Express dans les 58 wilayas :
+              La livraison est assurée par Yalidine Express dans les 69 wilayas :
               {" "}{deliveryWilayas.join(", ")}, et toutes les autres. Ajoutez le parfum au panier,
               indiquez votre wilaya, et notre équipe vous appelle pour confirmer la commande
               avant l&apos;expédition. Aucune carte bancaire n&apos;est demandée à aucun moment.

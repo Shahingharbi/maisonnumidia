@@ -238,7 +238,7 @@ interface LigneTarif {
   delai: string;
 }
 
-/** Les 58 wilayas sont toujours listées, même si la base en contient moins. */
+/** Les 69 wilayas sont toujours listées, même si la base en contient moins. */
 function versBrouillon(tarifs: TarifWilaya[]): LigneTarif[] {
   const connus = new Map(tarifs.map((t) => [t.wilaya, t]));
   return WILAYAS.map((w) => {

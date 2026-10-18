@@ -11,7 +11,7 @@ import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Parfum Homme Original en Algérie — Dior, Chanel, Armani",
   description:
-    "Achetez votre parfum homme original en Algérie. Dior Sauvage, Bleu de Chanel, Armani Code, 1 Million — 100% authentiques, livrés dans les 58 wilayas. Paiement à la réception.",
+    "Achetez votre parfum homme original en Algérie. Dior Sauvage, Bleu de Chanel, Armani Code, 1 Million — 100% authentiques, livrés dans les 69 wilayas. Paiement à la réception.",
   alternates: { canonical: "https://maisonnumidia.store/parfums-homme" },
 };
 
@@ -242,7 +242,7 @@ export default function ParfumsHommePage() {
                 </p>
                 <p className="mb-4">
                   La livraison est assurée par <strong className="text-[#111111]">Yalidine Express</strong> dans
-                  l&apos;ensemble des 58 wilayas algériennes. Les délais constatés sont de 24 à 48 heures
+                  l&apos;ensemble des 69 wilayas algériennes. Les délais constatés sont de 24 à 48 heures
                   pour Alger, Blida, Oran et les grandes villes, et de 48 à 72 heures pour les wilayas
                   plus éloignées. Chaque expédition est tracée — vous recevez un numéro de suivi dès
                   que votre commande part de notre entrepôt.

@@ -68,7 +68,7 @@ export default function Header() {
       {/* Top announcement bar — MFK style */}
       <div className="bg-[#53545C] text-white text-center py-2.5">
         <p className="text-xs font-medium tracking-wide">
-          Livraison Yalidine 58 wilayas &nbsp;·&nbsp; Paiement à la réception (COD) &nbsp;·&nbsp; 100% Original
+          Livraison Yalidine 69 wilayas &nbsp;·&nbsp; Paiement à la réception &nbsp;·&nbsp; 100% Original
         </p>
       </div>
 

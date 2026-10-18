@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   // qui contient déjà le nom de la boutique.
   title: { absolute: "À propos — Maison Numidia, parfums authentiques en Algérie" },
   description:
-    "Découvrez l'histoire de Maison Numidia : boutique de parfums originaux fondée à Blida, livraison Yalidine 58 wilayas, engagement authenticité 100% garanti.",
+    "Découvrez l'histoire de Maison Numidia : boutique de parfums originaux fondée à Blida, livraison Yalidine 69 wilayas, engagement authenticité 100% garanti.",
   alternates: { canonical: "https://maisonnumidia.store/a-propos" },
 };
 
@@ -45,7 +45,7 @@ export default function APropos() {
             concentration, le bon sillage, la bonne longévité, relevait du parcours du
             combattant. Nous avons décidé de créer un espace où chaque parfum vendu est
             garanti 100% original, sourcé auprès de distributeurs officiels, et livré partout
-            dans les 58 wilayas avec paiement à la réception.
+            dans les 69 wilayas avec paiement à la réception.
           </p>
         </section>
 
@@ -109,7 +109,7 @@ export default function APropos() {
               <div className="bg-white border border-gray-100 p-6">
                 <Truck className="w-7 h-7 text-[#C9A84C] mb-4" strokeWidth={1.5} />
                 <h3 className="text-base font-bold text-[#111111] mb-2">
-                  Livraison 58 wilayas
+                  Livraison 69 wilayas
                 </h3>
                 <p className="text-sm text-gray-500 leading-relaxed">
                   Partenariat avec Yalidine Express : 24-48h sur Alger, Blida, Oran, 48-72h

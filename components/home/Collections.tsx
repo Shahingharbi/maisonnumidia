@@ -100,7 +100,7 @@ export default function Collections() {
         <div className="mt-10 pt-8 border-t border-gray-200">
           <p className="text-sm text-[#8A8A90] leading-relaxed max-w-3xl mx-auto text-center">
             Maison Numidia propose une sélection de <strong className="text-[#535359]">parfums originaux en Algérie</strong> répartis en trois grandes collections : les classiques occidentaux de prestige, les fragrances orientales traditionnelles, et les parfums féminins d'exception. Chaque flacon est importé directement et livré via Yalidine Express dans les{" "}
-            <strong className="text-[#535359]">58 wilayas algériennes</strong>, avec paiement à la réception.
+            <strong className="text-[#535359]">69 wilayas algériennes</strong>, avec paiement à la réception.
           </p>
         </div>
 

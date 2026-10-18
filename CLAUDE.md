@@ -6,7 +6,7 @@
 
 ## Contexte projet
 
-Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yalidine 58 wilayas.
+Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yalidine **69 wilayas** (11 créées par la loi 26-06 du 4 avril 2026 ; leur numérotation 59-69 varie selon les sources, elles s'affichent sans numéro dans le formulaire de commande). **Ne jamais écrire « COD »** sur le site : « paiement à la livraison » (décision de Shahin, 18/10/2026).
 - **Stack :** Next.js **16.1.6** (App Router, Turbopack), React 19, Tailwind v4, TypeScript strict, pnpm
 - **Déploiement :** Vercel — GitHub : Shahingharbi/maisonnumidia. **Depuis le 16/10/2026 : compte `shahingharbi`, offre Pro**, projet `maisonnumidia` (l'ancien compte gratuit `contatto-2302` a été mis en pause pour dépassement : 2,9 M de requêtes CDN sur 30 jours pour 1 M autorisé). Les variables d'environnement (EmailJS, Brevo) sont propres à chaque projet Vercel : **en changeant de projet, les recopier et redéployer**, sinon le site est construit avec `YOUR_SERVICE_ID` et plus aucune commande n'arrive par email (vécu du 16 au 18/10/2026).
 - **Liens internes : TOUJOURS `import Link from "@/components/Lien"`, jamais `next/link`.** Ce composant coupe le préchargement automatique de Next.js. Avec ~190 liens par catégorie, 63 par fiche et 2 200 sur le plan du site, chaque passage de Googlebot (qui affiche la page sur toute sa hauteur) déclenchait des centaines de requêtes : c'est ce qui a fait exploser le quota Vercel. Mesuré après correctif : 287 liens visibles, 0 requête de préchargement.
@@ -220,7 +220,7 @@ Ce fichier produit la moitié du contenu de chaque fiche (profil olfactif, perfo
 
 ### Meta descriptions
 - Naturelles, pas de prix, max 155 caractères
-- Mentionner : marque, authenticité, wilayas, COD
+- Mentionner : marque, authenticité, wilayas, paiement à la livraison (jamais le sigle « COD »)
 - Zéro tiret "—" dans les meta desc
 
 ### Contenu pages produit

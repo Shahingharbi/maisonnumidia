@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const count = getProductsByBrand(marque).filter(p => p.gender === "femme" || p.gender === "unisexe").length;
   return {
     title: `Parfum Femme ${brand.name} en Algérie — ${count} référence${count > 1 ? "s" : ""}`,
-    description: `Achetez les parfums femme ${brand.name} originaux en Algérie. ${count} référence${count > 1 ? "s" : ""} disponible${count > 1 ? "s" : ""}, paiement à la livraison, livraison Yalidine 58 wilayas.`,
+    description: `Achetez les parfums femme ${brand.name} originaux en Algérie. ${count} référence${count > 1 ? "s" : ""} disponible${count > 1 ? "s" : ""}, paiement à la livraison, livraison Yalidine 69 wilayas.`,
     alternates: { canonical: `https://maisonnumidia.store/parfums-femme/${marque}` },
   };
 }
@@ -93,7 +93,7 @@ export default async function ParfumsFemmeMarquePage({ params }: Props) {
             <h3 className="text-lg font-bold text-[#111111] pt-2">Commander {brand.name} Femme en Algérie</h3>
             <p>
               Maison Numidia garantit l&apos;<strong className="text-[#111111]">authenticité à 100%</strong> de chaque flacon {brand.name}.
-              Paiement à la réception, livraison <strong className="text-[#111111]">Yalidine Express 58 wilayas</strong> en 24 à 72 heures.
+              Paiement à la réception, livraison <strong className="text-[#111111]">Yalidine Express 69 wilayas</strong> en 24 à 72 heures.
             </p>
             <div className="border-t border-gray-200 pt-6 mt-4">
               <p className="font-semibold text-[#111111] mb-3">Explorer également :</p>

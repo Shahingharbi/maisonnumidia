@@ -5,8 +5,8 @@ import ProductCard from "@/components/product/ProductCard";
 import { ArrowRight, Truck, Shield, Phone } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Parfum en Algérie — Livraison COD dans les 58 Wilayas",
-  description: "Achetez vos parfums en Algérie chez Maison Numidia : Dior, Chanel, Lattafa, Al Haramain. Paiement à la livraison (COD) dans les 58 wilayas. Parfums 100% authentiques.",
+  title: "Parfum en Algérie — Paiement à la Livraison, 69 Wilayas",
+  description: "Achetez vos parfums en Algérie chez Maison Numidia : Dior, Chanel, Lattafa, Al Haramain. Paiement à la livraison dans les 69 wilayas. Parfums 100% authentiques.",
   alternates: { canonical: "https://maisonnumidia.store/parfum-algerie" },
   keywords: ["parfum algerie", "acheter parfum algerie", "parfum original algerie", "parfum livraison algerie", "parfum dz"],
 };
@@ -19,7 +19,7 @@ export default function ParfumAlgeriePage() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: "Parfum en Algérie — Maison Numidia",
-    description: "Achetez vos parfums en Algérie avec livraison dans les 58 wilayas et paiement à la livraison.",
+    description: "Achetez vos parfums en Algérie avec livraison dans les 69 wilayas et paiement à la livraison.",
     url: "https://maisonnumidia.store/parfum-algerie",
     breadcrumb: {
       "@type": "BreadcrumbList",
@@ -44,7 +44,7 @@ export default function ParfumAlgeriePage() {
             <div className="flex items-center gap-2 mb-5">
               <div className="h-px w-8 bg-[#C9A84C]" />
               <span className="text-xs tracking-[0.25em] text-[#C9A84C] font-medium uppercase">
-                Livraison dans les 58 wilayas
+                Livraison dans les 69 wilayas
               </span>
             </div>
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-[#111111] leading-tight mb-5">
@@ -86,7 +86,7 @@ export default function ParfumAlgeriePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             {[
-              { icon: Truck, title: "Livraison Yalidine", desc: "58 wilayas · 24 à 72h · Suivi en temps réel" },
+              { icon: Truck, title: "Livraison Yalidine", desc: "69 wilayas · 24 à 72h · Suivi en temps réel" },
               { icon: Shield, title: "Paiement à la livraison", desc: "Cash uniquement à la réception — aucune carte requise" },
               { icon: Phone, title: "Conseils WhatsApp", desc: "Notre équipe vous guide pour choisir votre parfum" },
             ].map((f, i) => (
@@ -180,12 +180,12 @@ export default function ParfumAlgeriePage() {
               parfumerie physique à Alger ou Oran peut proposer 50 à 100 références, Maison
               Numidia en propose plus de 200, avec des nouveautés régulières. Les prix sont
               transparents et affichés en dinars algériens, sans surprise à la livraison.
-              Et surtout, le paiement à la livraison (COD) élimine tout risque : vous payez
+              Et surtout, le paiement à la livraison élimine tout risque : vous payez
               uniquement quand votre parfum est entre vos mains.
             </p>
 
             <p>
-              La livraison via Yalidine Express couvre les 58 wilayas avec des délais de
+              La livraison via Yalidine Express couvre les 69 wilayas avec des délais de
               24 à 72 heures selon votre localisation. Que vous soyez à Alger, Oran, Constantine,
               Annaba, Blida, Tizi Ouzou, Béjaïa, Sétif ou dans n'importe quelle autre wilaya,
               votre commande vous parvient rapidement et en parfait état.
@@ -269,11 +269,11 @@ export default function ParfumAlgeriePage() {
             </p>
 
             <h3 className="text-lg font-bold text-[#111111] mt-8">
-              Le paiement à la livraison (COD) : comment ça marche ?
+              Le paiement à la livraison : comment ça marche ?
             </h3>
 
             <p>
-              Le Cash On Delivery (COD) est le mode de paiement standard en Algérie pour
+              Le paiement à la livraison est le mode de paiement standard en Algérie pour
               le commerce en ligne. Voici comment se déroule une commande chez Maison Numidia :
             </p>
 

@@ -28,7 +28,7 @@ const slides: Slide[] = [
       "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=1400&q=80",
     accentLabel: "Parfumerie en ligne — Algérie",
     title: "Parfum Original\nen Algérie, livré dans\n",
-    titleItalic: "les 58 wilayas",
+    titleItalic: "les 69 wilayas",
     description:
       "Dior, Chanel, Lattafa, Al Haramain — 100% authentique, paiement à la réception.",
     cta: "Découvrir la collection",

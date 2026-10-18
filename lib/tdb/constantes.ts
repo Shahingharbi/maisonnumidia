@@ -68,6 +68,8 @@ export const WILAYAS = [
   "Khenchela", "Souk Ahras", "Tipaza", "Mila", "Aïn Defla", "Naâma", "Aïn Témouchent",
   "Ghardaïa", "Relizane", "Timimoun", "Bordj Badji Mokhtar", "Ouled Djellal", "Béni Abbès",
   "In Salah", "In Guezzam", "Touggourt", "Djanet", "El M'Ghair", "El Menia",
+  // 11 wilayas créées en 2026 (loi 26-06)
+  "Aflou","Aïn Oussara","Barika","Bir El Ater","Bou Saâda","El Abiodh Sidi Cheikh","El Aricha","El Kantara","Ksar Chellala","Ksar El Boukhari","Messaad",
 ];
 
 /** Repères marché 2026, à remplacer par les vrais tarifs du compte Yalidine. */

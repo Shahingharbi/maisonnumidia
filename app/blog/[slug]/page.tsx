@@ -265,7 +265,7 @@ export default async function BlogArticlePage({ params }: Props) {
             </h3>
             <p className="text-sm text-gray-400 mb-5 leading-relaxed">
               Tous les parfums cités dans cet article sont disponibles avec livraison
-              dans les 58 wilayas et paiement à la livraison.
+              dans les 69 wilayas et paiement à la livraison.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link

@@ -114,7 +114,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Maison Numidia. Tous droits réservés.
           </p>
           <p className="text-[#B0B0B0] text-xs">
-            Livraison Yalidine · Paiement COD · Algérie
+            Livraison Yalidine · Paiement à la livraison · Algérie
           </p>
         </div>
       </div>

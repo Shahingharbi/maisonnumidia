@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const count = allBrandProducts.filter(p => p.gender === "homme" || p.gender === "unisexe").length;
   return {
     title: `Parfum Homme ${brand.name} en Algérie — ${count} référence${count > 1 ? "s" : ""}`,
-    description: `Achetez les parfums homme ${brand.name} originaux en Algérie. ${count} référence${count > 1 ? "s" : ""} disponible${count > 1 ? "s" : ""}, paiement à la livraison, livraison Yalidine 58 wilayas.`,
+    description: `Achetez les parfums homme ${brand.name} originaux en Algérie. ${count} référence${count > 1 ? "s" : ""} disponible${count > 1 ? "s" : ""}, paiement à la livraison, livraison Yalidine 69 wilayas.`,
     alternates: { canonical: `https://maisonnumidia.store/parfums-homme/${marque}` },
   };
 }
@@ -130,7 +130,7 @@ export default async function ParfumsHommeMarquePage({ params }: Props) {
               ce qui vous permet de vérifier votre parfum avant tout règlement.
             </p>
             <p>
-              La livraison est assurée via <strong className="text-[#111111]">Yalidine Express dans les 58 wilayas</strong> :
+              La livraison est assurée via <strong className="text-[#111111]">Yalidine Express dans les 69 wilayas</strong> :
               Alger, Oran, Constantine, Annaba, Blida, Tizi Ouzou, Béjaïa, Sétif, Batna, Biskra,
               et toutes les autres wilayas. Le délai moyen est de 24 à 72 heures selon votre localisation.
             </p>

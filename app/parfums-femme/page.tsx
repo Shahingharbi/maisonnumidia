@@ -11,7 +11,7 @@ import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Parfum Femme Original en Algérie — Chanel, YSL, Lancôme",
   description:
-    "Achetez votre parfum femme original en Algérie. Coco Mademoiselle, Black Opium YSL, La Vie Est Belle, Delina — 100% authentiques, livrés dans les 58 wilayas. Paiement à la réception.",
+    "Achetez votre parfum femme original en Algérie. Coco Mademoiselle, Black Opium YSL, La Vie Est Belle, Delina — 100% authentiques, livrés dans les 69 wilayas. Paiement à la réception.",
   alternates: { canonical: "https://maisonnumidia.store/parfums-femme" },
 };
 

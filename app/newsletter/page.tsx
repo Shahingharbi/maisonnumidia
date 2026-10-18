@@ -8,7 +8,7 @@ import { newsletterActive } from "@/lib/newsletter";
 export const metadata: Metadata = {
   title: "Newsletter",
   description:
-    "Recevez les nouveaux arrivages et les retours en stock de Maison Numidia, parfums 100% originaux livrés dans les 58 wilayas avec paiement à la livraison.",
+    "Recevez les nouveaux arrivages et les retours en stock de Maison Numidia, parfums 100% originaux livrés dans les 69 wilayas avec paiement à la livraison.",
   alternates: { canonical: "https://maisonnumidia.store/newsletter" },
   robots: { index: false, follow: true },
 };

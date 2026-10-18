@@ -11,7 +11,7 @@ import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Parfum Oriental Original en Algérie — Lattafa, Al Haramain",
   description:
-    "Achetez vos parfums orientaux originaux en Algérie. Lattafa, Al Haramain — oud, ambre, musc. 100% authentiques, livrés dans les 58 wilayas. Paiement à la réception.",
+    "Achetez vos parfums orientaux originaux en Algérie. Lattafa, Al Haramain — oud, ambre, musc. 100% authentiques, livrés dans les 69 wilayas. Paiement à la réception.",
   alternates: { canonical: "https://maisonnumidia.store/parfums-orientaux" },
 };
 
@@ -220,7 +220,7 @@ export default function ParfumsOrientauxPage() {
                   et de{" "}
                   <Link href="/parfums-femme" className="text-[#C9A84C] font-semibold hover:underline">parfums femme</Link>.
                   Toutes nos fragrances, orientales ou européennes, sont 100% originales et livrées dans
-                  les 58 wilayas avec paiement à la réception.
+                  les 69 wilayas avec paiement à la réception.
                 </p>
               </div>
 

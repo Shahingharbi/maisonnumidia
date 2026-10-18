@@ -32,6 +32,8 @@ const wilayas = [
   "Khenchela","Souk Ahras","Tipaza","Mila","Aïn Defla","Naâma","Aïn Témouchent",
   "Ghardaïa","Relizane","Timimoun","Bordj Badji Mokhtar","Ouled Djellal","Béni Abbès",
   "In Salah","In Guezzam","Touggourt","Djanet","El M'Ghair","El Menia",
+  // 11 wilayas créées en 2026 (loi 26-06) : numérotation encore incertaine, affichées sans numéro
+  "Aflou","Aïn Oussara","Barika","Bir El Ater","Bou Saâda","El Abiodh Sidi Cheikh","El Aricha","El Kantara","Ksar Chellala","Ksar El Boukhari","Messaad",
 ];
 
 export default function CommanderPage() {
@@ -294,7 +296,7 @@ export default function CommanderPage() {
             >
               <option value="">Sélectionnez votre wilaya</option>
               {wilayas.map((w, i) => (
-                <option key={w} value={w}>{String(i + 1).padStart(2, "0")} — {w}</option>
+                <option key={w} value={w}>{i < 58 ? `${String(i + 1).padStart(2, "0")} — ${w}` : w}</option>
               ))}
             </select>
           </div>

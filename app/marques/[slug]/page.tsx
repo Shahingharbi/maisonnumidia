@@ -129,11 +129,11 @@ export default async function MarquePage({ params }: Props) {
                 <p className="mb-4">
                   Maison Numidia est votre référence pour acheter des parfums {brand.name} originaux en Algérie.
                   Aucune avance, aucun virement. Vous commandez en ligne, vous payez cash à la réception du colis,
-                  entre vos mains. C&apos;est le modèle COD (Cash on Delivery) que nous pratiquons depuis notre ouverture.
+                  entre vos mains. C&apos;est le paiement à la livraison, que nous pratiquons depuis notre ouverture.
                 </p>
                 <p>
                   La livraison est assurée par <strong className="text-[#111111]">Yalidine Express</strong> dans
-                  les 58 wilayas algériennes. Délai constaté : 24 à 48h pour Alger et les grandes villes,
+                  les 69 wilayas algériennes. Délai constaté : 24 à 48h pour Alger et les grandes villes,
                   48 à 72h pour les wilayas plus éloignées. Pour toute question, contactez-nous au{" "}
                   <strong className="text-[#111111]">07 94 49 60 59</strong>.
                 </p>

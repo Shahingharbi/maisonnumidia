@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const count = getProductsByBrand(marque).filter(p => p.isOriental).length;
   return {
     title: `Parfum Oriental ${brand.name} en Algérie — ${count} référence${count > 1 ? "s" : ""}`,
-    description: `Découvrez les parfums orientaux ${brand.name} en Algérie. ${count} référence${count > 1 ? "s" : ""} authentique${count > 1 ? "s" : ""}, paiement à la livraison, expédition Yalidine 58 wilayas.`,
+    description: `Découvrez les parfums orientaux ${brand.name} en Algérie. ${count} référence${count > 1 ? "s" : ""} authentique${count > 1 ? "s" : ""}, paiement à la livraison, expédition Yalidine 69 wilayas.`,
     alternates: { canonical: `https://maisonnumidia.store/parfums-orientaux/${marque}` },
   };
 }
@@ -95,7 +95,7 @@ export default async function ParfumsOrientauxMarquePage({ params }: Props) {
             <h3 className="text-lg font-bold text-[#111111] pt-2">Commander des orientaux {brand.name} en Algérie</h3>
             <p>
               Maison Numidia garantit l&apos;<strong className="text-[#111111]">authenticité absolue</strong> de chaque parfum oriental {brand.name}.
-              Paiement à la réception, livraison <strong className="text-[#111111]">Yalidine Express 58 wilayas</strong> en 24 à 72 heures.
+              Paiement à la réception, livraison <strong className="text-[#111111]">Yalidine Express 69 wilayas</strong> en 24 à 72 heures.
             </p>
             <div className="border-t border-gray-200 pt-6 mt-4">
               <p className="font-semibold text-[#111111] mb-3">Explorer également :</p>

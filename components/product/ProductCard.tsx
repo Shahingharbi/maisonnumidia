@@ -80,9 +80,6 @@ export default function ProductCard({ product }: ProductCardProps) {
               </span>
             )}
           </div>
-          <span className="text-[9px] font-medium text-[#AC9270] tracking-wider uppercase border border-[#AC9270]/30 px-1.5 py-0.5">
-            COD
-          </span>
         </div>
       </div>
     </Link>
