@@ -225,10 +225,10 @@ export default function APropos() {
                     WhatsApp
                   </p>
                   <a
-                    href="https://wa.me/33782214993"
+                    href="https://wa.me/213794496059"
                     className="text-sm hover:text-[#C9A84C]"
                   >
-                    +33 7 82 21 49 93
+                    +213 794 49 60 59
                   </a>
                 </div>
               </div>

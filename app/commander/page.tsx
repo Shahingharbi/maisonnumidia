@@ -21,7 +21,7 @@ const EMAILJS_TEMPLATE_ID = process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID ?? "YOUR
 const EMAILJS_PUBLIC_KEY  = process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY  ?? "YOUR_PUBLIC_KEY";
 
 // Ton numéro WhatsApp France (pour le redirect après commande)
-const WHATSAPP_NUMBER = "33782214993";
+const WHATSAPP_NUMBER = "213794496059";
 
 const wilayas = [
   "Adrar","Chlef","Laghouat","Oum El Bouaghi","Batna","Béjaïa","Biskra","Béchar",

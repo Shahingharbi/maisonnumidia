@@ -50,7 +50,7 @@ const items: Item[] = [
   { href: "https://g.page/r/CbvXGSvflJQzEAE/review", label: "Laissez-nous un avis", bg: "#ffffff", color: "#4285F4", logo: <GoogleG /> },
   { href: URL_INSTAGRAM, label: "Suivez-nous sur Instagram", bg: "linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)", color: "#ffffff", logo: <InstagramGlyph /> },
   { href: URL_FACEBOOK, label: "Suivez-nous sur Facebook", bg: "#1877F2", color: "#ffffff", logo: <FacebookGlyph /> },
-  { href: "https://wa.me/33782214993", label: "Contactez-nous sur WhatsApp", bg: "#25D366", color: "#ffffff", logo: <WhatsAppGlyph /> },
+  { href: "https://wa.me/213794496059", label: "Contactez-nous sur WhatsApp", bg: "#25D366", color: "#ffffff", logo: <WhatsAppGlyph /> },
 ];
 
 export default function SocialRail() {

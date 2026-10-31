@@ -5,7 +5,6 @@ import { getAllProducts, formatPrice } from "@/lib/products";
 const SITE_URL = "https://maisonnumidia.store";
 const SITE_NAME = "Maison Numidia";
 const TELEPHONE = "+213794496059";
-const TELEPHONE_FR = "+33782214993";
 
 function getDynamicPriceValidUntil(): string {
   const next = new Date();
@@ -205,12 +204,6 @@ export function getOrganizationSchema() {
         contactType: "customer service",
         availableLanguage: ["French", "Arabic"],
         areaServed: "DZ",
-      },
-      {
-        "@type": "ContactPoint",
-        telephone: TELEPHONE_FR,
-        contactType: "customer service",
-        availableLanguage: ["French"],
       },
     ],
     address: {
