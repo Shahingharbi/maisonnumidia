@@ -49,8 +49,15 @@ async function ouvrier() {
   while (file.length) {
     const chemin = file.pop();
     const url = `${BASE}/${chemin}`;
+    // Juste après un déploiement, la première visite d'une page marque peut prendre 15 s
+    // (mise en cache Vercel) et des connexions parallèles sautent : sans nouvel essai, le
+    // contrôle du 01/11/2026 signalait 25 pages en erreur qui répondaient toutes 200.
     let st = "ERR";
-    try { st = (await fetch(url, { method: "HEAD", redirect: "manual" })).status; } catch (e) { st = "ERR"; }
+    for (let essai = 0; essai < 3 && st !== 200; essai++) {
+      if (essai) await new Promise((r) => setTimeout(r, 2000 * essai));
+      try { st = (await fetch(url, { method: "HEAD", redirect: "manual", signal: AbortSignal.timeout(30000) })).status; }
+      catch (e) { st = "ERR (" + ((e.cause && e.cause.code) || e.name) + ")"; }
+    }
     if (st !== 200) pb.push(`HTTP ${st} : ${url}`);
     if (!dansSitemap.has(url)) pb.push(`absente du sitemap : ${url}`);
     if (++faits % 50 === 0) console.log(`  ${faits}/${cibles.length}`);

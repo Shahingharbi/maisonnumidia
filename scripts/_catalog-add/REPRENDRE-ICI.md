@@ -1,56 +1,58 @@
-# Où reprendre — vague 2 (arrêt du 31/10/2026, PC éteint en cours de route)
+# Où reprendre — vague 2 (état au 01/11/2026)
 
-Rien n'est perdu : tout ce qui est fait est sur le disque (`research/`, `texts/`, images). Les
-agents **sautent ce qui existe déjà**, on peut relancer n'importe quelle plage sans rien refaire.
+## État
 
-## État au moment de l'arrêt
+- **Catalogue en ligne : 2 329 produits** (+600 le 01/11/2026, commit `261d388`), 150 marques,
+  audit règle n°6 à 0 erreur.
+- **Déjà montées mais pas publiées : 72 fiches sans texte** (dans `fiches.json`), dont
+  4 maisons à créer dans `brands[]` : Clive Christian, Fragrance Du Bois, Les Liquides
+  Imaginaires, Moresque. Il faut une fiche par maison dans `marques/` (sources, sans date
+  inventée), puis `apply-marques.mjs`.
+- **Recherche Fragrantica : 565 parfums restent** dans la liste figée
+  `a-rechercher-restant.json` (1 215 au départ). Les lots 1 à 3 sont finis (index 0 à 494),
+  le lot 4 (495-659) a été coupé à mi-course.
 
-- **Catalogue en ligne : 1 729 produits** (rien du nouveau lot n'est encore publié).
-- **`fiches.json` : ~600 fiches montées avec texte**, images téléchargées (2 échecs d'image :
-  kayali-fleur-majesty-rose-royale-31, penhaligons-endymion, apply-fiches les laisse de côté).
-  - 536 textes relus par la relecture indépendante (74 corrections appliquées), plus 64
-    relus en relecture 3 (4 corrections).
-  - 64 textes écrits juste avant l'arrêt (workflow w75f3gufv) : **pas encore relus**.
-- **Recherche Fragrantica** : liste figée `a-rechercher-restant.json` (1 215 parfums), lots de
-  165 par tour (le budget est de **200 WebSearch par tour**, partagé entre tous les agents).
-  Lots 1 à 3 finis (index 0-494). Lot 4 (495-659) coupé par l'extinction. **577 restent.**
-- **Modifs non commitées** : `data/products.json` (barre « | » retirée de 2 noms Kayali),
-  scripts `build-fiches.mjs`, `check-fiches.mjs`, `notes-relues.json`, `reclasser-orientaux.mjs`.
+Rien n'est perdu d'une session à l'autre : les agents **sautent ce qui existe déjà**
+(`research/<slug>.json`, `texts/<slug>.json`). On peut relancer n'importe quelle plage.
+
+## La contrainte : 200 WebSearch par tour
+
+Le budget de recherche web est de **200 appels par tour**, partagés entre tous les agents d'un
+même tour. D'où des lots de **165 parfums** (11 agents × 15), un lot par tour : à la fin d'un
+lot, la notification ouvre un nouveau tour et on lance le suivant.
 
 ## Reprendre dans cet ordre
 
-1. Relancer la recherche, un lot par tour :
-   Workflow `recherche-vague2-suite.js` avec `{"from":495,"total":660,"per":15,"concurrency":11}`,
-   puis 660-825, 825-990, 990-1155, 1155-1215.
-2. `node scripts/_catalog-add/build-fiches.mjs` (jamais pendant qu'une rédaction lit `textes-todo.json`).
-3. Rédaction des fiches sans texte (workflow `redaction-fiches-nouvelles`, `{"total":N,"per":5..7}`).
-4. Relecture des textes pas encore relus. Lister les slugs absents de `relecture-fige*.json`,
-   écrire `relecture-fige-4.json`, puis lancer le workflow `relecture-fiches-lot-3.js` en
-   remplaçant le nom du fichier.
-5. `check-fiches.mjs`. Les fausses alertes « note hors fiche » se relisent une par une ; celles
+1. Recherche, un lot par tour : workflow `recherche-vague2-suite.js` avec
+   `{"from":495,"total":660,"per":15,"concurrency":11}`, puis 660-825, 825-990, 990-1155,
+   1155-1215.
+2. `node scripts/_catalog-add/build-fiches.mjs`. **Jamais** pendant qu'une rédaction lit
+   `textes-todo.json`. Pour tester une modification du script, utiliser `--simulation`.
+3. Rédaction des fiches sans texte : workflow `redaction-fiches-nouvelles`, avec
+   `{"total":N,"per":5..7}`.
+4. **Relecture indépendante, obligatoire avant publication.** Écrire dans `relecture-fige-N.json`
+   les fiches avec texte absentes des `relecture-fige*.json` précédents, puis lancer le
+   workflow `relecture-fiches-lot-N.js` en pointant ce fichier. Le 01/11, elle a corrigé
+   80 défauts sur 600 fiches.
+5. `check-fiches.mjs`. Les fausses alertes « note hors fiche » se relisent une à une ; celles
    qui sont justes vont dans `notes-relues.json`, pour cette fiche seulement.
-6. `fetch-images.mjs --apply`, puis `apply-fiches.mjs` (simulation, puis `--apply`), puis `fix-related.mjs --apply`.
-7. **Reclassement orientaux** (`scripts/_catalog-audit/reclasser-orientaux.mjs`) : 15 fiches
-   publiées classées orientales à tort (règle « ambre gris »). **Attend l'accord de Shahin.**
-   À lancer APRÈS apply-fiches, pour que la liste des pages `/parfums-orientaux/<marque>`
-   qui disparaissent tienne compte du nouveau lot. Ajouter les 301 listées dans
-   `reclasser-orientaux-redirections.json`.
+6. `fetch-images.mjs --apply`. Un échec sur délai dépassé se retente : il passe presque toujours.
+7. `apply-fiches.mjs` (simulation, puis `--apply`), puis `fix-related.mjs --apply`.
 8. Audit règle n°6, `npx tsc --noEmit`, `npx next build`, `CATALOG_DATE` dans `app/sitemap.ts`,
-   commit, push, `verif-production.mjs`, `indexnow-submit.mjs`. Google : le cron quotidien
-   prend les nouvelles pages en premier (`firstSeen`).
+   commit, push, `verif-production.mjs`, `indexnow-submit.mjs`.
 
-## Ce qui a été corrigé le 31/10 dans la chaîne (à ne pas défaire)
+## Ce qui a été corrigé dans la chaîne (31/10 – 01/11, à ne pas défaire)
 
 - `build-fiches.mjs` :
-  - **Marque dans le nom officiel :** quand elle y est soudée (« Eau de Rochas », « My Burberry », « Cartier de Lune »), elle reste dans le nom.
+  - **Marque dans le nom officiel :** quand elle y est soudée (« Eau de Rochas », « My Burberry », « Cartier de Lune »), elle reste dans le nom ; le slug part alors du nom.
   - **H1 :** les parenthèses de Fragrantica en sont retirées.
   - **Slugs :** ils ne finissent plus sur un mot outil.
   - **« Ambre gris » :** ce n'est plus un marqueur oriental.
   - **Alias de marques :** Lattafa Perfumes, Viktor & Rolf, Kayali Fragrances, By Kilian, Frédéric Malle.
   - **Asdaaf :** rangé sous Lattafa (`SOUS_MARQUES`).
   - **Barre « | » :** retirée des noms.
-  - **Option `--simulation` :** n'écrit rien.
 - `check-fiches.mjs` :
-  - **Homonymes ignorés :** « pensée » et « glace ».
+  - **Homonymes ignorés :** « pensée », « glace », « accord oriental ».
   - **Mentions validées fiche par fiche :** `notes-relues.json`.
-- **Textes :** « 58 wilayas » remplacé par 69 dans les 1 200 fichiers de `texts/`, et la consigne de rédaction est corrigée.
+- **Textes :** « 58 wilayas » remplacé par 69 partout, et la consigne de rédaction est corrigée.
+- **Reclassement :** 15 fiches orientales à tort sont passées en homme/femme (`scripts/_catalog-audit/reclasser-orientaux.mjs`).
