@@ -1,0 +1,23 @@
+{
+ "slug": "acqua-di-parma-colonia-essenza",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Colonia-Essenza-142381.html",
+  "id": 142381,
+  "nomOfficiel": "Colonia Essenza",
+  "marqueOfficielle": "Acqua di Parma",
+  "genre": "unisexe",
+  "annee": null
+ },
+ "notes": {
+  "top": ["Petit grain", "Pamplemousse", "Bergamote", "Citron", "Mandarine", "Orange"],
+  "heart": ["Jasmin", "Rose", "Clou de girofle"],
+  "base": ["Patchouli", "Musc", "Vétiver", "Ambre"]
+ },
+ "famille": "Hespéridé Boisé",
+ "concentrationConfirmee": "Cologne",
+ "volumeExiste": true,
+ "remarque": "Meme parfum catalogue trois fois sur Fragrantica : Colonia Essenza (id 142381, unisexe, sans annee, retenue car le nom correspond exactement au libelle boutique), Essenza di Colonia (id 9829, 'for men', 2010, pyramide plus longue avec neroli, romarin, sauge, muguet, mousse de chene) et Colonia Essenza Special Edition 2015 (id 31663, flacon noir 180 ml, meme composition que 2010). Pour l'image, tester les trois IDs : la fiche 142381 n'a pas d'annee, l'ID 9829 est le plus ancien et le plus commente. Le format 180 ml est atteste pour l'edition speciale 2015 ; 50 et 100 ml pour la version courante. Concentration : eau de cologne, non precisee plus finement dans les resultats.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-10-31"
+}

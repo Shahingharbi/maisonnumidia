@@ -1,1 +1,2628 @@
-[]
+[
+ {
+  "slug": "antonio-puig-aqua-quorum",
+  "slugCandidat": "antonio-puig-aqua-quorum-edt",
+  "brand": "Antonio Puig",
+  "name": "Aqua Quorum",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Fougère Aromatique",
+  "notes": {
+   "top": [
+    "Lavande",
+    "Freesia"
+   ],
+   "heart": [
+    "Géranium",
+    "Pamplemousse"
+   ],
+   "base": [
+    "Ambre",
+    "Cuir",
+    "Mousse de chêne"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "brioni-eclat",
+  "slugCandidat": "brioni-eau-de-parfum-eclat",
+  "brand": "Brioni",
+  "name": "Eclat",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Frais Boisé",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Oliban",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Rose",
+    "Patchouli"
+   ],
+   "base": [
+    "Musc",
+    "Ambroxan",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "brioni-essentiel",
+  "slugCandidat": "brioni-eau-de-parfum-essentiel",
+  "brand": "Brioni",
+  "name": "Essentiel",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Fougère",
+  "notes": {
+   "top": [
+    "Tomate",
+    "Bergamote",
+    "Cardamome"
+   ],
+   "heart": [
+    "Patchouli",
+    "Fève tonka"
+   ],
+   "base": [
+    "Ambre gris",
+    "Oliban",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "brioni-intense",
+  "slugCandidat": "brioni-eau-de-parfum-intense",
+  "brand": "Brioni",
+  "name": "Intense",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Ambré Boisé",
+  "notes": {
+   "top": [
+    "Bergamote de Calabre",
+    "Mandarine d'Italie",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Patchouli d'Indonésie",
+    "Safran",
+    "Pomme verte"
+   ],
+   "base": [
+    "Oud",
+    "Ambroxan",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "clive-christian-1872-for-women",
+  "slugCandidat": "clive-christian-1872-feminine-edition",
+  "brand": "Clive Christian",
+  "name": "1872 For Women",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Citron d'Amalfi",
+    "Romarin",
+    "Mandarine",
+    "Ananas",
+    "Myrtille"
+   ],
+   "heart": [],
+   "base": [
+    "Mousse de chêne",
+    "Cèdre de Virginie",
+    "Musc",
+    "Bois de santal",
+    "Patchouli",
+    "Bois de gaïac"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "clive-christian-1872-for-men",
+  "slugCandidat": "clive-christian-1872-masculine-edition",
+  "brand": "Clive Christian",
+  "name": "1872 For Men",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Hespéridé Aromatique",
+  "notes": {
+   "top": [
+    "Citron vert",
+    "Bergamote",
+    "Pamplemousse"
+   ],
+   "heart": [],
+   "base": [
+    "Cèdre de Virginie",
+    "Patchouli",
+    "Musc",
+    "Ambre",
+    "Oliban",
+    "Labdanum français"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "clive-christian-blonde-amber",
+  "slugCandidat": "clive-christian-art-deco-blonde-amber",
+  "brand": "Clive Christian",
+  "name": "Blonde Amber",
+  "gender": "unisexe",
+  "concentration": "Parfum",
+  "volume": "50ml",
+  "family": "Oriental Ambré",
+  "notes": {
+   "top": [
+    "Rhum",
+    "Oliban",
+    "Orange amère"
+   ],
+   "heart": [
+    "Tabac blond",
+    "Iris",
+    "Safran"
+   ],
+   "base": [
+    "Fève tonka",
+    "Vanille",
+    "Myrrhe",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "clive-christian-c-for-men-woody-leather-with",
+  "slugCandidat": "clive-christian-c-woody-leather",
+  "brand": "Clive Christian",
+  "name": "C for Men Woody Leather With Oudh Intense",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Oud",
+    "Mandarine"
+   ],
+   "heart": [
+    "Tabac",
+    "Safran"
+   ],
+   "base": [
+    "Cuir",
+    "Notes boisées",
+    "Notes orientales"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "clive-christian-e-for-men-gourmand-oriental-with",
+  "slugCandidat": "clive-christian-e-gourmande-oriental",
+  "brand": "Clive Christian",
+  "name": "E for Men Gourmand Oriental With Sweet Clove",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Gourmand",
+  "notes": {
+   "top": [
+    "Rhum",
+    "Pêche"
+   ],
+   "heart": [
+    "Labdanum"
+   ],
+   "base": [
+    "Clou de girofle",
+    "Sirop",
+    "Caramel",
+    "Érable",
+    "Cannelle",
+    "Vanille bourbon"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "clive-christian-jump-up-and-kiss-me-ecstatic",
+  "slugCandidat": "clive-christian-jump-up-and-kiss-2",
+  "brand": "Clive Christian",
+  "name": "Jump Up And Kiss Me Ecstatic (2021)",
+  "gender": "unisexe",
+  "concentration": "Parfum",
+  "volume": "75ml",
+  "family": "Floral Blanc",
+  "notes": {
+   "top": [
+    "Orange amère",
+    "Poivre rose",
+    "Mandarine"
+   ],
+   "heart": [
+    "Tubéreuse",
+    "Jasmin",
+    "Fleur d'oranger",
+    "Ylang-ylang",
+    "Rose"
+   ],
+   "base": [
+    "Ambre",
+    "Vanille",
+    "Musc",
+    "Fève tonka",
+    "Daim",
+    "Bois de santal",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "clive-christian-jump-up-and-kiss-me-hedonistic",
+  "slugCandidat": "clive-christian-jump-up-and-kiss",
+  "brand": "Clive Christian",
+  "name": "Jump Up And Kiss Me Hedonistic (2021)",
+  "gender": "unisexe",
+  "concentration": "Parfum",
+  "volume": "50ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Cerise noire",
+    "Sauge sclarée",
+    "Maté"
+   ],
+   "heart": [
+    "Jasmin",
+    "Iris",
+    "Tabac"
+   ],
+   "base": [
+    "Ambre",
+    "Cuir",
+    "Labdanum",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "clive-christian-l-for-men",
+  "slugCandidat": "clive-christian-l-for-men-edp",
+  "brand": "Clive Christian",
+  "name": "L for Men",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Petitgrain",
+    "Pamplemousse"
+   ],
+   "heart": [
+    "Oud",
+    "Rose"
+   ],
+   "base": [
+    "Sapin baumier",
+    "Vétiver",
+    "Cèdre de l'Atlas",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "clive-christian-no-1-pour-femme",
+  "slugCandidat": "clive-christian-no1-feminine-edition",
+  "brand": "Clive Christian",
+  "name": "No. 1 (pour femme)",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Abricot",
+    "Pêche",
+    "Cardamome",
+    "Prune",
+    "Ananas",
+    "Bergamote",
+    "Paprika",
+    "Citron d'Amalfi"
+   ],
+   "heart": [
+    "Ylang-ylang",
+    "Iris",
+    "Jasmin",
+    "Œillet",
+    "Rose",
+    "Orchidée"
+   ],
+   "base": [
+    "Bois de santal",
+    "Vanille",
+    "Benjoin",
+    "Fève tonka",
+    "Musc",
+    "Ambre",
+    "Cèdre de Virginie"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "clive-christian-no-1-pour-homme",
+  "slugCandidat": "clive-christian-no1-masculine-edition",
+  "brand": "Clive Christian",
+  "name": "No. 1 (pour homme)",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Agrumes",
+    "Épices"
+   ],
+   "heart": [
+    "Iris",
+    "Ylang-ylang",
+    "Jasmin",
+    "Muguet",
+    "Héliotrope",
+    "Rose"
+   ],
+   "base": [
+    "Bois de santal",
+    "Ambre",
+    "Musc",
+    "Vanille",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "clive-christian-v-for-men-amber-fougere-with",
+  "slugCandidat": "clive-christian-v-amber-fougere",
+  "brand": "Clive Christian",
+  "name": "V for Men Amber Fougere With Smoky Vetiver",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Fougère Ambrée",
+  "notes": {
+   "top": [
+    "Poivre noir",
+    "Bergamote"
+   ],
+   "heart": [
+    "Oliban"
+   ],
+   "base": [
+    "Vétiver",
+    "Fumée",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "clive-christian-rock-rose",
+  "slugCandidat": "clive-christian-vii-queen-anne-rock",
+  "brand": "Clive Christian",
+  "name": "Rock Rose",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Fougère Orientale",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Néroli",
+    "Poivre noir"
+   ],
+   "heart": [
+    "Lavande",
+    "Sauge sclarée",
+    "Violette",
+    "Labdanum"
+   ],
+   "base": [
+    "Cacao",
+    "Vétiver",
+    "Ambre",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "elizabeth-taylor-white-diamonds-night",
+  "slugCandidat": "elizabeth-taylor-white-diamonds-night-eau",
+  "brand": "Elizabeth Taylor",
+  "name": "White Diamonds Night",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Floral Boisé Musqué",
+  "notes": {
+   "top": [
+    "Abricot",
+    "Mandarine",
+    "Bergamote"
+   ],
+   "heart": [
+    "Jasmin de nuit",
+    "Freesia"
+   ],
+   "base": [
+    "Résines",
+    "Bois de santal",
+    "Patchouli",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-amber-intense",
+  "slugCandidat": "fragrance-du-bois-amber-intense",
+  "brand": "Fragrance du Bois",
+  "name": "Amber Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Ambré",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Cumin",
+    "Orange",
+    "Cannelle",
+    "Poivre noir",
+    "Safran",
+    "Bergamote"
+   ],
+   "heart": [
+    "Styrax",
+    "Patchouli",
+    "Labdanum",
+    "Jasmin",
+    "Cassis",
+    "Néroli",
+    "Rose"
+   ],
+   "base": [
+    "Benjoin",
+    "Baume du Pérou",
+    "Musc",
+    "Oud"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-cannabis-blue",
+  "slugCandidat": "fragrance-du-bois-cannabis-bleu",
+  "brand": "Fragrance Du Bois",
+  "name": "Cannabis Blue",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Eucalyptus",
+    "Pamplemousse",
+    "Cardamome",
+    "Poivre du Sichuan",
+    "Résine d'élémi"
+   ],
+   "heart": [
+    "Cannabis",
+    "Noix de muscade",
+    "Sauge"
+   ],
+   "base": [
+    "Bois de gaïac",
+    "Cèdre",
+    "Oud",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-cannabis-intense",
+  "slugCandidat": "fragrance-du-bois-cannabis-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Cannabis Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Orange",
+    "Cardamome",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Cannabis",
+    "Noix de muscade",
+    "Safran"
+   ],
+   "base": [
+    "Notes boisées",
+    "Oud",
+    "Cèdre",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-cavort",
+  "slugCandidat": "fragrance-du-bois-cavort",
+  "brand": "Fragrance Du Bois",
+  "name": "Cavort",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Safran",
+    "Cannelle",
+    "Davana",
+    "Géranium"
+   ],
+   "heart": [
+    "Rose",
+    "Ylang-ylang",
+    "Fleur d'oranger",
+    "Jasmin"
+   ],
+   "base": [
+    "Patchouli",
+    "Encens",
+    "Santal",
+    "Labdanum"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-heritage",
+  "slugCandidat": "fragrance-du-bois-heritage",
+  "brand": "Fragrance Du Bois",
+  "name": "Heritage",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Aldéhydé",
+  "notes": {
+   "top": [
+    "Aldéhydes",
+    "Bergamote"
+   ],
+   "heart": [
+    "Racine d'iris",
+    "Jasmin",
+    "Encens"
+   ],
+   "base": [
+    "Santal",
+    "Cèdre",
+    "Vanille",
+    "Oud"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-london-spice",
+  "slugCandidat": "fragrance-du-bois-london-spice",
+  "brand": "Fragrance Du Bois",
+  "name": "London Spice",
+  "gender": "unisexe",
+  "concentration": "Parfum",
+  "volume": "100ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Menthe poivrée",
+    "Bergamote",
+    "Citron"
+   ],
+   "heart": [
+    "Notes marines",
+    "Lavande",
+    "Fleurs blanches",
+    "Jasmin"
+   ],
+   "base": [
+    "Noix de muscade",
+    "Cardamome",
+    "Cèdre",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-lovers",
+  "slugCandidat": "fragrance-du-bois-lovers",
+  "brand": "Fragrance Du Bois",
+  "name": "Lovers",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Fruit de la passion",
+    "Prune",
+    "Gingembre",
+    "Bergamote"
+   ],
+   "heart": [
+    "Rose",
+    "Safran",
+    "Jasmin"
+   ],
+   "base": [
+    "Patchouli",
+    "Bois de cachemire",
+    "Santal",
+    "Cèdre",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-lucius",
+  "slugCandidat": "fragrance-du-bois-lucius",
+  "brand": "Fragrance Du Bois",
+  "name": "Lucius",
+  "gender": "unisexe",
+  "concentration": "Parfum",
+  "volume": "100ml",
+  "family": "Ambré Boisé",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Bergamote",
+    "Mandarine"
+   ],
+   "heart": [
+    "Bois de cèdre",
+    "Fleur d'oranger"
+   ],
+   "base": [
+    "Ambre",
+    "Fève tonka",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-milano",
+  "slugCandidat": "fragrance-du-bois-milano",
+  "brand": "Fragrance Du Bois",
+  "name": "Milano",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Cuiré",
+  "notes": {
+   "top": [
+    "Safran",
+    "Orange",
+    "Thym",
+    "Bergamote"
+   ],
+   "heart": [
+    "Notes fruitées",
+    "Oliban",
+    "Jasmin"
+   ],
+   "base": [
+    "Cuir",
+    "Musc",
+    "Ambre",
+    "Notes boisées",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-minuit-et-demi",
+  "slugCandidat": "fragrance-du-bois-minuit-et-demi",
+  "brand": "Fragrance Du Bois",
+  "name": "Minuit et Demi",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Cardamome",
+    "Piment de la Jamaïque",
+    "Bergamote"
+   ],
+   "heart": [
+    "Caramel",
+    "Café"
+   ],
+   "base": [
+    "Vanille",
+    "Vanille de Madagascar",
+    "Tabac",
+    "Cannelle",
+    "Musc",
+    "Cashmeran",
+    "Liqueur",
+    "Cèdre",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-new-york-5th-avenue",
+  "slugCandidat": "fragrance-du-bois-new-york-5th",
+  "brand": "Fragrance Du Bois",
+  "name": "New York 5th Avenue",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Rose",
+    "Bergamote"
+   ],
+   "heart": [
+    "Caramel",
+    "Violette",
+    "Cypriol"
+   ],
+   "base": [
+    "Bois de cachemire",
+    "Vanille",
+    "Musc",
+    "Bois de gaïac"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-new-york-intense",
+  "slugCandidat": "fragrance-du-bois-new-york-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "New York Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Mûre",
+    "Cannelle",
+    "Rose",
+    "Laurier",
+    "Coriandre",
+    "Orange"
+   ],
+   "heart": [
+    "Oliban",
+    "Bois de gaïac",
+    "Clou de girofle",
+    "Miel",
+    "Immortelle",
+    "Vanille",
+    "Orchidée"
+   ],
+   "base": [
+    "Myrrhe",
+    "Oud",
+    "Patchouli",
+    "Musc",
+    "Vétiver",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-oud-bleu-intense",
+  "slugCandidat": "fragrance-du-bois-oud-bleu-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Oud Bleu Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Cardamome",
+    "Noix de muscade"
+   ],
+   "heart": [
+    "Myrrhe",
+    "Ambre",
+    "Oliban",
+    "Labdanum"
+   ],
+   "base": [
+    "Oud",
+    "Myrrhe",
+    "Benjoin",
+    "Styrax",
+    "Opoponax"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-oud-jaune-intense",
+  "slugCandidat": "fragrance-du-bois-oud-jaune-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Oud Jaune Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Fleur de tiaré de Tahiti",
+    "Notes fruitées",
+    "Ylang-ylang",
+    "Ananas"
+   ],
+   "heart": [
+    "Jasmin",
+    "Fleurs blanches",
+    "Salicylate d'amyle",
+    "Fleur d'oranger"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Oud"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-oud-noir-intense",
+  "slugCandidat": "fragrance-du-bois-oud-noir-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Oud Noir Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Cardamome",
+    "Bergamote"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmin"
+   ],
+   "base": [
+    "Oud",
+    "Musc",
+    "Safran",
+    "Santal",
+    "Patchouli",
+    "Ambre",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-oud-orange-intense",
+  "slugCandidat": "fragrance-du-bois-oud-orange-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Oud Orange Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [
+    "Notes fruitées",
+    "Noix de coco"
+   ],
+   "heart": [
+    "Vanille bourbon"
+   ],
+   "base": [
+    "Vanille",
+    "Oud",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-oud-rose-intense",
+  "slugCandidat": "fragrance-du-bois-oud-rose-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Oud Rose Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Boisé",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Notes fruitées"
+   ],
+   "heart": [
+    "Rose",
+    "Santal",
+    "Géranium",
+    "Ambre"
+   ],
+   "base": [
+    "Oud"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-oud-vert-intense",
+  "slugCandidat": "fragrance-du-bois-oud-vert-intense",
+  "brand": "Fragrance Du Bois",
+  "name": "Oud Vert Intense",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Aromatique Citrus",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Cardamome",
+    "Gingembre"
+   ],
+   "heart": [
+    "Géranium",
+    "Coriandre",
+    "Noix de muscade"
+   ],
+   "base": [
+    "Vétiver",
+    "Oud",
+    "Cèdre",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-parisian",
+  "slugCandidat": "fragrance-du-bois-parisian",
+  "brand": "Fragrance Du Bois",
+  "name": "Parisian",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Cardamome",
+    "Poivre rose",
+    "Pamplemousse",
+    "Amande"
+   ],
+   "heart": [
+    "Oud",
+    "Rose",
+    "Géranium",
+    "Cuir",
+    "Jasmin"
+   ],
+   "base": [
+    "Encens",
+    "Labdanum",
+    "Santal",
+    "Patchouli",
+    "Ambre",
+    "Mousse de chêne",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-pm",
+  "slugCandidat": "fragrance-du-bois-pm",
+  "brand": "Fragrance Du Bois",
+  "name": "PM",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Notes florales",
+    "Tubéreuse indienne",
+    "Baies de genièvre",
+    "Citron",
+    "Cardamome"
+   ],
+   "heart": [
+    "Cuir",
+    "Racine d'iris",
+    "Cèdre",
+    "Patchouli"
+   ],
+   "base": [
+    "Labdanum",
+    "Notes boisées",
+    "Ambre",
+    "Benjoin"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-santal-complet",
+  "slugCandidat": "fragrance-du-bois-santal-complet",
+  "brand": "Fragrance Du Bois",
+  "name": "Santal Complet",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [
+    "Noix de coco",
+    "Citron"
+   ],
+   "heart": [
+    "Poivre noir",
+    "Violette"
+   ],
+   "base": [
+    "Santal",
+    "Vanille",
+    "Musc",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-secret-tryst",
+  "slugCandidat": "fragrance-du-bois-secret-tryst",
+  "brand": "Fragrance Du Bois",
+  "name": "Secret Tryst",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Safran",
+    "Cardamome",
+    "Bergamote"
+   ],
+   "heart": [
+    "Rose",
+    "Vétiver",
+    "Cèdre",
+    "Jasmin"
+   ],
+   "base": [
+    "Patchouli",
+    "Oliban",
+    "Vanille",
+    "Labdanum"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-siberian-rose",
+  "slugCandidat": "fragrance-du-bois-siberian-rose",
+  "brand": "Fragrance Du Bois",
+  "name": "Siberian Rose",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Poire",
+    "Genévrier",
+    "Poivre rose",
+    "Cannelle"
+   ],
+   "heart": [
+    "Tubéreuse",
+    "Rose",
+    "Cuir",
+    "Ylang-ylang"
+   ],
+   "base": [
+    "Mousse",
+    "Patchouli",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-sirene-privee",
+  "slugCandidat": "fragrance-du-bois-sirene-privee",
+  "brand": "Fragrance Du Bois",
+  "name": "Sirène Privée",
+  "gender": "femme",
+  "concentration": "Parfum",
+  "volume": "75ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Orange sanguine",
+    "Poivre rose",
+    "Noix de muscade"
+   ],
+   "heart": [
+    "Cerise",
+    "Cannelle",
+    "Géranium"
+   ],
+   "base": [
+    "Cypriol",
+    "Chêne",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-sirene",
+  "slugCandidat": "fragrance-du-bois-sirene",
+  "brand": "Fragrance Du Bois",
+  "name": "Sirène",
+  "gender": "femme",
+  "concentration": "Parfum",
+  "volume": "75ml",
+  "family": "Ambré Fruité",
+  "notes": {
+   "top": [
+    "Cerise",
+    "Poivre"
+   ],
+   "heart": [
+    "Oud",
+    "Encens",
+    "Notes lactoniques"
+   ],
+   "base": [
+    "Benjoin",
+    "Ciste",
+    "Labdanum",
+    "Cypriol"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-solstis",
+  "slugCandidat": "fragrance-du-bois-solstis",
+  "brand": "Fragrance Du Bois",
+  "name": "Solstis",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Pomme",
+    "Mandarine",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Néroli",
+    "Cardamome",
+    "Poivre",
+    "Noix de muscade"
+   ],
+   "base": [
+    "Santal",
+    "Vétiver",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-tropiques",
+  "slugCandidat": "fragrance-du-bois-tropiques",
+  "brand": "Fragrance Du Bois",
+  "name": "Tropiques",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [
+    "Fruits tropicaux",
+    "Mandarine",
+    "Bergamote"
+   ],
+   "heart": [
+    "Lavande",
+    "Mahonial",
+    "Rose"
+   ],
+   "base": [
+    "Musc",
+    "Ambre",
+    "Caramel"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "fragrance-du-bois-voyage-a-paris",
+  "slugCandidat": "fragrance-du-bois-voyage-paris",
+  "brand": "Fragrance Du Bois",
+  "name": "Voyage à Paris",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Rhum",
+    "Souci",
+    "Fleur d'oranger"
+   ],
+   "heart": [
+    "Miel",
+    "Jasmin",
+    "Davana"
+   ],
+   "base": [
+    "Vanille",
+    "Oud",
+    "Chêne"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "john-varvatos-artisan-blu",
+  "slugCandidat": "john-varvatos-artisant-blu",
+  "brand": "John Varvatos",
+  "name": "Artisan Blu",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "125ml",
+  "family": "Aromatique Agrumes",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Basilic",
+    "Lavande",
+    "Chayotte",
+    "Orange amère"
+   ],
+   "heart": [
+    "Géranium",
+    "Palmarosa",
+    "Fleur d'oranger",
+    "Sauge sclarée",
+    "Iris"
+   ],
+   "base": [
+    "Pin",
+    "Cèdre",
+    "Pistache",
+    "Patchouli",
+    "Tamaris"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "john-varvatos",
+  "slugCandidat": "john-varvatos-eau-de-toilette",
+  "brand": "John Varvatos",
+  "name": "John Varvatos",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Cuiré Boisé",
+  "notes": {
+   "top": [
+    "Dattes Medjool",
+    "Herbes méditerranéennes",
+    "Feuilles de tamarin"
+   ],
+   "heart": [
+    "Ajowan",
+    "Coriandre",
+    "Sauge"
+   ],
+   "base": [
+    "Auramber",
+    "Baume de sapin",
+    "Oud",
+    "Absolue de foin",
+    "Cuir noir",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "john-varvatos-oud",
+  "slugCandidat": "john-varvatos-oud-eau-de-parfum",
+  "brand": "John Varvatos",
+  "name": "Oud",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "125ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Tabac",
+    "Genévrier",
+    "Sauge"
+   ],
+   "heart": [
+    "Épices",
+    "Rose"
+   ],
+   "base": [
+    "Oud",
+    "Encens",
+    "Cuir",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "les-liquides-imaginaires-blanche-bete-limited",
+  "slugCandidat": "liquides-imaginaires-blanche-bete-limited-edition",
+  "brand": "Les Liquides Imaginaires",
+  "name": "Blanche Bête Limited Edition",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Boisé Musqué",
+  "notes": {
+   "top": [
+    "Lait",
+    "Ambrette",
+    "Mystikal"
+   ],
+   "heart": [
+    "Tubéreuse",
+    "Jasmin",
+    "Encens",
+    "Mahonial"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Fève tonka",
+    "Cacao"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "les-liquides-imaginaires-blanche-bete",
+  "slugCandidat": "liquides-imaginaires-blanche-bete",
+  "brand": "Les Liquides Imaginaires",
+  "name": "Blanche Bête",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Boisé Musqué",
+  "notes": {
+   "top": [
+    "Lait",
+    "Ambrette",
+    "Mystikal"
+   ],
+   "heart": [
+    "Tubéreuse",
+    "Jasmin",
+    "Encens",
+    "Mahonial"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Fève tonka",
+    "Cacao"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "les-liquides-imaginaires-dom-rosa-millesime",
+  "slugCandidat": "liquides-imaginaires-dom-rosa-millesime",
+  "brand": "Les Liquides Imaginaires",
+  "name": "Dom Rosa Millésimé",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Champagne",
+    "Pomelo",
+    "Poire"
+   ],
+   "heart": [
+    "Rose de Damas",
+    "Clou de girofle",
+    "Oliban"
+   ],
+   "base": [
+    "Bois",
+    "Cèdre",
+    "Vétiver",
+    "Bois de gaïac"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "les-liquides-imaginaires-lunatique",
+  "slugCandidat": "liquides-imaginaires-lunatique",
+  "brand": "Les Liquides Imaginaires",
+  "name": "Lunatique",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Poivre du Sichuan",
+    "Genévrier",
+    "Poire",
+    "Poivre rose",
+    "Souci"
+   ],
+   "heart": [
+    "Cassis",
+    "Carotte",
+    "Encens",
+    "Iris",
+    "Gingembre",
+    "Cyclamen",
+    "Néroli"
+   ],
+   "base": [
+    "Cuir",
+    "Bois de santal",
+    "Oud",
+    "Fève tonka",
+    "Ambre gris",
+    "Vétiver",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-al-andalus",
+  "slugCandidat": "moresque-al-andalus",
+  "brand": "Moresque",
+  "name": "Al Andalus",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Gingembre",
+    "Poivre noir",
+    "Safran"
+   ],
+   "heart": [
+    "Oud"
+   ],
+   "base": [
+    "Baume de Tolu",
+    "Bouleau",
+    "Labdanum",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-aristoqrati",
+  "slugCandidat": "moresque-aristoqrati",
+  "brand": "Moresque",
+  "name": "Aristoqrati",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Aromatique Épicé",
+  "notes": {
+   "top": [
+    "Géranium Bourbon",
+    "Noix de muscade"
+   ],
+   "heart": [
+    "Vétiver d'Haïti",
+    "Pivoine"
+   ],
+   "base": [
+    "Vanille",
+    "Patchouli",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-aurum",
+  "slugCandidat": "moresque-aurum",
+  "brand": "Moresque",
+  "name": "Aurum",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Safran"
+   ],
+   "heart": [
+    "Sapin baumier",
+    "Styrax",
+    "Myrrhe"
+   ],
+   "base": [
+    "Patchouli",
+    "Oud",
+    "Bois de gaïac"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-fiamma",
+  "slugCandidat": "moresque-fiamma",
+  "brand": "Moresque",
+  "name": "Fiamma",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Iris",
+    "Baies de genévrier",
+    "Cyprès"
+   ],
+   "heart": [
+    "Myrrhe",
+    "Patchouli"
+   ],
+   "base": [
+    "Ambre",
+    "Vanille",
+    "Miel",
+    "Résines",
+    "Cuir",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-fiore-di-portofino",
+  "slugCandidat": "moresque-fiore-di-portofino",
+  "brand": "Moresque",
+  "name": "Fiore di Portofino",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Floral Ambré",
+  "notes": {
+   "top": [
+    "Citron italien",
+    "Basilic",
+    "Orange de Sicile",
+    "Néroli"
+   ],
+   "heart": [
+    "Géranium",
+    "Iris toscan",
+    "Mimosa",
+    "Œillet"
+   ],
+   "base": [
+    "Vétiver d'Haïti",
+    "Musc",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "moresque-oro",
+  "slugCandidat": "moresque-gold-collection-oro",
+  "brand": "Moresque",
+  "name": "Oro",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Ambré Résineux",
+  "notes": {
+   "top": [
+    "Estragon",
+    "Armoise",
+    "Angélique"
+   ],
+   "heart": [
+    "Styrax",
+    "Lis de Casablanca",
+    "Frangipanier"
+   ],
+   "base": [
+    "Labdanum",
+    "Encens",
+    "Myrrhe",
+    "Musc blanc",
+    "Ambrette"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-oroluna",
+  "slugCandidat": "moresque-oroluna",
+  "brand": "Moresque",
+  "name": "Oroluna",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Cardamome",
+    "Poivre rose",
+    "Pamplemousse"
+   ],
+   "heart": [
+    "Rose de Turquie",
+    "Patchouli",
+    "Cèdre",
+    "Géranium"
+   ],
+   "base": [
+    "Encens",
+    "Oud",
+    "Labdanum",
+    "Mousse de chêne",
+    "Bois de santal",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-re-nero",
+  "slugCandidat": "moresque-re-nero",
+  "brand": "Moresque",
+  "name": "Re Nero",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Chypré",
+  "notes": {
+   "top": [
+    "Pêche",
+    "Mirabelle",
+    "Mandarine"
+   ],
+   "heart": [
+    "Cannelle",
+    "Tubéreuse",
+    "Ylang-ylang",
+    "Cardamome",
+    "Cumin"
+   ],
+   "base": [
+    "Vanille Bourbon",
+    "Patchouli",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-regina",
+  "slugCandidat": "moresque-regina",
+  "brand": "Moresque",
+  "name": "Regina",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Ylang-ylang",
+    "Bergamote"
+   ],
+   "heart": [
+    "Jasmin",
+    "Notes marines",
+    "Cannelle",
+    "Œillet"
+   ],
+   "base": [
+    "Vanille",
+    "Vétiver",
+    "Bois de santal",
+    "Ambre",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "moresque-rosa-ekaterina",
+  "slugCandidat": "moresque-rosa-ekaterina",
+  "brand": "Moresque",
+  "name": "Rosa Ekaterina",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Floral Boisé Musqué",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Élémi"
+   ],
+   "heart": [
+    "Rose de mai"
+   ],
+   "base": [
+    "Musc blanc",
+    "Bois de santal",
+    "Cannelle",
+    "Vanille",
+    "Épices",
+    "Cumin"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "moresque-sahara-blue",
+  "slugCandidat": "moresque-sahara-blue",
+  "brand": "Moresque",
+  "name": "Sahara Blue",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Fougère Aromatique",
+  "notes": {
+   "top": [
+    "Citron",
+    "Gingembre",
+    "Poivre rose",
+    "Pomme Granny Smith"
+   ],
+   "heart": [
+    "Coriandre",
+    "Lavande",
+    "Jasmin sambac"
+   ],
+   "base": [
+    "Mousse de chêne",
+    "Algues",
+    "Ambre",
+    "Musc blanc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "moresque-sandal-granada",
+  "slugCandidat": "moresque-sandal-granada",
+  "brand": "Moresque",
+  "name": "Sandal Granada",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Bergamote de Calabre"
+   ],
+   "heart": [
+    "Bois de santal",
+    "Cuir",
+    "Rose"
+   ],
+   "base": [
+    "Miel",
+    "Encens",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "moresque-sole",
+  "slugCandidat": "moresque-sole",
+  "brand": "Moresque",
+  "name": "Sole",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Pomme",
+    "Cassis",
+    "Pêche",
+    "Citron",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Noix de coco",
+    "Ylang-ylang",
+    "Tubéreuse"
+   ],
+   "base": [
+    "Musc",
+    "Patchouli",
+    "Accord oriental"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "nautica-blue",
+  "slugCandidat": "nautica-blue-edt",
+  "brand": "Nautica",
+  "name": "Blue",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Aromatique Aquatique",
+  "notes": {
+   "top": [
+    "Ananas",
+    "Bergamote",
+    "Pêche"
+   ],
+   "heart": [
+    "Nénuphar",
+    "Jasmin"
+   ],
+   "base": [
+    "Bois de santal",
+    "Musc",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "nautica-voyage-n-83",
+  "slugCandidat": "nautica-voyage-n-83",
+  "brand": "Nautica",
+  "name": "Voyage N-83",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Aromatique Aquatique",
+  "notes": {
+   "top": [
+    "Notes marines",
+    "Menthe poivrée",
+    "Petit grain"
+   ],
+   "heart": [
+    "Lavande",
+    "Cardamome",
+    "Noix de muscade"
+   ],
+   "base": [
+    "Musc",
+    "Cèdre",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "omanluxury-oud-aquilaria",
+  "slugCandidat": "omanluxury-oman-luxury-oud-aquilaria",
+  "brand": "Omanluxury",
+  "name": "Oud Aquilaria",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Pomme",
+    "Romarin",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Rose de Damas",
+    "Rose bulgare",
+    "Clou de girofle",
+    "Sauge"
+   ],
+   "base": [
+    "Oud",
+    "Patchouli",
+    "Ambre",
+    "Labdanum"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "serge-lutens-la-fille-de-berlin",
+  "slugCandidat": "serge-lutens-la-fille-de-berlin",
+  "brand": "Serge Lutens",
+  "name": "La Fille de Berlin",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Floral Épicé",
+  "notes": {
+   "top": [
+    "Rose",
+    "Géranium"
+   ],
+   "heart": [
+    "Palmarosa"
+   ],
+   "base": [
+    "Miel",
+    "Mousse",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "thomas-kosmala-n-4-sport",
+  "slugCandidat": "thomas-kosmala-n-4-sport",
+  "brand": "Thomas Kosmala",
+  "name": "Nº4 Sport",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Fougère Aromatique",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Bergamote",
+    "Citron"
+   ],
+   "heart": [
+    "Agave",
+    "Melon",
+    "Ananas"
+   ],
+   "base": [
+    "Notes ozoniques",
+    "Eau de mer"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "thomas-kosmala-bukhoor",
+  "slugCandidat": "thomas-kosmala-no-9-bukhoor",
+  "brand": "Thomas Kosmala",
+  "name": "Bukhoor",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental",
+  "notes": {
+   "top": [
+    "Notes boisées"
+   ],
+   "heart": [
+    "Fumée"
+   ],
+   "base": [
+    "Oud",
+    "Musc",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "vertus-serenade",
+  "slugCandidat": "vertus-serenade",
+  "brand": "Vertus",
+  "name": "Sérénade",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Aromatique Agrumes",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Mandarine",
+    "Pamplemousse",
+    "Baies de genévrier",
+    "Mangue"
+   ],
+   "heart": [
+    "Osmanthus",
+    "Patchouli",
+    "Lavande",
+    "Magnolia"
+   ],
+   "base": [
+    "Vétiver",
+    "Mousse de chêne",
+    "Labdanum",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ }
+]

@@ -1,0 +1,23 @@
+{
+ "slug": "burberry-black-parfum",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Burberry/My-Burberry-Black-Parfum-Limited-Edition-47426.html",
+  "id": 47426,
+  "nomOfficiel": "My Burberry Black Parfum (Limited Edition)",
+  "marqueOfficielle": "Burberry",
+  "genre": "femme",
+  "annee": 2017
+ },
+ "notes": {
+  "top": ["Jasmin"],
+  "heart": ["Pêche", "Rose"],
+  "base": ["Ambre", "Patchouli"]
+ },
+ "famille": "Oriental Floral",
+ "concentrationConfirmee": "Parfum",
+ "volumeExiste": true,
+ "remarque": "Le nom boutique omet 'My' ; nom officiel Fragrantica = 'My Burberry Black Parfum (Limited Edition)'. 90ml confirmé sur le site officiel Burberry.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

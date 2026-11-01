@@ -1,0 +1,23 @@
+{
+  "slug": "assaf-attacks",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Assaf/Attacks-123710.html",
+    "id": 123710,
+    "nomOfficiel": "Attacks",
+    "marqueOfficielle": "Assaf",
+    "genre": "homme",
+    "annee": 2026
+  },
+  "notes": {
+    "top": ["Basilic", "Vetiver d'Haiti", "Timur", "Freesia"],
+    "heart": ["Akigalawood", "Georgywood", "Petalia"],
+    "base": ["Feuille de patchouli d'Indonesie", "Ambrofix"]
+  },
+  "famille": "Boise Aromatique",
+  "concentrationConfirmee": null,
+  "volumeExiste": true,
+  "remarque": "Concentration non indiquee dans le resultat ni dans le libelle boutique : laissee a null (a ne pas supposer). Volume 125 ml pris au libelle boutique. Ne pas confondre avec Attacks Blue (ID 141745, unisexe, 2026). Page marquee 'for men' sur Fragrantica.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-10-31"
+}

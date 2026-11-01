@@ -1,0 +1,23 @@
+{
+ "slug": "prada-les-infusions-infusion-de-rhubarbe",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Prada/Infusion-de-Rhubarbe-100900.html",
+  "id": 100900,
+  "nomOfficiel": "Infusion de Rhubarbe",
+  "marqueOfficielle": "Prada",
+  "genre": "unisexe",
+  "annee": 2024
+ },
+ "notes": {
+  "top": ["Mandarine verte"],
+  "heart": ["Rhubarbe"],
+  "base": ["Agrumes", "Aldehydes", "Musc", "Musc blanc"]
+ },
+ "famille": "Aromatique Agrume",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Meme parfum Fragrantica que 'prada-infusion-de-rhubarbe-eau-pafum' (index 11, boutique differente) : les deux libelles boutique designent 'Infusion de Rhubarbe'. A dedoublonner avant integration dans products.json (ne garder qu'une seule fiche).",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

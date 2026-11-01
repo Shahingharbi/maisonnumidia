@@ -1,0 +1,23 @@
+{
+  "slug": "cartier-declaration-cologne-vintage",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Cartier/Declaration-Cologne-13271.html",
+    "id": 13271,
+    "nomOfficiel": "Declaration Cologne",
+    "marqueOfficielle": "Cartier",
+    "genre": "homme",
+    "annee": 2010
+  },
+  "notes": {
+    "top": ["Mandarine", "Gingembre", "Bergamote"],
+    "heart": ["Jasmin", "Épices"],
+    "base": []
+  },
+  "famille": "Agrumes Aromatique",
+  "concentrationConfirmee": "Cologne",
+  "volumeExiste": true,
+  "remarque": "'(Vintage)' est un qualificatif du vendeur (parfumalgerie.shop), pas un nom Fragrantica distinct -- correspond a 'Declaration Cologne' (2010, id 13271, discontinue), a distinguer de 'Declaration' (1998, id 307) et 'Declaration L'Eau' (2014, id 24711).",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

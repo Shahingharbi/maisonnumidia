@@ -1,0 +1,23 @@
+{
+  "slug": "cartier-la-panthere-eau-de-parfum",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "La Panthère Eau de Parfum Édition Limitée",
+    "marqueOfficielle": "Cartier",
+    "genre": "femme",
+    "annee": null
+  },
+  "notes": {
+    "top": [],
+    "heart": [],
+    "base": []
+  },
+  "famille": "Chypré Floral",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": null,
+  "remarque": "Le nom 'La Panthere Eau de Parfum Edition Limitee' existe bien chez Cartier/Fragrantica, mais AU MOINS 4 declinaisons annuelles distinctes portent ce nom exact (2016 id 38189, 2016 'Legere' id 38190, 2017 id 45510, 2019 id 56982, 2021 id 69733), chacune avec sa propre composition, et la source boutique (parfumalgerie.shop, volume 75ml) ne precise pas l'annee. Impossible de determiner laquelle sans ouvrir la fiche boutique ou Fragrantica (bloque). Existence du produit confirmee, mais ID non fixe -- laisse a null plutot que devine, conformement a la regle.",
+  "confiance": "basse",
+  "verifieLe": "2026-09-26"
+}

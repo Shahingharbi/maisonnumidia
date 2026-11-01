@@ -1,0 +1,42 @@
+{
+ "slug": "tom-ford-shanghai-lily",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Tom-Ford/Shanghai-Lily-17220.html",
+  "id": 17220,
+  "nomOfficiel": "Shanghai Lily",
+  "marqueOfficielle": "Tom Ford",
+  "genre": "femme",
+  "annee": 2013
+ },
+ "notes": {
+  "top": [
+   "Clou de girofle",
+   "Poivre noir",
+   "Poivre rose",
+   "Orange amère"
+  ],
+  "heart": [
+   "Tubéreuse",
+   "Jasmin",
+   "Rose",
+   "Notes florales"
+  ],
+  "base": [
+   "Vanille",
+   "Benjoin",
+   "Oliban",
+   "Bois de cachemire",
+   "Labdanum",
+   "Bois de gaïac",
+   "Castoréum",
+   "Vétiver"
+  ]
+ },
+ "famille": "Floral Oriental",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Repartition top/coeur/fond reconstituee a partir de la liste de notes globale du resume (pas de pyramide detaillee fournie).",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

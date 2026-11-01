@@ -1,0 +1,23 @@
+{
+ "slug": "versace-oud-oriental",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Versace/Versace-Pour-Femme-Oud-Oriental-22819.html",
+  "id": 22819,
+  "nomOfficiel": "Versace Pour Femme Oud Oriental",
+  "marqueOfficielle": "Versace",
+  "genre": "femme",
+  "annee": 2014
+ },
+ "notes": {
+  "top": ["Rose", "Safran", "Fresia"],
+  "heart": ["Violette", "Héliotrope", "Patchouli"],
+  "base": ["Bois d'Agar (Oud)", "Cuir", "Santal", "Vanille"]
+ },
+ "famille": "Oriental Boisé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Candidat orthographie 'Versace Oud Oriental' (sans 'pour femme'), mais c'est bien le même parfum Fragrantica : nom officiel complet 'Versace Pour Femme Oud Oriental', exclusivement féminin malgré le nom raccourci. Voir aussi le slug candidat versace-pour-femme-oud-orientaledp (même parfum, boutique différente).",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

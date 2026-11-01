@@ -1,0 +1,23 @@
+{
+ "slug": "prada-candy-sugarpop",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Prada/Prada-Candy-Sugar-Pop-48030.html",
+  "id": 48030,
+  "nomOfficiel": "Prada Candy Sugar Pop",
+  "marqueOfficielle": "Prada",
+  "genre": "femme",
+  "annee": 2018
+ },
+ "notes": {
+  "top": ["Pomme rouge", "Bergamote", "Feuille de bergamotier"],
+  "heart": ["Pêche blanche", "Notes florales"],
+  "base": ["Vanille", "Caramel"]
+ },
+ "famille": "Floral Fruité Gourmand",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Nom boutique 'Candy Sugarpop' (sans espace) ; nom officiel Fragrantica = 'Candy Sugar Pop'.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "cacharel-catch-me-8230-l-eau",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Cacharel/Catch-Me-L-Eau-24486.html",
+  "id": 24486,
+  "nomOfficiel": "Catch Me...L'Eau",
+  "marqueOfficielle": "Cacharel",
+  "genre": "femme",
+  "annee": 2014
+ },
+ "notes": {
+  "top": ["Jasmin", "Mandarine", "Thé", "Petitgrain"],
+  "heart": ["Fleur d'Oranger", "Anis Étoilé"],
+  "base": ["Maté", "Musc"]
+ },
+ "famille": "Floral",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Concentration EDT déduite de la collection 'Summer Splash' 2014 (flankers L'Eau) et non explicitement confirmée par le résumé Fragrantica — la boutique source ne précisait pas non plus la concentration (champ null). Volume 80 ml plausible mais non confirmé.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

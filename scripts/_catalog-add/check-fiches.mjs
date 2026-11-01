@@ -25,6 +25,13 @@ const PHRASES = [
   ["2025", "mauvaise année"],
 ];
 
+// Mentions relues une à une et acceptées POUR UNE FICHE donnée (« légèrement poivré » à propos
+// de la cardamome, « fruits tropicaux » pour mangue + goyave). Fiche par fiche plutôt que dans
+// GENERIQUE : « poivre » reste suspect partout ailleurs. Format : { "<slug>": ["terme", ...] },
+// termes tels que le contrôle les affiche.
+const RELUES = fs.existsSync("./scripts/_catalog-add/notes-relues.json")
+  ? JSON.parse(fs.readFileSync("./scripts/_catalog-add/notes-relues.json", "utf8")) : {};
+
 // Vocabulaire d'accord / de famille : descriptif, pas une revendication de note précise.
 const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques", "notes marines", "marine", "marines",
   "sucre", "sucree", "poudre", "poudree", "fleurs", "fleurs blanches", "fruits", "fruits confits", "fruits rouges",
@@ -46,7 +53,13 @@ const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques",
   // aromatique » decrit la famille, ca ne revendique aucune note.
   "floral", "aromatique", "accord ambre", "bois ambre", "baume", "cuir boise",
   "coeur de patchouli", "notes florales blanches", "notes boisees seches",
-  "solaire", "musc boise", "velours"]);
+  "solaire", "musc boise", "velours",
+  // Homonymes : une note « Pensée » (la fleur) ou « Glace » est entrée dans le vocabulaire, et le
+  // contrôle prenait chaque « pensé pour » ou « presque glacé » pour une note inventée (31/10/2026).
+  "pensee", "glace",
+  // Une note littéralement appelée « Accord oriental » est entrée au vocabulaire : l'expression
+  // décrit la famille d'un fond vanille-benjoin, elle ne revendique aucune matière.
+  "accord oriental"]);
 
 // Deux noms pour la meme matiere. Ecrire « la fumee de l encens » quand la pyramide dit
 // « Oliban » n est pas une invention : c est le meme produit, le francais parfumeur emploie
@@ -163,7 +176,8 @@ for (const f of fiches) {
   // le prefixe « accord » annonce justement qu on parle d une impression, pas d une matiere.
   const generique = (v) => GENERIQUE.has(v) || GENERIQUE.has(sing(v)) ||
     (v.startsWith("accord ") && (GENERIQUE.has(v.slice(7)) || GENERIQUE.has(sing(v.slice(7)))));
-  const intruses = [...vocab].filter((v) => !generique(v) && !couvert(v) && citeeCommeNote(plat, v));
+  const relu = new Set(RELUES[f.slug] || []);
+  const intruses = [...vocab].filter((v) => !generique(v) && !couvert(v) && !relu.has(v) && citeeCommeNote(plat, v));
   if (intruses.length) pb.push("note hors fiche : " + intruses.slice(0, 4).join(", "));
 
   const acc = norm(f.shortDescription).split(".")[0].trim().slice(0, 40);

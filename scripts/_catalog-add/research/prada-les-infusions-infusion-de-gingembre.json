@@ -1,0 +1,23 @@
+{
+ "slug": "prada-les-infusions-infusion-de-gingembre",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Prada/Infusion-de-Gingembre-90482.html",
+  "id": 90482,
+  "nomOfficiel": "Infusion de Gingembre",
+  "marqueOfficielle": "Prada",
+  "genre": "unisexe",
+  "annee": 2024
+ },
+ "notes": {
+  "top": ["Mandarine verte", "Aldehydes"],
+  "heart": ["Gingembre"],
+  "base": ["Vetiver", "Musc"]
+ },
+ "famille": "Aromatique Agrume",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Meme parfum Fragrantica que 'prada-prive-2024-infusion-de-gingembre' (index 10, boutique differente) : les deux libelles boutique designent 'Infusion de Gingembre'. A dedoublonner avant integration dans products.json (ne garder qu'une seule fiche).",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

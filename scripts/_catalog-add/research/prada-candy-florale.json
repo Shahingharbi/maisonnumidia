@@ -1,0 +1,23 @@
+{
+ "slug": "prada-candy-florale",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Prada/Prada-Candy-Florale-24487.html",
+  "id": 24487,
+  "nomOfficiel": "Prada Candy Florale",
+  "marqueOfficielle": "Prada",
+  "genre": "femme",
+  "annee": 2014
+ },
+ "notes": {
+  "top": ["Limoncello"],
+  "heart": ["Pivoine"],
+  "base": ["Benjoin", "Caramel", "Miel", "Musc"]
+ },
+ "famille": "Floral Gourmand",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

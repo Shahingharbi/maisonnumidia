@@ -1,0 +1,32 @@
+{
+ "slug": "tom-ford-azure-lime-eau-de",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Tom-Ford/Azure-Lime-8706.html",
+  "id": 8706,
+  "nomOfficiel": "Azure Lime",
+  "marqueOfficielle": "Tom Ford",
+  "genre": "unisexe",
+  "annee": 2010
+ },
+ "notes": {
+  "top": [
+   "Citron vert",
+   "Mandarine"
+  ],
+  "heart": [
+   "Buchu (Agathosme)",
+   "Notes vertes"
+  ],
+  "base": [
+   "Bois de santal",
+   "Musc"
+  ]
+ },
+ "famille": "Floral Boisé Musqué",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Repartition top/coeur/fond reconstituee : le resume de recherche donne une liste globale de notes (agrumes, bois, musc, buchu, santal) sans pyramide detaillee.",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

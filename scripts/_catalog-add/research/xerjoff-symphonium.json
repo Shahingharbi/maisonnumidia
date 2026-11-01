@@ -1,0 +1,33 @@
+{
+  "slug": "xerjoff-symphonium",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Symphonium-59707.html",
+    "id": 59707,
+    "nomOfficiel": "Symphonium",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "unisexe",
+    "annee": 2020
+  },
+  "notes": {
+    "top": [
+      "Mandarine d Espagne",
+      "Orange"
+    ],
+    "heart": [
+      "Cardamome indien",
+      "Chocolat belge"
+    ],
+    "base": [
+      "Musc",
+      "Vanille de Madagascar",
+      "Oud (Laos/Thailande)"
+    ]
+  },
+  "famille": "Oriental Vanille",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Plusieurs versions existent (2015, 2020 EDP 100ml, 2021 Parfum). Le candidat (100ml, pas de concentration precisee) correspond a la version EDP 2020, ID 59707 - pas a la version Parfum 2021 (ID 66677).",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

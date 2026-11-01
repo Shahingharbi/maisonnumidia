@@ -7,6 +7,11 @@
 // Rien n'est inventé : ce qui n'est pas confirmé fait sortir le parfum du lot (fichier ecartes.json).
 import fs from "fs";
 
+// --simulation : ne réécrit rien, écrit le résultat dans le dossier temporaire du système.
+// Sert à tester une modification pendant qu'un workflow de rédaction lit textes-todo.json.
+const SIMULATION = process.argv.includes("--simulation");
+const SORTIE = SIMULATION ? (process.env.TEMP || "/tmp") + "/build-fiches-" : "./scripts/_catalog-add/";
+
 const COMB = /[̀-ͯ]/g;
 const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(COMB, "");
 const slugify = (s) => norm(s).replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
@@ -15,7 +20,10 @@ const slugify = (s) => norm(s).replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "
 const MAISONS_ORIENTALES = new Set(["lattafa", "al haramain", "swiss arabian", "rasasi", "ajmal", "afnan",
   "orientica", "al rehab", "el nabil", "arabian oud", "armaf", "zimaya", "assaf", "khadlaj", "ard al zaafaran",
   "maison alhambra", "french avenue", "paris corner", "bharara", "asdaaf", "nusuk", "surrati"]);
-const MOTS_ORIENTAUX = ["oud", "oudh", "agarwood", "encens", "myrrhe", "ambre gris", "bakhoor", "attar"];
+// Pas "ambre gris" : c'est une note marine, au fond de quantité de parfums frais de créateur.
+// Avec elle, Mugler Fantasquatic (aquatique) ou Rochas Escapade au Soleil (hespéridé)
+// partaient chez les orientaux (corrigé le 31/10/2026).
+const MOTS_ORIENTAUX = ["oud", "oudh", "agarwood", "encens", "myrrhe", "bakhoor", "attar"];
 const FAMILLE_FEMININE = ["floral", "fruite", "gourmand", "poudre", "vanille"];
 
 // Recherche par MOT ENTIER : en sous-chaîne, "poudré" contient "oud" et faisait basculer
@@ -74,11 +82,18 @@ const nettoieMarque = (m) => String(m || "").replace(/\s*\([^)]*\)/g, "").trim()
 // ("Q Intense"), sinon le h1, le titre et le slug répètent la marque et la concentration
 // (interdit par les règles SEO : jamais de concentration dans l'URL).
 function nettoieNom(nom, marque) {
-  let n = " " + String(nom || "").trim() + " ";
+  // Kayali numérote ses parfums "Vanilla | 28" chez Fragrantica : la barre finissait telle
+  // quelle dans le nom, le h1 et le <title>.
+  let n = " " + String(nom || "").trim().replace(/\s*\|\s*/g, " ") + " ";
   n = n.replace(/\s+Eau de (Parfum|Toilette|Cologne)\s+/gi, " ");
   n = n.replace(/\s+(EDP|EDT|EDC)\s+/gi, " ");
   n = n.replace(/\s+Extrait de Parfum\s+/gi, " ");
   n = n.replace(new RegExp("\\s+by\\s+" + marque.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s*") + "\\s+", "gi"), " ");
+  // Quand la maison est soudée au nom par un mot de liaison, elle FAIT partie du nom :
+  // "Cartier de Lune", "Eau de Rochas Fraîche", "My Burberry", "Aqua Kenzo pour Femme". Le
+  // catalogue les écrit en entier (Bleu de Chanel, Terre d'Hermès, My Burberry Black). Avant
+  // cette garde, on publiait "de Lune", "Eau de Fraîche" et "My".
+  if (marqueSoudee(n, marque)) return n.replace(/\s+/g, " ").trim();
   const tetes = [marque, marque.replace(/\s+/g, "")];
   for (const t of tetes) {
     const re = new RegExp("^\\s*" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s*") + "\\s+", "i");
@@ -90,6 +105,21 @@ function nettoieNom(nom, marque) {
   if (partout.test(n) && n.replace(partout, " ").trim().length > 2) n = n.replace(partout, " ");
   return n.replace(/\s+/g, " ").trim();
 }
+
+const LIAISON_AVANT = /(?:^|\s)(?:de|d'|d’|du|des|my|mr\.?|eau|aqua|l'eau|l’eau|par|and|et|&)\s*$/i;
+const LIAISON_APRES = /^\s*(?:de|d'|d’|du)\s/i;
+function marqueSoudee(nom, marque) {
+  const re = new RegExp(marque.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+"), "i");
+  const m = re.exec(nom);
+  if (!m) return false;
+  const avant = nom.slice(0, m.index), apres = nom.slice(m.index + m[0].length);
+  if (LIAISON_AVANT.test(avant)) return true;
+  // "Cartier de Lune" : la maison en tête, suivie de "de".
+  return !avant.trim() && LIAISON_APRES.test(apres);
+}
+
+const contientMarque = (nom, marque) =>
+  new RegExp("(^|[^\\p{L}])" + marque.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+") + "([^\\p{L}]|$)", "iu").test(nom);
 
 /**
  * Le dernier mot de la maison ouvre parfois le nom ("Armani Code Elixir" chez Giorgio Armani,
@@ -122,11 +152,26 @@ const ALIAS_MARQUE = {
   "carolina herrera": "Carolina Herrera",
   "maison francis kurkdjian": "Maison Francis Kurkdjian",
   "van cleef arpels": "Van Cleef & Arpels",
-  "viktor&rolf": "Viktor&Rolf",
-  "viktor & rolf": "Viktor&Rolf",
+  // brands[] écrit "Viktor & Rolf" avec espaces : sans eux, la marque était proposée à la création.
+  "viktor&rolf": "Viktor & Rolf",
+  "viktor & rolf": "Viktor & Rolf",
+  // Fragrantica nomme la maison "Lattafa Perfumes" : sans alias, 5 fiches partaient sous une
+  // marque fantôme lattafa-perfumes, à côté des 80 fiches Lattafa.
+  "lattafa perfumes": "Lattafa",
   "initio parfums prives": "Initio",
   "initio parfums privés": "Initio",
   "lacoste fragrances": "Lacoste",
+  "kayali fragrances": "Kayali",
+  "by kilian": "Kilian",
+  "frederic malle editions de parfums": "Frédéric Malle",
+  "frederic malle": "Frédéric Malle",
+};
+
+// Lignes qu'une maison vend sous son propre nom : Fragrantica range "Asdaaf" à part, mais c'est
+// une ligne de Lattafa, vendue en Algérie comme "Lattafa Asdaaf Ameer Al Arab". Une page marque
+// à un seul produit n'aiderait personne, alors que "lattafa" est la marque n°1 en clics.
+const SOUS_MARQUES = {
+  asdaaf: { marque: "Lattafa", prefixe: "Asdaaf" },
 };
 
 const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
@@ -153,7 +198,11 @@ const DIR_T = "./scripts/_catalog-add/texts";
 const fiches = [], ecartes = [], marquesACreer = new Map();
 
 for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
-  const r = JSON.parse(fs.readFileSync(DIR_R + "/" + f, "utf8"));
+  // Un workflow de recherche peut être en train d'écrire ce fichier : illisible = on le
+  // laisse pour le prochain montage, au lieu de faire planter tout le lot.
+  let r;
+  try { r = JSON.parse(fs.readFileSync(DIR_R + "/" + f, "utf8")); }
+  catch { ecartes.push({ slug: f.replace(".json", ""), raison: "fichier de recherche illisible (en cours d'écriture ?)" }); continue; }
   const c = candidats.get(r.slug);
   const jette = (raison) => ecartes.push({ slug: r.slug, raison });
   if (dejaInjectes.has(r.slug)) continue;
@@ -172,13 +221,16 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
 
   // La marque de Fragrantica fait foi (leçon Madawi : la boutique se trompe de maison).
   const marqueBrute0 = nettoieMarque(fg.marqueOfficielle) || c.marque;
-  const marqueBrute = ALIAS_MARQUE[norm(marqueBrute0)] || marqueBrute0;
+  const sousMarque = SOUS_MARQUES[norm(marqueBrute0)];
+  const marqueBrute = sousMarque ? sousMarque.marque : ALIAS_MARQUE[norm(marqueBrute0)] || marqueBrute0;
   const marqueConnue = marquesParNom.get(norm(marqueBrute));
   const brandSlug = marqueConnue ? marqueConnue.slug : slugify(marqueBrute);
   const marque = marqueConnue ? libelleParSlug.get(brandSlug) || marqueConnue.name : marqueBrute;
   if (!marqueConnue) marquesACreer.set(brandSlug, marque);
   const nomsMarque = catalogue.products.filter((p) => p.brandSlug === brandSlug).map((p) => p.name);
-  const nom = retireTeteRedondante(nettoieNom(fg.nomOfficiel, marque), marque, nomsMarque);
+  const nomBrut = sousMarque ? nettoieNom(fg.nomOfficiel, marqueBrute0) : fg.nomOfficiel;
+  const nomSeul = retireTeteRedondante(nettoieNom(nomBrut, marque), marque, nomsMarque);
+  const nom = sousMarque && nomSeul ? sousMarque.prefixe + " " + nomSeul : nomSeul;
   if (!nom) { jette("nom vide après nettoyage"); continue; }
 
   // Même maison + même nom (aux accents et à la casse près) = le parfum est déjà au catalogue,
@@ -190,7 +242,10 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
   // On supprime les mots répétés ("narciso-rodriguez-narciso-poudree" -> "narciso-rodriguez-poudree"),
   // SAUF si ça laisse le slug pendu sur un mot outil : "Le Sel d'Issey" chez Issey Miyake
   // donnait "issey-miyake-le-sel-d".
-  const bruts = (brandSlug + "-" + slugify(nom)).split("-").filter(Boolean);
+  // Nom qui contient déjà la maison ("My Burberry", "Eau de Rochas Fraîche") : le slug part du
+  // nom, comme my-burberry-black au catalogue, sinon la déduplication donnait "burberry-my".
+  const nomPorteMarque = contientMarque(nom, marque);
+  const bruts = (nomPorteMarque ? slugify(nom) : brandSlug + "-" + slugify(nom)).split("-").filter(Boolean);
   const vus = new Set();
   const dedupes = bruts.filter((t) => !vus.has(t) && vus.add(t));
   const OUTILS = new Set(["d", "l", "de", "du", "la", "le", "les", "en", "et", "a", "in", "of", "the"]);
@@ -198,6 +253,8 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
   const coupe = (n) => tokens.slice(0, n).join("-");
   let slug = coupe(8);
   while (slug.length > 48 && slug.split("-").length > 4) slug = coupe(slug.split("-").length - 1);
+  // La coupe ne doit pas laisser le slug pendu sur un mot outil ("...-pure-nectar-de").
+  while (slug.split("-").length > 2 && OUTILS.has(slug.split("-").pop())) slug = slug.split("-").slice(0, -1).join("-");
 
   // Un slug déjà pris par une fiche du catalogue = presque toujours le MÊME parfum sous une
   // graphie différente (Cacharel "Lou Lou" vs "LouLou"). On refuse au lieu de suffixer en -2 :
@@ -223,7 +280,9 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
     id: slug,
     slug,
     name: nom,
-    h1: `${marque} ${nom} Parfum ${GENRE_H1[genre]} Algérie`,
+    // Les parenthèses de Fragrantica (année, collection, "Parfum Intense") restent dans le nom
+    // mais n'ont rien à faire dans le h1 : personne ne tape "(Les Heures Voyageuses)".
+    h1: `${(nomPorteMarque ? nom : marque + " " + nom).replace(/\s*\([^)]*\)/g, "")} Parfum ${GENRE_H1[genre]} Algérie`,
     brand: marque,
     brandSlug,
     gender: genre,
@@ -266,9 +325,9 @@ for (const f of fiches) {
 }
 
 const sansTexte = fiches.filter((f) => !f.description);
-fs.writeFileSync("./scripts/_catalog-add/fiches.json", JSON.stringify(fiches, null, 1));
-fs.writeFileSync("./scripts/_catalog-add/ecartes.json", JSON.stringify(ecartes, null, 1));
-fs.writeFileSync("./scripts/_catalog-add/textes-todo.json", JSON.stringify(
+fs.writeFileSync(SORTIE + "fiches.json", JSON.stringify(fiches, null, 1));
+fs.writeFileSync(SORTIE + "ecartes.json", JSON.stringify(ecartes, null, 1));
+fs.writeFileSync(SORTIE + "textes-todo.json", JSON.stringify(
   sansTexte.map((f) => ({ slug: f.slug, slugCandidat: f._source.slugCandidat, brand: f.brand, name: f.name, gender: f.gender, concentration: f.concentration, volume: f.volume, family: f.family, notes: f.notes, occasions: f.occasions, seasons: f.seasons })), null, 1));
 console.log("fiches montées : " + fiches.length + " (dont " + sansTexte.length + " sans texte) | écartées : " + ecartes.length);
 const parRaison = {};

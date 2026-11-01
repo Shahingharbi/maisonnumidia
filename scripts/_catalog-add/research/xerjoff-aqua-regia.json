@@ -1,0 +1,36 @@
+{
+  "slug": "xerjoff-aqua-regia",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Aqua-Regia-80268.html",
+    "id": 80268,
+    "nomOfficiel": "Aqua Regia",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "unisexe",
+    "annee": 2023
+  },
+  "notes": {
+    "top": [
+      "Cuir",
+      "Bergamote de Calabre",
+      "Cassis"
+    ],
+    "heart": [
+      "Violette",
+      "Racine d iris",
+      "Patchouli de Singapour",
+      "Caramel"
+    ],
+    "base": [
+      "Cedre",
+      "Vanille de Madagascar",
+      "Musc"
+    ]
+  },
+  "famille": "Chypre Cuir",
+  "concentrationConfirmee": "Parfum",
+  "volumeExiste": true,
+  "remarque": "Collection K Collection. Volume officiel 100ml Parfum confirme (xerjoff.com), correspond au candidat.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

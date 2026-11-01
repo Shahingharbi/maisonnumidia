@@ -1,0 +1,23 @@
+{
+ "slug": "prada-la-femme-absolue",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Prada/Prada-La-Femme-Absolu-51636.html",
+  "id": 51636,
+  "nomOfficiel": "La Femme Absolu",
+  "marqueOfficielle": "Prada",
+  "genre": "femme",
+  "annee": 2018
+ },
+ "notes": {
+  "top": ["Peche", "Orange sanguine", "Piment"],
+  "heart": ["Fleur d'oranger", "Genet", "Neroli", "Immortelle"],
+  "base": ["Baume de tolu", "Vanille"]
+ },
+ "famille": "Oriental Floral",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Meme parfum Fragrantica que 'prada-la-femme-milano-absolu-eau' (index 7, boutique differente) : le nom officiel est 'La Femme Absolu' (orthographe boutique 'Absolue' au feminin francais, non officielle). A dedoublonner avant integration dans products.json.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

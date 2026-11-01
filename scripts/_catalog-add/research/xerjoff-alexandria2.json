@@ -1,0 +1,38 @@
+{
+  "slug": "xerjoff-alexandria2",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Alexandria-II-17786.html",
+    "id": 17786,
+    "nomOfficiel": "Alexandria II",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "unisexe",
+    "annee": 2012
+  },
+  "notes": {
+    "top": [
+      "Bois de rose (palissandre)",
+      "Lavande",
+      "Pomme",
+      "Cannelle"
+    ],
+    "heart": [
+      "Rose",
+      "Cedre",
+      "Muguet"
+    ],
+    "base": [
+      "Oud",
+      "Bois de santal",
+      "Ambre",
+      "Vanille",
+      "Musc"
+    ]
+  },
+  "famille": "Oriental Boise",
+  "concentrationConfirmee": "Parfum",
+  "volumeExiste": true,
+  "remarque": "La page boutique (odorem-dz.com) affiche le titre Xerjoff Alexandria2 100ml (l URL contient a tort 50ml-edp , visiblement un slug source recycle). Format officiel Oud Stars habituellement 50ml, mais 100ml existe aussi en circulation (marche gris/reconditionnement) - a verifier avant publication.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

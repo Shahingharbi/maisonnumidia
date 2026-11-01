@@ -1,0 +1,23 @@
+{
+  "slug": "trussardi-edp",
+  "existe": true,
+  "fragrantica": {
+    "url": null,
+    "id": null,
+    "nomOfficiel": "Trussardi Eau de Parfum",
+    "marqueOfficielle": "Trussardi",
+    "genre": "femme",
+    "annee": null
+  },
+  "notes": {
+    "top": [],
+    "heart": [],
+    "base": []
+  },
+  "famille": null,
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Libelle ambigu (marque + EDP, sans nom) : deux recherches faites car la gamme Trussardi EDP 90 ml compte plusieurs parfums (Ruby Red, Pure Jasmine, New Feminine, et l'EDP feminin sans nom). Le plus probable est ce dernier, liste en 90 ml EDP chez Shop Apotheke (Trussardi for Her), Proshop, Pricerunner, Faces et Achatmoinscher (femme). Aucune page Fragrantica trouvee : ID, annee, notes et famille inconnus. Ne pas creer la fiche sans avoir ouvert la page Fragrantica a la main et confirme que c'est bien celui-la.",
+  "confiance": "basse",
+  "verifieLe": "2026-10-31"
+}

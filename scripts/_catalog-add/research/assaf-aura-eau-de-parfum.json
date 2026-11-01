@@ -1,0 +1,23 @@
+{
+  "slug": "assaf-aura-eau-de-parfum",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Assaf/Aura-121379.html",
+    "id": 121379,
+    "nomOfficiel": "Aura",
+    "marqueOfficielle": "Assaf",
+    "genre": "unisexe",
+    "annee": 2025
+  },
+  "notes": {
+    "top": ["Citron", "Bergamote", "Elemi", "Poivre", "Thym", "Cardamome"],
+    "heart": ["Vetiver", "Bois de cedre", "Amberwood"],
+    "base": ["Patchouli", "Musc", "Ambre gris"]
+  },
+  "famille": "Oriental Boise",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Pyramide contestee : le texte descriptif de la page Fragrantica parle d'une ouverture fruit de la passion et safran avec une rose au coeur, et plusieurs avis jugent la liste de notes fausse. Les notes ci-dessus sont celles de la pyramide affichee, a ne pas presenter comme certaines. Collection Pegasus. Volume 150 ml pris au libelle boutique, non confirme par Fragrantica. Ne pas confondre avec Aura Black (ID 139959) ni Aura Blue (ID 143109).",
+  "confiance": "moyenne",
+  "verifieLe": "2026-10-31"
+}

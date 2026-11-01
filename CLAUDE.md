@@ -18,17 +18,26 @@ Site e-commerce parfums Algérie. COD (paiement à la réception), livraison Yal
 - **Newsletter (30/09/2026) :** les inscriptions vont **directement dans une liste Brevo** (`lib/newsletter.ts`, API `POST /v3/contacts` avec `updateEnabled` : un contact déjà connu, par exemple de l'autre boutique de Shahin, est rattaché à la liste sans doublon). **La clé Brevo donne un accès complet au compte et le dépôt est public : elle ne vit QUE dans Vercel** (`BREVO_API_KEY`, `BREVO_LIST_ID`), jamais dans le code ni dans un commit. Vérifié le 30/09 par un build avec une clé-témoin : absente du JS, du HTML et des données RSC servis au public. Inscription depuis le footer, la pop-up, `/newsletter` (noindex, hors sitemap) et l'écran de fin de commande ; sans les deux variables, **aucun champ ne s'affiche** (le footer avait un formulaire décoratif qui perdait chaque email). Anti-abus : champ piège + 8 tentatives / 10 min / IP (`lib/limite-debit.ts`, en mémoire, par instance). La pop-up « Suivez nos arrivages » (`components/layout/PopupSuivi.tsx`) documente ses règles anti-insistance en tête de fichier, dont : **jamais sur une fiche produit** (elle recouvrait le bouton « Ajouter au panier »).
 - **Tableau de bord :** le dépôt GitHub est **public** et `lib/tdb/auth.ts` contient un mot de passe par défaut en clair. Sans conséquence tant que le tableau de bord ne lit que le `localStorage` du navigateur qui l'ouvre, mais à remplacer par `TDB_USER`/`TDB_PASS` dans Vercel avant d'y brancher la moindre donnée serveur.
 
-### État du catalogue (26 septembre 2026 — vérifié via `node -e` sur `data/products.json`)
-- **1 729 produits** dans `data/products.json` (612 homme, 846 femme, 271 oriental — par
-  `category` ; par `gender` : 549 homme, 755 femme, 425 unisexe, et les deux ne se confondent
-  pas, voir règle n°2)
+### État du catalogue (1er novembre 2026 — vérifié via `node -e` sur `data/products.json`)
+- **2 329 produits** dans `data/products.json` (787 homme, 1 152 femme, 390 oriental — par
+  `category` ; par `gender` : 684 homme, 1 004 femme, 641 unisexe, et les deux ne se confondent
+  pas, voir règle n°2). +600 le 01/11/2026 (vague 2 de `scripts/_catalog-add/`).
+- **Relecture indépendante obligatoire avant chaque publication de fiches** (workflow
+  `relecture-fiches-lot`) : sur les 600 du 01/11, elle a trouvé **80 défauts**, surtout des
+  affirmations inventées (« la version la plus concentrée de la gamme », « plus légère que
+  l'original ») et quelques volumes faux,
+  que le contrôle automatique `check-fiches.mjs` ne pouvait pas voir. Toutes corrigées.
+- **Rayon oriental** : « ambre gris » n'est plus un marqueur oriental (note marine, présente dans
+  quantité de parfums frais). 15 fiches publiées reclassées en homme/femme le 01/11/2026
+  (`scripts/_catalog-audit/reclasser-orientaux.mjs`, 2 redirections 301 dans `next.config.ts`).
 - **150 marques** dans `data/products.json.brands[]`, toutes pourvues d'au moins un produit.
   Celles qui n'en auraient pas sont exclues de `/marques` et renvoient 404 (`getBrandsWithProducts`)
 - **63 produits en rupture** (`inStock: false`) au 18/10/2026 : parfums arrêtés ou éditions limitées passées, **chacun avec une preuve écrite** (fiche « Discontinued » d'un revendeur, article, date de l'édition limitée). Liste et preuves des 27 derniers : `scripts/_price-research/ruptures/`. Une rupture chez toutes les boutiques algériennes ne suffit PAS : sur 322 parfums épuisés ou absents en Algérie, 71 étaient encore fabriqués.
 - **14 articles blog** dans `data/blog.ts` (contenu en **Markdown** — voir section blog plus bas)
 - **550 keywords** dans `data/keywords.json` — 527 done, 23 skip, **0 pending**
 - **0 brandSlug orphelin, 0 related cassé, 0 produit sans image, 0 doublon** (audit règle n°6)
-- Prix : **6 500 DA à 145 000 DA**, médiane 23 000 DA (voir Règles prix)
+- Prix : **6 500 DA à 252 000 DA** (Roja Parfum de la Nuit N°2 ; les extraits Louis Vuitton et
+  Roja dépassent tous 165 000 DA), médiane 24 000 DA (voir Règles prix)
 - Descriptions produit : médiane **232 mots**, aucune en un seul bloc, aucune assemblée à partir
   de phrases types. 30 pyramides sans découpage publié (Louis Vuitton, Tom Ford) s'affichent en
   « Notes olfactives ».

@@ -1,0 +1,2303 @@
+[
+ {
+  "slug": "acqua-di-parma-blu-mediterraneo-arancia-capri",
+  "brand": "Acqua di Parma",
+  "name": "Blu Mediterraneo Arancia di Capri",
+  "gender": "unisexe",
+  "concentration": "EDT",
+  "volume": "150ml",
+  "family": "Hespéridé",
+  "notes": {
+   "top": [
+    "Orange",
+    "Mandarine de Sicile",
+    "Bergamote",
+    "Citron"
+   ],
+   "heart": [
+    "Petit grain",
+    "Cardamome"
+   ],
+   "base": [
+    "Caramel",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "acqua-di-parma-arancia-capri-edt"
+ },
+ {
+  "slug": "acqua-di-parma-blu-mediterraneo-bergamotto",
+  "brand": "Acqua di Parma",
+  "name": "Blu Mediterraneo Bergamotto di Calabria",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "75ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Cédrat"
+   ],
+   "heart": [
+    "Gingembre",
+    "Cèdre",
+    "Fleurs"
+   ],
+   "base": [
+    "Vétiver",
+    "Musc",
+    "Benjoin"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "acqua-di-parma-blu-mediterraneo-bergamotto"
+ },
+ {
+  "slug": "acqua-di-parma-colonia-ambra",
+  "brand": "Acqua di Parma",
+  "name": "Colonia Ambra",
+  "gender": "homme",
+  "concentration": "EDC",
+  "volume": "100ml",
+  "family": "Ambré Boisé",
+  "notes": {
+   "top": [
+    "Orange",
+    "Bergamote",
+    "Petit grain"
+   ],
+   "heart": [
+    "Accord rose",
+    "Nagarmotha",
+    "Cèdre de Virginie",
+    "Patchouli"
+   ],
+   "base": [
+    "Ambre gris",
+    "Bois de santal",
+    "Labdanum",
+    "Vanille",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-colonia-ambra-by"
+ },
+ {
+  "slug": "acqua-di-parma-colonia-essenza",
+  "brand": "Acqua di Parma",
+  "name": "Colonia Essenza",
+  "gender": "unisexe",
+  "concentration": "Cologne",
+  "volume": "180ml",
+  "family": "Hespéridé Boisé",
+  "notes": {
+   "top": [
+    "Petit grain",
+    "Pamplemousse",
+    "Bergamote",
+    "Citron",
+    "Mandarine",
+    "Orange"
+   ],
+   "heart": [
+    "Jasmin",
+    "Rose",
+    "Clou de girofle"
+   ],
+   "base": [
+    "Patchouli",
+    "Musc",
+    "Vétiver",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-colonia-essenza"
+ },
+ {
+  "slug": "acqua-di-parma-colonia-mirra",
+  "brand": "Acqua di Parma",
+  "name": "Colonia Mirra",
+  "gender": "homme",
+  "concentration": "EDC",
+  "volume": "100ml",
+  "family": "Ambré Résineux",
+  "notes": {
+   "top": [
+    "Agrumes",
+    "Fleur d'oranger"
+   ],
+   "heart": [
+    "Myrrhe",
+    "Noix de muscade"
+   ],
+   "base": [
+    "Ambre",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-colonia-mirra-by"
+ },
+ {
+  "slug": "acqua-di-parma-leather",
+  "brand": "Acqua di Parma",
+  "name": "Leather",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Cuiré",
+  "notes": {
+   "top": [
+    "Framboise",
+    "Orange du Brésil",
+    "Citron de Sicile"
+   ],
+   "heart": [
+    "Rose",
+    "Thym rouge",
+    "Petit grain",
+    "Chèvrefeuille"
+   ],
+   "base": [
+    "Cuir",
+    "Bois de gaïac",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-leather"
+ },
+ {
+  "slug": "acqua-di-parma-magnolia-infinita",
+  "brand": "Acqua di Parma",
+  "name": "Magnolia Infinita",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral",
+  "notes": {
+   "top": [
+    "Bergamote de Calabre",
+    "Citron",
+    "Orange"
+   ],
+   "heart": [
+    "Magnolia",
+    "Jasmin sambac",
+    "Ylang-ylang",
+    "Rose"
+   ],
+   "base": [
+    "Musc",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "acqua-di-parma-magnolia-infinita-eau"
+ },
+ {
+  "slug": "acqua-di-parma-oud",
+  "brand": "Acqua di Parma",
+  "name": "Oud",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Orange",
+    "Bergamote de Calabre"
+   ],
+   "heart": [
+    "Bois d'agar (oud)",
+    "Amyris",
+    "Coriandre"
+   ],
+   "base": [
+    "Cuir",
+    "Bois de santal",
+    "Cèdre",
+    "Musc",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-oud-eau-de"
+ },
+ {
+  "slug": "acqua-di-parma-oud-spice",
+  "brand": "Acqua di Parma",
+  "name": "Oud & Spice",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "180ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Framboise",
+    "Rose"
+   ],
+   "heart": [
+    "Cannelle",
+    "Poivre rose",
+    "Clou de girofle"
+   ],
+   "base": [
+    "Huile d'oud",
+    "Patchouli",
+    "Labdanum"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-oud-spice-eau"
+ },
+ {
+  "slug": "acqua-di-parma-quercia",
+  "brand": "Acqua di Parma",
+  "name": "Quercia",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Citron",
+    "Bergamote de Calabre",
+    "Poivre rose",
+    "Petit grain"
+   ],
+   "heart": [
+    "Cardamome",
+    "Cèdre",
+    "Géranium"
+   ],
+   "base": [
+    "Mousse",
+    "Fève tonka",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "acqua-di-parma-quercia"
+ },
+ {
+  "slug": "acqua-di-parma-rosa-nobile",
+  "brand": "Acqua di Parma",
+  "name": "Rosa Nobile",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Bergamote",
+    "Poivre"
+   ],
+   "heart": [
+    "Rose",
+    "Pivoine",
+    "Violette",
+    "Muguet"
+   ],
+   "base": [
+    "Musc",
+    "Cèdre",
+    "Ambre gris"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-rosa-nobile-eau"
+ },
+ {
+  "slug": "acqua-di-parma-sandalo",
+  "brand": "Acqua di Parma",
+  "name": "Sandalo",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Bergamote de Calabre",
+    "Orange",
+    "Petit grain",
+    "Citron"
+   ],
+   "heart": [
+    "Lavande",
+    "Cardamome"
+   ],
+   "base": [
+    "Bois de santal",
+    "Fève tonka",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-sandalo"
+ },
+ {
+  "slug": "acqua-di-parma-zafferano",
+  "brand": "Acqua di Parma",
+  "name": "Zafferano",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Orange amère",
+    "Coriandre",
+    "Bergamote"
+   ],
+   "heart": [
+    "Safran",
+    "Géranium",
+    "Fleur d'oranger",
+    "Rose",
+    "Jasmin sambac"
+   ],
+   "base": [
+    "Notes boisées",
+    "Vanille",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "acqua-di-parma-zafferano-eau-de"
+ },
+ {
+  "slug": "bentley-momentum-intense",
+  "brand": "Bentley",
+  "name": "Momentum Intense",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Élémi",
+    "Lavande"
+   ],
+   "heart": [
+    "Ambre gris",
+    "Géranium",
+    "Fève tonka"
+   ],
+   "base": [
+    "Bois ambré",
+    "Musc",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "bentley-momentum-intense"
+ },
+ {
+  "slug": "caron-rose-ebene-2021",
+  "brand": "Caron",
+  "name": "Rose Ebène (2021)",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Cardamome",
+    "Safran"
+   ],
+   "heart": [
+    "Cuir",
+    "Rose de Turquie",
+    "Styrax",
+    "Café",
+    "Bouleau"
+   ],
+   "base": [
+    "Patchouli",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "caron-prive-rose-ebene-de-eau"
+ },
+ {
+  "slug": "caron-tabac-noir-2021",
+  "brand": "Caron",
+  "name": "Tabac Noir (2021)",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Tabac clair de Bulgarie",
+    "Poivre de Madagascar"
+   ],
+   "heart": [
+    "Tabac",
+    "Labdanum",
+    "Feuille de patchouli d'Indonésie",
+    "Papyrus"
+   ],
+   "base": [
+    "Miel",
+    "Fève tonka",
+    "Vanille",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "caron-prive-tabac-noir-2021-eau"
+ },
+ {
+  "slug": "caron-yuzu-man",
+  "brand": "Caron",
+  "name": "Yuzu Man",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "125ml",
+  "family": "Hespéridé Aromatique",
+  "notes": {
+   "top": [
+    "Yuzu",
+    "Verveine citronnée",
+    "Basilic"
+   ],
+   "heart": [
+    "Figue noire",
+    "Notes fruitées",
+    "Pistache"
+   ],
+   "base": [
+    "Cèdre de Virginie",
+    "Bois de santal",
+    "Épices"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "caron-yuzu-man-edt"
+ },
+ {
+  "slug": "coach-for-men",
+  "brand": "Coach",
+  "name": "for Men",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Poire nashi verte",
+    "Bergamote",
+    "Kumquat",
+    "Lavande",
+    "Pamplemousse"
+   ],
+   "heart": [
+    "Cardamome",
+    "Coriandre",
+    "Géranium"
+   ],
+   "base": [
+    "Vétiver d'Haïti",
+    "Daim",
+    "Ambre gris",
+    "Bois ambré"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "coach-for-men"
+ },
+ {
+  "slug": "coach-platinum",
+  "brand": "Coach",
+  "name": "Platinum",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Oriental",
+  "notes": {
+   "top": [
+    "Ananas",
+    "Poivre noir",
+    "Baies de genévrier"
+   ],
+   "heart": [
+    "Cashmeran",
+    "Sauge",
+    "Géranium"
+   ],
+   "base": [
+    "Vanille",
+    "Cuir",
+    "Santal",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "coach-platinium"
+ },
+ {
+  "slug": "coach-poppy",
+  "brand": "Coach",
+  "name": "Poppy",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Concombre",
+    "Mandarine",
+    "Freesia"
+   ],
+   "heart": [
+    "Nénuphar",
+    "Rose",
+    "Jasmin",
+    "Gardénia"
+   ],
+   "base": [
+    "Guimauve",
+    "Vanille",
+    "Santal",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "coach-puppy-eau-de-parfum"
+ },
+ {
+  "slug": "coach-for-men-pure-platinum",
+  "brand": "Coach",
+  "name": "for Men Pure Platinum",
+  "gender": "homme",
+  "concentration": "Parfum",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Lavande",
+    "Pomme",
+    "Mandarine"
+   ],
+   "heart": [
+    "Rhum",
+    "Mousse",
+    "Fleur d'oranger"
+   ],
+   "base": [
+    "Labdanum",
+    "Bois de cèdre",
+    "Ambroxan"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "coach-pure-platinum-parfum"
+ },
+ {
+  "slug": "guess-by-marciano",
+  "brand": "Guess",
+  "name": "By Marciano",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Curaçao",
+    "Cardamome",
+    "Carambole",
+    "Pamplemousse"
+   ],
+   "heart": [
+    "Chèvrefeuille",
+    "Jasmin",
+    "Pivoine"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Bois"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "guess-by-marciano-edp"
+ },
+ {
+  "slug": "guess-gold",
+  "brand": "Guess",
+  "name": "Gold",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "75ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Ananas",
+    "Pomme",
+    "Citron"
+   ],
+   "heart": [
+    "Jasmin",
+    "Jacinthe",
+    "Rose",
+    "Nénuphar"
+   ],
+   "base": [
+    "Ambre",
+    "Vétiver",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "guess-gold-edp"
+ },
+ {
+  "slug": "guess-seductive-i-m-yours",
+  "brand": "Guess",
+  "name": "Seductive I'm Yours",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "75ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Fruit de la passion",
+    "Pivoine"
+   ],
+   "heart": [
+    "Magnolia",
+    "Orchidée",
+    "Tiaré",
+    "Lys"
+   ],
+   "base": [
+    "Patchouli",
+    "Vanille",
+    "Musc",
+    "Notes boisées",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "guess-seductive-i-m-yours-eau"
+ },
+ {
+  "slug": "kayali-oudgasm-smoky-oud-07",
+  "brand": "Kayali",
+  "name": "Oudgasm Smoky Oud 07",
+  "gender": "unisexe",
+  "concentration": "EDP Intense",
+  "volume": "50ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Rhum",
+    "Safran"
+   ],
+   "heart": [
+    "Géranium",
+    "Labdanum",
+    "Jasmin"
+   ],
+   "base": [
+    "Oud",
+    "Patchouli",
+    "Bois de gaïac",
+    "Cèdre",
+    "Musc blanc",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "kayali-2024-oudgasm-smoky-oud-07"
+ },
+ {
+  "slug": "kayali-citrus-08",
+  "brand": "Kayali",
+  "name": "Citrus 08",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Hespéridé Aromatique",
+  "notes": {
+   "top": [
+    "Pamplemousse rose",
+    "Bergamote",
+    "Rhubarbe",
+    "Cassis",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Rose bulgare",
+    "Rose de Damas"
+   ],
+   "base": [
+    "Musc",
+    "Mousse de chêne",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "kayali-citrus-08-eau-de-parfum"
+ },
+ {
+  "slug": "kayali-invite-only-amber-23",
+  "brand": "Kayali",
+  "name": "Invite Only Amber 23",
+  "gender": "unisexe",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Feuille de tabac",
+    "Cerise acide",
+    "Miel",
+    "Chocolat",
+    "Noisette"
+   ],
+   "heart": [
+    "Cannelle de Ceylan",
+    "Rose de mai",
+    "Rose de Damas",
+    "Feuille d'agrumes"
+   ],
+   "base": [
+    "Ambre",
+    "Oud",
+    "Vanille",
+    "Benjoin",
+    "Bois de santal",
+    "Patchouli",
+    "Musc",
+    "Cypriol"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "kayali-fragrances-invite-only-amber-23"
+ },
+ {
+  "slug": "kayali-fleur-majesty-rose-royale-31",
+  "brand": "Kayali",
+  "name": "Fleur Majesty Rose Royale 31",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Poire",
+    "Pêche",
+    "Mandarine",
+    "Orange"
+   ],
+   "heart": [
+    "Rose",
+    "Pivoine",
+    "Violette",
+    "Magnolia"
+   ],
+   "base": [
+    "Musc",
+    "Vanille",
+    "Ambrox Super",
+    "Praliné",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "kayali-fragrances2025-fleur-majesty-rose-royale"
+ },
+ {
+  "slug": "kayali-sweet-diamond-pink-pepper-25",
+  "brand": "Kayali",
+  "name": "Sweet Diamond Pink Pepper 25",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Oriental",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Safran",
+    "Bergamote",
+    "Lys royal"
+   ],
+   "heart": [
+    "Rose bulgare",
+    "Rose de mai",
+    "Orchidée vanille",
+    "Magnolia"
+   ],
+   "base": [
+    "Ambre",
+    "Bois de santal",
+    "Patchouli",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "kayali-sweet-diamond-pink-pepper-25"
+ },
+ {
+  "slug": "kayali-yum-pistachio-gelato-33",
+  "brand": "Kayali",
+  "name": "Yum Pistachio Gelato 33",
+  "gender": "unisexe",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "family": "Floral Fruité Gourmand",
+  "notes": {
+   "top": [
+    "Pistache",
+    "Bergamote",
+    "Noisette",
+    "Rhum",
+    "Cardamome"
+   ],
+   "heart": [
+    "Pivoine",
+    "Muguet",
+    "Géranium",
+    "Poire"
+   ],
+   "base": [
+    "Crème fouettée",
+    "Guimauve",
+    "Barbe à papa",
+    "Fève tonka",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "kayali-yum-pistachio-gelato-33"
+ },
+ {
+  "slug": "kilian-intoxicated",
+  "brand": "By Kilian",
+  "name": "Intoxicated",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Cardamome",
+    "Café",
+    "Bergamote",
+    "Aldéhydes"
+   ],
+   "heart": [],
+   "base": [
+    "Caramel",
+    "Moka",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "kilian-intoxicated-eau-de-parfum"
+ },
+ {
+  "slug": "kilian-liaisons-dangereuses",
+  "brand": "By Kilian",
+  "name": "Liaisons Dangereuses",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Chypré Fruité",
+  "notes": {
+   "top": [
+    "Pêche",
+    "Prune",
+    "Cassis",
+    "Noix de coco"
+   ],
+   "heart": [
+    "Rose",
+    "Géranium",
+    "Ambrette",
+    "Cannelle"
+   ],
+   "base": [
+    "Musc",
+    "Bois de santal",
+    "Mousse de chêne",
+    "Vanille",
+    "Vétiver",
+    "Ambre",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "kilian-liaisons-dangereuses-eau-de-parfum"
+ },
+ {
+  "slug": "kilian-black-phantom",
+  "brand": "By Kilian",
+  "name": "Black Phantom",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [
+    "Rhum"
+   ],
+   "heart": [
+    "Chocolat noir",
+    "Café",
+    "Amande",
+    "Héliotrope"
+   ],
+   "base": [
+    "Caramel",
+    "Canne à sucre",
+    "Bois de santal",
+    "Vanille",
+    "Fève tonka",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "kilian-prive-black-phantom-by-eau"
+ },
+ {
+  "slug": "kilian-rose-oud",
+  "brand": "By Kilian",
+  "name": "Rose Oud",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Rose bulgare",
+    "Safran",
+    "Cannelle"
+   ],
+   "heart": [
+    "Teinture de rose",
+    "Litchi"
+   ],
+   "base": [
+    "Oud",
+    "Bois de gaïac",
+    "Cypriol",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "kilian-rose-oud-eau-de-parfum"
+ },
+ {
+  "slug": "moschino-fresh-couture",
+  "brand": "Moschino",
+  "name": "Fresh Couture",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Floral",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Mandarine",
+    "Ylang-ylang"
+   ],
+   "heart": [
+    "Pivoine",
+    "Framboise",
+    "Osmanthus"
+   ],
+   "base": [
+    "Patchouli",
+    "Ambroxan",
+    "Notes boisées"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "moschino-fresh-edt"
+ },
+ {
+  "slug": "st-dupont-golden-wood",
+  "brand": "S.T. Dupont",
+  "name": "Golden Wood",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Oriental",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Bergamote"
+   ],
+   "heart": [
+    "Santal",
+    "Patchouli"
+   ],
+   "base": [
+    "Notes boisées",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "s-t-dupont-golden-wood"
+ },
+ {
+  "slug": "ted-lapidus-pour-homme-black-extreme",
+  "brand": "Ted Lapidus",
+  "name": "Pour Homme Black Extreme",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "30ml",
+  "family": "Fougère Orientale",
+  "notes": {
+   "top": [
+    "Agrumes",
+    "Poivre noir",
+    "Feuilles de violette"
+   ],
+   "heart": [
+    "Safran",
+    "Fleur d'oranger"
+   ],
+   "base": [
+    "Labdanum",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "ted-lapidus-pour-homme-black-extreme"
+ },
+ {
+  "slug": "ted-lapidus-pour-homme-gold-extreme",
+  "brand": "Ted Lapidus",
+  "name": "Pour Homme Gold Extreme",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Oriental Épicé",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Pamplemousse rose",
+    "Cardamome"
+   ],
+   "heart": [
+    "Cannelle",
+    "Clou de girofle",
+    "Orange",
+    "Noix de muscade"
+   ],
+   "base": [
+    "Vanille",
+    "Ambre",
+    "Cuir",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "ted-lapidus-pour-homme-gold-extreme"
+ },
+ {
+  "slug": "ted-lapidus-rumba-passion",
+  "brand": "Ted Lapidus",
+  "name": "Rumba Passion",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Fleur d'oranger"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmin"
+   ],
+   "base": [
+    "Miel",
+    "Patchouli",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "ted-lapidus-rumba-passion-edt"
+ },
+ {
+  "slug": "tiziana-terenzi-burdel",
+  "brand": "Tiziana Terenzi",
+  "name": "Burdel",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Boise",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Cardamome",
+    "Labdanum",
+    "Cumin"
+   ],
+   "heart": [
+    "Cypriol",
+    "Baume de gurjun",
+    "Bois de gaiac",
+    "Muguet"
+   ],
+   "base": [
+    "Oud",
+    "Bois de santal",
+    "Vanille",
+    "Musc",
+    "Ambre gris"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-burdel"
+ },
+ {
+  "slug": "tiziana-terenzi-cassiopea",
+  "brand": "Tiziana Terenzi",
+  "name": "Cassiopea",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Fruite Gourmand",
+  "notes": {
+   "top": [
+    "Fruit de la passion",
+    "Cassis",
+    "Citron",
+    "Fougere"
+   ],
+   "heart": [
+    "Rose de the",
+    "Muguet",
+    "Oeillet"
+   ],
+   "base": [
+    "Feve tonka",
+    "Musc",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-cassiopea"
+ },
+ {
+  "slug": "tiziana-terenzi-deriva",
+  "brand": "Tiziana Terenzi",
+  "name": "Deriva",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Aromatique Fruite",
+  "notes": {
+   "top": [
+    "Lavande",
+    "Ananas",
+    "Bergamote",
+    "Cardamome"
+   ],
+   "heart": [
+    "Geranium",
+    "Poivre rose",
+    "Framboise",
+    "Gardenia"
+   ],
+   "base": [
+    "Tabac",
+    "Vanille",
+    "Feve tonka",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-deriva"
+ },
+ {
+  "slug": "tiziana-terenzi-draconis",
+  "brand": "Tiziana Terenzi",
+  "name": "Draconis",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boise Epice",
+  "notes": {
+   "top": [
+    "Citron",
+    "Pamplemousse",
+    "Bergamote"
+   ],
+   "heart": [
+    "Poivre",
+    "Geranium"
+   ],
+   "base": [
+    "Vetiver",
+    "Patchouli",
+    "Oliban",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-draconis"
+ },
+ {
+  "slug": "tiziana-terenzi-gemini",
+  "brand": "Tiziana Terenzi",
+  "name": "Gemini",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Ambre Epice",
+  "notes": {
+   "top": [
+    "Safran",
+    "Lavande",
+    "Sauge sclaree",
+    "Rose de Bulgarie"
+   ],
+   "heart": [
+    "Encens",
+    "Noix de muscade",
+    "Cypriol",
+    "Jasmin sambac"
+   ],
+   "base": [
+    "Patchouli",
+    "Mousse de chene",
+    "Vetiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "tiziana-terenzi-gemini"
+ },
+ {
+  "slug": "tiziana-terenzi-gumin",
+  "brand": "Tiziana Terenzi",
+  "name": "Gumin",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boise Ambre",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Orange",
+    "Ananas",
+    "Bergamote"
+   ],
+   "heart": [
+    "Accord ozonique",
+    "Ambre",
+    "Violette",
+    "Jasmin",
+    "Rose"
+   ],
+   "base": [
+    "Musc",
+    "Bois de santal",
+    "Bouleau",
+    "Oud"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-gumin-2022"
+ },
+ {
+  "slug": "tiziana-terenzi-hyakutake",
+  "brand": "Tiziana Terenzi",
+  "name": "Hyakutake",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Boise Aromatique",
+  "notes": {
+   "top": [
+    "Eucalyptus",
+    "Bergamote de Calabre",
+    "Cardamome",
+    "Citron"
+   ],
+   "heart": [
+    "Iris",
+    "Ambre gris",
+    "Encens",
+    "Pensee"
+   ],
+   "base": [
+    "Bois de santal d'Australie",
+    "Vetiver d'Haiti",
+    "Meleze",
+    "Tabac",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-hyakutake"
+ },
+ {
+  "slug": "tiziana-terenzi-mirach",
+  "brand": "Tiziana Terenzi",
+  "name": "Mirach",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Oriental Boise",
+  "notes": {
+   "top": [
+    "Rose",
+    "Rose de Damas",
+    "Safran",
+    "Noix de muscade",
+    "Neroli"
+   ],
+   "heart": [],
+   "base": [
+    "Oud",
+    "Benjoin",
+    "Vanille",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "tiziana-terenzi-mirach"
+ },
+ {
+  "slug": "tiziana-terenzi-moro-di-venezia",
+  "brand": "Tiziana Terenzi",
+  "name": "Moro Di Venezia",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Fruite Boise",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Ananas",
+    "Bergamote",
+    "Cassis"
+   ],
+   "heart": [
+    "Violette",
+    "Jasmin",
+    "Muguet",
+    "Ambre"
+   ],
+   "base": [
+    "Mousse de chene",
+    "Musc",
+    "Bois de hinoki",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-moro-di-venezia"
+ },
+ {
+  "slug": "tiziana-terenzi-pisces",
+  "brand": "Tiziana Terenzi",
+  "name": "Pisces",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Cuir Ambre",
+  "notes": {
+   "top": [
+    "Safran",
+    "Citron",
+    "Rose de Bulgarie",
+    "Davana"
+   ],
+   "heart": [
+    "Cuir",
+    "Coumarine",
+    "Lavande",
+    "Patchouli",
+    "Cypriol"
+   ],
+   "base": [
+    "Musc",
+    "Vanille",
+    "Bois de santal",
+    "Thym"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-pisces"
+ },
+ {
+  "slug": "tiziana-terenzi-rosso-pompei",
+  "brand": "Tiziana Terenzi",
+  "name": "Rosso Pompei",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Citron d'Amalfi",
+    "Raisin"
+   ],
+   "heart": [
+    "Ambre gris",
+    "Magnolia",
+    "Jasmin",
+    "Tubereuse",
+    "Muguet"
+   ],
+   "base": [
+    "Notes boisees",
+    "Cedre",
+    "Patchouli",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-rosso-pompei"
+ },
+ {
+  "slug": "tiziana-terenzi-saiph",
+  "brand": "Tiziana Terenzi",
+  "name": "Saiph",
+  "gender": "unisexe",
+  "concentration": "Extrait de Parfum",
+  "volume": "100ml",
+  "family": "Agrumes Aromatique",
+  "notes": {
+   "top": [
+    "Notes ozoniques",
+    "Citron",
+    "Bergamote",
+    "Rose"
+   ],
+   "heart": [
+    "Notes florales",
+    "Fruit de la passion",
+    "Notes vertes",
+    "Iris",
+    "Cedre"
+   ],
+   "base": [
+    "Vanille",
+    "Musc",
+    "Ambre",
+    "Patchouli",
+    "Vetiver"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-saiph"
+ },
+ {
+  "slug": "tiziana-terenzi-talitha",
+  "brand": "Tiziana Terenzi",
+  "name": "Talitha",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Cuir Boise",
+  "notes": {
+   "top": [
+    "Citron",
+    "Pamplemousse",
+    "Bergamote"
+   ],
+   "heart": [
+    "Cuir",
+    "Ylang-ylang",
+    "Rose"
+   ],
+   "base": [
+    "Vetiver",
+    "Cedre",
+    "Bois de gaiac",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-talitha"
+ },
+ {
+  "slug": "tiziana-terenzi-wirtaner",
+  "brand": "Tiziana Terenzi",
+  "name": "Wirtaner",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boise Floral Musque",
+  "notes": {
+   "top": [
+    "Rose",
+    "Ylang-ylang",
+    "Bergamote"
+   ],
+   "heart": [
+    "Oud",
+    "Pivoine",
+    "Poivre",
+    "Jasmin"
+   ],
+   "base": [
+    "Vanille",
+    "Caramel",
+    "Bois de santal",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "tiziana-terenzi-wirtanen"
+ },
+ {
+  "slug": "zadig-voltaire",
+  "brand": "Zadig & Voltaire",
+  "name": "Zadig",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Sésame",
+    "Gingembre",
+    "Poivre noir",
+    "Poivre blanc"
+   ],
+   "heart": [
+    "Néroli",
+    "Fleur d'oranger"
+   ],
+   "base": [
+    "Crème chantilly",
+    "Vanille",
+    "Santal"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "zadig-voltaire-eau-de-parfum"
+ },
+ {
+  "slug": "zadig-voltaire-this-is-really-her",
+  "brand": "Zadig & Voltaire",
+  "name": "This Is Really Her!",
+  "gender": "femme",
+  "concentration": "EDP Intense",
+  "volume": "100ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Basilic"
+   ],
+   "heart": [
+    "Rose",
+    "Châtaigne"
+   ],
+   "base": [
+    "Miel",
+    "Patchouli",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "zadig-voltaire-this-is-really-her"
+ },
+ {
+  "slug": "zara-royal-freesia",
+  "brand": "Zara",
+  "name": "Royal Freesia",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Boise",
+  "notes": {
+   "top": [
+    "Jasmin sambac",
+    "Orchidee"
+   ],
+   "heart": [
+    "Poivre rose",
+    "Iris"
+   ],
+   "base": [
+    "Cedre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "zara-2023-royal-freesia-eau-de"
+ },
+ {
+  "slug": "zara-deep-temptation",
+  "brand": "Zara",
+  "name": "Deep Temptation",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Oriental Floral",
+  "notes": {
+   "top": [
+    "Coriandre",
+    "Orange sanguine"
+   ],
+   "heart": [
+    "Safran",
+    "Jasmin"
+   ],
+   "base": [
+    "Notes boisees sombres",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "zara-deep-temptation-edp"
+ },
+ {
+  "slug": "zara-moonlight-whisper",
+  "brand": "Zara",
+  "name": "Moonlight Whisper",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Floral Gourmand",
+  "notes": {
+   "top": [
+    "Pistache",
+    "Caramel",
+    "Cardamome",
+    "Bergamote"
+   ],
+   "heart": [
+    "Sucre",
+    "Violette",
+    "Bellini",
+    "Pivoine"
+   ],
+   "base": [
+    "Vanille",
+    "Ambre",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "zara-moonlight-whisper-eau-de-parfum"
+ },
+ {
+  "slug": "zara-plage-privee",
+  "brand": "Zara",
+  "name": "Plage Privee",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Floral Fruite",
+  "notes": {
+   "top": [
+    "Frangipanier",
+    "Notes solaires",
+    "Banane"
+   ],
+   "heart": [
+    "Notes marines",
+    "Sel"
+   ],
+   "base": [
+    "Musc",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "slugCandidat": "zara-plage-privee-eau-de-parfum"
+ },
+ {
+  "slug": "zara-red-temptation-elixir-parfum",
+  "brand": "Zara",
+  "name": "Red Temptation Elixir Parfum",
+  "gender": "unisexe",
+  "concentration": "Parfum",
+  "volume": "80ml",
+  "family": "Ambre Floral",
+  "notes": {
+   "top": [
+    "Safran",
+    "Orange amere",
+    "Coriandre"
+   ],
+   "heart": [
+    "Praline",
+    "Jasmin"
+   ],
+   "base": [
+    "Notes boisees",
+    "Ambre",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "zara-red-temptation-elixir-parfum"
+ },
+ {
+  "slug": "zara-red-temptation-for-her",
+  "brand": "Zara",
+  "name": "Red Temptation For Her",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Safran",
+    "Orange amère",
+    "Coriandre"
+   ],
+   "heart": [
+    "Praliné",
+    "Jasmin"
+   ],
+   "base": [
+    "Ambre",
+    "Mousse de chêne",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "zara-red-temptation-for-her-edt"
+ },
+ {
+  "slug": "zara-red-temptation-summer",
+  "brand": "Zara",
+  "name": "Red Temptation Summer",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Floral Fruite",
+  "notes": {
+   "top": [
+    "Litchi",
+    "Framboise"
+   ],
+   "heart": [
+    "Petales de rose",
+    "Pivoine"
+   ],
+   "base": [
+    "Praline",
+    "Musc",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "slugCandidat": "zara-red-temptation-summer-edp"
+ },
+ {
+  "slug": "zara-shamanilla",
+  "brand": "Zara",
+  "name": "(Shamanilla)",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Gourmand Vanille",
+  "notes": {
+   "top": [
+    "Eau de coco",
+    "Cardamome",
+    "Bergamote"
+   ],
+   "heart": [
+    "Bois de santal",
+    "Carotte",
+    "Fleur de pecher"
+   ],
+   "base": [
+    "Vanille",
+    "Barbe a papa",
+    "Amyris"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "zara-shamanilla-edp-pour-homme"
+ },
+ {
+  "slug": "zara-sublime-epoque",
+  "brand": "Zara",
+  "name": "Sublime Epoque",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "80ml",
+  "family": "Floral Blanc",
+  "notes": {
+   "top": [
+    "Bergamote"
+   ],
+   "heart": [
+    "Tubereuse",
+    "Fleur d'oranger",
+    "Jasmin"
+   ],
+   "base": [
+    "Vanille",
+    "Cedre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ],
+  "slugCandidat": "zara-sublime-epoque-edp"
+ }
+]

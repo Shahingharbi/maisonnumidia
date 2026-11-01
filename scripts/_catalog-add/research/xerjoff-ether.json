@@ -1,0 +1,43 @@
+{
+  "slug": "xerjoff-ether",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Ether-80263.html",
+    "id": 80263,
+    "nomOfficiel": "Ether",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "unisexe",
+    "annee": 2023
+  },
+  "notes": {
+    "top": [
+      "Rose de Bulgarie",
+      "Orange du Bresil",
+      "Bergamote de Calabre",
+      "Mandarine",
+      "Citron d Amalfi",
+      "Cumin"
+    ],
+    "heart": [
+      "Benjoin",
+      "Baume de gurjan",
+      "Sauge sclaree",
+      "Cypriol",
+      "Lavande",
+      "Pin de Siberie"
+    ],
+    "base": [
+      "Oud",
+      "Caramel",
+      "Vanille de Madagascar",
+      "Musc",
+      "Bois de santal"
+    ]
+  },
+  "famille": "Ambre Oriental",
+  "concentrationConfirmee": "Parfum",
+  "volumeExiste": true,
+  "remarque": "Collection K Blue (Kemi Blue). Volume officiel 50ml Parfum, correspond au candidat.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "xerjoff-damarose",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Damarose-Perfume-Extract-52159.html",
+    "id": 52159,
+    "nomOfficiel": "Damarose Perfume Extract",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "femme",
+    "annee": 2010
+  },
+  "notes": {
+    "top": [
+      "Baies rouges",
+      "Freesia",
+      "Citron vert",
+      "Bergamote"
+    ],
+    "heart": [
+      "Rose de Turquie",
+      "Ylang-ylang",
+      "Jasmin",
+      "Iris",
+      "Muguet"
+    ],
+    "base": [
+      "Musc",
+      "Ambre",
+      "Vanille",
+      "Bois de santal",
+      "Vetiver",
+      "Bois de rose egyptien",
+      "Patchouli"
+    ]
+  },
+  "famille": "Chypre Floral",
+  "concentrationConfirmee": "Extrait de Parfum",
+  "volumeExiste": true,
+  "remarque": "Fragrantica liste deux fiches proches : Damarose (ID 11702, 2010, 100ml EDP) et Damarose Perfume Extract (ID 52159, meme pyramide olfactive, format Extrait 50ml). Le volume du candidat (50ml) correspond a la version Extrait, retenue ici comme reference.",
+  "confiance": "moyenne",
+  "verifieLe": "2026-09-26"
+}

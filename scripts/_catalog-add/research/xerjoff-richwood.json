@@ -1,0 +1,37 @@
+{
+  "slug": "xerjoff-richwood",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Xerjoff/Richwood-11703.html",
+    "id": 11703,
+    "nomOfficiel": "Richwood",
+    "marqueOfficielle": "Xerjoff",
+    "genre": "unisexe",
+    "annee": 2010
+  },
+  "notes": {
+    "top": [
+      "Mandarine",
+      "Pamplemousse",
+      "Bergamote"
+    ],
+    "heart": [
+      "Rose de Damas",
+      "Cassis"
+    ],
+    "base": [
+      "Patchouli",
+      "Bois de santal",
+      "Vanille",
+      "Labdanum",
+      "Ambre",
+      "Musc"
+    ]
+  },
+  "famille": "Boise Chypre",
+  "concentrationConfirmee": "EDP",
+  "volumeExiste": true,
+  "remarque": "Volume officiel 100ml EDP (collection XJ 17/17), correspond au candidat.",
+  "confiance": "haute",
+  "verifieLe": "2026-09-26"
+}

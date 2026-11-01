@@ -1,77 +1,56 @@
-# Où reprendre — vague 2 (arrêt du 26/09/2026)
+# Où reprendre — vague 2 (arrêt du 31/10/2026, PC éteint en cours de route)
 
-## État
+Rien n'est perdu : tout ce qui est fait est sur le disque (`research/`, `texts/`, images). Les
+agents **sautent ce qui existe déjà**, on peut relancer n'importe quelle plage sans rien refaire.
 
-Catalogue : **1 457 produits**, 150 marques, audit règle n°6 à **0 erreur**, tout poussé sur `main`.
+## État au moment de l'arrêt
 
-La vague 2 traite les parfums vus chez **1 ou 2 boutiques algériennes**, après un tri qualité qui
-a écarté 353 entrées sur 2 809 (maquillage, soins, accessoires, formats voyage, prix sous le
-plancher de 6 500 DA, parfums attribués à la mauvaise maison).
+- **Catalogue en ligne : 1 729 produits** (rien du nouveau lot n'est encore publié).
+- **`fiches.json` : ~600 fiches montées avec texte**, images téléchargées (2 échecs d'image :
+  kayali-fleur-majesty-rose-royale-31, penhaligons-endymion, apply-fiches les laisse de côté).
+  - 536 textes relus par la relecture indépendante (74 corrections appliquées), plus 64
+    relus en relecture 3 (4 corrections).
+  - 64 textes écrits juste avant l'arrêt (workflow w75f3gufv) : **pas encore relus**.
+- **Recherche Fragrantica** : liste figée `a-rechercher-restant.json` (1 215 parfums), lots de
+  165 par tour (le budget est de **200 WebSearch par tour**, partagé entre tous les agents).
+  Lots 1 à 3 finis (index 0-494). Lot 4 (495-659) coupé par l'extinction. **577 restent.**
+- **Modifs non commitées** : `data/products.json` (barre « | » retirée de 2 noms Kayali),
+  scripts `build-fiches.mjs`, `check-fiches.mjs`, `notes-relues.json`, `reclasser-orientaux.mjs`.
 
-| | |
-|---|---|
-| candidats retenus | 2 456, dans `candidates-vague2.json` |
-| recherchés | ~353 |
-| restants à rechercher | ~2 100 |
+## Reprendre dans cet ordre
 
-## La contrainte qui a arrêté la session
+1. Relancer la recherche, un lot par tour :
+   Workflow `recherche-vague2-suite.js` avec `{"from":495,"total":660,"per":15,"concurrency":11}`,
+   puis 660-825, 825-990, 990-1155, 1155-1215.
+2. `node scripts/_catalog-add/build-fiches.mjs` (jamais pendant qu'une rédaction lit `textes-todo.json`).
+3. Rédaction des fiches sans texte (workflow `redaction-fiches-nouvelles`, `{"total":N,"per":5..7}`).
+4. Relecture des textes pas encore relus. Lister les slugs absents de `relecture-fige*.json`,
+   écrire `relecture-fige-4.json`, puis lancer le workflow `relecture-fiches-lot-3.js` en
+   remplaçant le nom du fichier.
+5. `check-fiches.mjs`. Les fausses alertes « note hors fiche » se relisent une par une ; celles
+   qui sont justes vont dans `notes-relues.json`, pour cette fiche seulement.
+6. `fetch-images.mjs --apply`, puis `apply-fiches.mjs` (simulation, puis `--apply`), puis `fix-related.mjs --apply`.
+7. **Reclassement orientaux** (`scripts/_catalog-audit/reclasser-orientaux.mjs`) : 15 fiches
+   publiées classées orientales à tort (règle « ambre gris »). **Attend l'accord de Shahin.**
+   À lancer APRÈS apply-fiches, pour que la liste des pages `/parfums-orientaux/<marque>`
+   qui disparaissent tienne compte du nouveau lot. Ajouter les 301 listées dans
+   `reclasser-orientaux-redirections.json`.
+8. Audit règle n°6, `npx tsc --noEmit`, `npx next build`, `CATALOG_DATE` dans `app/sitemap.ts`,
+   commit, push, `verif-production.mjs`, `indexnow-submit.mjs`. Google : le cron quotidien
+   prend les nouvelles pages en premier (`firstSeen`).
 
-**Le quota WebSearch a été épuisé (200/200).** Les agents ont basculé sur des recherches via le
-navigateur, ce qui fonctionne mais donne des extraits Google qui tronquent les URLs : 18 parfums
-sont revenus sans ID Fragrantica lisible, donc sans image possible, et ont été écartés.
+## Ce qui a été corrigé le 31/10 dans la chaîne (à ne pas défaire)
 
-Attendre la réinitialisation du quota avant de relancer une vague de recherche. Sans WebSearch,
-le rendement chute et la qualité des ID avec.
-
-## Comment reprendre
-
-Les agents **sautent les parfums déjà traités** (un fichier dans `research/`, `texts/`). On peut
-donc relancer sur n'importe quelle plage sans rien perdre ni refaire.
-
-```
-1. Workflow recherche-vague2   → args {from: 0, total: 542}
-   Les index ne sont PAS alignés sur ce qui a déjà été cherché : la file a été réordonnée par
-   maison en cours de route. Les agents sautant l'existant, relancer sur toute la plage comble
-   les trous sans gaspillage.
-
-2. node scripts/_catalog-add/build-fiches.mjs
-3. Workflow redaction-fiches-nouvelles → args {total: <longueur de textes-todo.json>}
-4. node scripts/_catalog-add/fetch-images.mjs --apply
-5. node scripts/_catalog-add/check-fiches.mjs
-6. node scripts/_catalog-add/apply-fiches.mjs --apply
-7. node scripts/_catalog-add/fix-related.mjs --apply
-8. npx tsc --noEmit && npx next build && commit && push
-```
-
-**Ne jamais relancer `build-fiches.mjs` pendant qu'un workflow de rédaction tourne** — voir le
-README du dossier, ça a déjà coûté trois agents.
-
-## Plan de marche
-
-`plan-marques.json` donne, pour chacune des 240 maisons, ses index de début et de fin dans la
-file. La file est ordonnée maison par maison, les 121 déjà au catalogue en tête. Chaque arrêt sur
-une frontière de maison laisse un état lisible.
-
-Découpage conseillé : lots d'environ 120 parfums alignés sur les maisons.
-Lot 1 Armani + Guerlain (0-105) · Lot 2 YSL, Givenchy, Paco Rabanne (106-211) ·
-Lot 3 Dior, Hugo Boss, Lancôme (212-313) · Lot 4 D&G, Chanel, JPG, Gucci (314-421) ·
-Lot 5 Azzaro, Hermès, Carolina Herrera, Bvlgari (422-541) · puis 18 lots jusqu'à 2 456.
-
-## Ce qui reste en attente, hors vague 2
-
-- **~143 fiches déjà recherchées** attendent leur texte ou ont été recalées au contrôle.
-  `check-fiches.json` dit pourquoi, fiche par fiche.
-- **8 fiches** citent une note absente de leur pyramide (citron chez Acqua di Parma Yuzu, lavande,
-  labdanum, orchidée de vanille) : à reprendre avec le workflow `reprise-textes-recales`, qui met
-  l'erreur exacte dans la consigne.
-- **30 pyramides** sans découpage tête/cœur/fond publié — Louis Vuitton et Tom Ford n'en publient
-  pas. Elles s'affichent en « Notes olfactives », ce qui est la situation réelle.
-
-## Décisions qui attendent Shahin
-
-- La palette du header et du footer (`#53545C`, `#AC9270`) ne correspond pas à la charte écrite
-  dans CLAUDE.md. Soit on réaligne le code, soit on met la charte à jour — mais les deux ne
-  doivent pas diverger en silence.
-- Le blog : quelques fourchettes de prix hors produits encore datées, 5 articles sous 1 000 mots,
-  et deux articles qui visent le même mot-clé (`meilleur-parfum-femme` et
-  `meilleur-parfum-femme-2026`). Shahin a demandé de laisser le blog de côté le 21/09.
+- `build-fiches.mjs` :
+  - **Marque dans le nom officiel :** quand elle y est soudée (« Eau de Rochas », « My Burberry », « Cartier de Lune »), elle reste dans le nom.
+  - **H1 :** les parenthèses de Fragrantica en sont retirées.
+  - **Slugs :** ils ne finissent plus sur un mot outil.
+  - **« Ambre gris » :** ce n'est plus un marqueur oriental.
+  - **Alias de marques :** Lattafa Perfumes, Viktor & Rolf, Kayali Fragrances, By Kilian, Frédéric Malle.
+  - **Asdaaf :** rangé sous Lattafa (`SOUS_MARQUES`).
+  - **Barre « | » :** retirée des noms.
+  - **Option `--simulation` :** n'écrit rien.
+- `check-fiches.mjs` :
+  - **Homonymes ignorés :** « pensée » et « glace ».
+  - **Mentions validées fiche par fiche :** `notes-relues.json`.
+- **Textes :** « 58 wilayas » remplacé par 69 dans les 1 200 fichiers de `texts/`, et la consigne de rédaction est corrigée.

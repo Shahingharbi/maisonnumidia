@@ -1,0 +1,12 @@
+{
+ "slug": "lacoste-roland-garros-eau-de-parfum",
+ "existe": true,
+ "fragrantica": {"url": "https://www.fragrantica.com/perfume/Lacoste-Fragrances/L-12-12-Eau-de-Parfum-Blanc-Edition-Limitee-Roland-Garros-67722.html", "id": 67722, "nomOfficiel": "L.12.12 Eau de Parfum Blanc Edition Limitée Roland Garros", "marqueOfficielle": "Lacoste", "genre": "femme", "annee": 2021},
+ "notes": {"top": ["Anis étoilé", "Citron caviar", "Pamplemousse"], "heart": ["Persil", "Eucalyptus", "Sauge sclarée"], "base": ["Argile", "Sauge", "Cèdre", "Vétiver"]},
+ "famille": "Aromatique Fougère",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Probable doublon de lacoste-l-12-blanc-eau-de (même parfum, libellé boutique simplifié sans le mot \"Blanc\") — à fusionner/dédupliquer avant intégration au catalogue.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

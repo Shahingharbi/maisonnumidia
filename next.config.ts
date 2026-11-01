@@ -106,6 +106,11 @@ const nextConfig: NextConfig = {
       { source: "/parfums/versace-eros-flame", destination: "/parfums/eros-flame-versace", permanent: true },
       { source: "/parfums/versace-yellow-diamond", destination: "/parfums/yellow-diamond-versace", permanent: true },
       { source: "/parfums/ysl-black-opium", destination: "/parfums/black-opium-ysl", permanent: true },
+      // Reclassement du 01/11/2026 (scripts/_catalog-audit/reclasser-orientaux.mjs) : 15 parfums
+      // frais rangés chez les orientaux à cause de l'ambre gris sont revenus en homme/femme.
+      // Ces deux pages marque n'avaient plus de produit oriental (0 impression en 16 mois).
+      { source: "/parfums-orientaux/issey-miyake", destination: "/parfums-homme/issey-miyake", permanent: true },
+      { source: "/parfums-orientaux/karl-lagerfeld", destination: "/parfums-homme/karl-lagerfeld", permanent: true },
     ];
   },
 };

@@ -1,0 +1,12 @@
+{
+ "slug": "xerjoff-luna",
+ "existe": true,
+ "fragrantica": {"url": "https://www.fragrantica.com/perfume/Xerjoff/Luna-80273.html", "id": 80273, "nomOfficiel": "Luna", "marqueOfficielle": "Xerjoff (Collection Kemi)", "genre": "unisexe", "annee": 2023},
+ "notes": {"top": ["Patchouli de Singapour", "Citron", "Bergamote de Calabre", "Mandarine"], "heart": ["Iris", "Cèdre de l'Atlas", "Rose de Bulgarie", "Jasmin Sambac", "Violette"], "base": ["Caramel", "Musc", "Ambre"]},
+ "famille": "Floral Boisé",
+ "concentrationConfirmee": "Extrait de Parfum",
+ "volumeExiste": true,
+ "remarque": "Concentration déduite de l'URL xerjoff.com \"luna-parfum\" (convention \"-parfum\" = Extrait chez Xerjoff, cohérente avec Cruz del Sur I confirmé en Extrait).",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "tom-ford-fleur-de-chine-eau",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Tom-Ford/Fleur-de-Chine-18491.html",
+  "id": 18491,
+  "nomOfficiel": "Fleur de Chine",
+  "marqueOfficielle": "Tom Ford",
+  "genre": "unisexe",
+  "annee": 2013
+ },
+ "notes": {
+  "top": [
+   "Bergamote",
+   "Clémentine",
+   "Pivoine"
+  ],
+  "heart": [
+   "Magnolia",
+   "Pêche blanche",
+   "Jacinthe",
+   "Glycine",
+   "Prune",
+   "Jasmin",
+   "Rose de thé"
+  ],
+  "base": [
+   "Ambre",
+   "Thé",
+   "Vétiver",
+   "Bois Hinoki",
+   "Styrax",
+   "Benjoin",
+   "Cèdre"
+  ]
+ },
+ "famille": "Floral Oriental",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Repartition top/coeur/fond reconstituee a partir de la liste de notes globale du resume (pas de pyramide detaillee fournie).",
+ "confiance": "moyenne",
+ "verifieLe": "2026-09-26"
+}

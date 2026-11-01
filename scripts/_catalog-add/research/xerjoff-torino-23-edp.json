@@ -1,0 +1,12 @@
+{
+ "slug": "xerjoff-torino-23-edp",
+ "existe": true,
+ "fragrantica": {"url": "https://www.fragrantica.com/perfume/Xerjoff/Torino23-87970.html", "id": 87970, "nomOfficiel": "Torino23", "marqueOfficielle": "Xerjoff (Nitto ATP Finals)", "genre": "unisexe", "annee": 2023},
+ "notes": {"top": ["Bergamote", "Néroli", "Cardamome", "Noix de muscade"], "heart": ["Rose", "Jasmin", "Tubéreuse", "Ylang-ylang"], "base": ["Patchouli", "Bois de cachemire", "Bois de cèdre", "Ambre", "Musc"]},
+ "famille": "Floral Épicé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Répartition top/heart/base reconstituée à partir d'une liste de notes non hiérarchisée sur Fragrantica.",
+ "confiance": "haute",
+ "verifieLe": "2026-09-26"
+}
