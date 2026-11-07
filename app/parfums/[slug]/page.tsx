@@ -26,6 +26,7 @@ import Breadcrumb from "@/components/layout/Breadcrumb";
 import ProductCard from "@/components/product/ProductCard";
 import { Phone, Truck, Shield, ChevronRight } from "lucide-react";
 import AddToCartButton from "@/components/product/AddToCartButton";
+import CommandeExpress from "@/components/product/CommandeExpress";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -234,6 +235,11 @@ export default async function ProductPage({ params }: Props) {
               </div>
 
               <p className="text-gray-600 leading-relaxed text-sm sm:text-base">{product.shortDescription}</p>
+
+              {product.inStock && (
+                <CommandeExpress brand={product.brand} name={product.name} slug={product.slug}
+                  price={product.price} volume={product.volume} />
+              )}
 
               {/* CTA */}
               <div className="flex flex-col sm:flex-row gap-3">
