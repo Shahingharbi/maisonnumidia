@@ -1,6 +1,7 @@
 import type { Product } from "@/lib/types";
 import type { BlogArticle } from "@/data/blog";
 import { getAllProducts, formatPrice } from "@/lib/products";
+import { fourchetteLivraison } from "@/lib/livraison";
 
 const SITE_URL = "https://maisonnumidia.store";
 const SITE_NAME = "Maison Numidia";
@@ -139,7 +140,8 @@ export function getProductSchema(product: Product) {
         "@type": "OfferShippingDetails",
         shippingRate: {
           "@type": "MonetaryAmount",
-          value: 500,
+          // Tarif Yalidine le plus bas (bureau), relevé par scripts/yalidine/tarifs.mjs.
+          value: fourchetteLivraison().min,
           currency: "DZD",
         },
         shippingDestination: {

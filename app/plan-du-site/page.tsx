@@ -42,6 +42,7 @@ export default function PlanDuSitePage() {
               { label: "Blog", href: "/blog" },
               { label: "Parfum Algérie", href: "/parfum-algerie" },
               { label: "Commander", href: "/commander" },
+              { label: "Prix de livraison", href: "/livraison" },
               { label: "Contact", href: "/contact" },
               { label: "À propos", href: "/a-propos" },
               { label: "Mentions légales", href: "/mentions-legales" },

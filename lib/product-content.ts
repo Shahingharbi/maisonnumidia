@@ -1,5 +1,6 @@
 import type { Product } from "@/lib/types";
 import { formatPrice, getDistinctiveNotes } from "@/lib/products";
+import { fourchetteLivraison } from "@/lib/livraison";
 
 /**
  * Section prix. C'est la première chose que cherche l'internaute : « prix » apparaît dans
@@ -29,7 +30,7 @@ export function generatePriceSection(
       : ` La ligne complète s'étale de ${formatPrice(moinsCher.price)} pour ${moinsCher.name} à ${formatPrice(plusCher.price)} pour ${plusCher.name} : le tableau plus bas détaille ce qui sépare chaque version.`;
   }
 
-  const livraison = ` Les frais de livraison Yalidine s'ajoutent à ce montant et dépendent de votre wilaya. Le règlement se fait à la réception : vous ne payez rien avant d'avoir le flacon en main, et vous pouvez refuser le colis.`;
+  const livraison = ` Les frais de livraison Yalidine s'ajoutent à ce montant et dépendent de votre wilaya et du mode choisi, à domicile ou au bureau. Le règlement se fait à la réception : vous ne payez rien avant d'avoir le flacon en main, et vous pouvez refuser le colis.`;
 
   return base + situation + echelle + livraison;
 }
@@ -236,7 +237,7 @@ export function generateFAQ(product: Product, versions: Product[] = []): { q: st
     : ` Ce parfum est actuellement en rupture : la marque ne le produit plus ou il n'est plus approvisionnable en Algérie.`;
   questions.push({
     q: `Combien coûte ${product.brand} ${product.name} en Algérie ?`,
-    a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} coûte ${formatPrice(product.price)} chez Maison Numidia.${dispo} Les frais de livraison Yalidine s'ajoutent à ce montant et varient selon la wilaya. Le paiement se fait à la réception, en espèces, sans carte bancaire ni avance.`,
+    a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} coûte ${formatPrice(product.price)} chez Maison Numidia.${dispo} Les frais de livraison Yalidine s'ajoutent à ce montant : entre ${formatPrice(fourchetteLivraison().min)} et ${formatPrice(fourchetteLivraison().max)} selon la wilaya et le mode, à domicile ou au bureau. Le paiement se fait à la réception, en espèces, sans carte bancaire ni avance.`,
   });
 
   if (autres.length) {

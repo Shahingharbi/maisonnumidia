@@ -8,6 +8,8 @@ import { useCart } from "@/contexts/CartContext";
 import { formatPrice } from "@/lib/products";
 import emailjs from "@emailjs/browser";
 import BlocNewsletterCommande from "@/components/newsletter/BlocNewsletterCommande";
+import ChoixLivraison from "@/components/commande/ChoixLivraison";
+import { fraisLivraison, libelleWilaya, tarifWilaya, WILAYAS_ALPHA, type ModeLivraison } from "@/lib/livraison";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // EMAILJS CONFIG — à remplir sur https://www.emailjs.com/
@@ -23,19 +25,6 @@ const EMAILJS_PUBLIC_KEY  = process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY  ?? "YOUR
 // Ton numéro WhatsApp France (pour le redirect après commande)
 const WHATSAPP_NUMBER = "213794496059";
 
-const wilayas = [
-  "Adrar","Chlef","Laghouat","Oum El Bouaghi","Batna","Béjaïa","Biskra","Béchar",
-  "Blida","Bouira","Tamanrasset","Tébessa","Tlemcen","Tiaret","Tizi Ouzou","Alger",
-  "Djelfa","Jijel","Sétif","Saïda","Skikda","Sidi Bel Abbès","Annaba","Guelma",
-  "Constantine","Médéa","Mostaganem","M'Sila","Mascara","Ouargla","Oran","El Bayadh",
-  "Illizi","Bordj Bou Arréridj","Boumerdès","El Tarf","Tindouf","Tissemsilt","El Oued",
-  "Khenchela","Souk Ahras","Tipaza","Mila","Aïn Defla","Naâma","Aïn Témouchent",
-  "Ghardaïa","Relizane","Timimoun","Bordj Badji Mokhtar","Ouled Djellal","Béni Abbès",
-  "In Salah","In Guezzam","Touggourt","Djanet","El M'Ghair","El Menia",
-  // 11 wilayas créées en 2026 (loi 26-06) : numérotation encore incertaine, affichées sans numéro
-  "Aflou","Aïn Oussara","Barika","Bir El Ater","Bou Saâda","El Abiodh Sidi Cheikh","El Aricha","El Kantara","Ksar Chellala","Ksar El Boukhari","Messaad",
-];
-
 export default function CommanderPage() {
   const { items, subtotal, clearCart } = useCart();
   const [submitted, setSubmitted] = useState(false);
@@ -47,8 +36,23 @@ export default function CommanderPage() {
   const [nom, setNom] = useState("");
   const [telephone, setTelephone] = useState("");
   const [wilaya, setWilaya] = useState("");
+  const [commune, setCommune] = useState("");
   const [adresse, setAdresse] = useState("");
+  const [mode, setMode] = useState<ModeLivraison | "">("");
+  const [bureau, setBureau] = useState("");
   const [message, setMessage] = useState("");
+
+  const frais = fraisLivraison(wilaya, mode);
+  const total = subtotal + (frais ?? 0);
+
+  function changerWilaya(w: string) {
+    setWilaya(w);
+    setBureau("");
+    setCommune("");
+    // Un mode indisponible dans la nouvelle wilaya (pas de bureau à Béni Abbès) est désélectionné.
+    const t = tarifWilaya(w);
+    if (mode && (!t || (mode === "bureau" ? t.bureau : t.domicile) == null)) setMode("");
+  }
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -59,7 +63,12 @@ export default function CommanderPage() {
     const lignesCommande = items
       .map((i) => `• ${i.brand} ${i.name} x${i.quantity} = ${formatPrice(i.price * i.quantity)}`)
       .join("\n");
-    const orderText = `${lignesCommande}\n\nTOTAL : ${formatPrice(subtotal)}`;
+    const adresseComplete = [commune, adresse].filter(Boolean).join(", ");
+    const lieu = mode === "bureau" ? `Bureau Yalidine : ${bureau}` : `À domicile, ${adresseComplete}`;
+    const livraison = frais != null
+      ? `Livraison ${lieu} = ${formatPrice(frais)}`
+      : `Livraison : à organiser (wilaya non desservie par Yalidine)`;
+    const orderText = `${lignesCommande}\n${livraison}\n\nTOTAL : ${formatPrice(total)}`;
 
     // ── 1. Construire l'URL WhatsApp (fallback TOUJOURS disponible) ───────────
     const waText = encodeURIComponent(
@@ -67,9 +76,9 @@ export default function CommanderPage() {
       `👤 Nom : ${nom}\n` +
       `📞 Tél : ${telephone}\n` +
       `📍 Wilaya : ${wilaya}\n` +
-      (adresse ? `🏠 Adresse : ${adresse}\n` : "") +
+      `🚚 ${livraison}\n` +
       `\n📦 Commande :\n${lignesCommande}\n\n` +
-      `💰 Total : ${formatPrice(subtotal)}\n` +
+      `💰 Total : ${formatPrice(total)}\n` +
       (message ? `\n💬 Message : ${message}` : "")
     );
     const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${waText}`;
@@ -100,10 +109,10 @@ export default function CommanderPage() {
             client_nom:       nom,
             client_telephone: telephone,
             client_wilaya:    wilaya,
-            client_adresse:   adresse || "—",
+            client_adresse:   mode === "bureau" ? `Bureau Yalidine : ${bureau}` : adresseComplete || "—",
             client_message:   message || "—",
             commande_details: orderText,
-            commande_total:   formatPrice(subtotal),
+            commande_total:   formatPrice(total),
             site_source:      "maisonnumidia.store",
           },
           EMAILJS_PUBLIC_KEY,
@@ -239,9 +248,26 @@ export default function CommanderPage() {
               </div>
             ))}
           </div>
-          <div className="border-t border-gray-100 mt-4 pt-4 flex items-center justify-between">
-            <span className="text-sm font-bold text-[#111111]">Total</span>
-            <span className="text-base font-bold text-[#111111]">{formatPrice(subtotal)}</span>
+          <div className="border-t border-gray-100 mt-4 pt-4 space-y-1.5">
+            {frais != null && (
+              <>
+                <div className="flex items-center justify-between text-sm text-gray-500">
+                  <span>Parfums</span>
+                  <span>{formatPrice(subtotal)}</span>
+                </div>
+                <div className="flex items-center justify-between text-sm text-gray-500">
+                  <span>Livraison {mode === "bureau" ? "au bureau Yalidine" : "à domicile"}</span>
+                  <span>{formatPrice(frais)}</span>
+                </div>
+              </>
+            )}
+            <div className="flex items-center justify-between">
+              <span className="text-sm font-bold text-[#111111]">Total</span>
+              <span className="text-base font-bold text-[#111111]">{formatPrice(total)}</span>
+            </div>
+            {frais == null && (
+              <p className="text-xs text-gray-400">Choisissez votre wilaya et le mode de livraison pour voir les frais.</p>
+            )}
           </div>
           <div className="mt-3">
             <Link href="/panier" className="text-xs text-[#C9A84C] hover:text-[#8B6914] transition-colors">
@@ -277,8 +303,8 @@ export default function CommanderPage() {
                 value={telephone}
                 onChange={(e) => setTelephone(e.target.value)}
                 placeholder="0555 XX XX XX"
-                pattern="^0[5-7]\d{8}$"
-                title="Numéro algérien valide (ex: 0555123456)"
+                pattern="^[+0-9 ().\-]{8,20}$"
+                title="Numéro de téléphone (algérien ou étranger)"
                 className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-[#C9A84C] focus:ring-2 focus:ring-[#C9A84C]/20 transition"
               />
             </div>
@@ -291,28 +317,41 @@ export default function CommanderPage() {
             <select
               required
               value={wilaya}
-              onChange={(e) => setWilaya(e.target.value)}
+              onChange={(e) => changerWilaya(e.target.value)}
               className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-[#C9A84C] focus:ring-2 focus:ring-[#C9A84C]/20 transition bg-white"
             >
               <option value="">Sélectionnez votre wilaya</option>
-              {wilayas.map((w, i) => (
-                <option key={w} value={w}>{i < 58 ? `${String(i + 1).padStart(2, "0")} — ${w}` : w}</option>
+              {WILAYAS_ALPHA.map((w) => (
+                <option key={w} value={w}>{libelleWilaya(w)}</option>
               ))}
             </select>
           </div>
 
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1.5">
-              Adresse <span className="text-gray-400 font-normal">(optionnel)</span>
-            </label>
-            <input
-              type="text"
-              value={adresse}
-              onChange={(e) => setAdresse(e.target.value)}
-              placeholder="Rue, quartier, commune..."
-              className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-[#C9A84C] focus:ring-2 focus:ring-[#C9A84C]/20 transition"
-            />
-          </div>
+          <ChoixLivraison
+            wilaya={wilaya}
+            mode={mode}
+            onMode={setMode}
+            commune={commune}
+            onCommune={setCommune}
+            bureau={bureau}
+            onBureau={setBureau}
+            classeChamp="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-[#C9A84C] focus:ring-2 focus:ring-[#C9A84C]/20 transition bg-white"
+          />
+
+          {mode === "domicile" && (
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1.5">
+                Adresse <span className="text-gray-400 font-normal">(quartier, rue : facultatif)</span>
+              </label>
+              <input
+                type="text"
+                value={adresse}
+                onChange={(e) => setAdresse(e.target.value)}
+                placeholder="Quartier, rue, numéro..."
+                className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-[#C9A84C] focus:ring-2 focus:ring-[#C9A84C]/20 transition"
+              />
+            </div>
+          )}
 
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1.5">
@@ -342,7 +381,7 @@ export default function CommanderPage() {
             disabled={loading}
             className="w-full bg-[#111111] hover:bg-[#333] disabled:opacity-60 text-white font-semibold py-4 rounded-xl transition-colors text-base"
           >
-            {loading ? "Envoi en cours..." : `Valider la commande — ${formatPrice(subtotal)}`}
+            {loading ? "Envoi en cours..." : `Valider la commande — ${formatPrice(total)}`}
           </button>
 
         </form>

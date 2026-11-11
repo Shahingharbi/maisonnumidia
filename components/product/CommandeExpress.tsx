@@ -7,7 +7,8 @@ import { useState } from "react";
 import emailjs from "@emailjs/browser";
 import { CheckCircle } from "lucide-react";
 import { formatPrice } from "@/lib/products";
-import { WILAYAS } from "@/lib/tdb/constantes";
+import { fraisLivraison, libelleWilaya, tarifWilaya, WILAYAS_ALPHA, type ModeLivraison } from "@/lib/livraison";
+import ChoixLivraison from "@/components/commande/ChoixLivraison";
 
 const EMAILJS_SERVICE_ID  = process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID  ?? "YOUR_SERVICE_ID";
 const EMAILJS_TEMPLATE_ID = process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID ?? "YOUR_TEMPLATE_ID";
@@ -30,20 +31,38 @@ export default function CommandeExpress({ brand, name, slug, price, volume }: Pr
   const [telephone, setTelephone] = useState("");
   const [wilaya, setWilaya] = useState("");
   const [commune, setCommune] = useState("");
+  const [mode, setMode] = useState<ModeLivraison | "">("");
+  const [bureau, setBureau] = useState("");
   const [message, setMessage] = useState("");
   const [envoi, setEnvoi] = useState(false);
   const [fini, setFini] = useState<"" | "ok" | "whatsapp">("");
   const [waUrl, setWaUrl] = useState("");
 
+  const frais = fraisLivraison(wilaya, mode);
+  const total = price + (frais ?? 0);
+
+  function changerWilaya(w: string) {
+    setWilaya(w);
+    setBureau("");
+    setCommune("");
+    // Un mode indisponible dans la nouvelle wilaya (pas de bureau à Béni Abbès) est désélectionné.
+    const t = tarifWilaya(w);
+    if (mode && (!t || (mode === "bureau" ? t.bureau : t.domicile) == null)) setMode("");
+  }
+
   async function envoyer(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setEnvoi(true);
     const ligne = `• ${brand} ${name} ${volume} x1 = ${formatPrice(price)}`;
-    const details = `${ligne}\n\nTOTAL : ${formatPrice(price)}\n\nCommande express depuis la fiche /parfums/${slug}`;
+    const lieu = mode === "bureau" ? `Bureau Yalidine : ${bureau}` : `À domicile, ${commune}`;
+    const livraison = frais != null
+      ? `Livraison ${lieu} = ${formatPrice(frais)}`
+      : `Livraison : à organiser (wilaya non desservie par Yalidine)`;
+    const details = `${ligne}\n${livraison}\n\nTOTAL : ${formatPrice(total)}\n\nCommande express depuis la fiche /parfums/${slug}`;
 
     // Lien WhatsApp préparé dans tous les cas : c'est le secours si l'email ne part pas.
     setWaUrl(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
-      `🛒 Commande Maison Numidia\n\n👤 ${nom}\n📞 ${telephone}\n📍 ${wilaya}, ${commune}\n\n📦 ${ligne}` +
+      `🛒 Commande Maison Numidia\n\n👤 ${nom}\n📞 ${telephone}\n📍 ${wilaya}\n🚚 ${livraison}\n\n📦 ${ligne}\n💰 Total : ${formatPrice(total)}` +
       (message ? `\n\n💬 ${message}` : ""))}`);
 
     let ok = false;
@@ -55,10 +74,10 @@ export default function CommandeExpress({ brand, name, slug, price, volume }: Pr
           client_nom: nom,
           client_telephone: telephone,
           client_wilaya: wilaya,
-          client_adresse: commune,
+          client_adresse: mode === "bureau" ? `Bureau Yalidine : ${bureau}` : commune || "—",
           client_message: message || "—",
           commande_details: details,
-          commande_total: formatPrice(price),
+          commande_total: formatPrice(total),
           site_source: "maisonnumidia.store (commande express)",
         }, EMAILJS_PUBLIC_KEY);
         ok = true;
@@ -79,7 +98,12 @@ export default function CommandeExpress({ brand, name, slug, price, volume }: Pr
         {fini === "ok" ? (
           <>
             <p className="font-semibold text-[#111111]">Commande reçue, merci {nom.split(" ")[0]} !</p>
-            <p className="text-sm text-gray-600 mt-1">Nous vous appelons très vite au {telephone} pour confirmer la livraison.</p>
+            <p className="text-sm text-gray-600 mt-1 mb-3">Nous vous appelons très vite au {telephone} pour confirmer la livraison.</p>
+            {/* Même bouton que l'écran de fin de /commander : le client peut aussi confirmer tout de suite. */}
+            <a href={waUrl} target="_blank" rel="noopener noreferrer"
+              className="inline-block bg-[#25D366] text-white font-semibold px-5 py-2.5 rounded-lg hover:opacity-90 transition-opacity">
+              Confirmer sur WhatsApp
+            </a>
           </>
         ) : (
           <>
@@ -105,18 +129,25 @@ export default function CommandeExpress({ brand, name, slug, price, volume }: Pr
         <input className={champ} required type="tel" inputMode="tel" placeholder="Téléphone" autoComplete="tel"
           pattern="^[+0-9 ().\-]{8,20}$" title="Numéro de téléphone (algérien ou étranger)"
           value={telephone} onChange={(e) => setTelephone(e.target.value)} />
-        <select className={champ} required value={wilaya} onChange={(e) => setWilaya(e.target.value)}>
+        <select className={`${champ} col-span-2`} required value={wilaya} onChange={(e) => changerWilaya(e.target.value)}>
           <option value="" disabled>Wilaya</option>
-          {WILAYAS.map((w) => <option key={w} value={w}>{w}</option>)}
+          {WILAYAS_ALPHA.map((w) => <option key={w} value={w}>{libelleWilaya(w)}</option>)}
         </select>
-        <input className={champ} required placeholder="Commune"
-          value={commune} onChange={(e) => setCommune(e.target.value)} />
+        <ChoixLivraison wilaya={wilaya} mode={mode} onMode={setMode} commune={commune} onCommune={setCommune}
+          bureau={bureau} onBureau={setBureau} classeChamp={champ} />
         <textarea className={`${champ} col-span-2 resize-none`} rows={2} placeholder="Message (facultatif)"
           value={message} onChange={(e) => setMessage(e.target.value)} />
       </div>
+      {frais != null && (
+        <div className="mt-3 text-sm space-y-0.5">
+          <div className="flex justify-between text-gray-600"><span>Parfum</span><span>{formatPrice(price)}</span></div>
+          <div className="flex justify-between text-gray-600"><span>Livraison</span><span>{formatPrice(frais)}</span></div>
+          <div className="flex justify-between font-semibold text-[#111111]"><span>Total à payer à la livraison</span><span>{formatPrice(total)}</span></div>
+        </div>
+      )}
       <button type="submit" disabled={envoi}
         className="w-full mt-3 bg-[#C9A84C] hover:bg-[#8B6914] disabled:opacity-60 text-white font-semibold py-3.5 rounded-lg transition-colors">
-        {envoi ? "Envoi en cours…" : `Commander · ${formatPrice(price)}`}
+        {envoi ? "Envoi en cours…" : `Commander · ${formatPrice(total)}`}
       </button>
     </form>
   );

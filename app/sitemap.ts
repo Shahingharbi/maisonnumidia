@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllProducts, getProductsByCategory, getBrandSlugsForGenderPage } from "@/lib/products";
 import { articles } from "@/data/blog";
+import livraison from "@/data/livraison.json";
 
 const BASE = "https://maisonnumidia.store";
 
@@ -34,6 +35,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/marques`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
     { url: `${BASE}/parfum-algerie`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.7 },
     { url: `${BASE}/a-propos`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.6 },
+    // Date du dernier relevé des tarifs Yalidine (scripts/yalidine/tarifs.mjs), pas la date du jour.
+    { url: `${BASE}/livraison`, lastModified: new Date(livraison.maj), changeFrequency: "monthly", priority: 0.6 },
     { url: `${BASE}/plan-du-site`, lastModified: CATALOG_DATE, changeFrequency: "monthly", priority: 0.5 },
     { url: `${BASE}/blog`, lastModified: CATALOG_DATE, changeFrequency: "weekly", priority: 0.7 },
   ];
