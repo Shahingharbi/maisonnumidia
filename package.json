@@ -10,23 +10,28 @@
     "indexing:test": "node scripts/google-indexing-api.mjs --url=https://maisonnumidia.store/",
     "indexing:daily": "node scripts/google-indexing-api.mjs",
     "indexing:dryrun": "node scripts/google-indexing-api.mjs --dry-run",
-    "indexing:list": "node scripts/google-indexing-api.mjs --verify-list"
+    "indexing:list": "node scripts/google-indexing-api.mjs --verify-list",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "cf:build": "opennextjs-cloudflare build"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "lucide-react": "^0.577.0",
-    "next": "16.1.6",
+    "next": "16.4.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
+    "@opennextjs/cloudflare": "^1.20.17",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.1.6",
+    "eslint-config-next": "16.4.6",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^4.161.0"
   }
 }
