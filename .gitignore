@@ -70,3 +70,9 @@ scripts/_catalog-audit/*.json
 /.audit_batch1.jsonl
 /.idx-log-latest.json
 /.scratch_sections.json
+
+.vercel
+.env*
+
+.open-next
+.wrangler
