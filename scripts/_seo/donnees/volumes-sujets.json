@@ -1,0 +1,1371 @@
+[
+ {
+  "requete": "parfum femme",
+  "volume": 5400,
+  "cpc": 0.39,
+  "mois": [
+   4400,
+   4400,
+   4400,
+   5400,
+   5400,
+   5400,
+   5400,
+   6600,
+   4400,
+   4400,
+   5400,
+   5400
+  ]
+ },
+ {
+  "requete": "parfum homme",
+  "volume": 4400,
+  "cpc": 1.03,
+  "mois": [
+   3600,
+   4400,
+   3600,
+   3600,
+   3600,
+   4400,
+   4400,
+   5400,
+   3600,
+   3600,
+   3600,
+   4400
+  ]
+ },
+ {
+  "requete": "عطر",
+  "volume": 1900,
+  "cpc": null,
+  "mois": [
+   1600,
+   1900,
+   2400,
+   1900,
+   1600,
+   1900,
+   2400,
+   2900,
+   1900,
+   1900,
+   1900,
+   1900
+  ]
+ },
+ {
+  "requete": "عطور",
+  "volume": 1600,
+  "cpc": 0.33,
+  "mois": [
+   2400,
+   1900,
+   1900,
+   1600,
+   1300,
+   1600,
+   1300,
+   1600,
+   1300,
+   1300,
+   1300,
+   1000
+  ]
+ },
+ {
+  "requete": "meilleur parfum homme",
+  "volume": 590,
+  "cpc": 0.04,
+  "mois": [
+   480,
+   590,
+   480,
+   480,
+   480,
+   590,
+   720,
+   880,
+   590,
+   590,
+   720,
+   590
+  ]
+ },
+ {
+  "requete": "meilleur parfum femme",
+  "volume": 590,
+  "cpc": 0.23,
+  "mois": [
+   480,
+   590,
+   480,
+   480,
+   590,
+   720,
+   720,
+   880,
+   590,
+   720,
+   720,
+   720
+  ]
+ },
+ {
+  "requete": "lattafa",
+  "volume": 590,
+  "cpc": 0.65,
+  "mois": [
+   590,
+   590,
+   590,
+   480,
+   390,
+   720,
+   590,
+   720,
+   590,
+   720,
+   720,
+   720
+  ]
+ },
+ {
+  "requete": "parfum dz",
+  "volume": 590,
+  "cpc": null,
+  "mois": [
+   590,
+   720,
+   590,
+   480,
+   480,
+   590,
+   590,
+   720,
+   480,
+   480,
+   590,
+   590
+  ]
+ },
+ {
+  "requete": "parfum algerie",
+  "volume": 480,
+  "cpc": null,
+  "mois": [
+   390,
+   390,
+   390,
+   320,
+   480,
+   480,
+   480,
+   590,
+   590,
+   590,
+   390,
+   390
+  ]
+ },
+ {
+  "requete": "parfumerie algerie",
+  "volume": 480,
+  "cpc": null,
+  "mois": [
+   390,
+   390,
+   390,
+   320,
+   480,
+   480,
+   480,
+   590,
+   590,
+   590,
+   390,
+   390
+  ]
+ },
+ {
+  "requete": "عطر خمرة",
+  "volume": 480,
+  "cpc": null,
+  "mois": [
+   390,
+   320,
+   210,
+   210,
+   260,
+   390,
+   480,
+   880,
+   590,
+   590,
+   720,
+   720
+  ]
+ },
+ {
+  "requete": "coffret parfum",
+  "volume": 260,
+  "cpc": 0.98,
+  "mois": [
+   210,
+   260,
+   260,
+   320,
+   260,
+   260,
+   260,
+   320,
+   210,
+   210,
+   260,
+   320
+  ]
+ },
+ {
+  "requete": "parfum original",
+  "volume": 260,
+  "cpc": 0.18,
+  "mois": [
+   320,
+   260,
+   260,
+   260,
+   210,
+   210,
+   320,
+   320,
+   210,
+   260,
+   260,
+   210
+  ]
+ },
+ {
+  "requete": "عطر رجالي",
+  "volume": 260,
+  "cpc": null,
+  "mois": [
+   260,
+   260,
+   260,
+   210,
+   210,
+   320,
+   260,
+   480,
+   320,
+   260,
+   320,
+   260
+  ]
+ },
+ {
+  "requete": "عطر نسائي",
+  "volume": 260,
+  "cpc": null,
+  "mois": [
+   210,
+   210,
+   210,
+   260,
+   260,
+   210,
+   320,
+   320,
+   210,
+   210,
+   210,
+   260
+  ]
+ },
+ {
+  "requete": "عطر اسد",
+  "volume": 260,
+  "cpc": null,
+  "mois": [
+   210,
+   210,
+   140,
+   170,
+   140,
+   260,
+   260,
+   390,
+   320,
+   320,
+   320,
+   260
+  ]
+ },
+ {
+  "requete": "parfumerie alger",
+  "volume": 210,
+  "cpc": null,
+  "mois": [
+   210,
+   170,
+   320,
+   170,
+   170,
+   260,
+   210,
+   210,
+   110,
+   140,
+   320,
+   260
+  ]
+ },
+ {
+  "requete": "parfum oran",
+  "volume": 210,
+  "cpc": null,
+  "mois": [
+   210,
+   210,
+   210,
+   170,
+   260,
+   320,
+   210,
+   170,
+   140,
+   140,
+   170,
+   170
+  ]
+ },
+ {
+  "requete": "parfum alger",
+  "volume": 210,
+  "cpc": null,
+  "mois": [
+   210,
+   170,
+   320,
+   170,
+   170,
+   260,
+   210,
+   210,
+   110,
+   140,
+   320,
+   260
+  ]
+ },
+ {
+  "requete": "افضل عطر رجالي",
+  "volume": 210,
+  "cpc": null,
+  "mois": [
+   210,
+   170,
+   110,
+   110,
+   140,
+   210,
+   210,
+   390,
+   210,
+   260,
+   320,
+   260
+  ]
+ },
+ {
+  "requete": "meilleur parfum femme 2026",
+  "volume": 170,
+  "cpc": 0.25,
+  "mois": [
+   210,
+   260,
+   170,
+   210,
+   210,
+   260,
+   260,
+   260,
+   90,
+   110,
+   50,
+   10
+  ]
+ },
+ {
+  "requete": "dupe parfum",
+  "volume": 170,
+  "cpc": null,
+  "mois": [
+   170,
+   170,
+   140,
+   140,
+   140,
+   140,
+   170,
+   170,
+   140,
+   140,
+   170,
+   170
+  ]
+ },
+ {
+  "requete": "meilleur parfum homme 2026",
+  "volume": 140,
+  "cpc": null,
+  "mois": [
+   170,
+   140,
+   170,
+   140,
+   210,
+   260,
+   210,
+   210,
+   110,
+   110,
+   20,
+   10
+  ]
+ },
+ {
+  "requete": "parfum homme ete",
+  "volume": 140,
+  "cpc": null,
+  "mois": [
+   20,
+   90,
+   260,
+   390,
+   320,
+   320,
+   210,
+   70,
+   30,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "عطر شانيل",
+  "volume": 140,
+  "cpc": null,
+  "mois": [
+   140,
+   140,
+   140,
+   140,
+   140,
+   140,
+   210,
+   140,
+   110,
+   140,
+   140,
+   110
+  ]
+ },
+ {
+  "requete": "top 10 parfum femme",
+  "volume": 110,
+  "cpc": null,
+  "mois": [
+   90,
+   110,
+   70,
+   140,
+   140,
+   170,
+   210,
+   210,
+   90,
+   40,
+   50,
+   30
+  ]
+ },
+ {
+  "requete": "parfum sucre femme",
+  "volume": 110,
+  "cpc": null,
+  "mois": [
+   70,
+   110,
+   70,
+   90,
+   90,
+   140,
+   170,
+   210,
+   110,
+   140,
+   140,
+   140
+  ]
+ },
+ {
+  "requete": "افضل عطر نسائي",
+  "volume": 110,
+  "cpc": null,
+  "mois": [
+   90,
+   110,
+   70,
+   90,
+   110,
+   110,
+   110,
+   140,
+   110,
+   140,
+   140,
+   110
+  ]
+ },
+ {
+  "requete": "parfum lattafa",
+  "volume": 90,
+  "cpc": null,
+  "mois": [
+   70,
+   90,
+   90,
+   70,
+   70,
+   210,
+   90,
+   90,
+   70,
+   90,
+   110,
+   110
+  ]
+ },
+ {
+  "requete": "parfum oud",
+  "volume": 90,
+  "cpc": null,
+  "mois": [
+   90,
+   70,
+   90,
+   70,
+   70,
+   90,
+   110,
+   170,
+   110,
+   70,
+   110,
+   110
+  ]
+ },
+ {
+  "requete": "عطر لطافة",
+  "volume": 90,
+  "cpc": null,
+  "mois": [
+   70,
+   70,
+   50,
+   40,
+   90,
+   170,
+   90,
+   110,
+   90,
+   70,
+   70,
+   90
+  ]
+ },
+ {
+  "requete": "ديور سوفاج",
+  "volume": 90,
+  "cpc": null,
+  "mois": [
+   90,
+   90,
+   50,
+   90,
+   110,
+   70,
+   110,
+   110,
+   90,
+   70,
+   70,
+   70
+  ]
+ },
+ {
+  "requete": "eau de parfum ou eau de toilette",
+  "volume": 70,
+  "cpc": null,
+  "mois": [
+   70,
+   50,
+   70,
+   50,
+   70,
+   90,
+   90,
+   90,
+   70,
+   70,
+   90,
+   70
+  ]
+ },
+ {
+  "requete": "parfum vanille femme",
+  "volume": 70,
+  "cpc": null,
+  "mois": [
+   50,
+   70,
+   40,
+   50,
+   40,
+   70,
+   90,
+   110,
+   70,
+   70,
+   50,
+   50
+  ]
+ },
+ {
+  "requete": "parfum musc",
+  "volume": 70,
+  "cpc": null,
+  "mois": [
+   50,
+   70,
+   90,
+   90,
+   50,
+   70,
+   70,
+   90,
+   70,
+   70,
+   70,
+   70
+  ]
+ },
+ {
+  "requete": "parfum dubai",
+  "volume": 70,
+  "cpc": 0.38,
+  "mois": [
+   70,
+   50,
+   70,
+   90,
+   70,
+   70,
+   70,
+   110,
+   70,
+   70,
+   70,
+   90
+  ]
+ },
+ {
+  "requete": "parfum femme algerie",
+  "volume": 70,
+  "cpc": null,
+  "mois": [
+   70,
+   70,
+   50,
+   50,
+   70,
+   110,
+   90,
+   110,
+   90,
+   70,
+   70,
+   50
+  ]
+ },
+ {
+  "requete": "عطور الجزائر",
+  "volume": 70,
+  "cpc": null,
+  "mois": [
+   70,
+   70,
+   70,
+   90,
+   90,
+   50,
+   90,
+   70,
+   70,
+   70,
+   70,
+   90
+  ]
+ },
+ {
+  "requete": "parfum ete homme",
+  "volume": 50,
+  "cpc": null,
+  "mois": [
+   10,
+   20,
+   50,
+   110,
+   140,
+   170,
+   110,
+   50,
+   20,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum femme pas cher",
+  "volume": 50,
+  "cpc": null,
+  "mois": [
+   30,
+   40,
+   40,
+   40,
+   40,
+   50,
+   50,
+   70,
+   50,
+   50,
+   50,
+   70
+  ]
+ },
+ {
+  "requete": "parfum homme pas cher",
+  "volume": 50,
+  "cpc": 0.34,
+  "mois": [
+   50,
+   70,
+   50,
+   50,
+   40,
+   50,
+   40,
+   70,
+   40,
+   40,
+   50,
+   50
+  ]
+ },
+ {
+  "requete": "parfum arabe",
+  "volume": 50,
+  "cpc": null,
+  "mois": [
+   70,
+   40,
+   50,
+   70,
+   40,
+   50,
+   50,
+   40,
+   30,
+   40,
+   30,
+   50
+  ]
+ },
+ {
+  "requete": "parfum pas cher",
+  "volume": 40,
+  "cpc": 0.41,
+  "mois": [
+   40,
+   70,
+   30,
+   50,
+   40,
+   50,
+   30,
+   30,
+   20,
+   30,
+   40,
+   50
+  ]
+ },
+ {
+  "requete": "top 10 parfum homme",
+  "volume": 30,
+  "cpc": null,
+  "mois": [
+   20,
+   20,
+   20,
+   20,
+   20,
+   10,
+   30,
+   40,
+   30,
+   40,
+   30,
+   30
+  ]
+ },
+ {
+  "requete": "parfum oriental",
+  "volume": 30,
+  "cpc": null,
+  "mois": [
+   30,
+   30,
+   30,
+   20,
+   30,
+   30,
+   40,
+   50,
+   50,
+   30,
+   40,
+   40
+  ]
+ },
+ {
+  "requete": "parfum homme algerie",
+  "volume": 30,
+  "cpc": null,
+  "mois": [
+   20,
+   30,
+   10,
+   20,
+   40,
+   40,
+   30,
+   20,
+   40,
+   20,
+   30,
+   30
+  ]
+ },
+ {
+  "requete": "افضل عطر رجالي في الجزائر",
+  "volume": 30,
+  "cpc": null,
+  "mois": [
+   30,
+   40,
+   20,
+   20,
+   30,
+   50,
+   30,
+   70,
+   30,
+   20,
+   20,
+   20
+  ]
+ },
+ {
+  "requete": "lattafa parfum femme",
+  "volume": 20,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   20,
+   20,
+   30,
+   20,
+   20,
+   10,
+   20,
+   20,
+   10
+  ]
+ },
+ {
+  "requete": "parfum original algerie",
+  "volume": 20,
+  "cpc": null,
+  "mois": [
+   20,
+   50,
+   30,
+   20,
+   10,
+   20,
+   30,
+   30,
+   20,
+   30,
+   20,
+   30
+  ]
+ },
+ {
+  "requete": "parfum constantine",
+  "volume": 20,
+  "cpc": null,
+  "mois": [
+   40,
+   30,
+   20,
+   10,
+   30,
+   20,
+   20,
+   10,
+   20,
+   10,
+   10,
+   20
+  ]
+ },
+ {
+  "requete": "افضل عطر نسائي في الجزائر",
+  "volume": 20,
+  "cpc": null,
+  "mois": [
+   30,
+   10,
+   20,
+   30,
+   40,
+   20,
+   30,
+   30,
+   10,
+   10,
+   30,
+   20
+  ]
+ },
+ {
+  "requete": "meilleur parfum homme algerie",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum qui tient longtemps",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   0,
+   10,
+   10,
+   0,
+   10,
+   0,
+   10,
+   0,
+   0,
+   10,
+   0,
+   10
+  ]
+ },
+ {
+  "requete": "parfum homme qui tient longtemps",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum femme qui tient longtemps",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10,
+   10,
+   0,
+   10
+  ]
+ },
+ {
+  "requete": "parfum frais homme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "meilleur parfum lattafa",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   10,
+   10,
+   0,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "lattafa parfum homme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   20,
+   20,
+   20,
+   20,
+   20,
+   10
+  ]
+ },
+ {
+  "requete": "cadeau parfum",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   0,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum cadeau homme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   0,
+   0,
+   0,
+   0,
+   10,
+   10,
+   0,
+   0,
+   10,
+   10,
+   10,
+   0
+  ]
+ },
+ {
+  "requete": "parfum cadeau femme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum oriental femme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   20,
+   30,
+   20,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum oriental homme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   20,
+   20,
+   20,
+   10,
+   10,
+   10,
+   20
+  ]
+ },
+ {
+  "requete": "prix parfum algerie",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   0,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum pas cher algerie",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "difference eau de parfum eau de toilette",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum mariage",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "parfum aid",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   10,
+   10,
+   10,
+   10,
+   0
+  ]
+ },
+ {
+  "requete": "parfum boise homme",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   0,
+   0,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10,
+   10,
+   0,
+   10,
+   10
+  ]
+ },
+ {
+  "requete": "meilleur parfum oriental",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "requete": "parfum turc",
+  "volume": 10,
+  "cpc": null,
+  "mois": [
+   20,
+   10,
+   20,
+   10,
+   10,
+   20,
+   10,
+   10,
+   10,
+   10,
+   10,
+   20
+  ]
+ },
+ {
+  "requete": "meilleur parfum femme algerie",
+  "volume": 0,
+  "cpc": null
+ },
+ {
+  "requete": "parfum pour mariage homme",
+  "volume": 0,
+  "cpc": null
+ },
+ {
+  "requete": "parfum blida",
+  "volume": 0,
+  "cpc": null
+ },
+ {
+  "requete": "parfum setif",
+  "volume": 0,
+  "cpc": null
+ }
+]
