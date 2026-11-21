@@ -1,5 +1,35 @@
 # Plan SEO : top 3 en Algérie sur toutes les requêtes parfum
 
+## Reprendre ici (état au 21/11/2026, fin de session)
+
+**Fait et en ligne le 21/11** :
+- pages catégorie allégées (3,3 Mo → 0,63 Mo) ;
+- 100 pages marque filtrées en doublon canonisées vers `/marques/x` ;
+- balises en double retirées ;
+- panier sans erreur d'hydratation ;
+- doublon Narciso For Her fusionné, Lattafa Asad passé en 100 ml ;
+- 6 articles SEO/GEO publiés, le doublon `meilleur-parfum-femme-2026` fusionné ;
+- rendu des puces du blog corrigé ;
+- environ 300 mots de texte générique retirés de chaque fiche, et la FAQ donne les notes du parfum ;
+- IndexNow lancé.
+
+**Prochaines actions, dans l'ordre** :
+1. D2 : titre, h1 et texte d'introduction des 3 pages catégorie (« parfum femme » 5 400, « parfum homme » 4 400, « parfum » 9 900).
+2. D3 : titres des pages marque avec « Prix », plus un texte propre pour les 20 marques à plus fort volume.
+3. B3 restant : `armani-code` (concentration), `lattafa-bade-al-oud` (réponse de Shahin attendue).
+4. B4 : les 39 requêtes partagées (Chance, Club de Nuit, 212, Kayali).
+5. C : les 310 fiches prioritaires, par lots de 30, avec relecture.
+6. Catalogue : rédaction et relecture des 189 fiches de `relecture-fige-6.json`. 96 textes sont écrits mais **pas relus**. Le workflow `scripts/_catalog-add/workflows/redaction-relecture.js` avec `{"total":189,"date":"…","lot":6}` saute ceux qui existent. Il a été bloqué une fois par l'outil d'autorisation : Shahin doit l'autoriser.
+7. H : premier relevé de positions DataForSEO vers le 05/12/2026, à comparer avec `scripts/_gsc/brut/dfs/ranked-nous.json` (21/11).
+
+**En attente de Shahin** :
+- annuaires ouverts dans le navigateur (algeria-news, algeria.com, GoAfrica, PagesMaghreb, Expat.com, Ouedkniss, Bing Places, Trustpilot) ;
+- variables Brevo chez Cloudflare ;
+- décision sur le prix (D4) et sur le test de titres (C1) ;
+- quel flacon vend-il sous le nom « Bade'e Al Oud » ?
+
+Budget DataForSEO de la session : environ 1,80 $ (solde de départ 20,96 $).
+
 Écrit le 21/11/2026, à partir de la Search Console (90 jours), de DataForSEO (Google Algérie,
 français : mots-clés de Must et les nôtres, volumes de recherche des 2 320 parfums du catalogue,
 backlinks des concurrents) et d'une lecture du code. Chaque action a sa **vérification** : une
@@ -74,7 +104,7 @@ Règle : **une intention de recherche = une seule page.**
 | # | Action | État | Vérification |
 |---|---|---|---|
 | B1 | 100 pages filtrées identiques à leur page marque : canonique vers `/marques/x`, hors sitemap, liens internes vers la marque (`estDoublonDeMarque`, `urlMarqueSection`) | **fait le 21/11** | `curl` sur `/parfums-femme/kayali` : canonical = `/marques/kayali` ; sitemap sans ces URL |
-| B2 | Fusion des articles `meilleur-parfum-femme-2026` → `meilleur-parfum-femme` (301) | en cours (workflow articles) | 308 sur l'ancienne URL |
+| B2 | Fusion des articles `meilleur-parfum-femme-2026` → `meilleur-parfum-femme` (301) | **fait le 21/11** | 308 sur l'ancienne URL (vérifié) |
 | B3 | Fiches aux données suspectes. **Fait le 21/11** : `narciso-rodriguez-for-her` fusionnée dans `-edp-rouge` (même EDP 2006, 301) ; `ysl-y-femme` (le « Y » femme de 1964) et les deux Insolence (EDT 2006 / EDP 2008) sont de vrais parfums distincts. `lattafa-asad` passée de 60 à 100 ml (format vendu partout, vérifié chez 15 revendeurs). **Reste** : `armani-code` (« Code » étiqueté EDP 110 ml, notes proches de l'EDT 2004 : concentration à vérifier) ; `lattafa-bade-al-oud` : ses notes ne correspondent ni à Oud for Glory (Fragrantica 64948) ni à Amethyst (68214), **à demander à Shahin : quel flacon vend-il sous ce nom ?** (56 clics en 90 jours, ne pas supprimer à l'aveugle) ; pyramides contestées de L.12.12 Blanc, Colonia (Acqua di Parma), D&G Pour Homme ; Escada Candy Love toujours fabriqué ? (relevés par les relecteurs d'articles) | en partie | chaque fiche = un parfum distinct prouvé, sinon 301 |
 | B4 | 39 requêtes partagées entre 2 URL (liste : `node scripts/_gsc/brut/analyse/scripts/express.mjs`) : Chance / Chance Eau Tendre, Club de Nuit Women / Intense, 212 (3 fiches), Kayali Eden / Vanilla 28 | à faire | après correction des titres, une seule URL > 85 % des impressions de la requête |
 | B5 | Contrôle mensuel automatique : requêtes > 100 impressions partagées entre 2 URL à > 15 % chacune | script à écrire | rapport vide ou expliqué |
@@ -93,7 +123,11 @@ Pour chaque fiche, la vérification est une check-list :
    noyés dans ~600 mots de blocs communs).
 4. **Blocs communs réduits** : paiement, livraison, « EDP = 12 à 18 % » apparaissent sur 2 329 pages.
    Une phrase courte + un lien vers `/livraison` ou un guide unique, au lieu de paragraphes entiers.
-   Objectif : < 20 % de texte identique d'une fiche à l'autre (mesure : script de similarité).
+   **Première passe faite le 21/11** (~300 mots génériques retirés par fiche, FAQ « notes » propre à
+   chaque parfum). Mesure : `node scripts/_seo/mesure-texte-commun.mjs` → 42 % au seuil de 30 %.
+   Ce qui reste commun est surtout du gabarit à données propres (prix, ml, gamme) et les
+   paragraphes de famille olfactive (`familyContext`, partagés par toutes les fiches d'une famille) :
+   prochaine cible. Objectif : < 25 %.
 5. **Versions** : tableau des déclinaisons (EDT/EDP/Parfum/Elixir) avec liens croisés, pour que chaque
    déclinaison garde son mot distinctif sans voler la requête de base.
 6. **Nom arabe** quand il est sûr et demandé (عطر خمرة 480/mois, عطر اسد 260) : dans un h2 ou la FAQ.
