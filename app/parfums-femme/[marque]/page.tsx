@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "@/components/Lien";
-import { getProductsByBrand, getBrandBySlug, getBrandSlugsForGenderPage } from "@/lib/products";
+import { getProductsByBrand, getBrandBySlug, getBrandSlugsForGenderPage, estDoublonDeMarque, urlMarqueSection } from "@/lib/products";
 import { getBreadcrumbSchema } from "@/lib/seo";
 import ProductGrid from "@/components/product/ProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
@@ -24,7 +24,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `Parfum Femme ${brand.name} en Algérie — ${count} référence${count > 1 ? "s" : ""}`,
     description: `Achetez les parfums femme ${brand.name} originaux en Algérie. ${count} référence${count > 1 ? "s" : ""} disponible${count > 1 ? "s" : ""}, paiement à la livraison, livraison Yalidine 69 wilayas.`,
-    alternates: { canonical: `https://maisonnumidia.store/parfums-femme/${marque}` },
+    // Page qui double /marques/<marque> (aucun produit de la marque hors de cette section) :
+    // la page marque est la seule à se positionner. Voir estDoublonDeMarque().
+    alternates: { canonical: estDoublonDeMarque("parfums-femme", marque) ? `https://maisonnumidia.store/marques/${marque}` : `https://maisonnumidia.store/parfums-femme/${marque}` },
   };
 }
 
@@ -99,8 +101,8 @@ export default async function ParfumsFemmeMarquePage({ params }: Props) {
               <p className="font-semibold text-[#111111] mb-3">Explorer également :</p>
               <div className="flex flex-wrap gap-3">
                 <Link href={`/marques/${marque}`} className="text-sm text-[#C9A84C] hover:text-[#8B6914] border border-[#C9A84C]/30 hover:border-[#C9A84C] px-3 py-1.5 rounded-lg transition-colors">Toute la collection {brand.name}</Link>
-                {hasHomme && <Link href={`/parfums-homme/${marque}`} className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">{brand.name} Homme</Link>}
-                {hasOriental && <Link href={`/parfums-orientaux/${marque}`} className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">{brand.name} Oriental</Link>}
+                {hasHomme && <Link href={urlMarqueSection("parfums-homme", marque)} className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">{brand.name} Homme</Link>}
+                {hasOriental && <Link href={urlMarqueSection("parfums-orientaux", marque)} className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">{brand.name} Oriental</Link>}
                 <Link href="/parfums-femme" className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">Tous les parfums femme</Link>
                 <Link href="/marques" className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors">Toutes les marques</Link>
               </div>

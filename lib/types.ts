@@ -45,6 +45,16 @@ export interface Product {
   related: string[];
 }
 
+/**
+ * Ce qu'une carte produit affiche, et rien de plus. Les grilles filtrables des pages catégorie
+ * envoyaient au navigateur les fiches complètes (descriptions, notes…) de toute la catégorie :
+ * 3,3 Mo de HTML pour /parfums-femme, dont 96 % de données jamais affichées (mesuré le 21/11/2026).
+ */
+export type CarteProduit = Pick<
+  Product,
+  "id" | "slug" | "name" | "brand" | "brandSlug" | "family" | "concentration" | "volume" | "price" | "originalPrice" | "image" | "badge"
+>;
+
 export interface Brand {
   slug: string;
   name: string;

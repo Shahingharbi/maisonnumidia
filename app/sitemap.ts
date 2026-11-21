@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getAllProducts, getProductsByCategory, getBrandSlugsForGenderPage } from "@/lib/products";
+import { getAllProducts, getProductsByCategory, getBrandSlugsForGenderPage, estDoublonDeMarque } from "@/lib/products";
 import { articles } from "@/data/blog";
 import livraison from "@/data/livraison.json";
 
@@ -48,19 +48,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.7,
     })),
-    ...brandSlugsHomme.map((slug) => ({
+    // Les pages filtrées qui doublent /marques/<slug> ont la page marque pour canonique : hors sitemap.
+    ...brandSlugsHomme.filter((s) => !estDoublonDeMarque("parfums-homme", s)).map((slug) => ({
       url: `${BASE}/parfums-homme/${slug}`,
       lastModified: CATALOG_DATE,
       changeFrequency: "monthly" as const,
       priority: 0.65,
     })),
-    ...brandSlugsFemme.map((slug) => ({
+    ...brandSlugsFemme.filter((s) => !estDoublonDeMarque("parfums-femme", s)).map((slug) => ({
       url: `${BASE}/parfums-femme/${slug}`,
       lastModified: CATALOG_DATE,
       changeFrequency: "monthly" as const,
       priority: 0.65,
     })),
-    ...brandSlugsOrientaux.map((slug) => ({
+    ...brandSlugsOrientaux.filter((s) => !estDoublonDeMarque("parfums-orientaux", s)).map((slug) => ({
       url: `${BASE}/parfums-orientaux/${slug}`,
       lastModified: CATALOG_DATE,
       changeFrequency: "monthly" as const,

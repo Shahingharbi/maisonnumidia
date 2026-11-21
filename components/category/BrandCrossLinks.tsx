@@ -1,5 +1,5 @@
 import Link from "@/components/Lien";
-import { getBrandBySlug, getBrandSlugsForGenderPage, getProductsByCategory } from "@/lib/products";
+import { getBrandBySlug, getBrandSlugsForGenderPage, getProductsByCategory, urlMarqueSection } from "@/lib/products";
 
 interface Props {
   /** Section courante : détermine la route des liens (/parfums-homme/<marque>, etc.). */
@@ -51,7 +51,7 @@ export default function BrandCrossLinks({ section, currentSlug, limit = 12 }: Pr
         {autres.map((b) => (
           <Link
             key={b.slug}
-            href={`/${section}/${b.slug}`}
+            href={urlMarqueSection(section, b.slug)}
             className="text-sm text-gray-600 hover:text-[#C9A84C] border border-gray-200 hover:border-[#C9A84C]/30 px-3 py-1.5 rounded-lg transition-colors"
           >
             {b.name}

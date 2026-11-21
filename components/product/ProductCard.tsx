@@ -1,10 +1,10 @@
 import Link from "@/components/Lien";
 import Image from "next/image";
-import type { Product } from "@/lib/types";
+import type { CarteProduit } from "@/lib/types";
 import { formatPrice, getDiscount } from "@/lib/products";
 
 interface ProductCardProps {
-  product: Product;
+  product: CarteProduit;
 }
 
 export default function ProductCard({ product }: ProductCardProps) {

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "@/components/Lien";
-import { getAllProducts, getAllBrands, getProductsByCategory } from "@/lib/products";
+import { getAllProducts, getAllBrands, getProductsByCategory, getBrandSlugsForGenderPage, estDoublonDeMarque } from "@/lib/products";
 import { articles } from "@/data/blog";
 
 export const metadata: Metadata = {
@@ -17,9 +17,11 @@ export default function PlanDuSitePage() {
   const femmeProducts = getProductsByCategory("parfums-femme");
   const orientauxProducts = getProductsByCategory("parfums-orientaux");
 
-  const hommeBrands = [...new Set(hommeProducts.map((p) => p.brandSlug))];
-  const femmeBrands = [...new Set(femmeProducts.map((p) => p.brandSlug))];
-  const orientauxBrands = [...new Set(orientauxProducts.map((p) => p.brandSlug))];
+  // Même liste que generateStaticParams et le sitemap (règle n°2 : par genre, pas par catégorie),
+  // moins les pages filtrées qui doublent la page marque (déjà listée plus haut, règle n°5).
+  const hommeBrands = getBrandSlugsForGenderPage("homme").filter((s) => !estDoublonDeMarque("parfums-homme", s));
+  const femmeBrands = getBrandSlugsForGenderPage("femme").filter((s) => !estDoublonDeMarque("parfums-femme", s));
+  const orientauxBrands = [...new Set(orientauxProducts.map((p) => p.brandSlug))].filter((s) => !estDoublonDeMarque("parfums-orientaux", s));
 
   return (
     <div className="bg-white py-12 sm:py-16">

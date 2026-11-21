@@ -116,9 +116,8 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://images.unsplash.com" />
         <link rel="dns-prefetch" href="https://fimgs.net" />
-        <meta name="google-site-verification" content="RHBd9f496hIQSxv54AwreCcZ5U1BMulBYc8jpPKg9xM" />
-        <meta name="geo.region" content="DZ" />
-        <meta name="geo.placename" content="Blida, Algérie" />
+        {/* google-site-verification, geo.region et geo.placename sortent déjà de `metadata.verification`
+            ci-dessus : les écrire aussi ici les doublait dans chaque page (relevé par l'audit du 21/11/2026). */}
         <meta name="language" content="fr-DZ" />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-77YXRM3HBT"

@@ -2,11 +2,12 @@
 
 import { useState, useMemo } from "react";
 import ProductCard from "@/components/product/ProductCard";
-import type { Product } from "@/lib/types";
+import type { CarteProduit } from "@/lib/types";
 import { ChevronDown } from "lucide-react";
 
 interface FilterableProductGridProps {
-  products: Product[];
+  /** Cartes allégées (versCarte) : ce composant est client, tout ce qu'il reçoit part dans le HTML. */
+  products: CarteProduit[];
   pageSize?: number;
 }
 

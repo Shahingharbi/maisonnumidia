@@ -4,6 +4,7 @@ import {
   getBrandBySlug,
   getBrandSlugsForGenderPage,
   getProductsByCategory,
+  urlMarqueSection,
 } from "@/lib/products";
 
 interface CategoryCatalogIndexProps {
@@ -77,7 +78,7 @@ export default function CategoryCatalogIndex({
         {marques.map((m) => (
           <Link
             key={m.slug}
-            href={`/${category}/${m.slug}`}
+            href={urlMarqueSection(category, m.slug)}
             className="text-sm text-gray-600 hover:text-[#C9A84C] transition-colors"
           >
             {m.name}

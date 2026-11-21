@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "@/components/Lien";
-import { getProductsByCategory, getBrandBySlug } from "@/lib/products";
+import { getProductsByCategory, getBrandBySlug, versCarte, urlMarqueSection } from "@/lib/products";
 import FilterableProductGrid from "@/components/product/FilterableProductGrid";
 import CategoryHero from "@/components/category/CategoryHero";
 import BrandPills from "@/components/category/BrandPills";
@@ -27,7 +27,7 @@ export default function ParfumsHommePage() {
     .slice(0, 25)
     .map(([slug]) => ({
       label: getBrandBySlug(slug)?.name ?? slug,
-      href: `/parfums-homme/${slug}`,
+      href: urlMarqueSection("parfums-homme", slug),
     }));
 
   const itemListSchema = getItemListSchema(
@@ -70,7 +70,7 @@ export default function ParfumsHommePage() {
             <Breadcrumb items={[{ label: "Parfums Homme", href: "/parfums-homme" }]} />
           </div>
 
-          <FilterableProductGrid products={products} />
+          <FilterableProductGrid products={products.map(versCarte)} />
 
           {/* SEO Block 1000+ mots */}
           <div className="mt-20 border-t border-gray-100 pt-14 max-w-4xl">

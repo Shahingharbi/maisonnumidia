@@ -1,8 +1,17 @@
 import data from "@/data/products.json";
-import type { Product, Brand } from "@/lib/types";
+import type { Product, Brand, CarteProduit } from "@/lib/types";
 
 const products = data.products as Product[];
 const brands = data.brands as Brand[];
+
+/** Réduit une fiche aux champs d'une carte : à utiliser pour tout ce qui part vers un composant client. */
+export function versCarte(p: Product): CarteProduit {
+  return {
+    id: p.id, slug: p.slug, name: p.name, brand: p.brand, brandSlug: p.brandSlug, family: p.family,
+    concentration: p.concentration, volume: p.volume, price: p.price, originalPrice: p.originalPrice ?? null,
+    image: p.image, ...(p.badge ? { badge: p.badge } : {}),
+  };
+}
 
 export function getAllProducts(): Product[] {
   return products;
@@ -44,6 +53,32 @@ export function getBrandSlugsForGenderPage(gender: "homme" | "femme"): string[] 
         .map((p) => p.brandSlug)
     ),
   ];
+}
+
+export type SectionMarque = "parfums-homme" | "parfums-femme" | "parfums-orientaux";
+
+const dansSection: Record<SectionMarque, (p: Product) => boolean> = {
+  "parfums-homme": (p) => p.gender === "homme" || p.gender === "unisexe",
+  "parfums-femme": (p) => p.gender === "femme" || p.gender === "unisexe",
+  "parfums-orientaux": (p) => p.category === "parfums-orientaux",
+};
+
+/**
+ * Vrai quand /parfums-femme/<marque> (ou homme, orientaux) affiche EXACTEMENT les mêmes produits
+ * que /marques/<marque> : la marque n'a rien hors de cette section. Mesuré le 21/11/2026 :
+ * 100 pages dans ce cas (Kayali, Elizabeth Arden, Lattafa côté orientaux…), qui se partageaient
+ * les requêtes « parfum <marque> » avec leur page marque, chacune vers la 6e-8e place.
+ * Ces pages restent en ligne (navigation) mais désignent la page marque comme canonique, sortent
+ * du sitemap, et les liens du site pointent directement vers la page marque.
+ */
+export function estDoublonDeMarque(section: SectionMarque, brandSlug: string): boolean {
+  const ps = products.filter((p) => p.brandSlug === brandSlug);
+  return ps.length > 0 && ps.every(dansSection[section]);
+}
+
+/** L'URL à lier pour « la marque X dans la section Y » : la page marque quand la page filtrée la double. */
+export function urlMarqueSection(section: SectionMarque, brandSlug: string): string {
+  return estDoublonDeMarque(section, brandSlug) ? `/marques/${brandSlug}` : `/${section}/${brandSlug}`;
 }
 
 const sansAccent = (s: string) =>
