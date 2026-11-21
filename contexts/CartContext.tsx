@@ -5,6 +5,7 @@ import React, {
   useContext,
   useReducer,
   useEffect,
+  useState,
   ReactNode,
 } from "react";
 
@@ -28,10 +29,13 @@ type CartAction =
   | { type: "ADD_ITEM"; payload: CartItem }
   | { type: "REMOVE_ITEM"; payload: { id: string } }
   | { type: "UPDATE_QUANTITY"; payload: { id: string; quantity: number } }
-  | { type: "CLEAR_CART" };
+  | { type: "CLEAR_CART" }
+  | { type: "CHARGER"; payload: CartState };
 
 interface CartContextValue {
   items: CartItem[];
+  /** false tant que le panier enregistré dans le navigateur n'a pas été relu (premier affichage). */
+  pret: boolean;
   itemCount: number;
   subtotal: number;
   addItem: (item: CartItem) => void;
@@ -49,7 +53,8 @@ function loadFromStorage(): CartState {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return { items: [] };
-    return JSON.parse(raw) as CartState;
+    const lu = JSON.parse(raw) as CartState;
+    return Array.isArray(lu?.items) ? lu : { items: [] };
   } catch {
     return { items: [] };
   }
@@ -105,6 +110,9 @@ function cartReducer(state: CartState, action: CartAction): CartState {
     case "CLEAR_CART":
       return { items: [] };
 
+    case "CHARGER":
+      return action.payload;
+
     default:
       return state;
   }
@@ -115,12 +123,22 @@ function cartReducer(state: CartState, action: CartAction): CartState {
 const CartContext = createContext<CartContextValue | null>(null);
 
 export function CartProvider({ children }: { children: ReactNode }) {
-  const [state, dispatch] = useReducer(cartReducer, undefined, loadFromStorage);
+  // Le panier vit dans le localStorage, que le serveur ne voit pas. Lu dès le premier rendu, il
+  // donnait au navigateur un HTML différent de celui du serveur (la pastille du compteur) et
+  // React signalait une erreur d'hydratation sur toutes les pages dès que le panier n'était pas
+  // vide. On part donc d'un panier vide, comme le HTML servi, et on relit le vrai juste après.
+  const [state, dispatch] = useReducer(cartReducer, { items: [] });
+  const [pret, setPret] = useState(false);
 
-  // Persist to localStorage whenever items change
   useEffect(() => {
-    saveToStorage(state);
-  }, [state]);
+    dispatch({ type: "CHARGER", payload: loadFromStorage() });
+    setPret(true);
+  }, []);
+
+  // Jamais d'écriture avant la relecture : le panier vide de départ effacerait le vrai.
+  useEffect(() => {
+    if (pret) saveToStorage(state);
+  }, [state, pret]);
 
   const itemCount = state.items.reduce((sum, i) => sum + i.quantity, 0);
   const subtotal = state.items.reduce(
@@ -143,6 +161,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
     <CartContext.Provider
       value={{
         items: state.items,
+        pret,
         itemCount,
         subtotal,
         addItem,

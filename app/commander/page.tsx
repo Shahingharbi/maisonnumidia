@@ -26,7 +26,7 @@ const EMAILJS_PUBLIC_KEY  = process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY  ?? "YOUR
 const WHATSAPP_NUMBER = "213794496059";
 
 export default function CommanderPage() {
-  const { items, subtotal, clearCart } = useCart();
+  const { items, pret, subtotal, clearCart } = useCart();
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
@@ -130,6 +130,9 @@ export default function CommanderPage() {
     setLoading(false);
     setSubmitted(true);
   }
+
+  // Panier pas encore relu : ne pas afficher « panier vide » à quelqu'un qui a des articles.
+  if (!pret) return <div className="min-h-screen bg-[#FAFAF8]" />;
 
   // ── Empty cart ──────────────────────────────────────────────────────────────
   if (items.length === 0 && !submitted) {

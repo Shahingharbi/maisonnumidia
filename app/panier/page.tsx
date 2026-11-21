@@ -7,7 +7,10 @@ import { useCart } from "@/contexts/CartContext";
 import { formatPrice } from "@/lib/products";
 
 export default function PanierPage() {
-  const { items, subtotal, removeItem, updateQuantity } = useCart();
+  const { items, pret, subtotal, removeItem, updateQuantity } = useCart();
+
+  // Panier pas encore relu : ne pas afficher « panier vide » à quelqu'un qui a des articles.
+  if (!pret) return <div className="min-h-screen bg-[#FAFAF8]" />;
 
   if (items.length === 0) {
     return (
