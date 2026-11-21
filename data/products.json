@@ -631,7 +631,7 @@
       "related": [
         "born-in-roma-valentino",
         "good-girl-carolina-herrera",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ],
       "h1": "Delina Parfums de Marly Parfum Niche Algérie",
       "originalPrice": null
@@ -743,7 +743,7 @@
       "related": [
         "delina-parfums-de-marly",
         "born-in-roma-valentino",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ],
       "h1": "Kayali Eden Juicy Apple Parfum Mixte Algérie",
       "originalPrice": null
@@ -972,57 +972,6 @@
         "armani-code"
       ],
       "h1": "Versace Eros Parfum Homme Algérie",
-      "originalPrice": null
-    },
-    {
-      "id": "narciso-rodriguez-for-her",
-      "slug": "narciso-rodriguez-for-her",
-      "name": "For Her",
-      "brand": "Narciso Rodriguez",
-      "brandSlug": "narciso-rodriguez",
-      "gender": "femme",
-      "category": "parfums-femme",
-      "family": "Floral Musqué",
-      "concentration": "EDP",
-      "volume": "100ml",
-      "price": 24000,
-      "shortDescription": "For Her associe la rose et la pêche à un cœur musc-ambre, sur un fond de patchouli et de bois de santal. Un floral musqué épuré, presque une seconde peau, pensé pour un usage quotidien aussi bien au bureau qu'en rendez-vous.",
-      "description": "Narciso Rodriguez For Her appartient à la famille florale musquée, une catégorie qui mise sur la peau plutôt que sur l'effusion. La composition reste volontairement resserrée, avec peu de notes mais un travail poussé sur chacune d'elles, ce qui la distingue des florals plus chargés en accords secondaires. C'est un parfum femme construit pour se fondre à la chimie de la peau plutôt que pour s'imposer par-dessus.\n\nL'ouverture associe la rose à la pêche, un duo fruité-floral discret qui ne cherche pas l'effet immédiat. C'est une entrée en matière tout en retenue, pensée pour se fondre rapidement dans le cœur du parfum plutôt que pour marquer les premières minutes. La pêche reste légère, jamais confite, pour ne pas alourdir la rose.\n\nLe musc et l'ambre forment le cœur, un accord chaud et rond qui installe la texture caractéristique du jus. Le patchouli et le bois de santal referment la composition en fond, pour un sillage proche de la peau, sans lourdeur ni note sucrée qui viendrait casser cet équilibre. C'est cette économie de moyens, plus que la variété des notes, qui fait la personnalité du parfum.\n\nCette eau de parfum se porte aussi bien au bureau qu'en rendez-vous, toute l'année, sur une peau qui cherche un musc propre plutôt qu'un sillage démonstratif. Le flacon de 100 ml suit son porteur au quotidien, sans qu'il ait besoin d'y revenir dans la journée. Maison Numidia le propose en Algérie, livraison Yalidine dans les 69 wilayas, paiement à la réception et droit de refus si le colis ne correspond pas à l'attente.",
-      "notes": {
-        "top": [
-          "Rose",
-          "Pêche"
-        ],
-        "heart": [
-          "Musc",
-          "Ambre"
-        ],
-        "base": [
-          "Patchouli",
-          "Bois de Santal"
-        ]
-      },
-      "occasions": [
-        "Bureau",
-        "Quotidien",
-        "Rendez-vous"
-      ],
-      "seasons": [
-        "Toutes saisons"
-      ],
-      "longevity": 4,
-      "sillage": 3,
-      "image": "/images/products/narciso-rodriguez-for-her.jpg",
-      "inStock": true,
-      "featured": false,
-      "badge": null,
-      "isOriental": false,
-      "related": [
-        "delina-parfums-de-marly",
-        "coco-mademoiselle-chanel",
-        "born-in-roma-valentino"
-      ],
-      "h1": "Narciso Rodriguez For Her Parfum Femme Algérie",
       "originalPrice": null
     },
     {
@@ -1464,7 +1413,7 @@
       "related": [
         "armani-my-way",
         "libre-ysl",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ],
       "h1": "Dolce Gabbana Light Blue Parfum Femme Algérie"
     },
@@ -2516,7 +2465,7 @@
       "related": [
         "miss-dior",
         "armani-my-way",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ],
       "h1": "Chloé Signature Parfum Femme Algérie"
     },
@@ -4799,7 +4748,7 @@
       "related": [
         "kenzo-l-eau-homme",
         "chloe-signature",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ],
       "h1": "Kenzo Flower Parfum Femme Algérie"
     },
@@ -5125,7 +5074,7 @@
       "isOriental": false,
       "related": [
         "chloe-signature",
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "5th-avenue-elizabeth-arden"
       ],
       "h1": "Ralph Lauren Romance Parfum Femme Algérie"
@@ -5628,7 +5577,7 @@
       "related": [
         "chloe-signature",
         "givenchy-irresistible",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ],
       "h1": "Miu Miu L'Eau Bleue Parfum Femme Algérie"
     },
@@ -5848,7 +5797,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "chloe-signature",
         "armani-my-way"
       ],
@@ -7315,7 +7264,7 @@
       "isOriental": false,
       "related": [
         "gucci-flora-gorgeous",
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "dior-jadore"
       ]
     },
@@ -8701,7 +8650,7 @@
       "isOriental": false,
       "related": [
         "gucci-bloom",
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "chance-eau-tendre-chanel"
       ]
     },
@@ -9094,7 +9043,7 @@
       "related": [
         "dolce-gabbana-light-blue",
         "gucci-bloom",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ]
     },
     {
@@ -9150,7 +9099,7 @@
       "related": [
         "prada-candy",
         "armani-si",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ]
     },
     {
@@ -9255,7 +9204,7 @@
       "related": [
         "chloe-signature",
         "armani-si",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ]
     },
     {
@@ -9304,7 +9253,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "armani-si",
         "prada-paradoxe"
       ]
@@ -9469,7 +9418,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-pure-musc",
         "gucci-bloom"
       ]
@@ -14084,7 +14033,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-pure-musc",
         "chloe-fleur-de-parfum"
       ]
@@ -26862,7 +26811,7 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-pure-musc",
         "narciso-rodriguez-for-her-fleur-musc"
       ]
@@ -36277,7 +36226,7 @@
     {
       "id": "narciso-rodriguez-for-her-edp-rouge",
       "slug": "narciso-rodriguez-for-her-edp-rouge",
-      "h1": "Narciso Rodriguez For Her Eau de Parfum Parfum Femme Algérie",
+      "h1": "Narciso Rodriguez For Her Eau de Parfum Femme Algérie",
       "name": "For Her Eau de Parfum",
       "brand": "Narciso Rodriguez",
       "brandSlug": "narciso-rodriguez",
@@ -36321,9 +36270,9 @@
       "featured": false,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
         "narciso-pure-musc",
-        "narciso-rodriguez-musc-noir"
+        "narciso-rodriguez-musc-noir",
+        "narciso-rodriguez-for-her-fleur-musc"
       ]
     },
     {
@@ -40720,7 +40669,7 @@
       "isOriental": false,
       "related": [
         "narciso-rodriguez-musc-noir",
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-rodriguez-cristal"
       ]
     },
@@ -40772,7 +40721,7 @@
       "badge": null,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-rodriguez-poudree",
         "narciso-rodriguez-musc-noir"
       ]
@@ -40828,7 +40777,7 @@
       "related": [
         "narciso-rodriguez-poudree",
         "narciso-rodriguez-cristal",
-        "narciso-rodriguez-for-her"
+        "narciso-rodriguez-for-her-edp-rouge"
       ]
     },
     {
@@ -40878,7 +40827,7 @@
       "isOriental": false,
       "related": [
         "narciso-rodriguez-cristal",
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-rodriguez-for-her-musc-nude"
       ]
     },
@@ -44422,7 +44371,7 @@
       "badge": null,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-rodriguez-musc-noir",
         "narciso-rodriguez-ambree"
       ]
@@ -54205,7 +54154,7 @@
       "badge": null,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-rodriguez-all-of-me",
         "narciso-rodriguez-musc-noir"
       ]
@@ -61061,7 +61010,7 @@
       "badge": null,
       "isOriental": false,
       "related": [
-        "narciso-rodriguez-for-her",
+        "narciso-rodriguez-for-her-edp-rouge",
         "narciso-rodriguez-all-of-me",
         "narciso-rodriguez-for-her-musc-noir-rose"
       ]

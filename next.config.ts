@@ -111,6 +111,10 @@ const nextConfig: NextConfig = {
       // Ces deux pages marque n'avaient plus de produit oriental (0 impression en 16 mois).
       { source: "/parfums-orientaux/issey-miyake", destination: "/parfums-homme/issey-miyake", permanent: true },
       { source: "/parfums-orientaux/karl-lagerfeld", destination: "/parfums-homme/karl-lagerfeld", permanent: true },
+      // 21/11/2026 : deux fiches pour le même parfum, For Her Eau de Parfum (2006, rose, pêche, musc).
+      // fragrantica.com/perfume/Narciso-Rodriguez/Narciso-Rodriguez-for-Her-Eau-de-Parfum-14319.html
+      // On garde la fiche qui avait 4 fois plus d'impressions.
+      { source: "/parfums/narciso-rodriguez-for-her", destination: "/parfums/narciso-rodriguez-for-her-edp-rouge", permanent: true },
     ];
   },
 };

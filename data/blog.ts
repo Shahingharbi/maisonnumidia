@@ -574,7 +574,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 **Prix en Algérie : {{prix:chloe-signature}}**
 
-[Narciso Rodriguez For Her](/parfums/narciso-rodriguez-for-her) est le parfum de la discrétion absolue. Son accord musc-rose d'une pureté remarquable crée une signature seconde peau — légère, élégante, toujours présente mais jamais envahissante.
+[Narciso Rodriguez For Her](/parfums/narciso-rodriguez-for-her-edp-rouge) est le parfum de la discrétion absolue. Son accord musc-rose d'une pureté remarquable crée une signature seconde peau — légère, élégante, toujours présente mais jamais envahissante.
 
 **Profil olfactif :** Musc · Rose · Bois de Santal · Ambres
 
@@ -584,7 +584,7 @@ La référence absolue. [Coco Mademoiselle](/parfums/coco-mademoiselle-chanel) d
 
 ## 10. Givenchy Irresistible EDP — La Meilleure Nouveauté
 
-**Prix en Algérie : {{prix:narciso-rodriguez-for-her}}**
+**Prix en Algérie : {{prix:narciso-rodriguez-for-her-edp-rouge}}**
 
 [Givenchy Irresistible](/parfums/givenchy-irresistible) est la révélation de ces dernières années. Rose fraîche, muguet et bois de santal créent un floral boisé moderne d'une légèreté et d'une élégance parfaites. Le rapport qualité-prix est excellent pour une fragrance de cette qualité.
 
@@ -659,7 +659,7 @@ Les floraux boisés ajoutent une profondeur boisée aux notes florales, créant 
 
 [Givenchy Irresistible EDP](/parfums/givenchy-irresistible) — Rose fraîche et muguet sur un fond de bois de santal. Moderne et élégant. {{prix:givenchy-irresistible}}.
 
-[Narciso Rodriguez For Her EDP](/parfums/narciso-rodriguez-for-her) — Musc et rose sur bois de santal — le floral boisé le plus discret et le plus élégant. {{prix:narciso-rodriguez-for-her}}.
+[Narciso Rodriguez For Her EDP](/parfums/narciso-rodriguez-for-her-edp-rouge) — Musc et rose sur bois de santal — le floral boisé le plus discret et le plus élégant. {{prix:narciso-rodriguez-for-her-edp-rouge}}.
 
 ### 3. Floral Oriental — Pour les Soirées et Occasions Spéciales
 
@@ -1297,9 +1297,9 @@ Tous les parfums présentés sont en stock, livrables sous 24 à 72 heures via Y
 
 ## 9. Narciso Rodriguez For Her EDP
 
-[For Her](/parfums/narciso-rodriguez-for-her) est le parfum du musc féminin par excellence. Sa formule autour du musc, de la rose et du santal crée une signature seconde peau d'une élégance discrète absolue. C'est le parfum qu'on ne sent pas en entrant dans la pièce mais qui laisse un sillage subtil dont tout le monde se souvient. Choix de connaisseuse.
+[For Her](/parfums/narciso-rodriguez-for-her-edp-rouge) est le parfum du musc féminin par excellence. Sa formule autour du musc, de la rose et du santal crée une signature seconde peau d'une élégance discrète absolue. C'est le parfum qu'on ne sent pas en entrant dans la pièce mais qui laisse un sillage subtil dont tout le monde se souvient. Choix de connaisseuse.
 
-**Prix :** {{prix:narciso-rodriguez-for-her}} · **Occasion :** bureau, intime · **Famille :** musc floral
+**Prix :** {{prix:narciso-rodriguez-for-her-edp-rouge}} · **Occasion :** bureau, intime · **Famille :** musc floral
 
 ## 10. Paco Rabanne Lady Million EDP
 
