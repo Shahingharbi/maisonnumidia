@@ -2,8 +2,8 @@
  "slug": "giardino-benessere-hyades",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Giardino-Benessere/Hyades-79258.html",
+  "id": 79258,
   "nomOfficiel": "Hyades",
   "marqueOfficielle": "Giardino Benessere",
   "genre": "unisexe",
@@ -11,29 +11,29 @@
  },
  "notes": {
   "top": [
-   "Lavande de Bulgarie",
+   "Lavande",
    "Bergamote de Calabre",
-   "Anis etoile",
+   "Anis étoilé",
    "Ananas"
   ],
   "heart": [
-   "Geranium",
+   "Géranium",
    "Gingembre",
    "Pomme verte",
    "Rose"
   ],
   "base": [
    "Ambre gris",
-   "Feve tonka",
-   "Cedre",
+   "Fève tonka",
+   "Cèdre",
    "Musc",
    "Santal"
   ]
  },
- "famille": "Ambre Fougere",
+ "famille": "Aromatique Fruité",
  "concentrationConfirmee": "Extrait de Parfum",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica remontee par la recherche (budget WebSearch epuise apres 5 recherches); existence etablie par detaillants, site de marque et Parfumo. ID Fragrantica non deduit. Collection Titani, extrait de parfum 100ml; Parfumo et detaillants.",
- "confiance": "basse",
+ "remarque": "Extrait de parfum 100 ml annoncé par la marque (collection Titans).",
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

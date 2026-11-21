@@ -2,8 +2,8 @@
  "slug": "victor-rolf-v-r-flowerbomb-midnight",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Flowerbomb-Midnight-53550.html",
+  "id": 53550,
   "nomOfficiel": "Flowerbomb Midnight",
   "marqueOfficielle": "Viktor&Rolf",
   "genre": "femme",
@@ -12,23 +12,21 @@
  "notes": {
   "top": [
    "Cassis",
-   "Grenade",
-   "Bergamote"
+   "Grenade"
   ],
   "heart": [
    "Jasmin de nuit",
    "Pivoine"
   ],
   "base": [
-   "Patchouli",
-   "Praline",
-   "Musc blanc"
+   "Musc blanc",
+   "Vanille"
   ]
  },
- "famille": "Floral Fruite Gourmand",
+ "famille": "Floral Fruité",
  "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica remontee par la recherche (budget WebSearch epuise apres 5 recherches); existence etablie par detaillants, site de marque et Parfumo. ID Fragrantica non deduit. Probablement arrete par la marque (page discontinued sur le site Viktor&Rolf). Notes issues de detaillants.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

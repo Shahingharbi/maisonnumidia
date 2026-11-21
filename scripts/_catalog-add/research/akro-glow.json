@@ -2,8 +2,8 @@
  "slug": "akro-glow",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Akro/Glow-94352.html",
+  "id": 94352,
   "nomOfficiel": "Glow",
   "marqueOfficielle": "Akro",
   "genre": "unisexe",
@@ -14,19 +14,17 @@
    "Poivre rose"
   ],
   "heart": [
-   "Encens",
-   "Rose"
+   "Encens"
   ],
   "base": [
-   "Ambre",
-   "Benjoin",
-   "Vanille"
+   "Vanille",
+   "Ambre"
   ]
  },
- "famille": "Oriental Vanille",
- "concentrationConfirmee": "Extrait de Parfum",
+ "famille": "Oriental Vanillé",
+ "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Parfumeur Olivier Cresp. Existe en Extrait de Parfum et EDP, concentration du lot boutique a verifier.",
- "confiance": "moyenne",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

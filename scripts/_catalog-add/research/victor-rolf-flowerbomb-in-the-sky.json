@@ -2,8 +2,8 @@
  "slug": "victor-rolf-flowerbomb-in-the-sky",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Flowerbomb-In-The-Sky-58876.html",
+  "id": 58876,
   "nomOfficiel": "Flowerbomb In The Sky",
   "marqueOfficielle": "Viktor&Rolf",
   "genre": "femme",
@@ -11,20 +11,24 @@
  },
  "notes": {
   "top": [
-   "Mandarine",
-   "Bergamote"
+   "Pamplemousse",
+   "Bergamote",
+   "Mandarine"
   ],
   "heart": [
-   "Jasmin sambac"
+   "Rose",
+   "Bourgeons de cassis",
+   "Muguet"
   ],
   "base": [
-   "Patchouli"
+   "Patchouli",
+   "Jasmin sambac"
   ]
  },
- "famille": "Chypre Floral",
+ "famille": "Chypré Floral",
  "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica remontee par la recherche (budget WebSearch epuise apres 5 recherches); existence etablie par detaillants, site de marque et Parfumo. ID Fragrantica non deduit. Edition limitee 2020 exclusive travel retail (probablement epuisee). Bourgeons de cassis cites sans niveau precis, omis.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

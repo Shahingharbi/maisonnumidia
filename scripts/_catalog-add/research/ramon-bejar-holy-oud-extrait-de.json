@@ -1,16 +1,36 @@
 {
  "slug": "ramon-bejar-holy-oud-extrait-de",
- "existe": false,
- "fragrantica": null,
- "notes": {
-  "top": [],
-  "heart": [],
-  "base": []
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Ramon-Bejar/Holy-Oud-Extrait-de-Parfum-87890.html",
+  "id": 87890,
+  "nomOfficiel": "Holy Oud Extrait de Parfum",
+  "marqueOfficielle": "Ramón Béjar",
+  "genre": "unisexe",
+  "annee": 2023
  },
- "famille": null,
- "concentrationConfirmee": null,
- "volumeExiste": null,
- "remarque": "Aucune page Fragrantica trouvee dans le resultat de recherche ; le parfum apparait chez des revendeurs mais existence non prouvee par Fragrantica (regle 9).",
- "confiance": "moyenne",
+ "notes": {
+  "top": [
+   "Oud",
+   "Notes boisées"
+  ],
+  "heart": [
+   "Benjoin",
+   "Notes florales",
+   "Noix de muscade",
+   "Ambre"
+  ],
+  "base": [
+   "Myrrhe",
+   "Santal",
+   "Bois d'agar",
+   "Encens"
+  ]
+ },
+ "famille": "Oriental Boisé",
+ "concentrationConfirmee": "Extrait de Parfum",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

@@ -1,0 +1,37 @@
+{
+ "slug": "french-avenue-frostbite",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Frostbite-123532.html",
+  "id": 123532,
+  "nomOfficiel": "Frostbite",
+  "marqueOfficielle": "Aromatix X French Avenue",
+  "genre": "unisexe",
+  "annee": 2025
+ },
+ "notes": {
+  "top": [
+   "Myrtille",
+   "Mangue",
+   "Pomme",
+   "Bergamote",
+   "Cardamome"
+  ],
+  "heart": [
+   "Lavande",
+   "Violette",
+   "Jasmin"
+  ],
+  "base": [
+   "Ambre",
+   "Ambre gris",
+   "Vanille"
+  ]
+ },
+ "famille": "Boisé Aromatique",
+ "concentrationConfirmee": null,
+ "volumeExiste": true,
+ "remarque": "Marque Fragrantica : Aromatix X French Avenue",
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

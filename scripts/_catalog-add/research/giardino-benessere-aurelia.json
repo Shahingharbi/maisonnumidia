@@ -1,0 +1,35 @@
+{
+ "slug": "giardino-benessere-aurelia",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Giardino-Benessere/Aurelia-44277.html",
+  "id": 44277,
+  "nomOfficiel": "Aurelia",
+  "marqueOfficielle": "Giardino Benessere",
+  "genre": "unisexe",
+  "annee": 2017
+ },
+ "notes": {
+  "top": [
+   "Noix de muscade",
+   "Cardamome",
+   "Thym",
+   "Bergamote"
+  ],
+  "heart": [
+   "Cèdre",
+   "Armoise",
+   "Bois de gaïac"
+  ],
+  "base": [
+   "Patchouli",
+   "Asphalte"
+  ]
+ },
+ "famille": "Aromatique Épicé",
+ "concentrationConfirmee": null,
+ "volumeExiste": true,
+ "remarque": "Concentration non visible.",
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

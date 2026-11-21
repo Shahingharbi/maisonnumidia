@@ -2,8 +2,8 @@
  "slug": "akro-east",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Akro/East-83772.html",
+  "id": 83772,
   "nomOfficiel": "East",
   "marqueOfficielle": "Akro",
   "genre": "unisexe",
@@ -14,17 +14,17 @@
    "Framboise"
   ],
   "heart": [
-   "Oud assafi",
+   "Oud Assafi",
    "Cuir"
   ],
   "base": [
    "Ambroxan"
   ]
  },
- "famille": "Boise Oud",
+ "famille": "Boisé Cuiré",
  "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Parfumeur Olivier Cresp. Existe en EDP 100ml et Extrait.",
- "confiance": "moyenne",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

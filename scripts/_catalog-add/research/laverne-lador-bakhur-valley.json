@@ -1,27 +1,16 @@
 {
  "slug": "laverne-lador-bakhur-valley",
- "existe": true,
- "fragrantica": {
-  "url": null,
-  "id": null,
-  "nomOfficiel": "Ladur Bakhoor Valley",
-  "marqueOfficielle": "Laverne",
-  "genre": "unisexe",
-  "annee": null
- },
+ "existe": false,
+ "fragrantica": null,
  "notes": {
-  "top": [
-   "Figue",
-   "Cardamome",
-   "The noir"
-  ],
+  "top": [],
   "heart": [],
   "base": []
  },
  "famille": null,
- "concentrationConfirmee": "EDP",
- "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Nom officiel probable Ladur Bakhoor Valley (laverne.com), distinct de La Dor Bakhur. Concentration non confirmee, pyramide partielle.",
+ "concentrationConfirmee": null,
+ "volumeExiste": false,
+ "remarque": "Aucune page /perfume/ 'La'dor Bakhur Valley' ; seule La'dor Bakhur Classic existe (couverte par laverne-la-dor-bakhur).",
  "confiance": "basse",
  "verifieLe": "2026-11-21"
 }

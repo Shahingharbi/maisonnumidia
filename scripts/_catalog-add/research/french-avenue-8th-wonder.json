@@ -1,0 +1,40 @@
+{
+ "slug": "french-avenue-8th-wonder",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/French-Avenue/8th-Wonder-122279.html",
+  "id": 122279,
+  "nomOfficiel": "8th Wonder",
+  "marqueOfficielle": "French Avenue",
+  "genre": "unisexe",
+  "annee": 2025
+ },
+ "notes": {
+  "top": [
+   "Cardamome",
+   "Pomme d'amour",
+   "Poivre rose"
+  ],
+  "heart": [
+   "Liqueur",
+   "Datte",
+   "Notes boozy",
+   "Davana",
+   "Osmanthus"
+  ],
+  "base": [
+   "Myrrhe",
+   "Ambre",
+   "Benjoin",
+   "Styrax",
+   "Labdanum",
+   "Patchouli"
+  ]
+ },
+ "famille": "Oriental Boisé",
+ "concentrationConfirmee": null,
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

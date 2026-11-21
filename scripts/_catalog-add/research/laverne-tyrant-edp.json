@@ -2,8 +2,8 @@
  "slug": "laverne-tyrant-edp",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Laverne/Tyrant-96068.html",
+  "id": 96068,
   "nomOfficiel": "Tyrant",
   "marqueOfficielle": "Laverne",
   "genre": "unisexe",
@@ -11,24 +11,24 @@
  },
  "notes": {
   "top": [
+   "Lavande",
    "Bergamote",
-   "Cypres",
-   "Lavande"
+   "Feuille de cyprès"
   ],
   "heart": [
-   "Jasmin",
-   "Bois de santal"
+   "Bois de santal",
+   "Jasmin"
   ],
   "base": [
-   "Ambre",
    "Vanille",
-   "Vetiver"
+   "Ambre",
+   "Vétiver"
   ]
  },
- "famille": "Oriental Boise",
+ "famille": "Oriental Boisé",
  "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Notes de fragplace, un blog donne une pyramide differente.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

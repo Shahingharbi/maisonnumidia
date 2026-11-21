@@ -2,22 +2,32 @@
  "slug": "laverne-atlantis-homme-edp",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Laverne/Atlantis-Homme-96069.html",
+  "id": 96069,
   "nomOfficiel": "Atlantis Homme",
   "marqueOfficielle": "Laverne",
   "genre": "unisexe",
-  "annee": null
+  "annee": 2024
  },
  "notes": {
-  "top": [],
-  "heart": [],
-  "base": []
+  "top": [
+   "Bergamote",
+   "Pamplemousse",
+   "Poivre rose"
+  ],
+  "heart": [
+   "Thé vert",
+   "Cassis"
+  ],
+  "base": [
+   "Ambroxan",
+   "Musc blanc"
+  ]
  },
- "famille": null,
+ "famille": "Aromatique Vert",
  "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Pyramide non visible; genre incertain (revendeur: unisexe). Ne pas confondre avec French Avenue Atlantis.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

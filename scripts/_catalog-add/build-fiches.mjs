@@ -165,6 +165,12 @@ const ALIAS_MARQUE = {
   "by kilian": "Kilian",
   "frederic malle editions de parfums": "Frédéric Malle",
   "frederic malle": "Frédéric Malle",
+  // La maison s'écrit avec un D majuscule ; Fragrantica alterne les deux graphies selon la page,
+  // et une fiche sur 28 partait sous « Fragrance du Bois ».
+  "fragrance du bois": "Fragrance Du Bois",
+  // Fragrantica range les collaborations sous une maison à part ; en boutique elles se vendent
+  // et se cherchent sous French Avenue. Une seule page marque au lieu de deux moitiés.
+  "aromatix x french avenue": "French Avenue",
 };
 
 // Lignes qu'une maison vend sous son propre nom : Fragrantica range "Asdaaf" à part, mais c'est

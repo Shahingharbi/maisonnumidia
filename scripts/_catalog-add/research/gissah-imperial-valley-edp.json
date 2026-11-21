@@ -1,0 +1,35 @@
+{
+ "slug": "gissah-imperial-valley-edp",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Gissah/Imperial-Valley-80051.html",
+  "id": 80051,
+  "nomOfficiel": "Imperial Valley",
+  "marqueOfficielle": "Gissah",
+  "genre": "unisexe",
+  "annee": 2021
+ },
+ "notes": {
+  "top": [
+   "Bergamote de Sicile",
+   "Poivre rose",
+   "Davana"
+  ],
+  "heart": [
+   "Oud",
+   "Ambre blanc",
+   "Romarin"
+  ],
+  "base": [
+   "Cuir",
+   "Musc",
+   "Vétiver d'Haïti"
+  ]
+ },
+ "famille": "Oriental Boisé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": null,
+ "remarque": "Volume 200 ml non confirme (une version Fragrance Mist existe, id 126279).",
+ "confiance": "moyenne",
+ "verifieLe": "2026-11-21"
+}

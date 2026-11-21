@@ -2,22 +2,34 @@
  "slug": "victor-rolf-v-r-spicebomb-night",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Night-Vision-Eau-de-Toilette-53344.html",
+  "id": 53344,
   "nomOfficiel": "Spicebomb Night Vision Eau de Toilette",
   "marqueOfficielle": "Viktor&Rolf",
   "genre": "homme",
   "annee": 2019
  },
  "notes": {
-  "top": [],
-  "heart": [],
-  "base": []
+  "top": [
+   "Pomme verte",
+   "Cardamome",
+   "Mandarine"
+  ],
+  "heart": [
+   "Poivre",
+   "Clou de girofle",
+   "Sauge"
+  ],
+  "base": [
+   "Amande",
+   "Fève tonka",
+   "Notes boisées"
+  ]
  },
- "famille": null,
+ "famille": "Oriental Fougère",
  "concentrationConfirmee": "EDT",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica remontee par la recherche (budget WebSearch epuise apres 5 recherches); existence etablie par detaillants, site de marque et Parfumo. ID Fragrantica non deduit. EDT 2019 confirme par Parfumo; pyramide non relevee.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

@@ -2,28 +2,32 @@
  "slug": "victor-rolf-v-r-spicebomb-infrared",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
-  "nomOfficiel": "Spicebomb Infrared Eau de Toilette",
+  "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Infrared-66514.html",
+  "id": 66514,
+  "nomOfficiel": "Spicebomb Infrared",
   "marqueOfficielle": "Viktor&Rolf",
   "genre": "homme",
-  "annee": null
+  "annee": 2021
  },
  "notes": {
   "top": [
-   "Piment habanero rouge"
+   "Fruits rouges",
+   "Poivre rose",
+   "Safran"
   ],
   "heart": [
-   "Baies rouges"
+   "Cannelle",
+   "Poivre rouge"
   ],
   "base": [
+   "Tabac",
    "Benjoin"
   ]
  },
- "famille": "Epice",
+ "famille": "Oriental Épicé",
  "concentrationConfirmee": "EDT",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica remontee par la recherche (budget WebSearch epuise apres 5 recherches); existence etablie par detaillants, site de marque et Parfumo. ID Fragrantica non deduit. Notes EDT issues de Lookfantastic. Il existe aussi un EDP Infrared distinct. Volume 90ml confirme chez detaillants.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

@@ -1,0 +1,35 @@
+{
+ "slug": "hawas-elixir",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Elixir-110808.html",
+  "id": 110808,
+  "nomOfficiel": "Hawas Elixir",
+  "marqueOfficielle": "Rasasi",
+  "genre": "unisexe",
+  "annee": 2024
+ },
+ "notes": {
+  "top": [
+   "Menthe",
+   "Bergamote",
+   "Armoise"
+  ],
+  "heart": [
+   "Chocolat noir",
+   "Lavande",
+   "Benjoin"
+  ],
+  "base": [
+   "Vanille",
+   "Fève tonka",
+   "Musc blanc"
+  ]
+ },
+ "famille": "Oriental Vanillé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Ligne Rasasi ; concentration non confirmee",
+ "confiance": "moyenne",
+ "verifieLe": "2026-11-21"
+}

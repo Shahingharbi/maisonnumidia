@@ -1,1 +1,35 @@
-{"slug":"l-atelier-parfum-white-mirage-opus2","existe":true,"fragrantica":{"url":null,"id":null,"nomOfficiel":"White Mirage","marqueOfficielle":"L'Atelier Parfum","genre":null,"annee":2024},"notes":{"top":["Bergamote","Jasmin indien","Poire Williams"],"heart":["Fleur d'oranger","Magnolia","Tubéreuse"],"base":["Patchouli","Bois de santal","Vétiver d'Haïti"]},"famille":"Floral Boisé","concentrationConfirmee":"EDP","volumeExiste":true,"remarque":"Aucune page Fragrantica trouvée par la recherche (retailers seulement : Liberty London, The Perfume Shop, Sephora, Lyko). Parfum réel (Opus 2, Alexis Dadier). Genre et ID Fragrantica à vérifier.","confiance":"basse","verifieLe":"2026-11-21"}
+{
+ "slug": "l-atelier-parfum-white-mirage-opus2",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/L-Atelier-Parfum/White-Mirage-76756.html",
+  "id": 76756,
+  "nomOfficiel": "White Mirage",
+  "marqueOfficielle": "L'Atelier Parfum",
+  "genre": "unisexe",
+  "annee": 2022
+ },
+ "notes": {
+  "top": [
+   "Jasmin indien",
+   "Poire",
+   "Bergamote"
+  ],
+  "heart": [
+   "Tubéreuse",
+   "Magnolia",
+   "Fleur d'oranger"
+  ],
+  "base": [
+   "Bois de santal",
+   "Patchouli",
+   "Vétiver d'Haïti"
+  ]
+ },
+ "famille": "Floral Blanc",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

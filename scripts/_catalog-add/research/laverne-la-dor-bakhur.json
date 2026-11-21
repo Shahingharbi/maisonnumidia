@@ -2,16 +2,17 @@
  "slug": "laverne-la-dor-bakhur",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
-  "nomOfficiel": "La Dor Bakhur",
+  "url": "https://www.fragrantica.com/perfume/Laverne/Lador-Bakhur-Classic-96079.html",
+  "id": 96079,
+  "nomOfficiel": "La'dor Bakhur Classic",
   "marqueOfficielle": "Laverne",
   "genre": "unisexe",
   "annee": 2024
  },
  "notes": {
   "top": [
-   "Mandarine"
+   "Mandarine",
+   "Encens"
   ],
   "heart": [
    "Iris",
@@ -19,13 +20,13 @@
    "Patchouli"
   ],
   "base": [
-   "Bois de gaiac"
+   "Bois de gaïac"
   ]
  },
- "famille": "Floral Boise Musque",
- "concentrationConfirmee": "EDP",
+ "famille": "Boisé Oriental",
+ "concentrationConfirmee": null,
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Le site Laverne donne une autre pyramide pour le meme nom (cardamome, cuir, cafe...); notes incertaines. 200ml confirme.",
- "confiance": "basse",
+ "remarque": "Libelle 'la'dor bakhur' rapproché de la version Classic (seule La'dor Bakhur trouvee sur Fragrantica) ; doute leger sur la declinaison.",
+ "confiance": "moyenne",
  "verifieLe": "2026-11-21"
 }

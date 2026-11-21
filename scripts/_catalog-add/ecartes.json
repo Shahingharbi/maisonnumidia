@@ -16,6 +16,18 @@
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
+  "slug": "affinessence-prive-rose-reglisse-collection-notes",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "affinessence-rose-reglisse",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "affinessence-safran-neroli",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "afnan-9-pm-rebel-edp",
   "raison": "confiance basse"
  },
@@ -26,6 +38,42 @@
  {
   "slug": "afnan-zimaya-fatima-extrait-de-parfum",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "ahmed-al-maghribi-matcha",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "ahmed-al-maghribi-sapphire",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "akro-awake",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "akro-dark",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "akro-infuse",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "akro-ink",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "akro-malt",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "akro-night",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "akro-smoke",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "amouage-beach-hut-man-eau-de",
@@ -192,12 +240,16 @@
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
+  "slug": "aramis-deluxe-edition-eau-de-toilette",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "armaf-club-de-nuit-2024-precieux",
   "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "armaf-club-de-nuit-blue-iconic",
-  "raison": "doublon probable de armaf-club-de-nuit-blue-iconic"
+  "raison": "doublon de armaf-club-de-nuit-blue-iconic (même marque, même nom \"Club de Nuit Blue Iconic\")"
  },
  {
   "slug": "armaf-club-de-nuit-iconic",
@@ -213,7 +265,7 @@
  },
  {
   "slug": "armaf-club-de-nuit-intense-pur",
-  "raison": "doublon probable de armaf-club-de-nuit-intense-man-parfum"
+  "raison": "doublon de armaf-club-de-nuit-intense-man-parfum (même marque, même nom \"Club de Nuit Intense Man Parfum\")"
  },
  {
   "slug": "armaf-club-de-nuit-precieux-iv",
@@ -229,7 +281,7 @@
  },
  {
   "slug": "armaf-odyssey-mandarin-sky-edp",
-  "raison": "doublon probable de armaf-odyssey-mandarin-sky"
+  "raison": "doublon de armaf-odyssey-mandarin-sky (même marque, même nom \"Odyssey Mandarin Sky\")"
  },
  {
   "slug": "armaf-odyssey-mega-limited-edition",
@@ -237,7 +289,7 @@
  },
  {
   "slug": "armaf-the-lion-s-club-monarque",
-  "raison": "doublon probable de armaf-monarque"
+  "raison": "doublon de armaf-monarque (même marque, même nom \"Monarque\")"
  },
  {
   "slug": "assaf-angel-edp",
@@ -368,6 +420,10 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "blend-oud-voyage-collection-marrakech-eau",
+  "raison": "doublon probable de blend-oud-marrakech"
+ },
+ {
   "slug": "boucheron-oud-de-carthage",
   "raison": "parfum inexistant d'après Fragrantica"
  },
@@ -385,7 +441,7 @@
  },
  {
   "slug": "burberry-her-elixir-de-parfum",
-  "raison": "doublon probable de burberry-her-elixir-de-parfum"
+  "raison": "doublon de burberry-her-elixir-de-parfum (même marque, même nom \"Her Elixir de Parfum\")"
  },
  {
   "slug": "burberry-my",
@@ -460,8 +516,12 @@
   "raison": "moins de 3 notes olfactives"
  },
  {
+  "slug": "cabotine-de-gres",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "cacharel-amor-love-festival-edt",
-  "raison": "doublon probable de cacharel-amor-love-festival"
+  "raison": "doublon de cacharel-amor-love-festival (même marque, même nom \"Amor Amor Love Festival\")"
  },
  {
   "slug": "cacharel-amor-summer-edt",
@@ -701,7 +761,7 @@
  },
  {
   "slug": "chloe-orchidee-de-minuit-pour-homme",
-  "raison": "doublon probable de chloe-orchidee-de-minuit"
+  "raison": "doublon de chloe-orchidee-de-minuit (même marque, même nom \"Orchidée de Minuit\")"
  },
  {
   "slug": "chopard-sparkling-love",
@@ -712,12 +772,48 @@
   "raison": "doublon de chopard-wish (même marque, même nom \"Wish\")"
  },
  {
+  "slug": "christian-louboutin-loubifunk",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "clarins-eau-dynamisante-douche-fraiche-energisante",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-hydra-essentiel-gel-visage-desalterant",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-multi-active-jour-gelee-peaux",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-multi-active-jour-peaux-seches",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-multi-active-nuit-confort-peaux",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-multi-active-nuit-legere-peaux",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-nutri-lumiere-jour-anti-age",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "clarins-nutri-lumiere-revive",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
   "slug": "clinique-happy-for-men-premier-jour",
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "clinique-happy-for-women-parfum-sparay",
-  "raison": "doublon probable de clinique-happy-for-women"
+  "raison": "doublon de clinique-happy-for-women (même marque, même nom \"Happy For Women\")"
  },
  {
   "slug": "clinique-happy-heart-edp",
@@ -802,6 +898,10 @@
  {
   "slug": "clive-christian-xxi-art-deco-cypress",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "club-de-nuit-edt-intense-man",
+  "raison": "doublon de club-de-nuit-intense-armaf (même marque, même nom \"Club de Nuit Intense Man\")"
  },
  {
   "slug": "coach-new-york-eau-de-toilette",
@@ -1049,7 +1149,7 @@
  },
  {
   "slug": "elie-saab-le-parfum-bridal",
-  "raison": "doublon probable de elie-saab-le-parfum-bridal"
+  "raison": "doublon de elie-saab-le-parfum-bridal (même marque, même nom \"Le Parfum Bridal\")"
  },
  {
   "slug": "elizabeth-arden-5th-avenue-nyc-eau",
@@ -1065,7 +1165,7 @@
  },
  {
   "slug": "elizabeth-arden-after-five-edp",
-  "raison": "doublon probable de elizabeth-arden-5th-avenue-after-five"
+  "raison": "doublon de elizabeth-arden-5th-avenue-after-five (même marque, même nom \"5th Avenue After Five\")"
  },
  {
   "slug": "elizabeth-arden-green-tea-bamboo",
@@ -1093,11 +1193,11 @@
  },
  {
   "slug": "escada-fairy-love",
-  "raison": "doublon probable de escada-fairy-love"
+  "raison": "doublon de escada-fairy-love (même marque, même nom \"Fairy Love\")"
  },
  {
   "slug": "escada-show-me-love-edp",
-  "raison": "doublon probable de escada-show-me-love"
+  "raison": "doublon de escada-show-me-love (même marque, même nom \"Show Me Love\")"
  },
  {
   "slug": "escada-summer-festival-edition-limitee-eau",
@@ -1204,6 +1304,10 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "french-avenue-liquid-brun-limited-edition",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "giorgio-armani-alhambra-your-touch-for-2",
   "raison": "parfum inexistant d'après Fragrantica"
  },
@@ -1258,6 +1362,10 @@
  {
   "slug": "givenchy-pour-homme-edt-new-packaging",
   "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "gres-cabotine-gold-edt",
+  "raison": "doublon probable de gres-cabotine-gold"
  },
  {
   "slug": "gucci-guilty-cologne-edt",
@@ -1481,7 +1589,7 @@
  },
  {
   "slug": "issey-miyake-l-eau-d-pivoine",
-  "raison": "doublon probable de issey-miyake-l-eau-d-pivoine"
+  "raison": "doublon de issey-miyake-l-eau-d-pivoine (même marque, même nom \"L'Eau d'Issey Pivoine\")"
  },
  {
   "slug": "issey-miyake-l-eau-d-pour",
@@ -1489,7 +1597,7 @@
  },
  {
   "slug": "issey-miyake-l-eau-d-rose",
-  "raison": "doublon probable de issey-miyake-l-eau-d-rose"
+  "raison": "doublon de issey-miyake-l-eau-d-rose (même marque, même nom \"L'Eau d'Issey Rose & Rose\")"
  },
  {
   "slug": "issey-miyake-l-eau-d-sport-2",
@@ -1497,7 +1605,7 @@
  },
  {
   "slug": "issey-miyake-leau-dissey-pivoine-peony",
-  "raison": "doublon probable de issey-miyake-l-eau-d-pivoine"
+  "raison": "doublon de issey-miyake-l-eau-d-pivoine (même marque, même nom \"L'Eau d'Issey Pivoine\")"
  },
  {
   "slug": "jacadi-eau-de-senteur-toute-petite",
@@ -1514,6 +1622,10 @@
  {
   "slug": "jacadi-tout-petit-eau-de-senteur",
   "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "jaguar-classic-edt",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "jean-paul-gaultier-hugo-boss-jeans",
@@ -1573,7 +1685,7 @@
  },
  {
   "slug": "jimmy-choo-seduction-collection-amber-kiss",
-  "raison": "doublon probable de jimmy-choo-amber-kiss"
+  "raison": "doublon de jimmy-choo-amber-kiss (même marque, même nom \"Amber Kiss\")"
  },
  {
   "slug": "jimmy-choo-seduction-collection-i-want",
@@ -1617,11 +1729,11 @@
  },
  {
   "slug": "kenzo-flower-poppy-bouquet-by-eau",
-  "raison": "doublon probable de kenzo-flower-poppy-bouquet"
+  "raison": "doublon de kenzo-flower-poppy-bouquet (même marque, même nom \"Flower Poppy Bouquet\")"
  },
  {
   "slug": "kenzo-flower-poppy-bouquet-edp",
-  "raison": "doublon probable de kenzo-flower-poppy-bouquet"
+  "raison": "doublon de kenzo-flower-poppy-bouquet (même marque, même nom \"Flower Poppy Bouquet\")"
  },
  {
   "slug": "kenzo-homme-indigo-sensual-iris-marine",
@@ -1656,12 +1768,24 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "korloff-in-white-edp",
+  "raison": "parfum inexistant d'après Fragrantica"
+ },
+ {
+  "slug": "l-artisan-parfumeur-abyssae-33-eau",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "l-artisan-parfumeur-venenum-32-eau",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "lacoste-eau-de-noir-intense-edt",
   "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "lacoste-l-12-blanc-rg-edp",
-  "raison": "doublon probable de lacoste-l-12-blanc-edition-limitee-roland-garros"
+  "raison": "doublon de lacoste-l-12-blanc-edition-limitee-roland-garros (même marque, même nom \"L.12.12 Blanc Edition Limitée Roland Garros\")"
  },
  {
   "slug": "lacoste-l12-12-eau-de-toilette-2",
@@ -1673,7 +1797,7 @@
  },
  {
   "slug": "lacoste-roland-garros-eau-de-parfum",
-  "raison": "doublon probable de lacoste-l-12-blanc-edition-limitee-roland-garros"
+  "raison": "doublon de lacoste-l-12-blanc-edition-limitee-roland-garros (même marque, même nom \"L.12.12 Blanc Edition Limitée Roland Garros\")"
  },
  {
   "slug": "lalique-encre-indigo-edp",
@@ -1734,6 +1858,18 @@
  {
   "slug": "lanvin-rumeur",
   "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "laverne-blue-bakhur-edp",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "laverne-lador-bakhur-classic-edp",
+  "raison": "doublon probable de laverne-la-dor-bakhur-classic"
+ },
+ {
+  "slug": "laverne-lador-bakhur-valley",
+  "raison": "parfum inexistant d'après Fragrantica"
  },
  {
   "slug": "liquides-imaginaires-abyssis",
@@ -1865,7 +2001,11 @@
  },
  {
   "slug": "lolita-lempicka-lolitaland-eau-de-parfum",
-  "raison": "doublon probable de lolita-lempicka-lolitaland"
+  "raison": "doublon de lolita-lempicka-lolitaland (même marque, même nom \"LolitaLand\")"
+ },
+ {
+  "slug": "lorenzo-pazzaglia-van-py-rhum-extrait",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "louis-vuitton-c-ur-battant-eau",
@@ -1900,12 +2040,48 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "marc-jacob-daisy-spring-edt",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "marc-jacob-jacobs-daisy-eau-so",
+  "raison": "doublon de marc-jacobs-daisy-eau-so-intense (même marque, même nom \"Daisy Eau So Intense\")"
+ },
+ {
+  "slug": "marc-jacob-jacobs-perfect-edt",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "marc-jacob-perfect-edp",
+  "raison": "doublon de marc-jacobs-perfect (même marque, même nom \"Perfect\")"
+ },
+ {
   "slug": "marc-jacobs-daisy-dream-edt",
   "raison": "pas d'ID Fragrantica (image impossible)"
  },
  {
   "slug": "marc-jacobs-perfect-elixir",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "marco-serussi-harmony-emotion-eau-de",
+  "raison": "doublon probable de parfums-marco-serussi-ms-harmony-emotion"
+ },
+ {
+  "slug": "marco-serussi-the-man-eau-de",
+  "raison": "doublon probable de parfums-marco-serussi-the-man"
+ },
+ {
+  "slug": "marco-serussi-the-man-trust-parfums",
+  "raison": "doublon probable de parfums-marco-serussi-the-man-trust"
+ },
+ {
+  "slug": "masque-milano-russian-tea",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "masque-milano-tango",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "mauboussin-a-la-folie-by-eau",
@@ -1977,7 +2153,7 @@
  },
  {
   "slug": "mont-blanc-montblanc-prive-2024-patchouli",
-  "raison": "doublon probable de mont-blanc-patchouli-ink"
+  "raison": "doublon de mont-blanc-patchouli-ink (même marque, même nom \"Patchouli Ink\")"
  },
  {
   "slug": "montale-amber-musk",
@@ -2117,7 +2293,7 @@
  },
  {
   "slug": "narciso-rodriguez-prive-patchouli-musc-eau",
-  "raison": "doublon probable de narciso-rodriguez-patchouli-musc"
+  "raison": "doublon de narciso-rodriguez-patchouli-musc (même marque, même nom \"Patchouli Musc\")"
  },
  {
   "slug": "nina-ricci-1987-eat-de-toilette",
@@ -2277,7 +2453,7 @@
  },
  {
   "slug": "parfums-de-marly-royal-essence-akaster",
-  "raison": "doublon probable de parfums-de-marly-akaster"
+  "raison": "doublon de parfums-de-marly-akaster (même marque, même nom \"Akaster\")"
  },
  {
   "slug": "parfums-de-marly-royal-essence-godolphin",
@@ -2301,15 +2477,15 @@
  },
  {
   "slug": "prada-la-femme-milano-absolu-eau",
-  "raison": "doublon probable de prada-la-femme-absolu"
+  "raison": "doublon de prada-la-femme-absolu (même marque, même nom \"La Femme Absolu\")"
  },
  {
   "slug": "prada-les-infusions-infusion-de-rhubarbe",
-  "raison": "doublon probable de prada-infusion-de-rhubarbe"
+  "raison": "doublon de prada-infusion-de-rhubarbe (même marque, même nom \"Infusion de Rhubarbe\")"
  },
  {
   "slug": "prada-prive-2024-infusion-de-gingembre",
-  "raison": "doublon probable de prada-infusion-de-gingembre"
+  "raison": "doublon de prada-infusion-de-gingembre (même marque, même nom \"Infusion de Gingembre\")"
  },
  {
   "slug": "ralph-lauren-big-pony-1-eau",
@@ -2317,6 +2493,22 @@
  },
  {
   "slug": "ralph-lauren-s-club-eau-de",
+  "raison": "doublon de ralph-lauren-s-club (même marque, même nom \"Ralph's Club\")"
+ },
+ {
+  "slug": "ralph-laurent-lauren-s-club-elixir",
+  "raison": "doublon de ralph-lauren-s-club-elixir (même marque, même nom \"Ralph's Club Elixir\")"
+ },
+ {
+  "slug": "ralph-laurent-polo-deep-blue-parfum",
+  "raison": "doublon de ralph-lauren-polo-deep-blue-parfum (même marque, même nom \"Polo Deep Blue Parfum\")"
+ },
+ {
+  "slug": "ralph-laurent-polo-oud-lauren-edp",
+  "raison": "doublon de ralph-lauren-polo-oud (même marque, même nom \"Polo Oud\")"
+ },
+ {
+  "slug": "ralph-laurent-s-club-edp",
   "raison": "doublon de ralph-lauren-s-club (même marque, même nom \"Ralph's Club\")"
  },
  {
@@ -2368,6 +2560,10 @@
   "raison": "confiance basse"
  },
  {
+  "slug": "rituals-fleurs-de-l-himalaya-eau",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
   "slug": "roberto-cavalli",
   "raison": "doublon de roberto-cavalli (même marque, même nom \"Roberto Cavalli\")"
  },
@@ -2390,6 +2586,10 @@
  {
   "slug": "rochas-secret-de-oud-mystere-edp",
   "raison": "confiance basse"
+ },
+ {
+  "slug": "roger-gallet-extraits-de-cologne-tubereuse",
+  "raison": "moins de 3 notes olfactives"
  },
  {
   "slug": "roja-dove-a-midsummer-dream",
@@ -2430,6 +2630,14 @@
  {
   "slug": "roja-dove-reckless-pour-homme",
   "raison": "pas de famille olfactive"
+ },
+ {
+  "slug": "rosendo-mateu-olfactive-expressions-2010",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "rosendo-mateu-olfactive-expressions-n-5-3",
+  "raison": "doublon probable de rosendo-mateu-olfactive-expressions-n-5-floral"
  },
  {
   "slug": "s-t-dupont-noble-wood",
@@ -2685,7 +2893,7 @@
  },
  {
   "slug": "valentino-donna-green-stravaganza",
-  "raison": "doublon probable de valentino-donna-born-in-roma-green-stravaganza"
+  "raison": "doublon de valentino-donna-born-in-roma-green-stravaganza (même marque, même nom \"Donna Born in Roma Green Stravaganza\")"
  },
  {
   "slug": "valentino-uomo-coral-fantasy",
@@ -2693,7 +2901,7 @@
  },
  {
   "slug": "valentino-uomo-green-stravaganza",
-  "raison": "doublon probable de valentino-uomo-born-in-roma-green-stravaganza"
+  "raison": "doublon de valentino-uomo-born-in-roma-green-stravaganza (même marque, même nom \"Uomo Born in Roma Green Stravaganza\")"
  },
  {
   "slug": "valentino-venetta-uomo-edt",
@@ -2737,11 +2945,67 @@
  },
  {
   "slug": "versace-pour-femme-oud-orientaledp",
-  "raison": "doublon probable de versace-pour-femme-oud-oriental"
+  "raison": "doublon de versace-pour-femme-oud-oriental (même marque, même nom \"Pour Femme Oud Oriental\")"
+ },
+ {
+  "slug": "victor-rolf-bonbon-edp",
+  "raison": "doublon de bonbon-viktor-rolf (même marque, même nom \"Bonbon\")"
+ },
+ {
+  "slug": "victor-rolf-flowerbomb-eau-de-parfum",
+  "raison": "doublon de flowerbomb-viktor-rolf (même marque, même nom \"Flowerbomb\")"
+ },
+ {
+  "slug": "victor-rolf-flowerbomb-in-the-sky",
+  "raison": "doublon probable de viktor-rolf-flowerbomb-in-the-sky"
+ },
+ {
+  "slug": "victor-rolf-flowerbomb-nectar-eau-de",
+  "raison": "doublon de flowerbomb-nectar-viktor-rolf (même marque, même nom \"Flowerbomb Nectar\")"
  },
  {
   "slug": "victor-rolf-good-fortune-eau-de",
   "raison": "doublon de good-fortune-viktor-rolf (même marque, même nom \"Good Fortune\")"
+ },
+ {
+  "slug": "victor-rolf-spicebomb-extreme-eau-de",
+  "raison": "doublon de spicebomb-extreme-viktor-rolf (même marque, même nom \"Spicebomb Extreme\")"
+ },
+ {
+  "slug": "victor-rolf-spicebomb-infrared-eau-de",
+  "raison": "moins de 3 notes olfactives"
+ },
+ {
+  "slug": "victor-rolf-spicebomb-night-vision-eau",
+  "raison": "doublon de viktor-rolf-spicebomb-night-vision (même marque, même nom \"Spicebomb Night Vision\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-flowerbomb-dew",
+  "raison": "doublon de viktor-rolf-flowerbomb-dew (même marque, même nom \"Flowerbomb Dew\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-flowerbomb-edp",
+  "raison": "doublon de flowerbomb-viktor-rolf (même marque, même nom \"Flowerbomb\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-flowerbomb-midnight",
+  "raison": "doublon de viktor-rolf-flowerbomb-midnight (même marque, même nom \"Flowerbomb Midnight\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-flowerbomb-tiger",
+  "raison": "doublon de viktor-rolf-flowerbomb-tiger-lily (même marque, même nom \"Flowerbomb Tiger Lily\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-spicebomb-dark",
+  "raison": "doublon de viktor-rolf-spicebomb-dark-leather (même marque, même nom \"Spicebomb Dark Leather\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-spicebomb-infrared",
+  "raison": "doublon de spicebomb-infrared (même marque, même nom \"Spicebomb Infrared\")"
+ },
+ {
+  "slug": "victor-rolf-v-r-spicebomb-night",
+  "raison": "doublon de viktor-rolf-spicebomb-night-vision (même marque, même nom \"Spicebomb Night Vision\")"
  },
  {
   "slug": "victoria-s-secret-bare-eau-de",
@@ -2793,7 +3057,7 @@
  },
  {
   "slug": "xerjoff-casamorati-italica-2021-eau-de",
-  "raison": "doublon probable de xerjoff-italica"
+  "raison": "doublon de xerjoff-italica (même marque, même nom \"Italica\")"
  },
  {
   "slug": "xerjoff-comandante",
@@ -2805,15 +3069,15 @@
  },
  {
   "slug": "xerjoff-duran-neorio-orange",
-  "raison": "doublon probable de xerjoff-duran-neorio"
+  "raison": "doublon de xerjoff-duran-neorio (même marque, même nom \"Duran Duran NeoRio\")"
  },
  {
   "slug": "xerjoff-duran-neorio-pink",
-  "raison": "doublon probable de xerjoff-duran-neorio"
+  "raison": "doublon de xerjoff-duran-neorio (même marque, même nom \"Duran Duran NeoRio\")"
  },
  {
   "slug": "xerjoff-duran-neorio-yellow",
-  "raison": "doublon probable de xerjoff-duran-neorio"
+  "raison": "doublon de xerjoff-duran-neorio (même marque, même nom \"Duran Duran NeoRio\")"
  },
  {
   "slug": "xerjoff-lira-edp",
@@ -2833,7 +3097,7 @@
  },
  {
   "slug": "xerjoff-zefiro",
-  "raison": "doublon probable de xerjoff-xj-1861-zefiro"
+  "raison": "doublon de xerjoff-xj-1861-zefiro (même marque, même nom \"XJ 1861 Zefiro\")"
  },
  {
   "slug": "yves-rocher-accord-chic-edp",

@@ -1,16 +1,35 @@
 {
  "slug": "ramon-bejar-black-stone-extrait-de",
- "existe": false,
- "fragrantica": null,
- "notes": {
-  "top": [],
-  "heart": [],
-  "base": []
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Ramon-Bejar/Black-Stone-Extrait-de-Parfum-87892.html",
+  "id": 87892,
+  "nomOfficiel": "Black Stone Extrait de Parfum",
+  "marqueOfficielle": "Ramón Béjar",
+  "genre": "unisexe",
+  "annee": 2023
  },
- "famille": null,
- "concentrationConfirmee": null,
- "volumeExiste": null,
- "remarque": "Aucune page Fragrantica trouvee dans le resultat de recherche ; le parfum apparait chez des revendeurs mais existence non prouvee par Fragrantica (regle 9).",
- "confiance": "moyenne",
+ "notes": {
+  "top": [
+   "Cardamome",
+   "Notes vertes",
+   "Bergamote"
+  ],
+  "heart": [
+   "Cypriol (nagarmotha)",
+   "Lavande",
+   "Santal"
+  ],
+  "base": [
+   "Musc",
+   "Fève tonka",
+   "Vétiver"
+  ]
+ },
+ "famille": "Boisé Aromatique",
+ "concentrationConfirmee": "Extrait de Parfum",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

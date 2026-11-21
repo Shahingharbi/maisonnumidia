@@ -1,0 +1,36 @@
+{
+ "slug": "nuxe-prodigieux-le-parfum",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Le-Parfum-22992.html",
+  "id": 22992,
+  "nomOfficiel": "Prodigieux Le Parfum",
+  "marqueOfficielle": "Nuxe",
+  "genre": "femme",
+  "annee": 2012
+ },
+ "notes": {
+  "top": [
+   "Fleur d'oranger",
+   "Mandarine",
+   "Orange",
+   "Bergamote"
+  ],
+  "heart": [
+   "Gardénia",
+   "Magnolia",
+   "Rose"
+  ],
+  "base": [
+   "Lait de coco",
+   "Vanille",
+   "Galets"
+  ]
+ },
+ "famille": "Floral",
+ "concentrationConfirmee": "Parfum",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

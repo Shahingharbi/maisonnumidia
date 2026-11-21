@@ -1,16 +1,34 @@
 {
  "slug": "french-avenue-zenith-tobacco",
- "existe": false,
- "fragrantica": null,
- "notes": {
-  "top": [],
-  "heart": [],
-  "base": []
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/French-Avenue/Zenith-Tobacco-106863.html",
+  "id": 106863,
+  "nomOfficiel": "Zenith Tobacco",
+  "marqueOfficielle": "French Avenue",
+  "genre": "unisexe",
+  "annee": 2025
  },
- "famille": null,
- "concentrationConfirmee": null,
- "volumeExiste": null,
- "remarque": "Aucune page Fragrantica trouvee dans le resultat de recherche ; le parfum apparait chez des revendeurs mais existence non prouvee par Fragrantica (regle 9).",
+ "notes": {
+  "top": [
+   "Chocolat",
+   "Mandarine"
+  ],
+  "heart": [
+   "Miel",
+   "Patchouli",
+   "Caramel"
+  ],
+  "base": [
+   "Baume de Tolu",
+   "Fève tonka",
+   "Mousse"
+  ]
+ },
+ "famille": "Oriental Vanillé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Concentration non visible dans le résultat, EDP supposée ; à confirmer.",
  "confiance": "moyenne",
  "verifieLe": "2026-11-21"
 }

@@ -2,8 +2,8 @@
  "slug": "laverne-blue-sport",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-Sport-96071.html",
+  "id": 96071,
   "nomOfficiel": "Blue Laverne Sport",
   "marqueOfficielle": "Laverne",
   "genre": "unisexe",
@@ -12,24 +12,24 @@
  "notes": {
   "top": [
    "Bergamote",
-   "Orange",
-   "Ananas"
+   "Ananas",
+   "Orange"
   ],
   "heart": [
-   "Pomme",
-   "Canneberge",
-   "Jasmin"
+   "Pomme verte",
+   "Jasmin",
+   "Canneberge"
   ],
   "base": [
-   "Cedre",
-   "Peche",
-   "Feve tonka"
+   "Pêche",
+   "Fève tonka",
+   "Cèdre"
   ]
  },
- "famille": "Aquatique Agrumes",
- "concentrationConfirmee": "EDP",
+ "famille": "Floral Fruité",
+ "concentrationConfirmee": null,
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica dans les resultats; existence attestee par boutiques/sites de la marque. Genre incertain (surtout presente comme feminine mais portable par tous). 200ml confirme par laverne.com.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }

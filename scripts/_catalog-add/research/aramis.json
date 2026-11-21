@@ -1,0 +1,42 @@
+{
+ "slug": "aramis",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Aramis/Aramis-113.html",
+  "id": 113,
+  "nomOfficiel": "Aramis",
+  "marqueOfficielle": "Aramis",
+  "genre": "homme",
+  "annee": 1966
+ },
+ "notes": {
+  "top": [
+   "Aldéhydes",
+   "Myrrhe",
+   "Armoise",
+   "Bergamote",
+   "Gardénia"
+  ],
+  "heart": [
+   "Patchouli",
+   "Sauge",
+   "Jasmin",
+   "Cardamome",
+   "Racine d'iris"
+  ],
+  "base": [
+   "Cuir",
+   "Mousse de chêne",
+   "Musc",
+   "Vétiver",
+   "Bois de santal",
+   "Ambre"
+  ]
+ },
+ "famille": "Chypré Boisé",
+ "concentrationConfirmee": "EDT",
+ "volumeExiste": true,
+ "remarque": "Annee 1966 selon Fragrantica (une colonne dit 1963). Volume 240ml non verifie.",
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

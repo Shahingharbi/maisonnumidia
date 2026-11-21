@@ -1,0 +1,39 @@
+{
+ "slug": "vertu-vertus-serenade",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Vertus/Serenade-102526.html",
+  "id": 102526,
+  "nomOfficiel": "Sérénade",
+  "marqueOfficielle": "Vertus",
+  "genre": "unisexe",
+  "annee": 2025
+ },
+ "notes": {
+  "top": [
+   "Bergamote",
+   "Mandarine",
+   "Pamplemousse",
+   "Baie de genièvre",
+   "Mangue"
+  ],
+  "heart": [
+   "Osmanthus",
+   "Patchouli",
+   "Lavande",
+   "Magnolia"
+  ],
+  "base": [
+   "Vétiver",
+   "Mousse de chêne",
+   "Labdanum",
+   "Musc"
+  ]
+ },
+ "famille": "Agrumes Aromatique",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Marque officielle Vertus.",
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

@@ -1,1 +1,36 @@
-{"slug":"rosendo-mateu-olfactive-expressions-n-6","existe":false,"fragrantica":null,"notes":{"top":[],"heart":[],"base":[]},"famille":null,"concentrationConfirmee":null,"volumeExiste":null,"remarque":"Aucune page Fragrantica trouvee dans la recherche. Le parfum (No 6 Jasmin Sandalwood Oriental Musk, EDP, First Collection) existe chez des revendeurs et sur Parfumo, mais pas de preuve Fragrantica ni d'ID : a rechercher a nouveau si on veut le retenir.","confiance":"basse","verifieLe":"2026-11-21"}
+{
+ "slug": "rosendo-mateu-olfactive-expressions-n-6",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-6-Jasmin-Sandalwood-Oriental-Musk-52928.html",
+  "id": 52928,
+  "nomOfficiel": "Rosendo Mateu Nº 6 Jasmin, Sandalwood, Oriental Musk",
+  "marqueOfficielle": "Rosendo Mateu Olfactive Expressions",
+  "genre": "unisexe",
+  "annee": 2018
+ },
+ "notes": {
+  "top": [
+   "Jasmin sambac",
+   "Notes florales",
+   "Fruits exotiques",
+   "Noix de coco",
+   "Accord vert"
+  ],
+  "heart": [
+   "Bois de santal",
+   "Notes épicées"
+  ],
+  "base": [
+   "Musc blanc",
+   "Vanille",
+   "Ambre"
+  ]
+ },
+ "famille": "Oriental Floral",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": null,
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

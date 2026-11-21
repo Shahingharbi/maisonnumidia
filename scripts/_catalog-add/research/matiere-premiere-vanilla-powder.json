@@ -1,0 +1,35 @@
+{
+ "slug": "matiere-premiere-vanilla-powder",
+ "existe": true,
+ "fragrantica": {
+  "url": "https://www.fragrantica.com/perfume/Matiere-Premiere/Vanilla-Powder-84933.html",
+  "id": 84933,
+  "nomOfficiel": "Vanilla Powder",
+  "marqueOfficielle": "Matière Première",
+  "genre": "unisexe",
+  "annee": 2023
+ },
+ "notes": {
+  "top": [
+   "Noix de coco en poudre",
+   "Héliotrope"
+  ],
+  "heart": [
+   "Vanille de Madagascar"
+  ],
+  "base": [
+   "Vanille absolue",
+   "Musc blanc",
+   "Musc",
+   "Palo santo",
+   "Noix de coco",
+   "Lactones"
+  ]
+ },
+ "famille": "Vanillé Poudré",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Une 2e page existe pour l'Extrait (id 112581, 2025) : non retenue.",
+ "confiance": "haute",
+ "verifieLe": "2026-11-21"
+}

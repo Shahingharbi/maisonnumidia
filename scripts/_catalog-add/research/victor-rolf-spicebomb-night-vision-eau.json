@@ -2,8 +2,8 @@
  "slug": "victor-rolf-spicebomb-night-vision-eau",
  "existe": true,
  "fragrantica": {
-  "url": null,
-  "id": null,
+  "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Night-Vision-Eau-de-Parfum-62253.html",
+  "id": 62253,
   "nomOfficiel": "Spicebomb Night Vision Eau de Parfum",
   "marqueOfficielle": "Viktor&Rolf",
   "genre": "homme",
@@ -11,28 +11,25 @@
  },
  "notes": {
   "top": [
-   "Pamplemousse",
-   "Pomme verte",
    "Citron",
-   "Epices noires",
-   "Cardamome"
+   "Pomme verte",
+   "Épices"
   ],
-  "heart": [],
+  "heart": [
+   "Lavande",
+   "Sauge sclarée",
+   "Menthe"
+  ],
   "base": [
-   "Patchouli",
-   "Cedre",
    "Pistache",
-   "Encens",
-   "Baume du Perou",
-   "Baume de sapin",
-   "Labdanum",
-   "Benjoin"
+   "Cèdre",
+   "Patchouli"
   ]
  },
- "famille": "Oriental Fougere",
+ "famille": "Oriental Épicé",
  "concentrationConfirmee": "EDP",
  "volumeExiste": true,
- "remarque": "Aucune page Fragrantica remontee par la recherche (budget WebSearch epuise apres 5 recherches); existence etablie par detaillants, site de marque et Parfumo. ID Fragrantica non deduit. Sources en desaccord sur les notes de tete et l annee (2019/2020); coeur non releve.",
- "confiance": "basse",
+ "remarque": null,
+ "confiance": "haute",
  "verifieLe": "2026-11-21"
 }
