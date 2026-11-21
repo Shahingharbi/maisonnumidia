@@ -142,7 +142,6 @@ export default async function ProductPage({ params }: Props) {
   const h1 = product.h1 ?? `${product.brand} ${product.name}`;
 
   // Delivery text variations for SEO richness
-  const deliveryWilayas = ["Alger", "Oran", "Constantine", "Annaba", "Blida", "Tizi Ouzou", "Béjaïa", "Sétif", "Batna", "Biskra"];
 
   return (
     <>
@@ -425,30 +424,28 @@ export default async function ProductPage({ params }: Props) {
             <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
               Reconnaître un {product.name} original en Algérie
             </h2>
+            {/* Section raccourcie le 21/11/2026 : ces paragraphes étaient identiques mot pour mot
+                sur les 2 328 fiches. Le détail vit dans le guide /blog/reconnaitre-parfum-original. */}
             <p>
-              Face aux contrefaçons qui circulent, voici ce qui se vérifie flacon en main,
-              au moment de la livraison :
-            </p>
-            <ul className="space-y-2 list-disc list-inside text-gray-600">
-              <li>Le verre est épais, le spray fluide et régulier, le bouchon tient fermement.</li>
-              <li>Le numéro de lot est présent et <strong className="text-[#111111]">identique</strong> sur le flacon et sur la boîte.</li>
-              <li>L&apos;odeur évolue au fil des minutes ; une contrefaçon sent souvent l&apos;alcool à l&apos;ouverture puis disparaît.</li>
-              <li>Un prix très inférieur au marché est le signal le plus fiable : un {product.brand} a un coût de production réel.</li>
-            </ul>
-            <p>
-              C&apos;est exactement pour cette vérification que nous livrons en paiement à la
-              réception : vous contrôlez le flacon devant le livreur, et vous refusez le colis
-              si quelque chose ne va pas, sans avoir rien avancé.
+              Le signal le plus fiable reste le prix : un {product.brand} {product.name} vendu très
+              en dessous de {formatPrice(product.price)} doit éveiller le doute. Flacon en main, vérifiez
+              que le numéro de lot est identique sur la boîte et sur le flacon. Les autres points de
+              contrôle sont dans notre{" "}
+              <Link href="/blog/reconnaitre-parfum-original" className="text-[#C9A84C] hover:text-[#8B6914] underline-offset-2 hover:underline">
+                guide pour reconnaître un parfum original
+              </Link>.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">
               Acheter {product.brand} {product.name} en Algérie
             </h2>
             <p>
-              La livraison est assurée par Yalidine Express dans les 69 wilayas :
-              {" "}{deliveryWilayas.join(", ")}, et toutes les autres. Ajoutez le parfum au panier,
-              indiquez votre wilaya, et notre équipe vous appelle pour confirmer la commande
-              avant l&apos;expédition. Aucune carte bancaire n&apos;est demandée à aucun moment.
+              Commandez en ligne ou au 07 94 49 60 59 : nous vous appelons pour confirmer, puis Yalidine
+              livre {product.name} à domicile ou au bureau dans les 69 wilayas (
+              <Link href="/livraison" className="text-[#C9A84C] hover:text-[#8B6914] underline-offset-2 hover:underline">
+                tarifs par wilaya
+              </Link>
+              ). Vous payez à la livraison.
             </p>
 
             <h2 className="text-xl sm:text-2xl font-bold text-[#111111] pt-6">

@@ -30,7 +30,10 @@ export function generatePriceSection(
       : ` La ligne complète s'étale de ${formatPrice(moinsCher.price)} pour ${moinsCher.name} à ${formatPrice(plusCher.price)} pour ${plusCher.name} : le tableau plus bas détaille ce qui sépare chaque version.`;
   }
 
-  const livraison = ` Les frais de livraison Yalidine s'ajoutent à ce montant et dépendent de votre wilaya et du mode choisi, à domicile ou au bureau. Le règlement se fait à la réception : vous ne payez rien avant d'avoir le flacon en main, et vous pouvez refuser le colis.`;
+  // Une phrase courte : ce paragraphe se répétait mot pour mot sur les 2 328 fiches (mesure du
+  // 21/11/2026 : 46 à 63 % du texte d'une fiche était identique aux autres fiches). Le détail
+  // des frais vit sur /livraison et dans la FAQ.
+  const livraison = ` Livraison Yalidine en plus, selon la wilaya ; paiement à la livraison.`;
 
   return base + situation + echelle + livraison;
 }
@@ -68,24 +71,6 @@ export function generateVersionsSection(product: Product, versions: Product[]): 
   return intro + laVotre + lecture + contenance;
 }
 
-const climateByCategory: Record<string, string> = {
-  "parfums-homme":
-    "Le climat algérien, marqué par des étés chauds sur le littoral d'Alger et d'Oran et un hiver plus frais sur les Hauts Plateaux,",
-  "parfums-femme":
-    "L'Algérie offre une grande variété climatique, du littoral méditerranéen tempéré jusqu'au Sahara plus aride. Cette diversité",
-  "parfums-orientaux":
-    "Les parfums orientaux trouvent en Algérie un terrain idéal : la culture maghrébine valorise les notes profondes d'oud, de musc et d'ambre, et le climat sec",
-};
-
-const audienceByCategory: Record<string, string> = {
-  "parfums-homme":
-    "l'homme algérien à la recherche d'une signature olfactive masculine, élégante et durable",
-  "parfums-femme":
-    "la femme algérienne qui veut affirmer sa personnalité avec un parfum féminin et raffiné",
-  "parfums-orientaux":
-    "les amateurs de parfums orientaux et oud, qu'ils soient hommes ou femmes, attachés à la tradition parfumière maghrébine",
-};
-
 function familyContext(family: string): string {
   const f = family.toLowerCase();
   if (f.includes("boisé") && f.includes("aromatique"))
@@ -122,17 +107,20 @@ function familyContext(family: string): string {
 // Ces repères décrivent la CLASSE de concentration (norme du métier), pas une mesure faite
 // sur ce flacon : la formulation doit rester générale, sinon on affirme au client une tenue
 // qu'on n'a jamais vérifiée (CLAUDE.md : ne jamais inventer de longévité).
+// Une phrase, pas un paragraphe : l'explication complète des concentrations est dans l'article
+// /blog/eau-de-parfum-vs-eau-de-toilette (lié depuis la fiche). Le paragraphe long se répétait
+// sur 62 % des fiches (toutes les EDP) au 21/11/2026.
 function concentrationContext(concentration: string): string {
   const c = concentration.toUpperCase();
   if (c.startsWith("PARFUM") || c.startsWith("EXTRAIT"))
-    return "L'Extrait de Parfum (ou Parfum) est la concentration la plus élevée, généralement entre 20 et 30% d'essence parfumée. C'est le format le plus précieux, celui dont on attend la tenue la plus longue et un sillage maîtrisé.";
+    return "Concentration la plus élevée de la parfumerie : un format dense, qu'on dose à une vaporisation.";
   if (c.startsWith("EDP"))
-    return "L'Eau de Parfum (EDP) contient entre 12 et 18% d'essence. C'est la concentration de référence pour les parfums de luxe : elle équilibre tenue, sillage et richesse olfactive, et reste la plus polyvalente.";
+    return "En eau de parfum, la formule est plus concentrée qu'en eau de toilette : elle se pose plus près de la peau et dure davantage.";
   if (c.startsWith("EDT"))
-    return "L'Eau de Toilette (EDT) titre entre 6 et 12% d'essence. Plus légère et plus aérienne que l'Eau de Parfum, elle est adaptée à la journée et aux climats chauds, quitte à être réappliquée en cours de journée.";
+    return "En eau de toilette, la formule est plus légère qu'en eau de parfum : plus aérienne, faite pour la journée et la chaleur.";
   if (c === "EDC" || c === "COLOGNE")
-    return "L'Eau de Cologne titre entre 2 et 5% d'essence. Très fraîche, elle est conçue pour être appliquée généreusement et offre une sensation de fraîcheur immédiate, particulièrement appréciable en été.";
-  return `La concentration ${concentration} détermine la tenue et l'intensité du parfum sur la peau, ainsi que la richesse de son sillage.`;
+    return "Une eau de Cologne : la concentration la plus légère, qui s'applique généreusement pour un effet de fraîcheur immédiat.";
+  return `La concentration ${concentration} règle la tenue et l'intensité du parfum sur la peau.`;
 }
 
 // Échelle interne 1-5 de products.json : elle sert à qualifier, jamais à annoncer un nombre
@@ -164,9 +152,9 @@ export function generateFamilyAndFeel(product: Product): string {
       : "discret, proche de la peau";
 
   const surPeau = `Sur la peau, la tenue est ${longevityLabelOf(product.longevity ?? 3)} et le sillage ${sillageLabel}.`;
-  const climat = `${climateByCategory[product.category] || "Le climat algérien, varié selon les régions,"} joue son rôle : à la chaleur, les notes de tête s'évaporent plus vite mais le fond gagne en intensité ; au froid, le parfum met plus de temps à se déployer.`;
-
-  return `${familyContext(famille)} ${surPeau} ${climat}`;
+  // Le paragraphe sur le climat algérien (identique sur toutes les fiches d'une catégorie) est
+  // retiré le 21/11/2026 : il n'apprenait rien sur CE parfum et gonflait le texte commun.
+  return `${familyContext(famille)} ${surPeau}`;
 }
 
 export function generateConcentrationSection(product: Product, versions: Product[]): string {
@@ -216,7 +204,7 @@ export function generatePersona(product: Product): string {
   // les couler dans une phrase demanderait un article par item. On les presente telles quelles.
   const cadre = `Les moments où il est le plus à sa place : ${occasions}. Côté saison, il donne le meilleur en ${saisons}.`;
 
-  return `${cadre} ${conseil} Reste le bon réflexe avant d'acheter un parfum qu'on ne connaît pas : le tester sur soi plutôt que sur une touche de papier, et attendre le fond avant de se décider — c'est lui qu'on portera le reste de la journée.`;
+  return `${cadre} ${conseil}`;
 }
 
 /**
@@ -237,7 +225,7 @@ export function generateFAQ(product: Product, versions: Product[] = []): { q: st
     : ` Ce parfum est actuellement en rupture : la marque ne le produit plus ou il n'est plus approvisionnable en Algérie.`;
   questions.push({
     q: `Combien coûte ${product.brand} ${product.name} en Algérie ?`,
-    a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} coûte ${formatPrice(product.price)} chez Maison Numidia.${dispo} Les frais de livraison Yalidine s'ajoutent à ce montant : entre ${formatPrice(fourchetteLivraison().min)} et ${formatPrice(fourchetteLivraison().max)} selon la wilaya et le mode, à domicile ou au bureau. Le paiement se fait à la réception, en espèces, sans carte bancaire ni avance.`,
+    a: `${product.brand} ${product.name} ${product.concentration} ${product.volume} coûte ${formatPrice(product.price)} chez Maison Numidia.${dispo} Livraison Yalidine en plus : de ${formatPrice(fourchetteLivraison().min)} à ${formatPrice(fourchetteLivraison().max)} selon la wilaya, à domicile ou au bureau, et paiement à la livraison.`,
   });
 
   if (autres.length) {
@@ -251,15 +239,26 @@ export function generateFAQ(product: Product, versions: Product[] = []): { q: st
       a: `${product.name} est une ${product.concentration} ${product.volume} à ${formatPrice(product.price)} ; ${comparee.name} est une ${comparee.concentration} ${comparee.volume} à ${formatPrice(comparee.price)} et ${ecart}. Une concentration plus élevée ne rend pas le parfum « meilleur » : elle le rend plus dense et plus proche de la peau, là où une eau de toilette s'ouvre plus franchement. Le tableau plus haut sur cette page compare les ${versions.length} déclinaisons que nous distribuons.`,
     });
   } else {
-    questions.push({
-      q: `${product.name} existe-t-il en d'autres contenances ?`,
-      a: `Nous le distribuons en un seul format : ${product.concentration} ${product.volume}, à ${formatPrice(product.price)}. C'est la contenance la plus courante sur le marché algérien, et celle pour laquelle l'approvisionnement est régulier. Si un autre format vous intéresse, l'équipe peut vous dire au téléphone s'il est trouvable.`,
-    });
+    // Sans autre version, la question des contenances recevait la même réponse générique sur
+    // 67 % des fiches. Les notes, elles, sont propres à chaque parfum et cherchées telles quelles.
+    const liste = (n: string[]) => n.slice(0, 4).join(", ").toLowerCase();
+    const { top, heart, base } = product.notes;
+    const parties = [
+      top.length ? `en tête, ${liste(top)}` : "",
+      heart.length ? `en cœur, ${liste(heart)}` : "",
+      base.length ? `en fond, ${liste(base)}` : "",
+    ].filter(Boolean);
+    if (parties.length >= 2) {
+      questions.push({
+        q: `Quelles sont les notes de ${product.brand} ${product.name} ?`,
+        a: `${product.name} est un parfum ${(product.family || "").toLowerCase()} : ${parties.join(" ; ")}.`,
+      });
+    }
   }
 
   questions.push({
     q: `Comment être sûr de recevoir un ${product.name} original ?`,
-    a: `Le paiement à la réception est votre garantie : le livreur vous remet le colis, vous examinez le flacon, et vous ne réglez que si vous le gardez. Vous pouvez refuser la livraison sans vous justifier et sans rien payer. Les points à vérifier sur place sont listés plus haut sur cette page : qualité du verre et du spray, numéro de lot identique sur le flacon et la boîte, odeur qui évolue au lieu de sentir l'alcool.`,
+    a: `Vous payez à la livraison, après avoir examiné le flacon devant le livreur, et vous pouvez refuser le colis sans rien payer. Le numéro de lot doit être identique sur la boîte et sur le flacon.`,
   });
 
   return questions;

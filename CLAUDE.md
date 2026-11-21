@@ -190,6 +190,8 @@ Procédure d'audit complète et rejouable : `scripts/_catalog-audit/README.md`.
 
 Ce fichier produit la moitié du contenu de chaque fiche (profil olfactif, performance, persona, comparaison, FAQ). Une formule interdite écrite ici sort sur **toutes les pages produit d'un coup**, ce qui est passé inaperçu longtemps parce que les audits ne regardaient que les données. Les mêmes interdictions s'appliquent : pas de formule IA, pas d'affirmation chiffrée tirée d'un champ non sourcé (`longevity`, `sillage`), pas de promesse commerciale invérifiable. Attention aussi à ne pas injecter deux fois le même paragraphe dans une seule page.
 
+**Et pas de paragraphe identique sur toutes les fiches (21/11/2026).** Les blocs génériques (paiement, livraison, reconnaître un original, climat, définition de l'EDP) faisaient 46 à 63 % du texte de chaque fiche, mot pour mot, sur 2 329 pages : c'est la signature d'un contenu fabriqué en série, et un frein probable au classement sur les requêtes concurrentielles. Ils ont été réduits à une phrase et un lien (`/livraison`, `/blog/reconnaitre-parfum-original`), et la question FAQ « existe-t-il en d'autres contenances ? » (même réponse sur 67 % des fiches) remplacée par les notes du parfum. Toute nouvelle section doit dire quelque chose de propre au parfum. Mesure : `node scripts/_seo/mesure-texte-commun.mjs` après un build (repère : 42 % au seuil de 30 %, à faire baisser, jamais remonter).
+
 ---
 
 ## Règles SEO — OBLIGATOIRES
