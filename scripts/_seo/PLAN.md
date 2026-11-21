@@ -75,7 +75,7 @@ Règle : **une intention de recherche = une seule page.**
 |---|---|---|---|
 | B1 | 100 pages filtrées identiques à leur page marque : canonique vers `/marques/x`, hors sitemap, liens internes vers la marque (`estDoublonDeMarque`, `urlMarqueSection`) | **fait le 21/11** | `curl` sur `/parfums-femme/kayali` : canonical = `/marques/kayali` ; sitemap sans ces URL |
 | B2 | Fusion des articles `meilleur-parfum-femme-2026` → `meilleur-parfum-femme` (301) | en cours (workflow articles) | 308 sur l'ancienne URL |
-| B3 | Fiches aux données suspectes à vérifier sur Fragrantica : `armani-code` (« Code », EDP 110 ml, alors que l'original homme est une EDT), `narciso-rodriguez-for-her` (EDP 100 ml, doublonne `…-edp-rouge` ?), `ysl-y-femme` (« Y » EDT 90 ml présenté femme ?), `insolence-guerlain` / `guerlain-insolence` (noms inversés EDP/EDT ?) | à faire | chaque fiche = un parfum distinct prouvé, sinon 301 |
+| B3 | Fiches aux données suspectes. **Fait le 21/11** : `narciso-rodriguez-for-her` fusionnée dans `-edp-rouge` (même EDP 2006, 301) ; `ysl-y-femme` (le « Y » femme de 1964) et les deux Insolence (EDT 2006 / EDP 2008) sont de vrais parfums distincts. **Reste** : `armani-code` (« Code » étiqueté EDP 110 ml, notes proches de l'EDT 2004 : concentration à vérifier) ; `lattafa-bade-al-oud` doublon probable de `lattafa-oud-for-glory` (Fragrantica : « Bade'e Al Oud - Oud for Glory », ID 64948) ; `lattafa-asad` 60 ml ou 100 ml ? ; pyramides contestées de L.12.12 Blanc, Colonia (Acqua di Parma), D&G Pour Homme ; Escada Candy Love toujours fabriqué ? (relevés par les relecteurs d'articles) | en partie | chaque fiche = un parfum distinct prouvé, sinon 301 |
 | B4 | 39 requêtes partagées entre 2 URL (liste : `node scripts/_gsc/brut/analyse/scripts/express.mjs`) : Chance / Chance Eau Tendre, Club de Nuit Women / Intense, 212 (3 fiches), Kayali Eden / Vanilla 28 | à faire | après correction des titres, une seule URL > 85 % des impressions de la requête |
 | B5 | Contrôle mensuel automatique : requêtes > 100 impressions partagées entre 2 URL à > 15 % chacune | script à écrire | rapport vide ou expliqué |
 | B6 | Pages filles de 1 ou 2 produits (73) : garder seulement si la marque a les deux genres, sinon traitées par B1 | à revoir après B1 | — |
@@ -118,11 +118,14 @@ les fiches neuves), puis mesure des positions DataForSEO toutes les 2 semaines s
 
 ## E. Contenu : articles SEO/GEO
 
-En cours le 21/11 (workflow `articles-seo-geo`, brouillons dans `content/blog-brouillons/`) :
+**Publiés le 21/11** (workflow `articles-seo-geo` : rédaction, vérification des faits, relecture
+SEO/GEO, correction ; intégration contrôlée par `scripts/_seo/integrer-articles.mjs`) :
 réécriture de `meilleur-parfum-homme` (590 + 140 + arabe 210), `meilleur-parfum-femme` (590 + 170 + 110,
-fusion du doublon 2026), `eau-de-parfum-vs-eau-de-toilette` ; nouveaux : `parfum-ete-homme` (190),
-`meilleurs-parfums-lattafa`, `parfum-sucre-vanille-femme` (180). Sur « meilleur parfum homme »,
-**aucun site algérien dans le top 20** : la place est libre.
+le doublon `meilleur-parfum-femme-2026` fusionné en 301), `eau-de-parfum-vs-eau-de-toilette` ;
+nouveaux : `parfum-ete-homme` (190), `meilleurs-parfums-lattafa`, `parfum-sucre-vanille-femme` (180).
+Sur « meilleur parfum homme », **aucun site algérien dans le top 20** : la place est libre.
+Le moteur de rendu du blog lit désormais gras et liens dans les puces (avant : texte brut, 18 lignes
+publiées touchées). À programmer le 15/12/2026 : passer les titres « 2026 » en « 2027 ».
 
 Suivants, par volume : « parfum dz » / « parfumerie algerie » (page, pas article), comparatifs de
 parfums phares (« Sauvage ou Bleu de Chanel », « Khamrah ou Asad »), « parfum qui tient longtemps »,

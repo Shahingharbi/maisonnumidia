@@ -53,17 +53,31 @@ function renderContent(content: string) {
           {line.slice(4)}
         </h3>
       );
-    } else if (line.startsWith("**") && line.endsWith("**") && line.length > 4) {
+    } else if (line.startsWith("**") && line.endsWith("**") && line.length > 4 && !line.slice(2, -2).includes("**")) {
+      // Ligne entière en gras : on lit quand même les liens qu'elle contient.
       elements.push(
-        <p key={key++} className="font-semibold text-[#111111] mt-4 mb-1">
-          {line.slice(2, -2)}
+        <p key={key++} dir="auto" className="font-semibold text-[#111111] mt-4 mb-1">
+          {parseInline(line.slice(2, -2))}
         </p>
       );
     } else if (line.startsWith("- ")) {
+      // Puces consécutives regroupées dans un vrai <ul>, gras et liens lus (avant le 21/11/2026,
+      // une puce affichait « **x** » et « [texte](/url) » tels quels : 18 lignes publiées touchées).
+      const items: string[] = [];
+      let j = i;
+      while (j < lines.length && lines[j].startsWith("- ")) {
+        items.push(lines[j].slice(2));
+        j++;
+      }
+      i = j - 1;
       elements.push(
-        <li key={key++} className="text-gray-600 leading-relaxed ml-4">
-          {line.slice(2)}
-        </li>
+        <ul key={key++} className="list-disc pl-6 my-3 space-y-1">
+          {items.map((it, ii) => (
+            <li key={ii} dir="auto" className="text-gray-600 leading-relaxed">
+              {parseInline(it)}
+            </li>
+          ))}
+        </ul>
       );
     } else if (line.startsWith("---")) {
       elements.push(<hr key={key++} className="border-gray-100 my-8" />);
@@ -110,7 +124,7 @@ function renderContent(content: string) {
       // Parse inline bold and links
       const parsed = parseInline(line);
       elements.push(
-        <p key={key++} className="text-gray-600 leading-relaxed my-3">
+        <p key={key++} dir="auto" className="text-gray-600 leading-relaxed my-3">
           {parsed}
         </p>
       );

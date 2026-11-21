@@ -115,6 +115,8 @@ const nextConfig: NextConfig = {
       // fragrantica.com/perfume/Narciso-Rodriguez/Narciso-Rodriguez-for-Her-Eau-de-Parfum-14319.html
       // On garde la fiche qui avait 4 fois plus d'impressions.
       { source: "/parfums/narciso-rodriguez-for-her", destination: "/parfums/narciso-rodriguez-for-her-edp-rouge", permanent: true },
+      // 21/11/2026 : deux articles « meilleur parfum femme » se partageaient la requête ; fusionnés.
+      { source: "/blog/meilleur-parfum-femme-2026", destination: "/blog/meilleur-parfum-femme", permanent: true },
     ];
   },
 };
