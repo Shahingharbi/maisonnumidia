@@ -1,0 +1,31 @@
+{
+ "slug": "dunhill-dunhil-century",
+ "existe": true,
+ "fragrantica": {
+  "url": null,
+  "id": null,
+  "nomOfficiel": "Century",
+  "marqueOfficielle": "Dunhill",
+  "genre": "homme",
+  "annee": 2018
+ },
+ "notes": {
+  "top": [
+   "Bergamote",
+   "Pamplemousse",
+   "Mandarine"
+  ],
+  "heart": [],
+  "base": [
+   "Santal",
+   "Oliban",
+   "Néroli"
+  ]
+ },
+ "famille": "Hespéridé Boisé",
+ "concentrationConfirmee": "EDP",
+ "volumeExiste": true,
+ "remarque": "Concentration non indiquee dans le libelle, EDP selon revendeurs. Coeur non visible. Aucune page Fragrantica n'est remontee par la recherche : existence confirmee via le site officiel Dunhill / revendeurs, ID et URL Fragrantica non obtenus (id null, a retrouver avant telechargement de l'image).",
+ "confiance": "basse",
+ "verifieLe": "2026-11-21"
+}
