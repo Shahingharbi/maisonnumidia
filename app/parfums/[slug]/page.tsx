@@ -306,8 +306,21 @@ export default async function ProductPage({ params }: Props) {
           <div className="space-y-6 text-gray-600 text-sm sm:text-base leading-relaxed">
 
             {/* La description est redigee en paragraphes : un seul <p> les ecraserait. */}
+            {/* Un lien interne s'écrit [texte](/chemin) dans products.json : utile pour renvoyer vers
+                un parfum au nom voisin (Comme une Évidence / Mon Évidence) sans cannibaliser. */}
             {product.description.split(/\n{2,}/).map((para, i) => (
-              <p key={i}>{para.trim()}</p>
+              <p key={i}>
+                {para.trim().split(/(\[[^\]]+\]\(\/[^)\s]+\))/g).map((bout, j) => {
+                  const lien = bout.match(/^\[([^\]]+)\]\((\/[^)\s]+)\)$/);
+                  return lien ? (
+                    <Link key={j} href={lien[2]} className="text-[#C9A84C] hover:text-[#8B6914] underline-offset-2 hover:underline">
+                      {lien[1]}
+                    </Link>
+                  ) : (
+                    bout
+                  );
+                })}
+              </p>
             ))}
 
             {/* Le prix ouvre la section : c'est le premier mot que l'internaute ajoute au nom

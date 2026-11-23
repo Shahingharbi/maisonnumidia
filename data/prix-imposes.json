@@ -34,5 +34,11 @@
     "prix": 37900,
     "date": "2026-11-11",
     "raison": "Prix fixé par Shahin (était à 25000 DA avec la règle de marge)."
+  },
+  {
+    "slug": "evidence-yves-rocher",
+    "prix": 9200,
+    "date": "2026-11-23",
+    "raison": "Prix fixé par Shahin pour le 100 ml (la fiche annonçait 50 ml à 6500 DA). Stock important en 100 ml."
   }
 ]
