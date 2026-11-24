@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { getProductsByCategory, getBrandBySlug, versCarte, urlMarqueSection } from "@/lib/products";
 import FilterableProductGrid from "@/components/product/FilterableProductGrid";
@@ -9,7 +10,7 @@ import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Parfum Homme Original en Algérie — Dior, Chanel, Armani",
+  title: titrePage("/parfums-homme", "Parfum Homme Original en Algérie — Dior, Chanel, Armani"),
   description:
     "Achetez votre parfum homme original en Algérie. Dior Sauvage, Bleu de Chanel, Armani Code, 1 Million — 100% authentiques, livrés dans les 69 wilayas. Paiement à la réception.",
   alternates: { canonical: "https://maisonnumidia.store/parfums-homme" },
@@ -57,8 +58,9 @@ export default function ParfumsHommePage() {
         }}
       />
       <CategoryHero
-        title="Parfums Homme en Algérie"
-        description="Des classiques intemporels aux fragrances orientales les plus recherchées. Prix en dinar algérien, 100% originaux, livrés partout en Algérie."
+        title="Parfum homme original en Algérie"
+        section="homme"
+        description="Frais, boisés ou ambrés : les parfums pour homme 100 % originaux, de Dior Sauvage et Bleu de Chanel à Lattafa, avec leur prix en dinars. Livrés dans les 69 wilayas, payés à la livraison."
         count={products.length}
       />
 

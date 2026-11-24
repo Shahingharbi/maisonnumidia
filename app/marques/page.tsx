@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { getBrandsWithProducts, getProductsByBrand } from "@/lib/products";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 
 export const metadata: Metadata = {
-  title: "Toutes les Marques de Parfums en Algérie",
+  title: titrePage("/marques", "Toutes les Marques de Parfums en Algérie"),
   description:
     "Explorez toutes les marques de parfums disponibles en Algérie chez Maison Numidia : Dior, Chanel, Lattafa, Al Haramain et bien plus. Paiement à la livraison.",
   alternates: { canonical: "https://maisonnumidia.store/marques" },

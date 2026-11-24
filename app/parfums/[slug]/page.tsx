@@ -14,6 +14,7 @@ import {
   getProductsByBrand,
 } from "@/lib/products";
 import { getProductSchema, getBreadcrumbSchema, generateProductMeta, getFAQSchema } from "@/lib/seo";
+import { titrePage, titreTexte } from "@/lib/titres";
 import {
   generateFamilyAndFeel,
   generatePersona,
@@ -40,9 +41,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const product = getProductBySlug(slug);
   if (!product) return {};
-  const { title, description } = generateProductMeta(product);
+  const meta = generateProductMeta(product);
+  const description = meta.description;
+  const chemin = `/parfums/${slug}`;
+  const title = titreTexte(chemin, meta.title);
   return {
-    title,
+    title: titrePage(chemin, meta.title),
     description,
     alternates: { canonical: `https://maisonnumidia.store/parfums/${slug}` },
     openGraph: {

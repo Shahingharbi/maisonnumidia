@@ -1,0 +1,2673 @@
+{
+ "slug": "armani",
+ "nom": "Giorgio Armani",
+ "origine": "Italie",
+ "descriptionActuelle": "Maison fondée en 1975 par Giorgio Armani. Sophistication italienne et élégance minimaliste.",
+ "nbFiches": 79,
+ "pages": [
+  {
+   "chemin": "/marques/armani",
+   "gsc": {
+    "clics": 2,
+    "imp": 113,
+    "pos": 10.1,
+    "ctr": 1.8
+   },
+   "requetes": [
+    {
+     "q": "acqua di gio essenza prix",
+     "imp": 2,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "armani",
+     "imp": 2,
+     "clics": 0,
+     "pos": 31
+    },
+    {
+     "q": "gio armani",
+     "imp": 2,
+     "clics": 0,
+     "pos": 35
+    },
+    {
+     "q": "acqua di gio essenza",
+     "imp": 1,
+     "clics": 0,
+     "pos": 5
+    },
+    {
+     "q": "acqua di gio parfum 125ml",
+     "imp": 1,
+     "clics": 0,
+     "pos": 8
+    },
+    {
+     "q": "acqua di gio profumo 125ml",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "acqua di gioia armani",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "armani algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 16
+    },
+    {
+     "q": "armani perfume",
+     "imp": 1,
+     "clics": 0,
+     "pos": 38
+    },
+    {
+     "q": "essenza armani",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "giorgio armani",
+     "imp": 1,
+     "clics": 0,
+     "pos": 47
+    },
+    {
+     "q": "giorgio armani perfume",
+     "imp": 1,
+     "clics": 0,
+     "pos": 38
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "armani code giorgio armani",
+     "vol": 880,
+     "posMust": 1,
+     "notrePos": 23
+    },
+    {
+     "k": "giorgio armani parfum",
+     "vol": 210,
+     "posMust": 6,
+     "notrePos": null
+    },
+    {
+     "k": "sì giorgio armani",
+     "vol": 210,
+     "posMust": 2,
+     "notrePos": 20
+    },
+    {
+     "k": "parfum giorgio armani you",
+     "vol": 140,
+     "posMust": 1,
+     "notrePos": null
+    },
+    {
+     "k": "giorgio armani si",
+     "vol": 70,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "giorgio armani sì",
+     "vol": 70,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "giorgio armani my way",
+     "vol": 40,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "parfum si giorgio armani",
+     "vol": 40,
+     "posMust": 1,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/armani",
+   "gsc": {
+    "clics": 1,
+    "imp": 132,
+    "pos": 11.4,
+    "ctr": 0.8
+   },
+   "requetes": [
+    {
+     "q": "armani parfum homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 30
+    },
+    {
+     "q": "emporio armani parfum homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 39
+    },
+    {
+     "q": "giorgio armani parfum homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 45
+    },
+    {
+     "q": "parfum emporio armani homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 31
+    },
+    {
+     "q": "parfum giorgio armani homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 4.5
+    },
+    {
+     "q": "prix",
+     "imp": 2,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "armane",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "armani",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "armani parfum homme",
+     "vol": 260,
+     "posMust": 4,
+     "notrePos": 49
+    },
+    {
+     "k": "parfum homme armani",
+     "vol": 260,
+     "posMust": 4,
+     "notrePos": 45
+    },
+    {
+     "k": "armani homme parfum",
+     "vol": 260,
+     "notrePos": 44
+    },
+    {
+     "k": "parfum armani homme",
+     "vol": 260,
+     "notrePos": 45
+    },
+    {
+     "k": "parfum pour homme armani",
+     "vol": 260,
+     "notrePos": 42
+    },
+    {
+     "k": "parfum pour homme giorgio armani",
+     "vol": 170,
+     "notrePos": 38
+    },
+    {
+     "k": "giorgio armani parfum femme prix",
+     "vol": 30,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "parfum giorgio armani femme prix",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/armani",
+   "gsc": {
+    "clics": 10,
+    "imp": 531,
+    "pos": 5.7,
+    "ctr": 1.9
+   },
+   "requetes": [
+    {
+     "q": "giorgio armani parfum",
+     "imp": 54,
+     "clics": 0,
+     "pos": 2.6
+    },
+    {
+     "q": "parfum giorgio armani",
+     "imp": 15,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "giorgio armani femme",
+     "imp": 10,
+     "clics": 0,
+     "pos": 3.7
+    },
+    {
+     "q": "my way parfum 100 ml prix algerie",
+     "imp": 9,
+     "clics": 0,
+     "pos": 9.4
+    },
+    {
+     "q": "parfum giorgio armani femme prix",
+     "imp": 7,
+     "clics": 0,
+     "pos": 8.6
+    },
+    {
+     "q": "parfum armani",
+     "imp": 6,
+     "clics": 0,
+     "pos": 7.3
+    },
+    {
+     "q": "armani algerie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 12.8
+    },
+    {
+     "q": "armani femme",
+     "imp": 3,
+     "clics": 0,
+     "pos": 3.3
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "giorgio armani",
+     "vol": 1000,
+     "notrePos": 20
+    },
+    {
+     "k": "armani parfum",
+     "vol": 260,
+     "posMust": 10,
+     "notrePos": 38
+    },
+    {
+     "k": "parfum armani",
+     "vol": 210,
+     "posMust": 6,
+     "notrePos": 38
+    },
+    {
+     "k": "giorgio armani femme parfum",
+     "vol": 170,
+     "notrePos": 29
+    },
+    {
+     "k": "parfum gio armani femme",
+     "vol": 170,
+     "notrePos": 21
+    },
+    {
+     "k": "giorgio armani parfum femme prix",
+     "vol": 30,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "parfum giorgio armani femme prix",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "prix parfum giorgio armani femme",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/armani",
+   "gsc": {
+    "clics": 2,
+    "imp": 35,
+    "pos": 8.3,
+    "ctr": 5.7
+   },
+   "requetes": [
+    {
+     "q": "maison numidia",
+     "imp": 7,
+     "clics": 0,
+     "pos": 1
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "giorgio armani parfum femme prix",
+     "vol": 30,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "parfum giorgio armani femme prix",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "prix parfum giorgio armani femme",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "stronger-with-you-armani",
+   "nom": "Stronger With You",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Châtaigne",
+     "Sucre"
+    ],
+    "heart": [
+     "Sauge",
+     "Lavande"
+    ],
+    "base": [
+     "Vanille",
+     "Fumée"
+    ]
+   },
+   "imp90j": 292,
+   "clics90j": 6,
+   "volumeRecherche": 3600
+  },
+  {
+   "slug": "stronger-with-you-intensely",
+   "nom": "Stronger With You Intensely",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Poivre Rose",
+     "Genièvre",
+     "Feuille de Violette"
+    ],
+    "heart": [
+     "Lavande",
+     "Vanille"
+    ],
+    "base": [
+     "Toffee",
+     "Ambre",
+     "Fève Tonka"
+    ]
+   },
+   "imp90j": 2332,
+   "clics90j": 47,
+   "volumeRecherche": 1900
+  },
+  {
+   "slug": "acqua-di-gio-profumo-armani",
+   "nom": "Acqua di Gio Profumo",
+   "conc": "Parfum",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Aquatique Aromatique",
+   "enStock": false,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Notes marines",
+     "Bergamote"
+    ],
+    "heart": [
+     "Romarin",
+     "Sauge",
+     "Géranium"
+    ],
+    "base": [
+     "Encens",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 1663,
+   "clics90j": 52,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "armani-my-way",
+   "nom": "My Way",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Blanc",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Fleur d'Oranger",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin d'Égypte"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Musc Blanc",
+     "Cèdre de Virginie"
+    ]
+   },
+   "imp90j": 441,
+   "clics90j": 4,
+   "volumeRecherche": 1000
+  },
+  {
+   "slug": "acqua-di-gio-armani",
+   "nom": "Acqua di Giò Parfum",
+   "conc": "Parfum",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Aromatique Aquatique Boisé",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Notes Marines",
+     "Bergamote"
+    ],
+    "heart": [
+     "Romarin",
+     "Sauge Clary",
+     "Géranium"
+    ],
+    "base": [
+     "Encens",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 255,
+   "clics90j": 8,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "stronger-with-you-absolutely",
+   "nom": "Stronger With You Absolutely",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Rhum",
+     "Elemi",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande",
+     "Davana"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Châtaigne",
+     "Cèdre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 194,
+   "clics90j": 3,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "acqua-di-gio-profondo-armani",
+   "nom": "Acqua di Gio Profondo",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Notes marines",
+     "Mandarine verte"
+    ],
+    "heart": [
+     "Romarin",
+     "Lavande"
+    ],
+    "base": [
+     "Notes minérales",
+     "Ambre gris",
+     "Musc",
+     "Cèdre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 443,
+   "clics90j": 29,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "armani-vert-malachite",
+   "nom": "Vert Malachite",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boise Aromatique",
+   "enStock": true,
+   "prix": 76500,
+   "notes": {
+    "top": [
+     "Orange amere",
+     "Petitgrain"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Ylang-ylang",
+     "Poivre rose"
+    ],
+    "base": [
+     "Lys",
+     "Vanille",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 118,
+   "clics90j": 1,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "armani-i-will",
+   "nom": "I Will",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande",
+     "Feuille de violette",
+     "Sauge"
+    ],
+    "base": [
+     "Vanille",
+     "Cuir",
+     "Notes boisées",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 171,
+   "clics90j": 5,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "armani-si",
+   "nom": "Si",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Cassis"
+    ],
+    "heart": [
+     "Rose de Mai",
+     "Freesia"
+    ],
+    "base": [
+     "Vanille",
+     "Patchouli",
+     "Notes Boisées",
+     "Ambroxan"
+    ]
+   },
+   "imp90j": 922,
+   "clics90j": 21,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "si-passione-armani",
+   "nom": "Sì Passione",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 31000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Cassis",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose",
+     "Pivoine",
+     "Jasmin"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc blanc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 156,
+   "clics90j": 1,
+   "volumeRecherche": 320
+  },
+  {
+   "slug": "armani-power-of-you",
+   "nom": "Power Of You",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruite Gourmand",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Fruit de la passion",
+     "Orange amere",
+     "Citron"
+    ],
+    "heart": [
+     "Frangipanier",
+     "Notes solaires"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Benjoin",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 231,
+   "clics90j": 8,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "armani-stronger-with-you-freezing",
+   "nom": "Stronger With You Freeze",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": false,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Citron Vert",
+     "Mandarine",
+     "Pomme"
+    ],
+    "heart": [
+     "Lavande",
+     "Cardamome",
+     "Géranium Bourbon",
+     "Sauge"
+    ],
+    "base": [
+     "Vanille Bourbon",
+     "Bois Ambré",
+     "Bois de Gaïac",
+     "Marron Glacé"
+    ]
+   },
+   "imp90j": 254,
+   "clics90j": 6,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "armani-acqua-di-gioia",
+   "nom": "Acqua di Gioia",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Aquatique Floral",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Citron d'Amalfi",
+     "Menthe"
+    ],
+    "heart": [
+     "Jasmin aquatique"
+    ],
+    "base": [
+     "Cèdre de Virginie",
+     "Sucre roux",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 482,
+   "clics90j": 18,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "armani-stronger-with-you-only",
+   "nom": "Stronger With You Only",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Lavande",
+     "Géranium"
+    ],
+    "base": [
+     "Châtaigne",
+     "Labdanum",
+     "Vanille"
+    ]
+   },
+   "imp90j": 665,
+   "clics90j": 8,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armani-acqua-di-gio-elixir",
+   "nom": "Acqua di Giò Elixir",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "homme",
+   "famille": "Aromatique Aquatique",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine verte",
+     "Noix de muscade"
+    ],
+    "heart": [
+     "Violette (absolue feuille)",
+     "Accord calone"
+    ],
+    "base": [
+     "Cuir",
+     "Patchouli",
+     "Vétiver",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 30,
+   "clics90j": 1,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "because-it-s-you-armani",
+   "nom": "Because It's You",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Citron",
+     "Néroli"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Vanille",
+     "Musc",
+     "Bois ambré"
+    ]
+   },
+   "imp90j": 510,
+   "clics90j": 11,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-she",
+   "nom": "Emporio Armani She",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Fleurs Blanches",
+     "Mandarine"
+    ],
+    "heart": [
+     "Pivoine",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Cèdre",
+     "Musc Blanc",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 510,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-stronger-with-you-leather",
+   "nom": "Emporio Armani Stronger With You Leather",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Cuir",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Châtaigne",
+     "Épices",
+     "Élémi"
+    ],
+    "heart": [
+     "Lavande",
+     "Sauge"
+    ],
+    "base": [
+     "Vanille",
+     "Cuir",
+     "Bois de gaïac",
+     "Bois d'agar (Oud)"
+    ]
+   },
+   "imp90j": 306,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-stronger-with-you-powerfully",
+   "nom": "Emporio Armani Stronger With You Powerfully",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Vanille",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Cerise",
+     "Mandarine"
+    ],
+    "heart": [
+     "Epices",
+     "Lavande"
+    ],
+    "base": [
+     "Chataigne",
+     "Vanille",
+     "Bois ambre"
+    ]
+   },
+   "imp90j": 306,
+   "clics90j": 7,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-profumo",
+   "nom": "Code Profumo",
+   "conc": "Parfum",
+   "volume": "110ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": false,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Pomme Verte",
+     "Mandarine Verte"
+    ],
+    "heart": [
+     "Noix de Muscade",
+     "Lavande",
+     "Fleur d'Oranger"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Ambre",
+     "Cuir"
+    ]
+   },
+   "imp90j": 302,
+   "clics90j": 15,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-stronger-with-you-sandalwood",
+   "nom": "Emporio Armani Stronger With You Sandalwood",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 34000,
+   "notes": {
+    "top": [
+     "Safran"
+    ],
+    "heart": [
+     "Lavande",
+     "Châtaigne"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Vanille",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 228,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-my-way-nectar",
+   "nom": "My Way Nectar",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruite",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Fleur d'oranger",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubereuse",
+     "Jasmin",
+     "Feuille de violette"
+    ],
+    "base": [
+     "Musc blanc",
+     "Vanille bourbon",
+     "Bois de cedre"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 0,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "armani-si-fiori",
+   "nom": "Sì Fiori",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": false,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Cassis",
+     "Mandarine Verte"
+    ],
+    "heart": [
+     "Néroli",
+     "Rose",
+     "Patchouli",
+     "Mousse de Chêne"
+    ],
+    "base": [
+     "Vanille",
+     "Musc Blanc"
+    ]
+   },
+   "imp90j": 137,
+   "clics90j": 8,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armani-acqua-di-gio-essenza",
+   "nom": "Acqua di Giò Essenza",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Aquatique Boisé",
+   "enStock": false,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Notes Marines",
+     "Agrumes",
+     "Bergamote"
+    ],
+    "heart": [
+     "Vétiver",
+     "Cèdre",
+     "Romarin"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 166,
+   "clics90j": 6,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armani-acqua-di-gio-absolu",
+   "nom": "Acqua di Giò Absolu",
+   "conc": "EDP",
+   "volume": "200ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 37500,
+   "notes": {
+    "top": [
+     "Notes marines",
+     "Bergamote",
+     "Poire",
+     "Pomme",
+     "Pamplemousse",
+     "Citron"
+    ],
+    "heart": [
+     "Lavande",
+     "Romarin",
+     "Géranium"
+    ],
+    "base": [
+     "Notes boisées",
+     "Fève tonka",
+     "Bois d'ambre",
+     "Patchouli",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 70,
+   "clics90j": 7,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "armani-code",
+   "nom": "Code",
+   "conc": "EDP",
+   "volume": "110ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Café Arabica",
+     "Cardamome",
+     "Sauge"
+    ],
+    "base": [
+     "Bois de Guaiac",
+     "Tabac Blond",
+     "Fève Tonka"
+    ]
+   },
+   "imp90j": 153,
+   "clics90j": 5,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armani-si-intense",
+   "nom": "Si Intense",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Cassis (sirop)"
+    ],
+    "heart": [
+     "Rose turque",
+     "Davana"
+    ],
+    "base": [
+     "Benjoin",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 86,
+   "clics90j": 2,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "armani-prive-rose-d-arabie",
+   "nom": "Privé Rose d'Arabie",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 68500,
+   "notes": {
+    "top": [
+     "Safran"
+    ],
+    "heart": [
+     "Rose de Damas",
+     "Patchouli",
+     "Bois sombres"
+    ],
+    "base": [
+     "Ambre"
+    ]
+   },
+   "imp90j": 173,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-femme",
+   "nom": "Code Femme",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Néroli blanc",
+     "Oranger",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Fleur d'oranger absolue",
+     "Gardénia"
+    ],
+    "base": [
+     "Vanille de Bourbon",
+     "Cèdre",
+     "Ambre miel"
+    ]
+   },
+   "imp90j": 155,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-si-passione-red-musk",
+   "nom": "Sì Passione Red Musk",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Gourmand Musque",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Fraise",
+     "Musc"
+    ],
+    "heart": [
+     "Rose",
+     "Lait"
+    ],
+    "base": [
+     "Musc",
+     "Vanille"
+    ]
+   },
+   "imp90j": 79,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armani-code-absolu",
+   "nom": "Code Absolu",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Pomme",
+     "Accord Rhum"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Muscade"
+    ],
+    "base": [
+     "Fève tonka",
+     "Accord Rhum",
+     "Vanille"
+    ]
+   },
+   "imp90j": 126,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-edp",
+   "nom": "Code EDP",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fève tonka"
+    ],
+    "base": [
+     "Vanille",
+     "Daim",
+     "Musc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 120,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-my-way-parfum",
+   "nom": "My Way Le Parfum",
+   "conc": "Parfum",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Fleur d'Oranger",
+     "Orange Amère",
+     "Bergamote de Calabre"
+    ],
+    "heart": [
+     "Iris Pallida",
+     "Tubéreuse Indienne",
+     "Ambrette"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Vanille Bourbon",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 108,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-my-way-sunny-vanilla",
+   "nom": "My Way Sunny Vanilla",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 33500,
+   "notes": {
+    "top": [
+     "Ananas",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 45,
+   "clics90j": 0,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armani-si-rose-signature",
+   "nom": "Si Rose Signature",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Rose",
+   "enStock": false,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Cassis noir",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Rose de mai",
+     "Rose de Damas",
+     "Freesia",
+     "Iris",
+     "Osmanthus"
+    ],
+    "base": [
+     "Patchouli",
+     "Ambrette",
+     "Ambre",
+     "Vanille"
+    ]
+   },
+   "imp90j": 104,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-my-way-intense",
+   "nom": "My Way Intense",
+   "conc": "EDP Intense",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Fleur d'oranger",
+     "Orange amère"
+    ],
+    "heart": [
+     "Tubéreuse indienne",
+     "Tubéreuse"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 2,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armani-code-parfum",
+   "nom": "Code Parfum",
+   "conc": "Parfum",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Feuille de bergamotier"
+    ],
+    "heart": [
+     "Iris",
+     "Aldéhydes",
+     "Sauge sclarée",
+     "Orris"
+    ],
+    "base": [
+     "Fève tonka",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 92,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-my-way-ylang",
+   "nom": "My Way Ylang",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Mangue",
+     "Noix de coco",
+     "Fleur d'oranger",
+     "Bergamote"
+    ],
+    "heart": [
+     "Ylang-ylang",
+     "Tubéreuse"
+    ],
+    "base": [
+     "Vanille",
+     "Musc blanc",
+     "Bois de cèdre"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armani-prive-vert-malachite",
+   "nom": "Privé Vert Malachite",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 41000,
+   "notes": {
+    "top": [
+     "Orange amère",
+     "Petit grain"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Ylang-ylang",
+     "Poivre rose"
+    ],
+    "base": [
+     "Lys",
+     "Vanille",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 74,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-rouge-malachite",
+   "nom": "Privé Rouge Malachite",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 67500,
+   "notes": {
+    "top": [
+     "Tubéreuse",
+     "Poivre rose",
+     "Sauge sclarée"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin Sambac",
+     "Ylang-ylang",
+     "Benjoin",
+     "Cashmeran",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Tubéreuse",
+     "Ambre"
+    ]
+   },
+   "imp90j": 73,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-mania",
+   "nom": "Armani Mania",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": false,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Safran",
+     "Feuilles d'agrumes"
+    ],
+    "heart": [
+     "Cèdre",
+     "Vétiver"
+    ],
+    "base": [
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 68,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-magenta-tanzanite",
+   "nom": "Magenta Tanzanite",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Ambre Epice",
+   "enStock": true,
+   "prix": 68500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Cardamome",
+     "Gingembre"
+    ],
+    "heart": [
+     "Cafe",
+     "Cannelle",
+     "Myrrhe"
+    ],
+    "base": [
+     "Feve tonka",
+     "Vanille",
+     "Tabac"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 0,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armani-eau-de-cedre",
+   "nom": "Eau de Cèdre",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 41500,
+   "notes": {
+    "top": [
+     "Sauge",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Feuille de violette",
+     "Cardamome",
+     "Cumin"
+    ],
+    "base": [
+     "Thé noir",
+     "Cèdre",
+     "Cuir (suède)",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 62,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-stronger-with-you-limited-edition",
+   "nom": "Emporio Armani Stronger With You Limited Edition",
+   "conc": "EDT",
+   "volume": "150ml",
+   "genre": "homme",
+   "famille": "Oriental Vanillé",
+   "enStock": false,
+   "prix": 33500,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Cardamome"
+    ],
+    "heart": [
+     "Sauge"
+    ],
+    "base": [
+     "Vanille",
+     "Marron glacé",
+     "Ambre"
+    ]
+   },
+   "imp90j": 91,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armani-figuier-eden",
+   "nom": "Figuier Eden",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 66000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Poivre rose",
+     "Mandarine"
+    ],
+    "heart": [
+     "Figue",
+     "Thé",
+     "Herbe verte"
+    ],
+    "base": [
+     "Iris",
+     "Ambre"
+    ]
+   },
+   "imp90j": 30,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armani-emporio-stronger-with-you-amber",
+   "nom": "Emporio Armani Stronger With You Amber",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Fougère Orientale",
+   "enStock": true,
+   "prix": 30500,
+   "notes": {
+    "top": [
+     "Lavande"
+    ],
+    "heart": [
+     "Ambre"
+    ],
+    "base": [
+     "Vanille de Madagascar"
+    ]
+   },
+   "imp90j": 56,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-diamonds-violet",
+   "nom": "Emporio Armani Diamonds Violet",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 11500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Litchi",
+     "Fruit de la passion"
+    ],
+    "heart": [
+     "Violette",
+     "Rose de Bulgarie",
+     "Muguet"
+    ],
+    "base": [
+     "Praline",
+     "Vanille",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 55,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-my-way-floral",
+   "nom": "My Way Floral",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Fleur d'oranger",
+     "Mandarine verte",
+     "Orange amere"
+    ],
+    "heart": [
+     "Tubereuse indienne",
+     "Neroli tunisien"
+    ],
+    "base": [
+     "Vanille bourbon",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 18,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armani-code-elixir",
+   "nom": "Code Elixir",
+   "conc": "Parfum",
+   "volume": "50ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 31500,
+   "notes": {
+    "top": [
+     "Mandarine verte"
+    ],
+    "heart": [
+     "Cuir",
+     "Accord liqueur"
+    ],
+    "base": [
+     "Feve tonka grillee"
+    ]
+   },
+   "imp90j": 47,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-oud-royal",
+   "nom": "Privé Oud Royal",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 75000,
+   "notes": {
+    "top": [
+     "Encens",
+     "Safran"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Bois d'agar (Oud)",
+     "Bois de santal",
+     "Ambre"
+    ]
+   },
+   "imp90j": 77,
+   "clics90j": 3,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armani-blanc-kogane",
+   "nom": "Blanc Kogane",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Aldehyde",
+   "enStock": true,
+   "prix": 68500,
+   "notes": {
+    "top": [
+     "Aldehydes",
+     "Jasmin indien"
+    ],
+    "heart": [
+     "Musc blanc",
+     "Lys"
+    ],
+    "base": [
+     "Patchouli",
+     "Vetiver"
+    ]
+   },
+   "imp90j": 15,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armani-emporio-in-love-with-you",
+   "nom": "Emporio Armani In Love With You",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Griotte",
+     "Cassis"
+    ],
+    "heart": [
+     "Armoise",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Patchouli"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-lei",
+   "nom": "Emporio Armani Lei",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Gourmand",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Citron vert",
+     "Tubéreuse",
+     "Bergamote",
+     "Poire",
+     "Mandarine",
+     "Ananas"
+    ],
+    "heart": [
+     "Héliotrope",
+     "Racine d'iris",
+     "Jasmin",
+     "Muguet"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille",
+     "Musc",
+     "Amande",
+     "Fève tonka",
+     "Cèdre",
+     "Ambre"
+    ]
+   },
+   "imp90j": 43,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-rose-d-arabie-limited-edition-2018",
+   "nom": "Prive Rose d'Arabie Limited Edition 2018",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 72500,
+   "notes": {
+    "top": [],
+    "heart": [
+     "Rose de Damas",
+     "Bois d'agar (Oud)"
+    ],
+    "base": [
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 71,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armani-eau-d-aromes",
+   "nom": "Eau d'Arômes",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 30500,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Gingembre",
+     "Patchouli"
+    ],
+    "base": [
+     "Vétiver",
+     "Sauge",
+     "Cardamome"
+    ]
+   },
+   "imp90j": 40,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-in-love-with-you-freeze",
+   "nom": "Emporio Armani In Love With You Freeze",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Cerise",
+     "Mandarine",
+     "Bergamote",
+     "Poire"
+    ],
+    "heart": [
+     "Pivoine",
+     "Jasmin Sambac",
+     "Muguet"
+    ],
+    "base": [
+     "Patchouli",
+     "Notes boisees",
+     "Musc blanc",
+     "Vetiver"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-eau-pour-homme",
+   "nom": "Eau Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Hesperide",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Basilic"
+    ],
+    "heart": [
+     "Clou de girofle",
+     "Muscade",
+     "Lys"
+    ],
+    "base": [
+     "Mousse de chene",
+     "Santal",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-pivoine-suzhou",
+   "nom": "Privé Pivoine Suzhou",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Chypre Floral",
+   "enStock": true,
+   "prix": 61000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Poivre rose",
+     "Mandarine"
+    ],
+    "heart": [
+     "Pivoine",
+     "Rose de mai",
+     "Rose"
+    ],
+    "base": [
+     "Musc",
+     "Ambre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 27,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-bois-d-encens",
+   "nom": "Privé Bois d'Encens",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 61000,
+   "notes": {
+    "top": [
+     "Encens"
+    ],
+    "heart": [
+     "Épices",
+     "Cèdre"
+    ],
+    "base": [
+     "Labdanum",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-si-passione-eclat-de-parfum",
+   "nom": "Sì Passione Éclat de Parfum",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Cassis",
+     "Bergamote de Calabre"
+    ],
+    "heart": [
+     "Rose de Mai",
+     "Rose de Damas"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Vanille de Madagascar"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-absolu-gold",
+   "nom": "Code Absolu Gold",
+   "conc": "EDP",
+   "volume": "110ml",
+   "genre": "homme",
+   "famille": "Oriental Epice",
+   "enStock": false,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Pomme verte"
+    ],
+    "heart": [
+     "Iris",
+     "Safran"
+    ],
+    "base": [
+     "Feve tonka",
+     "Benjoin",
+     "Bois de gaiac",
+     "Cedre"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-luna",
+   "nom": "Code Luna",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Bergamote italienne",
+     "Petit grain"
+    ],
+    "heart": [
+     "Fleur d'oranger absolue",
+     "Mirabilis (fleur de lune)"
+    ],
+    "base": [
+     "Vanille"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-cuir-zerzura",
+   "nom": "Cuir Zerzura",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boise Cuir",
+   "enStock": true,
+   "prix": 66000,
+   "notes": {
+    "top": [
+     "Feuille de violette",
+     "Resine d elemi",
+     "Mandarine"
+    ],
+    "heart": [
+     "Iris",
+     "Rose"
+    ],
+    "base": [
+     "Cuir",
+     "Cedre",
+     "Vanille bourbon"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-noir-kogane",
+   "nom": "Noir Kogane",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Cuir Boisé",
+   "enStock": true,
+   "prix": 68500,
+   "notes": {
+    "top": [
+     "Élémi",
+     "Cumin",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Safran",
+     "Oliban",
+     "Ciste labdanum"
+    ],
+    "base": [
+     "Patchouli",
+     "Cuir boisé",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-terra-di-gioia",
+   "nom": "Terra di Gioia",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Poire",
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fleur d'amandier",
+     "Jasmin"
+    ],
+    "base": [
+     "Bois ambré",
+     "Musc"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-he",
+   "nom": "Emporio Armani He",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boise",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Yuzu japonais",
+     "Cardamome",
+     "Sauge"
+    ],
+    "heart": [
+     "Racine d'iris",
+     "Muscade",
+     "Rose"
+    ],
+    "base": [
+     "Musc blanc",
+     "Vetiver",
+     "Santal",
+     "Feve tonka"
+    ]
+   },
+   "imp90j": 15,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-a-list",
+   "nom": "Code A-List",
+   "conc": "EDT",
+   "volume": "50ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Mandarine verte",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande"
+    ],
+    "base": [
+     "Fève tonka",
+     "Bois de gaïac"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-emporio-diamonds-rocks",
+   "nom": "Emporio Armani Diamonds Rocks",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Poivre noir",
+     "Pomme"
+    ],
+    "heart": [
+     "Notes marines",
+     "Violette",
+     "Géranium"
+    ],
+    "base": [
+     "Bois de gaïac",
+     "Cèdre",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-bleu-turquoise",
+   "nom": "Privé Bleu Turquoise",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 68500,
+   "notes": {
+    "top": [
+     "Sel",
+     "Encens",
+     "Poivre noir"
+    ],
+    "heart": [
+     "Ylang-ylang",
+     "Cypriol (Nagarmotha)",
+     "Jasmin d'Inde"
+    ],
+    "base": [
+     "Vanille",
+     "Bois de santal",
+     "Mousse"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-iris-celadon",
+   "nom": "Iris Celadon",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Boise Musque",
+   "enStock": true,
+   "prix": 82000,
+   "notes": {
+    "top": [
+     "Iris",
+     "Cardamome",
+     "Aldehydes",
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris",
+     "Chocolat",
+     "The mate"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc",
+     "Ambrette"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-bleu-lazuli",
+   "nom": "Privé Bleu Lazuli",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 69500,
+   "notes": {
+    "top": [
+     "Mate",
+     "Cardamome",
+     "Bergamote"
+    ],
+    "heart": [
+     "Prune",
+     "Osmanthe",
+     "Jasmin"
+    ],
+    "base": [
+     "Miel",
+     "Tabac",
+     "Vanille",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 10,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-code-colonia",
+   "nom": "Code Colonia",
+   "conc": "Cologne",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Fougère Aromatique",
+   "enStock": true,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Poivre Rose"
+    ],
+    "heart": [
+     "Fleur d'Oranger",
+     "Sauge Sclarée",
+     "Salicylate d'Amyle"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Bois Ambré",
+     "Héliotrope"
+    ]
+   },
+   "imp90j": 9,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-sky-di-gioia",
+   "nom": "Sky di Gioia",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": false,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Litchi",
+     "Poire"
+    ],
+    "heart": [
+     "Pivoine rose",
+     "Rose"
+    ],
+    "base": [
+     "Musc blanc",
+     "Mûre",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-light-di-gioia",
+   "nom": "Light di Gioia",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 14000,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Gardénia",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc blanc",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 1,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armani-prive-encens-satin",
+   "nom": "Privé Encens Satin",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 61000,
+   "notes": {
+    "top": [
+     "Encens"
+    ],
+    "heart": [
+     "Bois",
+     "Épices"
+    ],
+    "base": [
+     "Ambre",
+     "Vanille"
+    ]
+   },
+   "imp90j": 27,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armani-prive-musc-shamal",
+   "nom": "Privé Musc Shamal",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental",
+   "enStock": true,
+   "prix": 67500,
+   "notes": {
+    "top": [
+     "Aldéhydes",
+     "Agrumes"
+    ],
+    "heart": [
+     "Musc",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Ambre",
+     "Vanille",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 19,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armani-prive-sable-nuit",
+   "nom": "Privé Sable Nuit",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 61000,
+   "notes": {
+    "top": [
+     "Oliban",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Cèdre",
+     "Benjoin",
+     "Labdanum",
+     "Patchouli"
+    ],
+    "base": [
+     "Oliban",
+     "Vanille",
+     "Ambroxan"
+    ]
+   },
+   "imp90j": 6,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armani-onde-extase",
+   "nom": "Onde Extase",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Mimosa",
+     "Jasmin",
+     "Jonquille"
+    ],
+    "base": [
+     "Cèdre",
+     "Mousse de chêne",
+     "Sésame"
+    ]
+   },
+   "imp90j": 2,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

@@ -385,14 +385,52 @@ export function generateProductMeta(product: Product) {
   // dominante ("[produit] prix algérie") et que son absence du titre plombe le CTR
   // sur des pages pourtant bien positionnées (voir CLAUDE.md, section Titres meta).
   const title = `${brandName} Prix Algérie Original`;
-  const genderLabel =
-    product.gender === "homme"
-      ? "homme"
-      : product.gender === "femme"
-      ? "femme"
-      : "unisexe";
-  const description = `${brandName} ${product.concentration} ${product.volume} ${genderLabel} 100% authentique. Livraison Yalidine, paiement à la réception.`;
-  return { title, description };
+  return { title, description: descriptionProduit(product, brandName) };
+}
+
+const CONCENTRATION_LONGUE: Record<string, string> = {
+  EDP: "eau de parfum",
+  EDT: "eau de toilette",
+  Parfum: "parfum",
+  "Extrait de Parfum": "extrait de parfum",
+  Cologne: "eau de Cologne",
+};
+
+/**
+ * Meta description propre à chaque fiche : version, genre, contenance et notes du parfum, puis
+ * les trois garanties qui décident l'achat en Algérie. 155 caractères au plus, sans prix (il change
+ * et Google l'affiche déjà quand il le veut), sans tiret long. Les notes viennent de la pyramide
+ * du catalogue : deux fiches ne peuvent pas avoir la même description.
+ */
+function descriptionProduit(product: Product, brandName: string): string {
+  const conc = CONCENTRATION_LONGUE[product.concentration] ?? product.concentration.toLowerCase();
+  // Le nom porte souvent déjà sa version (« Chance Eau Tendre Eau de Parfum ») : ne pas la répéter.
+  const nomDitConc = brandName.toLowerCase().includes(conc);
+  const genre = product.gender === "homme" ? "pour homme" : product.gender === "femme" ? "pour femme" : "mixte";
+  const volume = product.volume ? ` ${product.volume.replace(/(\d)\s*ml/i, "$1 ml")}` : "";
+  const quoi = `${nomDitConc ? "parfum" : conc} ${genre}${volume}`;
+  const minuscule = (n: string) => (/^[A-Z][a-zà-ÿ]/.test(n) ? n[0].toLowerCase() + n.slice(1) : n);
+  const notes = [
+    ...new Set([...(product.notes?.top ?? []).slice(0, 1), ...(product.notes?.heart ?? []).slice(0, 1), ...(product.notes?.base ?? []).slice(0, 1)].map(minuscule)),
+  ];
+  const fins = product.inStock
+    ? ["Original garanti, livré dans les 69 wilayas, paiement à la livraison.", "Original, livré dans les 69 wilayas, paiement à la livraison."]
+    : // Les ruptures du catalogue sont des parfums arrêtés ou des éditions limitées passées (CLAUDE.md) :
+      // « pour le moment » promettrait un retour qui n'arrivera pas.
+      ["Plus disponible : voyez les parfums proches, originaux et livrés dans les 69 wilayas.", "Plus disponible : voyez les parfums proches."];
+  // Du plus complet au plus court : toutes les notes et la fin longue, puis moins de notes,
+  // puis la fin courte, puis le nom seul (les noms de 80 caractères, type éditions collector).
+  for (const nom of [brandName, product.name])
+    for (const fin of fins)
+      for (let n = notes.length; n >= 0; n--) {
+        const liste = notes.slice(0, n);
+        const avecNotes = liste.length
+          ? ` : ${liste.length > 1 ? `${liste.slice(0, -1).join(", ")} et ${liste[liste.length - 1]}` : liste[0]}.`
+          : ".";
+        const d = `${nom}, ${quoi}${avecNotes} ${fin}`;
+        if (d.length <= 155) return d;
+      }
+  return `${product.name}, ${quoi}.`;
 }
 
 export function generateCategoryMeta(

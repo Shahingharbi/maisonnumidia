@@ -1,0 +1,1773 @@
+[
+ {
+  "chemin": "/parfums/prada-candy-florale",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Candy Florale",
+  "conc": "EDT",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Prada Candy Florale Parfum Femme Algérie",
+  "notes": [
+   "Limoncello",
+   "Pivoine",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "candy florale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-candy",
+    "nom": "Candy",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "prada-candy-sugar-pop",
+    "nom": "Candy Sugar Pop",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "prada-candy-night",
+    "nom": "Candy Night",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-infusion-de-vetiver",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Infusion de Vétiver",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Prada Infusion de Vétiver Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Gingembre violet",
+   "Néroli",
+   "Rose"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "infusion de vetiver",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-infusion-d-iris",
+    "nom": "Infusion d'Iris",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-rose",
+    "nom": "Infusion de Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-d-amande",
+    "nom": "Infusion d'Amande",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-cedre",
+    "nom": "Infusion de Cedre",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-rhubarbe",
+    "nom": "Infusion de Rhubarbe",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-d-ylang",
+    "nom": "Infusion d'Ylang",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-gingembre",
+    "nom": "Infusion de Gingembre",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-la-femme-absolu",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "La Femme Absolu",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Prada La Femme Absolu Parfum Femme Algérie",
+  "notes": [
+   "Peche",
+   "Orange sanguine",
+   "Fleur d'oranger",
+   "Baume de tolu"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "la femme absolu",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-la-femme",
+    "nom": "La Femme Prada",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-la-femme-water-splash",
+    "nom": "La Femme Water Splash",
+    "conc": "EDT",
+    "vol": "150ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-infusion-d-ylang",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Infusion d'Ylang",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Prada Infusion d'Ylang Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Cardamome",
+   "Ylang-ylang",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "infusion d ylang",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-infusion-d-iris",
+    "nom": "Infusion d'Iris",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-rose",
+    "nom": "Infusion de Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-d-amande",
+    "nom": "Infusion d'Amande",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-cedre",
+    "nom": "Infusion de Cedre",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-rhubarbe",
+    "nom": "Infusion de Rhubarbe",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-vetiver",
+    "nom": "Infusion de Vétiver",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-gingembre",
+    "nom": "Infusion de Gingembre",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-infusion-de-gingembre",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Infusion de Gingembre",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Prada Infusion de Gingembre Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine verte",
+   "Aldehydes",
+   "Gingembre",
+   "Vetiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "infusion de gingembre",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-infusion-d-iris",
+    "nom": "Infusion d'Iris",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-rose",
+    "nom": "Infusion de Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-d-amande",
+    "nom": "Infusion d'Amande",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-cedre",
+    "nom": "Infusion de Cedre",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-rhubarbe",
+    "nom": "Infusion de Rhubarbe",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-de-vetiver",
+    "nom": "Infusion de Vétiver",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-infusion-d-ylang",
+    "nom": "Infusion d'Ylang",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-luna-rossa-sport",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Luna Rossa Sport",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Prada Luna Rossa Sport Parfum Homme Algérie",
+  "notes": [
+   "Baies de genièvre",
+   "Gingembre",
+   "Lavande",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "luna rossa sport",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-luna-rossa-carbon",
+    "nom": "Luna Rossa Carbon",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-luna-rossa-ocean",
+    "nom": "Luna Rossa Ocean",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-luna-rossa-black",
+    "nom": "Luna Rossa Black",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-luna-rossa",
+    "nom": "Luna Rossa",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-mirages-miracle-of-the-rose",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Mirages Miracle of the Rose",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Prada Mirages Miracle of the Rose Parfum Mixte Algérie",
+  "notes": [
+   "Rose",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mirages miracle of the rose",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-mirages-dark-light",
+    "nom": "Mirages Dark Light",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-mirages-moonlight-shadow",
+    "nom": "Mirages Moonlight Shadow",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-mirages-babylon",
+    "nom": "Mirages Babylon",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-mirages-babylon",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Mirages Babylon",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Prada Mirages Babylon Parfum Mixte Algérie",
+  "notes": [
+   "Bois de santal",
+   "Ambre",
+   "Labdanum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mirages babylon",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "prada-mirages-dark-light",
+    "nom": "Mirages Dark Light",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-mirages-miracle-of-the-rose",
+    "nom": "Mirages Miracle of the Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "prada-mirages-moonlight-shadow",
+    "nom": "Mirages Moonlight Shadow",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/prada-double-dare",
+  "type": "produit",
+  "marque": "Prada",
+  "nom": "Double Dare",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Prada Double Dare Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Poivre",
+   "Iris",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "double dare",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/ralph-lauren-polo-deep-blue-parfum",
+  "type": "produit",
+  "marque": "Ralph Lauren",
+  "nom": "Polo Deep Blue Parfum",
+  "conc": "Parfum",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Ralph Lauren Polo Deep Blue Parfum Parfum Homme Algérie",
+  "notes": [
+   "Mangue Verte",
+   "Pamplemousse",
+   "Cyprès",
+   "Notes Marines"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "polo deep blue parfum",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "polo-blue-ralph-lauren",
+    "nom": "Polo Blue",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "ralph-lauren-polo-red",
+    "nom": "Polo Red",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "polo-sport-ralph-lauren",
+    "nom": "Polo Sport",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "polo-black-ralph-lauren",
+    "nom": "Polo Black",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "polo-intense-ralph-lauren",
+    "nom": "Polo Cologne Intense",
+    "conc": "EDP",
+    "vol": "120ml"
+   },
+   {
+    "slug": "ralph-lauren-polo-red-rush",
+    "nom": "Polo Red Rush",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "ralph-lauren-polo-green",
+    "nom": "Polo Green",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "ralph-lauren-polo-blue-gold-blend",
+    "nom": "Polo Blue Gold Blend",
+    "conc": "EDP",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/rasasi-hawas-atlantis",
+  "type": "produit",
+  "marque": "Rasasi",
+  "nom": "Hawas Atlantis",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Rasasi Hawas Atlantis Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Notes aquatiques",
+   "Bois flotté"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hawas atlantis",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "rasasi-hawas",
+    "nom": "Hawas",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-pour-elle",
+    "nom": "Hawas Pour Elle",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-exotic",
+    "nom": "Hawas Exotic",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-verde",
+    "nom": "Hawas Verde",
+    "conc": "Cologne",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/rasasi-hawas-exotic",
+  "type": "produit",
+  "marque": "Rasasi",
+  "nom": "Hawas Exotic",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Rasasi Hawas Exotic Parfum Homme Algérie",
+  "notes": [
+   "Armoise",
+   "Noix de coco",
+   "Racine d'iris",
+   "Huile essentielle de cypriol"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hawas exotic",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "rasasi-hawas",
+    "nom": "Hawas",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-pour-elle",
+    "nom": "Hawas Pour Elle",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-atlantis",
+    "nom": "Hawas Atlantis",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-verde",
+    "nom": "Hawas Verde",
+    "conc": "Cologne",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/rasasi-hawas-verde",
+  "type": "produit",
+  "marque": "Rasasi",
+  "nom": "Hawas Verde",
+  "conc": "Cologne",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Rasasi Hawas Verde Parfum Homme Algérie",
+  "notes": [
+   "Citron vert",
+   "Romarin",
+   "Patchouli",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hawas verde",
+   "vol": 140
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "rasasi-hawas",
+    "nom": "Hawas",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-pour-elle",
+    "nom": "Hawas Pour Elle",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-atlantis",
+    "nom": "Hawas Atlantis",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "rasasi-hawas-exotic",
+    "nom": "Hawas Exotic",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roberto-cavalli-paradiso-rosa",
+  "type": "produit",
+  "marque": "Roberto Cavalli",
+  "nom": "Paradiso Rosa",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roberto Cavalli Paradiso Rosa Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Pamplemousse rose",
+   "Pivoine rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "paradiso rosa",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roberto-cavalli-paradiso",
+    "nom": "Paradiso",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "roberto-cavalli-paradiso-assoluto",
+    "nom": "Paradiso Assoluto",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "roberto-cavalli-paradiso-azzurro",
+    "nom": "Paradiso Azzurro",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roberto-cavalli-uomo",
+  "type": "produit",
+  "marque": "Roberto Cavalli",
+  "nom": "Uomo",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Roberto Cavalli Uomo Parfum Homme Algérie",
+  "notes": [
+   "Violette noire",
+   "Safran",
+   "Miel",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "roberto cavalli uomo",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roberto-cavalli-uomo-deep-desire",
+    "nom": "Uomo Deep Desire",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-rochas-fraiche",
+  "type": "produit",
+  "marque": "Rochas",
+  "nom": "Eau de Rochas Fraiche",
+  "conc": "EDT",
+  "volume": "220ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Eau de Rochas Fraiche Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Notes d'eau",
+   "Fleurs blanches",
+   "Mousse de chêne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de rochas fraiche",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eau-de-rochas-escapade-au-soleil",
+    "nom": "Eau de Rochas Escapade Au Soleil",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-rochas-orange-horizon",
+    "nom": "Eau de Rochas Orange Horizon",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-rochas-escapade-au-soleil",
+  "type": "produit",
+  "marque": "Rochas",
+  "nom": "Eau de Rochas Escapade Au Soleil",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Eau de Rochas Escapade Au Soleil Parfum Femme Algérie",
+  "notes": [
+   "Zeste de citron",
+   "Bergamote",
+   "Fleur d'oranger",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de rochas escapade au soleil",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eau-de-rochas-fraiche",
+    "nom": "Eau de Rochas Fraiche",
+    "conc": "EDT",
+    "vol": "220ml"
+   },
+   {
+    "slug": "eau-de-rochas-orange-horizon",
+    "nom": "Eau de Rochas Orange Horizon",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/rochas-girl-life",
+  "type": "produit",
+  "marque": "Rochas",
+  "nom": "Girl Life",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Rochas Girl Life Parfum Femme Algérie",
+  "notes": [
+   "Cassis",
+   "Poivre rose",
+   "Tubéreuse",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "girl life",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/rochas-madame-2013",
+  "type": "produit",
+  "marque": "Rochas",
+  "nom": "Madame 2013",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Rochas Madame 2013 Parfum Femme Algérie",
+  "notes": [
+   "Aldéhydes",
+   "Muguet",
+   "Jasmin",
+   "Iris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "madame 2013",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-51-pour-homme",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "51 Pour Homme",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Roja Dove 51 Pour Homme Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Lavande",
+   "Rose",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "51 pour homme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-51-pour-femme",
+    "nom": "51 Pour Femme",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-burlington-1819",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Burlington 1819",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Roja Dove Burlington 1819 Parfum Mixte Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Menthe",
+   "Ambre gris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "burlington 1819",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-danger-pour-femme-essence-de-parfum",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Danger Pour Femme Essence De Parfum",
+  "conc": "Essence de Parfum",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roja Dove Danger Pour Femme Essence De Parfum Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Mandarine",
+   "Ylang-ylang",
+   "Santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "danger pour femme essence de parfum",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-danger-pour-homme",
+    "nom": "Danger Pour Homme",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-diaghilev",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Diaghilev",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roja Dove Diaghilev Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron vert",
+   "Jasmin",
+   "Mousse de chêne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "roja dove diaghilev",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-enigma-aoud",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Enigma Aoud",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Roja Dove Enigma Aoud Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Pêche",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "enigma aoud",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-enigma",
+    "nom": "Enigma",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-isola-blu",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Isola Blu",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Roja Dove Isola Blu Parfum Mixte Algérie",
+  "notes": [
+   "Citron",
+   "Bergamote",
+   "Pomme",
+   "Bois de Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "isola blu",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-isola-sol",
+    "nom": "Isola Sol",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-isola-sol",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Isola Sol",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roja Dove Isola Sol Parfum Mixte Algérie",
+  "notes": [
+   "Abricot",
+   "Pêche",
+   "Jasmin Sambac",
+   "Sel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "isola sol",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-isola-blu",
+    "nom": "Isola Blu",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-bergdorf-pour-femme",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Bergdorf Pour Femme",
+  "conc": "Extrait",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roja Dove Bergdorf Pour Femme Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Gardénia",
+   "Mousse de chêne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "bergdorf pour femme",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-musk-aoud",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Musk Aoud",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Roja Dove Musk Aoud Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Rose",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "musk aoud",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-parfum-de-la-nuit-no-1",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Parfum De La Nuit No 1",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Roja Dove Parfum De La Nuit No 1 Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Bois de Gaïac",
+   "Castoréum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "parfum de la nuit no 1",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-parfum-de-la-nuit-no-2",
+    "nom": "Parfum De La Nuit No 2",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-risque-pour-femme-essence-de-parfum",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Risque Pour Femme Essence De Parfum",
+  "conc": "Essence de Parfum",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roja Dove Risque Pour Femme Essence De Parfum Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Camomille",
+   "Mousse de chêne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "risque pour femme essence de parfum",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-scandal-pour-femme-essence-de-parfum",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Scandal Pour Femme Essence De Parfum",
+  "conc": "Essence de Parfum",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roja Dove Scandal Pour Femme Essence De Parfum Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Gardénia",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "scandal pour femme essence de parfum",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roja-dove-scandal-pour-homme",
+    "nom": "Scandal Pour Homme",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roja-dove-vetiver-pour-homme",
+  "type": "produit",
+  "marque": "Roja Dove",
+  "nom": "Vetiver Pour Homme",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Roja Dove Vetiver Pour Homme Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Bergamote",
+   "Labdanum",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "vetiver pour homme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-acqua-essenziale",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Acqua Essenziale",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Acqua Essenziale Parfum Homme Algérie",
+  "notes": [
+   "Menthe",
+   "Feuille de citron",
+   "Notes marines",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "acqua essenziale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-e-pur-si-muove",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "E Pur Si Muove",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo E Pur Si Muove Parfum Mixte Algérie",
+  "notes": [
+   "Aldéhydes",
+   "Notes minérales",
+   "Sauge sclarée",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "e pur si muove",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-f-by-black",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "F by Ferragamo Black",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo F by Ferragamo Black Parfum Homme Algérie",
+  "notes": [
+   "Lavande",
+   "Pomme",
+   "Poivre noir",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "f by ferragamo black",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "salvatore-ferragamo-f-by-free-time",
+    "nom": "F by Ferragamo Free Time",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "salvatore-ferragamo-f-by-pour-homme",
+    "nom": "F by Ferragamo Pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-f-by-pour-homme",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "F by Ferragamo Pour Homme",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo F by Ferragamo Pour Homme Parfum Homme Algérie",
+  "notes": [
+   "Lavande",
+   "Pomme",
+   "Poivre noir",
+   "Labdanum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "f by ferragamo pour homme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "salvatore-ferragamo-f-by-black",
+    "nom": "F by Ferragamo Black",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "salvatore-ferragamo-f-by-free-time",
+    "nom": "F by Ferragamo Free Time",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-incanto-amity",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Incanto Amity",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Incanto Amity Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Melon",
+   "Lotus",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "incanto amity",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "salvatore-ferragamo-incanto-bloom-2014",
+    "nom": "Incanto Bloom (2014)",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "salvatore-ferragamo-incanto-charms",
+    "nom": "Incanto Charms",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-incanto-bloom-2014",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Incanto Bloom (2014)",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Incanto Bloom Parfum Femme Algérie",
+  "notes": [
+   "Freesia",
+   "Fleur de pamplemousse",
+   "Rose thé",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "incanto bloom 2014",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "salvatore-ferragamo-incanto-amity",
+    "nom": "Incanto Amity",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "salvatore-ferragamo-incanto-charms",
+    "nom": "Incanto Charms",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-arte-orafa",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Arte Orafa",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Arte Orafa Parfum Mixte Algérie",
+  "notes": [
+   "Cardamome",
+   "Bergamote",
+   "Framboise",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "arte orafa",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-gentil-suono",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Gentil Suono",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Gentil Suono Parfum Mixte Algérie",
+  "notes": [
+   "Géranium",
+   "Poivre noir",
+   "Myrrhe",
+   "Oliban"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "gentil suono",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ }
+]

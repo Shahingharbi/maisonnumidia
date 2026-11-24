@@ -9,6 +9,13 @@ const categoryImages: Record<string, string> = {
     "https://images.unsplash.com/photo-1608528577891-eb055944f2e7?auto=format&fit=crop&w=1400&q=80",
 };
 
+/** Image par section, indépendante du h1 (qui peut changer sans casser le visuel). */
+const imagesParSection: Record<string, string> = {
+  homme: categoryImages["Parfums Homme en Algérie"],
+  femme: categoryImages["Parfums Femme en Algérie"],
+  orientaux: categoryImages["Parfums Orientaux en Algérie"],
+};
+
 const fallbackImage =
   "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=1400&q=80";
 
@@ -17,10 +24,12 @@ interface CategoryHeroProps {
   description: string;
   count?: number;
   brand?: string;
+  /** Section dont on veut l'image (sinon : image associée au titre, ou image par défaut). */
+  section?: "homme" | "femme" | "orientaux";
 }
 
-export default function CategoryHero({ title, description, count, brand }: CategoryHeroProps) {
-  const imageUrl = categoryImages[title] ?? fallbackImage;
+export default function CategoryHero({ title, description, count, brand, section }: CategoryHeroProps) {
+  const imageUrl = (section && imagesParSection[section]) ?? categoryImages[title] ?? fallbackImage;
 
   return (
     <div className="relative min-h-[280px] sm:min-h-[340px] flex items-end overflow-hidden">

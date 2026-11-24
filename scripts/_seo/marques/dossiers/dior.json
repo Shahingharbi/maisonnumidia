@@ -1,0 +1,2574 @@
+{
+ "slug": "dior",
+ "nom": "Dior",
+ "origine": "France",
+ "descriptionActuelle": "Maison de couture parisienne fondée en 1946 par Christian Dior. L'une des maisons de luxe les plus iconiques au monde.",
+ "nbFiches": 80,
+ "pages": [
+  {
+   "chemin": "/marques/dior",
+   "gsc": {
+    "clics": 14,
+    "imp": 375,
+    "pos": 9.5,
+    "ctr": 3.7
+   },
+   "requetes": [
+    {
+     "q": "dior sauvage algérie",
+     "imp": 9,
+     "clics": 0,
+     "pos": 26.8
+    },
+    {
+     "q": "dior algerie",
+     "imp": 6,
+     "clics": 1,
+     "pos": 4.2
+    },
+    {
+     "q": "dior",
+     "imp": 2,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "dior parfum",
+     "imp": 2,
+     "clics": 0,
+     "pos": 44.5
+    },
+    {
+     "q": "hypnotic poison dior prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 27.5
+    },
+    {
+     "q": "dior homme intense 100ml prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 30
+    },
+    {
+     "q": "dior homme intense 150 ml prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 33
+    },
+    {
+     "q": "dior homme intense prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 30
+    },
+    {
+     "q": "dior parfum prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 51
+    },
+    {
+     "q": "dior sauvage elixir prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 31
+    },
+    {
+     "q": "et celui la",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "fahrenheit 32",
+     "imp": 1,
+     "clics": 0,
+     "pos": 59
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-homme/dior",
+   "gsc": {
+    "clics": 3,
+    "imp": 80,
+    "pos": 13.5,
+    "ctr": 3.8
+   },
+   "requetes": [
+    {
+     "q": "dior homme intense",
+     "imp": 4,
+     "clics": 1,
+     "pos": 12.8
+    },
+    {
+     "q": "dior algerie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 7.3
+    },
+    {
+     "q": "dior sauvage algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 14
+    },
+    {
+     "q": "parfum dior homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 74
+    },
+    {
+     "q": "parfum dior homme prix",
+     "imp": 2,
+     "clics": 0,
+     "pos": 50
+    },
+    {
+     "q": "dior homme intense prix algérie",
+     "imp": 1,
+     "clics": 1,
+     "pos": 20
+    },
+    {
+     "q": "christian dior parfum homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 32
+    },
+    {
+     "q": "dior",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/dior",
+   "gsc": {
+    "clics": 3,
+    "imp": 230,
+    "pos": 7.5,
+    "ctr": 1.3
+   },
+   "requetes": [
+    {
+     "q": "parfum dior femme prix",
+     "imp": 8,
+     "clics": 0,
+     "pos": 9.3
+    },
+    {
+     "q": "parfum dior femme",
+     "imp": 5,
+     "clics": 0,
+     "pos": 11.4
+    },
+    {
+     "q": "dior parfum femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 27
+    },
+    {
+     "q": "miss dior eau de parfum 100ml prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 10
+    },
+    {
+     "q": "parfum dior",
+     "imp": 2,
+     "clics": 0,
+     "pos": 43.5
+    },
+    {
+     "q": "parfum femme dior",
+     "imp": 2,
+     "clics": 0,
+     "pos": 30
+    },
+    {
+     "q": "parfum pour femme dior",
+     "imp": 2,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "في الجزائر",
+     "imp": 1,
+     "clics": 1,
+     "pos": 5
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "dior parfum femme",
+     "vol": 880,
+     "notrePos": 26
+    },
+    {
+     "k": "parfums dior",
+     "vol": 480,
+     "notrePos": 32
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/dior",
+   "gsc": {
+    "clics": 0,
+    "imp": 0,
+    "pos": null,
+    "ctr": null
+   },
+   "requetes": [],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "dior-homme-edp",
+   "nom": "Dior Homme Intense",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Bergamote",
+     "Sauge"
+    ],
+    "heart": [
+     "Iris",
+     "Poire",
+     "Ambrette"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Cacao",
+     "Cèdre de Virginie",
+     "Vétiver",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 45,
+   "clics90j": 0,
+   "volumeRecherche": 2900
+  },
+  {
+   "slug": "miss-dior",
+   "nom": "Miss Dior",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 37500,
+   "notes": {
+    "top": [
+     "Iris",
+     "Pivoine",
+     "Muguet"
+    ],
+    "heart": [
+     "Rose",
+     "Abricot",
+     "Pêche"
+    ],
+    "base": [
+     "Vanille",
+     "Musc",
+     "Fève Tonka",
+     "Bois de Santal",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 920,
+   "clics90j": 37,
+   "volumeRecherche": 1900
+  },
+  {
+   "slug": "dior-dolce-vita",
+   "nom": "Dolce Vita",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Lys",
+     "Magnolia",
+     "Rose"
+    ],
+    "heart": [
+     "Pêche",
+     "Abricot",
+     "Cannelle"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Héliotrope",
+     "Vanille"
+    ]
+   },
+   "imp90j": 112,
+   "clics90j": 7,
+   "volumeRecherche": 1600
+  },
+  {
+   "slug": "dior-sauvage",
+   "nom": "Sauvage",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Orientale",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Poivre de Sichuan",
+     "Lavande",
+     "Anis étoilé",
+     "Muscade"
+    ],
+    "base": [
+     "Ambroxan",
+     "Vanille"
+    ]
+   },
+   "imp90j": 1611,
+   "clics90j": 42,
+   "volumeRecherche": 1000
+  },
+  {
+   "slug": "miss-dior-blooming-bouquet",
+   "nom": "Miss Dior Blooming Bouquet",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Lychee",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Pivoine",
+     "Rose damascena",
+     "Muguet"
+    ],
+    "base": [
+     "Musc blanc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 2827,
+   "clics90j": 86,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "dior-addict",
+   "nom": "Addict",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 39500,
+   "notes": {
+    "top": [
+     "Mûre",
+     "Feuille de mandarinier",
+     "Fleur d'arbre à soie"
+    ],
+    "heart": [
+     "Jasmin",
+     "Fleur d'oranger",
+     "Cierge de nuit",
+     "Rose"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka",
+     "Santal de Mysore"
+    ]
+   },
+   "imp90j": 1940,
+   "clics90j": 66,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "hypnotic-poison-dior",
+   "nom": "Hypnotic Poison",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Amande",
+     "Noix de Coco",
+     "Carvi"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin Blanc",
+     "Rose"
+    ],
+    "base": [
+     "Vanille Boisée",
+     "Bois de Santal",
+     "Jatamansi"
+    ]
+   },
+   "imp90j": 1735,
+   "clics90j": 95,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "dior-sauvage-elixir",
+   "nom": "Sauvage Elixir",
+   "conc": "Parfum",
+   "volume": "60ml",
+   "genre": "homme",
+   "famille": "Aromatique Oriental",
+   "enStock": true,
+   "prix": 42000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Cannelle",
+     "Noix de muscade"
+    ],
+    "heart": [
+     "Lavande",
+     "Réglisse",
+     "Poivre de Sichuan"
+    ],
+    "base": [
+     "Bois de santal",
+     "Ambre",
+     "Myrrhe"
+    ]
+   },
+   "imp90j": 1636,
+   "clics90j": 76,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "dior-jadore",
+   "nom": "J'adore",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 37500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Melon",
+     "Magnolia",
+     "Pêche",
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin de Grasse",
+     "Muguet",
+     "Tubéreuse",
+     "Freesia",
+     "Rose Turque",
+     "Orchidée",
+     "Violette",
+     "Prune"
+    ],
+    "base": [
+     "Musc",
+     "Vanille",
+     "Cèdre",
+     "Mûre"
+    ]
+   },
+   "imp90j": 354,
+   "clics90j": 16,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "dior-homme",
+   "nom": "Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Poudré Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Bergamote",
+     "Sauge"
+    ],
+    "heart": [
+     "Iris",
+     "Cacao",
+     "Ambre"
+    ],
+    "base": [
+     "Cuir",
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 774,
+   "clics90j": 52,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "dior-gris",
+   "nom": "Gris",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Chypré Boisé",
+   "enStock": true,
+   "prix": 72500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose",
+     "Patchouli"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Cèdre",
+     "Ambre",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 138,
+   "clics90j": 8,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "gris-dior",
+   "nom": "Gris Dior",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé Chypré",
+   "enStock": true,
+   "prix": 80000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Gingembre"
+    ],
+    "heart": [
+     "Rose de Damas",
+     "Jasmin de Grasse",
+     "Lilas"
+    ],
+    "base": [
+     "Vétiver",
+     "Cèdre de Virginie",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 107,
+   "clics90j": 8,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "dior-bois-d-argent",
+   "nom": "Bois d'Argent",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Chypré",
+   "enStock": true,
+   "prix": 72500,
+   "notes": {
+    "top": [
+     "Iris",
+     "Cyprès",
+     "Baies de genévrier"
+    ],
+    "heart": [
+     "Myrrhe",
+     "Patchouli"
+    ],
+    "base": [
+     "Notes boisées",
+     "Miel",
+     "Vanille",
+     "Ambre",
+     "Résines",
+     "Musc",
+     "Cuir"
+    ]
+   },
+   "imp90j": 195,
+   "clics90j": 10,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "eau-sauvage-dior",
+   "nom": "Eau Sauvage",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Citron de Calabre",
+     "Basilic",
+     "Pétitgrain",
+     "Romarin"
+    ],
+    "heart": [
+     "Jasmin",
+     "Hédione",
+     "Œillet",
+     "Lavande",
+     "Vétiver"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Ambre",
+     "Civette",
+     "Musc"
+    ]
+   },
+   "imp90j": 1156,
+   "clics90j": 27,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "dior-fahrenheit-32",
+   "nom": "Fahrenheit 32",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Oriental",
+   "enStock": false,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Fleur d'oranger"
+    ],
+    "heart": [
+     "Vétiver"
+    ],
+    "base": [
+     "Vanille"
+    ]
+   },
+   "imp90j": 1200,
+   "clics90j": 27,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "fahrenheit-dior",
+   "nom": "Fahrenheit",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Violette",
+     "Bergamote",
+     "Notes Boisées"
+    ],
+    "heart": [
+     "Aubépine",
+     "Noix de Muscade",
+     "Cèdre"
+    ],
+    "base": [
+     "Ambre",
+     "Bois de Santal",
+     "Vétiver",
+     "Cuir"
+    ]
+   },
+   "imp90j": 111,
+   "clics90j": 6,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "dior-jadore-infinissime",
+   "nom": "J'adore Infinissime",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Orange Sanguine",
+     "Poivre Rose",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin Sambac",
+     "Ylang-Ylang",
+     "Muguet",
+     "Rose"
+    ],
+    "base": [
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 1167,
+   "clics90j": 28,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-fahrenheit-parfum",
+   "nom": "Fahrenheit Parfum",
+   "conc": "Parfum",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Daim",
+     "Réglisse",
+     "Mandarine de Sicile"
+    ],
+    "heart": [
+     "Feuille de violette",
+     "Rhum",
+     "Coriandre",
+     "Cumin"
+    ],
+    "base": [
+     "Vanille Bourbon"
+    ]
+   },
+   "imp90j": 252,
+   "clics90j": 12,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "dior-sauvage-parfum",
+   "nom": "Sauvage Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Bois de santal"
+    ],
+    "base": [
+     "Encens",
+     "Fève tonka",
+     "Vanille"
+    ]
+   },
+   "imp90j": 455,
+   "clics90j": 12,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "dior-oud-ispahan",
+   "nom": "Oud Ispahan",
+   "conc": "EDP",
+   "volume": "250ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 104000,
+   "notes": {
+    "top": [
+     "Labdanum"
+    ],
+    "heart": [
+     "Rose",
+     "Patchouli",
+     "Safran"
+    ],
+    "base": [
+     "Bois d'agar (Oud)",
+     "Bois de santal",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 155,
+   "clics90j": 9,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "dior-homme-intense",
+   "nom": "Homme Intense",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Iris",
+     "Lavande",
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris poudré",
+     "Cacao",
+     "Cèdre",
+     "Girofle"
+    ],
+    "base": [
+     "Cuir",
+     "Ambre",
+     "Vétiver",
+     "Musc"
+    ]
+   },
+   "imp90j": 661,
+   "clics90j": 25,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "dior-poison",
+   "nom": "Poison",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Coriandre",
+     "Baies Sauvages",
+     "Miel d'Orange"
+    ],
+    "heart": [
+     "Tubéreuse"
+    ],
+    "base": [
+     "Opoponax"
+    ]
+   },
+   "imp90j": 115,
+   "clics90j": 6,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "dior-paradise",
+   "nom": "Paradise",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Agrumes Gourmand",
+   "enStock": true,
+   "prix": 107000,
+   "notes": {
+    "top": [
+     "Orange",
+     "Mandarine",
+     "Citron vert"
+    ],
+    "heart": [
+     "Amande amère",
+     "Sirop"
+    ],
+    "base": [
+     "Fève tonka",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 92,
+   "clics90j": 1,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "joy-dior",
+   "nom": "Joy By Dior",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Orange sanguine",
+     "Yuzu"
+    ],
+    "heart": [
+     "Rose de mai",
+     "Jasmin sambac",
+     "Tubéreuse"
+    ],
+    "base": [
+     "Musc blanc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 360,
+   "clics90j": 13,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "dior-rouge-trafalgar",
+   "nom": "Rouge Trafalgar",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Chypré Fruité",
+   "enStock": true,
+   "prix": 83500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Fraise",
+     "Cerise",
+     "Mandarine"
+    ],
+    "heart": [
+     "Cassis",
+     "Pamplemousse"
+    ],
+    "base": [
+     "Musc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 172,
+   "clics90j": 1,
+   "volumeRecherche": 140
+  },
+  {
+   "slug": "dior-dune",
+   "nom": "Dune",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Aldeyhde Marin",
+     "Bergamote",
+     "Melon"
+    ],
+    "heart": [
+     "Héliotrope",
+     "Rose",
+     "Iris"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Ambre Blanc",
+     "Musc"
+    ]
+   },
+   "imp90j": 343,
+   "clics90j": 14,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "dior-eau-sauvage-parfum",
+   "nom": "Eau Sauvage Parfum",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Hespéridé",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Myrrhe"
+    ],
+    "base": [
+     "Vétiver"
+    ]
+   },
+   "imp90j": 53,
+   "clics90j": 1,
+   "volumeRecherche": 140
+  },
+  {
+   "slug": "dior-rouge-trafalgar-esprit-de-parfum",
+   "nom": "Rouge Trafalgar Esprit de Parfum",
+   "conc": "Parfum",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 127000,
+   "notes": {
+    "top": [
+     "Cerise",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Rose de Bulgarie",
+     "Rose de Turquie"
+    ],
+    "base": [
+     "Fruits rouges"
+    ]
+   },
+   "imp90j": 288,
+   "clics90j": 5,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "dior-feve-delicieuse",
+   "nom": "Fève Délicieuse",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 65500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Menthe",
+     "Bergamote"
+    ],
+    "heart": [
+     "Cerise acidulée",
+     "Freesia",
+     "Jasmin"
+    ],
+    "base": [
+     "Fève tonka",
+     "Vanille",
+     "Cabosse de cacao",
+     "Caramel",
+     "Praline",
+     "Lait",
+     "Benjoin",
+     "Bois de Santal",
+     "Cuir",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 328,
+   "clics90j": 16,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-lucky",
+   "nom": "Lucky",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 69500,
+   "notes": {
+    "top": [
+     "Notes ozoniques"
+    ],
+    "heart": [
+     "Muguet",
+     "Fleurs blanches"
+    ],
+    "base": []
+   },
+   "imp90j": 91,
+   "clics90j": 1,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "dior-homme-sport",
+   "nom": "Homme Sport",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Aldéhydes"
+    ],
+    "heart": [
+     "Elemi",
+     "Poivre rose"
+    ],
+    "base": [
+     "Notes boisées",
+     "Ambre",
+     "Oliban"
+    ]
+   },
+   "imp90j": 268,
+   "clics90j": 14,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-vanilla-diorama",
+   "nom": "Vanilla Diorama",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 115000,
+   "notes": {
+    "top": [
+     "Orange",
+     "Poivre rose",
+     "Citron"
+    ],
+    "heart": [
+     "Rhum",
+     "Cacao",
+     "Cardamome"
+    ],
+    "base": [
+     "Vanille bourbon",
+     "Bois de santal",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 153,
+   "clics90j": 6,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "dior-ambre-nuit",
+   "nom": "Ambre Nuit",
+   "conc": "EDP",
+   "volume": "250ml",
+   "genre": "unisexe",
+   "famille": "Ambré Boisé",
+   "enStock": true,
+   "prix": 148000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Rose de Damas",
+     "Poivre rose"
+    ],
+    "base": [
+     "Ambre gris",
+     "Bois de gaïac",
+     "Cèdre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 90,
+   "clics90j": 3,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "dior-sakura",
+   "nom": "Sakura",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Vert",
+   "enStock": true,
+   "prix": 76000,
+   "notes": {
+    "top": [
+     "Notes vertes"
+    ],
+    "heart": [
+     "Fleur de cerisier du Japon",
+     "Rose",
+     "Jasmin",
+     "Hédione"
+    ],
+    "base": [
+     "Violette",
+     "Mimosa",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 125,
+   "clics90j": 5,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "dior-oud-rosewood",
+   "nom": "Oud Rosewood",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 75500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Coing"
+    ],
+    "heart": [
+     "Bois de Santal",
+     "Notes animales"
+    ],
+    "base": [
+     "Bois d'Agar (Oud)",
+     "Palissandre"
+    ]
+   },
+   "imp90j": 148,
+   "clics90j": 5,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "dior-forever-and-ever",
+   "nom": "Forever and Ever",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Freesia",
+     "Lierre",
+     "Jasmin"
+    ],
+    "heart": [
+     "Cynorhodon",
+     "Fleur d'amandier",
+     "Géranium"
+    ],
+    "base": [
+     "Vanille",
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 139,
+   "clics90j": 5,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "dior-pure-poison",
+   "nom": "Pure Poison",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Blanc",
+   "enStock": true,
+   "prix": 39000,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Mandarine",
+     "Verdure"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Rose de Bulgarie",
+     "Magnolia blanc"
+    ],
+    "base": [
+     "Musc blanc",
+     "Santal",
+     "Cèdre blanc"
+    ]
+   },
+   "imp90j": 169,
+   "clics90j": 14,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "dior-tobacolor",
+   "nom": "Tobacolor",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Fumé",
+   "enStock": true,
+   "prix": 65500,
+   "notes": {
+    "top": [
+     "Agrumes",
+     "Pêche"
+    ],
+    "heart": [
+     "Tabac",
+     "Feuille de tabac",
+     "Notes orientales"
+    ],
+    "base": [
+     "Miel",
+     "Fumée",
+     "Prune",
+     "Ambre",
+     "Tabac blanc"
+    ]
+   },
+   "imp90j": 169,
+   "clics90j": 8,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "dior-miss-dior-rose-n-roses",
+   "nom": "Miss Dior Rose N'Roses",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Rose",
+   "enStock": true,
+   "prix": 33500,
+   "notes": {
+    "top": [
+     "Mandarine d'Italie",
+     "Bergamote",
+     "Essence de géranium"
+    ],
+    "heart": [
+     "Rose de Grasse",
+     "Rose de Damas"
+    ],
+    "base": [
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 107,
+   "clics90j": 15,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "dior-rose-kabuki",
+   "nom": "Rose Kabuki",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Poudré",
+   "enStock": true,
+   "prix": 65500,
+   "notes": {
+    "top": [
+     "Rose",
+     "Goutte de Rosée",
+     "Musc"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 127,
+   "clics90j": 1,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "dior-miss-dior-parfum",
+   "nom": "Miss Dior Le Parfum",
+   "conc": "Parfum",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 35500,
+   "notes": {
+    "top": [
+     "Rose de Grasse",
+     "Bergamote de Sicile"
+    ],
+    "heart": [
+     "Muguet de Mai",
+     "Iris Poudré",
+     "Jasmin Absolu"
+    ],
+    "base": [
+     "Patchouli Noble",
+     "Musc Profond",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 125,
+   "clics90j": 3,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "dior-dioriviera",
+   "nom": "Dioriviera",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité Vert",
+   "enStock": true,
+   "prix": 94000,
+   "notes": {
+    "top": [
+     "Figue",
+     "Notes vertes"
+    ],
+    "heart": [
+     "Rose de mai"
+    ],
+    "base": [
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 196,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-bois-d-argent-esprit-de-parfum",
+   "nom": "Bois d'Argent Esprit de Parfum",
+   "conc": "Parfum",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Ambré Boisé",
+   "enStock": true,
+   "prix": 109000,
+   "notes": {
+    "top": [],
+    "heart": [
+     "Myrrhe",
+     "Iris",
+     "Notes florales"
+    ],
+    "base": [
+     "Musc"
+    ]
+   },
+   "imp90j": 137,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-jasmin-des-anges",
+   "nom": "Jasmin des Anges",
+   "conc": "EDP",
+   "volume": "250ml",
+   "genre": "unisexe",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 127000,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Abricot",
+     "Osmanthe",
+     "Peche"
+    ],
+    "base": [
+     "Musc blanc",
+     "Vanille"
+    ]
+   },
+   "imp90j": 89,
+   "clics90j": 4,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "dior-homme-cologne",
+   "nom": "Homme Cologne",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Aromatique Agrumes",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Citron de Sicile",
+     "Bergamote",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Iris Blanc",
+     "Géranium",
+     "Cèdre"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Cèdre Léger",
+     "Bois"
+    ]
+   },
+   "imp90j": 147,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-j-adore-absolu",
+   "nom": "J'Adore Absolu",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 30500,
+   "notes": {
+    "top": [
+     "Jasmin Sambac",
+     "Magnolia"
+    ],
+    "heart": [
+     "Jasmin",
+     "Tubéreuse Indienne",
+     "Rose de Mai"
+    ],
+    "base": [
+     "Fleur d'Oranger"
+    ]
+   },
+   "imp90j": 138,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-la-colle-noire",
+   "nom": "La Colle Noire",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 94000,
+   "notes": {
+    "top": [
+     "Citron"
+    ],
+    "heart": [
+     "Rose de mai",
+     "Pivoine",
+     "Épices",
+     "Muguet",
+     "Cassis",
+     "Framboise",
+     "Pêche"
+    ],
+    "base": [
+     "Musc blanc",
+     "Ambre",
+     "Bois de santal",
+     "Héliotrope",
+     "Oud"
+    ]
+   },
+   "imp90j": 69,
+   "clics90j": 2,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "dior-purple-oud",
+   "nom": "Purple Oud",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 64500,
+   "notes": {
+    "top": [
+     "Orange",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Safran"
+    ],
+    "base": [
+     "Bois d'Agar (Oud)"
+    ]
+   },
+   "imp90j": 58,
+   "clics90j": 3,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "dior-sauvage-eau-forte",
+   "nom": "Sauvage Eau Forte",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Fraîche Épicée",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Épicéa",
+     "Bois",
+     "Musc",
+     "Épices",
+     "Élémi"
+    ],
+    "heart": [
+     "Lavande"
+    ],
+    "base": [
+     "Bois ambré",
+     "Musc",
+     "Épices",
+     "Bois"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 2,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "dior-patchouli-imperial",
+   "nom": "Patchouli Imperial",
+   "conc": "EDP",
+   "volume": "450ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 137000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Coriandre",
+     "Cannelle",
+     "Rose"
+    ],
+    "base": [
+     "Patchouli",
+     "Ambre",
+     "Fumée",
+     "Benjoin",
+     "Cèdre",
+     "Bois de santal",
+     "Fève tonka",
+     "Vanille"
+    ]
+   },
+   "imp90j": 112,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "poison-girl-dior",
+   "nom": "Poison Girl",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 35000,
+   "notes": {
+    "top": [
+     "Orange Amère",
+     "Bergamote",
+     "Rose"
+    ],
+    "heart": [
+     "Rose de Grasse",
+     "Jasmin",
+     "Groseille Rouge"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Vanille",
+     "Amande Amère"
+    ]
+   },
+   "imp90j": 139,
+   "clics90j": 12,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "dior-diorissimo-les-creations-de-monsieur-eau",
+   "nom": "Diorissimo (Les Créations de Monsieur — Eau de Parfum)",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 31000,
+   "notes": {
+    "top": [
+     "Muguet"
+    ],
+    "heart": [
+     "Jasmin"
+    ],
+    "base": [
+     "Musc"
+    ]
+   },
+   "imp90j": 134,
+   "clics90j": 5,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "dior-oud-ispahan-esprit-de-parfum",
+   "nom": "Oud Ispahan Esprit De Parfum",
+   "conc": "Parfum",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 114000,
+   "notes": {
+    "top": [
+     "Cumin",
+     "Girofle"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Oud",
+     "Notes Épicées"
+    ]
+   },
+   "imp90j": 100,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-j-adore-intense",
+   "nom": "J'adore Intense",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Miellé",
+   "enStock": true,
+   "prix": 41000,
+   "notes": {
+    "top": [
+     "Abricot"
+    ],
+    "heart": [
+     "Ylang-Ylang",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Miel",
+     "Vanille",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 66,
+   "clics90j": 3,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-balade-sauvage",
+   "nom": "Balade Sauvage",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 64500,
+   "notes": {
+    "top": [
+     "Notes ozoniques",
+     "Petit grain",
+     "Bergamote"
+    ],
+    "heart": [
+     "Figuier",
+     "Figue",
+     "Notes solaires",
+     "Notes marines",
+     "Pêche",
+     "Hédione",
+     "Fleur d'oranger",
+     "Rose"
+    ],
+    "base": [
+     "Galets (notes minérales)",
+     "Labdanum",
+     "Bois ambré",
+     "Vanille"
+    ]
+   },
+   "imp90j": 96,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-eden-roc",
+   "nom": "Eden-Roc",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 75500,
+   "notes": {
+    "top": [
+     "Sel marin",
+     "Notes minerales",
+     "Agrumes"
+    ],
+    "heart": [
+     "Jasmin",
+     "Lentisque",
+     "Noix de coco"
+    ],
+    "base": [
+     "Pin",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 64,
+   "clics90j": 3,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-j-adore-l-absolu",
+   "nom": "J'Adore L'Absolu",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 30500,
+   "notes": {
+    "top": [
+     "Ylang-Ylang"
+    ],
+    "heart": [
+     "Jasmin",
+     "Tubéreuse",
+     "Rose"
+    ],
+    "base": [
+     "Notes Fruitées",
+     "Musc",
+     "Notes Boisées"
+    ]
+   },
+   "imp90j": 85,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-miss-absolutely-blooming",
+   "nom": "Miss Absolutely Blooming",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Cassis",
+     "Grenade",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Rose de mai",
+     "Pivoine"
+    ],
+    "base": [
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 83,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-holy-peony",
+   "nom": "Holy Peony",
+   "conc": "EDP",
+   "volume": "250ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 114500,
+   "notes": {
+    "top": [
+     "Fruits rouges",
+     "Abricot"
+    ],
+    "heart": [
+     "Rose",
+     "Pivoine",
+     "Feuilles vertes"
+    ],
+    "base": [
+     "Bois",
+     "Musc"
+    ]
+   },
+   "imp90j": 75,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-new-look-1947",
+   "nom": "New Look 1947",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": false,
+   "prix": 94000,
+   "notes": {
+    "top": [
+     "Poivre rose"
+    ],
+    "heart": [
+     "Ylang-Ylang",
+     "Jasmin",
+     "Gardénia",
+     "Tubéreuse",
+     "Rose"
+    ],
+    "base": [
+     "Benjoin",
+     "Vanille"
+    ]
+   },
+   "imp90j": 61,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-miss-essence",
+   "nom": "Miss Essence",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Chypré Gourmand",
+   "enStock": true,
+   "prix": 43000,
+   "notes": {
+    "top": [
+     "Mûre",
+     "Fleur de sureau"
+    ],
+    "heart": [
+     "Jasmin"
+    ],
+    "base": [
+     "Bois de chêne"
+    ]
+   },
+   "imp90j": 54,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-eau-sauvage-cologne",
+   "nom": "Eau Sauvage Cologne",
+   "conc": "Cologne",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Hespéridé Boisé",
+   "enStock": true,
+   "prix": 38000,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Mandarine",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Galbanum",
+     "Petit grain",
+     "Hédione",
+     "Poivre rose"
+    ],
+    "base": [
+     "Vétiver"
+    ]
+   },
+   "imp90j": 49,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-gris-esprit-de-parfum",
+   "nom": "Gris Esprit de Parfum",
+   "conc": "Parfum",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Chypré Floral",
+   "enStock": true,
+   "prix": 120000,
+   "notes": {
+    "top": [
+     "Rose de Bulgarie"
+    ],
+    "heart": [
+     "Cèdre de l'Atlas"
+    ],
+    "base": [
+     "Patchouli",
+     "Ambre"
+    ]
+   },
+   "imp90j": 48,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-j-adore-in-joy",
+   "nom": "J'Adore In Joy",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Sel Marin"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Ylang-Ylang",
+     "Néroli",
+     "Tubéreuse"
+    ],
+    "base": [
+     "Pêche"
+    ]
+   },
+   "imp90j": 48,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-higher-energy",
+   "nom": "Higher Energy",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Baies de genièvre",
+     "Ananas",
+     "Pamplemousse",
+     "Melon",
+     "Menthe"
+    ],
+    "heart": [
+     "Poivre",
+     "Muscade",
+     "Encens"
+    ],
+    "base": [
+     "Cèdre",
+     "Vétiver",
+     "Mousse de chêne",
+     "Bois de santal",
+     "Musc",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 15,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dior-rose-star",
+   "nom": "Rose Star",
+   "conc": "EDP",
+   "volume": "200ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 120500,
+   "notes": {
+    "top": [
+     "Poivre du Sichuan",
+     "Poire",
+     "Citron"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Miel",
+     "Musc"
+    ]
+   },
+   "imp90j": 40,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-joy-intense",
+   "nom": "Joy Intense",
+   "conc": "EDP Intense",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 33500,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose de Grasse",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Musc",
+     "Fève tonka",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 33,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-addict-rosy-glow",
+   "nom": "Addict Rosy Glow",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 40500,
+   "notes": {
+    "top": [
+     "Litchi"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Caramel"
+    ]
+   },
+   "imp90j": 30,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-eau-noire",
+   "nom": "Eau Noire",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 76000,
+   "notes": {
+    "top": [
+     "Thym",
+     "Sauge"
+    ],
+    "heart": [
+     "Lavande",
+     "Café",
+     "Immortelle",
+     "Cèdre de Virginie",
+     "Safran"
+    ],
+    "base": [
+     "Réglisse",
+     "Vanille",
+     "Violette",
+     "Cuir",
+     "Tiges vertes"
+    ]
+   },
+   "imp90j": 28,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-diorella",
+   "nom": "Diorella",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Chypre Fruite",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Notes vertes",
+     "Melon",
+     "Citron"
+    ],
+    "heart": [
+     "Chevrefeuille",
+     "Peche",
+     "Jasmin",
+     "Rose",
+     "Cyclamen"
+    ],
+    "base": [
+     "Mousse de chene",
+     "Vetiver",
+     "Patchouli",
+     "Musc"
+    ]
+   },
+   "imp90j": 26,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-spice-blend",
+   "nom": "Spice Blend",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 94000,
+   "notes": {
+    "top": [
+     "Rhum",
+     "Gingembre"
+    ],
+    "heart": [
+     "Cannelle",
+     "Poivre rose",
+     "Poivre noir",
+     "Clou de girofle",
+     "Noix de muscade",
+     "Coriandre"
+    ],
+    "base": [
+     "Feuille de laurier",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-addict-peachy-glow",
+   "nom": "Addict Peachy Glow",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 42000,
+   "notes": {
+    "top": [
+     "Pêche"
+    ],
+    "heart": [
+     "Jasmin"
+    ],
+    "base": [
+     "Chantilly",
+     "Vanille"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-addict-purple-glow",
+   "nom": "Addict Purple Glow",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 42000,
+   "notes": {
+    "top": [
+     "Fleurs confites",
+     "Framboise",
+     "Sucre glace"
+    ],
+    "heart": [
+     "Iris de Toscane"
+    ],
+    "base": [
+     "Vanille"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-fahrenheit-cologne",
+   "nom": "Fahrenheit Cologne",
+   "conc": "Cologne",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Boise Epice",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Mandarine de Sicile",
+     "Citron"
+    ],
+    "heart": [
+     "Violette",
+     "Patchouli"
+    ],
+    "base": [
+     "Vetiver d'Haiti",
+     "Muscade",
+     "Cedre de Virginie",
+     "Carvi"
+    ]
+   },
+   "imp90j": 6,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-escale-a-portofino",
+   "nom": "Escale à Portofino",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 35500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron",
+     "Petit grain"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Baies de genièvre",
+     "Amande"
+    ],
+    "base": [
+     "Cyprès",
+     "Cèdre",
+     "Musc",
+     "Galbanum",
+     "Carvi"
+    ]
+   },
+   "imp90j": 2,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-addict-eau-delice",
+   "nom": "Addict Eau Délice",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 35000,
+   "notes": {
+    "top": [
+     "Canneberge",
+     "Cerise",
+     "Orange",
+     "Bergamote"
+    ],
+    "heart": [
+     "Amande Amère",
+     "Ylang-Ylang",
+     "Jasmin Égyptien",
+     "Jasmin Indien",
+     "Rose"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Vanille",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "dior-tendre-poison",
+   "nom": "Tendre Poison",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Blanc",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Galbanum"
+    ],
+    "heart": [
+     "Rose",
+     "Tubéreuse",
+     "Freesia",
+     "Néroli"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "dior-addict-eau-fraiche-2014",
+   "nom": "Addict Eau Fraîche (2014)",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 31000,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Freesia",
+     "Muguet"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Notes Boisées"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "dior-homme-sport-very-cool-spray",
+   "nom": "Homme Sport Very Cool Spray",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Orange Sanguine",
+     "Cédrat",
+     "Pamplemousse",
+     "Bergamote",
+     "Romarin",
+     "Lavande",
+     "Poire"
+    ],
+    "heart": [
+     "Gingembre",
+     "Poivre Rose",
+     "Elemi",
+     "Muscade"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Vétiver Haïtien",
+     "Cèdre",
+     "Vanille",
+     "Bois Ambré"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "dior-les-creations-de-monsieur-diorama",
+   "nom": "Les Créations de Monsieur Diorama",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Ylang-Ylang",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Carvi",
+     "Prune",
+     "Pêche",
+     "Rose"
+    ],
+    "base": [
+     "Patchouli",
+     "Cèdre de Virginie"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

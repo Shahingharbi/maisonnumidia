@@ -1,0 +1,1698 @@
+[
+ {
+  "chemin": "/parfums/calvin-klein-reveal-men",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Reveal Men",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein Reveal Men Parfum Homme Algérie",
+  "notes": [
+   "Melon",
+   "Brandy",
+   "Agave",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "reveal men",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-sheer-beauty-essence",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Sheer Beauty Essence",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Sheer Beauty Essence Parfum Femme Algérie",
+  "notes": [
+   "Fleur de poirier",
+   "Pêche blanche",
+   "Lilas",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "sheer beauty essence",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "calvin-klein-sheer-beauty",
+    "nom": "Sheer Beauty",
+    "conc": "EDT",
+    "vol": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/caron-rose-ebene-2021",
+  "type": "produit",
+  "marque": "Caron",
+  "nom": "Rose Ebène (2021)",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Caron Rose Ebène Parfum Mixte Algérie",
+  "notes": [
+   "Cardamome",
+   "Safran",
+   "Cuir",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "rose ebene 2021",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cartier-baiser-fou",
+  "type": "produit",
+  "marque": "Cartier",
+  "nom": "Baiser Fou",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cartier Baiser Fou Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Orchidée",
+   "Chocolat Blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "baiser fou",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "cartier-baiser-vole",
+    "nom": "Baiser Volé",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/delices-de-cartier-eau-fruitee",
+  "type": "produit",
+  "marque": "Cartier",
+  "nom": "Délices de Cartier Eau Fruitée",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Délices de Cartier Eau Fruitée Parfum Femme Algérie",
+  "notes": [
+   "Rhubarbe",
+   "Mandarine",
+   "Fleur de Cerisier",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "delices de cartier eau fruitee",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/pasha-de-cartier-edition-noire-sport",
+  "type": "produit",
+  "marque": "Cartier",
+  "nom": "Pasha de Cartier Édition Noire Sport",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Pasha de Cartier Édition Noire Sport Parfum Homme Algérie",
+  "notes": [
+   "Agrumes",
+   "Notes Aquatiques",
+   "Notes Marines",
+   "Bois de Santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "pasha de cartier edition noire sport",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "pasha-cartier-homme",
+    "nom": "Pasha de Cartier",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cartier-pasha-de-edition-noire",
+    "nom": "Pasha de Edition Noire",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cerruti-1881-black",
+  "type": "produit",
+  "marque": "Cerruti",
+  "nom": "1881 Black",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Cerruti 1881 Black Parfum Homme Algérie",
+  "notes": [
+   "Orange amère",
+   "Lavande",
+   "Noix de muscade",
+   "Massepain"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "1881 black",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "cerruti-1881-homme",
+    "nom": "1881 pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-femme",
+    "nom": "1881 pour Femme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-reve-de-roses",
+    "nom": "1881 Rêve De Roses",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-riviera",
+    "nom": "1881 Riviera",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-signature",
+    "nom": "1881 Signature",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-essentiel",
+    "nom": "1881 Essentiel",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-silver",
+    "nom": "1881 Silver",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-silver-night",
+    "nom": "1881 Silver Night",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chloe-hysope",
+  "type": "produit",
+  "marque": "Chloé",
+  "nom": "Hysope",
+  "conc": "EDP",
+  "volume": "150ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chloé Hysope Parfum Mixte Algérie",
+  "notes": [
+   "Petitgrain",
+   "Néroli",
+   "Hysope",
+   "Framboise"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "chloe hysope",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chloe-chene",
+  "type": "produit",
+  "marque": "Chloé",
+  "nom": "Chêne",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chloé Chêne Parfum Mixte Algérie",
+  "notes": [
+   "Feuilles de chêne",
+   "Laurier",
+   "Chêne",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "chloe chene",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chloe-narcissus-poeticus",
+  "type": "produit",
+  "marque": "Chloé",
+  "nom": "Narcissus Poeticus",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chloé Narcissus Poeticus Parfum Femme Algérie",
+  "notes": [
+   "Néroli",
+   "Jasmin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "narcissus poeticus",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chloe-nomade-jardin-d-egypte",
+  "type": "produit",
+  "marque": "Chloé",
+  "nom": "Nomade Jardin d'Égypte",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Chloé Nomade Jardin d'Égypte Parfum Femme Algérie",
+  "notes": [
+   "Papyrus",
+   "Kyphi",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "nomade jardin d egypte",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chloe-nomade",
+    "nom": "Nomade",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-jasmin-naturel-intense",
+    "nom": "Nomade Jasmin Naturel Intense",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-absolu-de-parfum",
+    "nom": "Nomade Absolu de Parfum",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-lumiere-d-egypte",
+    "nom": "Nomade Lumière d'Égypte",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-nuit-d-egypte",
+    "nom": "Nomade Nuit d'Égypte",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chloe-nomade-lumiere-d-egypte",
+  "type": "produit",
+  "marque": "Chloé",
+  "nom": "Nomade Lumière d'Égypte",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Chloé Nomade Lumière d'Égypte Parfum Femme Algérie",
+  "notes": [
+   "Lotus bleu",
+   "Jasmin",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "nomade lumiere d egypte",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chloe-nomade",
+    "nom": "Nomade",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-jasmin-naturel-intense",
+    "nom": "Nomade Jasmin Naturel Intense",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-absolu-de-parfum",
+    "nom": "Nomade Absolu de Parfum",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-jardin-d-egypte",
+    "nom": "Nomade Jardin d'Égypte",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "chloe-nomade-nuit-d-egypte",
+    "nom": "Nomade Nuit d'Égypte",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chopard-angelique-begum",
+  "type": "produit",
+  "marque": "Chopard",
+  "nom": "Angélique Begum",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chopard Angélique Begum Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Poivre rose",
+   "Fleur d'oranger",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "angelique begum",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/clinique-aromatics-elixir",
+  "type": "produit",
+  "marque": "Clinique",
+  "nom": "Aromatics Elixir",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Clinique Aromatics Elixir Parfum Femme Algérie",
+  "notes": [
+   "Camomille",
+   "Aldéhydes",
+   "Rose",
+   "Mousse de chêne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "aromatics elixir",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/coach-for-men",
+  "type": "produit",
+  "marque": "Coach",
+  "nom": "for Men",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Coach for Men Parfum Homme Algérie",
+  "notes": [
+   "Poire nashi verte",
+   "Bergamote",
+   "Cardamome",
+   "Vétiver d'Haïti"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "coach-for-men-pure-platinum",
+    "nom": "for Men Pure Platinum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/coach-platinum",
+  "type": "produit",
+  "marque": "Coach",
+  "nom": "Platinum",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Coach Platinum Parfum Homme Algérie",
+  "notes": [
+   "Ananas",
+   "Poivre noir",
+   "Cashmeran",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "coach platinum",
+   "vol": 10
+  },
+  "motsCles": [
+   {
+    "k": "platinum parfum",
+    "vol": 50,
+    "posMust": 8,
+    "notrePos": null
+   }
+  ],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/coach-poppy",
+  "type": "produit",
+  "marque": "Coach",
+  "nom": "Poppy",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Coach Poppy Parfum Femme Algérie",
+  "notes": [
+   "Concombre",
+   "Mandarine",
+   "Nénuphar",
+   "Guimauve"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "coach poppy",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/coach-for-men-pure-platinum",
+  "type": "produit",
+  "marque": "Coach",
+  "nom": "for Men Pure Platinum",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Coach for Men Pure Platinum Parfum Homme Algérie",
+  "notes": [
+   "Lavande",
+   "Pomme",
+   "Rhum",
+   "Labdanum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "for men pure platinum",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "coach-for-men",
+    "nom": "for Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/creed-royal-mayfair-2024",
+  "type": "produit",
+  "marque": "Creed",
+  "nom": "Royal Mayfair 2024",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Creed Royal Mayfair 2024 Parfum Mixte Algérie",
+  "notes": [
+   "Eucalyptus",
+   "Orange amère",
+   "Tubéreuse",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "royal mayfair 2024",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "creed-royal-oud",
+    "nom": "Royal Oud",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/diesel-d",
+  "type": "produit",
+  "marque": "Diesel",
+  "nom": "D",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Diesel D Parfum Mixte Algérie",
+  "notes": [
+   "Gingembre",
+   "Bergamote",
+   "Lavande",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "diesel d",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elie-saab-cuir-patchouli",
+  "type": "produit",
+  "marque": "Elie Saab",
+  "nom": "Cuir Patchouli",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Elie Saab Cuir Patchouli Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Feuille de cannelle",
+   "Ambre",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "cuir patchouli",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elie-saab-cuir-ylang",
+    "nom": "Cuir Ylang",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elie-saab-cuir-ylang",
+  "type": "produit",
+  "marque": "Elie Saab",
+  "nom": "Cuir Ylang",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Elie Saab Cuir Ylang Parfum Mixte Algérie",
+  "notes": [
+   "Ylang-Ylang",
+   "Encens",
+   "Bouleau"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "cuir ylang",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elie-saab-cuir-patchouli",
+    "nom": "Cuir Patchouli",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elie-saab-l-eau-couture",
+  "type": "produit",
+  "marque": "Elie Saab",
+  "nom": "L'Eau Couture",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elie Saab L'Eau Couture Parfum Femme Algérie",
+  "notes": [
+   "Magnolia",
+   "Bergamote de Calabre",
+   "Fleur d'Oranger",
+   "Amande Verte"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau couture",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elie-saab-le-parfum-bridal",
+  "type": "produit",
+  "marque": "Elie Saab",
+  "nom": "Le Parfum Bridal",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elie Saab Le Parfum Bridal Parfum Femme Algérie",
+  "notes": [
+   "Fleur d'oranger",
+   "Néroli",
+   "Ylang-Ylang",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "le parfum bridal",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elie-saab-le-parfum",
+    "nom": "Le Parfum",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-in-white",
+    "nom": "Le Parfum in White",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-absolu",
+    "nom": "Le Parfum Absolu",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-essentiel",
+    "nom": "Le Parfum Essentiel",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-lumiere",
+    "nom": "Le Parfum Lumière",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-royal",
+    "nom": "Le Parfum Royal",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-resort-collection-2017",
+    "nom": "Le Parfum Resort Collection (2017)",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-resort-collection",
+    "nom": "Le Parfum Resort Collection",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elie-saab-le-parfum-resort-collection-2017",
+  "type": "produit",
+  "marque": "Elie Saab",
+  "nom": "Le Parfum Resort Collection (2017)",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elie Saab Le Parfum Resort Collection Parfum Femme Algérie",
+  "notes": [
+   "Frangipanier",
+   "Mandarine italienne",
+   "Grenade",
+   "Feuille de patchouli indonésien"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "le parfum resort collection 2017",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elie-saab-le-parfum",
+    "nom": "Le Parfum",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-in-white",
+    "nom": "Le Parfum in White",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-absolu",
+    "nom": "Le Parfum Absolu",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-essentiel",
+    "nom": "Le Parfum Essentiel",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-lumiere",
+    "nom": "Le Parfum Lumière",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-royal",
+    "nom": "Le Parfum Royal",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-bridal",
+    "nom": "Le Parfum Bridal",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-resort-collection",
+    "nom": "Le Parfum Resort Collection",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elie-saab-le-parfum-resort-collection",
+  "type": "produit",
+  "marque": "Elie Saab",
+  "nom": "Le Parfum Resort Collection",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elie Saab Le Parfum Resort Collection Parfum Femme Algérie",
+  "notes": [
+   "Figue",
+   "Fleur d'oranger",
+   "Frangipanier",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "le parfum resort collection",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elie-saab-le-parfum",
+    "nom": "Le Parfum",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-in-white",
+    "nom": "Le Parfum in White",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-absolu",
+    "nom": "Le Parfum Absolu",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-essentiel",
+    "nom": "Le Parfum Essentiel",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-lumiere",
+    "nom": "Le Parfum Lumière",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-royal",
+    "nom": "Le Parfum Royal",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-bridal",
+    "nom": "Le Parfum Bridal",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "elie-saab-le-parfum-resort-collection-2017",
+    "nom": "Le Parfum Resort Collection (2017)",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elizabeth-arden-5th-avenue-after-five",
+  "type": "produit",
+  "marque": "Elizabeth Arden",
+  "nom": "5th Avenue After Five",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elizabeth Arden 5th Avenue After Five Parfum Femme Algérie",
+  "notes": [
+   "Chèvrefeuille",
+   "Prune",
+   "Lotus indien",
+   "Bouleau"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "5th avenue after five",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "5th-avenue-elizabeth-arden",
+    "nom": "5th Avenue",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "elizabeth-arden-5th-avenue-nights",
+    "nom": "5th Avenue Nights",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "elizabeth-arden-5th-avenue-nyc-lights",
+    "nom": "5th Avenue NYC Lights",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "elizabeth-arden-5th-avenue-nyc-love",
+    "nom": "5th Avenue NYC Love",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elizabeth-arden-5th-avenue-nyc-love",
+  "type": "produit",
+  "marque": "Elizabeth Arden",
+  "nom": "5th Avenue NYC Love",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elizabeth Arden 5th Avenue NYC Love Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Mandarine de Sicile",
+   "Pivoine",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "5th avenue nyc love",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "5th-avenue-elizabeth-arden",
+    "nom": "5th Avenue",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "elizabeth-arden-5th-avenue-nights",
+    "nom": "5th Avenue Nights",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "elizabeth-arden-5th-avenue-nyc-lights",
+    "nom": "5th Avenue NYC Lights",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "elizabeth-arden-5th-avenue-after-five",
+    "nom": "5th Avenue After Five",
+    "conc": "EDP",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elizabeth-arden-green-tea-pear-blossom",
+  "type": "produit",
+  "marque": "Elizabeth Arden",
+  "nom": "Green Tea Pear Blossom",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elizabeth Arden Green Tea Pear Blossom Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Citron de Sicile",
+   "Thé vert",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "green tea pear blossom",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elizabeth-arden-green-tea",
+    "nom": "Green Tea",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "elizabeth-arden-green-tea-nectarine-blossom",
+    "nom": "Green Tea Nectarine Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "elizabeth-arden-green-tea-pistachio-crunch",
+    "nom": "Green Tea Pistachio Crunch",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "elizabeth-arden-green-tea-sakura-blossom",
+    "nom": "Green Tea Sakura Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elizabeth-arden-green-tea-sakura-blossom",
+  "type": "produit",
+  "marque": "Elizabeth Arden",
+  "nom": "Green Tea Sakura Blossom",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elizabeth Arden Green Tea Sakura Blossom Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Mandarine",
+   "Thé vert",
+   "Bouleau"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "green tea sakura blossom",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "elizabeth-arden-green-tea",
+    "nom": "Green Tea",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "elizabeth-arden-green-tea-nectarine-blossom",
+    "nom": "Green Tea Nectarine Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "elizabeth-arden-green-tea-pear-blossom",
+    "nom": "Green Tea Pear Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "elizabeth-arden-green-tea-pistachio-crunch",
+    "nom": "Green Tea Pistachio Crunch",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elizabeth-arden-my-fifth-avenue",
+  "type": "produit",
+  "marque": "Elizabeth Arden",
+  "nom": "My Fifth Avenue",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elizabeth Arden My Fifth Avenue Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Feuilles de violette",
+   "Lotus",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "my fifth avenue",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/elizabeth-arden-untold-absolu",
+  "type": "produit",
+  "marque": "Elizabeth Arden",
+  "nom": "Untold Absolu",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Elizabeth Arden Untold Absolu Parfum Femme Algérie",
+  "notes": [
+   "Prune",
+   "Framboise",
+   "Narcisse français",
+   "Vanille de Tahiti"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "untold absolu",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/escada-chiffon-sorbet",
+  "type": "produit",
+  "marque": "Escada",
+  "nom": "Chiffon Sorbet",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Escada Chiffon Sorbet Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Mangue",
+   "Figue",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "chiffon sorbet",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/escada-fairy-love",
+  "type": "produit",
+  "marque": "Escada",
+  "nom": "Fairy Love",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Escada Fairy Love Parfum Femme Algérie",
+  "notes": [
+   "Poire nashi",
+   "Framboise",
+   "Jasmin",
+   "Noisette"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "fairy love",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/escada-party-love",
+  "type": "produit",
+  "marque": "Escada",
+  "nom": "Party Love",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Escada Party Love Parfum Femme Algérie",
+  "notes": [
+   "Cerise",
+   "Crème fouettée",
+   "Cupcake"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "party love",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/escada-show-me-love",
+  "type": "produit",
+  "marque": "Escada",
+  "nom": "Show Me Love",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Escada Show Me Love Parfum Femme Algérie",
+  "notes": [
+   "Myrtille",
+   "Jasmin",
+   "Accord macaron à la myrtille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "show me love",
+   "vol": 70
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/essential-parfums-velvet-iris",
+  "type": "produit",
+  "marque": "Essential Parfums",
+  "nom": "Velvet Iris",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Essential Parfums Velvet Iris Parfum Mixte Algérie",
+  "notes": [
+   "Buchu",
+   "Poivre rose",
+   "Racine d'iris",
+   "Cuir Saffiano"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "velvet iris",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/etat-libre-d-orange-frustration",
+  "type": "produit",
+  "marque": "Etat Libre d'Orange",
+  "nom": "Frustration",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Etat Libre d'Orange Frustration Parfum Mixte Algérie",
+  "notes": [
+   "Rhum",
+   "Cannelle",
+   "Vanille",
+   "Marron"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "etat libre d orange frustration",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/etat-libre-d-orange-soul-of-my",
+  "type": "produit",
+  "marque": "Etat Libre d'Orange",
+  "nom": "Soul Of My Soul",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Etat Libre d'Orange Soul Of My Soul Parfum Mixte Algérie",
+  "notes": [
+   "Encens",
+   "Bergamote",
+   "Daim",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "soul of my soul",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/ex-nihilo-bois-d-hiver",
+  "type": "produit",
+  "marque": "Ex Nihilo",
+  "nom": "Bois d'Hiver",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Ex Nihilo Bois d'Hiver Parfum Mixte Algérie",
+  "notes": [
+   "Cardamome",
+   "Poivre rose",
+   "Extrait de cèdre blanc",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "bois d hiver",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ }
+]

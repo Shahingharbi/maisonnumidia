@@ -1,0 +1,1772 @@
+[
+ {
+  "chemin": "/parfums/salvatore-ferragamo-vendemmia",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Vendemmia",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Vendemmia Parfum Mixte Algérie",
+  "notes": [
+   "Pêche",
+   "Bergamote",
+   "Figue",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "salvatore ferragamo vendemmia",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/salvatore-ferragamo-uomo",
+  "type": "produit",
+  "marque": "Salvatore Ferragamo",
+  "nom": "Uomo",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Salvatore Ferragamo Uomo Parfum Homme Algérie",
+  "notes": [
+   "Poivre noir",
+   "Cardamome",
+   "Tiramisu",
+   "Bois de cachemire"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "salvatore ferragamo uomo",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "salvatore-ferragamo-uomo-urban-feel",
+    "nom": "Uomo Urban Feel",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "salvatore-ferragamo-uomo-casual-life",
+    "nom": "Uomo Casual Life",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "salvatore-ferragamo-uomo-signature",
+    "nom": "Uomo Signature",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/ted-lapidus-pour-homme-black-extreme",
+  "type": "produit",
+  "marque": "Ted Lapidus",
+  "nom": "Pour Homme Black Extreme",
+  "conc": "EDT",
+  "volume": "30ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Ted Lapidus Pour Homme Black Extreme Parfum Homme Algérie",
+  "notes": [
+   "Agrumes",
+   "Poivre noir",
+   "Safran",
+   "Labdanum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "pour homme black extreme",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "ted-lapidus-pour-homme",
+    "nom": "Pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "ted-lapidus-pour-homme-gold-extreme",
+    "nom": "Pour Homme Gold Extreme",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-deriva",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Deriva",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Deriva Parfum Mixte Algérie",
+  "notes": [
+   "Lavande",
+   "Ananas",
+   "Geranium",
+   "Tabac"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi deriva",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-draconis",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Draconis",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Draconis Parfum Mixte Algérie",
+  "notes": [
+   "Citron",
+   "Pamplemousse",
+   "Poivre",
+   "Vetiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi draconis",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-gemini",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Gemini",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Gemini Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Lavande",
+   "Encens",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi gemini",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-gumin",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Gumin",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Gumin Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine",
+   "Orange",
+   "Accord ozonique",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi gumin",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-hyakutake",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Hyakutake",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Hyakutake Parfum Mixte Algérie",
+  "notes": [
+   "Eucalyptus",
+   "Bergamote de Calabre",
+   "Iris",
+   "Bois de santal d'Australie"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi hyakutake",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-mirach",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Mirach",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Mirach Parfum Mixte Algérie",
+  "notes": [
+   "Rose",
+   "Rose de Damas",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi mirach",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-moro-di-venezia",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Moro Di Venezia",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Moro Di Venezia Parfum Mixte Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Ananas",
+   "Violette",
+   "Mousse de chene"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "moro di venezia",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tiziana-terenzi-saiph",
+  "type": "produit",
+  "marque": "Tiziana Terenzi",
+  "nom": "Saiph",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Tiziana Terenzi Saiph Parfum Mixte Algérie",
+  "notes": [
+   "Notes ozoniques",
+   "Citron",
+   "Notes florales",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "tiziana terenzi saiph",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-fleur-de-chine",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Fleur de Chine",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Tom Ford Fleur de Chine Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Clémentine",
+   "Magnolia",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "fleur de chine",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "tom-ford-fleur-de-portofino",
+    "nom": "Fleur de Portofino",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-grey-vetiver",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Grey Vetiver",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Tom Ford Grey Vetiver Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Pamplemousse",
+   "Basilic thaï",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "grey vetiver",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "tom-ford-grey-vetiver-parfum",
+    "nom": "Grey Vetiver Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-neroli-portofino-acqua",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Neroli Portofino Acqua",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Tom Ford Neroli Portofino Acqua Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Néroli",
+   "Bois ambré"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "neroli portofino acqua",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "tom-ford-neroli-portofino",
+    "nom": "Neroli Portofino",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-oud-fleur",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Oud Fleur",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Tom Ford Oud Fleur Parfum Mixte Algérie",
+  "notes": [
+   "Rose",
+   "Safran",
+   "Bois d'agar (Oud)",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "oud fleur",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "tom-ford-oud-wood",
+    "nom": "Oud Wood",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "tom-ford-oud-wood-intense",
+    "nom": "Oud Wood Intense",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "tom-ford-oud-minerale-2023",
+    "nom": "Oud Minérale (2023)",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-rose-d-amalfi",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Rose d'Amalfi",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Tom Ford Rose d'Amalfi Parfum Mixte Algérie",
+  "notes": [
+   "Poivre rose",
+   "Bergamote",
+   "Rose",
+   "Amande"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "rose d amalfi",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "tom-ford-rose-prick",
+    "nom": "Rose Prick",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "tom-ford-rose-de-chine",
+    "nom": "Rose de Chine",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "tom-ford-rose-exposed",
+    "nom": "Rose Exposed",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-white-suede",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "White Suede",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Tom Ford White Suede Parfum Femme Algérie",
+  "notes": [
+   "Thym",
+   "Thé",
+   "Muguet",
+   "Daim"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "white suede",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-sole-di-positano",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Sole di Positano",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Tom Ford Sole di Positano Parfum Mixte Algérie",
+  "notes": [
+   "Orange amère",
+   "Mandarine",
+   "Néroli",
+   "Mousse"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "sole di positano",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-violet-blonde",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Violet Blonde",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Tom Ford Violet Blonde Parfum Femme Algérie",
+  "notes": [
+   "Feuille de violette",
+   "Poivre rose",
+   "Iris",
+   "Daim"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "violet blonde",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-uomo-acqua",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Uomo Acqua",
+  "conc": "EDT",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Valentino Uomo Acqua Parfum Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Tomate verte",
+   "Sauge",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "uomo acqua",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-uomo",
+    "nom": "Uomo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-intense",
+    "nom": "Uomo Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma",
+    "nom": "Uomo Born in Roma",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-coral-fantasy",
+    "nom": "Uomo Born In Roma Coral Fantasy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-yellow-dream",
+    "nom": "Uomo Born In Roma Yellow Dream",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-purple-melancholia",
+    "nom": "Uomo Born in Roma Purple Melancholia",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-ivory",
+    "nom": "Uomo Born in Roma Ivory",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-rockstud-noir",
+    "nom": "Uomo Born In Roma Rockstud Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-uomo-born-in-roma-rockstud-noir",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Uomo Born In Roma Rockstud Noir",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Valentino Uomo Born In Roma Rockstud Noir Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Sauge",
+   "Ambre gris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "uomo born in roma rockstud noir",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-uomo",
+    "nom": "Uomo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-intense",
+    "nom": "Uomo Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma",
+    "nom": "Uomo Born in Roma",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-coral-fantasy",
+    "nom": "Uomo Born In Roma Coral Fantasy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-yellow-dream",
+    "nom": "Uomo Born In Roma Yellow Dream",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-purple-melancholia",
+    "nom": "Uomo Born in Roma Purple Melancholia",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-ivory",
+    "nom": "Uomo Born in Roma Ivory",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-acqua",
+    "nom": "Uomo Acqua",
+    "conc": "EDT",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-donna-born-in-roma-green-stravaganza",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Donna Born in Roma Green Stravaganza",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Valentino Donna Born in Roma Green Stravaganza Parfum Femme Algérie",
+  "notes": [
+   "Thé Lapsang Souchong",
+   "Jasmin",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "donna born in roma green stravaganza",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-donna",
+    "nom": "Donna",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-yellow-dream",
+    "nom": "Donna Born In Roma Yellow Dream",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-coral-fantasy",
+    "nom": "Donna Born In Roma Coral Fantasy",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-intense",
+    "nom": "Donna Born In Roma Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-noir-absolu",
+    "nom": "Donna Noir Absolu",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-rosa-verde",
+    "nom": "Donna Rosa Verde",
+    "conc": "EDT",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-donna-noir-absolu",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Donna Noir Absolu",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Valentino Donna Noir Absolu Parfum Femme Algérie",
+  "notes": [
+   "Poivre",
+   "Prune",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "donna noir absolu",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-donna",
+    "nom": "Donna",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-yellow-dream",
+    "nom": "Donna Born In Roma Yellow Dream",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-coral-fantasy",
+    "nom": "Donna Born In Roma Coral Fantasy",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-intense",
+    "nom": "Donna Born In Roma Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-green-stravaganza",
+    "nom": "Donna Born in Roma Green Stravaganza",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-rosa-verde",
+    "nom": "Donna Rosa Verde",
+    "conc": "EDT",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-donna-rosa-verde",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Donna Rosa Verde",
+  "conc": "EDT",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Valentino Donna Rosa Verde Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Petitgrain Paraguay",
+   "Rose",
+   "Maté"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "donna rosa verde",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-donna",
+    "nom": "Donna",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-yellow-dream",
+    "nom": "Donna Born In Roma Yellow Dream",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-coral-fantasy",
+    "nom": "Donna Born In Roma Coral Fantasy",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-intense",
+    "nom": "Donna Born In Roma Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-born-in-roma-green-stravaganza",
+    "nom": "Donna Born in Roma Green Stravaganza",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-donna-noir-absolu",
+    "nom": "Donna Noir Absolu",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-rockstud-noir",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Rockstud Noir",
+  "conc": "EDP",
+  "volume": "30ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Valentino Rockstud Noir Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Lait",
+   "Vanille absolue"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "rockstud noir",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-valentina-acqua-floreale",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Valentina Acqua Floreale",
+  "conc": "EDT",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Valentino Valentina Acqua Floreale Parfum Femme Algérie",
+  "notes": [
+   "Fleur d'oranger",
+   "Bergamote",
+   "Jasmin",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "valentina acqua floreale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-valentina",
+    "nom": "Valentina",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-myrrh-assoluto",
+    "nom": "Valentina Myrrh Assoluto",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-oud-assoluto",
+    "nom": "Valentina Oud Assoluto",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-pink",
+    "nom": "Valentina Pink",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-valentina-myrrh-assoluto",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Valentina Myrrh Assoluto",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Valentino Valentina Myrrh Assoluto Parfum Femme Algérie",
+  "notes": [
+   "Myrrhe"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "valentina myrrh assoluto",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-valentina",
+    "nom": "Valentina",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-acqua-floreale",
+    "nom": "Valentina Acqua Floreale",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-oud-assoluto",
+    "nom": "Valentina Oud Assoluto",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-pink",
+    "nom": "Valentina Pink",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-valentina-oud-assoluto",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Valentina Oud Assoluto",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Valentino Valentina Oud Assoluto Parfum Femme Algérie",
+  "notes": [
+   "Cardamome",
+   "Fleur d'oranger",
+   "Bois d'agar (Oud)",
+   "Safran"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "valentina oud assoluto",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-valentina",
+    "nom": "Valentina",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-acqua-floreale",
+    "nom": "Valentina Acqua Floreale",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-myrrh-assoluto",
+    "nom": "Valentina Myrrh Assoluto",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-pink",
+    "nom": "Valentina Pink",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-valentina-pink",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Valentina Pink",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Valentino Valentina Pink Parfum Femme Algérie",
+  "notes": [
+   "Grosse fraise",
+   "Mûre",
+   "Rose de mai",
+   "Praline"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "valentina pink",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-valentina",
+    "nom": "Valentina",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-acqua-floreale",
+    "nom": "Valentina Acqua Floreale",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-myrrh-assoluto",
+    "nom": "Valentina Myrrh Assoluto",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "valentino-valentina-oud-assoluto",
+    "nom": "Valentina Oud Assoluto",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/versace-vanille-rouge",
+  "type": "produit",
+  "marque": "Versace",
+  "nom": "Vanille Rouge",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Versace Vanille Rouge Parfum Mixte Algérie",
+  "notes": [
+   "Amande",
+   "Rose",
+   "Vanille de Madagascar"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "vanille rouge",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/versace-encens-supreme",
+  "type": "produit",
+  "marque": "Versace",
+  "nom": "Encens Suprême",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Versace Encens Suprême Parfum Mixte Algérie",
+  "notes": [
+   "Coriandre",
+   "Encens (Oliban)",
+   "Bois de Cachemire"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "encens supreme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/versace-iris-d-elite",
+  "type": "produit",
+  "marque": "Versace",
+  "nom": "Iris d'Élite",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Versace Iris d'Élite Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine",
+   "Poivre Rose",
+   "Iris (Orris)",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "iris d elite",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/versace-pour-femme-oud-oriental",
+  "type": "produit",
+  "marque": "Versace",
+  "nom": "Pour Femme Oud Oriental",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Versace Pour Femme Oud Oriental Parfum Femme Algérie",
+  "notes": [
+   "Rose",
+   "Safran",
+   "Violette",
+   "Bois d'Agar (Oud)"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "pour femme oud oriental",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "versace-pour-homme",
+    "nom": "Pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "versace-pour-homme-oud-noir",
+    "nom": "Pour Homme Oud Noir",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/versace-safran-royal",
+  "type": "produit",
+  "marque": "Versace",
+  "nom": "Safran Royal",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Versace Safran Royal Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Armoise",
+   "Ciste (Cistus Incanus)",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "safran royal",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/vertus-oriental-rose",
+  "type": "produit",
+  "marque": "Vertus",
+  "nom": "Oriental Rose",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Vertus Oriental Rose Parfum Mixte Algérie",
+  "notes": [
+   "Lavande",
+   "Safran",
+   "Iris",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "oriental rose",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/victorias-secret-bombshell-oud",
+  "type": "produit",
+  "marque": "Victoria's Secret",
+  "nom": "Bombshell Oud",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Victoria's Secret Bombshell Oud Parfum Femme Algérie",
+  "notes": [
+   "Safran",
+   "Feuille de violette",
+   "Daim blanc",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "bombshell oud",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "bombshell-victoria-secret",
+    "nom": "Bombshell",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "victorias-secret-bombshell-intense",
+    "nom": "Bombshell Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/viktor-rolf-flowerbomb-dew",
+  "type": "produit",
+  "marque": "Viktor & Rolf",
+  "nom": "Flowerbomb Dew",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Viktor & Rolf Flowerbomb Dew Parfum Femme Algérie",
+  "notes": [
+   "Ambrette",
+   "Poire",
+   "Iris",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "flowerbomb dew",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "flowerbomb-viktor-rolf",
+    "nom": "Flowerbomb",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "flowerbomb-nectar-viktor-rolf",
+    "nom": "Flowerbomb Nectar",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "viktor-rolf-flowerbomb-midnight",
+    "nom": "Flowerbomb Midnight",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "viktor-rolf-flowerbomb-ruby-orchid",
+    "nom": "Flowerbomb Ruby Orchid",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "viktor-rolf-flowerbomb-tiger-lily",
+    "nom": "Flowerbomb Tiger Lily",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/viktor-rolf-flowerbomb-ruby-orchid",
+  "type": "produit",
+  "marque": "Viktor & Rolf",
+  "nom": "Flowerbomb Ruby Orchid",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Viktor & Rolf Flowerbomb Ruby Orchid Parfum Femme Algérie",
+  "notes": [
+   "Pêche",
+   "Vigne",
+   "Orchidée",
+   "Vanille bourbon"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "flowerbomb ruby orchid",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "flowerbomb-viktor-rolf",
+    "nom": "Flowerbomb",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "flowerbomb-nectar-viktor-rolf",
+    "nom": "Flowerbomb Nectar",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "viktor-rolf-flowerbomb-dew",
+    "nom": "Flowerbomb Dew",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "viktor-rolf-flowerbomb-midnight",
+    "nom": "Flowerbomb Midnight",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "viktor-rolf-flowerbomb-tiger-lily",
+    "nom": "Flowerbomb Tiger Lily",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-xj-1861-zefiro",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "XJ 1861 Zefiro",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff XJ 1861 Zefiro Parfum Mixte Algérie",
+  "notes": [
+   "Résine d'élémi",
+   "Vin blanc",
+   "Cardamome",
+   "Encens"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xj 1861 zefiro",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-xj-1861-renaissance",
+    "nom": "XJ 1861 Renaissance",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "xerjoff-xj-1861-decas",
+    "nom": "XJ 1861 Decas",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-apollonia",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Apollonia",
+  "conc": "Extrait de Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Apollonia Parfum Mixte Algérie",
+  "notes": [
+   "Fleurs blanches",
+   "Iris",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff apollonia",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ }
+]

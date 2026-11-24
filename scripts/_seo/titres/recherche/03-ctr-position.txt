@@ -1,0 +1,65 @@
+Base : pages-A (90 jours, données complètes), www fusionné. Une page est rangée dans la tranche de sa position moyenne (pondérée par les impressions).
+CTR = clics / impressions de toutes les pages de la tranche ; entre parenthèses : nombre de pages, impressions.
+
+| type | pos 1-3 | pos 3-5 | pos 5-8 | pos 8-12 | pos 12-20 | toutes |
+|---|---|---|---|---|---|---|
+| produit | 8.3 % (68 p., 168) | 5.7 % (234 p., 45933) | 4.0 % (1102 p., 254243) | 3.2 % (436 p., 41504) | 2.8 % (172 p., 9212) | 4.1 % |
+| marque | – | 19.3 % (13 p., 1291) | 7.1 % (60 p., 14737) | 4.7 % (43 p., 6227) | 4.1 % (25 p., 2238) | 6.9 % |
+| fille | 1.7 % (6 p., 230) | 8.0 % (16 p., 249) | 4.2 % (129 p., 16776) | 3.7 % (101 p., 6600) | 2.5 % (44 p., 1466) | 4.0 % |
+| mere | – | – | 3.0 % (1 p., 1276) | 3.5 % (2 p., 5772) | – | 3.4 % |
+| accueil | – | – | 7.4 % (1 p., 31225) | – | – | 7.4 % |
+| blog | 0.0 % (1 p., 1) | 1.7 % (1 p., 465) | 3.5 % (8 p., 4101) | 2.0 % (3 p., 405) | 1.2 % (1 p., 81) | 2.8 % |
+
+Médiane du CTR des pages à ≥ 100 imp, par tranche :
+| type | pos 1-3 | pos 3-5 | pos 5-8 | pos 8-12 | pos 12-20 |
+|---|---|---|---|---|---|
+| produit | – | 6.1 % (71) | 3.7 % (432) | 3.1 % (118) | 3.1 % (26) |
+| marque | – | 12.9 % (5) | 5.8 % (30) | 4.2 % (20) | 4.4 % (8) |
+| fille | 1.6 % (1) | – | 4.1 % (35) | 2.8 % (17) | 1.8 % (1) |
+| mere | – | – | 3.0 % (1) | 4.9 % (2) | – |
+| accueil | – | – | 7.4 % (1) | – | – |
+| blog | – | 1.7 % (1) | 3.0 % (7) | 2.6 % (2) | – |
+
+Courbe de référence des fiches produit (pages ≥ 30 imp ; tranches brutes puis lissage isotone) :
+brut : 3.5-4 : 6.6 % (10 p.) · 4-4.5 : 7.0 % (31 p.) · 4.5-5 : 5.4 % (76 p.) · 5-5.5 : 5.3 % (119 p.) · 5.5-6 : 4.3 % (153 p.) · 6-6.5 : 3.3 % (158 p.) · 6.5-7 : 3.7 % (153 p.) · 7-7.5 : 3.3 % (116 p.) · 7.5-8 : 2.7 % (98 p.) · 8-8.5 : 3.2 % (60 p.) · 8.5-9 : 2.8 % (51 p.) · 9-9.5 : 2.9 % (41 p.) · 9.5-10 : 3.9 % (45 p.) · 10-10.5 : 3.8 % (27 p.) · 10.5-11 : 3.6 % (15 p.) · 11-11.5 : 2.5 % (14 p.) · 11.5-12 : 1.8 % (12 p.) · 12-13 : 2.5 % (18 p.) · 13-13.5 : 1.6 % (10 p.) · 13.5-16 : 3.5 % (25 p.)
+lissé : 3.5-4.5 : 6.9 % · 4.5-5 : 5.4 % · 5-5.5 : 5.3 % · 5.5-6 : 4.3 % · 6-7 : 3.4 % · 7-7.5 : 3.3 % · 7.5-11 : 3.1 % · 11-16 : 2.6 %
+
+Fiches à ≥ 400 imp et position ≤ 15 : 211. Clics manquants = imp × CTR attendu à sa position − clics réels (90 jours).
+Sous la courbe : 131 fiches, 2255 clics manquants en 90 jours (≈ 752 par mois).
+
+### Les 30 fiches les plus en dessous de la courbe (en clics manquants)
+| # | fiche | imp | pos | CTR | CTR attendu | clics manquants | titre actuel | requêtes n°1 à 3 (imp, pos) | part requêtes de marque / d'une autre fiche (échantillon) | prix DA |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | /parfums/kayali-eden | 6239 | 6.1 | 1.5 % | 3.4 % | 118 | Kayali Eden Juicy Apple 01 Prix Algérie Original | Maison Numidia | parfum kayali prix algérie (567, 7.1) ; kayali eden juicy apple (331, 8.5) ; kayali (249, 6.7) | 57 % / 0 % | 28500 |
+| 2 | /parfums/narciso-rodriguez-for-her-fleur-musc | 1900 | 3.4 | 1.6 % | 6.9 % | 102 | Narciso Rodriguez For Her Fleur Musc Prix Algérie Original | Maison Numidia | narciso rodriguez (998, 1.1) ; narciso fleur musc (39, 6.4) ; fleur musc narciso rodriguez (35, 5.7) | 79 % / 0 % | 21500 |
+| 3 | /parfums/libre-ysl | 3683 | 5.8 | 1.6 % | 4.3 % | 97 | Yves Saint Laurent Libre Prix Algérie Original | Maison Numidia | parfum libre prix algerie (213, 7.1) ; parfum libre prix algérie 50ml (116, 8.8) ; ysl libre (88, 7.3) | 8 % / 1 % | 30500 |
+| 4 | /parfums/whisky-silver-evaflor | 6374 | 6.2 | 2.1 % | 3.4 % | 83 | Evaflor Whisky Silver Prix Algérie Original | Maison Numidia | whisky silver (671, 5.6) ; prix whisky algérie (281, 5.6) ; parfum whisky (224, 7.9) | 0 % / 0 % | 7600 |
+| 5 | /parfums/chanel-chance-eau-tendre | 2660 | 5.0 | 2.7 % | 5.4 % | 71 | Chanel Chance Eau Tendre Eau de Parfum Prix Algérie Original | Maison Numidia | chanel chance eau tendre (304, 8.1) ; chanel chance (165, 1.4) ; chanel chance eau tendre prix algérie (98, 3.3) | 12 % / 72 % | 43500 |
+| 6 | /parfums/idole-lancome | 1496 | 4.2 | 3.3 % | 6.9 % | 54 | Lancôme Idôle Prix Algérie Original | Maison Numidia | idôle parfum prix algérie (203, 3.9) ; idole lancome prix algerie (124, 2.8) ; idôle parfum prix (50, 2.6) | 2 % / 1 % | 28000 |
+| 7 | /parfums/kayali-vanilla-28 | 1192 | 5.0 | 1.3 % | 5.3 % | 47 | Kayali Vanilla 28 Prix Algérie Original | Maison Numidia | parfum kayali prix algérie (63, 4.2) ; kayali vanilla 28 prix algérie (61, 4.1) ; kayali (57, 4.8) | 47 % / 0 % | 45000 |
+| 8 | /parfums/lattafa-yara | 4457 | 5.0 | 4.4 % | 5.4 % | 45 | Lattafa Yara Prix Algérie Original | Maison Numidia | yara parfum (538, 7.4) ; parfum yara (306, 8.1) ; parfum yara prix (138, 3.8) | 3 % / 0 % | 7100 |
+| 9 | /parfums/terre-d-hermes | 2805 | 5.3 | 3.7 % | 5.3 % | 44 | Hermès Terre d'Hermès Prix Algérie Original | Maison Numidia | terre d'hermes (291, 8.7) ; terre d'hermes prix algerie (83, 4.5) ; terre d'hermès homme 100ml prix (59, 5.4) | 19 % / 0 % | 23000 |
+| 10 | /parfums/club-de-nuit-women-armaf | 3048 | 5.8 | 2.8 % | 4.3 % | 44 | Armaf Club de Nuit Women Prix Algérie Original | Maison Numidia | club de nuit parfum (142, 5.8) ; club de nuit woman (133, 6.5) ; club de nuit woman prix (124, 4.3) | 8 % / 1 % | 13500 |
+| 11 | /parfums/dior-sauvage | 1611 | 5.3 | 2.6 % | 5.3 % | 43 | Dior Sauvage Prix Algérie Original | Maison Numidia | sauvage dior 100ml prix en algérie (142, 6.4) ; dior sauvage prix algérie (44, 4.6) ; dior sauvage eau de parfum 100ml prix algerie (26, 4.7) | 5 % / 0 % | 33000 |
+| 12 | /parfums/acqua-di-gio-profumo-armani | 1663 | 4.8 | 3.1 % | 5.4 % | 38 | Giorgio Armani Acqua di Gio Profumo Prix Algérie Original | Maison Numidia | acqua di gio (537, 3.2) ; acqua di gio profumo (384, 5.9) ; aqua di gio (51, 2.9) | 1 % / 49 % | 27500 |
+| 13 | /parfums/dior-addict | 1940 | 5.2 | 3.4 % | 5.3 % | 37 | Dior Addict Prix Algérie Original | Maison Numidia | dior addict (310, 8.7) ; dior addict prix algérie (104, 1.4) ; dior addict parfum femme (103, 3.8) | 5 % / 0 % | 39500 |
+| 14 | /parfums/mauboussin-pour-elle | 1727 | 5.0 | 3.2 % | 5.3 % | 36 | Mauboussin Pour Elle Prix Algérie Original | Maison Numidia | mauboussin parfum (265, 3.2) ; mauboussin alger (162, 8.2) ; mauboussin algerie (78, 8.2) | 0 % / 0 % | 13500 |
+| 15 | /parfums/escada-candy-love | 822 | 5.1 | 1.1 % | 5.3 % | 34 | Escada Candy Love Prix Algérie Original | Maison Numidia | candy love (455, 5.8) ; candy love parfum (140, 4.1) ; escada candy love (35, 3.9) | 0 % / 0 % | 12000 |
+| 16 | /parfums/stronger-with-you-intensely | 2332 | 6.8 | 2.0 % | 3.4 % | 33 | Giorgio Armani Stronger With You Intensely Prix Algérie Original | Maison Numidia | stronger with you intensely (254, 8.7) ; armani stronger with you (126, 9.5) ; stronger with you intensely prix algérie (64, 7.4) | 3 % / 23 % | 27000 |
+| 17 | /parfums/coco-mademoiselle-chanel | 2290 | 5.6 | 2.8 % | 4.3 % | 32 | Chanel Coco Mademoiselle Prix Algérie Original | Maison Numidia | coco mademoiselle eau de parfum 100ml prix algérie (132, 4.4) ; coco chanel mademoiselle prix algérie (103, 3.9) ; coco chanel mademoiselle (76, 9.3) | 3 % / 23 % | 40500 |
+| 18 | /parfums/tom-ford-noir-extreme | 1788 | 6.1 | 1.6 % | 3.4 % | 32 | Tom Ford Noir Extreme Prix Algérie Original | Maison Numidia | tom ford noir extreme (496, 7.4) ; noir extreme tom ford (117, 7.8) ; tom ford noir (92, 4.6) | 2 % / 0 % | 39500 |
+| 19 | /parfums/gucci-envy-me | 1749 | 8.0 | 1.3 % | 3.1 % | 32 | Gucci Envy Me Prix Algérie Original | Maison Numidia | gucci envy me (549, 8.0) ; envy me gucci (230, 9.9) ; gucci envy me prix algérie (94, 3.9) | 0 % / 0 % | 25000 |
+| 20 | /parfums/goddess-burberry | 1272 | 5.9 | 1.9 % | 4.3 % | 30 | Burberry Goddess Prix Algérie Original | Maison Numidia | burberry goddess prix algérie (154, 6.3) ; burberry goddess (143, 7.9) ; burberry goddess prix algérie (61, 6.2) | 3 % / 0 % | 28500 |
+| 21 | /parfums/gucci-bloom | 1044 | 4.5 | 4.2 % | 6.9 % | 28 | Gucci Bloom Prix Algérie Original | Maison Numidia | gucci bloom prix algérie (83, 2.2) ; gucci bloom prix (77, 4.9) ; gucci bloom (63, 6.7) | 22 % / 0 % | 25000 |
+| 22 | /parfums/carolina-herrera-la-bomba-intensa | 553 | 4.2 | 2.0 % | 6.9 % | 27 | Carolina Herrera La Bomba Intensa Prix Algérie Original | Maison Numidia | parfum la bomba prix algérie (119, 3.7) ; la bomba carolina herrera prix algérie (54, 4.5) ; carolina herrera la bomba prix algérie (25, 5.0) | 4 % / 0 % | 34000 |
+| 23 | /parfums/zara-rose-gold | 1367 | 6.2 | 1.5 % | 3.4 % | 27 | Zara Rose Gold Prix Algérie Original | Maison Numidia | zara rose (112, 3.6) ; zara parfum (83, 4.2) ; parfum zara femme (55, 3.7) | 48 % / 0 % | 7600 |
+| 24 | /parfums/amouage-reflection | 1764 | 5.5 | 3.8 % | 5.3 % | 26 | Amouage Reflection Man Prix Algérie Original | Maison Numidia | amouage parfum prix algérie (144, 6.3) ; amouage reflection (79, 6.5) ; amouage reflection man (71, 10.4) | 34 % / 0 % | 92500 |
+| 25 | /parfums/mont-blanc-signature | 1544 | 5.2 | 3.6 % | 5.3 % | 26 | Mont Blanc Signature Prix Algérie Original | Maison Numidia | montblanc signature prix algérie (117, 5.3) ; montblanc parfum femme prix algérie (107, 4.0) ; mont blanc perfume (64, 2.8) | 46 % / 0 % | 16500 |
+| 26 | /parfums/scandal-jean-paul-gaultier | 1124 | 6.3 | 1.2 % | 3.4 % | 24 | Jean Paul Gaultier Scandal Prix Algérie Original | Maison Numidia | parfum scandal femme prix algérie (87, 5.8) ; scandal parfum femme prix algérie (58, 4.5) ; scandal parfum (36, 2.4) | 9 % / 0 % | 26500 |
+| 27 | /parfums/chanel-no5 | 908 | 5.2 | 2.6 % | 5.3 % | 24 | Chanel N°5 Prix Algérie Original | Maison Numidia | chanel n 5 prix 100ml algérie (72, 4.3) ; chanel n 5 prix 100ml algérie (43, 5.0) ; chanel numéro 5 prix algerie (12, 5.3) | 8 % / 0 % | 36000 |
+| 28 | /parfums/drakkar-noir-guy-laroche | 1036 | 5.2 | 3.0 % | 5.3 % | 24 | Guy Laroche Drakkar Noir Prix Algérie Original | Maison Numidia | drakkar noir (119, 8.2) ; drakkar noir (28, 7.3) ; drakkar noir parfum (26, 7.3) | 3 % / 0 % | 11500 |
+| 29 | /parfums/cacharel-noa | 1357 | 5.2 | 3.5 % | 5.3 % | 24 | Cacharel Noa Prix Algérie Original | Maison Numidia | parfum noa prix algérie (169, 4.6) ; noa cacharel 50 ml prix algérie (94, 4.2) ; noa cacharel prix algérie (85, 3.6) | 1 % / 0 % | 16500 |
+| 30 | /parfums/euphoria-calvin-klein | 573 | 4.6 | 1.4 % | 5.4 % | 23 | Calvin Klein Euphoria Prix Algérie Original | Maison Numidia | calvin klein parfum femme prix algérie (11, 4.6) ; euphoria calvin klein (8, 10.6) ; euphoria parfum (6, 10.5) | 35 % / 0 % | 16500 |
+
+Parmi ces 30 : 17 ont la marque dans au moins 3 de leurs 5 premières requêtes ; prix médian 27000 DA (catalogue : 24000 DA) ; longueur médiane du titre actuel 60 caractères.
+Titres actuels des 2328 fiches : longueur médiane 64 caractères ; > 60 : 1568 ; > 70 : 584.

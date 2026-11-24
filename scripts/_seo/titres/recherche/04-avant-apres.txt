@@ -1,0 +1,63 @@
+## 1. Titre du 14/09/2026 : « {h1} Original » → « {Marque} {Nom} Prix Algérie Original »
+Base : jours-<type>.json (courbes quotidiennes complètes). Avant = 24/08 → 13/09 ; après = 15/09 → 05/10 ; après décalé (temps de recrawl) = 22/09 → 12/10.
+Le 15/09, les prix ont aussi été recalés (médiane + 3 %) ; du 17 au 30/09 le catalogue passe de 735 à 1 048 fiches et la fiche est restructurée (25/09) : tout cela tombe dans « après ».
+
+| type | avant | après | après décalé | ΔCTR après (pts) | Δpos |
+|---|---|---|---|---|---|
+| produit | 2313 clics, 70177 imp, CTR 3.30 %, pos 7.31 | 3026 clics, 65610 imp, CTR 4.61 %, pos 6.68 | 3321 clics, 69402 imp, CTR 4.79 %, pos 6.68 | 1.32 | -0.64 |
+| marque | 241 clics, 4514 imp, CTR 5.34 %, pos 9.24 | 448 clics, 5855 imp, CTR 7.65 %, pos 7.48 | 469 clics, 6122 imp, CTR 7.66 %, pos 7.43 | 2.31 | -1.76 |
+| fille | 131 clics, 3864 imp, CTR 3.39 %, pos 10.04 | 204 clics, 4749 imp, CTR 4.30 %, pos 8.38 | 249 clics, 5960 imp, CTR 4.18 %, pos 7.85 | 0.91 | -1.66 |
+| accueil | 352 clics, 5567 imp, CTR 6.32 %, pos 6.66 | 546 clics, 7461 imp, CTR 7.32 %, pos 6.05 | 534 clics, 7184 imp, CTR 7.43 %, pos 5.95 | 1.00 | -0.61 |
+| mere | 47 clics, 1653 imp, CTR 2.84 %, pos 9.81 | 71 clics, 1841 imp, CTR 3.86 %, pos 8.23 | 61 clics, 1608 imp, CTR 3.79 %, pos 8.43 | 1.01 | -1.57 |
+
+Ratio CTR fiches / CTR témoin (marque + fille, titres inchangés le 14/09) : avant 0.742, après 0.750, après décalé 0.805 (1 % puis 8 %).
+
+Semaine par semaine (fiches produit / témoin marque+fille) :
+| semaine du | fiches CTR | fiches pos | fiches imp | témoin CTR | témoin pos |
+|---|---|---|---|---|---|
+| 2026-08-10 | 2.98 % | 7.95 | 16931 | 3.78 % | 8.70 |
+| 2026-08-17 | 3.30 % | 7.31 | 18388 | 4.10 % | 7.91 |
+| 2026-08-24 | 3.68 % | 7.85 | 19100 | 4.99 % | 10.24 |
+| 2026-08-31 | 3.05 % | 7.32 | 24306 | 3.88 % | 10.06 |
+| 2026-09-07 | 3.25 % | 6.93 | 26771 | 4.51 % | 8.66 |
+| 2026-09-14 | 4.20 % | 6.42 | 22565 | 5.46 % | 7.26 |
+| 2026-09-21 | 4.39 % | 6.70 | 21210 | 6.22 % | 8.95 |
+| 2026-09-28 | 4.82 % | 6.90 | 22688 | 6.21 % | 7.65 |
+| 2026-10-05 | 5.10 % | 6.48 | 24830 | 5.64 % | 6.93 |
+| 2026-10-12 | 4.33 % | 6.28 | 26710 | 6.27 % | 6.96 |
+| 2026-10-19 | 4.44 % | 6.25 | 28471 | 5.64 % | 6.87 |
+
+## 2. Hausse de prix du 18/10/2026 (médiane + 20 % / + 10 %)
+Base : pages-jours-60 (page × jour, complet). Avant = 2026-09-27 → 2026-10-17 ; après = 2026-10-19 → 2026-11-08. Pages présentes des deux côtés (≥ 20 imp de chaque côté). Variation de prix = data/products.json avant / après le commit ee0647e (1726 fiches montées sur 1729 : presque aucune fiche n'est restée stable, d'où le témoin pris hors fiches).
+Le même jour (936a365) : « 58 → 69 wilayas » et fin de « COD » dans les textes de toutes les pages : touche fiches et témoin pareil.
+Les hausses ≥ 18 % sont surtout les parfums ≤ 15 000 DA (règle + 20 %) : groupe différent par nature (orientaux, prix bas).
+
+| groupe | pages | hausse médiane | avant | après | ΔCTR brut | Δ CTR à positions égales |
+|---|---|---|---|---|---|---|
+| témoin : pages marque + filles | 101 | 0 % | 579 clics, 9479 imp, CTR 6.11 %, pos 6.72 | 568 clics, 9670 imp, CTR 5.87 %, pos 6.48 | -4 % | -7 % |
+| hausse < 8 % | 407 | 7 % | 1700 clics, 39512 imp, CTR 4.30 %, pos 6.31 | 1889 clics, 47958 imp, CTR 3.94 %, pos 5.73 | -8 % | -15 % |
+| hausse 8 à 12 % | 53 | 9 % | 219 clics, 5563 imp, CTR 3.94 %, pos 6.91 | 236 clics, 4892 imp, CTR 4.82 %, pos 6.33 | 23 % | 16 % |
+| hausse 12 à 18 % | 132 | 17 % | 896 clics, 15783 imp, CTR 5.68 %, pos 6.12 | 872 clics, 17277 imp, CTR 5.05 %, pos 5.57 | -11 % | -16 % |
+| hausse ≥ 18 % | 26 | 19 % | 234 clics, 2531 imp, CTR 9.25 %, pos 6.37 | 142 clics, 2509 imp, CTR 5.66 %, pos 6.28 | -39 % | -40 % |
+| toutes les fiches | 618 | – | 3049 clics, 63389 imp, CTR 4.81 %, pos 6.32 | 3139 clics, 72636 imp, CTR 4.32 %, pos 5.75 | -10 % | -16 % |
+
+Différence de différences (à positions égales, contre le témoin) : hausse < 8 % -9 pts ; hausse 8 à 12 % 23 pts ; hausse 12 à 18 % -9 pts ; hausse ≥ 18 % -34 pts ; toutes -10 pts.
+
+Robustesse, page par page (≥ 100 imp de chaque côté, ≥ 5 clics au total) : médiane de (CTR après / CTR avant − 1) ; puis seulement les pages dont la position a bougé de moins d'une place.
+- témoin : pages marque + filles : 17 pages, médiane -18 % ; position stable : 13 pages, médiane -19 %
+- hausse < 8 % : 89 pages, médiane -0 % ; position stable : 64 pages, médiane -6 %
+- hausse 8 à 12 % : 10 pages, médiane 18 % ; position stable : 6 pages, médiane 32 %
+- hausse 12 à 18 % : 28 pages, médiane -6 % ; position stable : 20 pages, médiane -3 %
+- hausse ≥ 18 % : 6 pages, médiane -53 % ; position stable : 4 pages, médiane -56 %
+
+Semaine par semaine (CTR / position), pages des groupes ci-dessus :
+| semaine du | témoin : pages marque + filles | hausse < 8 % | hausse 8 à 12 % | hausse 12 à 18 % | hausse ≥ 18 % |
+|---|---|---|---|---|---|
+| 2026-09-21 | 6.21 % / 8.17 | 3.68 % / 6.88 | 3.53 % / 6.72 | 6.13 % / 6.04 | 7.52 % / 6.00 |
+| 2026-09-28 | 6.56 % / 6.98 | 4.43 % / 6.67 | 3.29 % / 7.24 | 6.09 % / 6.55 | 7.62 % / 6.27 |
+| 2026-10-05 | 5.97 % / 6.51 | 4.57 % / 6.19 | 4.80 % / 6.90 | 5.87 % / 6.07 | 10.21 % / 6.51 |
+| 2026-10-12 | 5.95 % / 6.57 | 3.91 % / 5.99 | 4.44 % / 6.41 | 4.97 % / 5.72 | 9.14 % / 6.53 |
+| 2026-10-19 | 5.81 % / 6.48 | 3.95 % / 5.91 | 5.12 % / 6.36 | 5.01 % / 5.73 | 6.71 % / 6.86 |
+| 2026-10-26 | 5.58 % / 6.08 | 4.12 % / 5.57 | 5.18 % / 5.91 | 5.37 % / 5.57 | 4.81 % / 6.17 |
+| 2026-11-02 | 6.18 % / 6.83 | 3.76 % / 5.74 | 4.24 % / 6.65 | 4.78 % / 5.42 | 5.61 % / 5.91 |
+| 2026-11-09 | 4.69 % / 7.13 | 3.73 % / 6.04 | 4.27 % / 6.61 | 4.82 % / 6.02 | 6.24 % / 6.00 |

@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { articles } from "@/data/blog";
 import { Clock, ArrowRight } from "lucide-react";
 import { getItemListSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Blog Parfums — Conseils, Guides & Tendances en Algérie",
+  title: titrePage("/blog", "Blog Parfums — Conseils, Guides & Tendances en Algérie"),
   description: "Guides d'achat parfums, conseils de pro et tendances olfactives en Algérie. Tout savoir pour choisir son parfum.",
   alternates: { canonical: "https://maisonnumidia.store/blog" },
 };

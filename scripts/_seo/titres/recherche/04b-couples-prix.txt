@@ -1,0 +1,26 @@
+| groupe | couples | CTR B | pos B | CTR D | pos D | CTR D / CTR B |
+|---|---|---|---|---|---|---|
+| fiches | avec prix | 281 | 2.87 % | 6.6 | 4.47 % | 5.0 | ×1.56 |
+| fiches | sans prix | 397 | 1.56 % | 8.4 | 2.49 % | 8.0 | ×1.59 |
+| témoin marque+fille | avec prix | 49 | 4.11 % | 5.4 | 6.26 % | 4.9 | ×1.52 |
+| témoin marque+fille | sans prix | 57 | 0.80 % | 8.3 | 1.89 % | 9.0 | ×2.37 |
+
+Couples à position stable (|Δpos| < 1) :
+- fiches | avec prix : 87 couples, CTR 4.04 % → 4.02 % (×1.00), pos 5.6 → 5.7
+- fiches | sans prix : 124 couples, CTR 0.89 % → 1.11 % (×1.25), pos 8.0 → 8.0
+- témoin marque+fille | avec prix : 16 couples, CTR 3.30 % → 3.85 % (×1.17), pos 6.4 → 6.3
+- témoin marque+fille | sans prix : 17 couples, CTR 0.97 % → 1.51 % (×1.55), pos 5.5 → 7.9
+
+Position B → D par mot présent dans la requête (couples ≥ 5 imp de chaque côté) :
+| groupe | couples | pos B | pos D | places gagnées | CTR B → D |
+|---|---|---|---|---|---|
+| fiches · prix | 281 | 6.6 | 5.0 | 1.6 | 2.9 → 4.5 % |
+| fiches · parfum sans prix | 102 | 8.4 | 7.8 | 0.7 | 1.7 → 2.2 % |
+| fiches · homme/femme sans prix | 46 | 8.5 | 7.8 | 0.8 | 1.4 → 2.8 % |
+| fiches · algérie sans prix | 23 | 6.5 | 5.4 | 1.2 | 6.5 → 14.2 % |
+| fiches · nom seul (aucun de ces mots) | 251 | 8.6 | 8.3 | 0.2 | 1.1 → 1.6 % |
+| témoin · prix | 49 | 5.4 | 4.9 | 0.5 | 4.1 → 6.3 % |
+| témoin · parfum sans prix | 38 | 8.4 | 8.3 | 0.1 | 0.3 → 1.7 % |
+| témoin · homme/femme sans prix | 21 | 7.0 | 8.1 | -1.2 | 0.4 → 0.9 % |
+| témoin · algérie sans prix | 9 | 10.8 | 10.5 | 0.3 | 3.2 → 6.0 % |
+| témoin · nom seul (aucun de ces mots) | 8 | 5.6 | 13.3 | -7.7 | 0.8 → 2.7 % |

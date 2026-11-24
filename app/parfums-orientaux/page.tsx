@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { getOrientalProducts, getBrandBySlug, versCarte, urlMarqueSection } from "@/lib/products";
 import FilterableProductGrid from "@/components/product/FilterableProductGrid";
@@ -9,7 +10,7 @@ import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Parfum Oriental Original en Algérie — Lattafa, Al Haramain",
+  title: titrePage("/parfums-orientaux", "Parfum Oriental Original en Algérie — Lattafa, Al Haramain"),
   description:
     "Achetez vos parfums orientaux originaux en Algérie. Lattafa, Al Haramain — oud, ambre, musc. 100% authentiques, livrés dans les 69 wilayas. Paiement à la réception.",
   alternates: { canonical: "https://maisonnumidia.store/parfums-orientaux" },
@@ -57,8 +58,9 @@ export default function ParfumsOrientauxPage() {
         }}
       />
       <CategoryHero
-        title="Parfums Orientaux en Algérie"
-        description="Oud, ambre, musc, rose de Taïf — les trésors de la parfumerie orientale accessibles en Algérie. 100% authentiques, prix en dinar."
+        title="Parfum oriental original en Algérie"
+        section="orientaux"
+        description="Oud, ambre, musc et rose : les parfums orientaux et arabes 100 % originaux, de Lattafa et Armaf à Amouage et Xerjoff, avec leur prix en dinars. Livrés dans les 69 wilayas, payés à la livraison."
         count={products.length}
       />
 

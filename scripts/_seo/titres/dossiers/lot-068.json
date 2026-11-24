@@ -1,0 +1,1195 @@
+[
+ {
+  "chemin": "/parfums/yves-rocher-so-elixir-purple",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "So Elixir Purple",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Yves Rocher So Elixir Purple Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Tubéreuse",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "so elixir purple",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zadig-voltaire",
+  "type": "produit",
+  "marque": "Zadig & Voltaire",
+  "nom": "Zadig",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zadig & Voltaire Zadig Parfum Femme Algérie",
+  "notes": [
+   "Sésame",
+   "Gingembre",
+   "Néroli",
+   "Crème chantilly"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "zadig voltaire zadig",
+   "vol": 10
+  },
+  "motsCles": [
+   {
+    "k": "zadig et voltaire",
+    "vol": 590,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "zadig et voltaire parfum",
+    "vol": 210,
+    "posMust": 2,
+    "notrePos": 26
+   },
+   {
+    "k": "zadig voltaire",
+    "vol": 40,
+    "posMust": 4,
+    "notrePos": null
+   }
+  ],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-deep-temptation",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Deep Temptation",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Deep Temptation Parfum Femme Algérie",
+  "notes": [
+   "Coriandre",
+   "Orange sanguine",
+   "Safran",
+   "Notes boisees sombres"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "deep temptation",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-moonlight-whisper",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Moonlight Whisper",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Moonlight Whisper Parfum Femme Algérie",
+  "notes": [
+   "Pistache",
+   "Caramel",
+   "Sucre",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "moonlight whisper",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-plage-privee",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Plage Privee",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Plage Privee Parfum Femme Algérie",
+  "notes": [
+   "Frangipanier",
+   "Notes solaires",
+   "Notes marines",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "plage privee",
+   "vol": 1300
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-red-temptation-elixir-parfum",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Red Temptation Elixir Parfum",
+  "conc": "Parfum",
+  "volume": "80ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Red Temptation Elixir Parfum Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Orange amere",
+   "Praline",
+   "Notes boisees"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "red temptation elixir parfum",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "zara-red-temptation-for-her",
+    "nom": "Red Temptation For Her",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "zara-red-temptation-summer",
+    "nom": "Red Temptation Summer",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-red-temptation-for-her",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Red Temptation For Her",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Red Temptation For Her Parfum Femme Algérie",
+  "notes": [
+   "Safran",
+   "Orange amère",
+   "Praliné",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "red temptation for her",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "zara-red-temptation-elixir-parfum",
+    "nom": "Red Temptation Elixir Parfum",
+    "conc": "Parfum",
+    "vol": "80ml"
+   },
+   {
+    "slug": "zara-red-temptation-summer",
+    "nom": "Red Temptation Summer",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-red-temptation-summer",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Red Temptation Summer",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Red Temptation Summer Parfum Femme Algérie",
+  "notes": [
+   "Litchi",
+   "Framboise",
+   "Petales de rose",
+   "Praline"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "red temptation summer",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "zara-red-temptation-elixir-parfum",
+    "nom": "Red Temptation Elixir Parfum",
+    "conc": "Parfum",
+    "vol": "80ml"
+   },
+   {
+    "slug": "zara-red-temptation-for-her",
+    "nom": "Red Temptation For Her",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/zara-sublime-epoque",
+  "type": "produit",
+  "marque": "Zara",
+  "nom": "Sublime Epoque",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Zara Sublime Epoque Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Tubereuse",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "sublime epoque",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/azzaro",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Azzaro",
+  "nbProduits": 3,
+  "nbMarque": 37,
+  "phares": [
+   "Forever Wanted Absolu",
+   "Decibel",
+   "Visit for Men"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "azzaro homme parfum",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": 43
+   },
+   {
+    "k": "azzaro parfum homme",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": 29
+   },
+   {
+    "k": "azzaro parfum pour homme",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "parfum azzaro homme",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": 27
+   },
+   {
+    "k": "parfum azzaro pour homme",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": 41
+   },
+   {
+    "k": "parfum homme azzaro",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": 41
+   },
+   {
+    "k": "parfum pour homme azzaro",
+    "vol": 480,
+    "posMust": 1,
+    "notrePos": 35
+   },
+   {
+    "k": "parfums homme azzaro",
+    "vol": 480,
+    "posMust": 3,
+    "notrePos": 39
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/bdk-parfums",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "BDK Parfums",
+  "nbProduits": 2,
+  "nbMarque": 11,
+  "phares": [
+   "Oud Abramad",
+   "Wood Jasmin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/burberry",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Burberry",
+  "nbProduits": 2,
+  "nbMarque": 30,
+  "phares": [
+   "Antique Oak",
+   "Midnight Journey"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "burberry parfum femme",
+    "vol": 590,
+    "posMust": 4,
+    "notrePos": 19
+   },
+   {
+    "k": "burberry parfum femme prix",
+    "vol": 110,
+    "posMust": 5,
+    "notrePos": null
+   },
+   {
+    "k": "parfum burberry femme prix",
+    "vol": 110,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "prix parfum burberry femme",
+    "vol": 110,
+    "posMust": 8,
+    "notrePos": null
+   },
+   {
+    "k": "my burberry parfum femme",
+    "vol": 90,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "parfum femme my burberry",
+    "vol": 90,
+    "posMust": 6,
+    "notrePos": null
+   },
+   {
+    "k": "burberry body parfum femme prix algerie",
+    "vol": 30,
+    "posMust": 3,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/cartier",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Cartier",
+  "nbProduits": 2,
+  "nbMarque": 22,
+  "phares": [
+   "Oud & Rose (Les Heures Voyageuses)",
+   "Oud & Menthe (Les Heures Voyageuses)"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/chloe",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Chloé",
+  "nbProduits": 3,
+  "nbMarque": 24,
+  "phares": [
+   "Nomade Jardin d'Égypte",
+   "Nomade Lumière d'Égypte",
+   "Nomade Nuit d'Égypte"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "chloé parfum femme",
+    "vol": 140,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "parfum chloé femme",
+    "vol": 140,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "parfum femme chloé",
+    "vol": 140,
+    "posMust": 1,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/coach",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Coach",
+  "nbProduits": 3,
+  "nbMarque": 7,
+  "phares": [
+   "Platinum",
+   "for Men Pure Platinum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/dior",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Dior",
+  "nbProduits": 10,
+  "nbMarque": 79,
+  "phares": [
+   "Bois d'Argent",
+   "Oud Ispahan",
+   "Eau Sauvage Parfum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/elie-saab",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Elie Saab",
+  "nbProduits": 3,
+  "nbMarque": 20,
+  "phares": [
+   "Cuir Patchouli",
+   "Cuir Ylang"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "parfum elie saab femme",
+    "vol": 40,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "parfum femme elie saab",
+    "vol": 40,
+    "posMust": 3,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/franck-olivier",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Franck Olivier",
+  "nbProduits": 1,
+  "nbMarque": 7,
+  "phares": [
+   "Oud Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/marques/guy-laroche",
+  "type": "marque",
+  "marque": "Guy Laroche",
+  "nbProduits": 2,
+  "genres": {
+   "homme": 2,
+   "femme": 0,
+   "unisexe": 0
+  },
+  "oriental": 0,
+  "phares": [
+   "Drakkar Noir",
+   "Drakkar Intense"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/hermes",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Hermès",
+  "nbProduits": 1,
+  "nbMarque": 37,
+  "phares": [
+   "Hermessence Agar Ebene"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/hugo-boss",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Hugo Boss",
+  "nbProduits": 3,
+  "nbMarque": 55,
+  "phares": [
+   "Boss Bottled Elixir",
+   "Bottled Absolu",
+   "Boss Bottled Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/jimmy-choo",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Jimmy Choo",
+  "nbProduits": 2,
+  "nbMarque": 21,
+  "phares": [
+   "I Want Oud",
+   "Vanilla Love"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "jimmy choo parfum femme prix algérie",
+    "vol": 30,
+    "posMust": 8,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/kenzo",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Kenzo",
+  "nbProduits": 1,
+  "nbMarque": 36,
+  "phares": [
+   "Amour Indian Holi"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/kilian",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Kilian",
+  "nbProduits": 1,
+  "nbMarque": 6,
+  "phares": [],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/lalique",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Lalique",
+  "nbProduits": 2,
+  "nbMarque": 14,
+  "phares": [
+   "Ombre Noire",
+   "Encre Noire À L'Extrême"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/marques/louis-vuitton",
+  "type": "marque",
+  "marque": "Louis Vuitton",
+  "nbProduits": 30,
+  "genres": {
+   "homme": 8,
+   "femme": 9,
+   "unisexe": 13
+  },
+  "oriental": 6,
+  "phares": [
+   "Imagination",
+   "Ombre Nomade",
+   "Symphony",
+   "Afternoon Swim"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/mancera",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Mancera",
+  "nbProduits": 21,
+  "nbMarque": 26,
+  "phares": [
+   "Black Noir",
+   "Black to Black",
+   "Cedrat Boisé"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-femme/mauboussin",
+  "type": "fille",
+  "section": "parfums-femme",
+  "marque": "Mauboussin",
+  "nbProduits": 1,
+  "nbMarque": 2,
+  "phares": [
+   "Pour Elle"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/mugler",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Mugler",
+  "nbProduits": 1,
+  "nbMarque": 26,
+  "phares": [
+   "Alien Essence Absolue"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/paco-rabanne",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Paco Rabanne",
+  "nbProduits": 6,
+  "nbMarque": 55,
+  "phares": [
+   "Invictus Victory Absolu",
+   "Phantom in Red",
+   "Fame in Love"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "paco rabanne parfum femme",
+    "vol": 320,
+    "posMust": 2,
+    "notrePos": 23
+   },
+   {
+    "k": "parfum femme paco rabanne",
+    "vol": 170,
+    "posMust": 1,
+    "notrePos": 21
+   },
+   {
+    "k": "parfum pour femme paco rabanne",
+    "vol": 170,
+    "posMust": 2,
+    "notrePos": 25
+   },
+   {
+    "k": "parfums paco rabanne femme",
+    "vol": 170,
+    "posMust": 2,
+    "notrePos": 24
+   },
+   {
+    "k": "paco rabanne femme",
+    "vol": 110,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "ultraviolet paco rabanne femme",
+    "vol": 50,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "paco rabanne parfum femme prix",
+    "vol": 30,
+    "posMust": 2,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/prada",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Prada",
+  "nbProduits": 3,
+  "nbMarque": 34,
+  "phares": [
+   "Infusion de Cedre",
+   "Mirages Dark Light",
+   "Mirages Miracle of the Rose"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/ralph-lauren",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Ralph Lauren",
+  "nbProduits": 2,
+  "nbMarque": 17,
+  "phares": [
+   "Polo Blue Gold Blend",
+   "Polo Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/rochas",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Rochas",
+  "nbProduits": 2,
+  "nbMarque": 15,
+  "phares": [
+   "Man",
+   "L'Homme Aromatic Touch"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/roja-dove",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Roja Dove",
+  "nbProduits": 21,
+  "nbMarque": 30,
+  "phares": [
+   "United Arab Emirates",
+   "Scandal Pour Homme",
+   "Sultanate of Oman"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/ted-lapidus",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Ted Lapidus",
+  "nbProduits": 3,
+  "nbMarque": 6,
+  "phares": [
+   "Oud Blanc",
+   "Oud Noir",
+   "Pour Homme"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/trussardi",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Trussardi",
+  "nbProduits": 1,
+  "nbMarque": 2,
+  "phares": [
+   "Riflesso pour Homme"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/valentino",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Valentino",
+  "nbProduits": 3,
+  "nbMarque": 31,
+  "phares": [
+   "Rockstud Noir",
+   "Valentina Myrrh Assoluto",
+   "Valentina Oud Assoluto"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [
+   {
+    "k": "valentino parfum homme prix algérie",
+    "vol": 40,
+    "posMust": 5,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/marques/victorias-secret",
+  "type": "marque",
+  "marque": "Victoria's Secret",
+  "nbProduits": 5,
+  "genres": {
+   "homme": 0,
+   "femme": 5,
+   "unisexe": 0
+  },
+  "oriental": 1,
+  "phares": [
+   "Very Sexy Orchid",
+   "Bombshell",
+   "Bombshell Intense",
+   "Bombshell Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/victorias-secret",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Victoria's Secret",
+  "nbProduits": 1,
+  "nbMarque": 5,
+  "phares": [
+   "Bombshell Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/xerjoff",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Xerjoff",
+  "nbProduits": 66,
+  "nbMarque": 70,
+  "phares": [
+   "Naxos",
+   "Erba Pura",
+   "Torino21"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ }
+]

@@ -117,6 +117,16 @@ const nextConfig: NextConfig = {
       { source: "/parfums/narciso-rodriguez-for-her", destination: "/parfums/narciso-rodriguez-for-her-edp-rouge", permanent: true },
       // 21/11/2026 : deux articles « meilleur parfum femme » se partageaient la requête ; fusionnés.
       { source: "/blog/meilleur-parfum-femme-2026", destination: "/blog/meilleur-parfum-femme", permanent: true },
+      // 24/11/2026 : doublons signalés par les relecteurs des textes de marque (scripts/_catalog-audit/fusion-2026-11-24.mjs).
+      // fragrantica.com/perfume/Dior/Dior-Homme-Intense-2011-13016.html : une seule fiche, celle qui avait le trafic.
+      { source: "/parfums/dior-homme-edp", destination: "/parfums/dior-homme-intense", permanent: true },
+      // fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Santal-Royal-28246.html : Santal Royal est ce parfum.
+      { source: "/parfums/guerlain-les-absolus-d-orient-santal-royal", destination: "/parfums/guerlain-santal-royal", permanent: true },
+      // 24/11/2026 : doublons trouvés par leur h1 identique (scripts/_catalog-audit/fusion-2026-11-24b.mjs).
+      // fragrantica.com/perfume/Ralph-Lauren/Romance-825.html : un seul Romance femme.
+      { source: "/parfums/romance-femme-ralph-lauren", destination: "/parfums/ralph-lauren-romance", permanent: true },
+      // fragrantica.com/perfume/Calvin-Klein/Eternity-257.html : un seul Eternity femme.
+      { source: "/parfums/eternity-femme-ck", destination: "/parfums/calvin-klein-eternity-femme", permanent: true },
     ];
   },
 };

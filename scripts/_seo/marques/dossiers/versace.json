@@ -1,0 +1,1308 @@
+{
+ "slug": "versace",
+ "nom": "Versace",
+ "origine": "Italie",
+ "descriptionActuelle": "Maison de luxe italienne fondée en 1978. La sensualité méditerranéenne à l'état pur.",
+ "nbFiches": 30,
+ "pages": [
+  {
+   "chemin": "/marques/versace",
+   "gsc": {
+    "clics": 9,
+    "imp": 380,
+    "pos": 8.9,
+    "ctr": 2.4
+   },
+   "requetes": [
+    {
+     "q": "prix versace eros algerie",
+     "imp": 14,
+     "clics": 0,
+     "pos": 27.1
+    },
+    {
+     "q": "versace perfume",
+     "imp": 3,
+     "clics": 0,
+     "pos": 12
+    },
+    {
+     "q": "parfum versace",
+     "imp": 2,
+     "clics": 0,
+     "pos": 28
+    },
+    {
+     "q": "versace bright crystal prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 14
+    },
+    {
+     "q": "versace parfum",
+     "imp": 2,
+     "clics": 0,
+     "pos": 22
+    },
+    {
+     "q": "versace red jeans prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 6.5
+    },
+    {
+     "q": "سعر عطر versace",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "parfum homme versace prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 44
+    },
+    {
+     "q": "parfum versace femme prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 23
+    },
+    {
+     "q": "parfum versace homme 100ml prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "parfum versace prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 62
+    },
+    {
+     "q": "parfums versace",
+     "imp": 1,
+     "clics": 0,
+     "pos": 52
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "versace crystal noir",
+     "vol": 720,
+     "posMust": 6,
+     "notrePos": 40
+    },
+    {
+     "k": "versace parfum",
+     "vol": 720,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "bright crystal versace",
+     "vol": 590,
+     "posMust": 6,
+     "notrePos": 19
+    },
+    {
+     "k": "parfum femme versace",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": 16
+    },
+    {
+     "k": "versace bright crystal",
+     "vol": 590,
+     "posMust": 6,
+     "notrePos": 24
+    },
+    {
+     "k": "versace parfum femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "versace blue dylan",
+     "vol": 390,
+     "posMust": 10,
+     "notrePos": 26
+    },
+    {
+     "k": "versace dylan blue",
+     "vol": 390,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/versace",
+   "gsc": {
+    "clics": 0,
+    "imp": 22,
+    "pos": 19.5,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "versace pour homme",
+     "imp": 3,
+     "clics": 0,
+     "pos": 44.7
+    },
+    {
+     "q": "prix versace eros algerie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 42.5
+    },
+    {
+     "q": "parfum versace homme 100ml prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "parfum versace pour homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 40
+    },
+    {
+     "q": "versace homme parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 36
+    },
+    {
+     "q": "versace l'homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 41
+    },
+    {
+     "q": "versace parfum homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "versace parfum homme prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 15
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "parfum femme versace",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": 16
+    },
+    {
+     "k": "versace parfum femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "parfum homme versace",
+     "vol": 320,
+     "notrePos": 16
+    },
+    {
+     "k": "parfum pour homme versace",
+     "vol": 320,
+     "notrePos": 26
+    },
+    {
+     "k": "parfum versace homme",
+     "vol": 320,
+     "notrePos": 24
+    },
+    {
+     "k": "parfum versace pour homme",
+     "vol": 320,
+     "notrePos": 37
+    },
+    {
+     "k": "parfums versace homme",
+     "vol": 320,
+     "notrePos": 25
+    },
+    {
+     "k": "versace parfum homme",
+     "vol": 320,
+     "notrePos": 20
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/versace",
+   "gsc": {
+    "clics": 5,
+    "imp": 153,
+    "pos": 9.9,
+    "ctr": 3.3
+   },
+   "requetes": [
+    {
+     "q": "parfum versace femme prix algérie",
+     "imp": 14,
+     "clics": 1,
+     "pos": 5.9
+    },
+    {
+     "q": "parfum femme versace",
+     "imp": 8,
+     "clics": 0,
+     "pos": 11.4
+    },
+    {
+     "q": "versace parfum femme",
+     "imp": 7,
+     "clics": 0,
+     "pos": 12.3
+    },
+    {
+     "q": "parfum versace femme",
+     "imp": 5,
+     "clics": 0,
+     "pos": 17.2
+    },
+    {
+     "q": "parfum versace femme prix",
+     "imp": 4,
+     "clics": 0,
+     "pos": 11
+    },
+    {
+     "q": "parfum versace",
+     "imp": 3,
+     "clics": 0,
+     "pos": 16.7
+    },
+    {
+     "q": "versace for her",
+     "imp": 3,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "parfum pour femme versace",
+     "imp": 2,
+     "clics": 0,
+     "pos": 18
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "versace perfume",
+     "vol": 720,
+     "notrePos": 35
+    },
+    {
+     "k": "parfum femme versace",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": 16
+    },
+    {
+     "k": "versace parfum femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "parfum pour femme versace",
+     "vol": 590,
+     "notrePos": 16
+    },
+    {
+     "k": "parfums versace",
+     "vol": 210,
+     "posMust": 2,
+     "notrePos": 22
+    },
+    {
+     "k": "parfum versace",
+     "vol": 210,
+     "notrePos": 35
+    },
+    {
+     "k": "versace eros femme",
+     "vol": 50,
+     "posMust": 7,
+     "notrePos": null
+    },
+    {
+     "k": "prix parfum versace homme",
+     "vol": 40,
+     "posMust": 3,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/versace",
+   "gsc": {
+    "clics": 0,
+    "imp": 4,
+    "pos": 5.3,
+    "ctr": 0
+   },
+   "requetes": [],
+   "motsCles": [
+    {
+     "k": "parfum femme versace",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": 16
+    },
+    {
+     "k": "versace parfum femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "versace eros femme",
+     "vol": 50,
+     "posMust": 7,
+     "notrePos": null
+    },
+    {
+     "k": "prix parfum versace homme",
+     "vol": 40,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "versace homme",
+     "vol": 40,
+     "posMust": 9,
+     "notrePos": null
+    },
+    {
+     "k": "eros versace homme",
+     "vol": 30,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "versace dylan blue homme",
+     "vol": 30,
+     "posMust": 4,
+     "notrePos": null
+    },
+    {
+     "k": "versace eros pour femme",
+     "vol": 30,
+     "posMust": 6,
+     "notrePos": null
+    }
+   ]
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "versace-eros",
+   "nom": "Eros",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Menthe Fraîche",
+     "Pomme Verte",
+     "Citron de Sicile"
+    ],
+    "heart": [
+     "Fève Tonka",
+     "Géranium",
+     "Ambrette"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Vétiver",
+     "Cèdre",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 231,
+   "clics90j": 14,
+   "volumeRecherche": 1300
+  },
+  {
+   "slug": "crystal-noir-versace",
+   "nom": "Crystal Noir",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Poivre",
+     "Cardamome",
+     "Gingembre"
+    ],
+    "heart": [
+     "Gardénia",
+     "Fleur d'oranger",
+     "Pivoine"
+    ],
+    "base": [
+     "Santal",
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 487,
+   "clics90j": 11,
+   "volumeRecherche": 320
+  },
+  {
+   "slug": "dylan-blue-versace",
+   "nom": "Dylan Blue",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Boisé",
+   "enStock": true,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Pamplemousse",
+     "Note aquatique",
+     "Feuille de figuier"
+    ],
+    "heart": [
+     "Ambroxan",
+     "Poivre noir",
+     "Patchouli",
+     "Feuille de violette",
+     "Papyrus"
+    ],
+    "base": [
+     "Encens",
+     "Musc",
+     "Fève tonka",
+     "Safran"
+    ]
+   },
+   "imp90j": 202,
+   "clics90j": 4,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "versace-pour-homme",
+   "nom": "Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 18000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Néroli",
+     "Rose de mai"
+    ],
+    "heart": [
+     "Jacinthe",
+     "Cèdre",
+     "Sauge sclarée",
+     "Géranium"
+    ],
+    "base": [
+     "Musc",
+     "Fève de tonka",
+     "Ambre"
+    ]
+   },
+   "imp90j": 143,
+   "clics90j": 8,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "bright-crystal-versace",
+   "nom": "Bright Crystal",
+   "conc": "EDT",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Yuzu",
+     "Grenade",
+     "Glace"
+    ],
+    "heart": [
+     "Pivoine",
+     "Lotus",
+     "Magnolia"
+    ],
+    "base": [
+     "Musc",
+     "Ambre",
+     "Acajou"
+    ]
+   },
+   "imp90j": 428,
+   "clics90j": 14,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "versace-bright-crystal-absolu",
+   "nom": "Bright Crystal Absolu",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Yuzu",
+     "Grenade",
+     "Accord glacé"
+    ],
+    "heart": [
+     "Magnolia",
+     "Pivoine",
+     "Lotus"
+    ],
+    "base": [
+     "Bois d'acajou",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 239,
+   "clics90j": 9,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "versace-eros-parfum",
+   "nom": "Eros Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Menthe",
+     "Citron",
+     "Poivre noir",
+     "Elemi",
+     "Litsea Cubeba"
+    ],
+    "heart": [
+     "Pomme verte",
+     "Géranium",
+     "Lavande",
+     "Sauge",
+     "Pomarose"
+    ],
+    "base": [
+     "Fève tonka",
+     "Ambre",
+     "Vanille",
+     "Patchouli",
+     "Benzoin"
+    ]
+   },
+   "imp90j": 101,
+   "clics90j": 1,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "eros-flame-versace",
+   "nom": "Eros Flame",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Floral",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Orange sanguine",
+     "Poivre rosé",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose absolue",
+     "Géranium",
+     "Bois d'ambrette"
+    ],
+    "base": [
+     "Santal blanc",
+     "Vétiver",
+     "Chêne",
+     "Musc"
+    ]
+   },
+   "imp90j": 85,
+   "clics90j": 4,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "eros-pour-femme-versace",
+   "nom": "Eros Pour Femme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Grenade",
+     "Cassis"
+    ],
+    "heart": [
+     "Jasmin",
+     "Pivoine",
+     "Rose"
+    ],
+    "base": [
+     "Musc blanc",
+     "Ambrette",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 260,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-dreamer",
+   "nom": "Dreamer",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Tabac",
+   "enStock": true,
+   "prix": 16000,
+   "notes": {
+    "top": [
+     "Sauge Sclarée",
+     "Bergamote",
+     "Armoise"
+    ],
+    "heart": [
+     "Tabac",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Vanille",
+     "Musc Blanc",
+     "Bois de Cèdre"
+    ]
+   },
+   "imp90j": 144,
+   "clics90j": 5,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "versace-eros-energy",
+   "nom": "Eros Energy",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougere",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Orange sanguine",
+     "Citron vert",
+     "Mandarine",
+     "Pamplemousse",
+     "Citron"
+    ],
+    "heart": [
+     "Ambre blanc",
+     "Cassis",
+     "Poivre rose"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc",
+     "Mousse de chene"
+    ]
+   },
+   "imp90j": 52,
+   "clics90j": 1,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "versace-dylan-blue-femme",
+   "nom": "Dylan Blue Pour Femme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Fruité",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Accord Aquatique",
+     "Yuzu",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Violette",
+     "Pivoine"
+    ],
+    "base": [
+     "Mousse de Bois",
+     "Musc Blanc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 137,
+   "clics90j": 5,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "versace-versense",
+   "nom": "Versense",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Aromatique Floral",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Citron de Sicile",
+     "Thym vert",
+     "Bergamote"
+    ],
+    "heart": [
+     "Gardénia",
+     "Musc blanc",
+     "Jasmin"
+    ],
+    "base": [
+     "Cèdre blanc",
+     "Musc",
+     "Ambre léger"
+    ]
+   },
+   "imp90j": 97,
+   "clics90j": 7,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "versace-red-jeans",
+   "nom": "Red Jeans",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 12000,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Abricot",
+     "Freesia",
+     "Cassis"
+    ],
+    "heart": [
+     "Muguet",
+     "Violette",
+     "Nénuphar",
+     "Rose"
+    ],
+    "base": [
+     "Musc",
+     "Vanille",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 131,
+   "clics90j": 7,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "yellow-diamond-versace",
+   "nom": "Yellow Diamond",
+   "conc": "EDT",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Hespéridé",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Néroli",
+     "Sorbet de poire"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Freesia",
+     "Mimosa",
+     "Nénuphar"
+    ],
+    "base": [
+     "Ambre",
+     "Musc",
+     "Bois de gaïac"
+    ]
+   },
+   "imp90j": 34,
+   "clics90j": 0,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "versace-dylan-turquoise",
+   "nom": "Dylan Turquoise",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Aquatique Floral",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Citron primofiore",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Cassis",
+     "Goyave",
+     "Jasmin",
+     "Freesia"
+    ],
+    "base": [
+     "Bois",
+     "Musc"
+    ]
+   },
+   "imp90j": 89,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "dylan-purple-versace",
+   "nom": "Dylan Purple Pour Femme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Bergamote",
+     "Orange amère"
+    ],
+    "heart": [
+     "Freesia",
+     "Pomarose",
+     "Mahonial"
+    ],
+    "base": [
+     "Ambroxan",
+     "Iso E Super",
+     "Cèdre de Virginie",
+     "Sylkolide",
+     "Belambra"
+    ]
+   },
+   "imp90j": 64,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-man-eau-fraiche",
+   "nom": "Man Eau Fraîche",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Boisé",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Carambole",
+     "Cardamome",
+     "Bois de rose"
+    ],
+    "heart": [
+     "Cèdre",
+     "Estragon",
+     "Sauge",
+     "Poivre"
+    ],
+    "base": [
+     "Musc blanc",
+     "Bois de santal",
+     "Ambre blanc"
+    ]
+   },
+   "imp90j": 58,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-figue-blanche",
+   "nom": "Figue Blanche",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine italienne"
+    ],
+    "heart": [
+     "Jasmin",
+     "Pétales de rose"
+    ],
+    "base": [
+     "Figue"
+    ]
+   },
+   "imp90j": 10,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "versace-santal-boise",
+   "nom": "Santal Boisé",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [],
+    "heart": [
+     "Safran"
+    ],
+    "base": [
+     "Bois de santal du Sri Lanka",
+     "Cypriol"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-man-eau-fraiche-extreme",
+   "nom": "Man Eau Fraîche Extrême",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Fleur d'oranger",
+     "Poivre rose de Madagascar"
+    ],
+    "heart": [
+     "Sauge sclarée",
+     "Lavande",
+     "Géranium"
+    ],
+    "base": [
+     "Cèdre",
+     "Ambroxan",
+     "Musc"
+    ]
+   },
+   "imp90j": 11,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-cedrat-de-diamante",
+   "nom": "Cédrat de Diamante",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [
+     "Pamplemousse rose",
+     "Citron d'Italie"
+    ],
+    "heart": [],
+    "base": [
+     "Cèdre",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 3,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-vanille-rouge",
+   "nom": "Vanille Rouge",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 54500,
+   "notes": {
+    "top": [
+     "Amande"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-encens-supreme",
+   "nom": "Encens Suprême",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [
+     "Coriandre"
+    ],
+    "heart": [
+     "Encens (Oliban)"
+    ],
+    "base": [
+     "Bois de Cachemire",
+     "Ciste"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-iris-d-elite",
+   "nom": "Iris d'Élite",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Poivre Rose",
+     "Graines de Coriandre"
+    ],
+    "heart": [
+     "Iris (Orris)",
+     "Beurre d'Iris",
+     "Bois de Cèdre",
+     "Santal"
+    ],
+    "base": [
+     "Benjoin",
+     "Ambre",
+     "Fève Tonka",
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-safran-royal",
+   "nom": "Safran Royal",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Cuir Épicé",
+   "enStock": true,
+   "prix": 59000,
+   "notes": {
+    "top": [
+     "Safran",
+     "Armoise"
+    ],
+    "heart": [
+     "Ciste (Cistus Incanus)",
+     "Cypriol (Nagarmotha)"
+    ],
+    "base": [
+     "Cuir",
+     "Ambre",
+     "Patchouli d'Indonésie"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "versace-pour-homme-oud-noir",
+   "nom": "Pour Homme Oud Noir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boise",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Poivre noir",
+     "Orange amère",
+     "Néroli"
+    ],
+    "heart": [
+     "Safran",
+     "Cardamome",
+     "Encens"
+    ],
+    "base": [
+     "Oud",
+     "Patchouli",
+     "Bois de cuir"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "versace-tabac-imperial",
+   "nom": "Tabac Impérial",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [
+     "Tabac",
+     "Miel"
+    ],
+    "heart": [
+     "Immortelle"
+    ],
+    "base": [
+     "Patchouli",
+     "Nagarmotha (Cypriol)",
+     "Benjoin",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "versace-fleur-de-mate",
+   "nom": "Fleur de Maté",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 52000,
+   "notes": {
+    "top": [],
+    "heart": [
+     "Absolu de maté",
+     "Cèdre de l'Atlas"
+    ],
+    "base": [
+     "Patchouli",
+     "Cypriol",
+     "Ciste",
+     "Encens"
+    ]
+   },
+   "imp90j": 7,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "versace-pour-femme-oud-oriental",
+   "nom": "Pour Femme Oud Oriental",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Rose",
+     "Safran",
+     "Fresia"
+    ],
+    "heart": [
+     "Violette",
+     "Héliotrope",
+     "Patchouli"
+    ],
+    "base": [
+     "Bois d'Agar (Oud)",
+     "Cuir",
+     "Santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

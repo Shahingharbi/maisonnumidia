@@ -1,0 +1,584 @@
+{
+ "slug": "rasasi",
+ "nom": "Rasasi",
+ "origine": "Émirats Arabes Unis",
+ "descriptionActuelle": "Maison de parfumerie du Golfe fondée à Dubaï en 1979, Rasasi crée des fragrances orientales de haute qualité à des prix accessibles. Hawas est devenu un incontournable pour les amateurs d'oud et d'ambre. Disponible en Algérie.",
+ "nbFiches": 13,
+ "pages": [
+  {
+   "chemin": "/marques/rasasi",
+   "gsc": {
+    "clics": 14,
+    "imp": 154,
+    "pos": 8.2,
+    "ctr": 9.1
+   },
+   "requetes": [
+    {
+     "q": "rasasi",
+     "imp": 7,
+     "clics": 0,
+     "pos": 53.6
+    },
+    {
+     "q": "rasasi parfum",
+     "imp": 3,
+     "clics": 0,
+     "pos": 19.7
+    },
+    {
+     "q": "الرصاصي",
+     "imp": 2,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "ou le trouver a alger",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "prix en algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "rasasi perfume",
+     "imp": 1,
+     "clics": 0,
+     "pos": 46
+    },
+    {
+     "q": "vente en algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "السعر",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "جرائري",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "رصاصي للعطور",
+     "imp": 1,
+     "clics": 0,
+     "pos": 14
+    },
+    {
+     "q": "من أين اشتريه",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "نعم",
+     "imp": 1,
+     "clics": 0,
+     "pos": 15
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-homme/rasasi",
+   "gsc": {
+    "clics": 5,
+    "imp": 35,
+    "pos": 7.1,
+    "ctr": 14.3
+   },
+   "requetes": [
+    {
+     "q": "men",
+     "imp": 1,
+     "clics": 1,
+     "pos": 5
+    },
+    {
+     "q": "prix en algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "vente algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 24
+    },
+    {
+     "q": "أماكن توفره",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "صفحات",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/rasasi",
+   "gsc": {
+    "clics": 0,
+    "imp": 8,
+    "pos": 8.3,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "parfum rasasi pour femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "الجزائر",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-orientaux/rasasi",
+   "gsc": {
+    "clics": 2,
+    "imp": 20,
+    "pos": 13.3,
+    "ctr": 10
+   },
+   "requetes": [
+    {
+     "q": "نعم",
+     "imp": 1,
+     "clics": 1,
+     "pos": 4
+    },
+    {
+     "q": "اعطيني صورة",
+     "imp": 1,
+     "clics": 0,
+     "pos": 14
+    }
+   ],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "rasasi-hawas",
+   "nom": "Hawas",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Aromatique",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Pomme",
+     "Cannelle",
+     "Citron"
+    ],
+    "heart": [
+     "Notes Aquatiques",
+     "Prune",
+     "Fleur d'Oranger",
+     "Cardamome"
+    ],
+    "base": [
+     "Ambre Gris",
+     "Musc",
+     "Bois Flotté",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 3093,
+   "clics90j": 150,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "rasasi-hawas-verde",
+   "nom": "Hawas Verde",
+   "conc": "Cologne",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Citron vert",
+     "Romarin",
+     "Pomme verte"
+    ],
+    "heart": [
+     "Patchouli"
+    ],
+    "base": [
+     "Ambre"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 140
+  },
+  {
+   "slug": "la-yuqawam-rasasi-homme",
+   "nom": "La Yuqawam Pour Homme",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé Épicé",
+   "enStock": true,
+   "prix": 11500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Safran",
+     "Thym"
+    ],
+    "heart": [
+     "Encens (Oliban)",
+     "Jasmin",
+     "Armoise"
+    ],
+    "base": [
+     "Cuir",
+     "Daim",
+     "Notes boisées",
+     "Ambre"
+    ]
+   },
+   "imp90j": 340,
+   "clics90j": 61,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-al-wisam-day",
+   "nom": "Al Wisam Day",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Orientale",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Géranium",
+     "Lavande"
+    ],
+    "heart": [
+     "Rose",
+     "Bois de santal",
+     "Sauge sclarée",
+     "Cèdre"
+    ],
+    "base": [
+     "Musc",
+     "Mousse de chêne",
+     "Oud",
+     "Ambre"
+    ]
+   },
+   "imp90j": 250,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-hawas-atlantis",
+   "nom": "Hawas Atlantis",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Aquatique Fruité",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron",
+     "Pomme",
+     "Cannelle"
+    ],
+    "heart": [
+     "Notes aquatiques",
+     "Prune",
+     "Fleur d'oranger",
+     "Cardamome"
+    ],
+    "base": [
+     "Bois flotté",
+     "Ambre gris",
+     "Patchouli",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "rasasi-fattan-pour-femme",
+   "nom": "Fattan pour Femme",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Patchouli",
+     "Vétiver",
+     "Cèdre",
+     "Muguet"
+    ],
+    "base": [
+     "Ambre",
+     "Benjoin",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 140,
+   "clics90j": 21,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-hawas-pour-elle",
+   "nom": "Hawas Pour Elle",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Grenade",
+     "Pomme",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Iris",
+     "Jasmin Sambac",
+     "Agrumes"
+    ],
+    "base": [
+     "Praline",
+     "Patchouli",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 163,
+   "clics90j": 6,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "la-yuqawam-rasasi-femme",
+   "nom": "La Yuqawam Femme",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Oriental",
+   "enStock": true,
+   "prix": 8800,
+   "notes": {
+    "top": [
+     "Encens",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Cannelle",
+     "Ylang-Ylang",
+     "Poivre rose"
+    ],
+    "base": [
+     "Musc",
+     "Ambre",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 47,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-al-wisam-evening",
+   "nom": "Al Wisam Evening",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Citron"
+    ],
+    "heart": [
+     "Galbanum",
+     "Feuille de Cassis",
+     "Rose"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Musc"
+    ]
+   },
+   "imp90j": 41,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-dhan-al-oudh",
+   "nom": "Dhan Al Oudh Safwa",
+   "conc": "EDP",
+   "volume": "45ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 10000,
+   "notes": {
+    "top": [
+     "Notes boisées",
+     "Agrumes"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Oud",
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 36,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-hawas-exotic",
+   "nom": "Hawas Exotic",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 17000,
+   "notes": {
+    "top": [
+     "Armoise",
+     "Noix de coco",
+     "Lavande",
+     "Cardamome",
+     "Carotte",
+     "Bergamote"
+    ],
+    "heart": [
+     "Racine d'iris",
+     "Jasmin",
+     "Freesia",
+     "Muguet",
+     "Cannelle"
+    ],
+    "base": [
+     "Huile essentielle de cypriol",
+     "Musc",
+     "Patchouli",
+     "Ambre gris",
+     "Benjoin",
+     "Ciste"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "rasasi-instinct",
+   "nom": "Instincts",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 7600,
+   "notes": {
+    "top": [
+     "Coriandre",
+     "Menthe"
+    ],
+    "heart": [
+     "Néroli",
+     "Géranium"
+    ],
+    "base": [
+     "Musc",
+     "Bois de cèdre",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 28,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "rasasi-daris",
+   "nom": "Daarej pour Homme",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 7600,
+   "notes": {
+    "top": [
+     "Cumin",
+     "Cardamome",
+     "Armoise"
+    ],
+    "heart": [
+     "Rose",
+     "Racine d'iris"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka",
+     "Ambre",
+     "Bois de santal",
+     "Musc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 12,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  }
+ ]
+}

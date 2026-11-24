@@ -1,0 +1,1824 @@
+[
+ {
+  "chemin": "/parfums/marc-jacobs-daisy-ever-so-fresh",
+  "type": "produit",
+  "marque": "Marc Jacobs",
+  "nom": "Daisy Ever So Fresh",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Marc Jacobs Daisy Ever So Fresh Parfum Femme Algérie",
+  "notes": [
+   "Mangue",
+   "Ananas",
+   "Fleur d'oranger",
+   "Bois cachemire"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "daisy ever so fresh",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "marc-jacobs-daisy",
+    "nom": "Daisy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh",
+    "nom": "Daisy Eau So Fresh",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-wild",
+    "nom": "Daisy Wild",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-intense",
+    "nom": "Daisy Eau So Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh-glow",
+    "nom": "Daisy Eau So Fresh Glow",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh-pop",
+    "nom": "Daisy Eau So Fresh Pop",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-love-eau-so-sweet",
+    "nom": "Daisy Love Eau So Sweet",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/marc-jacobs-daisy-love-eau-so-sweet",
+  "type": "produit",
+  "marque": "Marc Jacobs",
+  "nom": "Daisy Love Eau So Sweet",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Marc Jacobs Daisy Love Eau So Sweet Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Mûre",
+   "Marguerite",
+   "Sucre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "daisy love eau so sweet",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "marc-jacobs-daisy",
+    "nom": "Daisy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh",
+    "nom": "Daisy Eau So Fresh",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-wild",
+    "nom": "Daisy Wild",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-intense",
+    "nom": "Daisy Eau So Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh-glow",
+    "nom": "Daisy Eau So Fresh Glow",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh-pop",
+    "nom": "Daisy Eau So Fresh Pop",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-ever-so-fresh",
+    "nom": "Daisy Ever So Fresh",
+    "conc": "EDP",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/memo-paris-marfa",
+  "type": "produit",
+  "marque": "Memo Paris",
+  "nom": "Marfa",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Memo Paris Marfa Parfum Mixte Algérie",
+  "notes": [
+   "Pêche",
+   "Mandarine",
+   "Tubéreuse",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "memo paris marfa",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mercedes-benz-land",
+  "type": "produit",
+  "marque": "Mercedes-Benz",
+  "nom": "Land",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mercedes-Benz Land Parfum Homme Algérie",
+  "notes": [
+   "Romarin",
+   "Poivre noir",
+   "Cacao",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mercedes benz land",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mercedes-benz-man-bright",
+  "type": "produit",
+  "marque": "Mercedes-Benz",
+  "nom": "Man Bright",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Mercedes-Benz Man Bright Parfum Homme Algérie",
+  "notes": [
+   "Poivre rose",
+   "Bergamote",
+   "Lavande",
+   "Feve tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "man bright",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mercedes-benz-man-intense",
+    "nom": "Man Intense",
+    "conc": "EDT",
+    "vol": "120ml"
+   },
+   {
+    "slug": "mercedes-benz-man-private",
+    "nom": "Man Private",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mercedes-benz-sea",
+  "type": "produit",
+  "marque": "Mercedes-Benz",
+  "nom": "Sea",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mercedes-Benz Sea Parfum Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Feuille de violette",
+   "Bois"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mercedes benz sea",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mercedes-benz-woman-in-red",
+  "type": "produit",
+  "marque": "Mercedes-Benz",
+  "nom": "Woman In Red",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mercedes-Benz Woman In Red Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Pistache",
+   "Jasmin",
+   "Feve tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "woman in red",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mont-blanc-extreme-leather",
+  "type": "produit",
+  "marque": "Mont Blanc",
+  "nom": "Extreme Leather",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mont Blanc Extreme Leather Parfum Homme Algérie",
+  "notes": [
+   "Cuir",
+   "Iris",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "extreme leather",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mont-blanc-emblem",
+  "type": "produit",
+  "marque": "Mont Blanc",
+  "nom": "Emblem",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mont Blanc Emblem Parfum Homme Algérie",
+  "notes": [
+   "Sauge sclarée",
+   "Cardamome",
+   "Feuille de violette",
+   "Bois"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mont blanc emblem",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mont-blanc-emblem-intense",
+    "nom": "Emblem Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-emblem-absolu",
+    "nom": "Emblem Absolu",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mont-blanc-starwalker-extreme",
+  "type": "produit",
+  "marque": "Mont Blanc",
+  "nom": "Starwalker Extreme",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mont Blanc Starwalker Extreme Parfum Homme Algérie",
+  "notes": [
+   "Pomme",
+   "Ananas",
+   "Lavande",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "starwalker extreme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mont-blanc-starwalker",
+    "nom": "Starwalker",
+    "conc": "EDT",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-a-men-ultimate",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "A*Men Ultimate",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mugler A*Men Ultimate Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Cappuccino",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "a men ultimate",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "thierry-mugler-a-men",
+    "nom": "A*Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-alien-essence-absolue",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Alien Essence Absolue",
+  "conc": "EDP",
+  "volume": "60ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Mugler Alien Essence Absolue Parfum Femme Algérie",
+  "notes": [
+   "Jasmin",
+   "Bois de cachemire",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "alien essence absolue",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "alien-mugler",
+    "nom": "Alien",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "alien-goddess-mugler",
+    "nom": "Alien Goddess",
+    "conc": "EDP",
+    "vol": "60ml"
+   },
+   {
+    "slug": "thierry-mugler-alien-homme",
+    "nom": "Alien Man",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-alien-goddess-intense",
+    "nom": "Alien Goddess Intense",
+    "conc": "EDP Intense",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-hypersense",
+    "nom": "Alien Hypersense",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-pulp",
+    "nom": "Alien Pulp",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-goddess-supra-florale",
+    "nom": "Alien Goddess Supra Florale",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-musc-mysterieux",
+    "nom": "Alien Musc Mysterieux",
+    "conc": "EDP",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-alien-goddess-supra-florale",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Alien Goddess Supra Florale",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Alien Goddess Supra Florale Parfum Femme Algérie",
+  "notes": [
+   "Figue de Barbarie",
+   "Fleur de cactus",
+   "Jasmin Sambac",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "alien goddess supra florale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "alien-mugler",
+    "nom": "Alien",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "alien-goddess-mugler",
+    "nom": "Alien Goddess",
+    "conc": "EDP",
+    "vol": "60ml"
+   },
+   {
+    "slug": "thierry-mugler-alien-homme",
+    "nom": "Alien Man",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-alien-goddess-intense",
+    "nom": "Alien Goddess Intense",
+    "conc": "EDP Intense",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-hypersense",
+    "nom": "Alien Hypersense",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-pulp",
+    "nom": "Alien Pulp",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-essence-absolue",
+    "nom": "Alien Essence Absolue",
+    "conc": "EDP",
+    "vol": "60ml"
+   },
+   {
+    "slug": "mugler-alien-musc-mysterieux",
+    "nom": "Alien Musc Mysterieux",
+    "conc": "EDP",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-alien-musc-mysterieux",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Alien Musc Mysterieux",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Alien Musc Mysterieux Parfum Femme Algérie",
+  "notes": [
+   "Épices",
+   "Safran",
+   "Jasmin Sambac",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "alien musc mysterieux",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "alien-mugler",
+    "nom": "Alien",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "alien-goddess-mugler",
+    "nom": "Alien Goddess",
+    "conc": "EDP",
+    "vol": "60ml"
+   },
+   {
+    "slug": "thierry-mugler-alien-homme",
+    "nom": "Alien Man",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-alien-goddess-intense",
+    "nom": "Alien Goddess Intense",
+    "conc": "EDP Intense",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-hypersense",
+    "nom": "Alien Hypersense",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-pulp",
+    "nom": "Alien Pulp",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "mugler-alien-essence-absolue",
+    "nom": "Alien Essence Absolue",
+    "conc": "EDP",
+    "vol": "60ml"
+   },
+   {
+    "slug": "mugler-alien-goddess-supra-florale",
+    "nom": "Alien Goddess Supra Florale",
+    "conc": "EDP",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-angel-etoile-des-reves",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Angel Étoile des Rêves",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Angel Étoile des Rêves Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Praline",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "angel etoile des reves",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "angel-mugler",
+    "nom": "Angel",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "thierry-mugler-angel-muse",
+    "nom": "Angel Muse",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "mugler-angel-elixir",
+    "nom": "Angel Elixir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-les-parfums-de-cuir",
+    "nom": "Angel Les Parfums de Cuir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-nova",
+    "nom": "Angel Nova",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-stellar-lumineuse",
+    "nom": "Angel Stellar Lumineuse",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-angel-les-parfums-de-cuir",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Angel Les Parfums de Cuir",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Angel Les Parfums de Cuir Parfum Femme Algérie",
+  "notes": [
+   "Cuir",
+   "Barbe à papa",
+   "Cuir",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "angel les parfums de cuir",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "angel-mugler",
+    "nom": "Angel",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "thierry-mugler-angel-muse",
+    "nom": "Angel Muse",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "mugler-angel-elixir",
+    "nom": "Angel Elixir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-etoile-des-reves",
+    "nom": "Angel Étoile des Rêves",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-nova",
+    "nom": "Angel Nova",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-stellar-lumineuse",
+    "nom": "Angel Stellar Lumineuse",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-angel-nova",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Angel Nova",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Angel Nova Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Rose de Damas",
+   "Bois d'Akigalawood"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "angel nova",
+   "vol": 40
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "angel-mugler",
+    "nom": "Angel",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "thierry-mugler-angel-muse",
+    "nom": "Angel Muse",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "mugler-angel-elixir",
+    "nom": "Angel Elixir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-etoile-des-reves",
+    "nom": "Angel Étoile des Rêves",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-les-parfums-de-cuir",
+    "nom": "Angel Les Parfums de Cuir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-stellar-lumineuse",
+    "nom": "Angel Stellar Lumineuse",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-angel-stellar-lumineuse",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Angel Stellar Lumineuse",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Angel Stellar Lumineuse Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Pistache",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "angel stellar lumineuse",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "angel-mugler",
+    "nom": "Angel",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "thierry-mugler-angel-muse",
+    "nom": "Angel Muse",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "mugler-angel-elixir",
+    "nom": "Angel Elixir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-etoile-des-reves",
+    "nom": "Angel Étoile des Rêves",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-les-parfums-de-cuir",
+    "nom": "Angel Les Parfums de Cuir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mugler-angel-nova",
+    "nom": "Angel Nova",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-fantasquatic",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Fantasquatic",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mugler Fantasquatic Parfum Mixte Algérie",
+  "notes": [
+   "Citron",
+   "Pamplemousse",
+   "Notes marines",
+   "Ambre gris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mugler fantasquatic",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-hot-cologne",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Hot Cologne",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mugler Hot Cologne Parfum Mixte Algérie",
+  "notes": [
+   "Café",
+   "Citron",
+   "Fleur d'oranger",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hot cologne",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mugler-wonder-bouquet",
+  "type": "produit",
+  "marque": "Mugler",
+  "nom": "Wonder Bouquet",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mugler Wonder Bouquet Parfum Mixte Algérie",
+  "notes": [
+   "Feuille de shiso",
+   "Fleur d'oranger",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "wonder bouquet",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/narciso-rodriguez-for-him-bleu-noir-extreme",
+  "type": "produit",
+  "marque": "Narciso Rodriguez",
+  "nom": "For Him Bleu Noir Extrême",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Narciso Rodriguez For Him Bleu Noir Extrême Parfum Homme Algérie",
+  "notes": [
+   "Agrumes",
+   "Basilic",
+   "Musc",
+   "Agrumes"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "for him bleu noir extreme",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "narciso-rodriguez-for-him",
+    "nom": "For Him",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-her-fleur-musc",
+    "nom": "For Her Fleur Musc",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-her-edp-rouge",
+    "nom": "For Her Eau de Parfum",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-her-musc-nude",
+    "nom": "For Her Musc Nude",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-him-vetiver-musc",
+    "nom": "For Him Vetiver Musc",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-her-musc-noir-rose",
+    "nom": "For Her Musc Noir Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-her-forever",
+    "nom": "For Her Forever",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "narciso-rodriguez-for-him-musc-santal",
+    "nom": "For Him Musc Santal",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/narciso-rodriguez-patchouli-musc",
+  "type": "produit",
+  "marque": "Narciso Rodriguez",
+  "nom": "Patchouli Musc",
+  "conc": "EDP Intense",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Narciso Rodriguez Patchouli Musc Parfum Femme Algérie",
+  "notes": [
+   "Jasmin",
+   "Musc",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "patchouli musc",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-bella",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Bella",
+  "conc": "EDT",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci Bella Parfum Femme Algérie",
+  "notes": [
+   "Mandarine verte",
+   "Rhubarbe",
+   "Gelée de rose",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "nina ricci bella",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-le-paradis-de-nina",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Le Paradis de Nina",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci Le Paradis de Nina Parfum Femme Algérie",
+  "notes": [
+   "Amande",
+   "Orange",
+   "Pomme Rouge",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "le paradis de nina",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/les-monstres-de-nina-ricci",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Les Monstres de Nina Ricci Nina",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Les Monstres de Nina Ricci Nina Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Feuilles de Cassis",
+   "Barbe a Papa",
+   "Pralin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "les monstres de nina ricci nina",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nina-ricci-les-gourmandises-de-luna",
+    "nom": "Les Gourmandises de Luna",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "nina-ricci-les-sorbets-de-bella",
+    "nom": "Les Sorbets de Bella",
+    "conc": "EDT",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-les-sorbets-de-bella",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Les Sorbets de Bella",
+  "conc": "EDT",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci Les Sorbets de Bella Parfum Femme Algérie",
+  "notes": [
+   "Rhubarbe",
+   "Pamplemousse",
+   "Shiso",
+   "Notes Boisees"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "les sorbets de bella",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nina-ricci-les-gourmandises-de-luna",
+    "nom": "Les Gourmandises de Luna",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "les-monstres-de-nina-ricci",
+    "nom": "Les Monstres de Nina Ricci Nina",
+    "conc": "EDT",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-love-by",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Love by Nina",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci Love by Nina Parfum Femme Algérie",
+  "notes": [
+   "Pomme Verte",
+   "Fleur de Cerisier",
+   "Frangipanier"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "love by nina",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nina-ricci-love-in-paris",
+    "nom": "Love in Paris",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-rouge",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Nina Rouge",
+  "conc": "EDT",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci Nina Rouge Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Citron",
+   "Fleur de Gingembre",
+   "Vanille Bourbon"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "nina rouge",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nina-ricci-nina",
+    "nom": "Nina",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "nina-ricci-rose",
+    "nom": "Nina Rose",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "nina-ricci-extra-rouge",
+    "nom": "Nina Extra Rouge",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nishane-hundred-silent-ways-x",
+  "type": "produit",
+  "marque": "Nishane",
+  "nom": "Hundred Silent Ways X",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nishane Hundred Silent Ways X Parfum Mixte Algérie",
+  "notes": [
+   "Pêche",
+   "Tubéreuse",
+   "Gardénia",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hundred silent ways x",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nishane-hundred-silent-ways",
+    "nom": "Hundred Silent Ways",
+    "conc": "Extrait de Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nishane-kredo",
+  "type": "produit",
+  "marque": "Nishane",
+  "nom": "Kredo",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Nishane Kredo Parfum Mixte Algérie",
+  "notes": [
+   "Cardamome",
+   "Poivre rose",
+   "Osmanthus",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "nishane kredo",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/parfums-de-marly-athalia",
+  "type": "produit",
+  "marque": "Parfums de Marly",
+  "nom": "Athalia",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Parfums de Marly Athalia Parfum Femme Algérie",
+  "notes": [
+   "Orange amère",
+   "Encens",
+   "Iris",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "parfums de marly athalia",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/parfums-de-marly-carios",
+  "type": "produit",
+  "marque": "Parfums de Marly",
+  "nom": "Carios",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Parfums de Marly Carios Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Mandarine",
+   "Poivre noir",
+   "Ambroxan"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "parfums de marly carios",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/parfums-de-marly-cassili",
+  "type": "produit",
+  "marque": "Parfums de Marly",
+  "nom": "Cassili",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Parfums de Marly Cassili Parfum Femme Algérie",
+  "notes": [
+   "Groseille rouge",
+   "Notes florales",
+   "Prune",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "parfums de marly cassili",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/parfums-de-marly-byerley",
+  "type": "produit",
+  "marque": "Parfums de Marly",
+  "nom": "Byerley",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Parfums de Marly Byerley Parfum Homme Algérie",
+  "notes": [
+   "Cardamome",
+   "Bergamote",
+   "Bois de gaïac",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "parfums de marly byerley",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/parfums-de-marly-shagya",
+  "type": "produit",
+  "marque": "Parfums de Marly",
+  "nom": "Shagya",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Parfums de Marly Shagya Parfum Homme Algérie",
+  "notes": [
+   "Citron vert",
+   "Bergamote",
+   "Bois d'agar (oud)",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "parfums de marly shagya",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/penhaligons-a-kiss-of-bliss",
+  "type": "produit",
+  "marque": "Penhaligon's",
+  "nom": "A Kiss Of Bliss",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Penhaligon's A Kiss Of Bliss Parfum Mixte Algérie",
+  "notes": [
+   "Trèfle",
+   "Bergamote",
+   "Thé matcha",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "a kiss of bliss",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/penhaligons-juniper-sling",
+  "type": "produit",
+  "marque": "Penhaligon's",
+  "nom": "Juniper Sling",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Penhaligon's Juniper Sling Parfum Mixte Algérie",
+  "notes": [
+   "Baies de genièvre",
+   "Orange",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "juniper sling",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/penhaligons-legacy-of-petra",
+  "type": "produit",
+  "marque": "Penhaligon's",
+  "nom": "Legacy of Petra",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Penhaligon's Legacy of Petra Parfum Mixte Algérie",
+  "notes": [
+   "Thé vert",
+   "Fenouil",
+   "Réglisse",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "legacy of petra",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/penhaligons-the-ingenue-cousin-flora",
+  "type": "produit",
+  "marque": "Penhaligon's",
+  "nom": "The Ingénue Cousin Flora",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Penhaligon's The Ingénue Cousin Flora Parfum Femme Algérie",
+  "notes": [
+   "Agrumes",
+   "Musc",
+   "Ambroxan"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "the ingenue cousin flora",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "penhaligons-the-world-according-to-arthur",
+    "nom": "The World According to Arthur",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "penhaligons-the-bewitching-yasmine",
+    "nom": "The Bewitching Yasmine",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "penhaligons-the-omniscient-mr-thompson",
+    "nom": "The Omniscient Mr Thompson",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "penhaligons-the-inimitable-william-penhaligon",
+    "nom": "The Inimitable William Penhaligon",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ }
+]

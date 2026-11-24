@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { Home, Store, Truck } from "lucide-react";
 import livraison from "@/data/livraison.json";
@@ -9,7 +10,7 @@ import { tarifWilaya } from "@/lib/livraison";
 // Données : API Yalidine via scripts/yalidine/tarifs.mjs (départ Blida, service express).
 
 export const metadata: Metadata = {
-  title: "Prix Livraison Yalidine par Wilaya, à Domicile ou au Bureau",
+  title: titrePage("/livraison", "Prix Livraison Yalidine par Wilaya, à Domicile ou au Bureau"),
   description:
     "Tarifs de livraison Yalidine pour chaque wilaya, à domicile ou au bureau. Parfums originaux expédiés depuis Blida, paiement à la livraison partout en Algérie.",
   alternates: { canonical: "https://maisonnumidia.store/livraison" },

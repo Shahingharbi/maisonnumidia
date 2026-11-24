@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import { notFound } from "next/navigation";
 import Link from "@/components/Lien";
 import { getBrandBySlug, getProductsByBrand, getBrandsWithProducts } from "@/lib/products";
 import ProductGrid from "@/components/product/ProductGrid";
 import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getBreadcrumbSchema, getItemListSchema } from "@/lib/seo";
+import { renderContent } from "@/components/contenu/Markdown";
+import { resolvePrices } from "@/lib/blog-content";
+import textesMarques from "@/data/marques-textes.json";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -20,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const brand = getBrandBySlug(slug);
   if (!brand) return {};
   return {
-    title: `Parfums ${brand.name} en Algérie — Toute la Collection`,
+    title: titrePage(`/marques/${slug}`, `Parfums ${brand.name} en Algérie — Toute la Collection`),
     description: `Découvrez toute la collection ${brand.name} disponible en Algérie. Prix en dinar algérien. Paiement à la livraison dans toutes les wilayas.`,
     alternates: { canonical: `https://maisonnumidia.store/marques/${slug}` },
   };
@@ -32,6 +36,7 @@ export default async function MarquePage({ params }: Props) {
   if (!brand) notFound();
 
   const products = getProductsByBrand(slug);
+  const texte = (textesMarques as Record<string, string>)[slug];
 
   // Marque creee en avance de phase : pas de page tant qu'elle n'a aucun produit.
 
@@ -97,16 +102,22 @@ export default async function MarquePage({ params }: Props) {
               Parfums {brand.name} originaux en Algérie — Guide complet
             </h2>
             <div className="space-y-10 text-gray-600 leading-relaxed text-sm sm:text-base">
-              <div>
-                <h3 className="text-lg font-bold text-[#111111] mb-4">
-                  La maison {brand.name}
-                </h3>
-                <p className="mb-4">{brand.description}</p>
-                <p>
-                  Chez Maison Numidia, nous proposons {products.length} fragrance{products.length > 1 ? "s" : ""} {brand.name} disponibles immédiatement en Algérie.
-                  Chaque flacon est garanti 100% original, expédié depuis notre entrepôt avec la rigueur que mérite une maison de cette réputation.
-                </p>
-              </div>
+              {texte ? (
+                // Texte propre à la marque (data/marques-textes.json) : histoire sourcée, parfums les plus
+                // cherchés en Algérie, comment choisir. Prix lus en direct par les jetons {{prix:slug}}.
+                <div>{renderContent(resolvePrices(texte))}</div>
+              ) : (
+                <div>
+                  <h3 className="text-lg font-bold text-[#111111] mb-4">
+                    La maison {brand.name}
+                  </h3>
+                  <p className="mb-4">{brand.description}</p>
+                  <p>
+                    Chez Maison Numidia, nous proposons {products.length} fragrance{products.length > 1 ? "s" : ""} {brand.name} disponibles immédiatement en Algérie.
+                    Chaque flacon est garanti 100% original, expédié depuis notre entrepôt avec la rigueur que mérite une maison de cette réputation.
+                  </p>
+                </div>
+              )}
               <div>
                 <h3 className="text-lg font-bold text-[#111111] mb-4">
                   {products.length > 1 ? `Les parfums ${brand.name} disponibles` : `Le parfum ${brand.name} disponible`}
@@ -126,16 +137,11 @@ export default async function MarquePage({ params }: Props) {
                 <h3 className="text-lg font-bold text-[#111111] mb-4">
                   Commander {brand.name} en Algérie — paiement à la livraison
                 </h3>
-                <p className="mb-4">
-                  Maison Numidia est votre référence pour acheter des parfums {brand.name} originaux en Algérie.
-                  Aucune avance, aucun virement. Vous commandez en ligne, vous payez cash à la réception du colis,
-                  entre vos mains. C&apos;est le paiement à la livraison, que nous pratiquons depuis notre ouverture.
-                </p>
+                {/* Une phrase et un lien, pas deux paragraphes recopiés sur 150 pages (règle n°10). */}
                 <p>
-                  La livraison est assurée par <strong className="text-[#111111]">Yalidine Express</strong> dans
-                  les 69 wilayas algériennes. Délai constaté : 24 à 48h pour Alger et les grandes villes,
-                  48 à 72h pour les wilayas plus éloignées. Pour toute question, contactez-nous au{" "}
-                  <strong className="text-[#111111]">07 94 49 60 59</strong>.
+                  Commande en ligne, paiement en espèces à la réception, livraison Yalidine dans les 69 wilayas
+                  (<Link href="/livraison" className="text-[#C9A84C] hover:underline">délais et tarifs par wilaya</Link>).
+                  Une question sur un parfum {brand.name} : <strong className="text-[#111111]">07 94 49 60 59</strong>.
                 </p>
               </div>
             </div>

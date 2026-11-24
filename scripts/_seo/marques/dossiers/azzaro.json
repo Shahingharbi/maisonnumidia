@@ -1,0 +1,1448 @@
+{
+ "slug": "azzaro",
+ "nom": "Azzaro",
+ "origine": "France",
+ "descriptionActuelle": "Maison parisienne fondée par Loris Azzaro en 1967, connue pour ses créations audacieuses. Chrome est devenu un classique masculin aquatique, tandis que Wanted impose une signature épicée contemporaine. Disponibles en Algérie chez Maison Numidia.",
+ "nbFiches": 37,
+ "pages": [
+  {
+   "chemin": "/marques/azzaro",
+   "gsc": {
+    "clics": 8,
+    "imp": 161,
+    "pos": 16,
+    "ctr": 5
+   },
+   "requetes": [
+    {
+     "q": "azzaro",
+     "imp": 3,
+     "clics": 0,
+     "pos": 52.3
+    },
+    {
+     "q": "prix azzaro",
+     "imp": 3,
+     "clics": 0,
+     "pos": 76
+    },
+    {
+     "q": "parfum azzaro",
+     "imp": 2,
+     "clics": 0,
+     "pos": 73
+    },
+    {
+     "q": "parfum azzaro homme prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 28
+    },
+    {
+     "q": "azzar chrome",
+     "imp": 1,
+     "clics": 0,
+     "pos": 51
+    },
+    {
+     "q": "azzaro - chrome",
+     "imp": 1,
+     "clics": 0,
+     "pos": 52
+    },
+    {
+     "q": "azzaro aqua verde",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "azzaro chrome",
+     "imp": 1,
+     "clics": 0,
+     "pos": 52
+    },
+    {
+     "q": "azzaro chrome extreme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 50
+    },
+    {
+     "q": "azzaro chrome parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 57
+    },
+    {
+     "q": "azzaro chrome prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 20
+    },
+    {
+     "q": "azzaro chrome united",
+     "imp": 1,
+     "clics": 0,
+     "pos": 60
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "azzaro wanted",
+     "vol": 1900,
+     "posMust": 2,
+     "notrePos": 14
+    },
+    {
+     "k": "azzaro",
+     "vol": 1600,
+     "posMust": 3,
+     "notrePos": 46
+    },
+    {
+     "k": "azzaro chrome",
+     "vol": 720,
+     "posMust": 4,
+     "notrePos": 22
+    },
+    {
+     "k": "azzaro homme parfum",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 43
+    },
+    {
+     "k": "azzaro parfum homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 29
+    },
+    {
+     "k": "parfum azzaro homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 27
+    },
+    {
+     "k": "parfum homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfums homme azzaro",
+     "vol": 480,
+     "posMust": 3,
+     "notrePos": 39
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/azzaro",
+   "gsc": {
+    "clics": 5,
+    "imp": 82,
+    "pos": 25.8,
+    "ctr": 6.1
+   },
+   "requetes": [
+    {
+     "q": "azzaro pour homme",
+     "imp": 4,
+     "clics": 0,
+     "pos": 34.5
+    },
+    {
+     "q": "prix azzaro",
+     "imp": 4,
+     "clics": 0,
+     "pos": 70.8
+    },
+    {
+     "q": "azzaro pour homme 100ml prix algérie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 19
+    },
+    {
+     "q": "azzaro",
+     "imp": 2,
+     "clics": 0,
+     "pos": 81.5
+    },
+    {
+     "q": "azzaro parfum homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 60.5
+    },
+    {
+     "q": "parfum azzaro",
+     "imp": 2,
+     "clics": 0,
+     "pos": 62
+    },
+    {
+     "q": "parfum azzaro homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 47.5
+    },
+    {
+     "q": "parfum azzaro homme prix",
+     "imp": 2,
+     "clics": 0,
+     "pos": 74
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "azzaro homme parfum",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 43
+    },
+    {
+     "k": "azzaro parfum homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 29
+    },
+    {
+     "k": "azzaro parfum pour homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": null
+    },
+    {
+     "k": "parfum azzaro homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 27
+    },
+    {
+     "k": "parfum azzaro pour homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum pour homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 35
+    },
+    {
+     "k": "parfums homme azzaro",
+     "vol": 480,
+     "posMust": 3,
+     "notrePos": 39
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/azzaro",
+   "gsc": {
+    "clics": 0,
+    "imp": 40,
+    "pos": 6.4,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "azzaro parfum femme prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "azzaro pour elle prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 34
+    },
+    {
+     "q": "prix azzaro",
+     "imp": 1,
+     "clics": 0,
+     "pos": 36
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "azzaro homme parfum",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 43
+    },
+    {
+     "k": "azzaro parfum homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 29
+    },
+    {
+     "k": "azzaro parfum pour homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": null
+    },
+    {
+     "k": "parfum azzaro homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 27
+    },
+    {
+     "k": "parfum azzaro pour homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum pour homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 35
+    },
+    {
+     "k": "parfums homme azzaro",
+     "vol": 480,
+     "posMust": 3,
+     "notrePos": 39
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/azzaro",
+   "gsc": {
+    "clics": 0,
+    "imp": 0,
+    "pos": null,
+    "ctr": null
+   },
+   "requetes": [],
+   "motsCles": [
+    {
+     "k": "azzaro homme parfum",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 43
+    },
+    {
+     "k": "azzaro parfum homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 29
+    },
+    {
+     "k": "azzaro parfum pour homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": null
+    },
+    {
+     "k": "parfum azzaro homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 27
+    },
+    {
+     "k": "parfum azzaro pour homme",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum pour homme azzaro",
+     "vol": 480,
+     "posMust": 1,
+     "notrePos": 35
+    },
+    {
+     "k": "parfums homme azzaro",
+     "vol": 480,
+     "posMust": 3,
+     "notrePos": 39
+    }
+   ]
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "azzaro-wanted",
+   "nom": "Wanted",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Bergamote",
+     "Laurier"
+    ],
+    "heart": [
+     "Géranium",
+     "Vétiver",
+     "Cèdre"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Bois de Santal",
+     "Bois ambré"
+    ]
+   },
+   "imp90j": 873,
+   "clics90j": 23,
+   "volumeRecherche": 1900
+  },
+  {
+   "slug": "azzaro-chrome",
+   "nom": "Chrome",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Aquatique",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Citron",
+     "Bergamote",
+     "Coriandre"
+    ],
+    "heart": [
+     "Cardamome",
+     "Muscade",
+     "Bois de Rose"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Mousse de chêne",
+     "Fève Tonka"
+    ]
+   },
+   "imp90j": 41,
+   "clics90j": 2,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "azzaro-sport",
+   "nom": "Sport",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Aromatique",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Sauge sclarée"
+    ],
+    "base": [
+     "Bois de santal",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 327,
+   "clics90j": 8,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "azzaro-pour-homme",
+   "nom": "Azzaro Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Aromatique Anisée",
+   "enStock": true,
+   "prix": 13000,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Citron",
+     "Carvi",
+     "Basilic",
+     "Bergamote",
+     "Sauge sclarée",
+     "Iris",
+     "Anis étoilé"
+    ],
+    "heart": [
+     "Vétiver",
+     "Patchouli",
+     "Cèdre",
+     "Santal",
+     "Baies de genièvre",
+     "Cardamome"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Cuir",
+     "Ambre",
+     "Musc",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 689,
+   "clics90j": 30,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "azzaro-most-wanted",
+   "nom": "Most Wanted",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Cardamome"
+    ],
+    "heart": [
+     "Caramel"
+    ],
+    "base": [
+     "Bois ambré"
+    ]
+   },
+   "imp90j": 282,
+   "clics90j": 17,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "azzaro-silver-black",
+   "nom": "Silver Black",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 14000,
+   "notes": {
+    "top": [
+     "Pomme",
+     "Citron vert",
+     "Anis",
+     "Bergamote"
+    ],
+    "heart": [
+     "Genièvre",
+     "Coriandre",
+     "Cardamome"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc blanc",
+     "Vétiver",
+     "Santal"
+    ]
+   },
+   "imp90j": 562,
+   "clics90j": 27,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "azzaro-chrome-parfum",
+   "nom": "Chrome Le Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Sauge"
+    ],
+    "base": [
+     "Accord de Résine de Sapin"
+    ]
+   },
+   "imp90j": 473,
+   "clics90j": 31,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-pour-femme",
+   "nom": "Pour Elle",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Rose",
+     "Jasmin",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Œillet",
+     "Violette"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Musc",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 442,
+   "clics90j": 20,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-wanted-girl",
+   "nom": "Wanted Girl",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Fleur de Gingembre",
+     "Fleur d'Oranger",
+     "Poivre Rose",
+     "Grenade"
+    ],
+    "heart": [
+     "Dulce de Leche",
+     "Datura"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Patchouli",
+     "Vétiver d'Haïti"
+    ]
+   },
+   "imp90j": 313,
+   "clics90j": 17,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-wanted-by-night",
+   "nom": "Wanted by Night",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Cannelle",
+     "Mandarine",
+     "Lavande",
+     "Citron"
+    ],
+    "heart": [
+     "Notes fruitées",
+     "Encens",
+     "Cumin",
+     "Cèdre rouge"
+    ],
+    "base": [
+     "Tabac",
+     "Vanille",
+     "Cèdre",
+     "Cuir",
+     "Benjoin",
+     "Iso E Super",
+     "Cyprès",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 175,
+   "clics90j": 5,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "azzaro-chrome-legend",
+   "nom": "Chrome Legend",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Bergamote italienne",
+     "Menthe fraîche",
+     "Notes marines"
+    ],
+    "heart": [
+     "Sauge",
+     "Romarin",
+     "Thé vert"
+    ],
+    "base": [
+     "Musc blanc",
+     "Cèdre pâle",
+     "Ambre léger"
+    ]
+   },
+   "imp90j": 181,
+   "clics90j": 12,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-decibel",
+   "nom": "Decibel",
+   "conc": "EDT",
+   "volume": "50ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 9900,
+   "notes": {
+    "top": [
+     "Réglisse",
+     "Aldéhydes",
+     "Citron d'Amalfi"
+    ],
+    "heart": [
+     "Encens",
+     "Violette"
+    ],
+    "base": [
+     "Fève tonka",
+     "Vanille",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 112,
+   "clics90j": 6,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "azzaro-now-men",
+   "nom": "Now Men",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": false,
+   "prix": 11500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Rose"
+    ],
+    "heart": [
+     "Notes vertes",
+     "Thé"
+    ],
+    "base": [
+     "Ambre"
+    ]
+   },
+   "imp90j": 140,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-forever-wanted-elixir",
+   "nom": "Forever Wanted Elixir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Cuir",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Mandarine Verte",
+     "Bergamote"
+    ],
+    "heart": [
+     "Cardamome",
+     "Lavande",
+     "Sauge Sclarée"
+    ],
+    "base": [
+     "Cuir",
+     "Bois de Loup",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 78,
+   "clics90j": 6,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "azzaro-chrome-sport",
+   "nom": "Chrome Sport",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aquatique",
+   "enStock": true,
+   "prix": 10500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Citron d'Amalfi",
+     "Bergamote",
+     "Orange amère"
+    ],
+    "heart": [
+     "Gingembre",
+     "Notes marines",
+     "Herbe coupée"
+    ],
+    "base": [
+     "Musc",
+     "Cèdre de Virginie",
+     "Ambre"
+    ]
+   },
+   "imp90j": 130,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-visit-for-men",
+   "nom": "Visit for Men",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boise Epice",
+   "enStock": false,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Muscade",
+     "Poivre rose",
+     "Cardamome",
+     "Gingembre",
+     "Bergamote"
+    ],
+    "heart": [
+     "Encens",
+     "Cèdre",
+     "Bois de gaïac",
+     "Labdanum"
+    ],
+    "base": [
+     "Musc",
+     "Ambre gris"
+    ]
+   },
+   "imp90j": 118,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-forever-wanted-absolu",
+   "nom": "Forever Wanted Absolu",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Encens",
+     "Lait"
+    ],
+    "heart": [
+     "Whisky"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Notes boisées",
+     "Ambre",
+     "Cuir"
+    ]
+   },
+   "imp90j": 81,
+   "clics90j": 4,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "azzaro-eau-belle-d-azzaro",
+   "nom": "Eau Belle D'Azzaro",
+   "conc": "EDT",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 37500,
+   "notes": {
+    "top": [
+     "Yuzu",
+     "Bergamote",
+     "Mandarine",
+     "Pêche"
+    ],
+    "heart": [
+     "Freesia",
+     "Cyclamen",
+     "Seringat"
+    ],
+    "base": [
+     "Cyprès",
+     "Cèdre",
+     "Miel",
+     "Ambre"
+    ]
+   },
+   "imp90j": 65,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-mademoiselle",
+   "nom": "Mademoiselle",
+   "conc": "EDT",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 13000,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Fleur de mandarinier"
+    ],
+    "heart": [
+     "Pivoine",
+     "Jasmin",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Iris",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 34,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "azzaro-chrome-united",
+   "nom": "Chrome United",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 12500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Coriandre",
+     "Poivre du Sichuan"
+    ],
+    "heart": [
+     "Feuille de violette",
+     "Thé noir"
+    ],
+    "base": [
+     "Musc blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 58,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-twin-for-women",
+   "nom": "Twin for Women",
+   "conc": "EDT",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 12000,
+   "notes": {
+    "top": [
+     "Rose",
+     "Pêche",
+     "Fleur d'amandier",
+     "Iris",
+     "Musc"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 47,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-chrome-extreme",
+   "nom": "Chrome Extreme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Citron",
+   "enStock": true,
+   "prix": 18000,
+   "notes": {
+    "top": [
+     "Mandarine verte"
+    ],
+    "heart": [
+     "Baies de genievre",
+     "Notes marines"
+    ],
+    "base": [
+     "Ambre",
+     "Cashmeran"
+    ]
+   },
+   "imp90j": 36,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-chrome-cologne",
+   "nom": "Chrome Cologne",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Aromatique",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Citron vert",
+     "Bergamote",
+     "Gingembre"
+    ],
+    "heart": [
+     "Lavande",
+     "Romarin",
+     "Géranium"
+    ],
+    "base": [
+     "Musc blanc",
+     "Bois de cèdre",
+     "Vetiver"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-pour-homme-elixir",
+   "nom": "Pour Homme Elixir",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Citron Amalfi"
+    ],
+    "heart": [
+     "Cassis",
+     "Poire",
+     "Géranium",
+     "Lavande"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka",
+     "Mousse de chêne",
+     "Benjoin",
+     "Coumarine",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-chrome-aqua",
+   "nom": "Chrome Aqua",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Pomme verte",
+     "Feuille de violette"
+    ],
+    "heart": [
+     "Notes marines",
+     "Basilic",
+     "Menthe"
+    ],
+    "base": [
+     "Cyprès",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-chrome-pure",
+   "nom": "Chrome Pure",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Citronné",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Notes aquatiques",
+     "Fleur d'oranger",
+     "Akigalawood"
+    ],
+    "base": [
+     "Fève tonka",
+     "Maté",
+     "Musc blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-shine",
+   "nom": "Shine",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Accord Sable"
+    ],
+    "base": [
+     "Cèdre"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-sea",
+   "nom": "Sea",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 14000,
+   "notes": {
+    "top": [
+     "Mandarine"
+    ],
+    "heart": [
+     "Notes marines"
+    ],
+    "base": [
+     "Patchouli"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-chrome-azure",
+   "nom": "Chrome Azure",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Aquatique",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande"
+    ],
+    "base": [
+     "Notes marines"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-chrome-intense",
+   "nom": "Chrome Intense",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": false,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Hédione",
+     "Bergamote",
+     "Gingembre",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Notes ozoniques",
+     "Lichen",
+     "Jasmin aquatique"
+    ],
+    "base": [
+     "Maté",
+     "Notes boisées",
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 18,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-wanted-tonic",
+   "nom": "Wanted Tonic",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Citron vert"
+    ],
+    "heart": [
+     "Gingembre"
+    ],
+    "base": [
+     "Patchouli"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-pour-homme-night-time",
+   "nom": "Pour Homme Night Time",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Aromatique Boisée",
+   "enStock": true,
+   "prix": 10500,
+   "notes": {
+    "top": [
+     "Rhubarbe",
+     "Orange amère"
+    ],
+    "heart": [
+     "Muscade",
+     "Poivre"
+    ],
+    "base": [
+     "Cèdre de Virginie",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 41,
+   "clics90j": 3,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-fun",
+   "nom": "Fun",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 14000,
+   "notes": {
+    "top": [
+     "Orange sanguine"
+    ],
+    "heart": [
+     "Rhubarbe",
+     "Cassis"
+    ],
+    "base": [
+     "Akigalawood"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "azzaro-pour-homme-edition-noire",
+   "nom": "Pour Homme Édition Noire",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Aromatique",
+   "enStock": true,
+   "prix": 11000,
+   "notes": {
+    "top": [
+     "Orange Amère",
+     "Sauge",
+     "Citron"
+    ],
+    "heart": [
+     "Armoise",
+     "Géranium",
+     "Carvi"
+    ],
+    "base": [
+     "Vétiver",
+     "Iso E Super",
+     "Cumin",
+     "Coumarine"
+    ]
+   },
+   "imp90j": 34,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-wanted-girl-tonic",
+   "nom": "Wanted Girl Tonic",
+   "conc": "EDT",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 16000,
+   "notes": {
+    "top": [
+     "Kiwi",
+     "Gingembre"
+    ],
+    "heart": [
+     "Baie d'açaï",
+     "Datura"
+    ],
+    "base": [
+     "Bambou",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-pour-homme-cologne-intense",
+   "nom": "Pour Homme Cologne Intense",
+   "conc": "Cologne",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Citron vert"
+    ],
+    "heart": [
+     "Lavande"
+    ],
+    "base": [
+     "Lentisque"
+    ]
+   },
+   "imp90j": 18,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "azzaro-mademoiselle-l-intense",
+   "nom": "Mademoiselle L'Intense",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Poire"
+    ],
+    "heart": [
+     "Fleurs blanches"
+    ],
+    "base": [
+     "Calissons d'Aix"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

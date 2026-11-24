@@ -1,0 +1,2037 @@
+{
+ "slug": "paco-rabanne",
+ "nom": "Paco Rabanne",
+ "origine": "France",
+ "descriptionActuelle": "Maison fondée en 1966, Paco Rabanne est connu pour ses créations audacieuses et ses parfums iconiques comme Invictus et 1 Million.",
+ "nbFiches": 55,
+ "pages": [
+  {
+   "chemin": "/marques/paco-rabanne",
+   "gsc": {
+    "clics": 2,
+    "imp": 104,
+    "pos": 10.6,
+    "ctr": 1.9
+   },
+   "requetes": [
+    {
+     "q": "paco rabanne parfum",
+     "imp": 7,
+     "clics": 0,
+     "pos": 7.6
+    },
+    {
+     "q": "paco paco rabanne",
+     "imp": 6,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "paco raban paco",
+     "imp": 4,
+     "clics": 0,
+     "pos": 5
+    },
+    {
+     "q": "parfum paco rabanne",
+     "imp": 4,
+     "clics": 0,
+     "pos": 21.5
+    },
+    {
+     "q": "paco raban",
+     "imp": 3,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "paco rabanne",
+     "imp": 3,
+     "clics": 0,
+     "pos": 38.7
+    },
+    {
+     "q": "paco rabanne paco",
+     "imp": 3,
+     "clics": 0,
+     "pos": 4.3
+    },
+    {
+     "q": "baco raban",
+     "imp": 2,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "paco by paco rabanne",
+     "imp": 2,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "paco de paco rabanne",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "paco gabana",
+     "imp": 2,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "en algerie",
+     "imp": 1,
+     "clics": 1,
+     "pos": 1
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "paco rabanne",
+     "vol": 1600,
+     "notrePos": 46
+    },
+    {
+     "k": "paco rabanne parfum femme",
+     "vol": 320,
+     "posMust": 2,
+     "notrePos": 23
+    },
+    {
+     "k": "paco rabanne invictus",
+     "vol": 260,
+     "posMust": 2,
+     "notrePos": 14
+    },
+    {
+     "k": "invictus paco rabanne",
+     "vol": 210,
+     "posMust": 2,
+     "notrePos": 29
+    },
+    {
+     "k": "paco rabanne fantôme",
+     "vol": 170,
+     "posMust": 1,
+     "notrePos": 35
+    },
+    {
+     "k": "paco rabanne phantom",
+     "vol": 170,
+     "posMust": 1,
+     "notrePos": 41
+    },
+    {
+     "k": "parfum femme paco rabanne",
+     "vol": 170,
+     "posMust": 1,
+     "notrePos": 21
+    },
+    {
+     "k": "parfums paco rabanne femme",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 24
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/paco-rabanne",
+   "gsc": {
+    "clics": 8,
+    "imp": 133,
+    "pos": 9.5,
+    "ctr": 6
+   },
+   "requetes": [
+    {
+     "q": "paco rabanne parfum homme prix algérie",
+     "imp": 6,
+     "clics": 0,
+     "pos": 7.7
+    },
+    {
+     "q": "paco rabanne parfum prix algérie",
+     "imp": 3,
+     "clics": 1,
+     "pos": 1.7
+    },
+    {
+     "q": "paco rabanne parfum homme",
+     "imp": 3,
+     "clics": 0,
+     "pos": 3.3
+    },
+    {
+     "q": "one million elixir prix algérie",
+     "imp": 2,
+     "clics": 1,
+     "pos": 14.5
+    },
+    {
+     "q": "1 million parfum prix algérie",
+     "imp": 1,
+     "clics": 1,
+     "pos": 24
+    },
+    {
+     "q": "سعر عطر باكو رابان رجالي",
+     "imp": 1,
+     "clics": 1,
+     "pos": 1
+    },
+    {
+     "q": "1 million parfum homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 49
+    },
+    {
+     "q": "invictus parfum prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 21
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "paco rabanne parfum femme",
+     "vol": 320,
+     "posMust": 2,
+     "notrePos": 23
+    },
+    {
+     "k": "parfum femme paco rabanne",
+     "vol": 170,
+     "posMust": 1,
+     "notrePos": 21
+    },
+    {
+     "k": "parfum pour femme paco rabanne",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 25
+    },
+    {
+     "k": "parfums paco rabanne femme",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 24
+    },
+    {
+     "k": "paco rabanne femme",
+     "vol": 110,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "ultraviolet paco rabanne femme",
+     "vol": 50,
+     "posMust": 4,
+     "notrePos": null
+    },
+    {
+     "k": "paco rabanne parfum femme prix",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/paco-rabanne",
+   "gsc": {
+    "clics": 4,
+    "imp": 289,
+    "pos": 5.4,
+    "ctr": 1.4
+   },
+   "requetes": [
+    {
+     "q": "paco rabanne parfum",
+     "imp": 42,
+     "clics": 1,
+     "pos": 3.1
+    },
+    {
+     "q": "paco rabanne",
+     "imp": 36,
+     "clics": 0,
+     "pos": 4.7
+    },
+    {
+     "q": "parfum paco rabanne femme prix algérie",
+     "imp": 19,
+     "clics": 0,
+     "pos": 6.1
+    },
+    {
+     "q": "parfum paco rabanne",
+     "imp": 17,
+     "clics": 0,
+     "pos": 3.8
+    },
+    {
+     "q": "paco rabanne parfum femme",
+     "imp": 12,
+     "clics": 1,
+     "pos": 4.8
+    },
+    {
+     "q": "pacoraban femme",
+     "imp": 8,
+     "clics": 0,
+     "pos": 4.8
+    },
+    {
+     "q": "paco rabanne femme",
+     "imp": 5,
+     "clics": 0,
+     "pos": 6.4
+    },
+    {
+     "q": "parfum femme paco rabanne",
+     "imp": 4,
+     "clics": 0,
+     "pos": 2.3
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "paco raban parfum femme",
+     "vol": 320,
+     "posMust": 2,
+     "notrePos": 23
+    },
+    {
+     "k": "paco rabanne parfum femme",
+     "vol": 320,
+     "posMust": 2,
+     "notrePos": 23
+    },
+    {
+     "k": "parfum femme paco rabanne",
+     "vol": 170,
+     "posMust": 1,
+     "notrePos": 21
+    },
+    {
+     "k": "parfum pour femme paco rabanne",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 25
+    },
+    {
+     "k": "parfums paco rabanne femme",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 24
+    },
+    {
+     "k": "parfums femme paco rabanne",
+     "vol": 170,
+     "notrePos": 32
+    },
+    {
+     "k": "paco rabanne femme",
+     "vol": 110,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "ultraviolet paco rabanne femme",
+     "vol": 50,
+     "posMust": 4,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/paco-rabanne",
+   "gsc": {
+    "clics": 0,
+    "imp": 0,
+    "pos": null,
+    "ctr": null
+   },
+   "requetes": [],
+   "motsCles": [
+    {
+     "k": "paco rabanne parfum femme",
+     "vol": 320,
+     "posMust": 2,
+     "notrePos": 23
+    },
+    {
+     "k": "parfum femme paco rabanne",
+     "vol": 170,
+     "posMust": 1,
+     "notrePos": 21
+    },
+    {
+     "k": "parfum pour femme paco rabanne",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 25
+    },
+    {
+     "k": "parfums paco rabanne femme",
+     "vol": 170,
+     "posMust": 2,
+     "notrePos": 24
+    },
+    {
+     "k": "paco rabanne femme",
+     "vol": 110,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "ultraviolet paco rabanne femme",
+     "vol": 50,
+     "posMust": 4,
+     "notrePos": null
+    },
+    {
+     "k": "paco rabanne parfum femme prix",
+     "vol": 30,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "paco-rabanne-invictus-parfum",
+   "nom": "Invictus Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Ambré",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Notes Marines",
+     "Lavande",
+     "Poivre Rose"
+    ],
+    "heart": [
+     "Cèdre",
+     "Vétiver Fumé",
+     "Orris"
+    ],
+    "base": [
+     "Ambre Profond",
+     "Musc",
+     "Bois Précieux"
+    ]
+   },
+   "imp90j": 361,
+   "clics90j": 2,
+   "volumeRecherche": 1000
+  },
+  {
+   "slug": "1-million-paco-rabanne",
+   "nom": "1 Million",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Mandarine Sanguine",
+     "Pamplemousse Rosé",
+     "Menthe"
+    ],
+    "heart": [
+     "Rose",
+     "Cannelle",
+     "Épices"
+    ],
+    "base": [
+     "Cuir",
+     "Ambre",
+     "Patchouli",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 690,
+   "clics90j": 14,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "lady-million-paco-rabanne",
+   "nom": "Lady Million",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Néroli",
+     "Orange Sanguine"
+    ],
+    "heart": [
+     "Gardénia",
+     "Jasmin Blanc"
+    ],
+    "base": [
+     "Patchouli",
+     "Miel",
+     "Ambre"
+    ]
+   },
+   "imp90j": 733,
+   "clics90j": 13,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "pure-xs-paco-rabanne",
+   "nom": "Pure XS",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Notes épicées",
+     "Poivre"
+    ],
+    "heart": [
+     "Cannelle",
+     "Cuir",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 704,
+   "clics90j": 46,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "paco-rabanne-million-gold-for-her",
+   "nom": "Million Gold For Her",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Jasmin",
+     "Rose",
+     "Agrumes",
+     "Citron"
+    ],
+    "heart": [
+     "Ylang-ylang",
+     "Notes solaires",
+     "Lavande"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 288,
+   "clics90j": 9,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "1-million-lucky-paco-rabanne",
+   "nom": "1 Million Lucky",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Gourmand",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Prune",
+     "Pamplemousse",
+     "Bergamote"
+    ],
+    "heart": [
+     "Noisette",
+     "Miel"
+    ],
+    "base": [
+     "Bois de cèdre",
+     "Patchouli",
+     "Bois ambré"
+    ]
+   },
+   "imp90j": 1210,
+   "clics90j": 32,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "paco-rabanne-1-million-elixir",
+   "nom": "1 Million Elixir",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Davana",
+     "Pomme"
+    ],
+    "heart": [
+     "Rose de Damas",
+     "Osmanthe",
+     "Bois de cèdre"
+    ],
+    "base": [
+     "Vanille absolue",
+     "Fève tonka",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 1000,
+   "clics90j": 31,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "paco-rabanne-invictus-victory-elixir",
+   "nom": "Invictus Victory Elixir",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Poivre noir"
+    ],
+    "heart": [
+     "Lavande"
+    ],
+    "base": [
+     "Vanille"
+    ]
+   },
+   "imp90j": 106,
+   "clics90j": 6,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "paco-rabanne-la-nuit",
+   "nom": "La Nuit",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": false,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Aldehydes",
+     "Civette",
+     "Agrumes"
+    ],
+    "heart": [
+     "Mousse de Chene",
+     "Patchouli",
+     "Miel",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Cuir"
+    ]
+   },
+   "imp90j": 76,
+   "clics90j": 0,
+   "volumeRecherche": 320
+  },
+  {
+   "slug": "paco-rabanne-phantom-parfum",
+   "nom": "Phantom Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Bergamote",
+     "Rhubarbe",
+     "Citron"
+    ],
+    "heart": [
+     "Lavande",
+     "Bois de cèdre",
+     "Patchouli",
+     "Géranium"
+    ],
+    "base": [
+     "Vanille",
+     "Baume de Tolu",
+     "Vétiver d'Haïti"
+    ]
+   },
+   "imp90j": 440,
+   "clics90j": 8,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "invictus-paco-rabanne",
+   "nom": "Invictus",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Boisé",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Pamplemousse Rosé",
+     "Mandarine",
+     "Accord Marin"
+    ],
+    "heart": [
+     "Jasmin",
+     "Laurier"
+    ],
+    "base": [
+     "Bois de Gaïac",
+     "Patchouli",
+     "Musc Ambré",
+     "Bois d'Oakmoss"
+    ]
+   },
+   "imp90j": 128,
+   "clics90j": 3,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "invictus-victory-paco-rabanne",
+   "nom": "Invictus Victory",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Mandarine d'or",
+     "Pamplemousse",
+     "Laurier"
+    ],
+    "heart": [
+     "Bois de gaïac",
+     "Poivre noir",
+     "Encens"
+    ],
+    "base": [
+     "Ambre précieux",
+     "Musc blanc",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 111,
+   "clics90j": 2,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "paco-rabanne-black-xs",
+   "nom": "Black XS",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 18000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Sauge"
+    ],
+    "heart": [
+     "Cannelle",
+     "Cardamome noire",
+     "Praline"
+    ],
+    "base": [
+     "Ambre noir",
+     "Patchouli",
+     "Bois de rose brésilien"
+    ]
+   },
+   "imp90j": 117,
+   "clics90j": 2,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "paco-rabanne-pure-xs-femme",
+   "nom": "Pure XS pour Elle",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Popcorn",
+     "Pêche"
+    ],
+    "heart": [
+     "Ylang-ylang",
+     "Noix de coco",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Vanille",
+     "Musc blanc",
+     "Bois de santal",
+     "Bois ambré",
+     "Ambrette"
+    ]
+   },
+   "imp90j": 689,
+   "clics90j": 19,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "invictus-platinum-paco-rabanne",
+   "nom": "Invictus Platinum",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Absinthe",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Menthe",
+     "Lavande"
+    ],
+    "base": [
+     "Cyprès",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 366,
+   "clics90j": 4,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "1-million-parfum-paco-rabanne",
+   "nom": "1 Million Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Cannelle de Ceylan",
+     "Safran rouge",
+     "Pamplemousse rose"
+    ],
+    "heart": [
+     "Rose de Turquie",
+     "Cuir de Russie",
+     "Bois noble"
+    ],
+    "base": [
+     "Myrrhe",
+     "Vétiver fumé",
+     "Musc opulent"
+    ]
+   },
+   "imp90j": 57,
+   "clics90j": 0,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "olympea-paco-rabanne",
+   "nom": "Olympéa",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Ambré",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Jasmin Aquatique",
+     "Mandarine Verte",
+     "Fleur de Gingembre"
+    ],
+    "heart": [
+     "Vanille",
+     "Sel"
+    ],
+    "base": [
+     "Bois de Cachemire",
+     "Ambre Gris",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 496,
+   "clics90j": 4,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "phantom-paco-rabanne",
+   "nom": "Phantom",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Citron jaune",
+     "Bergamote",
+     "Notes aromatiques"
+    ],
+    "heart": [
+     "Lavande",
+     "Réglisse noire",
+     "Poivre"
+    ],
+    "base": [
+     "Bois de vétiver",
+     "Bois ambre",
+     "Guaïac bois"
+    ]
+   },
+   "imp90j": 87,
+   "clics90j": 3,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "invictus-aqua-paco-rabanne",
+   "nom": "Invictus Aqua",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Boisé",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Yuzu",
+     "Pamplemousse",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Eau de mer",
+     "Feuille de violette"
+    ],
+    "base": [
+     "Ambre gris",
+     "Bois ambré",
+     "Résine de gaïac"
+    ]
+   },
+   "imp90j": 233,
+   "clics90j": 2,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "paco-rabanne-rose",
+   "nom": "Paco Rosé",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Cassis",
+     "Agrumes"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Musc"
+    ]
+   },
+   "imp90j": 416,
+   "clics90j": 7,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "fame-paco-rabanne",
+   "nom": "Fame",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Mangue",
+     "Ylang-Ylang",
+     "Mimosa"
+    ],
+    "heart": [
+     "Jasmin",
+     "Fleur de néroli"
+    ],
+    "base": [
+     "Bois de cèdre",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 126,
+   "clics90j": 3,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "paco-rabanne-pour-homme",
+   "nom": "Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 16000,
+   "notes": {
+    "top": [
+     "Romarin",
+     "Sauge sclarée",
+     "Bois de rose brésilien"
+    ],
+    "heart": [
+     "Lavande",
+     "Géranium",
+     "Fève tonka"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Miel",
+     "Musc",
+     "Ambre",
+     "Tabac"
+    ]
+   },
+   "imp90j": 235,
+   "clics90j": 11,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "paco-rabanne-invictus-elixir",
+   "nom": "Invictus Elixir",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Ambré",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Notes minérales",
+     "Sel",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Noix de coco",
+     "Lavande",
+     "Cyprès"
+    ],
+    "base": [
+     "Caviar de vanille",
+     "Benjoin",
+     "Cèdre",
+     "Mousse"
+    ]
+   },
+   "imp90j": 81,
+   "clics90j": 4,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "paco-rabanne-fame-intense",
+   "nom": "Fame Intense",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Fruits",
+     "Néroli"
+    ],
+    "heart": [
+     "Ylang-Ylang",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Musc Blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 340,
+   "clics90j": 9,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-invictus-victory-absolu",
+   "nom": "Invictus Victory Absolu",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Ambré",
+   "enStock": true,
+   "prix": 30500,
+   "notes": {
+    "top": [
+     "Poivre noir"
+    ],
+    "heart": [
+     "Ambre",
+     "Ambre gris",
+     "Notes boisées"
+    ],
+    "base": [
+     "Bois de santal",
+     "Encens",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 30,
+   "clics90j": 2,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "paco-rabanne-invictus-legend",
+   "nom": "Invictus Legend",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Notes marines",
+     "Sel de mer",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Feuille de laurier",
+     "Géranium",
+     "Épices"
+    ],
+    "base": [
+     "Ambre rouge",
+     "Gaïac"
+    ]
+   },
+   "imp90j": 62,
+   "clics90j": 1,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "paco-rabanne",
+   "nom": "Paco",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Agrumee",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Citron d'Amalfi",
+     "Pin",
+     "Mandarine",
+     "Coriandre"
+    ],
+    "heart": [
+     "The",
+     "Lavande",
+     "Jasmin",
+     "Cyclamen"
+    ],
+    "base": [
+     "Musc",
+     "Bois de santal",
+     "Cedre de Virginie",
+     "Feve tonka"
+    ]
+   },
+   "imp90j": 117,
+   "clics90j": 1,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "paco-rabanne-1-million-black",
+   "nom": "1 Million Black",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Ambré Boisé Fruité",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Ananas rôti",
+     "Cardamome",
+     "Orange sanguine"
+    ],
+    "heart": [
+     "Vanille",
+     "Vanille de Madagascar",
+     "Vanille bourbon",
+     "Noix de coco",
+     "Sauge sclarée"
+    ],
+    "base": [
+     "Fève tonka",
+     "Bois d'ébène",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 139,
+   "clics90j": 6,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "paco-rabanne-ultraviolet-man",
+   "nom": "Ultraviolet Man",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Menthe",
+     "Ambre"
+    ],
+    "heart": [
+     "Vétiver",
+     "Poivre",
+     "Notes épicées"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Vanille"
+    ]
+   },
+   "imp90j": 187,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-ultraviolet",
+   "nom": "Ultraviolet",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Abricot",
+     "Coriandre",
+     "Poivre orange",
+     "Poivre rouge",
+     "Amande fraiche",
+     "Bois de rose"
+    ],
+    "heart": [
+     "Violette",
+     "Osmanthus",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Patchouli",
+     "Cedre"
+    ]
+   },
+   "imp90j": 59,
+   "clics90j": 2,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "lady-million-royal-paco-rabanne",
+   "nom": "Lady Million Royal",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Fruité",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Jasmin sambac de Corse",
+     "Rose de Turquie",
+     "Framboise"
+    ],
+    "heart": [
+     "Patchouli de Java",
+     "Myrrhe",
+     "Iris"
+    ],
+    "base": [
+     "Musc précieux",
+     "Ambre blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 47,
+   "clics90j": 2,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "paco-rabanne-million-gold-for-her-parfum",
+   "nom": "Million Gold For Her Parfum",
+   "conc": "Parfum",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Jasmin",
+     "Rose",
+     "Agrumes",
+     "Citron"
+    ],
+    "heart": [
+     "Ylang-Ylang",
+     "Notes solaires",
+     "Lavande"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 11,
+   "clics90j": 0,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "paco-rabanne-1-million-golden-oud",
+   "nom": "1 Million Golden Oud",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Cuir Boisé",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Safran",
+     "Muscade",
+     "Poivre noir",
+     "Bergamote"
+    ],
+    "heart": [
+     "Baume de gurjun",
+     "Patchouli",
+     "Bois de santal"
+    ],
+    "base": [
+     "Oud",
+     "Cuir",
+     "Bois de cèdre",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 114,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-1-million-royal",
+   "nom": "1 Million Royal",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Ambre Fougere Gourmand",
+   "enStock": true,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande",
+     "Feuille de violette",
+     "Sauge"
+    ],
+    "base": [
+     "Benjoin",
+     "Cedre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 41,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "paco-rabanne-oud-montaigne",
+   "nom": "Oud Montaigne",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Cuiré",
+   "enStock": true,
+   "prix": 58000,
+   "notes": {
+    "top": [
+     "Prune",
+     "Liqueur",
+     "Cardamome"
+    ],
+    "heart": [
+     "Cèdre"
+    ],
+    "base": [
+     "Oud",
+     "Cuir"
+    ]
+   },
+   "imp90j": 97,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-phantom-in-red",
+   "nom": "Phantom in Red",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Safran",
+     "Liqueur de prune",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande",
+     "Sauge",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Benjoin fumé",
+     "Tabac ambré",
+     "Oud"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 0,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "paco-rabanne-fame-in-love",
+   "nom": "Fame in Love",
+   "conc": "EDP Intense",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Fraise",
+     "Mandarine verte",
+     "Basilic"
+    ],
+    "heart": [
+     "Jasmin",
+     "Iris",
+     "Encens"
+    ],
+    "base": [
+     "Absolu de vanille",
+     "Notes minérales",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 22,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "olympea-legend-paco-rabanne",
+   "nom": "Olympéa Legend",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Épices dorées",
+     "Safran"
+    ],
+    "heart": [
+     "Iris",
+     "Fleurs blanches",
+     "Orchidée"
+    ],
+    "base": [
+     "Encens",
+     "Ambre",
+     "Vanille"
+    ]
+   },
+   "imp90j": 76,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-black-xs-l-aphrodisiaque-for-men",
+   "nom": "Black XS L'Aphrodisiaque for Men",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Cuiré Gourmand",
+   "enStock": true,
+   "prix": 34000,
+   "notes": {
+    "top": [
+     "Cannelle",
+     "Safran"
+    ],
+    "heart": [
+     "Miel",
+     "Fleur d'oranger",
+     "Cyprès"
+    ],
+    "base": [
+     "Praline",
+     "Cuir",
+     "Amande"
+    ]
+   },
+   "imp90j": 75,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-fame-blooming-pink",
+   "nom": "Fame Blooming Pink",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Mangue",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Oliban"
+    ],
+    "base": [
+     "Vanille",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 73,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-1-million-night-elixir",
+   "nom": "1 Million Night Elixir",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Sirop d'érable",
+     "Cannelle",
+     "Lavande"
+    ],
+    "base": [
+     "Vanille",
+     "Benjoin",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 33,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "paco-rabanne-lady-million-fabulous",
+   "nom": "Lady Million Fabulous",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Notes solaires",
+     "Jasmin",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka",
+     "Mousse"
+    ]
+   },
+   "imp90j": 30,
+   "clics90j": 3,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "paco-rabanne-ultrared",
+   "nom": "Ultrared Man",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Agrumes Gourmand",
+   "enStock": false,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Orange Sanguine"
+    ],
+    "heart": [
+     "Praline",
+     "Fève Tonka"
+    ],
+    "base": [
+     "Vanille",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 54,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-black-xs-for-her",
+   "nom": "Black XS for Her",
+   "conc": "EDT",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Canneberge",
+     "Poivre rose",
+     "Tamarin"
+    ],
+    "heart": [
+     "Cacao",
+     "Rose",
+     "Violette noire"
+    ],
+    "base": [
+     "Vanille",
+     "Patchouli",
+     "Bois de massoia"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-million-gold-for-her-pure-diamonds",
+   "nom": "Million Gold for Her Pure Diamonds",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 36500,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Bergamote"
+    ],
+    "heart": [
+     "Ylang-ylang",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 41,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-olympea-solar",
+   "nom": "Olympéa Solar",
+   "conc": "EDP Intense",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Solaire",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Fleur d'oranger",
+     "Écorce d'orange",
+     "Mandarine"
+    ],
+    "heart": [
+     "Notes solaires",
+     "Fleur de tiaré",
+     "Fleurs blanches",
+     "Mousse de chêne"
+    ],
+    "base": [
+     "Ylang-ylang",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 39,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-invictus-onyx-collector-edition",
+   "nom": "Invictus Onyx Collector Edition",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aquatique",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Notes marines",
+     "Pamplemousse",
+     "Mandarine"
+    ],
+    "heart": [
+     "Laurier",
+     "Jasmin"
+    ],
+    "base": [
+     "Ambre gris",
+     "Patchouli",
+     "Bois de gaïac",
+     "Mousse"
+    ]
+   },
+   "imp90j": 38,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-lady-million-lucky",
+   "nom": "Lady Million Lucky",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Citrus",
+     "Framboise",
+     "Pêche"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Bois blanc",
+     "Patchouli",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 35,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-black-xs-los-angeles-for-him",
+   "nom": "Black XS Los Angeles for Him",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Orange",
+     "Sauge sclarée",
+     "Citron"
+    ],
+    "heart": [
+     "Cannelle",
+     "Ananas",
+     "Pomme",
+     "Muguet"
+    ],
+    "base": [
+     "Notes boisées",
+     "Coumarine",
+     "Vanille",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 33,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-pure-xs-night",
+   "nom": "Pure XS Night",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Ginseng",
+     "Gingembre"
+    ],
+    "heart": [
+     "Cacao",
+     "Vanille",
+     "Cannelle"
+    ],
+    "base": [
+     "Caramel",
+     "Myrrhe"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-olympea-flora",
+   "nom": "Olympéa Flora",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Sorbet",
+     "Poivre rose",
+     "Cassis"
+    ],
+    "heart": [
+     "Pivoine",
+     "Rose"
+    ],
+    "base": [
+     "Bois de cachemire",
+     "Sel",
+     "Vanille",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-phantom-legion",
+   "nom": "Phantom Legion",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Zeste de citron",
+     "Citron"
+    ],
+    "heart": [
+     "Fumée",
+     "Lavande",
+     "Notes terreuses",
+     "Patchouli",
+     "Pomme"
+    ],
+    "base": [
+     "Lavande",
+     "Vanille",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-olympea-aqua",
+   "nom": "Olympéa Aqua",
+   "conc": "EDT",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Aquatique Floral",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Notes aquatiques",
+     "Petitgrain"
+    ],
+    "heart": [
+     "Fleur de gingembre"
+    ],
+    "base": [
+     "Vanille salée",
+     "Ambre gris",
+     "Bois de cachemire"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-olympea-blossom",
+   "nom": "Olympéa Blossom",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Chypré Fruité",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Rose de Damas",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Poire",
+     "Sorbet",
+     "Cassis"
+    ],
+    "base": [
+     "Vanille",
+     "Sel",
+     "Cashmeran",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "paco-rabanne-xs-2018",
+   "nom": "XS (2018)",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron",
+     "Menthe sauvage"
+    ],
+    "heart": [
+     "Baies de genièvre",
+     "Coriandre",
+     "Géranium"
+    ],
+    "base": [
+     "Bois de santal",
+     "Romarin",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  }
+ ]
+}

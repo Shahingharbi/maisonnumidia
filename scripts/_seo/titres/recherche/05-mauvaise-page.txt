@@ -1,0 +1,109 @@
+Base : rp-A, fiches produit, 36283 couples requête × fiche, 157366 imp. Requêtes rattachables sans ambiguïté à une fiche précise de la même marque : 16067 couples (281 cas à égalité écartés).
+Servies par une AUTRE fiche que celle qu'elles nomment : 2517 couples, 10983 imp, 241 clics, CTR 2.2 %, pos 8.1.
+- la déclinaison prend la requête de la base : 1940 couples, 9716 imp, CTR 2.2 %, pos 7.8
+- la base prend la requête de la déclinaison : 170 couples, 421 imp, CTR 3.1 %, pos 9.8
+- parfum voisin (autre déclinaison) : 194 couples, 366 imp, CTR 1.6 %, pos 12.5
+- même nom, autre concentration / genre : 213 couples, 480 imp, CTR 1.3 %, pos 9.1
+Dans 1024 de ces couples, la bonne fiche reçoit aussi des impressions sur la même requête (partage) ; dans 1493, elle n'apparaît pas du tout dans l'échantillon.
+
+### Les plus gros cas (par impressions sur la mauvaise fiche) : 30 « déclinaison prend la base », puis 15 des autres sens
+| requête | servie par | imp | clics | pos | fiche qui correspond | imp / clics / pos de la bonne fiche | cas |
+|---|---|---|---|---|---|---|---|
+| acqua di gio | acqua-di-gio-profumo-armani | 537 | 5 | 3.2 | acqua-di-gio-armani | 8 / 0 / 11.4 | la déclinaison prend la requête de la base |
+| chanel chance eau tendre | chanel-chance-eau-tendre | 304 | 2 | 8.1 | chance-eau-tendre-chanel | absente | la déclinaison prend la requête de la base |
+| gucci flora prix algérie | gucci-flora-gorgeous | 214 | 37 | 1.6 | gucci-flora | 1 / 0 / 1.0 | la déclinaison prend la requête de la base |
+| evidence parfum prix 100ml algérie | evidence-yves-rocher | 210 | 12 | 6.4 | yves-rocher-l-evidence | absente | la déclinaison prend la requête de la base |
+| evidence parfum 50 ml prix | evidence-yves-rocher | 199 | 3 | 4.9 | yves-rocher-l-evidence | absente | la déclinaison prend la requête de la base |
+| chanel chance | chanel-chance-eau-tendre | 165 | 2 | 1.4 | chanel-chance | 224 / 5 / 9.0 | la déclinaison prend la requête de la base |
+| j'adore dior 100ml prix algérie | dior-jadore-infinissime | 160 | 3 | 5.8 | dior-jadore | 3 / 0 / 1.0 | la déclinaison prend la requête de la base |
+| gucci flora prix | gucci-flora-gorgeous | 147 | 2 | 6.6 | gucci-flora | 2 / 0 / 6.5 | la déclinaison prend la requête de la base |
+| miss dior blooming | miss-dior-blooming-bouquet | 141 | 0 | 7.6 | miss-dior | absente | la déclinaison prend la requête de la base |
+| parfum evidence | evidence-yves-rocher | 126 | 1 | 6.7 | yves-rocher-l-evidence | absente | la déclinaison prend la requête de la base |
+| armani stronger with you | stronger-with-you-intensely | 126 | 0 | 9.5 | stronger-with-you-armani | 2 / 0 / 5.5 | la déclinaison prend la requête de la base |
+| stronger with you leather | armani-emporio-stronger-with-you-leather | 114 | 0 | 6.6 | stronger-with-you-armani | absente | la déclinaison prend la requête de la base |
+| miss dior parfum prix algérie | miss-dior-blooming-bouquet | 109 | 2 | 4.6 | miss-dior | 5 / 0 / 5.6 | la déclinaison prend la requête de la base |
+| chanel chance eau tendre prix algérie | chanel-chance-eau-tendre | 98 | 10 | 3.3 | chance-eau-tendre-chanel | absente | la déclinaison prend la requête de la base |
+| chanel chance prix algérie | chanel-chance-eau-tendre | 97 | 6 | 3.1 | chanel-chance | 28 / 0 / 4.3 | la déclinaison prend la requête de la base |
+| parfum evidence prix en algérie | evidence-yves-rocher | 96 | 6 | 2.8 | yves-rocher-l-evidence | absente | la déclinaison prend la requête de la base |
+| prix parfum miss dior en algérie | miss-dior-blooming-bouquet | 92 | 1 | 3.9 | miss-dior | 8 / 0 / 4.8 | la déclinaison prend la requête de la base |
+| jean paul gaultier le male | le-male-le-parfum | 91 | 0 | 2.8 | le-male-jean-paul-gaultier | 2 / 0 / 26.0 | la déclinaison prend la requête de la base |
+| gucci flora | gucci-flora-gorgeous | 90 | 1 | 8.7 | gucci-flora | 1 / 0 / 8.0 | la déclinaison prend la requête de la base |
+| evidence parfum 50 ml prix en algérie | evidence-yves-rocher | 82 | 4 | 1.8 | yves-rocher-l-evidence | absente | la déclinaison prend la requête de la base |
+| amouage guidance | amouage-guidance-46 | 79 | 0 | 8.7 | amouage-guidance | 3 / 0 / 27.0 | la déclinaison prend la requête de la base |
+| parfum fame paco rabanne prix algérie | paco-rabanne-fame-intense | 72 | 2 | 5.6 | fame-paco-rabanne | absente | la déclinaison prend la requête de la base |
+| parfum coco chanel prix | coco-mademoiselle-chanel | 68 | 0 | 8.5 | chanel-coco | 1 / 0 / 9.0 | la déclinaison prend la requête de la base |
+| parfum stronger with you | armani-emporio-stronger-with-you-powerfully | 68 | 0 | 1.4 | stronger-with-you-armani | 1 / 0 / 61.0 | la déclinaison prend la requête de la base |
+| parfum miss dior blooming | miss-dior-blooming-bouquet | 67 | 0 | 7.4 | miss-dior | absente | la déclinaison prend la requête de la base |
+| chance chanel | chanel-chance-eau-tendre | 66 | 1 | 2.6 | chanel-chance | 72 / 0 / 8.9 | la déclinaison prend la requête de la base |
+| evidence | evidence-yves-rocher | 65 | 0 | 10.6 | yves-rocher-l-evidence | absente | la déclinaison prend la requête de la base |
+| insolence guerlain prix algérie | insolence-guerlain | 64 | 8 | 3.0 | guerlain-insolence | 3 / 0 / 1.0 | la déclinaison prend la requête de la base |
+| parfum poison dior prix algérie | hypnotic-poison-dior | 62 | 4 | 2.2 | dior-poison | 3 / 0 / 4.7 | la déclinaison prend la requête de la base |
+| stronger with you sandalwood | armani-emporio-stronger-with-you-sandalwood | 60 | 2 | 6.8 | stronger-with-you-armani | absente | la déclinaison prend la requête de la base |
+| l'impératrice royale | dolce-gabbana-l-imperatrice | 36 | 0 | 8.3 | dolce-gabbana-l-imperatrice-royale | 58 / 0 / 6.6 | la base prend la requête de la déclinaison |
+| good girl blush elixir prix algérie | good-girl-blush-carolina-herrera | 32 | 4 | 4.8 | carolina-herrera-good-girl-blush-elixir | 8 / 1 / 3.4 | la base prend la requête de la déclinaison |
+| delina exclusif prix algérie | delina-parfums-de-marly | 22 | 0 | 6.1 | parfums-de-marly-delina-exclusif | 2 / 0 / 1.0 | la base prend la requête de la déclinaison |
+| khamrah qahwa algerie | lattafa-khamrah | 21 | 1 | 5.5 | lattafa-khamrah-qahwa | absente | la base prend la requête de la déclinaison |
+| khamrah qahwa prix algérie | lattafa-khamrah | 19 | 2 | 2.7 | lattafa-khamrah-qahwa | absente | la base prend la requête de la déclinaison |
+| bleu de chanel eau de parfum | bleu-de-chanel-parfum | 19 | 1 | 8.8 | bleu-de-chanel | absente | même nom, autre concentration / genre |
+| davidoff cool water | cool-water-woman | 19 | 0 | 6.4 | davidoff-cool-water | 3 / 0 / 24.7 | même nom, autre concentration / genre |
+| le beau le parfum | le-beau-jean-paul-gaultier | 19 | 0 | 7.6 | jean-paul-gaultier-le-beau-parfum | 17 / 0 / 7.9 | la base prend la requête de la déclinaison |
+| polo red intense | polo-intense-ralph-lauren | 19 | 0 | 6.7 | ralph-lauren-polo-red | absente | parfum voisin (autre déclinaison) |
+| light blue forever | dolce-gabbana-light-blue-forever-femme | 18 | 0 | 7.1 | dolce-gabbana-light-blue-forever | absente | même nom, autre concentration / genre |
+| allure parfum | allure-femme-chanel | 17 | 0 | 2.9 | chanel-allure-femme | absente | même nom, autre concentration / genre |
+| hugo boss dark blue prix algérie | boss-bottled-night | 17 | 0 | 5.5 | hugo-boss-dark-blue | 27 / 0 / 3.0 | parfum voisin (autre déclinaison) |
+| ultraviolet parfum prix | paco-rabanne-ultraviolet-man | 17 | 0 | 8.2 | paco-rabanne-ultraviolet | 4 / 0 / 8.3 | même nom, autre concentration / genre |
+| elizabeth arden green tea prix algérie | elizabeth-arden-white-tea | 15 | 1 | 7.6 | elizabeth-arden-green-tea | absente | parfum voisin (autre déclinaison) |
+| imperatrice royale | dolce-gabbana-l-imperatrice | 15 | 0 | 7.9 | dolce-gabbana-l-imperatrice-royale | 30 / 0 / 6.3 | la base prend la requête de la déclinaison |
+
+### Par couple (fiche servie → fiche nommée), cumul des requêtes
+| couple | requêtes | imp | clics | pos | exemple |
+|---|---|---|---|---|---|
+| evidence-yves-rocher → yves-rocher-l-evidence | 84 | 1346 | 41 | 6.5 | evidence parfum prix 100ml algérie |
+| gucci-flora-gorgeous → gucci-flora | 53 | 679 | 47 | 6.5 | gucci flora prix algérie |
+| chanel-chance-eau-tendre → chanel-chance | 80 | 653 | 13 | 2.9 | chanel chance |
+| miss-dior-blooming-bouquet → miss-dior | 50 | 651 | 6 | 6.2 | miss dior blooming |
+| acqua-di-gio-profumo-armani → acqua-di-gio-armani | 31 | 608 | 7 | 3.8 | acqua di gio |
+| chanel-chance-eau-tendre → chance-eau-tendre-chanel | 31 | 551 | 14 | 7.2 | chanel chance eau tendre |
+| dior-jadore-infinissime → dior-jadore | 32 | 284 | 6 | 5.8 | j'adore dior 100ml prix algérie |
+| stronger-with-you-intensely → stronger-with-you-armani | 31 | 241 | 3 | 9.7 | armani stronger with you |
+| coco-mademoiselle-chanel → chanel-coco | 29 | 209 | 6 | 7.7 | parfum coco chanel prix |
+| le-male-le-parfum → le-male-jean-paul-gaultier | 48 | 197 | 0 | 5.0 | jean paul gaultier le male |
+| amouage-guidance-46 → amouage-guidance | 14 | 189 | 3 | 6.5 | amouage guidance |
+| bvlgari-omnia-crystalline → bulgari-omnia | 32 | 181 | 3 | 4.3 | bvlgari omnia |
+| hypnotic-poison-dior → dior-poison | 27 | 165 | 5 | 5.6 | parfum poison dior prix algérie |
+| armani-emporio-stronger-with-you-leather → stronger-with-you-armani | 9 | 136 | 1 | 6.5 | stronger with you leather |
+| insolence-guerlain → guerlain-insolence | 26 | 126 | 10 | 7.6 | insolence guerlain prix algérie |
+| paco-rabanne-fame-intense → fame-paco-rabanne | 14 | 123 | 2 | 7.3 | parfum fame paco rabanne prix algérie |
+| armani-emporio-stronger-with-you-powerfully → stronger-with-you-armani | 14 | 113 | 0 | 3.4 | parfum stronger with you |
+| givenchy-gentleman-society → givenchy-gentleman | 25 | 112 | 3 | 8.7 | givenchy gentleman prix algérie |
+| azzaro-chrome-parfum → azzaro-chrome | 17 | 110 | 3 | 5.9 | azzaro chrome prix algérie |
+| al-haramain-amber-oud-tobacco → al-haramain-amber-oud | 20 | 97 | 2 | 5.7 | amber oud |
+| armani-emporio-stronger-with-you-sandalwood → stronger-with-you-armani | 10 | 85 | 4 | 6.4 | stronger with you sandalwood |
+| armani-stronger-with-you-only → stronger-with-you-armani | 29 | 84 | 2 | 7.4 | stronger with you prix algérie |
+| my-burberry-black → my-burberry | 12 | 82 | 1 | 5.7 | my burberry prix algérie |
+| good-girl-blush-carolina-herrera → good-girl-carolina-herrera | 18 | 79 | 0 | 4.0 | parfum good girl prix algérie |
+| issey-miyake-l-eau-d-issey-pure → l-eau-d-issey-femme | 16 | 75 | 0 | 5.2 | eau d'issey |
+
+### Requêtes de marque pure (« kayali », « parfum narciso rodriguez prix algérie ») servies par une fiche : 4575 couples, 15440 imp, 278 clics, CTR 1.8 %, pos 5.8
+| fiche | imp de requêtes de marque | clics | pos | requête n°1 |
+|---|---|---|---|---|
+| kayali-eden | 2147 | 23 | 6.0 | parfum kayali prix algérie (567, pos 7.1) |
+| narciso-rodriguez-for-her-fleur-musc | 1121 | 2 | 1.5 | narciso rodriguez (998, pos 1.1) |
+| guess-seductive-femme | 687 | 15 | 7.3 | guess algerie (309, pos 9.9) |
+| le-beau-jean-paul-gaultier | 355 | 3 | 4.5 | jean paul gaultier parfum (121, pos 2.3) |
+| zara-rose-gold | 353 | 4 | 5.3 | zara parfum (83, pos 4.2) |
+| amouage-lyric-femme | 315 | 10 | 5.0 | amouage parfum prix algérie (86, pos 4.6) |
+| amouage-reflection | 304 | 5 | 5.9 | amouage parfum prix algérie (144, pos 6.3) |
+| mont-blanc-signature | 299 | 6 | 5.3 | montblanc parfum femme prix algérie (107, pos 4.0) |
+| kayali-vanilla-28 | 297 | 2 | 4.5 | parfum kayali prix algérie (63, pos 4.2) |
+| terre-d-hermes | 214 | 1 | 4.2 | parfum hermès homme prix (30, pos 1.3) |
+| zara-rich-warm-addictive | 206 | 19 | 8.8 | parfum zara algérie (45, pos 9.1) |
+| evidence-yves-rocher | 201 | 7 | 7.4 | parfum yves rocher (43, pos 5.1) |
+| mont-blanc-explorer | 200 | 2 | 3.5 | mont blanc parfum (112, pos 1.4) |
+| boss-the-scent-homme | 197 | 3 | 5.6 | parfum hugo boss homme prix (70, pos 2.0) |
+| chanel-chance-eau-tendre | 197 | 1 | 4.9 | chanel parfum femme (73, pos 1.1) |
+| antonio-banderas-the-secret | 182 | 2 | 8.2 | antonio banderas parfum homme (53, pos 9.2) |
+| club-de-nuit-women-armaf | 153 | 3 | 5.4 | parfum armaf femme (35, pos 4.8) |
+| i-want-choo-jimmy-choo | 148 | 6 | 2.9 | jimmy choo parfum prix algérie (78, pos 2.8) |
+| libre-ysl | 133 | 1 | 5.0 | parfum yves saint laurent (18, pos 4.6) |
+| ralph-lauren-polo-green | 123 | 0 | 9.2 | ralph lauren algerie (119, pos 9.2) |

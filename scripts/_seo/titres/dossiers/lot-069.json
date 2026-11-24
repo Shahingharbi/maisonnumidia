@@ -1,0 +1,42 @@
+[
+ {
+  "chemin": "/parfums-homme/yves-rocher",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Yves Rocher",
+  "nbProduits": 1,
+  "nbMarque": 9,
+  "phares": [
+   "Hello Printemps"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/yves-rocher",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Yves Rocher",
+  "nbProduits": 1,
+  "nbMarque": 9,
+  "phares": [
+   "So Elixir Purple"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ }
+]

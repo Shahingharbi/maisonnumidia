@@ -1,0 +1,162 @@
+Base : rp-A, fiches produit au catalogue, requêtes en alphabet latin hors « numidia » : 148865 imp, 3384 clics (111 lignes de fiches disparues ignorées).
+
+| forme de la requête | imp | part imp | clics | part clics | CTR | pos |
+|---|---|---|---|---|---|---|
+| nom sans marque | 53371 | 35.9 % | 963 | 28.5 % | 1.8 % | 8.4 |
+| marque puis nom | 38992 | 26.2 % | 985 | 29.1 % | 2.5 % | 8.7 |
+| nom puis marque | 19983 | 13.4 % | 452 | 13.4 % | 2.3 % | 9.5 |
+| indéterminé (nom contient la marque) | 15898 | 10.7 % | 598 | 17.7 % | 3.8 % | 7.7 |
+| marque sans nom | 12723 | 8.5 % | 177 | 5.2 % | 1.4 % | 6.3 |
+| ni l'un ni l'autre | 7898 | 5.3 % | 209 | 6.2 % | 2.6 % | 6.5 |
+
+Quand la requête contient les deux : marque d'abord 66 %, nom d'abord 34 % des impressions.
+
+### Par marque (≥ 400 imp classées) : part du nom tapé SANS la marque, et ordre quand les deux sont là
+| marque | imp | nom sans marque | marque puis nom | nom puis marque | marque sans nom |
+|---|---|---|---|---|---|
+| Dior | 7296 | 34 % | 38 % | 26 % | 2 % |
+| Yves Saint Laurent | 5354 | 70 % | 5 % | 21 % | 4 % |
+| Lattafa | 4543 | 70 % | 13 % | 14 % | 3 % |
+| Giorgio Armani | 4392 | 97 % | 1 % | 1 % | 1 % |
+| Kayali | 4175 | 3 % | 33 % | 4 % | 60 % |
+| Paco Rabanne | 4095 | 68 % | 8 % | 20 % | 4 % |
+| Chanel | 4066 | 17 % | 50 % | 27 % | 7 % |
+| Amouage | 3489 | 6 % | 65 % | 7 % | 23 % |
+| Gucci | 3421 | 5 % | 76 % | 13 % | 5 % |
+| Evaflor | 3113 | 99 % | 1 % | 1 % | 0 % |
+| Bvlgari | 3103 | 26 % | 48 % | 25 % | 2 % |
+| Armaf | 2917 | 78 % | 12 % | 3 % | 7 % |
+| Givenchy | 2851 | 22 % | 31 % | 44 % | 3 % |
+| Jean Paul Gaultier | 2812 | 52 % | 23 % | 8 % | 18 % |
+| Burberry | 2602 | 9 % | 74 % | 10 % | 8 % |
+| Mugler | 2487 | 56 % | 10 % | 33 % | 1 % |
+| Guerlain | 2435 | 34 % | 23 % | 41 % | 1 % |
+| Louis Vuitton | 2243 | 24 % | 28 % | 44 % | 5 % |
+| Tom Ford | 2226 | 10 % | 76 % | 13 % | 1 % |
+| Carolina Herrera | 1998 | 82 % | 7 % | 10 % | 1 % |
+| Azzaro | 1977 | 8 % | 78 % | 7 % | 8 % |
+| Narciso Rodriguez | 1897 | 13 % | 16 % | 6 % | 65 % |
+| Creed | 1797 | 9 % | 75 % | 11 % | 5 % |
+| Yves Rocher | 1719 | 68 % | 7 % | 14 % | 11 % |
+| Dolce & Gabbana | 1584 | 48 % | 31 % | 10 % | 11 % |
+| Lancôme | 1577 | 61 % | 8 % | 30 % | 0 % |
+| Byredo | 1529 | 64 % | 18 % | 14 % | 4 % |
+| Ralph Lauren | 1505 | 77 % | 4 % | 6 % | 12 % |
+| Guess | 1468 | 5 % | 45 % | 1 % | 49 % |
+| Cacharel | 1456 | 54 % | 6 % | 37 % | 4 % |
+| Xerjoff | 1399 | 15 % | 51 % | 30 % | 4 % |
+| Parfums de Marly | 1347 | 30 % | 33 % | 36 % | 1 % |
+| Nishane | 1240 | 8 % | 71 % | 11 % | 10 % |
+| Mont Blanc | 1203 | 6 % | 34 % | 13 % | 47 % |
+| Rasasi | 1084 | 68 % | 19 % | 9 % | 4 % |
+| Jimmy Choo | 1068 | 14 % | 74 % | 10 % | 2 % |
+| Mancera | 1029 | 22 % | 60 % | 17 % | 1 % |
+| Afnan | 1012 | 35 % | 47 % | 13 % | 6 % |
+| Nina Ricci | 995 | 59 % | 23 % | 15 % | 3 % |
+| Mauboussin | 988 | 11 % | 5 % | 0 % | 84 % |
+| Zara | 953 | 1 % | 31 % | 7 % | 61 % |
+| Versace | 948 | 9 % | 73 % | 12 % | 6 % |
+| By Kilian | 941 | 88 % | 2 % | 9 % | 0 % |
+| Armani | 892 | 54 % | 41 % | 4 % | 0 % |
+| Escada | 834 | 84 % | 12 % | 4 % | 0 % |
+| Michael Kors | 827 | 84 % | 6 % | 2 % | 8 % |
+| Lacoste | 813 | 13 % | 75 % | 5 % | 7 % |
+| Cartier | 800 | 9 % | 61 % | 26 % | 4 % |
+| Montale | 649 | 34 % | 39 % | 12 % | 16 % |
+| Nikos | 629 | 77 % | 9 % | 12 % | 2 % |
+| Van Cleef & Arpels | 624 | 69 % | 6 % | 25 % | 0 % |
+| Ajmal | 621 | 81 % | 11 % | 7 % | 0 % |
+| Al Haramain | 619 | 42 % | 49 % | 7 % | 2 % |
+| Valentino | 609 | 13 % | 56 % | 11 % | 20 % |
+| Viktor & Rolf | 608 | 77 % | 10 % | 7 % | 6 % |
+| Marc Jacobs | 594 | 22 % | 32 % | 39 % | 7 % |
+| Antonio Banderas | 592 | 37 % | 19 % | 11 % | 33 % |
+| Prada | 582 | 20 % | 66 % | 9 % | 5 % |
+| Elizabeth Arden | 566 | 54 % | 33 % | 5 % | 7 % |
+| Victoria's Secret | 540 | 94 % | 5 % | 0 % | 1 % |
+| Maison Crivelli | 481 | 97 % | 1 % | 2 % | 0 % |
+| Lanvin | 456 | 15 % | 17 % | 45 % | 23 % |
+| Arabian Oud | 454 | 38 % | 7 % | 52 % | 3 % |
+| Chloé | 450 | 7 % | 75 % | 15 % | 3 % |
+| YSL | 428 | 93 % | 5 % | 1 % | 0 % |
+| Nautica | 408 | 5 % | 91 % | 1 % | 3 % |
+| Guy Laroche | 406 | 97 % | 1 % | 1 % | 1 % |
+
+### Fiches où le nom seul domine (nom sans marque ≥ 60 % des imp classées, ≥ 150 imp)
+| fiche | marque / nom | imp classées | nom sans marque | requête n°1 |
+|---|---|---|---|---|
+| whisky-silver-evaflor | Evaflor / Whisky Silver | 3113 | 99 % | whisky silver (671) |
+| lattafa-yara | Lattafa / Yara | 1795 | 92 % | yara parfum (538) |
+| club-de-nuit-women-armaf | Armaf / Club de Nuit Women | 1780 | 78 % | club de nuit parfum (142) |
+| lattafa-khamrah | Lattafa / Khamrah | 1579 | 64 % | khamrah (275) |
+| evidence-yves-rocher | Yves Rocher / Comme une Évidence | 1543 | 72 % | evidence parfum prix 100ml algérie (210) |
+| byredo-bal-d-afrique | Byredo / Bal d'Afrique | 1486 | 64 % | bal d'afrique (675) |
+| alien-mugler | Mugler / Alien | 1299 | 74 % | alien parfum prix algérie (218) |
+| acqua-di-gio-profumo-armani | Giorgio Armani / Acqua di Gio Profumo | 1201 | 99 % | acqua di gio (537) |
+| libre-ysl | Yves Saint Laurent / Libre | 1150 | 75 % | parfum libre prix algerie (213) |
+| la-nuit-de-l-homme-bleu-electrique-ysl | Yves Saint Laurent / La Nuit de l'Homme Bleu Électrique | 893 | 84 % | la nuit de l'homme bleu electrique (204) |
+| stronger-with-you-intensely | Giorgio Armani / Stronger With You Intensely | 882 | 100 % | stronger with you intensely (254) |
+| dior-fahrenheit-32 | Dior / Fahrenheit 32 | 849 | 75 % | fahrenheit 32 (354) |
+| club-de-nuit-intense-armaf | Armaf / Club de Nuit Intense Man | 788 | 82 % | club de nuit intense (195) |
+| escada-candy-love | Escada / Candy Love | 747 | 91 % | candy love (455) |
+| polo-sport-ralph-lauren | Ralph Lauren / Polo Sport | 745 | 94 % | polo sport (306) |
+| kilian-angels-share | By Kilian / Angels' Share | 697 | 92 % | angel share (104) |
+| rasasi-hawas | Rasasi / Hawas | 679 | 87 % | hawas parfum prix algerie (80) |
+| michael-kors-gorgeous | Michael Kors / Gorgeous! | 651 | 86 % | gorgeous (528) |
+| idole-lancome | Lancôme / Idôle | 568 | 61 % | idôle parfum prix algérie (203) |
+| bombshell-victoria-secret | Victoria's Secret / Bombshell | 530 | 94 % | victoria secret bombshell (144) |
+| nikos-sculpture-homme | Nikos / Sculpture pour Homme | 468 | 79 % | sculpture parfum (129) |
+| jean-paul-gaultier-kokorico | Jean Paul Gaultier / Kokorico | 462 | 63 % | kokorico (133) |
+| ajmal-wisal | Ajmal / Wisal | 437 | 97 % | wisal (397) |
+| carolina-herrera-212-men | Carolina Herrera / 212 Men | 418 | 94 % | +212 (176) |
+| lady-million-paco-rabanne | Paco Rabanne / Lady Million | 403 | 89 % | lady million (127) |
+| drakkar-noir-guy-laroche | Guy Laroche / Drakkar Noir | 397 | 98 % | drakkar noir (119) |
+| black-opium-ysl | Yves Saint Laurent / Black Opium | 378 | 98 % | black opiume femme (170) |
+| nina-ricci-ricci-ricci | Nina Ricci / Ricci Ricci | 365 | 83 % | ricci ricci parfum prix (109) |
+| good-girl-blush-carolina-herrera | Carolina Herrera / Good Girl Blush | 346 | 94 % | good girl blush prix algérie (132) |
+| dolce-gabbana-l-imperatrice | Dolce & Gabbana / L'Impératrice | 345 | 89 % | l'impératrice parfum prix algérie (97) |
+| paco-rabanne-1-million-elixir | Paco Rabanne / 1 Million Elixir | 330 | 85 % | 1 million parfum prix algérie (104) |
+| maison-crivelli-hibiscus-mahajad | Maison Crivelli / Hibiscus Mahajád | 317 | 98 % | hibiscus mahajad prix algérie (67) |
+| delina-parfums-de-marly | Parfums de Marly / Delina | 313 | 82 % | delina parfum prix algérie (111) |
+| jean-paul-gaultier-ultra-male | Jean Paul Gaultier / Ultra Male | 306 | 83 % | ultra male (89) |
+| sospiro-perfumes-vibrato | Sospiro Perfumes / Vibrato | 296 | 100 % | sospiro vibrato (126) |
+| scandal-jean-paul-gaultier | Jean Paul Gaultier / Scandal | 295 | 94 % | parfum scandal femme prix algérie (87) |
+| spicebomb-extreme-viktor-rolf | Viktor & Rolf / Spicebomb Extreme | 288 | 94 % | spicebomb extreme (222) |
+| paco-rabanne-pure-xs-femme | Paco Rabanne / Pure XS pour Elle | 286 | 69 % | pure xs femme prix algérie (103) |
+| ibraheem-alqurashi-french-tobacco | Ibraheem AlQurashi / French Tobacco | 280 | 99 % | french tobacco (79) |
+| 5th-avenue-elizabeth-arden | Elizabeth Arden / 5th Avenue | 271 | 70 % | 5th avenue parfum prix algérie (154) |
+
+Sur 188 fiches à ≥ 150 imp classées, 72 (38 %) sont dominées par le nom seul ; elles portent 41 % de ces impressions.
+
+### Fiches où le nom vient AVANT la marque dans la majorité des requêtes à deux termes (≥ 150 imp classées, nom puis marque > marque puis nom)
+| fiche | imp classées | marque puis nom | nom puis marque | nom sans marque |
+|---|---|---|---|---|
+| lattafa-khamrah | 1579 | 12 % | 20 % | 64 % |
+| alien-mugler | 1299 | 2 % | 24 % | 74 % |
+| 1-million-lucky-paco-rabanne | 844 | 2 % | 50 % | 47 % |
+| coco-mademoiselle-chanel | 833 | 8 % | 59 % | 33 % |
+| cacharel-noa | 717 | 3 % | 45 % | 52 % |
+| ysl-atlas-garden | 672 | 3 % | 53 % | 44 % |
+| bvlgari-aqva-amara | 651 | 34 % | 45 % | 20 % |
+| hypnotic-poison-dior | 591 | 7 % | 55 % | 37 % |
+| idole-lancome | 568 | 3 % | 36 % | 61 % |
+| jean-paul-gaultier-kokorico | 462 | 10 % | 22 % | 63 % |
+| ysl-supreme-bouquet | 444 | 4 % | 54 % | 42 % |
+| givenchy-dahlia-noir | 431 | 15 % | 54 % | 31 % |
+| dior-jadore-infinissime | 418 | 13 % | 57 % | 25 % |
+| givenchy-irresistible | 396 | 19 % | 71 % | 6 % |
+| van-cleef-feerie | 395 | 9 % | 33 % | 58 % |
+| dior-sauvage | 389 | 36 % | 54 % | 9 % |
+| thierry-mugler-innocent | 386 | 19 % | 60 % | 21 % |
+| l-homme-ideal-guerlain | 378 | 33 % | 38 % | 28 % |
+| amor-amor-cacharel | 344 | 8 % | 35 % | 56 % |
+| mugler-aura | 312 | 22 % | 50 % | 28 % |
+| louis-vuitton-ombre-nomade | 285 | 10 % | 34 % | 54 % |
+| layton-parfums-de-marly | 281 | 44 % | 46 % | 9 % |
+| louis-vuitton-spell-on-you | 263 | 3 % | 60 % | 35 % |
+| louis-vuitton-afternoon-swim | 240 | 31 % | 42 % | 28 % |
+| kilian-love-dont-be-shy | 236 | 0 % | 21 % | 78 % |
+
+### Rayon oriental contre le reste
+- orientaux (category parfums-orientaux) : 16460 imp classées ; nom sans marque 48 %, marque puis nom 30 %, nom puis marque 16 %, marque sans nom 6 %
+- homme/femme : 108609 imp classées ; nom sans marque 42 %, marque puis nom 31 %, nom puis marque 16 %, marque sans nom 11 %

@@ -1,0 +1,827 @@
+{
+ "slug": "jimmy-choo",
+ "nom": "Jimmy Choo",
+ "origine": "Royaume-Uni",
+ "descriptionActuelle": "Maison britannique fondée en 1996, Jimmy Choo transpose son élégance glamour dans la parfumerie. Jimmy Choo Femme EDP séduit par sa facette florale et cuirée, reflet d'une féminité assumée. Disponible en Algérie avec paiement à la livraison.",
+ "nbFiches": 21,
+ "pages": [
+  {
+   "chemin": "/marques/jimmy-choo",
+   "gsc": {
+    "clics": 0,
+    "imp": 48,
+    "pos": 14.3,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "jimmy choo",
+     "imp": 12,
+     "clics": 0,
+     "pos": 11.4
+    },
+    {
+     "q": "jimmy choo floral prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 20.5
+    },
+    {
+     "q": "jimmy choo parfum prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 26.5
+    },
+    {
+     "q": "jimmy choo perfume",
+     "imp": 2,
+     "clics": 0,
+     "pos": 19
+    },
+    {
+     "q": "parfum jimmy choo",
+     "imp": 2,
+     "clics": 0,
+     "pos": 34
+    },
+    {
+     "q": "i want to buy it",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "jemmy choo",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "jimmy choco",
+     "imp": 1,
+     "clics": 0,
+     "pos": 5
+    },
+    {
+     "q": "jimmy choo eau de parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 5
+    },
+    {
+     "q": "jimmy choo parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "jimmy choo parfum femme prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 22
+    },
+    {
+     "q": "jimmy choo parfum homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 8
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "jimmy choo",
+     "vol": 2900,
+     "notrePos": 22
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/jimmy-choo",
+   "gsc": {
+    "clics": 0,
+    "imp": 2,
+    "pos": 15,
+    "ctr": 0
+   },
+   "requetes": [],
+   "motsCles": [
+    {
+     "k": "jimmy choo parfum femme prix algérie",
+     "vol": 30,
+     "posMust": 8,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/jimmy-choo",
+   "gsc": {
+    "clics": 100,
+    "imp": 2064,
+    "pos": 5.7,
+    "ctr": 4.8
+   },
+   "requetes": [
+    {
+     "q": "jimmy choo parfum prix algérie",
+     "imp": 328,
+     "clics": 29,
+     "pos": 2.1
+    },
+    {
+     "q": "jimmy choo parfum",
+     "imp": 220,
+     "clics": 4,
+     "pos": 8.8
+    },
+    {
+     "q": "parfum jimmy choo prix algérie",
+     "imp": 121,
+     "clics": 6,
+     "pos": 2.8
+    },
+    {
+     "q": "parfum jimmy choo prix",
+     "imp": 113,
+     "clics": 1,
+     "pos": 7.1
+    },
+    {
+     "q": "jimmy choo parfum femme prix algérie",
+     "imp": 76,
+     "clics": 7,
+     "pos": 2
+    },
+    {
+     "q": "jimmy choo prix algerie",
+     "imp": 68,
+     "clics": 7,
+     "pos": 2.9
+    },
+    {
+     "q": "jimmy choo parfum prix",
+     "imp": 63,
+     "clics": 2,
+     "pos": 7.8
+    },
+    {
+     "q": "jimmy choo parfum femme prix",
+     "imp": 50,
+     "clics": 0,
+     "pos": 6.7
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "jimmy choo parfum",
+     "vol": 1000,
+     "notrePos": 26
+    },
+    {
+     "k": "parfum jimmy choo",
+     "vol": 720,
+     "notrePos": 27
+    },
+    {
+     "k": "parfums jimmy choo",
+     "vol": 720,
+     "notrePos": 20
+    },
+    {
+     "k": "jimmy choo parfum femme prix algérie",
+     "vol": 30,
+     "posMust": 8,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/jimmy-choo",
+   "gsc": {
+    "clics": 0,
+    "imp": 0,
+    "pos": null,
+    "ctr": null
+   },
+   "requetes": [],
+   "motsCles": [
+    {
+     "k": "jimmy choo parfum femme prix algérie",
+     "vol": 30,
+     "posMust": 8,
+     "notrePos": null
+    }
+   ]
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "jimmy-choo-femme",
+   "nom": "Jimmy Choo",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Chypré Fruité",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Freesia",
+     "Pêche"
+    ],
+    "heart": [
+     "Gardénia",
+     "Osmanthus",
+     "Orchidée"
+    ],
+    "base": [
+     "Toffee Caramel",
+     "Bois de Santal",
+     "Ambre"
+    ]
+   },
+   "imp90j": 128,
+   "clics90j": 3,
+   "volumeRecherche": 2900
+  },
+  {
+   "slug": "i-want-choo-jimmy-choo",
+   "nom": "I Want Choo",
+   "conc": "EDP",
+   "volume": "60ml",
+   "genre": "femme",
+   "famille": "Floral Gourmand",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Jus de mandarine",
+     "Pêche veloutée"
+    ],
+    "heart": [
+     "Lys araignée rouge",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille"
+    ]
+   },
+   "imp90j": 760,
+   "clics90j": 43,
+   "volumeRecherche": 320
+  },
+  {
+   "slug": "jimmy-choo-floral",
+   "nom": "Floral",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Nectarine",
+     "Mandarine"
+    ],
+    "heart": [
+     "Magnolia",
+     "Fleur d'abricotier",
+     "Pois de senteur"
+    ],
+    "base": [
+     "Ambroxan",
+     "Notes boisées",
+     "Musc"
+    ]
+   },
+   "imp90j": 528,
+   "clics90j": 38,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "jimmy-choo-blossom",
+   "nom": "Blossom",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Fruits rouges (framboise)",
+     "Agrumes"
+    ],
+    "heart": [
+     "Pois de senteur",
+     "Rose"
+    ],
+    "base": [
+     "Bois de santal",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 268,
+   "clics90j": 13,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "jimmy-choo-i-want-forever",
+   "nom": "I Want Choo Forever",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Fruite Gourmand",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Fraise sauvage",
+     "Baies roses",
+     "Rose juteuse"
+    ],
+    "heart": [
+     "Liqueur de cerise noire",
+     "Huile d'amande amère",
+     "Jasmin sambac"
+    ],
+    "base": [
+     "Accord mousse",
+     "Vanille",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 53,
+   "clics90j": 2,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "jimmy-choo-i-want-with-love",
+   "nom": "I Want Choo With Love",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Fleur d'oranger",
+     "Mandarine"
+    ],
+    "heart": [
+     "Rose",
+     "Hibiscus",
+     "Freesia"
+    ],
+    "base": [
+     "Vanille",
+     "Musc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 1,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "jimmy-choo-man",
+   "nom": "Jimmy Choo Man",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Mandarine",
+     "Melon"
+    ],
+    "heart": [
+     "Poivre Rose",
+     "Géranium"
+    ],
+    "base": [
+     "Patchouli",
+     "Daim",
+     "Bois"
+    ]
+   },
+   "imp90j": 81,
+   "clics90j": 9,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "jimmy-choo-man-blue",
+   "nom": "Man Blue",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique Cuir",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Poivre noir",
+     "Sauge sclarée",
+     "Bergamote"
+    ],
+    "heart": [
+     "Ambre gris",
+     "Cuir",
+     "Cyprès",
+     "Pomme",
+     "Ananas"
+    ],
+    "base": [
+     "Vanille",
+     "Bois de santal",
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 113,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-illicit",
+   "nom": "Illicit",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Bigarade"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Fleur d'Oranger",
+     "Rose"
+    ],
+    "base": [
+     "Miel",
+     "Ambre",
+     "Caramel",
+     "Vanille",
+     "Bois de Santal",
+     "Bois de Cachemire"
+    ]
+   },
+   "imp90j": 50,
+   "clics90j": 3,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "jimmy-choo-fever",
+   "nom": "Fever",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 17000,
+   "notes": {
+    "top": [
+     "Prune noire",
+     "Litchi",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Héliotrope"
+    ],
+    "base": [
+     "Benjoin",
+     "Bois de santal",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 43,
+   "clics90j": 3,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "jimmy-choo-urban-hero",
+   "nom": "Urban Hero",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boise Aromatique",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Citron caviar (finger lime)",
+     "Poivre noir"
+    ],
+    "heart": [
+     "Bois de rose",
+     "Vetiver"
+    ],
+    "base": [
+     "Cuir",
+     "Ambre gris"
+    ]
+   },
+   "imp90j": 97,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-illicit-flower",
+   "nom": "Illicit Flower",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Abricot"
+    ],
+    "heart": [
+     "Fleur de pamplemousse",
+     "Rose",
+     "Freesia",
+     "Poire",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc",
+     "Bois de cachemire",
+     "Bois de santal",
+     "Vanille",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-rose-passion",
+   "nom": "Rose Passion",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Eau de coco",
+     "Frangipanier"
+    ],
+    "heart": [
+     "Orchidee",
+     "Jasmin"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 27,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-urban-hero-gold-edition",
+   "nom": "Urban Hero Gold Edition",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boise",
+   "enStock": true,
+   "prix": 17000,
+   "notes": {
+    "top": [
+     "Ananas",
+     "Orange sanguine"
+    ],
+    "heart": [
+     "Feve tonka",
+     "Lavande"
+    ],
+    "base": [
+     "Bois de santal",
+     "Mousse de chene"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-i-want-oud",
+   "nom": "I Want Oud",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Boise Oriental",
+   "enStock": true,
+   "prix": 29000,
+   "notes": {
+    "top": [],
+    "heart": [
+     "Rose",
+     "Safran"
+    ],
+    "base": [
+     "Oud"
+    ]
+   },
+   "imp90j": 10,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-man-ice",
+   "nom": "Man Ice",
+   "conc": "EDT",
+   "volume": "200ml",
+   "genre": "homme",
+   "famille": "Boise Aromatique",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Pomme",
+     "Vetiver",
+     "Cedre",
+     "Patchouli"
+    ],
+    "base": [
+     "Musc",
+     "Ambroxan",
+     "Mousse"
+    ]
+   },
+   "imp90j": 2,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-amber-kiss",
+   "nom": "Amber Kiss",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Boise Oriental",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Poivre Rose",
+     "Bergamote",
+     "Pivoine"
+    ],
+    "heart": [
+     "Daim",
+     "Benjoin",
+     "Cannelle"
+    ],
+    "base": [
+     "Ambre Gris",
+     "Cedre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-radiant-tuberose",
+   "nom": "Radiant Tuberose",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Neroli",
+     "Jasmin"
+    ],
+    "heart": [
+     "Tubereuse",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-iris-crush",
+   "nom": "Iris Crush",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 43000,
+   "notes": {
+    "top": [
+     "Freesia",
+     "Neroli",
+     "Poivre Rose"
+    ],
+    "heart": [
+     "Iris",
+     "Accord Rouge a Levres",
+     "Heliotrope"
+    ],
+    "base": [
+     "Feve Tonka",
+     "Musc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-vanilla-love",
+   "nom": "Vanilla Love",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Oriental Vanille",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Myrrhe",
+     "Poivre Noir",
+     "Pomme"
+    ],
+    "heart": [
+     "Vanille",
+     "Feve Tonka",
+     "Patchouli"
+    ],
+    "base": [
+     "Caramel",
+     "Ambre",
+     "Safran"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "jimmy-choo-man-extreme",
+   "nom": "Man Extreme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougere",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Thym Rouge",
+     "Poivre Noir"
+    ],
+    "heart": [
+     "Sauge",
+     "Geranium",
+     "Muscade"
+    ],
+    "base": [
+     "Notes Boisees"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

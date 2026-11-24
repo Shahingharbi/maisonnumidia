@@ -1,0 +1,568 @@
+{
+ "slug": "kayali",
+ "nom": "Kayali",
+ "origine": "Émirats Arabes Unis",
+ "descriptionActuelle": "Marque fondée en 2018 par Mona Kattan (Huda Beauty). Fragrances orientales-occidentales modernes.",
+ "nbFiches": 12,
+ "pages": [
+  {
+   "chemin": "/marques/kayali",
+   "gsc": {
+    "clics": 22,
+    "imp": 503,
+    "pos": 5.1,
+    "ctr": 4.4
+   },
+   "requetes": [
+    {
+     "q": "kay ali parfum",
+     "imp": 102,
+     "clics": 1,
+     "pos": 2.8
+    },
+    {
+     "q": "maison numidia",
+     "imp": 11,
+     "clics": 0,
+     "pos": 7.8
+    },
+    {
+     "q": "kayali parfum homme prix",
+     "imp": 3,
+     "clics": 0,
+     "pos": 4.3
+    },
+    {
+     "q": "kayalie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 4.3
+    },
+    {
+     "q": "les parfums kayali",
+     "imp": 3,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "oui",
+     "imp": 3,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "parfum femme kayali",
+     "imp": 3,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "parfum kay ali",
+     "imp": 3,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "parfum kayali prix algérie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "parfums kayali",
+     "imp": 3,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "kayali algerie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "kayali eden juicy apple prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 9
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-homme/kayali",
+   "gsc": {
+    "clics": 3,
+    "imp": 345,
+    "pos": 5.7,
+    "ctr": 0.9
+   },
+   "requetes": [
+    {
+     "q": "kayali parfum homme",
+     "imp": 108,
+     "clics": 2,
+     "pos": 5.8
+    },
+    {
+     "q": "parfum kayali homme",
+     "imp": 39,
+     "clics": 0,
+     "pos": 5.4
+    },
+    {
+     "q": "kayali homme",
+     "imp": 29,
+     "clics": 0,
+     "pos": 7.1
+    },
+    {
+     "q": "kayali parfum homme prix",
+     "imp": 18,
+     "clics": 0,
+     "pos": 4.4
+    },
+    {
+     "q": "kayali homme parfum",
+     "imp": 17,
+     "clics": 0,
+     "pos": 6.2
+    },
+    {
+     "q": "parfum homme kayali",
+     "imp": 7,
+     "clics": 0,
+     "pos": 5.6
+    },
+    {
+     "q": "kayali pour homme",
+     "imp": 6,
+     "clics": 0,
+     "pos": 7.3
+    },
+    {
+     "q": "kay ali homme",
+     "imp": 3,
+     "clics": 0,
+     "pos": 6
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-orientaux/kayali",
+   "gsc": {
+    "clics": 0,
+    "imp": 9,
+    "pos": 6.8,
+    "ctr": 0
+   },
+   "requetes": [],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "kayali-eden",
+   "nom": "Eden Juicy Apple 01",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "unisexe",
+   "famille": "Fruité Floral Gourmand",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Pomme rouge",
+     "Cassis",
+     "Pamplemousse rose",
+     "Litchi"
+    ],
+    "heart": [
+     "Baies sauvages",
+     "Fleur de framboise",
+     "Jasmin",
+     "Rose de mai"
+    ],
+    "base": [
+     "Fleur de vanille",
+     "Mousse sucrée",
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 6239,
+   "clics90j": 95,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-vanilla-28",
+   "nom": "Vanilla 28",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 45000,
+   "notes": {
+    "top": [
+     "Orchidée de vanille",
+     "Jasmin"
+    ],
+    "heart": [
+     "Cassonade",
+     "Fève tonka"
+    ],
+    "base": [
+     "Ambre",
+     "Bois ambré",
+     "Musc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 1192,
+   "clics90j": 16,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "kayali-vanilla-candy-rock-sugar-42",
+   "nom": "Vanilla Candy Rock Sugar 42",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruite Gourmand",
+   "enStock": true,
+   "prix": 45000,
+   "notes": {
+    "top": [
+     "Vanille",
+     "Poire",
+     "Guimauve",
+     "Rhum",
+     "Feuille de violette",
+     "Ylang-ylang"
+    ],
+    "heart": [
+     "Bubble-gum",
+     "Bonbon gelifie",
+     "Caramel",
+     "Jasmin",
+     "Labdanum"
+    ],
+    "base": [
+     "Sucre",
+     "Patchouli",
+     "Feve tonka",
+     "Bois de cachemire",
+     "Santal",
+     "Vetiver"
+    ]
+   },
+   "imp90j": 183,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-elixir-11",
+   "nom": "Elixir 11",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruite",
+   "enStock": true,
+   "prix": 46500,
+   "notes": {
+    "top": [
+     "Petales de rose",
+     "Pomme rouge"
+    ],
+    "heart": [
+     "Rose de mai",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Patchouli",
+     "Ambre",
+     "Vanille"
+    ]
+   },
+   "imp90j": 104,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-vanilla-royale-sugared-patchouli-64",
+   "nom": "Vanilla Royale Sugared Patchouli 64 Intense",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 35500,
+   "notes": {
+    "top": [
+     "Rhum doré",
+     "Orchidée vanille",
+     "Jasmin crémeux"
+    ],
+    "heart": [
+     "Patchouli sucré",
+     "Cassonade",
+     "Crème brûlée",
+     "Notes épicées",
+     "Cuir",
+     "Fève tonka",
+     "Rose"
+    ],
+    "base": [
+     "Patchouli",
+     "Cassonade",
+     "Oud royal",
+     "Ambre",
+     "Musc",
+     "Vanille de Madagascar"
+    ]
+   },
+   "imp90j": 119,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "kayali-eden-sparkling-lychee-39",
+   "nom": "Eden Sparkling Lychee 39",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruite",
+   "enStock": true,
+   "prix": 46000,
+   "notes": {
+    "top": [
+     "Litchi",
+     "Cassis",
+     "Pomme rouge",
+     "Citron d'Italie"
+    ],
+    "heart": [
+     "Violette",
+     "Rose",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Sucre",
+     "Absolu de vanille",
+     "Musc",
+     "Ambre",
+     "Santal",
+     "Cedre"
+    ]
+   },
+   "imp90j": 62,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-yum-pistachio-gelato-33",
+   "nom": "Yum Pistachio Gelato 33",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 46000,
+   "notes": {
+    "top": [
+     "Pistache",
+     "Bergamote",
+     "Noisette",
+     "Rhum",
+     "Cardamome"
+    ],
+    "heart": [
+     "Pivoine",
+     "Muguet",
+     "Géranium",
+     "Poire"
+    ],
+    "base": [
+     "Crème fouettée",
+     "Guimauve",
+     "Barbe à papa",
+     "Fève tonka",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 36,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-oudgasm-smoky-oud-07",
+   "nom": "Oudgasm Smoky Oud 07",
+   "conc": "EDP Intense",
+   "volume": "50ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Rhum",
+     "Safran"
+    ],
+    "heart": [
+     "Géranium",
+     "Labdanum",
+     "Jasmin"
+    ],
+    "base": [
+     "Oud",
+     "Patchouli",
+     "Bois de gaïac",
+     "Cèdre",
+     "Musc blanc",
+     "Vanille"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-citrus-08",
+   "nom": "Citrus 08",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 43500,
+   "notes": {
+    "top": [
+     "Pamplemousse rose",
+     "Bergamote",
+     "Rhubarbe",
+     "Cassis",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Rose bulgare",
+     "Rose de Damas"
+    ],
+    "base": [
+     "Musc",
+     "Mousse de chêne",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-invite-only-amber-23",
+   "nom": "Invite Only Amber 23",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 43500,
+   "notes": {
+    "top": [
+     "Feuille de tabac",
+     "Cerise acide",
+     "Miel",
+     "Chocolat",
+     "Noisette"
+    ],
+    "heart": [
+     "Cannelle de Ceylan",
+     "Rose de mai",
+     "Rose de Damas",
+     "Feuille d'agrumes"
+    ],
+    "base": [
+     "Ambre",
+     "Oud",
+     "Vanille",
+     "Benjoin",
+     "Bois de santal",
+     "Patchouli",
+     "Musc",
+     "Cypriol"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-fleur-majesty-rose-royale-31",
+   "nom": "Fleur Majesty Rose Royale 31",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 45500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Pêche",
+     "Mandarine",
+     "Orange"
+    ],
+    "heart": [
+     "Rose",
+     "Pivoine",
+     "Violette",
+     "Magnolia"
+    ],
+    "base": [
+     "Musc",
+     "Vanille",
+     "Ambrox Super",
+     "Praliné",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "kayali-sweet-diamond-pink-pepper-25",
+   "nom": "Sweet Diamond Pink Pepper 25",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 43500,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Safran",
+     "Bergamote",
+     "Lys royal"
+    ],
+    "heart": [
+     "Rose bulgare",
+     "Rose de mai",
+     "Orchidée vanille",
+     "Magnolia"
+    ],
+    "base": [
+     "Ambre",
+     "Bois de santal",
+     "Patchouli",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  }
+ ]
+}

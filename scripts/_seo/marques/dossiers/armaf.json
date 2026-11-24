@@ -1,0 +1,1088 @@
+{
+ "slug": "armaf",
+ "nom": "Armaf",
+ "origine": "Émirats Arabes Unis",
+ "descriptionActuelle": "Armaf est une maison de parfumerie émiratie qui s'est imposée en quelques années comme l'une des marques les plus populaires dans le segment des fragrances accessibles haut de gamme. Connue pour ses interprétations de grandes signatures olfactives mondiales, Armaf offre une qualité de jus remarquable à des prix accessibles au plus grand nombre.",
+ "nbFiches": 29,
+ "pages": [
+  {
+   "chemin": "/marques/armaf",
+   "gsc": {
+    "clics": 42,
+    "imp": 421,
+    "pos": 7.6,
+    "ctr": 10
+   },
+   "requetes": [
+    {
+     "q": "maison numidia",
+     "imp": 11,
+     "clics": 1,
+     "pos": 1.1
+    },
+    {
+     "q": "prix club de nuit intense algerie",
+     "imp": 10,
+     "clics": 0,
+     "pos": 51.9
+    },
+    {
+     "q": "armaf",
+     "imp": 6,
+     "clics": 0,
+     "pos": 21.8
+    },
+    {
+     "q": "oui",
+     "imp": 3,
+     "clics": 2,
+     "pos": 1.3
+    },
+    {
+     "q": "club de nuit parfum prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 28.5
+    },
+    {
+     "q": "parfum armas",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "نعم",
+     "imp": 2,
+     "clics": 0,
+     "pos": 3.5
+    },
+    {
+     "q": "grossiste",
+     "imp": 1,
+     "clics": 1,
+     "pos": 7
+    },
+    {
+     "q": "lien",
+     "imp": 1,
+     "clics": 1,
+     "pos": 1
+    },
+    {
+     "q": "oui trouve",
+     "imp": 1,
+     "clics": 1,
+     "pos": 2
+    },
+    {
+     "q": "prix dz",
+     "imp": 1,
+     "clics": 1,
+     "pos": 2
+    },
+    {
+     "q": "armaf algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-homme/armaf",
+   "gsc": {
+    "clics": 11,
+    "imp": 89,
+    "pos": 11.4,
+    "ctr": 12.4
+   },
+   "requetes": [
+    {
+     "q": "prix club de nuit intense algerie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 83.5
+    },
+    {
+     "q": "دينار",
+     "imp": 1,
+     "clics": 1,
+     "pos": 2
+    },
+    {
+     "q": "armas parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "parfum armaf",
+     "imp": 1,
+     "clics": 0,
+     "pos": 11
+    },
+    {
+     "q": "في الجزائر",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "نعم",
+     "imp": 1,
+     "clics": 0,
+     "pos": 33
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/armaf",
+   "gsc": {
+    "clics": 2,
+    "imp": 29,
+    "pos": 8.1,
+    "ctr": 6.9
+   },
+   "requetes": [
+    {
+     "q": "armaf parfum",
+     "imp": 3,
+     "clics": 0,
+     "pos": 31.7
+    },
+    {
+     "q": "parfum armaf",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1.5
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-orientaux/armaf",
+   "gsc": {
+    "clics": 0,
+    "imp": 12,
+    "pos": 8.2,
+    "ctr": 0
+   },
+   "requetes": [],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "club-de-nuit-intense-armaf",
+   "nom": "Club de Nuit Intense Man",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Ananas",
+     "Bergamote",
+     "Cassis",
+     "Pomme"
+    ],
+    "heart": [
+     "Bouleau",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Musc",
+     "Ambre gris",
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 2477,
+   "clics90j": 145,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "club-de-nuit-women-armaf",
+   "nom": "Club de Nuit Women",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Orange",
+     "Bergamote",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Rose",
+     "Jasmin",
+     "Litchi"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 3048,
+   "clics90j": 86,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "armaf-desert-rose",
+   "nom": "Desert Rose",
+   "conc": "Extrait de Parfum",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Fruit de la passion",
+     "Rose de Turquie",
+     "Safran"
+    ],
+    "heart": [
+     "Patchouli"
+    ],
+    "base": [
+     "Cuir",
+     "Ambre",
+     "Labdanum",
+     "Vanille"
+    ]
+   },
+   "imp90j": 6,
+   "clics90j": 1,
+   "volumeRecherche": 320
+  },
+  {
+   "slug": "armaf-club-de-nuit-intense-femme",
+   "nom": "Club de Nuit Intense Woman",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 12000,
+   "notes": {
+    "top": [
+     "Rose",
+     "Safran",
+     "Géranium"
+    ],
+    "heart": [
+     "Noix de muscade",
+     "Poivre",
+     "Violette",
+     "Carvi"
+    ],
+    "base": [
+     "Patchouli",
+     "Bois d'agar (Oud)",
+     "Vanille",
+     "Ambre"
+    ]
+   },
+   "imp90j": 283,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-sillage",
+   "nom": "Club de Nuit Sillage",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 15500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron",
+     "Citron vert",
+     "Cassis",
+     "Feuille de violette",
+     "Gingembre"
+    ],
+    "heart": [
+     "Jasmin",
+     "Rose",
+     "Iris"
+    ],
+    "base": [
+     "Ambroxan",
+     "Musc",
+     "Bois de santal",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 64,
+   "clics90j": 2,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "armaf-club-de-nuit-untold",
+   "nom": "Club de Nuit Untold",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "unisexe",
+   "famille": "Ambré Boisé",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Safran",
+     "Jasmin"
+    ],
+    "heart": [
+     "Bois ambré",
+     "Ambre gris"
+    ],
+    "base": [
+     "Résine de sapin",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 150,
+   "clics90j": 12,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "armaf-odyssey-mandarin-sky",
+   "nom": "Odyssey Mandarin Sky",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fruité Gourmand",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Orange",
+     "Safran",
+     "Sauge"
+    ],
+    "heart": [
+     "Caramel",
+     "Fève tonka",
+     "Souci"
+    ],
+    "base": [
+     "Ambroxan",
+     "Cèdre",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 0,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "armaf-club-de-nuit-oud",
+   "nom": "Club de Nuit Oud",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "unisexe",
+   "famille": "Fruité Boisé Vanillé",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Poire",
+     "Fruit de la passion",
+     "Ananas",
+     "Prune",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Bois de cachemire",
+     "Freesia",
+     "Feuilles de violette"
+    ],
+    "base": [
+     "Musc",
+     "Ambre cristal",
+     "Vanille",
+     "Oud du Cambodge"
+    ]
+   },
+   "imp90j": 75,
+   "clics90j": 6,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "armaf-club-de-nuit-urban-man",
+   "nom": "Club de Nuit Urban Man",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 13000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Menthe",
+     "Pamplemousse",
+     "Cardamome"
+    ],
+    "heart": [
+     "Gingembre",
+     "Lavande",
+     "Cèdre",
+     "Muscade"
+    ],
+    "base": [
+     "Vétiver",
+     "Patchouli",
+     "Bois de santal",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 67,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armaf-club-de-nuit-urban-elixir",
+   "nom": "Club De Nuit Urban Elixir",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "homme",
+   "famille": "Boisé Ambré",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Poivre rose",
+     "Jasmin",
+     "Fleur d'oranger"
+    ],
+    "heart": [
+     "Lavande",
+     "Élémi",
+     "Géranium",
+     "Vétiver",
+     "Safran",
+     "Souci"
+    ],
+    "base": [
+     "Ambroxan",
+     "Ambre",
+     "Cèdre",
+     "Patchouli",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 78,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-odyssey-tyrant-special-edition",
+   "nom": "Odyssey Tyrant Special Edition",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Agrumes"
+    ],
+    "heart": [
+     "Poivre",
+     "Lavande",
+     "Géranium",
+     "Elemi"
+    ],
+    "base": [
+     "Vétiver",
+     "Cèdre",
+     "Notes boisées",
+     "Ambroxan"
+    ]
+   },
+   "imp90j": 65,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-milestone",
+   "nom": "Club de Nuit Milestone",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "unisexe",
+   "famille": "Boisé Floral Musqué",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Notes marines",
+     "Fruits rouges",
+     "Bergamote"
+    ],
+    "heart": [
+     "Violette",
+     "Bois blancs",
+     "Bois de santal"
+    ],
+    "base": [
+     "Musc",
+     "Ambroxan",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 34,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armaf-club-de-nuit-bling",
+   "nom": "Club de Nuit Bling",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Agrumes"
+    ],
+    "heart": [
+     "Poussière d'étoiles",
+     "Prisme de fleurs"
+    ],
+    "base": [
+     "Bois de velours",
+     "Vanille"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "armaf-odyssey-wild-one-gold-edition",
+   "nom": "Odyssey Wild One Gold Edition",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Poivre",
+     "Bergamote",
+     "Menthe",
+     "Citron"
+    ],
+    "heart": [
+     "Poivre rose",
+     "Lavande",
+     "Gingembre",
+     "Vétiver"
+    ],
+    "base": [
+     "Cèdre",
+     "Bois de santal",
+     "Patchouli",
+     "Elemi",
+     "Musc",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 45,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-maleka",
+   "nom": "Club De Nuit Maleka",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Litchi",
+     "Bergamote",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Racine d'iris"
+    ],
+    "base": [
+     "Praliné",
+     "Ambroxan",
+     "Santal"
+    ]
+   },
+   "imp90j": 10,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "armaf-club-de-nuit-intense-overdose",
+   "nom": "Club De Nuit Intense Overdose",
+   "conc": "Extrait de Parfum",
+   "volume": "105ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Ananas",
+     "Cristal bleu",
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Mousse de chêne",
+     "Fleur de vanille",
+     "Prune"
+    ],
+    "base": [
+     "Patchouli",
+     "Poudre blanche",
+     "Ambre",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 40,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-blue-iconic",
+   "nom": "Club de Nuit Blue Iconic",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "homme",
+   "famille": "Ambré Boisé Fougère",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Citron",
+     "Menthe",
+     "Poivre rose",
+     "Coriandre"
+    ],
+    "heart": [
+     "Gingembre",
+     "Melon",
+     "Jasmin",
+     "Noix de muscade"
+    ],
+    "base": [
+     "Encens",
+     "Bois de santal",
+     "Ambre",
+     "Cèdre",
+     "Patchouli",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 39,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-odyssey-aoud",
+   "nom": "Odyssey Aoud",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Safran",
+     "Noix de muscade",
+     "Lavande"
+    ],
+    "heart": [
+     "Oud",
+     "Notes boisées"
+    ],
+    "base": [
+     "Musc",
+     "Ambroxan",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-ego-tigre",
+   "nom": "Ego Tigre",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Ambré Boisé",
+   "enStock": true,
+   "prix": 17000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Ananas",
+     "Pomme",
+     "Notes aquatiques"
+    ],
+    "heart": [
+     "Patchouli",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Ambre gris",
+     "Musc",
+     "Ambre",
+     "Vanille"
+    ]
+   },
+   "imp90j": 48,
+   "clics90j": 2,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "armaf-dubai-nights-umbra",
+   "nom": "Dubai Nights Umbra",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aquatique",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Poivre rose",
+     "Pamplemousse",
+     "Menthe",
+     "Yuzu"
+    ],
+    "heart": [
+     "Feuilles de violette",
+     "Notes aquatiques"
+    ],
+    "base": [
+     "Bois de gaïac",
+     "Bois de cèdre",
+     "Ambre gris"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-intense-man-parfum",
+   "nom": "Club de Nuit Intense Man Parfum",
+   "conc": "Parfum",
+   "volume": "150ml",
+   "genre": "homme",
+   "famille": "Boisé Fruité",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Ananas",
+     "Bergamote",
+     "Cassis",
+     "Pomme"
+    ],
+    "heart": [
+     "Bouleau",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Musc",
+     "Ambre gris",
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 6,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-cool-ace",
+   "nom": "Cool Ace",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique",
+   "enStock": true,
+   "prix": 8300,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Lavande"
+    ],
+    "base": [
+     "Bois de cedre",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-connoisseur-man",
+   "nom": "Connoisseur Man",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Pomme verte",
+     "Pamplemousse",
+     "Gingembre",
+     "Aldéhydes"
+    ],
+    "heart": [
+     "Géranium",
+     "Lavande",
+     "Sauge"
+    ],
+    "base": [
+     "Fève tonka",
+     "Oliban",
+     "Patchouli",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 3,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-perfume-oasis",
+   "nom": "Perfume Oasis",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Bergamote",
+     "Ananas",
+     "Poire",
+     "Prune"
+    ],
+    "heart": [
+     "Bois de cachemire",
+     "Feuilles de violette",
+     "Freesia",
+     "Jasmin"
+    ],
+    "base": [
+     "Bois d'agar",
+     "Bois de santal",
+     "Ambre",
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 3,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-white-imperiale",
+   "nom": "Club de Nuit White Imperiale",
+   "conc": "EDP",
+   "volume": "105ml",
+   "genre": "femme",
+   "famille": "Floral Vanillé",
+   "enStock": true,
+   "prix": 14500,
+   "notes": {
+    "top": [
+     "Litchi",
+     "Bergamote",
+     "Noix de muscade"
+    ],
+    "heart": [
+     "Rose de Turquie",
+     "Vanille",
+     "Musc",
+     "Pivoine"
+    ],
+    "base": [
+     "Vanille",
+     "Encens",
+     "Cashmeran",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-club-de-nuit-lionheart-man",
+   "nom": "Club De Nuit Lionheart Man",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Fougère",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Menthe",
+     "Lavande"
+    ],
+    "heart": [
+     "Vanille",
+     "Benjoin"
+    ],
+    "base": [
+     "Miel",
+     "Fève tonka",
+     "Tabac"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-dubai-nights-midnight",
+   "nom": "Dubai Nights Midnight",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Lavande"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Géranium"
+    ],
+    "base": [
+     "Patchouli",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-le-parfait-pour-homme",
+   "nom": "Le Parfait Pour Homme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental",
+   "enStock": true,
+   "prix": 16000,
+   "notes": {
+    "top": [
+     "Cassis",
+     "Ananas",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Notes épicées",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Ambre gris",
+     "Musc",
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "armaf-monarque",
+   "nom": "Monarque",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Cannelle",
+     "Cardamome",
+     "Fleur d'oranger",
+     "Bergamote"
+    ],
+    "heart": [
+     "Vanille",
+     "Élémi"
+    ],
+    "base": [
+     "Praliné",
+     "Fève tonka",
+     "Ambroxan",
+     "Amande confite",
+     "Musc",
+     "Bois de gaïac"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  }
+ ]
+}

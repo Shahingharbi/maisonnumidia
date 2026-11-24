@@ -1,0 +1,2457 @@
+[
+ {
+  "chemin": "/parfums/versace-figue-blanche",
+  "type": "produit",
+  "marque": "Versace",
+  "nom": "Figue Blanche",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Versace Figue Blanche Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Mandarine italienne",
+   "Jasmin",
+   "Figue"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 10,
+   "pos": 7.5,
+   "ctr": 20
+  },
+  "requetes": [
+   {
+    "q": "prix",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "versace figue blanche",
+    "imp": 1,
+    "clics": 0,
+    "pos": 25
+   }
+  ],
+  "volumeNom": {
+   "k": "figue blanche",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-alexandria-orientale",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Alexandria Orientale",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Alexandria Orientale Parfum Mixte Algérie",
+  "notes": [
+   "Cuir",
+   "Pomme Verte",
+   "Rose de Bulgarie",
+   "Bois d'Agar (Oud)"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 10,
+   "pos": 7.2,
+   "ctr": 10
+  },
+  "requetes": [
+   {
+    "q": "xerjoff alexandria ii prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "كم سعره بالجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "volumeNom": {
+   "k": "alexandria orientale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-alexandria-ii",
+    "nom": "Alexandria II",
+    "conc": "Parfum",
+    "vol": "50ml"
+   },
+   {
+    "slug": "xerjoff-alexandria-iii",
+    "nom": "Alexandria III",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-nio",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Nio",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Nio Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Notes vertes",
+   "Cardamome",
+   "Vetiver"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 10,
+   "pos": 6.4,
+   "ctr": 10
+  },
+  "requetes": [
+   {
+    "q": "nio xerjoff",
+    "imp": 1,
+    "clics": 0,
+    "pos": 32
+   }
+  ],
+  "volumeNom": {
+   "k": "xerjoff nio",
+   "vol": 40
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/carolina-herrera-vetiver-paradise",
+  "type": "produit",
+  "marque": "Carolina Herrera",
+  "nom": "Vetiver Paradise",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Carolina Herrera Vetiver Paradise Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Pamplemousse",
+   "Cardamome",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 8.4,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "carolina herrera vetiver paradise",
+    "imp": 3,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "vetiver paradise",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   }
+  ],
+  "volumeNom": {
+   "k": "vetiver paradise",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/gucci-guilty-love-edition-mmxxi-pour-femme",
+  "type": "produit",
+  "marque": "Gucci",
+  "nom": "Guilty Love Edition MMXXI pour Femme",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Gucci Guilty Love Edition MMXXI pour Femme Parfum Femme Algérie",
+  "notes": [
+   "Poivre Rose",
+   "Mandore",
+   "Violette",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 8.1,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "gucci guilty love edition mmxxi pour femme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "guilty love perfume",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   }
+  ],
+  "volumeNom": {
+   "k": "guilty love edition mmxxi pour femme",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "gucci-guilty-homme",
+    "nom": "Guilty Pour Homme",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "gucci-guilty-femme",
+    "nom": "Guilty Pour Femme",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "gucci-guilty-absolute",
+    "nom": "Guilty Absolute Pour Homme",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "gucci-guilty-black",
+    "nom": "Guilty Black pour Homme",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "gucci-guilty-platinum-femme",
+    "nom": "Guilty Platinum",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "gucci-guilty-absolu-de-parfum-pour-femme",
+    "nom": "Guilty Absolu de Parfum Pour Femme",
+    "conc": "EDP",
+    "vol": "60ml"
+   },
+   {
+    "slug": "gucci-guilty-love-edition-pour-femme",
+    "nom": "Guilty Love Edition Pour Femme",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "gucci-guilty-absolu-de-parfum-pour-homme",
+    "nom": "Guilty Absolu de Parfum Pour Homme",
+    "conc": "EDP",
+    "vol": "60ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-club-de-nuit-maleka",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Club De Nuit Maleka",
+  "conc": "EDP",
+  "volume": "105ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Club De Nuit Maleka Parfum Femme Algérie",
+  "notes": [
+   "Litchi",
+   "Bergamote",
+   "Racine d'iris",
+   "Praliné"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 3.5,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "perfume maleka club de nuit",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   }
+  ],
+  "volumeNom": {
+   "k": "club de nuit maleka",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "club-de-nuit-intense-armaf",
+    "nom": "Club de Nuit Intense Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "club-de-nuit-women-armaf",
+    "nom": "Club de Nuit Women",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-femme",
+    "nom": "Club de Nuit Intense Woman",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-milestone",
+    "nom": "Club de Nuit Milestone",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-untold",
+    "nom": "Club de Nuit Untold",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-oud",
+    "nom": "Club de Nuit Oud",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-sillage",
+    "nom": "Club de Nuit Sillage",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-man",
+    "nom": "Club de Nuit Urban Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-truth",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Truth",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Truth Parfum Femme Algérie",
+  "notes": [
+   "Bambou",
+   "Trèfle",
+   "Lys",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 5.3,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "truth calvin klein femme",
+    "imp": 3,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "calvin klein truth woman",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "truth calvin klein",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "truth ck",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   }
+  ],
+  "volumeNom": {
+   "k": "calvin klein truth",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/etat-libre-d-orange-500-years",
+  "type": "produit",
+  "marque": "Etat Libre d'Orange",
+  "nom": "500 Years",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Etat Libre d'Orange 500 Years Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Cardamome",
+   "Rose de Turquie",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 7.2,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "500 years etat libre d'orange",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "parfum 500",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   }
+  ],
+  "volumeNom": {
+   "k": "500 years",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lacoste-l-12-bleu",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "L.12.12. Bleu",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lacoste L.12.12. Bleu Parfum Homme Algérie",
+  "notes": [
+   "Yuzu givré",
+   "Lavande",
+   "Bois de cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 2.8,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 0,
+    "pos": 2
+   }
+  ],
+  "volumeNom": {
+   "k": "l 12 12 bleu",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-l12-noir",
+    "nom": "L.12.12 Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-blanc",
+    "nom": "L.12.12 Blanc",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-vert",
+    "nom": "L.12.12 Vert",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-silver-grey",
+    "nom": "L.12.12 Silver Grey",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-eau-fraiche-for-him",
+    "nom": "L.12.12 Blanc Eau Fraîche For Him",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-edition-limitee-roland-garros",
+    "nom": "L.12.12 Blanc Edition Limitée Roland Garros",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-rose-eau-intense",
+    "nom": "L.12.12. Rose Eau Intense",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-silver-rose",
+    "nom": "L.12.12 Silver Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mercedes-benz-for-her-pop-edition",
+  "type": "produit",
+  "marque": "Mercedes-Benz",
+  "nom": "For Her Pop Edition",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mercedes-Benz For Her Pop Edition Parfum Femme Algérie",
+  "notes": [
+   "Pêche",
+   "Kiwi",
+   "Jasmin",
+   "Crème fouettée"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 10,
+   "pos": 12.5,
+   "ctr": 10
+  },
+  "requetes": [
+   {
+    "q": "mercedes benz pop edition",
+    "imp": 1,
+    "clics": 0,
+    "pos": 40
+   },
+   {
+    "q": "mercedes pour femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "volumeNom": {
+   "k": "for her pop edition",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mercedes-benz-for-her-fanciful-edition",
+    "nom": "For Her Fanciful Edition",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mont-blanc-legend-elixir",
+  "type": "produit",
+  "marque": "Mont Blanc",
+  "nom": "Legend Elixir",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mont Blanc Legend Elixir Parfum Homme Algérie",
+  "notes": [
+   "Lavande",
+   "Cardamome",
+   "Sauge sclarée"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 10,
+   "pos": 5.6,
+   "ctr": 10
+  },
+  "requetes": [
+   {
+    "q": "legend elixir montblanc",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "mont blanc elixir",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   }
+  ],
+  "volumeNom": {
+   "k": "legend elixir",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mont-blanc-legend",
+    "nom": "Legend",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-legend-spirit",
+    "nom": "Legend Spirit",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-legend-edp",
+    "nom": "Legend EDP",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-legend-rouge",
+    "nom": "Legend Red",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-legend-night",
+    "nom": "Legend Night",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-legend-blue",
+    "nom": "Legend Blue",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-extra-rouge",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "Nina Extra Rouge",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci Nina Extra Rouge Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Cassis",
+   "Thé",
+   "Praline"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 33.8,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "parfum nina extra rouge",
+    "imp": 3,
+    "clics": 0,
+    "pos": 47.7
+   },
+   {
+    "q": "eau de toilette nina extra rouge",
+    "imp": 1,
+    "clics": 0,
+    "pos": 40
+   },
+   {
+    "q": "extra rouge nina ricci",
+    "imp": 1,
+    "clics": 0,
+    "pos": 52
+   },
+   {
+    "q": "nina extra",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "nina extra rouge",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "nina ricci extra rouge",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   }
+  ],
+  "volumeNom": {
+   "k": "nina extra rouge",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nina-ricci-nina",
+    "nom": "Nina",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "nina-ricci-rose",
+    "nom": "Nina Rose",
+    "conc": "EDT",
+    "vol": "80ml"
+   },
+   {
+    "slug": "nina-ricci-rouge",
+    "nom": "Nina Rouge",
+    "conc": "EDT",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roberto-cavalli-paradiso-assoluto",
+  "type": "produit",
+  "marque": "Roberto Cavalli",
+  "nom": "Paradiso Assoluto",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Roberto Cavalli Paradiso Assoluto Parfum Femme Algérie",
+  "notes": [
+   "Poivre rose",
+   "Glycine",
+   "Jasmin sauvage",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 5.3,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "parfum roberto cavalli paradiso assoluto",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "roberto cavalli paradiso assoluto",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "roberto cavalli parfum paradiso assoluto",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   }
+  ],
+  "volumeNom": {
+   "k": "paradiso assoluto",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roberto-cavalli-paradiso",
+    "nom": "Paradiso",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "roberto-cavalli-paradiso-azzurro",
+    "nom": "Paradiso Azzurro",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "roberto-cavalli-paradiso-rosa",
+    "nom": "Paradiso Rosa",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/tom-ford-tubereuse-nue",
+  "type": "produit",
+  "marque": "Tom Ford",
+  "nom": "Tubéreuse Nue",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Tom Ford Tubéreuse Nue Parfum Mixte Algérie",
+  "notes": [
+   "Lys",
+   "Jasmin",
+   "Tubéreuse",
+   "Daim"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 10,
+   "pos": 9.4,
+   "ctr": 10
+  },
+  "requetes": [
+   {
+    "q": "tom ford nu",
+    "imp": 1,
+    "clics": 0,
+    "pos": 38
+   },
+   {
+    "q": "tom ford tubéreuse nue",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "tubereuse nue",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "tubereuse nue tom ford",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "tubéreuse nue",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "volumeNom": {
+   "k": "tubereuse nue",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/marques/britney-spears",
+  "type": "marque",
+  "marque": "Britney Spears",
+  "nbProduits": 2,
+  "genres": {
+   "homme": 0,
+   "femme": 2,
+   "unisexe": 0
+  },
+  "oriental": 0,
+  "phares": [
+   "Fantasy",
+   "Curious"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 10,
+   "pos": 4.8,
+   "ctr": 20
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/mancera",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Mancera",
+  "nbProduits": 7,
+  "nbMarque": 26,
+  "phares": [
+   "Black Noir",
+   "Deep Forest",
+   "Wild Rose Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 10,
+   "pos": 10.2,
+   "ctr": 0
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/roberto-cavalli-just-cavalli-homme",
+  "type": "produit",
+  "marque": "Roberto Cavalli",
+  "nom": "Just Cavalli Homme",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": false,
+  "h1": "Roberto Cavalli Just Cavalli Homme Parfum Algérie",
+  "notes": [
+   "Gingembre",
+   "Romarin",
+   "Sauge",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 14.3,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "roberto cavalli parfum prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   }
+  ],
+  "volumeNom": {
+   "k": "just cavalli homme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "roberto-cavalli-just-cavalli-femme",
+    "nom": "Just Cavalli Femme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "roberto-cavalli-just-wild-blue",
+    "nom": "Just Cavalli Wild Blue",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/guerlain-aqua-allegoria-granada-salvia",
+  "type": "produit",
+  "marque": "Guerlain",
+  "nom": "Aqua Allegoria Granada Salvia",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Guerlain Aqua Allegoria Granada Salvia Parfum Mixte Algérie",
+  "notes": [
+   "Cassis",
+   "Citron",
+   "Grenade",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 12.9,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "aqua allegoria granada",
+    "imp": 1,
+    "clics": 0,
+    "pos": 52
+   },
+   {
+    "q": "aqua allegoria granada salvia",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   }
+  ],
+  "volumeNom": {
+   "k": "aqua allegoria granada salvia",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "guerlain-aqua-allegoria",
+    "nom": "Aqua Allegoria Flora Nymphea",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-bergamote",
+    "nom": "Aqua Allegoria Bergamote Calabria",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-flora-cherrysia",
+    "nom": "Aqua Allegoria Flora Cherrysia",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-nettare-di-sole",
+    "nom": "Aqua Allegoria Nettare di Sole",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-ginger-piccante",
+    "nom": "Aqua Allegoria Ginger Piccante",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-passiflora",
+    "nom": "Aqua Allegoria Passiflora",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-pera-granita",
+    "nom": "Aqua Allegoria Pera Granita",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "guerlain-aqua-allegoria-flora-salvaggia",
+    "nom": "Aqua Allegoria Flora Salvaggia",
+    "conc": "EDT",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/hugo-boss-reversed",
+  "type": "produit",
+  "marque": "Hugo Boss",
+  "nom": "Hugo Reversed",
+  "conc": "EDT",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Hugo Boss Hugo Reversed Parfum Homme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Bergamote de Calabre",
+   "Romarin",
+   "Vétiver d'Haïti"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 6.4,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "hugo boss reversed",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "boss reversed",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "hugo boss reversed 125ml",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "hugo reversed hugo boss",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   }
+  ],
+  "volumeNom": {
+   "k": "hugo reversed",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "hugo-man-hugo-boss",
+    "nom": "Hugo Man",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "boss-intense-hugo-boss",
+    "nom": "Hugo Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "hugo-xx-women",
+    "nom": "Hugo XX",
+    "conc": "EDT",
+    "vol": "60ml"
+   },
+   {
+    "slug": "hugo-deep-red",
+    "nom": "Hugo Deep Red",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "hugo-boss-just-different",
+    "nom": "Hugo Just Different",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "hugo-boss-woman-extreme",
+    "nom": "Hugo Woman Extreme",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "hugo-boss-dark-blue",
+    "nom": "Hugo Dark Blue",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "hugo-boss-energise",
+    "nom": "Hugo Energise",
+    "conc": "EDT",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cacharel-yes-i-am-fabulous",
+  "type": "produit",
+  "marque": "Cacharel",
+  "nom": "Yes I Am Fabulous",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cacharel Yes I Am Fabulous Parfum Femme Algérie",
+  "notes": [
+   "Mure",
+   "Heliotrope",
+   "Lait"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 5.4,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "yes i am fabulous cacharel",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "volumeNom": {
+   "k": "yes i am fabulous",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yes-i-am-cacharel",
+    "nom": "Yes I Am",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-pink-first",
+    "nom": "Yes I Am Pink First",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-bloom-up",
+    "nom": "Yes I Am Bloom Up!",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-delicious",
+    "nom": "Yes I Am Delicious",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-glorious",
+    "nom": "Yes I Am Glorious",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/karl-lagerfeld-new-york-mercer-street",
+  "type": "produit",
+  "marque": "Karl Lagerfeld",
+  "nom": "Karl New York Mercer Street",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Karl Lagerfeld Karl New York Mercer Street Parfum Homme Algérie",
+  "notes": [
+   "Citron vert",
+   "Basilic",
+   "Rhubarbe",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 6.6,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "karl lagerfeld new york mercer street",
+    "imp": 1,
+    "clics": 0,
+    "pos": 27
+   },
+   {
+    "q": "prix moyens",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   }
+  ],
+  "volumeNom": {
+   "k": "karl new york mercer street",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "karl-lagerfeld-paris-21-rue-saint-guillaume",
+    "nom": "Karl Paris 21 Rue Saint-Guillaume",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armani-code-colonia",
+  "type": "produit",
+  "marque": "Giorgio Armani",
+  "nom": "Code Colonia",
+  "conc": "Cologne",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Giorgio Armani Code Colonia Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Mandarine",
+   "Fleur d'Oranger",
+   "Fève Tonka"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 4.1,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "armani code colonia",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "كم سعره في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   }
+  ],
+  "volumeNom": {
+   "k": "code colonia",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "armani-code",
+    "nom": "Code",
+    "conc": "EDP",
+    "vol": "110ml"
+   },
+   {
+    "slug": "armani-code-absolu",
+    "nom": "Code Absolu",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-code-edp",
+    "nom": "Code EDP",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "armani-code-femme",
+    "nom": "Code Femme",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-code-profumo",
+    "nom": "Code Profumo",
+    "conc": "Parfum",
+    "vol": "110ml"
+   },
+   {
+    "slug": "armani-code-parfum",
+    "nom": "Code Parfum",
+    "conc": "Parfum",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-code-elixir",
+    "nom": "Code Elixir",
+    "conc": "Parfum",
+    "vol": "50ml"
+   },
+   {
+    "slug": "armani-code-a-list",
+    "nom": "Code A-List",
+    "conc": "EDT",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/hermes-jour-d-absolu",
+  "type": "produit",
+  "marque": "Hermès",
+  "nom": "Jour d'Hermès Absolu",
+  "conc": "EDP",
+  "volume": "85ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Hermès Jour d'Hermès Absolu Parfum Femme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Fleur d'abricotier",
+   "Gardénia",
+   "Notes boisées"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 3.8,
+   "ctr": 0
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "jour d hermes absolu",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "hermes-jour-d-hermes",
+    "nom": "Jour d'Hermès",
+    "conc": "EDP",
+    "vol": "85ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/nina-ricci-l-extase-caresse-de-roses",
+  "type": "produit",
+  "marque": "Nina Ricci",
+  "nom": "L'Extase Caresse de Roses",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Nina Ricci L'Extase Caresse de Roses Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Bergamote",
+   "Rose de Turquie",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 18.6,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "caresse de roses nina ricci",
+    "imp": 1,
+    "clics": 0,
+    "pos": 86
+   },
+   {
+    "q": "l'extase caresse de roses",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "l'extase caresse de roses nina ricci",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "volumeNom": {
+   "k": "l extase caresse de roses",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "nina-ricci-l-extase",
+    "nom": "L'Extase",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "nina-ricci-l-extase-rose-absolue",
+    "nom": "L'Extase Rose Absolue",
+    "conc": "EDP",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-mr-element",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Mr. Element",
+  "conc": "EDT",
+  "volume": "150ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Burberry Mr. Element Parfum Homme Algérie",
+  "notes": [
+   "Amande verte",
+   "Genièvre",
+   "Notes minérales"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 7.8,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "burberry element",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "burberry element perfume",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "prix et disponibilité en france",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   }
+  ],
+  "volumeNom": {
+   "k": "mr element",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/juicy-couture-oui",
+  "type": "produit",
+  "marque": "Juicy Couture",
+  "nom": "Oui",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Juicy Couture Oui Parfum Femme Algérie",
+  "notes": [
+   "Pastèque",
+   "Baie d'açaï",
+   "Jasmin",
+   "Notes boisées"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 3.9,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "oui",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   }
+  ],
+  "volumeNom": {
+   "k": "juicy couture oui",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/dolce-gabbana-light-blue-escape-to-panarea",
+  "type": "produit",
+  "marque": "Dolce & Gabbana",
+  "nom": "Light Blue Escape to Panarea",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Dolce & Gabbana Light Blue Escape to Panarea Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Bergamote",
+   "Jasmin",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 24.4,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "dolce gabbana escape to panarea",
+    "imp": 3,
+    "clics": 0,
+    "pos": 25.7
+   }
+  ],
+  "volumeNom": {
+   "k": "light blue escape to panarea",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "dolce-gabbana-light-blue",
+    "nom": "Light Blue",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-intenso",
+    "nom": "Light Blue Intenso Pour Homme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-forever-homme",
+    "nom": "Light Blue Forever pour Homme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-forever-femme",
+    "nom": "Light Blue Forever pour Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-sun",
+    "nom": "Light Blue Sun",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-summer-vibes",
+    "nom": "Light Blue Summer Vibes",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-capri-in-love",
+    "nom": "Light Blue Capri In Love",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-light-blue-italian-love",
+    "nom": "Light Blue Italian Love",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/gucci-lignum-idealis",
+  "type": "produit",
+  "marque": "Gucci",
+  "nom": "Lignum Idealis",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Gucci Lignum Idealis Parfum Mixte Algérie",
+  "notes": [
+   "Genièvre",
+   "Cyprès",
+   "Séquoia",
+   "Bois de Santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 7.1,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "gucci lignum idealis",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "lignum idealis",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   }
+  ],
+  "volumeNom": {
+   "k": "lignum idealis",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/hermes-concentre-d-orange-verte",
+  "type": "produit",
+  "marque": "Hermès",
+  "nom": "Concentré d'Orange Verte",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Hermès Concentré d'Orange Verte Parfum Mixte Algérie",
+  "notes": [
+   "Orange",
+   "Patchouli",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 10.9,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "concentré d'orange",
+    "imp": 1,
+    "clics": 0,
+    "pos": 29
+   },
+   {
+    "q": "سعر في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   }
+  ],
+  "volumeNom": {
+   "k": "concentre d orange verte",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jean-paul-gaultier-classique-airlines",
+  "type": "produit",
+  "marque": "Jean Paul Gaultier",
+  "nom": "Classique Airlines",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jean Paul Gaultier Classique Airlines Parfum Femme Algérie",
+  "notes": [
+   "Rhum",
+   "Rose",
+   "Narcisse",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 9.8,
+   "ctr": 0
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "classique airlines",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "jean-paul-gaultier-classique",
+    "nom": "Classique",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-classique-edp",
+    "nom": "Classique EDP",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-classique-pride-edition-2026",
+    "nom": "Classique Pride Edition 2026",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/guerlain-imperiale",
+  "type": "produit",
+  "marque": "Guerlain",
+  "nom": "Impériale",
+  "conc": "EDC",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Guerlain Impériale Parfum Femme Algérie",
+  "notes": [
+   "Agrumes",
+   "Verveine citronnée",
+   "Romarin"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 3,
+   "ctr": 11.1
+  },
+  "requetes": [
+   {
+    "q": "impérial parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   }
+  ],
+  "volumeNom": {
+   "k": "guerlain imperiale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/acqua-di-parma-oud-spice",
+  "type": "produit",
+  "marque": "Acqua di Parma",
+  "nom": "Oud & Spice",
+  "conc": "EDP",
+  "volume": "180ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Acqua di Parma Oud & Spice Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Framboise",
+   "Cannelle",
+   "Huile d'oud"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 9,
+   "pos": 6.1,
+   "ctr": 22.2
+  },
+  "requetes": [
+   {
+    "q": "acqua di parma oud and spice",
+    "imp": 3,
+    "clics": 1,
+    "pos": 4.7
+   },
+   {
+    "q": "oud spice",
+    "imp": 2,
+    "clics": 1,
+    "pos": 6
+   },
+   {
+    "q": "acqua di parma oud",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   }
+  ],
+  "volumeNom": {
+   "k": "oud spice",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "acqua-di-parma-oud",
+    "nom": "Oud",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cartier-declaration-cologne",
+  "type": "produit",
+  "marque": "Cartier",
+  "nom": "Declaration Cologne",
+  "conc": "Cologne",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Cartier Declaration Cologne Parfum Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Gingembre",
+   "Jasmin"
+  ],
+  "gsc": {
+   "clics": 1,
+   "imp": 9,
+   "pos": 6.3,
+   "ctr": 11.1
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "declaration cologne",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "declaration-cartier",
+    "nom": "Déclaration",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cartier-declaration-d-un-soir",
+    "nom": "Déclaration d'Un Soir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cartier-declaration-essence",
+    "nom": "Déclaration Essence",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cartier-declaration-haute-fraicheur",
+    "nom": "Déclaration Haute Fraîcheur",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chopard-happy-felicia-roses",
+  "type": "produit",
+  "marque": "Chopard",
+  "nom": "Happy Felicia Roses",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chopard Happy Felicia Roses Parfum Femme Algérie",
+  "notes": [
+   "Pamplemousse rose",
+   "Framboise",
+   "Rose de Damas",
+   "Bois de cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 6.2,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "chopard felicia roses",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "chopard happy felicia roses",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "felicia roses chopard",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "happy chopard felicia roses",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   }
+  ],
+  "volumeNom": {
+   "k": "happy felicia roses",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chopard-happy-bigaradia",
+    "nom": "Happy Bigaradia",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chopard-happy-lemon-dulci",
+    "nom": "Happy Lemon Dulci",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chopard-happy-magnolia-bouquet",
+    "nom": "Happy Magnolia Bouquet",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chopard-happy-lemon-dulci",
+  "type": "produit",
+  "marque": "Chopard",
+  "nom": "Happy Lemon Dulci",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chopard Happy Lemon Dulci Parfum Femme Algérie",
+  "notes": [
+   "Citron",
+   "Bergamote",
+   "Fleur d'oranger",
+   "Menthe"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 7.4,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "chopard lemon dulci",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "chopard happy lemon dulci",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "lemon dulci",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "lemon dulci chopard",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   }
+  ],
+  "volumeNom": {
+   "k": "happy lemon dulci",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chopard-happy-bigaradia",
+    "nom": "Happy Bigaradia",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chopard-happy-felicia-roses",
+    "nom": "Happy Felicia Roses",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chopard-happy-magnolia-bouquet",
+    "nom": "Happy Magnolia Bouquet",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/peace-love-and-juicy-couture",
+  "type": "produit",
+  "marque": "Juicy Couture",
+  "nom": "Peace, Love and Juicy Couture",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Peace, Love and Juicy Couture Parfum Femme Algérie",
+  "notes": [
+   "Jacinthe",
+   "Cassis",
+   "Fleur de tilleul",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 20.4,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "peace love and juicy couture",
+    "imp": 6,
+    "clics": 0,
+    "pos": 26
+   }
+  ],
+  "volumeNom": {
+   "k": "peace love and juicy couture",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-lacoste-l-12-rouge",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Eau de Lacoste L.12.12. Rouge",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Eau de Lacoste L.12.12. Rouge Parfum Homme Algérie",
+  "notes": [
+   "Mangue",
+   "Thé rooibos",
+   "Cardamome",
+   "Robinier (bois)"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 5.9,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "lacoste rouge",
+    "imp": 3,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "lacoste 12.12 rouge",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "parfum lacoste rouge",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   }
+  ],
+  "volumeNom": {
+   "k": "eau de lacoste l 12 12 rouge",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-noir-fraicheur",
+    "nom": "Eau de Lacoste L.12.12. Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-eau-de-pour-homme-l-12-magnetic",
+    "nom": "Eau de Pour Homme L.12.12 Magnetic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-blanc-pure-collector",
+    "nom": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-yellow-jaune-optimistic",
+    "nom": "Eau de Lacoste L.12.12 Yellow (Jaune) Optimistic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-magnetic",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Magnetic",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-sparkling",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Sparkling",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-french",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle French Panache",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-sparkling-collector-edition",
+    "nom": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lalique-le-baiser",
+  "type": "produit",
+  "marque": "Lalique",
+  "nom": "Le Baiser",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lalique Le Baiser Parfum Femme Algérie",
+  "notes": [
+   "Cassis",
+   "Gardénia",
+   "Poivre",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 8.2,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "baiser le prix",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   }
+  ],
+  "volumeNom": {
+   "k": "le baiser",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lalique-oriental-zinc",
+  "type": "produit",
+  "marque": "Lalique",
+  "nom": "Oriental Zinc",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lalique Oriental Zinc Parfum Mixte Algérie",
+  "notes": [
+   "Lavande",
+   "Figue",
+   "Poivre rose",
+   "Cannelle"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 9,
+   "pos": 7.3,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "lalique oriental zinc",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "oriental zinc lalique",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "teneur",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "volumeNom": {
+   "k": "oriental zinc",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mont-blanc-emblem-absolu",
+  "type": "produit",
+  "marque": "Mont Blanc",
+  "nom": "Emblem Absolu",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mont Blanc Emblem Absolu Parfum Homme Algérie",
+  "notes": [
+   "Poire",
+   "Cardamome",
+   "Fruits",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 9,
+   "pos": 5.2,
+   "ctr": 22.2
+  },
+  "requetes": [
+   {
+    "q": "mont blanc emblem absolu",
+    "imp": 3,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "prix algérie",
+    "imp": 1,
+    "clics": 1,
+    "pos": 2
+   },
+   {
+    "q": "هل هو مقطوع",
+    "imp": 1,
+    "clics": 1,
+    "pos": 1
+   },
+   {
+    "q": "montblanc emblem absolu",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   }
+  ],
+  "volumeNom": {
+   "k": "emblem absolu",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mont-blanc-emblem-intense",
+    "nom": "Emblem Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "mont-blanc-emblem",
+    "nom": "Emblem",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ }
+]

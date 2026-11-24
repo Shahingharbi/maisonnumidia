@@ -1,0 +1,2196 @@
+{
+ "slug": "givenchy",
+ "nom": "Givenchy",
+ "origine": "France",
+ "descriptionActuelle": "Maison parisienne fondée en 1952 par Hubert de Givenchy. Élégance et modernité.",
+ "nbFiches": 60,
+ "pages": [
+  {
+   "chemin": "/marques/givenchy",
+   "gsc": {
+    "clics": 7,
+    "imp": 218,
+    "pos": 5.1,
+    "ctr": 3.2
+   },
+   "requetes": [
+    {
+     "q": "givenchy",
+     "imp": 44,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "givenchy parfum",
+     "imp": 6,
+     "clics": 0,
+     "pos": 1.8
+    },
+    {
+     "q": "parfum givenchy",
+     "imp": 5,
+     "clics": 0,
+     "pos": 8.8
+    },
+    {
+     "q": "givenchy eau de parfum",
+     "imp": 3,
+     "clics": 0,
+     "pos": 1.3
+    },
+    {
+     "q": "parfums givenchy",
+     "imp": 2,
+     "clics": 0,
+     "pos": 13.5
+    },
+    {
+     "q": "algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "donne moi le prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "givenchi",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "givenchy perfume",
+     "imp": 1,
+     "clics": 0,
+     "pos": 38
+    },
+    {
+     "q": "givenchy xeryus noir",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "les parfums de givenchy",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "oui",
+     "imp": 1,
+     "clics": 0,
+     "pos": 5
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "l'interdit givenchy",
+     "vol": 1900,
+     "posMust": 2,
+     "notrePos": 46
+    },
+    {
+     "k": "irresistible givenchy",
+     "vol": 1300,
+     "posMust": 1,
+     "notrePos": 19
+    },
+    {
+     "k": "irrésistible givenchy",
+     "vol": 1300,
+     "posMust": 1,
+     "notrePos": null
+    },
+    {
+     "k": "givenchy l'interdit",
+     "vol": 1000,
+     "posMust": 2,
+     "notrePos": 25
+    },
+    {
+     "k": "interdit givenchy",
+     "vol": 1000,
+     "posMust": 2,
+     "notrePos": 38
+    },
+    {
+     "k": "givenchy gentleman",
+     "vol": 720,
+     "posMust": 3,
+     "notrePos": 36
+    },
+    {
+     "k": "givenchy irresistible",
+     "vol": 720,
+     "posMust": 1,
+     "notrePos": 37
+    },
+    {
+     "k": "givenchy irrésistible",
+     "vol": 720,
+     "posMust": 1,
+     "notrePos": 32
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/givenchy",
+   "gsc": {
+    "clics": 10,
+    "imp": 66,
+    "pos": 10.7,
+    "ctr": 15.2
+   },
+   "requetes": [
+    {
+     "q": "givenchy parfum homme",
+     "imp": 4,
+     "clics": 0,
+     "pos": 17.3
+    },
+    {
+     "q": "ou acheter a alger",
+     "imp": 2,
+     "clics": 1,
+     "pos": 5.5
+    },
+    {
+     "q": "givenchy rouge homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "parfum givenchy homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 21
+    },
+    {
+     "q": "a alger",
+     "imp": 1,
+     "clics": 1,
+     "pos": 2
+    },
+    {
+     "q": "meilleur prix",
+     "imp": 1,
+     "clics": 1,
+     "pos": 2
+    },
+    {
+     "q": "givenchy homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 31
+    },
+    {
+     "q": "oui",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "givenchy parfum femme",
+     "vol": 590,
+     "posMust": 2,
+     "notrePos": 28
+    },
+    {
+     "k": "givenchy parfums femme",
+     "vol": 590,
+     "posMust": 6,
+     "notrePos": 19
+    },
+    {
+     "k": "parfum givenchy femme",
+     "vol": 590,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "parfums givenchy femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "givenchy parfum homme",
+     "vol": 390,
+     "posMust": 3,
+     "notrePos": 25
+    },
+    {
+     "k": "parfum givenchy homme",
+     "vol": 390,
+     "posMust": 4,
+     "notrePos": 20
+    },
+    {
+     "k": "givenchy parfums homme",
+     "vol": 390,
+     "notrePos": 22
+    },
+    {
+     "k": "l'interdit givenchy femme",
+     "vol": 110,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/givenchy",
+   "gsc": {
+    "clics": 3,
+    "imp": 120,
+    "pos": 8.3,
+    "ctr": 2.5
+   },
+   "requetes": [
+    {
+     "q": "parfum givenchy femme prix algérie",
+     "imp": 23,
+     "clics": 1,
+     "pos": 5.5
+    },
+    {
+     "q": "givenchy femme",
+     "imp": 5,
+     "clics": 0,
+     "pos": 5.6
+    },
+    {
+     "q": "givenchy parfum femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 29.5
+    },
+    {
+     "q": "parfum givenchy femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 32
+    },
+    {
+     "q": "prix parfum givenchy femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 17.5
+    },
+    {
+     "q": "eau de parfum hot couture givenchy",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "givenchy femme parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 29
+    },
+    {
+     "q": "givenchy parfum femme prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 28
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "givenchy parfum femme",
+     "vol": 590,
+     "posMust": 2,
+     "notrePos": 28
+    },
+    {
+     "k": "givenchy parfums femme",
+     "vol": 590,
+     "posMust": 6,
+     "notrePos": 19
+    },
+    {
+     "k": "parfum givenchy femme",
+     "vol": 590,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "parfums givenchy femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "givenchy parfum homme",
+     "vol": 390,
+     "posMust": 3,
+     "notrePos": 25
+    },
+    {
+     "k": "parfum givenchy homme",
+     "vol": 390,
+     "posMust": 4,
+     "notrePos": 20
+    },
+    {
+     "k": "l'interdit givenchy femme",
+     "vol": 110,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "givenchy femme parfum",
+     "vol": 70,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/givenchy",
+   "gsc": {
+    "clics": 0,
+    "imp": 6,
+    "pos": 8.7,
+    "ctr": 0
+   },
+   "requetes": [],
+   "motsCles": [
+    {
+     "k": "givenchy parfum femme",
+     "vol": 590,
+     "posMust": 2,
+     "notrePos": 28
+    },
+    {
+     "k": "givenchy parfums femme",
+     "vol": 590,
+     "posMust": 6,
+     "notrePos": 19
+    },
+    {
+     "k": "parfum givenchy femme",
+     "vol": 590,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "parfums givenchy femme",
+     "vol": 590,
+     "posMust": 3,
+     "notrePos": null
+    },
+    {
+     "k": "givenchy parfum homme",
+     "vol": 390,
+     "posMust": 3,
+     "notrePos": 25
+    },
+    {
+     "k": "parfum givenchy homme",
+     "vol": 390,
+     "posMust": 4,
+     "notrePos": 20
+    },
+    {
+     "k": "l'interdit givenchy femme",
+     "vol": 110,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "givenchy femme parfum",
+     "vol": 70,
+     "posMust": 2,
+     "notrePos": null
+    }
+   ]
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "givenchy-irresistible",
+   "nom": "Irresistible",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Poire",
+     "Ambrette"
+    ],
+    "heart": [
+     "Rose",
+     "Iris"
+    ],
+    "base": [
+     "Musc",
+     "Cèdre de Virginie"
+    ]
+   },
+   "imp90j": 987,
+   "clics90j": 31,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "givenchy-gentleman",
+   "nom": "Gentleman",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Poivre Noir",
+     "Lavande"
+    ],
+    "heart": [
+     "Iris",
+     "Patchouli",
+     "Vétiver"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Musc Blanc"
+    ]
+   },
+   "imp90j": 157,
+   "clics90j": 6,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "givenchy-l-interdit",
+   "nom": "L'Interdit",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Poudré",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Fleur d'Oranger",
+     "Poire",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Ylang-Ylang",
+     "Pivoine"
+    ],
+    "base": [
+     "Patchouli",
+     "Ambroxan",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 366,
+   "clics90j": 11,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "givenchy-l-interdit-rouge",
+   "nom": "L'Interdit Rouge",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Épicé",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Orange Sanguine",
+     "Gingembre"
+    ],
+    "heart": [
+     "Jasmin",
+     "Tubéreuse",
+     "Feuilles de Piment"
+    ],
+    "base": [
+     "Vétiver",
+     "Patchouli",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 67,
+   "clics90j": 2,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "givenchy-eau-de-rosee",
+   "nom": "Eau de Rosée",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Musqué",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Osmanthus",
+     "Mandarine"
+    ],
+    "heart": [
+     "Rose",
+     "Jacinthe d'eau",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Musc blanc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 6,
+   "clics90j": 0,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "givenchy-play",
+   "nom": "Play",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Orange amère",
+     "Pamplemousse",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Café",
+     "Poivre",
+     "Amyris",
+     "Fleur de tabac"
+    ],
+    "base": [
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 782,
+   "clics90j": 25,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "givenchy-gentleman-society",
+   "nom": "Gentleman Society",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Sauge",
+     "Jonquille"
+    ],
+    "heart": [
+     "Vétiver"
+    ],
+    "base": [
+     "Cèdre",
+     "Bois de Santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 658,
+   "clics90j": 20,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "givenchy-dahlia-noir",
+   "nom": "Dahlia Noir",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 18000,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Mimosa",
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris",
+     "Rose",
+     "Patchouli"
+    ],
+    "base": [
+     "Bois de santal",
+     "Fève tonka",
+     "Vanille",
+     "Mousse de chêne"
+    ]
+   },
+   "imp90j": 665,
+   "clics90j": 29,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "givenchy-blue-label",
+   "nom": "Blue Label",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 17000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Bergamote",
+     "Hédione"
+    ],
+    "heart": [
+     "Lavande",
+     "Cardamome verte",
+     "Poivre noir"
+    ],
+    "base": [
+     "Cèdre",
+     "Vétiver",
+     "Encens"
+    ]
+   },
+   "imp90j": 168,
+   "clics90j": 6,
+   "volumeRecherche": 140
+  },
+  {
+   "slug": "givenchy-pi",
+   "nom": "Pi",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Basilic",
+     "Romarin",
+     "Estragon",
+     "Néroli"
+    ],
+    "heart": [
+     "Bois de gaïac"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 136,
+   "clics90j": 11,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "givenchy-very-irresistible",
+   "nom": "Very Irrésistible",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Cassie",
+     "Verveine citronnée",
+     "Anis étoilé"
+    ],
+    "heart": [
+     "Rose",
+     "Pivoine",
+     "Magnolia"
+    ],
+    "base": [
+     "Rose de Taïf",
+     "Musc",
+     "Vanille",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 179,
+   "clics90j": 10,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "givenchy-xeryus-rouge",
+   "nom": "Xeryus Rouge",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Orientale",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Cactus",
+     "Orange de Chine",
+     "Estragon"
+    ],
+    "heart": [
+     "Piment",
+     "Géranium africain",
+     "Cèdre"
+    ],
+    "base": [
+     "Santal",
+     "Cèdre",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 229,
+   "clics90j": 21,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "givenchy-l-interdit-rouge-ultime",
+   "nom": "L'Interdit Rouge Ultime",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Fleur d'Oranger",
+     "Jasmin Sambac"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Fèves de Cacao Recyclées"
+    ],
+    "base": [
+     "Patchouli",
+     "Vétiver",
+     "Ambroxan"
+    ]
+   },
+   "imp90j": 75,
+   "clics90j": 3,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "givenchy-amarige",
+   "nom": "Amarige",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Gardénia",
+     "Rose damascena",
+     "Mimosa",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 211,
+   "clics90j": 7,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "givenchy-l-interdit-absolu",
+   "nom": "L'Interdit Absolu",
+   "conc": "EDP Intense",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Oriental Floral Boisé",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Cardamome",
+     "Néroli"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Tubéreuse",
+     "Jasmin"
+    ],
+    "base": [
+     "Vétiver",
+     "Patchouli",
+     "Tabac"
+    ]
+   },
+   "imp90j": 42,
+   "clics90j": 2,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "organza-givenchy",
+   "nom": "Organza",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Abricot",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Ylang-Ylang",
+     "Lis Blanc",
+     "Magnolia",
+     "Rose"
+    ],
+    "base": [
+     "Vanille",
+     "Musc Blanc",
+     "Bois de Santal",
+     "Ambre"
+    ]
+   },
+   "imp90j": 211,
+   "clics90j": 11,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "givenchy-gentleman-reserve-privee",
+   "nom": "Gentleman Reserve Privée",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boise Ambre",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris",
+     "Chataigne"
+    ],
+    "base": [
+     "Whisky",
+     "Notes boisees",
+     "Ambre"
+    ]
+   },
+   "imp90j": 146,
+   "clics90j": 5,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "givenchy-ange-ou-demon-le-secret",
+   "nom": "Ange ou Démon Le Secret",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Thé",
+     "Canneberge",
+     "Citron Amalfi"
+    ],
+    "heart": [
+     "Pivoine",
+     "Jasmin",
+     "Nénuphar"
+    ],
+    "base": [
+     "Notes boisées",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 173,
+   "clics90j": 13,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "givenchy-pour-homme",
+   "nom": "pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Mandarine",
+     "Coriandre",
+     "Violette"
+    ],
+    "heart": [
+     "Lavande",
+     "Davana",
+     "Vétiver"
+    ],
+    "base": [
+     "Cèdre",
+     "Oliban"
+    ]
+   },
+   "imp90j": 35,
+   "clics90j": 2,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "givenchy-irresistible-rose-velvet",
+   "nom": "Irrésistible Rose Velvet",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Rose",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Cassis"
+    ],
+    "heart": [
+     "Eau de rose concentrée",
+     "Essence de rose douce",
+     "Rose Ultimate Extrait",
+     "Rose musquée",
+     "Iris"
+    ],
+    "base": [
+     "Patchouli blanc",
+     "Notes boisées tendres"
+    ]
+   },
+   "imp90j": 169,
+   "clics90j": 7,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "givenchy-l-interdit-intense",
+   "nom": "L'Interdit Intense",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Poivre Rouge",
+     "Fleurs Blanches",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fleur d'Oranger",
+     "Jasmin",
+     "Iris Sombre"
+    ],
+    "base": [
+     "Patchouli Sombre",
+     "Musc Intense",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 166,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "givenchy-l-interdit-elixir",
+   "nom": "L'Interdit Elixir",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Cerise noire",
+     "Amande amere"
+    ],
+    "heart": [
+     "Tubereuse",
+     "Jasmin Sambac",
+     "Fleur d'oranger",
+     "Chene"
+    ],
+    "base": [
+     "Vanille",
+     "Rhum",
+     "Patchouli",
+     "Vetiver",
+     "Davana"
+    ]
+   },
+   "imp90j": 125,
+   "clics90j": 14,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "givenchy-dahlia-divin",
+   "nom": "Dahlia Divin",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Prune mirabelle"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Fleurs blanches"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 159,
+   "clics90j": 14,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "ange-ou-demon-givenchy",
+   "nom": "Ange ou Démon",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Magnolia Blanc",
+     "Notes Vertes",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubéreuse Blanche",
+     "Jasmin Blanc",
+     "Pêche"
+    ],
+    "base": [
+     "Encens",
+     "Vétiver",
+     "Ambre",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 56,
+   "clics90j": 5,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "givenchy-dahlia-divin-le-nectar",
+   "nom": "Dahlia Divin Le Nectar",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": false,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Mimosa",
+     "Pêche",
+     "Bergamote"
+    ],
+    "heart": [
+     "Santal Blanc de Mysore",
+     "Rose Noire",
+     "Jasmin"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc Sombre",
+     "Ambre"
+    ]
+   },
+   "imp90j": 145,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-trouble-fete",
+   "nom": "Trouble-Fête",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Vert",
+   "enStock": true,
+   "prix": 58500,
+   "notes": {
+    "top": [
+     "Feuille de figuier"
+    ],
+    "heart": [
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Sésame grillé",
+     "Encens"
+    ]
+   },
+   "imp90j": 105,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "givenchy-faux-semblant",
+   "nom": "Faux Semblant",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Oliban",
+     "Angélique"
+    ],
+    "heart": [
+     "Miel",
+     "Fleur d'oranger",
+     "Patchouli",
+     "Labdanum d'Espagne",
+     "Ambre"
+    ],
+    "base": [
+     "Bois d'agar (Oud)",
+     "Santal blanc"
+    ]
+   },
+   "imp90j": 42,
+   "clics90j": 0,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "givenchy-oiseau-rare",
+   "nom": "Oiseau Rare",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Poivre",
+     "Tubéreuse",
+     "Pittosporum"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille absolue",
+     "Cèdre",
+     "Vétiver",
+     "Bois de gaïac"
+    ]
+   },
+   "imp90j": 111,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-hot-couture",
+   "nom": "Hot Couture",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Gourmand",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Citron",
+     "Feuille de Violette"
+    ],
+    "heart": [
+     "Pivoine",
+     "Rose",
+     "Magnolia",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Musc Blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 108,
+   "clics90j": 10,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-play-intense",
+   "nom": "Play Intense",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Orientale",
+   "enStock": true,
+   "prix": 44500,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Café",
+     "Poivre rose",
+     "Amyris"
+    ],
+    "base": [
+     "Fève tonka",
+     "Patchouli",
+     "Vétiver",
+     "Labdanum français"
+    ]
+   },
+   "imp90j": 93,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-irresistible-very-floral",
+   "nom": "Irresistible Very Floral",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Boise Solaire",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Eau de coco",
+     "Cassis"
+    ],
+    "heart": [
+     "Rose essentielle",
+     "Rose absolue",
+     "Iris",
+     "Ylang Ylang",
+     "Jasmin"
+    ],
+    "base": [
+     "Cedre",
+     "Accord solaire",
+     "Ambrette",
+     "Sinfonide",
+     "Ambrettolide"
+    ]
+   },
+   "imp90j": 27,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "givenchy-gentleman-society-sport",
+   "nom": "Gentleman Society Sport",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Citron"
+    ],
+    "heart": [
+     "Vétiver",
+     "Narcisse"
+    ],
+    "base": [
+     "Cèdre"
+    ]
+   },
+   "imp90j": 26,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "givenchy-live-irresistible",
+   "nom": "Live Irrésistible",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Gourmand",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Poire effervescente",
+     "Bergamote",
+     "Rhubarbe"
+    ],
+    "heart": [
+     "Pivoine rose",
+     "Rose de mai",
+     "Caramel beurré léger"
+    ],
+    "base": [
+     "Musc blanc",
+     "Patchouli léger",
+     "Ambre sucré"
+    ]
+   },
+   "imp90j": 78,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-gentlemen-only",
+   "nom": "Gentlemen Only",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boise Epice",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Mandarine verte",
+     "Poivre rose",
+     "Muscade",
+     "Feuille de bouleau"
+    ],
+    "heart": [
+     "Cedre",
+     "Patchouli",
+     "Vetiver"
+    ],
+    "base": [
+     "Encens",
+     "Notes animales"
+    ]
+   },
+   "imp90j": 47,
+   "clics90j": 4,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "givenchy-enflamme",
+   "nom": "Enflammé",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Labdanum d'Espagne et du Portugal",
+     "Café absolu du Brésil"
+    ],
+    "heart": [
+     "Tabac absolu turc balkanique",
+     "Patchouli d'Indonésie"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Baume de tolu du Salvador"
+    ]
+   },
+   "imp90j": 71,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-organza-indecence",
+   "nom": "Organza Indécence",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 36500,
+   "notes": {
+    "top": [
+     "Bois de rose brésilien",
+     "Patchouli"
+    ],
+    "heart": [
+     "Cannelle de Ceylan",
+     "Prune"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 65,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-l-interdit-angelique-rouge",
+   "nom": "L'Interdit Angélique Rouge",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Angélique",
+     "Figue de barbarie",
+     "Gingembre"
+    ],
+    "heart": [
+     "Fleurs blanches",
+     "Angélique"
+    ],
+    "base": [
+     "Vétiver d'Haïti",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "givenchy-xeryus",
+   "nom": "Xeryus",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Jasmin",
+     "Notes vertes",
+     "Citron",
+     "Violette",
+     "Bergamote",
+     "Fleur de muscade",
+     "Mandarine",
+     "Muguet",
+     "Ylang-ylang",
+     "Rose"
+    ],
+    "heart": [
+     "Cyprès",
+     "Baies de genièvre",
+     "Œillet",
+     "Géranium",
+     "Estragon",
+     "Coriandre",
+     "Bois de santal",
+     "Petit grain",
+     "Cyclamen",
+     "Cannelle"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Baume de sapin",
+     "Cuir",
+     "Vétiver",
+     "Ambre",
+     "Cèdre",
+     "Encens",
+     "Musc"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "givenchy-ange-ou-demon-le-secret-elixir",
+   "nom": "Ange ou Démon Le Secret Elixir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": false,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Thé",
+     "Citron d'Amalfi",
+     "Néroli"
+    ],
+    "heart": [
+     "Jasmin",
+     "Frangipanier",
+     "Fleur d'oranger d'Afrique"
+    ],
+    "base": [
+     "Vanille",
+     "Patchouli",
+     "Cèdre de Virginie",
+     "Musc"
+    ]
+   },
+   "imp90j": 49,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-gentlemen-only-absolute",
+   "nom": "Gentlemen Only Absolute",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Muscade",
+     "Cannelle",
+     "Safran"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 46,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-very-irresistible-l-eau-en-rose",
+   "nom": "Very Irresistible L'Eau en Rose",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 18000,
+   "notes": {
+    "top": [
+     "Mûre"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Musc"
+    ]
+   },
+   "imp90j": 46,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-insense-ultramarine",
+   "nom": "Insensé Ultramarine",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 15000,
+   "notes": {
+    "top": [
+     "Pastèque",
+     "Cassis",
+     "Bergamote",
+     "Galbanum"
+    ],
+    "heart": [
+     "Iris",
+     "Magnolia",
+     "Menthe",
+     "Œillet",
+     "Muguet",
+     "Cardamome",
+     "Sauge"
+    ],
+    "base": [
+     "Tabac",
+     "Vétiver",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-live-irresistible-blossom-crush",
+   "nom": "Live Irresistible Blossom Crush",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Fruite",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Orange amere",
+     "Bergamote"
+    ],
+    "heart": [
+     "Pivoine",
+     "Pomme",
+     "Cassis",
+     "Framboise",
+     "Rose"
+    ],
+    "base": [
+     "Cacao",
+     "Vanille",
+     "Cashmeran",
+     "Musc",
+     "Bois ambre"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-gentleman-society-extreme",
+   "nom": "Gentleman Society Extrême",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Floral Épicé",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Sauge sclarée",
+     "Menthe poivrée",
+     "Muscade"
+    ],
+    "heart": [
+     "Absolue de narcisse",
+     "Concrète d'iris",
+     "Vétiver"
+    ],
+    "base": [
+     "Cèdre",
+     "Santal",
+     "Essence de patchouli",
+     "Absolue de vanille"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-gentleman-cologne",
+   "nom": "Gentleman Cologne",
+   "conc": "Cologne",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron",
+     "Petit grain"
+    ],
+    "heart": [
+     "Iris",
+     "Vétiver",
+     "Romarin"
+    ],
+    "base": [
+     "Musc",
+     "Ambroxan"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-l-interdit-edition-couture",
+   "nom": "L'Interdit Edition Couture",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": false,
+   "prix": 18000,
+   "notes": {
+    "top": [
+     "Poire",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Fleur d'oranger de Tunisie",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Patchouli",
+     "Ambroxan",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-temeraire",
+   "nom": "Téméraire",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Clou de girofle",
+     "Cardamome"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin",
+     "Iris"
+    ],
+    "base": [
+     "Encre",
+     "Huile de cade",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-irresistible-eau-fraiche",
+   "nom": "Irresistible Eau Fraîche",
+   "conc": "EDT",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Orange pétillante"
+    ],
+    "heart": [
+     "Rose fraîche",
+     "Iris"
+    ],
+    "base": [
+     "Bois de cèdre",
+     "Musc"
+    ]
+   },
+   "imp90j": 22,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-indompte",
+   "nom": "Indompté",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Cuir Boisé",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Mandarine de Sicile"
+    ],
+    "heart": [
+     "Cuir"
+    ],
+    "base": [
+     "Bois d'agar (Oud)"
+    ]
+   },
+   "imp90j": 22,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-irresistible-nude-velvet",
+   "nom": "Irresistible Nude Velvet",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Poudré",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Amande",
+     "Ambrette",
+     "Neroli"
+    ],
+    "heart": [
+     "Rose",
+     "Iris"
+    ],
+    "base": [
+     "Bois de cedre",
+     "Musc",
+     "Accord poudre de riz"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-l-ange-noir",
+   "nom": "L'Ange Noir",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Bergamote de Calabre"
+    ],
+    "heart": [
+     "Pivoine",
+     "Iris blanc",
+     "Sésame"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc",
+     "Santal",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-gentleman-society-ambree",
+   "nom": "Gentleman Society Ambrée",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Ambré",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Muscade",
+     "Sauge sclarée",
+     "Baies de genièvre"
+    ],
+    "heart": [
+     "Iris",
+     "Narcisse",
+     "Bois de santal",
+     "Vetiver de Madagascar",
+     "Vetiver d'Haïti"
+    ],
+    "base": [
+     "Tabac",
+     "Vanille de Madagascar",
+     "Baume du Pérou"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-lovely-prism",
+   "nom": "Lovely Prism",
+   "conc": "EDT",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": false,
+   "prix": 7800,
+   "notes": {
+    "top": [
+     "Pomme verte",
+     "Cassis"
+    ],
+    "heart": [
+     "Magnolia"
+    ],
+    "base": [
+     "Santal",
+     "Iris"
+    ]
+   },
+   "imp90j": 15,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-monsieur-de-givenchy",
+   "nom": "Monsieur de Givenchy",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Lavande",
+     "Coriandre"
+    ],
+    "heart": [
+     "Bois de Rose",
+     "Jasmin",
+     "Géranium"
+    ],
+    "base": [
+     "Vétiver",
+     "Bois de Santal",
+     "Musc"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-live-irresistible-rosy-crush",
+   "nom": "Live Irresistible Rosy Crush",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Chypre Floral",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Baies de goji",
+     "Poivre rose",
+     "Orange",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose",
+     "Pivoine"
+    ],
+    "base": [
+     "Musc",
+     "Vanille",
+     "Patchouli",
+     "Ambroxan"
+    ]
+   },
+   "imp90j": 12,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-irresistible-nectar",
+   "nom": "Irrésistible Nectar",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Floral Gourmand",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Néroli"
+    ],
+    "heart": [
+     "Rose",
+     "Pétales de rose"
+    ],
+    "base": [
+     "Crème",
+     "Vanille",
+     "Pistache",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "givenchy-eaudemoiselle-de-absolu-d-oranger",
+   "nom": "Eaudemoiselle de Absolu d'Oranger",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Fleur d'oranger",
+     "Rose",
+     "Jasmin"
+    ],
+    "heart": [
+     "Notes boisées",
+     "Encens",
+     "Riz"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 2,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "givenchy-ange-ou-demon-le-parfum-accord-illicite",
+   "nom": "Ange ou Démon Le Parfum & Accord Illicite",
+   "conc": "Parfum",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 34000,
+   "notes": {
+    "top": [
+     "Mandarine"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Cuir",
+     "Musc blanc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 25,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "givenchy-very-irresistible-summer-cocktail-fresh",
+   "nom": "Very Irresistible Summer Cocktail - Fresh Attitude for Men",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique",
+   "enStock": false,
+   "prix": 12000,
+   "notes": {
+    "top": [
+     "Menthe",
+     "Basilic",
+     "Pamplemousse",
+     "Anis étoilé",
+     "Cardamome"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 14,
+   "clics90j": 2,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "givenchy-eau-de-2018",
+   "nom": "Eau de (2018)",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé",
+   "enStock": true,
+   "prix": 16000,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Amande amère",
+     "Petit grain"
+    ],
+    "heart": [
+     "Fleur d'oranger absolue"
+    ],
+    "base": [
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

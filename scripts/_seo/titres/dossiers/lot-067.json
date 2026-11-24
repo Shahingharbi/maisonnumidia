@@ -1,0 +1,1347 @@
+[
+ {
+  "chemin": "/parfums/xerjoff-aqua-regia",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Aqua Regia",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Aqua Regia Parfum Mixte Algérie",
+  "notes": [
+   "Cuir",
+   "Bergamote de Calabre",
+   "Violette",
+   "Cedre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "aqua regia",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-astaral",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Astaral",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Astaral Parfum Mixte Algérie",
+  "notes": [
+   "Shamama Attar",
+   "Poivre rose",
+   "Rose",
+   "Bois d'agar (Oud)"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff astaral",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-duran-black-moonlight",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Duran Duran Black Moonlight",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Duran Duran Black Moonlight Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Cardamome",
+   "Myrrhe",
+   "Baume de Tolu"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "duran duran black moonlight",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-duran-neorio",
+    "nom": "Duran Duran NeoRio",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-blue-hope",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Blue Hope",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Blue Hope Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Mandarine",
+   "Safran",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "blue hope",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-italica",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Italica",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Italica Parfum Mixte Algérie",
+  "notes": [
+   "Amande",
+   "Lait",
+   "Bourbon",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff italica",
+   "vol": 50
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-cruz-del-sur-i",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Cruz del Sur I",
+  "conc": "Extrait de Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Cruz del Sur I Parfum Mixte Algérie",
+  "notes": [
+   "Rhum",
+   "Raisin",
+   "Fruits secs",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "cruz del sur i",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-cruz-del-sur-ii",
+    "nom": "Cruz del Sur II",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-cruz-del-sur-ii",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Cruz del Sur II",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Cruz del Sur II Parfum Mixte Algérie",
+  "notes": [
+   "Mangue",
+   "Goyave",
+   "Cassis",
+   "Lait"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "cruz del sur ii",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-cruz-del-sur-i",
+    "nom": "Cruz del Sur I",
+    "conc": "Extrait de Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-damarose-perfume-extract",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Damarose Perfume Extract",
+  "conc": "Extrait de Parfum",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Damarose Perfume Extract Parfum Femme Algérie",
+  "notes": [
+   "Baies rouges",
+   "Freesia",
+   "Rose de Turquie",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "damarose perfume extract",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-dolce-amalfi",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Dolce Amalfi",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Dolce Amalfi Parfum Mixte Algérie",
+  "notes": [
+   "Coing",
+   "Cardamome",
+   "Clou de girofle",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "dolce amalfi",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-duran-neorio",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Duran Duran NeoRio",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Duran Duran NeoRio Parfum Mixte Algérie",
+  "notes": [
+   "Rhum",
+   "Figue",
+   "Sirop d erable",
+   "Baume du Perou"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "duran duran neorio",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-duran-black-moonlight",
+    "nom": "Duran Duran Black Moonlight",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-empiryan",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Empiryan",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Empiryan Parfum Mixte Algérie",
+  "notes": [
+   "Feuille de tabac",
+   "Cypriol",
+   "Encens",
+   "Vanille de Madagascar"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff empiryan",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-ether",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Ether",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Ether Parfum Mixte Algérie",
+  "notes": [
+   "Rose de Bulgarie",
+   "Orange du Bresil",
+   "Benjoin",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff ether",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-golden-dallah",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Golden Dallah",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Golden Dallah Parfum Mixte Algérie",
+  "notes": [
+   "Épices exotiques",
+   "Café",
+   "Cacao"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "golden dallah",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-golden-moka",
+    "nom": "Golden Moka",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "xerjoff-golden-green",
+    "nom": "Golden Green",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-golden-green",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Golden Green",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Golden Green Parfum Mixte Algérie",
+  "notes": [
+   "Cardamome",
+   "Baies de genièvre",
+   "Cèdre",
+   "Café"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "golden green",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-golden-moka",
+    "nom": "Golden Moka",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "xerjoff-golden-dallah",
+    "nom": "Golden Dallah",
+    "conc": "Parfum",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-groove-xcape",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Groove Xcape",
+  "conc": "Extrait de Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Groove Xcape Parfum Mixte Algérie",
+  "notes": [
+   "Poivre",
+   "Élémi",
+   "Encens",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "groove xcape",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-hayat",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Hayat",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Hayat Parfum Mixte Algérie",
+  "notes": [
+   "Lavande",
+   "Orange amere",
+   "Cardamome",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff hayat",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-homme-anniversary",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Homme Anniversary",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Homme Anniversary Parfum Mixte Algérie",
+  "notes": [
+   "Estragon",
+   "Citron",
+   "Cuir",
+   "Mousse"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "homme anniversary",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-jabir",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Jābir",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Jābir Parfum Mixte Algérie",
+  "notes": [
+   "Freesia",
+   "Violette",
+   "Muguet",
+   "Oud du Laos"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff jabir",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-jtc-400",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "JTC 400",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff JTC 400 Parfum Mixte Algérie",
+  "notes": [
+   "Miel",
+   "Orange amère",
+   "Fleur d'oranger",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "jtc 400",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-k-bridge-club",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "K'Bridge Club",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff K'Bridge Club Parfum Mixte Algérie",
+  "notes": [
+   "Rose de Bulgarie",
+   "Rose",
+   "Vanille bourbon"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "k bridge club",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-lua",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Lua",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Lua Parfum Femme Algérie",
+  "notes": [
+   "Melon",
+   "Orange",
+   "Iris",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff lua",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-luna",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Luna",
+  "conc": "Extrait de Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Luna Parfum Mixte Algérie",
+  "notes": [
+   "Patchouli de Singapour",
+   "Citron",
+   "Iris",
+   "Caramel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff luna",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-zafar",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Zafar",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Zafar Parfum Mixte Algérie",
+  "notes": [
+   "Poivre noir",
+   "Rose",
+   "Oud",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff zafar",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-regio",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Regio",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Regio Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Lavande",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff regio",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-richwood",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Richwood",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Richwood Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine",
+   "Pamplemousse",
+   "Rose de Damas",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff richwood",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-p-33",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "P.33",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff P.33 Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Pamplemousse",
+   "Iris",
+   "Bois de cedre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "p 33",
+   "vol": 40
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "xerjoff-p-33-blank-page-edition",
+    "nom": "P.33 Blank Page Edition",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-soprano",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Soprano",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Soprano Parfum Mixte Algérie",
+  "notes": [
+   "Litchi",
+   "Bergamote",
+   "Rose",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff soprano",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-symphonium",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Symphonium",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Symphonium Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine d Espagne",
+   "Orange",
+   "Cardamome indien",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff symphonium",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-deified-tony-iommi-parfum",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Deified Tony Iommi Parfum",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Deified Tony Iommi Parfum Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Pomme",
+   "Cuir",
+   "Papyrus"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "deified tony iommi parfum",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-torino23",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Torino23",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Torino23 Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Néroli",
+   "Rose",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff torino23",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-torino24",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Torino24",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Torino24 Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine",
+   "Mangue",
+   "Lotus rose",
+   "Mousse"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff torino24",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-torino25",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Torino25",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Torino25 Parfum Mixte Algérie",
+  "notes": [
+   "Rhubarbe",
+   "Pamplemousse",
+   "Daim",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff torino25",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-uden-overdose",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Uden Overdose",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Xerjoff Uden Overdose Parfum Mixte Algérie",
+  "notes": [
+   "Citron",
+   "Bergamote",
+   "Fleur de tabac",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "uden overdose",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-via-cavour-i",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Via Cavour I",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Xerjoff Via Cavour I Parfum Mixte Algérie",
+  "notes": [
+   "Coing",
+   "Pêche blanche",
+   "Chocolat noir",
+   "Caramel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "via cavour i",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-wabar",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Wabar",
+  "conc": "Parfum",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Wabar Parfum Femme Algérie",
+  "notes": [
+   "Anis étoilé",
+   "Bergamote",
+   "Magnolia",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff wabar",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/xerjoff-wardasina",
+  "type": "produit",
+  "marque": "Xerjoff",
+  "nom": "Wardasina",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Xerjoff Wardasina Parfum Mixte Algérie",
+  "notes": [
+   "Notes vertes",
+   "Rose de Bulgarie",
+   "Tabac"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "xerjoff wardasina",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-hello-printemps",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Hello Printemps",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Hello Printemps Parfum Mixte Algérie",
+  "notes": [
+   "Cassis",
+   "Agrumes",
+   "Palmarosa",
+   "Rhubarbe"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hello printemps",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-l-evidence",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "L'Evidence",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher L'Evidence Parfum Femme Algérie",
+  "notes": [
+   "Peche",
+   "Bergamote",
+   "Magnolia",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l evidence",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-mon-evidence",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Mon Evidence",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher Mon Evidence Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Bergamote",
+   "Rose de Damas",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mon evidence",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yves-rocher-mon-rouge",
+    "nom": "Mon Rouge!",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-quelques-notes-d-amour",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Quelques Notes d'Amour",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher Quelques Notes d'Amour Parfum Femme Algérie",
+  "notes": [
+   "Poivre rose",
+   "Bergamote",
+   "Rose de Damas",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "quelques notes d amour",
+   "vol": 260
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ }
+]

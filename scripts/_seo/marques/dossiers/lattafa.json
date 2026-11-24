@@ -1,0 +1,775 @@
+{
+ "slug": "lattafa",
+ "nom": "Lattafa",
+ "origine": "Émirats Arabes Unis",
+ "descriptionActuelle": "Maison émiratie spécialisée dans les parfums orientaux de qualité à prix accessible.",
+ "nbFiches": 19,
+ "pages": [
+  {
+   "chemin": "/marques/lattafa",
+   "gsc": {
+    "clics": 212,
+    "imp": 2086,
+    "pos": 6,
+    "ctr": 10.2
+   },
+   "requetes": [
+    {
+     "q": "lattafa algerie",
+     "imp": 20,
+     "clics": 2,
+     "pos": 6
+    },
+    {
+     "q": "lattafa parfum algerie",
+     "imp": 17,
+     "clics": 4,
+     "pos": 3.8
+    },
+    {
+     "q": "lattafa parfum prix algérie",
+     "imp": 12,
+     "clics": 0,
+     "pos": 5.2
+    },
+    {
+     "q": "نعم",
+     "imp": 12,
+     "clics": 0,
+     "pos": 5.1
+    },
+    {
+     "q": "lattafa parfum prix algerie",
+     "imp": 9,
+     "clics": 2,
+     "pos": 4.2
+    },
+    {
+     "q": "lattafa",
+     "imp": 8,
+     "clics": 0,
+     "pos": 11.9
+    },
+    {
+     "q": "lattafa asad algerie",
+     "imp": 6,
+     "clics": 0,
+     "pos": 5.7
+    },
+    {
+     "q": "prix algérie",
+     "imp": 5,
+     "clics": 1,
+     "pos": 4.6
+    },
+    {
+     "q": "parfum lattafa",
+     "imp": 4,
+     "clics": 1,
+     "pos": 4
+    },
+    {
+     "q": "khamrah qahwa algerie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 13.3
+    },
+    {
+     "q": "lattafa parfum prix",
+     "imp": 4,
+     "clics": 0,
+     "pos": 1.3
+    },
+    {
+     "q": "oui",
+     "imp": 4,
+     "clics": 0,
+     "pos": 3.3
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-homme/lattafa",
+   "gsc": {
+    "clics": 5,
+    "imp": 73,
+    "pos": 8,
+    "ctr": 6.8
+   },
+   "requetes": [
+    {
+     "q": "parfum lattafa homme",
+     "imp": 4,
+     "clics": 0,
+     "pos": 10
+    },
+    {
+     "q": "lattafa",
+     "imp": 1,
+     "clics": 0,
+     "pos": 37
+    },
+    {
+     "q": "نعم",
+     "imp": 1,
+     "clics": 0,
+     "pos": 5
+    },
+    {
+     "q": "وسعر",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "وين اجده",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/lattafa",
+   "gsc": {
+    "clics": 4,
+    "imp": 92,
+    "pos": 10.8,
+    "ctr": 4.3
+   },
+   "requetes": [
+    {
+     "q": "parfum lattafa femme",
+     "imp": 5,
+     "clics": 1,
+     "pos": 9.6
+    },
+    {
+     "q": "lattafa lilly drogerie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 49.8
+    },
+    {
+     "q": "lattafa",
+     "imp": 3,
+     "clics": 0,
+     "pos": 33.7
+    },
+    {
+     "q": "latafa parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 10
+    },
+    {
+     "q": "lattafa femme parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 7
+    },
+    {
+     "q": "lattafa parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 10
+    },
+    {
+     "q": "lattafa parfum algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 18
+    },
+    {
+     "q": "lattafa parfum prix algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 11
+    }
+   ],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "lattafa-khamrah",
+   "nom": "Khamrah",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 11500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Cannelle",
+     "Noix de muscade"
+    ],
+    "heart": [
+     "Accord de dattes",
+     "Muguet",
+     "Praline",
+     "Tubéreuse"
+    ],
+    "base": [
+     "Fève tonka torréfiée",
+     "Benjoin",
+     "Myrrhe",
+     "Akigalawood",
+     "Vanille",
+     "Bois d'ambre"
+    ]
+   },
+   "imp90j": 4672,
+   "clics90j": 378,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "lattafa-yara",
+   "nom": "Yara",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 7100,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Héliotrope",
+     "Orchidée"
+    ],
+    "heart": [
+     "Fruits tropicaux",
+     "Accord gourmand"
+    ],
+    "base": [
+     "Vanille",
+     "Santal",
+     "Musc"
+    ]
+   },
+   "imp90j": 4457,
+   "clics90j": 195,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "lattafa-asad",
+   "nom": "Asad",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 6500,
+   "notes": {
+    "top": [
+     "Poivre Noir",
+     "Ananas",
+     "Tabac"
+    ],
+    "heart": [
+     "Patchouli",
+     "Café",
+     "Iris"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Bois Sec",
+     "Benjoin",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 1961,
+   "clics90j": 172,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "lattafa-fakhar-homme",
+   "nom": "Fakhar Black",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Pomme",
+     "Bergamote",
+     "Gingembre"
+    ],
+    "heart": [
+     "Lavande",
+     "Sauge",
+     "Baies de genièvre",
+     "Géranium"
+    ],
+    "base": [
+     "Fève tonka",
+     "Cèdre",
+     "Bois ambré",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 836,
+   "clics90j": 71,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "lattafa-khamrah-qahwa",
+   "nom": "Khamrah Qahwa",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Vanille",
+   "enStock": true,
+   "prix": 12000,
+   "notes": {
+    "top": [
+     "Cannelle",
+     "Cardamome",
+     "Gingembre"
+    ],
+    "heart": [
+     "Pralin",
+     "Fruits Confits",
+     "Fleurs Blanches"
+    ],
+    "base": [
+     "Cafe",
+     "Vanille",
+     "Feve Tonka",
+     "Benjoin",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "lattafa-bade-al-oud",
+   "nom": "Bade'e Al Oud",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral Oudé",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Safran",
+     "Épices",
+     "Rose"
+    ],
+    "heart": [
+     "Oud du Moyen-Orient",
+     "Rose de Turquie",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc Chaud",
+     "Patchouli",
+     "Ambre"
+    ]
+   },
+   "imp90j": 576,
+   "clics90j": 56,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-ana-abiyedh",
+   "nom": "Ana Abiyedh",
+   "conc": "EDP",
+   "volume": "60ml",
+   "genre": "unisexe",
+   "famille": "Floral Musqué Oriental",
+   "enStock": true,
+   "prix": 7600,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Orange"
+    ],
+    "heart": [
+     "Vanille",
+     "Poire"
+    ],
+    "base": [
+     "Musc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 414,
+   "clics90j": 39,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "lattafa-oud-mood",
+   "nom": "Oud Mood",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Rose",
+     "Safran",
+     "Toute-épice"
+    ],
+    "heart": [
+     "Oud",
+     "Caramel",
+     "Notes Florales",
+     "Patchouli"
+    ],
+    "base": [
+     "Notes Boisées",
+     "Ambre",
+     "Encens",
+     "Résines",
+     "Musc"
+    ]
+   },
+   "imp90j": 340,
+   "clics90j": 24,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "lattafa-velvet-oud",
+   "nom": "Velvet Oud",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Oudé",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Bergamote"
+    ],
+    "heart": [
+     "Feuille de Violette",
+     "Patchouli"
+    ],
+    "base": [
+     "Daim",
+     "Oud",
+     "Musc Ambré",
+     "Mousse de Chêne"
+    ]
+   },
+   "imp90j": 181,
+   "clics90j": 12,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "lattafa-raghba",
+   "nom": "Raghba",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Sucre de canne",
+     "Cardamome",
+     "Notes épicées"
+    ],
+    "heart": [
+     "Praline",
+     "Oud",
+     "Vanille"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Musc blanc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 220,
+   "clics90j": 19,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-oud-for-glory",
+   "nom": "Oud for Glory",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé Oud",
+   "enStock": true,
+   "prix": 8700,
+   "notes": {
+    "top": [
+     "Safran",
+     "Muscade",
+     "Lavande"
+    ],
+    "heart": [
+     "Oud",
+     "Patchouli"
+    ],
+    "base": [
+     "Oud",
+     "Patchouli",
+     "Musc"
+    ]
+   },
+   "imp90j": 162,
+   "clics90j": 18,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "lattafa-yara-moi",
+   "nom": "Yara Moi",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 9000,
+   "notes": {
+    "top": [
+     "Jasmin",
+     "Pêche"
+    ],
+    "heart": [
+     "Caramel",
+     "Ambre"
+    ],
+    "base": [
+     "Patchouli",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 175,
+   "clics90j": 7,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-ejaazi",
+   "nom": "Ejaazi",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 8200,
+   "notes": {
+    "top": [
+     "Agrumes",
+     "Orange",
+     "Lavande",
+     "Cardamome",
+     "Myrte"
+    ],
+    "heart": [
+     "Poivre",
+     "Patchouli",
+     "Feuille de cannelle",
+     "Muguet"
+    ],
+    "base": [
+     "Ambroxan",
+     "Notes boisées",
+     "Ambre",
+     "Cèdre",
+     "Mousse de chêne",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 64,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-yara-tous",
+   "nom": "Yara Tous",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 9600,
+   "notes": {
+    "top": [
+     "Mangue",
+     "Noix de coco",
+     "Fruit de la passion"
+    ],
+    "heart": [
+     "Jasmin",
+     "Fleur d'oranger",
+     "Héliotrope"
+    ],
+    "base": [
+     "Vanille",
+     "Musc",
+     "Cashmeran"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "lattafa-asdaaf-ameer-al-arab",
+   "nom": "Asdaaf Ameer Al Arab",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 8300,
+   "notes": {
+    "top": [
+     "Jasmin",
+     "Chèvrefeuille"
+    ],
+    "heart": [
+     "Lavande",
+     "Poivre",
+     "Safran"
+    ],
+    "base": [
+     "Cardamome",
+     "Menthe",
+     "Basilic"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-ameer-al-oudh-intense-oud",
+   "nom": "Ameer Al Oudh Intense Oud",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boise Oriental",
+   "enStock": true,
+   "prix": 9900,
+   "notes": {
+    "top": [
+     "Notes Boisees",
+     "Bois d'Agar (Oud)"
+    ],
+    "heart": [
+     "Sucre",
+     "Vanille"
+    ],
+    "base": [
+     "Bois d'Agar (Oud)",
+     "Santal",
+     "Notes Herbacees"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-bade-e-al-oud-sublime",
+   "nom": "Bade'e Al Oud Sublime",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 9900,
+   "notes": {
+    "top": [
+     "Pomme",
+     "Litchi",
+     "Rose"
+    ],
+    "heart": [
+     "Prune",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Mousse de chêne",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-sakeena",
+   "nom": "Sakeena",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 9400,
+   "notes": {
+    "top": [
+     "Fruit de la passion",
+     "Notes ozoniques",
+     "Mandarine"
+    ],
+    "heart": [
+     "Framboise",
+     "Rose",
+     "Fleur d'oranger",
+     "Sel marin"
+    ],
+    "base": [
+     "Toffee",
+     "Praline",
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "lattafa-oud-for-glory-intense",
+   "nom": "Oud for Glory Intense",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Oud Intense",
+   "enStock": true,
+   "prix": 9700,
+   "notes": {
+    "top": [
+     "Safran rouge",
+     "Rose arabique",
+     "Épices chaudes"
+    ],
+    "heart": [
+     "Oud fumé intense",
+     "Encens d'Oman",
+     "Patchouli"
+    ],
+    "base": [
+     "Musc oud",
+     "Labdanum",
+     "Résine de benjoin"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  }
+ ]
+}

@@ -1,0 +1,6570 @@
+[
+ {
+  "chemin": "/parfums/whisky-silver-evaflor",
+  "type": "produit",
+  "marque": "Evaflor",
+  "nom": "Whisky Silver",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Whisky Silver Parfum Homme Algérie",
+  "notes": [
+   "Verveine",
+   "Thym",
+   "Violette",
+   "Notes marines"
+  ],
+  "gsc": {
+   "clics": 135,
+   "imp": 6374,
+   "pos": 6.2,
+   "ctr": 2.1
+  },
+  "requetes": [
+   {
+    "q": "whisky silver",
+    "imp": 671,
+    "clics": 2,
+    "pos": 5.6
+   },
+   {
+    "q": "prix whisky algérie",
+    "imp": 281,
+    "clics": 3,
+    "pos": 5.6
+   },
+   {
+    "q": "parfum whisky",
+    "imp": 224,
+    "clics": 0,
+    "pos": 7.9
+   },
+   {
+    "q": "whisky parfum",
+    "imp": 220,
+    "clics": 2,
+    "pos": 6.6
+   },
+   {
+    "q": "whisky silver parfum",
+    "imp": 162,
+    "clics": 1,
+    "pos": 6.2
+   },
+   {
+    "q": "whisky algerie",
+    "imp": 122,
+    "clics": 3,
+    "pos": 6.9
+   },
+   {
+    "q": "parfum whisky silver",
+    "imp": 120,
+    "clics": 0,
+    "pos": 7.2
+   },
+   {
+    "q": "whiskey silver",
+    "imp": 120,
+    "clics": 0,
+    "pos": 5.9
+   },
+   {
+    "q": "bristol whisky algérie",
+    "imp": 110,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "whisky prix algérie",
+    "imp": 98,
+    "clics": 5,
+    "pos": 4.5
+   },
+   {
+    "q": "parfum whisky prix",
+    "imp": 98,
+    "clics": 1,
+    "pos": 5.8
+   },
+   {
+    "q": "parfum whisky prix en algérie",
+    "imp": 91,
+    "clics": 11,
+    "pos": 2.1
+   }
+  ],
+  "volumeNom": {
+   "k": "whisky silver",
+   "vol": 390
+  },
+  "motsCles": [
+   {
+    "k": "whisky silver",
+    "vol": 390,
+    "notrePos": 9
+   },
+   {
+    "k": "parfum whisky",
+    "vol": 210,
+    "notrePos": 6
+   },
+   {
+    "k": "parfums whisky",
+    "vol": 210,
+    "notrePos": 7
+   }
+  ],
+  "variantes": [],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/kayali-eden",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Eden Juicy Apple 01",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kayali Eden Juicy Apple Parfum Mixte Algérie",
+  "notes": [
+   "Pomme rouge",
+   "Cassis",
+   "Baies sauvages",
+   "Fleur de vanille"
+  ],
+  "gsc": {
+   "clics": 95,
+   "imp": 6239,
+   "pos": 6.1,
+   "ctr": 1.5
+  },
+  "requetes": [
+   {
+    "q": "parfum kayali prix algérie",
+    "imp": 567,
+    "clics": 8,
+    "pos": 7.1
+   },
+   {
+    "q": "kayali eden juicy apple",
+    "imp": 331,
+    "clics": 2,
+    "pos": 8.5
+   },
+   {
+    "q": "kayali",
+    "imp": 249,
+    "clics": 1,
+    "pos": 6.7
+   },
+   {
+    "q": "kayali parfum prix algerie",
+    "imp": 238,
+    "clics": 3,
+    "pos": 6.8
+   },
+   {
+    "q": "kayali parfum",
+    "imp": 213,
+    "clics": 2,
+    "pos": 3.6
+   },
+   {
+    "q": "kayali apple",
+    "imp": 177,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "kayali parfum prix algérie",
+    "imp": 165,
+    "clics": 1,
+    "pos": 5.9
+   },
+   {
+    "q": "parfum kayali prix algerie",
+    "imp": 160,
+    "clics": 0,
+    "pos": 8.5
+   },
+   {
+    "q": "kayali prix algérie",
+    "imp": 118,
+    "clics": 4,
+    "pos": 4.2
+   },
+   {
+    "q": "kayali juicy apple",
+    "imp": 99,
+    "clics": 1,
+    "pos": 7.8
+   },
+   {
+    "q": "kayali parfum prix",
+    "imp": 72,
+    "clics": 1,
+    "pos": 8.7
+   },
+   {
+    "q": "eden juicy apple kayali",
+    "imp": 69,
+    "clics": 1,
+    "pos": 6.8
+   }
+  ],
+  "volumeNom": {
+   "k": "eden juicy apple 01",
+   "vol": 10
+  },
+  "motsCles": [
+   {
+    "k": "kayali parfum",
+    "vol": 1900,
+    "notrePos": 9
+   },
+   {
+    "k": "kayali eden juicy apple",
+    "vol": 480,
+    "notrePos": 13
+   },
+   {
+    "k": "kayali parfum prix",
+    "vol": 390,
+    "notrePos": 16
+   },
+   {
+    "k": "kayali apple",
+    "vol": 210,
+    "notrePos": 12
+   },
+   {
+    "k": "parfum kayali prix algérie",
+    "vol": 210,
+    "notrePos": 5
+   },
+   {
+    "k": "kayali #parfum prix algerie",
+    "vol": 170,
+    "notrePos": 5
+   },
+   {
+    "k": "kayali parfum prix algerie",
+    "vol": 170,
+    "notrePos": 6
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "kayali-eden-sparkling-lychee-39",
+    "nom": "Eden Sparkling Lychee 39",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "kayali",
+    "impIci": 249,
+    "autre": "/parfums/kayali-vanilla-28",
+    "impAutre": 57
+   },
+   {
+    "q": "kayali parfum prix",
+    "impIci": 72,
+    "autre": "/parfums/kayali-vanilla-28",
+    "impAutre": 31
+   },
+   {
+    "q": "parfum kayali prix",
+    "impIci": 29,
+    "autre": "/parfums/kayali-vanilla-28",
+    "impAutre": 17
+   },
+   {
+    "q": "prix parfum kayali en algérie",
+    "impIci": 31,
+    "autre": "/parfums/kayali-vanilla-28",
+    "impAutre": 9
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/kayali-vanilla-28",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Vanilla 28",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kayali Vanilla 28 Parfum Mixte Algérie",
+  "notes": [
+   "Orchidée de vanille",
+   "Jasmin",
+   "Cassonade",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 16,
+   "imp": 1192,
+   "pos": 5,
+   "ctr": 1.3
+  },
+  "requetes": [
+   {
+    "q": "parfum kayali prix algérie",
+    "imp": 63,
+    "clics": 0,
+    "pos": 4.2
+   },
+   {
+    "q": "kayali vanilla 28 prix algérie",
+    "imp": 61,
+    "clics": 0,
+    "pos": 4.1
+   },
+   {
+    "q": "kayali",
+    "imp": 57,
+    "clics": 0,
+    "pos": 4.8
+   },
+   {
+    "q": "kay ali parfum",
+    "imp": 39,
+    "clics": 0,
+    "pos": 3.9
+   },
+   {
+    "q": "parfum kayali vanilla prix algérie",
+    "imp": 37,
+    "clics": 1,
+    "pos": 6.3
+   },
+   {
+    "q": "kayali parfum prix",
+    "imp": 31,
+    "clics": 0,
+    "pos": 3.1
+   },
+   {
+    "q": "kayali vanilla 28",
+    "imp": 28,
+    "clics": 1,
+    "pos": 7.3
+   },
+   {
+    "q": "kayali vanilla prix algérie",
+    "imp": 26,
+    "clics": 0,
+    "pos": 5.2
+   },
+   {
+    "q": "kayali vanilla",
+    "imp": 21,
+    "clics": 0,
+    "pos": 8.9
+   },
+   {
+    "q": "parfum kayali prix algérie 100ml",
+    "imp": 20,
+    "clics": 1,
+    "pos": 6
+   },
+   {
+    "q": "parfum kayali prix",
+    "imp": 17,
+    "clics": 0,
+    "pos": 2.9
+   },
+   {
+    "q": "kayali parfum prix algerie",
+    "imp": 16,
+    "clics": 1,
+    "pos": 5.1
+   }
+  ],
+  "volumeNom": {
+   "k": "vanilla 28",
+   "vol": 40
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kayali-vanilla-candy-rock-sugar-42",
+    "nom": "Vanilla Candy Rock Sugar 42",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kayali-vanilla-royale-sugared-patchouli-64",
+    "nom": "Vanilla Royale Sugared Patchouli 64 Intense",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "kayali",
+    "impIci": 57,
+    "autre": "/parfums/kayali-eden",
+    "impAutre": 249
+   },
+   {
+    "q": "kay ali parfum",
+    "impIci": 39,
+    "autre": "/marques/kayali",
+    "impAutre": 102
+   },
+   {
+    "q": "kay ali parfum",
+    "impIci": 39,
+    "autre": "/parfums-femme/kayali",
+    "impAutre": 65
+   },
+   {
+    "q": "kayali parfum prix",
+    "impIci": 31,
+    "autre": "/parfums/kayali-eden",
+    "impAutre": 72
+   },
+   {
+    "q": "parfum kayali prix",
+    "impIci": 17,
+    "autre": "/parfums/kayali-eden",
+    "impAutre": 29
+   },
+   {
+    "q": "prix parfum kayali en algérie",
+    "impIci": 9,
+    "autre": "/parfums/kayali-eden",
+    "impAutre": 31
+   }
+  ],
+  "_f": "lot-002.json"
+ },
+ {
+  "chemin": "/parfums/franck-olivier",
+  "type": "produit",
+  "marque": "Franck Olivier",
+  "nom": "Franck Olivier",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Franck Olivier Franck Olivier Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Rose",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 517,
+   "imp": 5168,
+   "pos": 5.1,
+   "ctr": 10
+  },
+  "requetes": [
+   {
+    "q": "franck olivier dz",
+    "imp": 499,
+    "clics": 79,
+    "pos": 4.9
+   },
+   {
+    "q": "frank olivier",
+    "imp": 230,
+    "clics": 0,
+    "pos": 5.2
+   },
+   {
+    "q": "parfum franck olivier prix en algérie",
+    "imp": 224,
+    "clics": 26,
+    "pos": 2.2
+   },
+   {
+    "q": "franck olivier",
+    "imp": 189,
+    "clics": 1,
+    "pos": 6.2
+   },
+   {
+    "q": "franck olivier parfum",
+    "imp": 156,
+    "clics": 7,
+    "pos": 6
+   },
+   {
+    "q": "franck olivier parfum femme prix algérie",
+    "imp": 138,
+    "clics": 17,
+    "pos": 2.4
+   },
+   {
+    "q": "franck olivier parfum dz",
+    "imp": 136,
+    "clics": 46,
+    "pos": 2.9
+   },
+   {
+    "q": "franck olivier algerie",
+    "imp": 119,
+    "clics": 37,
+    "pos": 2.9
+   },
+   {
+    "q": "franck olivier algérie",
+    "imp": 103,
+    "clics": 18,
+    "pos": 3.6
+   },
+   {
+    "q": "frank olivier dz",
+    "imp": 86,
+    "clics": 6,
+    "pos": 5.2
+   },
+   {
+    "q": "frank oliver parfum",
+    "imp": 86,
+    "clics": 2,
+    "pos": 3.8
+   },
+   {
+    "q": "franck olivier parfum homme prix algérie",
+    "imp": 67,
+    "clics": 5,
+    "pos": 4.1
+   }
+  ],
+  "volumeNom": {
+   "k": "franck olivier",
+   "vol": 720
+  },
+  "motsCles": [
+   {
+    "k": "franck olivier parfum femme",
+    "vol": 390,
+    "notrePos": 12
+   },
+   {
+    "k": "parfum femme franck olivier",
+    "vol": 390,
+    "notrePos": 24
+   },
+   {
+    "k": "parfum franck olivier femme",
+    "vol": 390,
+    "notrePos": 23
+   },
+   {
+    "k": "franck olivier parfum homme",
+    "vol": 320,
+    "notrePos": 15
+   },
+   {
+    "k": "parfum franck olivier homme",
+    "vol": 320,
+    "notrePos": 17
+   },
+   {
+    "k": "parfum homme franck olivier",
+    "vol": 320,
+    "notrePos": 21
+   },
+   {
+    "k": "bella franck olivier",
+    "vol": 170,
+    "notrePos": 38
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "franck-olivier-green",
+    "nom": "Franck Green",
+    "conc": "EDT",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/lattafa-khamrah",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Khamrah",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Khamrah Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Cannelle",
+   "Accord de dattes",
+   "Fève tonka torréfiée"
+  ],
+  "gsc": {
+   "clics": 378,
+   "imp": 4672,
+   "pos": 4.3,
+   "ctr": 8.1
+  },
+  "requetes": [
+   {
+    "q": "khamrah",
+    "imp": 275,
+    "clics": 3,
+    "pos": 5.8
+   },
+   {
+    "q": "parfum khamrah original prix",
+    "imp": 181,
+    "clics": 10,
+    "pos": 5
+   },
+   {
+    "q": "khamrah lattafa",
+    "imp": 136,
+    "clics": 8,
+    "pos": 5.2
+   },
+   {
+    "q": "lattafa khamrah",
+    "imp": 115,
+    "clics": 11,
+    "pos": 5.2
+   },
+   {
+    "q": "parfum khamrah prix algerie",
+    "imp": 110,
+    "clics": 21,
+    "pos": 1.7
+   },
+   {
+    "q": "khamrah lattafa prix",
+    "imp": 102,
+    "clics": 8,
+    "pos": 2.7
+   },
+   {
+    "q": "parfum khamrah prix",
+    "imp": 50,
+    "clics": 0,
+    "pos": 3.1
+   },
+   {
+    "q": "parfum khamrah",
+    "imp": 49,
+    "clics": 1,
+    "pos": 6
+   },
+   {
+    "q": "khamrah perfume",
+    "imp": 48,
+    "clics": 2,
+    "pos": 5.4
+   },
+   {
+    "q": "سعر عطر خمرة في الجزائر",
+    "imp": 43,
+    "clics": 1,
+    "pos": 8.8
+   },
+   {
+    "q": "khamrah parfum prix",
+    "imp": 38,
+    "clics": 3,
+    "pos": 3.1
+   },
+   {
+    "q": "lattafa khamrah prix",
+    "imp": 36,
+    "clics": 2,
+    "pos": 3
+   }
+  ],
+  "volumeNom": {
+   "k": "lattafa khamrah",
+   "vol": 390
+  },
+  "motsCles": [
+   {
+    "k": "khamrah lattafa",
+    "vol": 480,
+    "notrePos": 26
+   },
+   {
+    "k": "lattafa khamrah",
+    "vol": 390,
+    "notrePos": 12
+   },
+   {
+    "k": "parfum khamrah",
+    "vol": 210,
+    "notrePos": 22
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "lattafa-khamrah-qahwa",
+    "nom": "Khamrah Qahwa",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "lattafa parfum prix algérie",
+    "impIci": 17,
+    "autre": "/marques/lattafa",
+    "impAutre": 12
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 7,
+    "autre": "/marques/lattafa",
+    "impAutre": 17
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 7,
+    "autre": "/parfums-orientaux",
+    "impAutre": 7
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/lattafa-khamrah-qahwa",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Khamrah Qahwa",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Khamrah Qahwa Parfum Mixte Algérie",
+  "notes": [
+   "Cannelle",
+   "Cardamome",
+   "Pralin",
+   "Cafe"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "khamrah qahwa",
+   "vol": 260
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lattafa-khamrah",
+    "nom": "Khamrah",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-063.json"
+ },
+ {
+  "chemin": "/parfums/lattafa-yara",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Yara",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Yara Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Héliotrope",
+   "Fruits tropicaux",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 195,
+   "imp": 4457,
+   "pos": 5,
+   "ctr": 4.4
+  },
+  "requetes": [
+   {
+    "q": "yara parfum",
+    "imp": 538,
+    "clics": 1,
+    "pos": 7.4
+   },
+   {
+    "q": "parfum yara",
+    "imp": 306,
+    "clics": 0,
+    "pos": 8.1
+   },
+   {
+    "q": "parfum yara prix",
+    "imp": 138,
+    "clics": 9,
+    "pos": 3.8
+   },
+   {
+    "q": "parfum yara prix algérie",
+    "imp": 124,
+    "clics": 13,
+    "pos": 1.6
+   },
+   {
+    "q": "yara parfum prix",
+    "imp": 120,
+    "clics": 1,
+    "pos": 3.6
+   },
+   {
+    "q": "yara parfum prix algérie",
+    "imp": 68,
+    "clics": 7,
+    "pos": 3.3
+   },
+   {
+    "q": "سعر عطر يارا في الجزائر",
+    "imp": 67,
+    "clics": 1,
+    "pos": 7.1
+   },
+   {
+    "q": "parfum yara original",
+    "imp": 53,
+    "clics": 2,
+    "pos": 8
+   },
+   {
+    "q": "yara lattafa",
+    "imp": 41,
+    "clics": 2,
+    "pos": 7.6
+   },
+   {
+    "q": "lattafa yara",
+    "imp": 37,
+    "clics": 2,
+    "pos": 7.8
+   },
+   {
+    "q": "yara",
+    "imp": 35,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "parfum yara prix algérie original",
+    "imp": 25,
+    "clics": 3,
+    "pos": 1.6
+   }
+  ],
+  "volumeNom": {
+   "k": "lattafa yara",
+   "vol": 90
+  },
+  "motsCles": [
+   {
+    "k": "yara",
+    "vol": 720,
+    "notrePos": 13
+   },
+   {
+    "k": "yara parfum",
+    "vol": 480,
+    "notrePos": 6
+   },
+   {
+    "k": "parfum yara",
+    "vol": 320,
+    "notrePos": 9
+   },
+   {
+    "k": "parfums yara",
+    "vol": 320,
+    "notrePos": 18
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "lattafa-yara-moi",
+    "nom": "Yara Moi",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lattafa-yara-tous",
+    "nom": "Yara Tous",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/lattafa-asad",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Asad",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Asad Parfum Homme Algérie",
+  "notes": [
+   "Poivre Noir",
+   "Ananas",
+   "Patchouli",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 172,
+   "imp": 1961,
+   "pos": 4.9,
+   "ctr": 8.8
+  },
+  "requetes": [
+   {
+    "q": "lattafa asad",
+    "imp": 73,
+    "clics": 7,
+    "pos": 6.2
+   },
+   {
+    "q": "asad",
+    "imp": 46,
+    "clics": 2,
+    "pos": 5.3
+   },
+   {
+    "q": "parfum asad",
+    "imp": 43,
+    "clics": 0,
+    "pos": 7.1
+   },
+   {
+    "q": "parfum asad homme prix",
+    "imp": 38,
+    "clics": 0,
+    "pos": 4.9
+   },
+   {
+    "q": "parfum asad prix",
+    "imp": 34,
+    "clics": 0,
+    "pos": 3.3
+   },
+   {
+    "q": "asad lattafa",
+    "imp": 21,
+    "clics": 0,
+    "pos": 6.2
+   },
+   {
+    "q": "latafa asad",
+    "imp": 21,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "asad lattafa parfum prix",
+    "imp": 16,
+    "clics": 1,
+    "pos": 4.6
+   },
+   {
+    "q": "parfum asad prix algérie",
+    "imp": 15,
+    "clics": 2,
+    "pos": 1.8
+   },
+   {
+    "q": "asad parfum",
+    "imp": 14,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "نعم",
+    "imp": 13,
+    "clics": 1,
+    "pos": 7.2
+   },
+   {
+    "q": "سعر عطر أسد في الجزائر",
+    "imp": 11,
+    "clics": 0,
+    "pos": 5.9
+   }
+  ],
+  "volumeNom": {
+   "k": "lattafa asad",
+   "vol": 210
+  },
+  "motsCles": [
+   {
+    "k": "lattafa asad",
+    "vol": 170,
+    "notrePos": 28
+   }
+  ],
+  "variantes": [],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/libre-ysl",
+  "type": "produit",
+  "marque": "Yves Saint Laurent",
+  "nom": "Libre",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Libre YSL Parfum Femme Algérie",
+  "notes": [
+   "Lavande",
+   "Mandarine",
+   "Lavande",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 60,
+   "imp": 3683,
+   "pos": 5.8,
+   "ctr": 1.6
+  },
+  "requetes": [
+   {
+    "q": "parfum libre prix algerie",
+    "imp": 213,
+    "clics": 2,
+    "pos": 7.1
+   },
+   {
+    "q": "parfum libre prix algérie 50ml",
+    "imp": 116,
+    "clics": 3,
+    "pos": 8.8
+   },
+   {
+    "q": "ysl libre",
+    "imp": 88,
+    "clics": 4,
+    "pos": 7.3
+   },
+   {
+    "q": "libre yves saint laurent",
+    "imp": 52,
+    "clics": 0,
+    "pos": 9.7
+   },
+   {
+    "q": "parfum libre prix algérie 90ml",
+    "imp": 51,
+    "clics": 1,
+    "pos": 6
+   },
+   {
+    "q": "parfum libre prix algérie 100ml",
+    "imp": 49,
+    "clics": 1,
+    "pos": 6.3
+   },
+   {
+    "q": "libre ysl",
+    "imp": 42,
+    "clics": 0,
+    "pos": 6.7
+   },
+   {
+    "q": "libre",
+    "imp": 38,
+    "clics": 0,
+    "pos": 9.4
+   },
+   {
+    "q": "libre yves saint laurent prix algérie",
+    "imp": 33,
+    "clics": 0,
+    "pos": 4.1
+   },
+   {
+    "q": "prix libre yves saint laurent algerie",
+    "imp": 29,
+    "clics": 0,
+    "pos": 6.4
+   },
+   {
+    "q": "parfum libre prix algérie",
+    "imp": 28,
+    "clics": 0,
+    "pos": 5.9
+   },
+   {
+    "q": "parfum libre original prix algérie",
+    "imp": 26,
+    "clics": 2,
+    "pos": 5
+   }
+  ],
+  "volumeNom": {
+   "k": "yves saint laurent libre",
+   "vol": 2400
+  },
+  "motsCles": [
+   {
+    "k": "libre yves saint laurent",
+    "vol": 2400,
+    "posMust": 3,
+    "notrePos": 16
+   },
+   {
+    "k": "ysl libre",
+    "vol": 2400,
+    "posMust": 2,
+    "notrePos": 19
+   },
+   {
+    "k": "yves saint laurent libre",
+    "vol": 2400,
+    "posMust": 2,
+    "notrePos": 18
+   },
+   {
+    "k": "parfum yves saint laurent",
+    "vol": 1000,
+    "posMust": 3,
+    "notrePos": 17
+   },
+   {
+    "k": "parfum libre",
+    "vol": 880,
+    "posMust": 2,
+    "notrePos": 15
+   },
+   {
+    "k": "parfums libre",
+    "vol": 880,
+    "posMust": 2,
+    "notrePos": 25
+   },
+   {
+    "k": "libre parfum",
+    "vol": 590,
+    "posMust": 3,
+    "notrePos": 18
+   },
+   {
+    "k": "libre intense",
+    "vol": 390,
+    "posMust": 4,
+    "notrePos": 48
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "libre-le-parfum-ysl",
+    "nom": "Libre Le Parfum",
+    "conc": "Parfum",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-intense",
+    "nom": "Libre Intense",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-l-absolu-platine",
+    "nom": "Libre L'Absolu Platine",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-flowers-flames",
+    "nom": "Libre Flowers & Flames",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-l-eau-nue",
+    "nom": "Libre L'Eau Nue",
+    "conc": "Parfum",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-berry-crush",
+    "nom": "Libre Berry Crush",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-vanille-couture",
+    "nom": "Libre Vanille Couture",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "yves saint laurent parfum femme prix algérie",
+    "impIci": 18,
+    "autre": "/parfums-femme/ysl",
+    "impAutre": 12
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/libre-le-parfum-ysl",
+  "type": "produit",
+  "marque": "Yves Saint Laurent",
+  "nom": "Libre Le Parfum",
+  "conc": "Parfum",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "YSL Libre Le Parfum Femme Algérie",
+  "notes": [
+   "Gingembre",
+   "Safran",
+   "Fleur d'Oranger",
+   "Vanille Bourbon"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 48,
+   "pos": 13.1,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "parfum libre prix algerie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "ysl libre parfum",
+    "imp": 3,
+    "clics": 0,
+    "pos": 7.7
+   },
+   {
+    "q": "libre yves saint laurent prix",
+    "imp": 2,
+    "clics": 0,
+    "pos": 27
+   },
+   {
+    "q": "libre yves saint laurent prix algérie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 7.5
+   },
+   {
+    "q": "ysl libre",
+    "imp": 2,
+    "clics": 0,
+    "pos": 66
+   },
+   {
+    "q": "libre",
+    "imp": 1,
+    "clics": 0,
+    "pos": 83
+   },
+   {
+    "q": "parfum féminin",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum libre",
+    "imp": 1,
+    "clics": 0,
+    "pos": 47
+   },
+   {
+    "q": "parfum libre yves saint laurent prix",
+    "imp": 1,
+    "clics": 0,
+    "pos": 25
+   },
+   {
+    "q": "parfum libre yves saint laurent prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "ysl perfume libre",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "كم سعرها بدينار الجزائري",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   }
+  ],
+  "volumeNom": {
+   "k": "libre le parfum",
+   "vol": 110
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "libre-ysl",
+    "nom": "Libre",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-intense",
+    "nom": "Libre Intense",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-l-absolu-platine",
+    "nom": "Libre L'Absolu Platine",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-flowers-flames",
+    "nom": "Libre Flowers & Flames",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-l-eau-nue",
+    "nom": "Libre L'Eau Nue",
+    "conc": "Parfum",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-berry-crush",
+    "nom": "Libre Berry Crush",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "ysl-libre-vanille-couture",
+    "nom": "Libre Vanille Couture",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-029.json"
+ },
+ {
+  "chemin": "/parfums/evidence-yves-rocher",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Comme une Évidence",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Comme une Évidence Yves Rocher Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Rose de Damas",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 158,
+   "imp": 3667,
+   "pos": 5.8,
+   "ctr": 4.3
+  },
+  "requetes": [
+   {
+    "q": "evidence parfum prix 100ml algérie",
+    "imp": 210,
+    "clics": 12,
+    "pos": 6.4
+   },
+   {
+    "q": "evidence parfum 50 ml prix",
+    "imp": 199,
+    "clics": 3,
+    "pos": 4.9
+   },
+   {
+    "q": "parfum evidence",
+    "imp": 126,
+    "clics": 1,
+    "pos": 6.7
+   },
+   {
+    "q": "parfum evidence prix en algérie",
+    "imp": 96,
+    "clics": 6,
+    "pos": 2.8
+   },
+   {
+    "q": "evidence parfum 50 ml prix en algérie",
+    "imp": 82,
+    "clics": 4,
+    "pos": 1.8
+   },
+   {
+    "q": "evidence",
+    "imp": 65,
+    "clics": 0,
+    "pos": 10.6
+   },
+   {
+    "q": "parfum evidence yves rocher prix algérie",
+    "imp": 50,
+    "clics": 11,
+    "pos": 4.2
+   },
+   {
+    "q": "evidence parfum",
+    "imp": 50,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "yves rocher evidence parfum 50 ml",
+    "imp": 45,
+    "clics": 0,
+    "pos": 7.5
+   },
+   {
+    "q": "parfum yves rocher",
+    "imp": 43,
+    "clics": 0,
+    "pos": 5.1
+   },
+   {
+    "q": "parfum evidence prix",
+    "imp": 31,
+    "clics": 0,
+    "pos": 7.3
+   },
+   {
+    "q": "yves rocher parfum",
+    "imp": 30,
+    "clics": 0,
+    "pos": 11.3
+   }
+  ],
+  "volumeNom": {
+   "k": "yves rocher evidence",
+   "vol": 50
+  },
+  "motsCles": [
+   {
+    "k": "evidence parfum",
+    "vol": 880,
+    "notrePos": 20
+   },
+   {
+    "k": "evidence perfume",
+    "vol": 880,
+    "notrePos": 19
+   },
+   {
+    "k": "parfum evidence",
+    "vol": 880,
+    "notrePos": 16
+   },
+   {
+    "k": "parfums evidence",
+    "vol": 880,
+    "notrePos": 16
+   },
+   {
+    "k": "evidence",
+    "vol": 720,
+    "notrePos": 24
+   },
+   {
+    "k": "parfum yves rocher",
+    "vol": 720,
+    "notrePos": 29
+   },
+   {
+    "k": "yves rocher parfum",
+    "vol": 720,
+    "notrePos": 25
+   },
+   {
+    "k": "yves",
+    "vol": 210,
+    "notrePos": 30
+   }
+  ],
+  "variantes": [],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/bleu-de-chanel-parfum",
+  "type": "produit",
+  "marque": "Chanel",
+  "nom": "Bleu de Chanel Parfum",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Bleu de Chanel Parfum Homme Algérie",
+  "notes": [
+   "Zeste de Citron",
+   "Bergamote",
+   "Lavande",
+   "Bois de Santal"
+  ],
+  "gsc": {
+   "clics": 189,
+   "imp": 3441,
+   "pos": 5.2,
+   "ctr": 5.5
+  },
+  "requetes": [
+   {
+    "q": "bleu de chanel parfum 100ml prix algérie",
+    "imp": 344,
+    "clics": 31,
+    "pos": 3.3
+   },
+   {
+    "q": "bleu de chanel prix algérie",
+    "imp": 129,
+    "clics": 9,
+    "pos": 4.2
+   },
+   {
+    "q": "bleu de chanel parfum prix algérie",
+    "imp": 103,
+    "clics": 10,
+    "pos": 3.6
+   },
+   {
+    "q": "bleu de chanel 50 ml prix algérie",
+    "imp": 78,
+    "clics": 0,
+    "pos": 7.6
+   },
+   {
+    "q": "bleu de chanel",
+    "imp": 71,
+    "clics": 5,
+    "pos": 8.7
+   },
+   {
+    "q": "bleu de chanel parfum 100ml prix",
+    "imp": 55,
+    "clics": 1,
+    "pos": 3.6
+   },
+   {
+    "q": "bleu chanel parfum prix algérie",
+    "imp": 44,
+    "clics": 7,
+    "pos": 4.4
+   },
+   {
+    "q": "bleu de chanel parfum 150ml prix algérie",
+    "imp": 44,
+    "clics": 3,
+    "pos": 5.5
+   },
+   {
+    "q": "bleu de chanel parfum",
+    "imp": 43,
+    "clics": 6,
+    "pos": 9
+   },
+   {
+    "q": "bleu de chanel prix",
+    "imp": 23,
+    "clics": 1,
+    "pos": 7
+   },
+   {
+    "q": "bleu de chanel eau de parfum",
+    "imp": 19,
+    "clics": 1,
+    "pos": 8.8
+   },
+   {
+    "q": "bleu chanel",
+    "imp": 17,
+    "clics": 0,
+    "pos": 8.6
+   }
+  ],
+  "volumeNom": {
+   "k": "bleu de chanel parfum",
+   "vol": 590
+  },
+  "motsCles": [
+   {
+    "k": "bleu de chanel",
+    "vol": 2400,
+    "notrePos": 30
+   },
+   {
+    "k": "bleu chanel",
+    "vol": 590,
+    "notrePos": 17
+   },
+   {
+    "k": "bleu de chanel parfum",
+    "vol": 590,
+    "notrePos": 20
+   },
+   {
+    "k": "chanel homme parfum",
+    "vol": 210,
+    "notrePos": 15
+   },
+   {
+    "k": "parfum chanel homme",
+    "vol": 210,
+    "notrePos": 24
+   },
+   {
+    "k": "parfum homme chanel",
+    "vol": 210,
+    "notrePos": 26
+   },
+   {
+    "k": "bleu de chanel le prix",
+    "vol": 170,
+    "notrePos": 19
+   },
+   {
+    "k": "bleu de chanel prix",
+    "vol": 170,
+    "notrePos": 14
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "bleu-de-chanel",
+    "nom": "Bleu de Chanel",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-bleu-de-l-exclusif",
+    "nom": "Bleu de Chanel L'Exclusif",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-bleu-de-all-over-spray",
+    "nom": "Bleu de All-Over Spray",
+    "conc": "EDP",
+    "vol": "150ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/chanel-chance",
+  "type": "produit",
+  "marque": "Chanel",
+  "nom": "Chance",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chanel Chance Parfum Femme Algérie",
+  "notes": [
+   "Patchouli",
+   "Poivre Rose",
+   "Citron",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 29,
+   "imp": 994,
+   "pos": 6.3,
+   "ctr": 2.9
+  },
+  "requetes": [
+   {
+    "q": "chanel chance",
+    "imp": 224,
+    "clics": 5,
+    "pos": 9
+   },
+   {
+    "q": "chance chanel",
+    "imp": 72,
+    "clics": 0,
+    "pos": 8.9
+   },
+   {
+    "q": "chanel chance prix algérie",
+    "imp": 28,
+    "clics": 0,
+    "pos": 4.3
+   },
+   {
+    "q": "chanel chance prix",
+    "imp": 26,
+    "clics": 0,
+    "pos": 5.8
+   },
+   {
+    "q": "parfum chanel chance",
+    "imp": 12,
+    "clics": 0,
+    "pos": 6.7
+   },
+   {
+    "q": "chance chanel prix",
+    "imp": 7,
+    "clics": 0,
+    "pos": 7.9
+   },
+   {
+    "q": "chanel chance eau de parfum",
+    "imp": 7,
+    "clics": 0,
+    "pos": 12
+   },
+   {
+    "q": "chanel chance eau de toilette 100 ml",
+    "imp": 6,
+    "clics": 0,
+    "pos": 5.3
+   },
+   {
+    "q": "chanel chance original",
+    "imp": 6,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "chance de chanel",
+    "imp": 5,
+    "clics": 2,
+    "pos": 3.4
+   },
+   {
+    "q": "prix parfum chanel chance",
+    "imp": 5,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "chanel chance eau de parfum 100ml prix algérie",
+    "imp": 4,
+    "clics": 1,
+    "pos": 7.3
+   }
+  ],
+  "volumeNom": {
+   "k": "chanel chance",
+   "vol": 1000
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chance-eau-tendre-chanel",
+    "nom": "Chance Eau Tendre",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-fraiche",
+    "nom": "Chance Eau Fraîche",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-tendre",
+    "nom": "Chance Eau Tendre Eau de Parfum",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-vive",
+    "nom": "Chance Eau Vive",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-splendide",
+    "nom": "Chance Eau Splendide",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "chanel chance",
+    "impIci": 224,
+    "autre": "/parfums/chanel-chance-eau-tendre",
+    "impAutre": 165
+   },
+   {
+    "q": "chance chanel",
+    "impIci": 72,
+    "autre": "/parfums/chanel-chance-eau-tendre",
+    "impAutre": 66
+   },
+   {
+    "q": "chanel chance prix algérie",
+    "impIci": 28,
+    "autre": "/parfums/chanel-chance-eau-tendre",
+    "impAutre": 97
+   },
+   {
+    "q": "chanel chance prix",
+    "impIci": 26,
+    "autre": "/parfums/chanel-chance-eau-tendre",
+    "impAutre": 28
+   },
+   {
+    "q": "parfum chanel chance",
+    "impIci": 12,
+    "autre": "/parfums/chanel-chance-eau-tendre",
+    "impAutre": 29
+   }
+  ],
+  "_f": "lot-002.json"
+ },
+ {
+  "chemin": "/parfums/chanel-chance-eau-tendre",
+  "type": "produit",
+  "marque": "Chanel",
+  "nom": "Chance Eau Tendre Eau de Parfum",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chanel Chance Eau Tendre Eau de Parfum Parfum Femme Algérie",
+  "notes": [
+   "Coing",
+   "Pamplemousse",
+   "Rose",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 73,
+   "imp": 2660,
+   "pos": 5,
+   "ctr": 2.7
+  },
+  "requetes": [
+   {
+    "q": "chanel chance eau tendre",
+    "imp": 304,
+    "clics": 2,
+    "pos": 8.1
+   },
+   {
+    "q": "chanel chance",
+    "imp": 165,
+    "clics": 2,
+    "pos": 1.4
+   },
+   {
+    "q": "chanel chance eau tendre prix algérie",
+    "imp": 98,
+    "clics": 10,
+    "pos": 3.3
+   },
+   {
+    "q": "chanel chance prix algérie",
+    "imp": 97,
+    "clics": 6,
+    "pos": 3.1
+   },
+   {
+    "q": "chanel parfum femme",
+    "imp": 73,
+    "clics": 1,
+    "pos": 1.1
+   },
+   {
+    "q": "chance chanel",
+    "imp": 66,
+    "clics": 1,
+    "pos": 2.6
+   },
+   {
+    "q": "parfum chanel femme",
+    "imp": 58,
+    "clics": 0,
+    "pos": 5.6
+   },
+   {
+    "q": "chanel chance eau tendre eau de parfum 100ml prix",
+    "imp": 55,
+    "clics": 2,
+    "pos": 7.8
+   },
+   {
+    "q": "chanel chance eau tendre prix",
+    "imp": 33,
+    "clics": 2,
+    "pos": 6.9
+   },
+   {
+    "q": "chanel eau tendre",
+    "imp": 33,
+    "clics": 0,
+    "pos": 7.4
+   },
+   {
+    "q": "chance eau tendre",
+    "imp": 31,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "chanel chance eau de parfum 100ml prix algérie",
+    "imp": 31,
+    "clics": 0,
+    "pos": 4
+   }
+  ],
+  "volumeNom": {
+   "k": "chance eau tendre eau de parfum",
+   "vol": 10
+  },
+  "motsCles": [
+   {
+    "k": "chanel chance",
+    "vol": 1000,
+    "notrePos": 12
+   },
+   {
+    "k": "chanel chance eau tendre",
+    "vol": 590,
+    "notrePos": 9
+   },
+   {
+    "k": "chance chanel",
+    "vol": 320,
+    "notrePos": 6
+   },
+   {
+    "k": "chanel parfum chance",
+    "vol": 170,
+    "notrePos": 20
+   },
+   {
+    "k": "parfums chanel chance",
+    "vol": 170,
+    "notrePos": 20
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "chance-eau-tendre-chanel",
+    "nom": "Chance Eau Tendre",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-fraiche",
+    "nom": "Chance Eau Fraîche",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance",
+    "nom": "Chance",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-vive",
+    "nom": "Chance Eau Vive",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-splendide",
+    "nom": "Chance Eau Splendide",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "chanel chance",
+    "impIci": 165,
+    "autre": "/parfums/chanel-chance",
+    "impAutre": 224
+   },
+   {
+    "q": "chance chanel",
+    "impIci": 66,
+    "autre": "/parfums/chanel-chance",
+    "impAutre": 72
+   },
+   {
+    "q": "chanel chance prix algérie",
+    "impIci": 97,
+    "autre": "/parfums/chanel-chance",
+    "impAutre": 28
+   },
+   {
+    "q": "chanel chance prix",
+    "impIci": 28,
+    "autre": "/parfums/chanel-chance",
+    "impAutre": 26
+   },
+   {
+    "q": "parfum chanel chance",
+    "impIci": 29,
+    "autre": "/parfums/chanel-chance",
+    "impAutre": 12
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/chance-eau-tendre-chanel",
+  "type": "produit",
+  "marque": "Chanel",
+  "nom": "Chance Eau Tendre",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chanel Chance Eau Tendre Parfum Femme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Coing",
+   "Jacinthe",
+   "Ambre blanc"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 17,
+   "pos": 8,
+   "ctr": 11.8
+  },
+  "requetes": [
+   {
+    "q": "chance eau tendre edt",
+    "imp": 2,
+    "clics": 0,
+    "pos": 15
+   },
+   {
+    "q": "chance eau tendre",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "chanel chance parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 52
+   },
+   {
+    "q": "son prix en algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "سعره في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "كم سعرهم؟",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "volumeNom": {
+   "k": "chance eau tendre",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chanel-chance-eau-fraiche",
+    "nom": "Chance Eau Fraîche",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-tendre",
+    "nom": "Chance Eau Tendre Eau de Parfum",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance",
+    "nom": "Chance",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-vive",
+    "nom": "Chance Eau Vive",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "chanel-chance-eau-splendide",
+    "nom": "Chance Eau Splendide",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-045.json"
+ },
+ {
+  "chemin": "/parfums/club-de-nuit-women-armaf",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Club de Nuit Women",
+  "conc": "EDP",
+  "volume": "105ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Armaf Club de Nuit Women Parfum Femme Algérie",
+  "notes": [
+   "Orange",
+   "Bergamote",
+   "Rose",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 86,
+   "imp": 3048,
+   "pos": 5.8,
+   "ctr": 2.8
+  },
+  "requetes": [
+   {
+    "q": "club de nuit parfum",
+    "imp": 142,
+    "clics": 1,
+    "pos": 5.8
+   },
+   {
+    "q": "club de nuit woman",
+    "imp": 133,
+    "clics": 1,
+    "pos": 6.5
+   },
+   {
+    "q": "club de nuit woman prix",
+    "imp": 124,
+    "clics": 2,
+    "pos": 4.3
+   },
+   {
+    "q": "club de nuit parfum femme",
+    "imp": 109,
+    "clics": 0,
+    "pos": 6.1
+   },
+   {
+    "q": "club de nuit",
+    "imp": 106,
+    "clics": 1,
+    "pos": 9.1
+   },
+   {
+    "q": "armaf club de nuit woman",
+    "imp": 103,
+    "clics": 2,
+    "pos": 5.9
+   },
+   {
+    "q": "parfum club de nuit",
+    "imp": 103,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "parfum club de nuit femme prix algérie",
+    "imp": 92,
+    "clics": 12,
+    "pos": 1.2
+   },
+   {
+    "q": "club de nuit parfum prix algérie",
+    "imp": 92,
+    "clics": 5,
+    "pos": 7.1
+   },
+   {
+    "q": "club de nuit femme",
+    "imp": 89,
+    "clics": 1,
+    "pos": 6.9
+   },
+   {
+    "q": "parfum club de nuit femme",
+    "imp": 67,
+    "clics": 0,
+    "pos": 5.1
+   },
+   {
+    "q": "club de nuit parfum prix",
+    "imp": 35,
+    "clics": 1,
+    "pos": 7.3
+   }
+  ],
+  "volumeNom": {
+   "k": "club de nuit women",
+   "vol": 70
+  },
+  "motsCles": [
+   {
+    "k": "club de nuit",
+    "vol": 1000,
+    "notrePos": 10
+   },
+   {
+    "k": "club de nuit parfum",
+    "vol": 480,
+    "notrePos": 13
+   },
+   {
+    "k": "armaf club de nuit",
+    "vol": 260,
+    "notrePos": 20
+   },
+   {
+    "k": "parfum club de nuit",
+    "vol": 260,
+    "notrePos": 13
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "club-de-nuit-intense-armaf",
+    "nom": "Club de Nuit Intense Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-femme",
+    "nom": "Club de Nuit Intense Woman",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-milestone",
+    "nom": "Club de Nuit Milestone",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-untold",
+    "nom": "Club de Nuit Untold",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-oud",
+    "nom": "Club de Nuit Oud",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-sillage",
+    "nom": "Club de Nuit Sillage",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-man",
+    "nom": "Club de Nuit Urban Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-elixir",
+    "nom": "Club De Nuit Urban Elixir",
+    "conc": "EDP",
+    "vol": "105ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "club de nuit parfum prix algérie",
+    "impIci": 92,
+    "autre": "/parfums/club-de-nuit-intense-armaf",
+    "impAutre": 90
+   },
+   {
+    "q": "club de nuit",
+    "impIci": 106,
+    "autre": "/parfums/club-de-nuit-intense-armaf",
+    "impAutre": 32
+   },
+   {
+    "q": "armaf club de nuit",
+    "impIci": 35,
+    "autre": "/parfums/club-de-nuit-intense-armaf",
+    "impAutre": 21
+   },
+   {
+    "q": "parfum armaf femme",
+    "impIci": 35,
+    "autre": "/parfums/armaf-club-de-nuit-intense-femme",
+    "impAutre": 15
+   },
+   {
+    "q": "prix club de nuit intense algerie",
+    "impIci": 16,
+    "autre": "/parfums/club-de-nuit-intense-armaf",
+    "impAutre": 16
+   },
+   {
+    "q": "club de nuit intense woman",
+    "impIci": 5,
+    "autre": "/parfums/armaf-club-de-nuit-intense-femme",
+    "impAutre": 26
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/club-de-nuit-intense-armaf",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Club de Nuit Intense Man",
+  "conc": "EDP",
+  "volume": "105ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Armaf Club de Nuit Intense Man Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Ananas",
+   "Bouleau",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 145,
+   "imp": 2477,
+   "pos": 5.8,
+   "ctr": 5.9
+  },
+  "requetes": [
+   {
+    "q": "club de nuit intense",
+    "imp": 195,
+    "clics": 1,
+    "pos": 8.3
+   },
+   {
+    "q": "club de nuit intense man",
+    "imp": 118,
+    "clics": 1,
+    "pos": 8.4
+   },
+   {
+    "q": "club de nuit parfum prix algérie",
+    "imp": 90,
+    "clics": 4,
+    "pos": 3.9
+   },
+   {
+    "q": "club de nuit intense prix algérie",
+    "imp": 37,
+    "clics": 2,
+    "pos": 4.3
+   },
+   {
+    "q": "club de nuit",
+    "imp": 32,
+    "clics": 0,
+    "pos": 9.3
+   },
+   {
+    "q": "armaf club de nuit intense man",
+    "imp": 31,
+    "clics": 1,
+    "pos": 6.6
+   },
+   {
+    "q": "armaf club de nuit",
+    "imp": 21,
+    "clics": 3,
+    "pos": 6.2
+   },
+   {
+    "q": "prix club de nuit intense algerie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 29
+   },
+   {
+    "q": "نعم",
+    "imp": 14,
+    "clics": 2,
+    "pos": 5.1
+   },
+   {
+    "q": "armaf club de nuit intense",
+    "imp": 14,
+    "clics": 0,
+    "pos": 13.9
+   },
+   {
+    "q": "club de nuit intense man prix",
+    "imp": 13,
+    "clics": 1,
+    "pos": 8.2
+   },
+   {
+    "q": "armaf",
+    "imp": 12,
+    "clics": 0,
+    "pos": 5.4
+   }
+  ],
+  "volumeNom": {
+   "k": "club de nuit intense man",
+   "vol": 390
+  },
+  "motsCles": [
+   {
+    "k": "club de nuit intense",
+    "vol": 390,
+    "notrePos": 11
+   },
+   {
+    "k": "club de nuit intense man",
+    "vol": 390,
+    "notrePos": 21
+   },
+   {
+    "k": "armaf club de nuit intense man",
+    "vol": 170,
+    "notrePos": 18
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "club-de-nuit-women-armaf",
+    "nom": "Club de Nuit Women",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-femme",
+    "nom": "Club de Nuit Intense Woman",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-milestone",
+    "nom": "Club de Nuit Milestone",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-untold",
+    "nom": "Club de Nuit Untold",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-oud",
+    "nom": "Club de Nuit Oud",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-sillage",
+    "nom": "Club de Nuit Sillage",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-man",
+    "nom": "Club de Nuit Urban Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-elixir",
+    "nom": "Club De Nuit Urban Elixir",
+    "conc": "EDP",
+    "vol": "105ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "club de nuit parfum prix algérie",
+    "impIci": 90,
+    "autre": "/parfums/club-de-nuit-women-armaf",
+    "impAutre": 92
+   },
+   {
+    "q": "club de nuit",
+    "impIci": 32,
+    "autre": "/parfums/club-de-nuit-women-armaf",
+    "impAutre": 106
+   },
+   {
+    "q": "armaf club de nuit",
+    "impIci": 21,
+    "autre": "/parfums/club-de-nuit-women-armaf",
+    "impAutre": 35
+   },
+   {
+    "q": "prix club de nuit intense algerie",
+    "impIci": 16,
+    "autre": "/parfums/club-de-nuit-women-armaf",
+    "impAutre": 16
+   },
+   {
+    "q": "club de nuit prix",
+    "impIci": 7,
+    "autre": "/parfums/club-de-nuit-women-armaf",
+    "impAutre": 23
+   },
+   {
+    "q": "prix club de nuit intense algerie",
+    "impIci": 16,
+    "autre": "/marques/armaf",
+    "impAutre": 10
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/carolina-herrera-212-men",
+  "type": "produit",
+  "marque": "Carolina Herrera",
+  "nom": "212 Men",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Carolina Herrera 212 Men Parfum Homme Algérie",
+  "notes": [
+   "Notes vertes",
+   "Pamplemousse",
+   "Gingembre",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 13,
+   "imp": 693,
+   "pos": 5.9,
+   "ctr": 1.9
+  },
+  "requetes": [
+   {
+    "q": "+212",
+    "imp": 176,
+    "clics": 0,
+    "pos": 6.5
+   },
+   {
+    "q": "parfum 212 homme prix",
+    "imp": 74,
+    "clics": 0,
+    "pos": 6.1
+   },
+   {
+    "q": "212",
+    "imp": 43,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "212 algerie",
+    "imp": 19,
+    "clics": 0,
+    "pos": 6.4
+   },
+   {
+    "q": "algerie 212",
+    "imp": 10,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "carolina herrera 212 men",
+    "imp": 9,
+    "clics": 0,
+    "pos": 7.7
+   },
+   {
+    "q": "212 parfum homme",
+    "imp": 8,
+    "clics": 0,
+    "pos": 10.5
+   },
+   {
+    "q": "212 men",
+    "imp": 7,
+    "clics": 0,
+    "pos": 9.7
+   },
+   {
+    "q": "212 parfum prix",
+    "imp": 6,
+    "clics": 0,
+    "pos": 5.8
+   },
+   {
+    "q": "212 carolina herrera",
+    "imp": 5,
+    "clics": 0,
+    "pos": 8.4
+   },
+   {
+    "q": "carolina herrera 212",
+    "imp": 4,
+    "clics": 1,
+    "pos": 6.8
+   },
+   {
+    "q": "parfum 212",
+    "imp": 4,
+    "clics": 1,
+    "pos": 6.3
+   }
+  ],
+  "volumeNom": {
+   "k": "212 men",
+   "vol": 40
+  },
+  "motsCles": [
+   {
+    "k": "212 men",
+    "vol": 40,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "212 men nyc",
+    "vol": 30,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "parfum 212 men",
+    "vol": 30,
+    "posMust": 2,
+    "notrePos": null
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "212-vip-women-carolina-herrera",
+    "nom": "212 VIP Women",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "vip-rose-carolina-herrera",
+    "nom": "212 VIP Rosé",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "carolina-herrera-212-vip-men",
+    "nom": "212 VIP Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "212-sexy-women-carolina-herrera",
+    "nom": "212 Sexy Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-vip-black",
+    "nom": "212 VIP Black",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-sexy-men",
+    "nom": "212 Sexy Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-heroes-forever-young",
+    "nom": "212 Heroes Forever Young",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "carolina-herrera-212-men-summer",
+    "nom": "212 Men Summer",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "+212",
+    "impIci": 176,
+    "autre": "/parfums/carolina-herrera-212-sexy-men",
+    "impAutre": 70
+   },
+   {
+    "q": "+212",
+    "impIci": 176,
+    "autre": "/parfums/212-sexy-women-carolina-herrera",
+    "impAutre": 46
+   }
+  ],
+  "_f": "lot-003.json"
+ },
+ {
+  "chemin": "/parfums/212-vip-women-carolina-herrera",
+  "type": "produit",
+  "marque": "Carolina Herrera",
+  "nom": "212 VIP Women",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Carolina Herrera 212 VIP Parfum Femme Algérie",
+  "notes": [
+   "Rhum",
+   "Fruit de la passion",
+   "Gardénia",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 8,
+   "imp": 228,
+   "pos": 6.7,
+   "ctr": 3.5
+  },
+  "requetes": [
+   {
+    "q": "parfum 212 vip femme prix",
+    "imp": 22,
+    "clics": 0,
+    "pos": 6.2
+   },
+   {
+    "q": "parfum vip femme",
+    "imp": 11,
+    "clics": 0,
+    "pos": 9.7
+   },
+   {
+    "q": "212 vip femme",
+    "imp": 6,
+    "clics": 0,
+    "pos": 11.2
+   },
+   {
+    "q": "212 vip for her",
+    "imp": 3,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "501 vip parfum femme prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 2.7
+   },
+   {
+    "q": "parfum 212 femme prix",
+    "imp": 3,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "parfum 212 vip femme",
+    "imp": 3,
+    "clics": 0,
+    "pos": 7.7
+   },
+   {
+    "q": "212 vip prix",
+    "imp": 2,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "prix algerie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 9.5
+   },
+   {
+    "q": "vip pour femme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "ch 212 vip women",
+    "imp": 1,
+    "clics": 1,
+    "pos": 5
+   },
+   {
+    "q": "202 vip perfume",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "volumeNom": {
+   "k": "212 vip women",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "vip-rose-carolina-herrera",
+    "nom": "212 VIP Rosé",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "carolina-herrera-212-men",
+    "nom": "212 Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-vip-men",
+    "nom": "212 VIP Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "212-sexy-women-carolina-herrera",
+    "nom": "212 Sexy Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-vip-black",
+    "nom": "212 VIP Black",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-sexy-men",
+    "nom": "212 Sexy Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "carolina-herrera-212-heroes-forever-young",
+    "nom": "212 Heroes Forever Young",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "carolina-herrera-212-men-summer",
+    "nom": "212 Men Summer",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-011.json"
+ },
+ {
+  "chemin": "/parfums/armani-code",
+  "type": "produit",
+  "marque": "Giorgio Armani",
+  "nom": "Code",
+  "conc": "EDP",
+  "volume": "110ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Armani Code Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Café Arabica",
+   "Bois de Guaiac"
+  ],
+  "gsc": {
+   "clics": 5,
+   "imp": 153,
+   "pos": 7.4,
+   "ctr": 3.3
+  },
+  "requetes": [
+   {
+    "q": "armani code",
+    "imp": 6,
+    "clics": 0,
+    "pos": 9.8
+   },
+   {
+    "q": "armani code parfum",
+    "imp": 3,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "armani code prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 10.3
+   },
+   {
+    "q": "armani code homme 100ml prix",
+    "imp": 2,
+    "clics": 0,
+    "pos": 2.5
+   },
+   {
+    "q": "cod parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "parfum cod",
+    "imp": 2,
+    "clics": 0,
+    "pos": 8.5
+   },
+   {
+    "q": "prix algérie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 7.5
+   },
+   {
+    "q": "سعر",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4.5
+   },
+   {
+    "q": "سعرها في الجزائر",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "في الجزائر",
+    "imp": 1,
+    "clics": 1,
+    "pos": 3
+   },
+   {
+    "q": "armani black code",
+    "imp": 1,
+    "clics": 0,
+    "pos": 44
+   },
+   {
+    "q": "armani code eau de parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   }
+  ],
+  "volumeNom": {
+   "k": "giorgio armani code",
+   "vol": 20
+  },
+  "motsCles": [
+   {
+    "k": "armani code",
+    "vol": 880,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "armani code giorgio armani",
+    "vol": 880,
+    "posMust": 1,
+    "notrePos": 23
+   },
+   {
+    "k": "armani code parfum",
+    "vol": 720,
+    "posMust": 3,
+    "notrePos": 13
+   },
+   {
+    "k": "armani code profumo",
+    "vol": 720,
+    "posMust": 7,
+    "notrePos": 16
+   },
+   {
+    "k": "parfum armani code profumo",
+    "vol": 720,
+    "posMust": 9,
+    "notrePos": 17
+   },
+   {
+    "k": "armani code parfum giorgio armani",
+    "vol": 110,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "armani code parfum homme",
+    "vol": 110,
+    "posMust": 5,
+    "notrePos": null
+   },
+   {
+    "k": "parfum armani code",
+    "vol": 110,
+    "posMust": 2,
+    "notrePos": null
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "armani-code-absolu",
+    "nom": "Code Absolu",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-code-edp",
+    "nom": "Code EDP",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "armani-code-femme",
+    "nom": "Code Femme",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-code-profumo",
+    "nom": "Code Profumo",
+    "conc": "Parfum",
+    "vol": "110ml"
+   },
+   {
+    "slug": "armani-code-parfum",
+    "nom": "Code Parfum",
+    "conc": "Parfum",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-code-elixir",
+    "nom": "Code Elixir",
+    "conc": "Parfum",
+    "vol": "50ml"
+   },
+   {
+    "slug": "armani-code-colonia",
+    "nom": "Code Colonia",
+    "conc": "Cologne",
+    "vol": "125ml"
+   },
+   {
+    "slug": "armani-code-a-list",
+    "nom": "Code A-List",
+    "conc": "EDT",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "armani code",
+    "impIci": 6,
+    "autre": "/parfums/armani-code-edp",
+    "impAutre": 23
+   },
+   {
+    "q": "armani code",
+    "impIci": 6,
+    "autre": "/parfums/armani-code-parfum",
+    "impAutre": 9
+   }
+  ],
+  "_f": "lot-014.json"
+ },
+ {
+  "chemin": "/parfums/stronger-with-you-armani",
+  "type": "produit",
+  "marque": "Giorgio Armani",
+  "nom": "Stronger With You",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Armani Stronger With You Parfum Homme Algérie",
+  "notes": [
+   "Châtaigne",
+   "Sucre",
+   "Sauge",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 6,
+   "imp": 292,
+   "pos": 7.9,
+   "ctr": 2.1
+  },
+  "requetes": [
+   {
+    "q": "parfum you",
+    "imp": 9,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "strong white you",
+    "imp": 7,
+    "clics": 0,
+    "pos": 2.3
+   },
+   {
+    "q": "stronger with you absolutely prix algérie",
+    "imp": 6,
+    "clics": 1,
+    "pos": 9.3
+   },
+   {
+    "q": "armani you",
+    "imp": 5,
+    "clics": 0,
+    "pos": 22.8
+   },
+   {
+    "q": "parfume you",
+    "imp": 4,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "stronger with you",
+    "imp": 4,
+    "clics": 0,
+    "pos": 9.5
+   },
+   {
+    "q": "you parfum",
+    "imp": 4,
+    "clics": 0,
+    "pos": 26.5
+   },
+   {
+    "q": "strong with u",
+    "imp": 3,
+    "clics": 0,
+    "pos": 3.3
+   },
+   {
+    "q": "stronger with you edt",
+    "imp": 3,
+    "clics": 0,
+    "pos": 18.7
+   },
+   {
+    "q": "صور",
+    "imp": 3,
+    "clics": 0,
+    "pos": 2.3
+   },
+   {
+    "q": "armani stronger with you",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "dior stronger with you",
+    "imp": 2,
+    "clics": 0,
+    "pos": 2
+   }
+  ],
+  "volumeNom": {
+   "k": "stronger with you",
+   "vol": 3600
+  },
+  "motsCles": [
+   {
+    "k": "stronger with you",
+    "vol": 4400,
+    "posMust": 1,
+    "notrePos": 33
+   },
+   {
+    "k": "you parfum",
+    "vol": 1000,
+    "posMust": 2,
+    "notrePos": 22
+   },
+   {
+    "k": "armani stronger with you",
+    "vol": 590,
+    "posMust": 2,
+    "notrePos": 13
+   },
+   {
+    "k": "armani you",
+    "vol": 590,
+    "posMust": 2,
+    "notrePos": 25
+   },
+   {
+    "k": "stronger with you absolutely",
+    "vol": 590,
+    "posMust": 2,
+    "notrePos": 41
+   },
+   {
+    "k": "stronger with you by emporio armani",
+    "vol": 590,
+    "posMust": 1,
+    "notrePos": 31
+   },
+   {
+    "k": "stronger with you emporio armani",
+    "vol": 590,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "stronger with you parfum",
+    "vol": 390,
+    "posMust": 1,
+    "notrePos": 26
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "stronger-with-you-intensely",
+    "nom": "Stronger With You Intensely",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "stronger-with-you-absolutely",
+    "nom": "Stronger With You Absolutely",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-stronger-with-you-only",
+    "nom": "Stronger With You Only",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-stronger-with-you-freezing",
+    "nom": "Stronger With You Freeze",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-009.json"
+ },
+ {
+  "chemin": "/parfums/1-million-paco-rabanne",
+  "type": "produit",
+  "marque": "Paco Rabanne",
+  "nom": "1 Million",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "1 Million Paco Rabanne Parfum Homme Algérie",
+  "notes": [
+   "Mandarine Sanguine",
+   "Pamplemousse Rosé",
+   "Rose",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 14,
+   "imp": 690,
+   "pos": 5.2,
+   "ctr": 2
+  },
+  "requetes": [
+   {
+    "q": "one million parfum 100ml prix algérie",
+    "imp": 39,
+    "clics": 0,
+    "pos": 5.8
+   },
+   {
+    "q": "1 million parfum prix algérie",
+    "imp": 14,
+    "clics": 1,
+    "pos": 4.1
+   },
+   {
+    "q": "paco rabanne 1 million prix",
+    "imp": 5,
+    "clics": 0,
+    "pos": 4.8
+   },
+   {
+    "q": "paco rabanne parfum prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 4.7
+   },
+   {
+    "q": "parfum 1 million",
+    "imp": 3,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "parfum 1 million homme prix",
+    "imp": 3,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "parfum one million homme prix",
+    "imp": 3,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "prix",
+    "imp": 3,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "prix en algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "نعم",
+    "imp": 3,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "one million",
+    "imp": 2,
+    "clics": 0,
+    "pos": 26
+   },
+   {
+    "q": "one million parfum homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 1.5
+   }
+  ],
+  "volumeNom": {
+   "k": "1 million",
+   "vol": 480
+  },
+  "motsCles": [
+   {
+    "k": "one in a million parfum",
+    "vol": 590,
+    "posMust": 1,
+    "notrePos": 51
+   },
+   {
+    "k": "1 million",
+    "vol": 480,
+    "posMust": 2,
+    "notrePos": 27
+   },
+   {
+    "k": "1 millions",
+    "vol": 480,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "million 1 million",
+    "vol": 480,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "1 million lucky paco rabanne",
+    "vol": 260,
+    "posMust": 3,
+    "notrePos": 23
+   },
+   {
+    "k": "1 million parfum",
+    "vol": 210,
+    "posMust": 2,
+    "notrePos": 18
+   },
+   {
+    "k": "1 millions parfum",
+    "vol": 210,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "parfum 1 million femme",
+    "vol": 140,
+    "posMust": 5,
+    "notrePos": null
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "1-million-lucky-paco-rabanne",
+    "nom": "1 Million Lucky",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "paco-rabanne-1-million-elixir",
+    "nom": "1 Million Elixir",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "1-million-parfum-paco-rabanne",
+    "nom": "1 Million Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "paco-rabanne-1-million-royal",
+    "nom": "1 Million Royal",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "paco-rabanne-1-million-black",
+    "nom": "1 Million Black",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "paco-rabanne-1-million-golden-oud",
+    "nom": "1 Million Golden Oud",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "paco-rabanne-1-million-night-elixir",
+    "nom": "1 Million Night Elixir",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "one million parfum 100ml prix algérie",
+    "impIci": 39,
+    "autre": "/parfums/paco-rabanne-1-million-elixir",
+    "impAutre": 25
+   }
+  ],
+  "_f": "lot-003.json"
+ },
+ {
+  "chemin": "/parfums/jean-paul-gaultier-le-male-elixir",
+  "type": "produit",
+  "marque": "Jean Paul Gaultier",
+  "nom": "Le Male Elixir",
+  "conc": "Parfum",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Jean Paul Gaultier Le Male Elixir Parfum Homme Algérie",
+  "notes": [
+   "Lavande",
+   "Menthe",
+   "Miel",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 180,
+   "pos": 7.2,
+   "ctr": 1.1
+  },
+  "requetes": [
+   {
+    "q": "le male elixir prix algérie",
+    "imp": 17,
+    "clics": 0,
+    "pos": 8.9
+   },
+   {
+    "q": "jean paul gaultier le male elixir prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "le male elixir",
+    "imp": 3,
+    "clics": 0,
+    "pos": 18
+   },
+   {
+    "q": "سعر في الجزائر",
+    "imp": 3,
+    "clics": 0,
+    "pos": 3.7
+   },
+   {
+    "q": "كم سعره في الجزائر",
+    "imp": 3,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 1,
+    "pos": 5.5
+   },
+   {
+    "q": "elixir parfum homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 34
+   },
+   {
+    "q": "jean paul le male elixir",
+    "imp": 2,
+    "clics": 0,
+    "pos": 7.5
+   },
+   {
+    "q": "le male elixir 125",
+    "imp": 2,
+    "clics": 0,
+    "pos": 16.5
+   },
+   {
+    "q": "le male elixir prix",
+    "imp": 2,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "prix",
+    "imp": 2,
+    "clics": 0,
+    "pos": 1.5
+   },
+   {
+    "q": "30ml",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   }
+  ],
+  "volumeNom": {
+   "k": "le male elixir",
+   "vol": 1900
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "le-male-jean-paul-gaultier",
+    "nom": "Le Male",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "le-male-le-parfum",
+    "nom": "Le Male Le Parfum",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-le-male-elixir-absolu",
+    "nom": "Le Male Elixir Absolu",
+    "conc": "Parfum",
+    "vol": "125ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-le-male-in-blue",
+    "nom": "Le Male In Blue",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-le-male-on-board",
+    "nom": "Le Male On Board",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-le-male-terrible",
+    "nom": "Le Male Terrible",
+    "conc": "EDT",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-012.json"
+ },
+ {
+  "chemin": "/parfums/dior-sauvage",
+  "type": "produit",
+  "marque": "Dior",
+  "nom": "Sauvage",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Dior Sauvage Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Poivre de Sichuan",
+   "Ambroxan"
+  ],
+  "gsc": {
+   "clics": 42,
+   "imp": 1611,
+   "pos": 5.3,
+   "ctr": 2.6
+  },
+  "requetes": [
+   {
+    "q": "sauvage dior 100ml prix en algérie",
+    "imp": 142,
+    "clics": 2,
+    "pos": 6.4
+   },
+   {
+    "q": "dior sauvage prix algérie",
+    "imp": 44,
+    "clics": 3,
+    "pos": 4.6
+   },
+   {
+    "q": "dior sauvage eau de parfum 100ml prix algerie",
+    "imp": 26,
+    "clics": 2,
+    "pos": 4.7
+   },
+   {
+    "q": "dior sauvage original prix algerie",
+    "imp": 26,
+    "clics": 0,
+    "pos": 6.2
+   },
+   {
+    "q": "sauvage dior prix algérie",
+    "imp": 25,
+    "clics": 0,
+    "pos": 4.6
+   },
+   {
+    "q": "prix parfum sauvage dior en algerie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 5.4
+   },
+   {
+    "q": "dior sauvage",
+    "imp": 14,
+    "clics": 1,
+    "pos": 9
+   },
+   {
+    "q": "dior sauvage algérie",
+    "imp": 8,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "sauvage dior",
+    "imp": 8,
+    "clics": 0,
+    "pos": 14.8
+   },
+   {
+    "q": "dior sauvage prix",
+    "imp": 5,
+    "clics": 0,
+    "pos": 25.4
+   },
+   {
+    "q": "prix algérie",
+    "imp": 5,
+    "clics": 0,
+    "pos": 9.2
+   },
+   {
+    "q": "كم سعره في الجزائر",
+    "imp": 5,
+    "clics": 0,
+    "pos": 2.2
+   }
+  ],
+  "volumeNom": {
+   "k": "dior sauvage",
+   "vol": 1000
+  },
+  "motsCles": [
+   {
+    "k": "parfums sauvage",
+    "vol": 210,
+    "notrePos": 29
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "dior-sauvage-elixir",
+    "nom": "Sauvage Elixir",
+    "conc": "Parfum",
+    "vol": "60ml"
+   },
+   {
+    "slug": "dior-sauvage-parfum",
+    "nom": "Sauvage Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dior-sauvage-eau-forte",
+    "nom": "Sauvage Eau Forte",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "dior sauvage prix algérie",
+    "impIci": 44,
+    "autre": "/parfums/dior-sauvage-elixir",
+    "impAutre": 38
+   },
+   {
+    "q": "sauvage dior prix algérie",
+    "impIci": 25,
+    "autre": "/parfums/dior-sauvage-elixir",
+    "impAutre": 25
+   },
+   {
+    "q": "prix parfum sauvage dior en algerie",
+    "impIci": 16,
+    "autre": "/parfums/dior-sauvage-elixir",
+    "impAutre": 19
+   },
+   {
+    "q": "dior sauvage",
+    "impIci": 14,
+    "autre": "/parfums/eau-sauvage-dior",
+    "impAutre": 14
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/dior-sauvage-elixir",
+  "type": "produit",
+  "marque": "Dior",
+  "nom": "Sauvage Elixir",
+  "conc": "Parfum",
+  "volume": "60ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Dior Sauvage Elixir Parfum Homme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Cannelle",
+   "Lavande",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 76,
+   "imp": 1636,
+   "pos": 4.7,
+   "ctr": 4.6
+  },
+  "requetes": [
+   {
+    "q": "dior sauvage elixir 60 ml prix algérie",
+    "imp": 73,
+    "clics": 10,
+    "pos": 3.6
+   },
+   {
+    "q": "dior sauvage 60 ml prix algérie",
+    "imp": 58,
+    "clics": 6,
+    "pos": 1.9
+   },
+   {
+    "q": "dior sauvage elixir 100ml prix algérie",
+    "imp": 50,
+    "clics": 1,
+    "pos": 6.8
+   },
+   {
+    "q": "sauvage elixir",
+    "imp": 45,
+    "clics": 2,
+    "pos": 7.6
+   },
+   {
+    "q": "dior sauvage elixir prix algérie",
+    "imp": 42,
+    "clics": 6,
+    "pos": 4.1
+   },
+   {
+    "q": "sauvage elixir prix algérie",
+    "imp": 42,
+    "clics": 1,
+    "pos": 5.2
+   },
+   {
+    "q": "sauvage elixir prix",
+    "imp": 41,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "dior sauvage prix algérie",
+    "imp": 38,
+    "clics": 0,
+    "pos": 3.7
+   },
+   {
+    "q": "dior sauvage elixir",
+    "imp": 28,
+    "clics": 1,
+    "pos": 8.4
+   },
+   {
+    "q": "sauvage dior prix algérie",
+    "imp": 25,
+    "clics": 0,
+    "pos": 3.5
+   },
+   {
+    "q": "sauvage elixir dior 60ml prix",
+    "imp": 24,
+    "clics": 0,
+    "pos": 6.5
+   },
+   {
+    "q": "prix parfum sauvage dior en algerie",
+    "imp": 19,
+    "clics": 0,
+    "pos": 2.4
+   }
+  ],
+  "volumeNom": {
+   "k": "sauvage elixir",
+   "vol": 720
+  },
+  "motsCles": [
+   {
+    "k": "sauvage elixir",
+    "vol": 720,
+    "notrePos": 16
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "dior-sauvage",
+    "nom": "Sauvage",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dior-sauvage-parfum",
+    "nom": "Sauvage Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dior-sauvage-eau-forte",
+    "nom": "Sauvage Eau Forte",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": [
+   {
+    "q": "dior sauvage prix algérie",
+    "impIci": 38,
+    "autre": "/parfums/dior-sauvage",
+    "impAutre": 44
+   },
+   {
+    "q": "sauvage dior prix algérie",
+    "impIci": 25,
+    "autre": "/parfums/dior-sauvage",
+    "impAutre": 25
+   },
+   {
+    "q": "prix parfum sauvage dior en algerie",
+    "impIci": 19,
+    "autre": "/parfums/dior-sauvage",
+    "impAutre": 16
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/baccarat-rouge-540",
+  "type": "produit",
+  "marque": "Maison Francis Kurkdjian",
+  "nom": "Baccarat Rouge 540",
+  "conc": "EDP",
+  "volume": "70ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Baccarat Rouge 540 Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Jasmin",
+   "Bois Ambré",
+   "Résine de Sapin"
+  ],
+  "gsc": {
+   "clics": 23,
+   "imp": 763,
+   "pos": 6.6,
+   "ctr": 3
+  },
+  "requetes": [
+   {
+    "q": "baccarat rouge",
+    "imp": 29,
+    "clics": 0,
+    "pos": 15.2
+   },
+   {
+    "q": "baccarat rouge prix algérie",
+    "imp": 25,
+    "clics": 0,
+    "pos": 4.8
+   },
+   {
+    "q": "parfum baccarat rouge original prix algérie",
+    "imp": 20,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "baccarat rouge 540 prix algérie",
+    "imp": 12,
+    "clics": 0,
+    "pos": 4.5
+   },
+   {
+    "q": "baccarat rouge 540",
+    "imp": 7,
+    "clics": 1,
+    "pos": 4.7
+   },
+   {
+    "q": "كم سعره في الجزائر",
+    "imp": 7,
+    "clics": 0,
+    "pos": 1.6
+   },
+   {
+    "q": "baccarat rouge homme",
+    "imp": 5,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "parfum baccarat rouge",
+    "imp": 4,
+    "clics": 2,
+    "pos": 11
+   },
+   {
+    "q": "maison francis kurkdjian baccarat rouge 540",
+    "imp": 4,
+    "clics": 0,
+    "pos": 23.8
+   },
+   {
+    "q": "parfum baccarat rouge prix algérie",
+    "imp": 3,
+    "clics": 1,
+    "pos": 12.3
+   },
+   {
+    "q": "bakara rouj",
+    "imp": 3,
+    "clics": 0,
+    "pos": 9.3
+   },
+   {
+    "q": "algérie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5.5
+   }
+  ],
+  "volumeNom": {
+   "k": "baccarat rouge 540",
+   "vol": 1000
+  },
+  "motsCles": [
+   {
+    "k": "parfum baccarat rouge",
+    "vol": 320,
+    "notrePos": 34
+   },
+   {
+    "k": "parfums baccarat rouge",
+    "vol": 320,
+    "notrePos": 29
+   },
+   {
+    "k": "baccarat rouge homme",
+    "vol": 260,
+    "notrePos": 25
+   }
+  ],
+  "variantes": [],
+  "partagees": [],
+  "_f": "lot-003.json"
+ },
+ {
+  "chemin": "/parfums/acqua-di-gio-profumo-armani",
+  "type": "produit",
+  "marque": "Giorgio Armani",
+  "nom": "Acqua di Gio Profumo",
+  "conc": "Parfum",
+  "volume": "75ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": false,
+  "h1": "Acqua di Gio Profumo Armani Parfum Homme Algérie",
+  "notes": [
+   "Notes marines",
+   "Bergamote",
+   "Romarin",
+   "Encens"
+  ],
+  "gsc": {
+   "clics": 52,
+   "imp": 1663,
+   "pos": 4.8,
+   "ctr": 3.1
+  },
+  "requetes": [
+   {
+    "q": "acqua di gio",
+    "imp": 537,
+    "clics": 5,
+    "pos": 3.2
+   },
+   {
+    "q": "acqua di gio profumo",
+    "imp": 384,
+    "clics": 14,
+    "pos": 5.9
+   },
+   {
+    "q": "aqua di gio",
+    "imp": 51,
+    "clics": 0,
+    "pos": 2.9
+   },
+   {
+    "q": "profumo",
+    "imp": 24,
+    "clics": 0,
+    "pos": 7.3
+   },
+   {
+    "q": "acqua di gio profumo prix",
+    "imp": 13,
+    "clics": 0,
+    "pos": 4.2
+   },
+   {
+    "q": "aqua di gio profumo",
+    "imp": 13,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "acqua di gio parfum",
+    "imp": 12,
+    "clics": 0,
+    "pos": 6.9
+   },
+   {
+    "q": "acqua di gio eau de parfum",
+    "imp": 10,
+    "clics": 0,
+    "pos": 8.1
+   },
+   {
+    "q": "aqua de gio",
+    "imp": 10,
+    "clics": 0,
+    "pos": 4.1
+   },
+   {
+    "q": "acqua di giò profumo",
+    "imp": 7,
+    "clics": 0,
+    "pos": 6.1
+   },
+   {
+    "q": "acqua di gio edp",
+    "imp": 6,
+    "clics": 0,
+    "pos": 6.7
+   },
+   {
+    "q": "acqua di gio prix",
+    "imp": 6,
+    "clics": 0,
+    "pos": 9.7
+   }
+  ],
+  "volumeNom": {
+   "k": "acqua di gio profumo",
+   "vol": 880
+  },
+  "motsCles": [
+   {
+    "k": "acqua di giò profumo",
+    "vol": 30,
+    "posMust": 3,
+    "notrePos": null
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "acqua-di-gio-armani",
+    "nom": "Acqua di Giò Parfum",
+    "conc": "Parfum",
+    "vol": "75ml"
+   },
+   {
+    "slug": "acqua-di-gio-profondo-armani",
+    "nom": "Acqua di Gio Profondo",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-acqua-di-gioia",
+    "nom": "Acqua di Gioia",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-acqua-di-gio-essenza",
+    "nom": "Acqua di Giò Essenza",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-acqua-di-gio-absolu",
+    "nom": "Acqua di Giò Absolu",
+    "conc": "EDP",
+    "vol": "200ml"
+   },
+   {
+    "slug": "armani-acqua-di-gio-elixir",
+    "nom": "Acqua di Giò Elixir",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums/pierre-cardin-pour-monsieur",
+  "type": "produit",
+  "marque": "Pierre Cardin",
+  "nom": "Pour Monsieur",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Pierre Cardin Pour Monsieur Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Géranium",
+   "Mousse de chêne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "pour monsieur",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": [],
+  "_f": "lot-059.json"
+ },
+ {
+  "chemin": "/parfums/eau-de-lacoste-l-12-blanc-pure-collector",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Gingembre",
+   "Pomarose",
+   "Daim"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de lacoste l 12 12 blanc pure collector edition",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-noir-fraicheur",
+    "nom": "Eau de Lacoste L.12.12. Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-eau-de-pour-homme-l-12-magnetic",
+    "nom": "Eau de Pour Homme L.12.12 Magnetic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-yellow-jaune-optimistic",
+    "nom": "Eau de Lacoste L.12.12 Yellow (Jaune) Optimistic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-magnetic",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Magnetic",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-rouge",
+    "nom": "Eau de Lacoste L.12.12. Rouge",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-sparkling",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Sparkling",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-french",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle French Panache",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-sparkling-collector-edition",
+    "nom": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": [],
+  "_f": "lot-063.json"
+ },
+ {
+  "chemin": "/marques/lattafa",
+  "type": "marque",
+  "marque": "Lattafa",
+  "nbProduits": 19,
+  "genres": {
+   "homme": 2,
+   "femme": 4,
+   "unisexe": 13
+  },
+  "oriental": 19,
+  "phares": [
+   "Khamrah",
+   "Khamrah Qahwa",
+   "Asad",
+   "Yara"
+  ],
+  "gsc": {
+   "clics": 212,
+   "imp": 2086,
+   "pos": 6,
+   "ctr": 10.2
+  },
+  "requetes": [
+   {
+    "q": "lattafa algerie",
+    "imp": 20,
+    "clics": 2,
+    "pos": 6
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "imp": 17,
+    "clics": 4,
+    "pos": 3.8
+   },
+   {
+    "q": "lattafa parfum prix algérie",
+    "imp": 12,
+    "clics": 0,
+    "pos": 5.2
+   },
+   {
+    "q": "نعم",
+    "imp": 12,
+    "clics": 0,
+    "pos": 5.1
+   },
+   {
+    "q": "lattafa parfum prix algerie",
+    "imp": 9,
+    "clics": 2,
+    "pos": 4.2
+   },
+   {
+    "q": "lattafa",
+    "imp": 8,
+    "clics": 0,
+    "pos": 11.9
+   },
+   {
+    "q": "lattafa asad algerie",
+    "imp": 6,
+    "clics": 0,
+    "pos": 5.7
+   },
+   {
+    "q": "prix algérie",
+    "imp": 5,
+    "clics": 1,
+    "pos": 4.6
+   },
+   {
+    "q": "parfum lattafa",
+    "imp": 4,
+    "clics": 1,
+    "pos": 4
+   },
+   {
+    "q": "khamrah qahwa algerie",
+    "imp": 4,
+    "clics": 0,
+    "pos": 13.3
+   },
+   {
+    "q": "lattafa parfum prix",
+    "imp": 4,
+    "clics": 0,
+    "pos": 1.3
+   },
+   {
+    "q": "oui",
+    "imp": 4,
+    "clics": 0,
+    "pos": 3.3
+   }
+  ],
+  "motsCles": [],
+  "partagees": [
+   {
+    "q": "lattafa algerie",
+    "impIci": 20,
+    "autre": "/parfums-orientaux",
+    "impAutre": 28
+   },
+   {
+    "q": "lattafa parfum prix algérie",
+    "impIci": 12,
+    "autre": "/parfums/lattafa-khamrah",
+    "impAutre": 17
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 17,
+    "autre": "/parfums-orientaux",
+    "impAutre": 7
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 17,
+    "autre": "/parfums/lattafa-khamrah",
+    "impAutre": 7
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/marques/bvlgari",
+  "type": "marque",
+  "marque": "Bvlgari",
+  "nbProduits": 41,
+  "genres": {
+   "homme": 18,
+   "femme": 21,
+   "unisexe": 2
+  },
+  "oriental": 8,
+  "phares": [
+   "Man in Black",
+   "Omnia",
+   "Bvlgari Pour Homme",
+   "Jasmin Noir"
+  ],
+  "gsc": {
+   "clics": 55,
+   "imp": 1371,
+   "pos": 5.2,
+   "ctr": 4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 121,
+    "clics": 0,
+    "pos": 1.1
+   },
+   {
+    "q": "bvlgari parfum",
+    "imp": 92,
+    "clics": 1,
+    "pos": 8.2
+   },
+   {
+    "q": "parfum bvlgari",
+    "imp": 29,
+    "clics": 0,
+    "pos": 11.8
+   },
+   {
+    "q": "parfum bulgarie",
+    "imp": 23,
+    "clics": 0,
+    "pos": 7.6
+   },
+   {
+    "q": "parfum bvlgari pour femme",
+    "imp": 20,
+    "clics": 0,
+    "pos": 8.5
+   },
+   {
+    "q": "bvlgari omnia",
+    "imp": 17,
+    "clics": 0,
+    "pos": 8.5
+   },
+   {
+    "q": "bulgari parfums",
+    "imp": 12,
+    "clics": 0,
+    "pos": 7.4
+   },
+   {
+    "q": "bvlgari parfum femme",
+    "imp": 11,
+    "clics": 0,
+    "pos": 7.1
+   },
+   {
+    "q": "bvlgari perfume",
+    "imp": 11,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "bulgarie parfum",
+    "imp": 10,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "parfum bulgari",
+    "imp": 7,
+    "clics": 0,
+    "pos": 2.4
+   },
+   {
+    "q": "parfum bvlgari omnia",
+    "imp": 7,
+    "clics": 0,
+    "pos": 3.1
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "bvlgari parfum",
+    "vol": 320,
+    "notrePos": 18
+   },
+   {
+    "k": "bvlgari tygar prix",
+    "vol": 90,
+    "posMust": 10,
+    "notrePos": null
+   },
+   {
+    "k": "aqva bvlgari",
+    "vol": 40,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "bvlgari jasmin noir",
+    "vol": 30,
+    "posMust": 4,
+    "notrePos": null
+   }
+  ],
+  "partagees": [
+   {
+    "q": "bvlgari parfum",
+    "impIci": 92,
+    "autre": "/parfums/bvlgari-pour-homme",
+    "impAutre": 43
+   },
+   {
+    "q": "parfum bvlgari",
+    "impIci": 29,
+    "autre": "/parfums/bvlgari-pour-homme",
+    "impAutre": 25
+   },
+   {
+    "q": "bvlgari omnia",
+    "impIci": 17,
+    "autre": "/parfums/bvlgari-omnia-crystalline",
+    "impAutre": 37
+   },
+   {
+    "q": "bvlgari omnia",
+    "impIci": 17,
+    "autre": "/parfums/bvlgari-omnia-coral",
+    "impAutre": 16
+   },
+   {
+    "q": "bvlgari parfum femme",
+    "impIci": 11,
+    "autre": "/parfums/bvlgari-pour-femme",
+    "impAutre": 21
+   },
+   {
+    "q": "parfum bvlgari pour femme",
+    "impIci": 20,
+    "autre": "/parfums/bvlgari-pour-femme",
+    "impAutre": 11
+   }
+  ],
+  "_f": "lot-002.json"
+ },
+ {
+  "chemin": "/marques/jean-paul-gaultier",
+  "type": "marque",
+  "marque": "Jean Paul Gaultier",
+  "nbProduits": 35,
+  "genres": {
+   "homme": 17,
+   "femme": 17,
+   "unisexe": 1
+  },
+  "oriental": 0,
+  "phares": [
+   "Gaultier²",
+   "Le Male Elixir",
+   "Le Beau Paradise Garden",
+   "Le Male Le Parfum"
+  ],
+  "gsc": {
+   "clics": 14,
+   "imp": 557,
+   "pos": 8.3,
+   "ctr": 2.5
+  },
+  "requetes": [
+   {
+    "q": "jean paul gaultier perfume",
+    "imp": 68,
+    "clics": 0,
+    "pos": 3.6
+   },
+   {
+    "q": "jean-paul gaultier",
+    "imp": 32,
+    "clics": 0,
+    "pos": 2.5
+   },
+   {
+    "q": "prix ultra male algerie",
+    "imp": 12,
+    "clics": 0,
+    "pos": 28.3
+   },
+   {
+    "q": "jean paul gaultier parfum prix algérie",
+    "imp": 5,
+    "clics": 0,
+    "pos": 11.8
+   },
+   {
+    "q": "parfum jean paul gaultier",
+    "imp": 5,
+    "clics": 0,
+    "pos": 66.6
+   },
+   {
+    "q": "jean paul gaultier",
+    "imp": 3,
+    "clics": 0,
+    "pos": 2.3
+   },
+   {
+    "q": "jean paul gaultier divine prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 24.7
+   },
+   {
+    "q": "jean paul gaultier parfum",
+    "imp": 3,
+    "clics": 0,
+    "pos": 46.7
+   },
+   {
+    "q": "jean paul parfum",
+    "imp": 3,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "ultra male parfum prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "gaultier parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "jean paul gaultier kokorico",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "jean paul gaultier",
+    "vol": 4400,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "jean paul gaultier parfum",
+    "vol": 2400,
+    "posMust": 2,
+    "notrePos": 47
+   },
+   {
+    "k": "parfum jean paul gaultier",
+    "vol": 2400,
+    "posMust": 2,
+    "notrePos": 22
+   },
+   {
+    "k": "jean paul gaultier le male",
+    "vol": 1000,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "jean paul gaultier homme parfum",
+    "vol": 720,
+    "posMust": 2,
+    "notrePos": 23
+   },
+   {
+    "k": "jean paul gaultier parfum homme",
+    "vol": 720,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "fragrances jean paul gaultier",
+    "vol": 590,
+    "posMust": 5,
+    "notrePos": null
+   },
+   {
+    "k": "jean paul gaultier parfum femme",
+    "vol": 590,
+    "posMust": 2,
+    "notrePos": 34
+   }
+  ],
+  "partagees": [
+   {
+    "q": "jean-paul gaultier",
+    "impIci": 32,
+    "autre": "/parfums/le-beau-jean-paul-gaultier",
+    "impAutre": 60
+   },
+   {
+    "q": "prix ultra male algerie",
+    "impIci": 12,
+    "autre": "/parfums/jean-paul-gaultier-ultra-male",
+    "impAutre": 14
+   }
+  ],
+  "_f": "lot-004.json"
+ },
+ {
+  "chemin": "/marques/kayali",
+  "type": "marque",
+  "marque": "Kayali",
+  "nbProduits": 12,
+  "genres": {
+   "homme": 0,
+   "femme": 3,
+   "unisexe": 9
+  },
+  "oriental": 3,
+  "phares": [
+   "Vanilla 28",
+   "Eden Juicy Apple 01",
+   "Eden Sparkling Lychee 39",
+   "Elixir 11"
+  ],
+  "gsc": {
+   "clics": 22,
+   "imp": 503,
+   "pos": 5.1,
+   "ctr": 4.4
+  },
+  "requetes": [
+   {
+    "q": "kay ali parfum",
+    "imp": 102,
+    "clics": 1,
+    "pos": 2.8
+   },
+   {
+    "q": "maison numidia",
+    "imp": 11,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "kayali parfum homme prix",
+    "imp": 3,
+    "clics": 0,
+    "pos": 4.3
+   },
+   {
+    "q": "kayalie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 4.3
+   },
+   {
+    "q": "les parfums kayali",
+    "imp": 3,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "oui",
+    "imp": 3,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "parfum femme kayali",
+    "imp": 3,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum kay ali",
+    "imp": 3,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "parfum kayali prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfums kayali",
+    "imp": 3,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "kayali algerie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "kayali eden juicy apple prix algérie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 9
+   }
+  ],
+  "motsCles": [],
+  "partagees": [
+   {
+    "q": "kay ali parfum",
+    "impIci": 102,
+    "autre": "/parfums-femme/kayali",
+    "impAutre": 65
+   },
+   {
+    "q": "kay ali parfum",
+    "impIci": 102,
+    "autre": "/parfums/kayali-vanilla-28",
+    "impAutre": 39
+   }
+  ],
+  "_f": "lot-005.json"
+ },
+ {
+  "chemin": "/marques/dior",
+  "type": "marque",
+  "marque": "Dior",
+  "nbProduits": 79,
+  "genres": {
+   "homme": 17,
+   "femme": 34,
+   "unisexe": 28
+  },
+  "oriental": 10,
+  "phares": [
+   "Miss Dior",
+   "Dolce Vita",
+   "Sauvage",
+   "J'adore"
+  ],
+  "gsc": {
+   "clics": 14,
+   "imp": 375,
+   "pos": 9.5,
+   "ctr": 3.7
+  },
+  "requetes": [
+   {
+    "q": "dior sauvage algérie",
+    "imp": 9,
+    "clics": 0,
+    "pos": 26.8
+   },
+   {
+    "q": "dior algerie",
+    "imp": 6,
+    "clics": 1,
+    "pos": 4.2
+   },
+   {
+    "q": "dior",
+    "imp": 2,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "dior parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 44.5
+   },
+   {
+    "q": "hypnotic poison dior prix algérie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 27.5
+   },
+   {
+    "q": "dior homme intense 100ml prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 30
+   },
+   {
+    "q": "dior homme intense 150 ml prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 33
+   },
+   {
+    "q": "dior homme intense prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 30
+   },
+   {
+    "q": "dior parfum prix",
+    "imp": 1,
+    "clics": 0,
+    "pos": 51
+   },
+   {
+    "q": "dior sauvage elixir prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 31
+   },
+   {
+    "q": "et celui la",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "fahrenheit 32",
+    "imp": 1,
+    "clics": 0,
+    "pos": 59
+   }
+  ],
+  "motsCles": [],
+  "partagees": [],
+  "_f": "lot-007.json"
+ },
+ {
+  "chemin": "/marques/ysl",
+  "type": "marque",
+  "marque": "Yves Saint Laurent",
+  "nbProduits": 71,
+  "genres": {
+   "homme": 19,
+   "femme": 37,
+   "unisexe": 15
+  },
+  "oriental": 9,
+  "phares": [
+   "Libre",
+   "Black Opium",
+   "La Nuit de L'Homme Le Parfum",
+   "L'Homme"
+  ],
+  "gsc": {
+   "clics": 3,
+   "imp": 113,
+   "pos": 13.4,
+   "ctr": 2.7
+  },
+  "requetes": [
+   {
+    "q": "yves saint laurent algerie",
+    "imp": 14,
+    "clics": 0,
+    "pos": 50.2
+   },
+   {
+    "q": "ysl algeria",
+    "imp": 3,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "ysl algerie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "prix ?",
+    "imp": 1,
+    "clics": 0,
+    "pos": 40
+   },
+   {
+    "q": "quel est le prix en algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "yves saint laurent",
+    "vol": 4400,
+    "posMust": 8,
+    "notrePos": null
+   },
+   {
+    "k": "libre yves saint laurent",
+    "vol": 2400,
+    "posMust": 3,
+    "notrePos": 16
+   },
+   {
+    "k": "yves saint laurent libre",
+    "vol": 2400,
+    "posMust": 2,
+    "notrePos": 18
+   },
+   {
+    "k": "parfum homme yves saint laurent",
+    "vol": 1000,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "parfum yves saint laurent",
+    "vol": 1000,
+    "posMust": 3,
+    "notrePos": 17
+   },
+   {
+    "k": "parfums yves saint laurent",
+    "vol": 1000,
+    "posMust": 6,
+    "notrePos": null
+   },
+   {
+    "k": "yves saint laurent parfum homme",
+    "vol": 1000,
+    "posMust": 8,
+    "notrePos": 24
+   },
+   {
+    "k": "yves saint laurent parfum",
+    "vol": 720,
+    "posMust": 3,
+    "notrePos": 28
+   }
+  ],
+  "partagees": [
+   {
+    "q": "yves saint laurent algerie",
+    "impIci": 14,
+    "autre": "/parfums/y-ysl-homme",
+    "impAutre": 27
+   }
+  ],
+  "_f": "lot-018.json"
+ },
+ {
+  "chemin": "/parfums-femme/jimmy-choo",
+  "type": "fille",
+  "section": "parfums-femme",
+  "marque": "Jimmy Choo",
+  "nbProduits": 15,
+  "nbMarque": 21,
+  "phares": [
+   "Jimmy Choo",
+   "I Want Choo",
+   "Floral"
+  ],
+  "gsc": {
+   "clics": 100,
+   "imp": 2064,
+   "pos": 5.7,
+   "ctr": 4.8
+  },
+  "requetes": [
+   {
+    "q": "jimmy choo parfum prix algérie",
+    "imp": 328,
+    "clics": 29,
+    "pos": 2.1
+   },
+   {
+    "q": "jimmy choo parfum",
+    "imp": 220,
+    "clics": 4,
+    "pos": 8.8
+   },
+   {
+    "q": "parfum jimmy choo prix algérie",
+    "imp": 121,
+    "clics": 6,
+    "pos": 2.8
+   },
+   {
+    "q": "parfum jimmy choo prix",
+    "imp": 113,
+    "clics": 1,
+    "pos": 7.1
+   },
+   {
+    "q": "jimmy choo parfum femme prix algérie",
+    "imp": 76,
+    "clics": 7,
+    "pos": 2
+   },
+   {
+    "q": "jimmy choo prix algerie",
+    "imp": 68,
+    "clics": 7,
+    "pos": 2.9
+   },
+   {
+    "q": "jimmy choo parfum prix",
+    "imp": 63,
+    "clics": 2,
+    "pos": 7.8
+   },
+   {
+    "q": "jimmy choo parfum femme prix",
+    "imp": 50,
+    "clics": 0,
+    "pos": 6.7
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "jimmy choo parfum",
+    "vol": 1000,
+    "notrePos": 26
+   },
+   {
+    "k": "parfum jimmy choo",
+    "vol": 720,
+    "notrePos": 27
+   },
+   {
+    "k": "parfums jimmy choo",
+    "vol": 720,
+    "notrePos": 20
+   },
+   {
+    "k": "jimmy choo parfum femme prix algérie",
+    "vol": 30,
+    "posMust": 8,
+    "notrePos": null
+   }
+  ],
+  "partagees": [
+   {
+    "q": "jimmy choo parfum prix algérie",
+    "impIci": 328,
+    "autre": "/parfums/i-want-choo-jimmy-choo",
+    "impAutre": 78
+   },
+   {
+    "q": "jimmy choo floral",
+    "impIci": 44,
+    "autre": "/parfums/jimmy-choo-floral",
+    "impAutre": 117
+   },
+   {
+    "q": "parfum jimmy choo prix algérie",
+    "impIci": 121,
+    "autre": "/parfums/i-want-choo-jimmy-choo",
+    "impAutre": 23
+   },
+   {
+    "q": "jimmy choo floral prix algérie",
+    "impIci": 32,
+    "autre": "/parfums/jimmy-choo-floral",
+    "impAutre": 72
+   },
+   {
+    "q": "parfum jimmy choo floral",
+    "impIci": 36,
+    "autre": "/parfums/jimmy-choo-floral",
+    "impAutre": 49
+   },
+   {
+    "q": "floral jimmy choo",
+    "impIci": 14,
+    "autre": "/parfums/jimmy-choo-floral",
+    "impAutre": 67
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums-homme/hugo-boss",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Hugo Boss",
+  "nbProduits": 42,
+  "nbMarque": 55,
+  "phares": [
+   "Boss Bottled",
+   "Boss The Scent",
+   "Boss Bottled Elixir"
+  ],
+  "gsc": {
+   "clics": 93,
+   "imp": 1650,
+   "pos": 5.5,
+   "ctr": 5.6
+  },
+  "requetes": [
+   {
+    "q": "parfum hugo boss homme prix algérie",
+    "imp": 79,
+    "clics": 3,
+    "pos": 4.2
+   },
+   {
+    "q": "parfum boss homme",
+    "imp": 62,
+    "clics": 0,
+    "pos": 7.6
+   },
+   {
+    "q": "hugo boss parfum homme prix algérie",
+    "imp": 57,
+    "clics": 4,
+    "pos": 4.2
+   },
+   {
+    "q": "hugo boss parfum",
+    "imp": 43,
+    "clics": 1,
+    "pos": 6.9
+   },
+   {
+    "q": "parfum boss homme prix algérie",
+    "imp": 29,
+    "clics": 10,
+    "pos": 2.6
+   },
+   {
+    "q": "hugo boss prix algérie",
+    "imp": 29,
+    "clics": 1,
+    "pos": 4.7
+   },
+   {
+    "q": "boss algerie",
+    "imp": 26,
+    "clics": 0,
+    "pos": 10.8
+   },
+   {
+    "q": "boos parfum",
+    "imp": 23,
+    "clics": 0,
+    "pos": 4
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum boss",
+    "vol": 260,
+    "notrePos": 20
+   },
+   {
+    "k": "hugo boss parfum homme prix",
+    "vol": 170,
+    "notrePos": 13
+   },
+   {
+    "k": "hugo boss parfum pour homme prix",
+    "vol": 170,
+    "notrePos": 26
+   }
+  ],
+  "partagees": [
+   {
+    "q": "parfum hugo boss homme prix",
+    "impIci": 21,
+    "autre": "/parfums/boss-the-scent-homme",
+    "impAutre": 70
+   },
+   {
+    "q": "hugo boss dark blue prix algérie",
+    "impIci": 16,
+    "autre": "/parfums/hugo-boss-dark-blue",
+    "impAutre": 27
+   },
+   {
+    "q": "hugo boss prix algérie",
+    "impIci": 29,
+    "autre": "/parfums-femme/hugo-boss",
+    "impAutre": 7
+   },
+   {
+    "q": "boos parfum",
+    "impIci": 23,
+    "autre": "/parfums/boss-the-scent-homme",
+    "impAutre": 13
+   },
+   {
+    "q": "hugo boss dark blue prix algérie",
+    "impIci": 16,
+    "autre": "/parfums/boss-bottled-night",
+    "impAutre": 17
+   },
+   {
+    "q": "hugo boss parfum homme",
+    "impIci": 10,
+    "autre": "/parfums/boss-the-scent-homme",
+    "impAutre": 21
+   }
+  ],
+  "_f": "lot-001.json"
+ },
+ {
+  "chemin": "/parfums-femme/ysl",
+  "type": "fille",
+  "section": "parfums-femme",
+  "marque": "Yves Saint Laurent",
+  "nbProduits": 52,
+  "nbMarque": 71,
+  "phares": [
+   "Libre",
+   "Black Opium",
+   "Supreme Bouquet"
+  ],
+  "gsc": {
+   "clics": 12,
+   "imp": 466,
+   "pos": 7.4,
+   "ctr": 2.6
+  },
+  "requetes": [
+   {
+    "q": "ysl parfum",
+    "imp": 38,
+    "clics": 0,
+    "pos": 4.3
+   },
+   {
+    "q": "supreme bouquet yves saint laurent prix algérie",
+    "imp": 27,
+    "clics": 0,
+    "pos": 9.2
+   },
+   {
+    "q": "yves saint laurent parfum femme prix",
+    "imp": 18,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "parfum ysl",
+    "imp": 12,
+    "clics": 0,
+    "pos": 1.9
+   },
+   {
+    "q": "yves saint laurent parfum femme prix algérie",
+    "imp": 12,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "yves saint laurent parfum femme",
+    "imp": 10,
+    "clics": 0,
+    "pos": 10.6
+   },
+   {
+    "q": "parfum efsa laurent femme",
+    "imp": 5,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "parfum femme algerie",
+    "imp": 5,
+    "clics": 0,
+    "pos": 13
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum homme yves saint laurent",
+    "vol": 1000,
+    "posMust": 4,
+    "notrePos": null
+   },
+   {
+    "k": "yves saint laurent parfum homme",
+    "vol": 1000,
+    "posMust": 8,
+    "notrePos": 24
+   },
+   {
+    "k": "ysl parfum",
+    "vol": 590,
+    "posMust": 4,
+    "notrePos": 24
+   },
+   {
+    "k": "yves saint laurent parfum femme",
+    "vol": 590,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfum femme yves saint laurent",
+    "vol": 210,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfum yves saint laurent femme",
+    "vol": 210,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfum yves saint laurent pour femme",
+    "vol": 210,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfums yves saint laurent femme",
+    "vol": 210,
+    "posMust": 9,
+    "notrePos": 31
+   }
+  ],
+  "partagees": [
+   {
+    "q": "supreme bouquet yves saint laurent prix algérie",
+    "impIci": 27,
+    "autre": "/parfums/ysl-supreme-bouquet",
+    "impAutre": 80
+   },
+   {
+    "q": "yves saint laurent parfum femme prix algérie",
+    "impIci": 12,
+    "autre": "/parfums/libre-ysl",
+    "impAutre": 18
+   }
+  ],
+  "_f": "lot-006.json"
+ },
+ {
+  "chemin": "/parfums-femme/armani",
+  "type": "fille",
+  "section": "parfums-femme",
+  "marque": "Giorgio Armani",
+  "nbProduits": 49,
+  "nbMarque": 79,
+  "phares": [
+   "My Way",
+   "Vert Malachite",
+   "Sì Passione"
+  ],
+  "gsc": {
+   "clics": 10,
+   "imp": 531,
+   "pos": 5.7,
+   "ctr": 1.9
+  },
+  "requetes": [
+   {
+    "q": "giorgio armani parfum",
+    "imp": 54,
+    "clics": 0,
+    "pos": 2.6
+   },
+   {
+    "q": "parfum giorgio armani",
+    "imp": 15,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "giorgio armani femme",
+    "imp": 10,
+    "clics": 0,
+    "pos": 3.7
+   },
+   {
+    "q": "my way parfum 100 ml prix algerie",
+    "imp": 9,
+    "clics": 0,
+    "pos": 9.4
+   },
+   {
+    "q": "parfum giorgio armani femme prix",
+    "imp": 7,
+    "clics": 0,
+    "pos": 8.6
+   },
+   {
+    "q": "parfum armani",
+    "imp": 6,
+    "clics": 0,
+    "pos": 7.3
+   },
+   {
+    "q": "armani algerie",
+    "imp": 4,
+    "clics": 0,
+    "pos": 12.8
+   },
+   {
+    "q": "armani femme",
+    "imp": 3,
+    "clics": 0,
+    "pos": 3.3
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "giorgio armani",
+    "vol": 1000,
+    "notrePos": 20
+   },
+   {
+    "k": "armani parfum",
+    "vol": 260,
+    "posMust": 10,
+    "notrePos": 38
+   },
+   {
+    "k": "parfum armani",
+    "vol": 210,
+    "posMust": 6,
+    "notrePos": 38
+   },
+   {
+    "k": "giorgio armani femme parfum",
+    "vol": 170,
+    "notrePos": 29
+   },
+   {
+    "k": "parfum gio armani femme",
+    "vol": 170,
+    "notrePos": 21
+   },
+   {
+    "k": "giorgio armani parfum femme prix",
+    "vol": 30,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfum giorgio armani femme prix",
+    "vol": 30,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "prix parfum giorgio armani femme",
+    "vol": 30,
+    "posMust": 2,
+    "notrePos": null
+   }
+  ],
+  "partagees": [
+   {
+    "q": "giorgio armani parfum",
+    "impIci": 54,
+    "autre": "/parfums/acqua-di-gio-armani",
+    "impAutre": 12
+   }
+  ],
+  "_f": "lot-005.json"
+ },
+ {
+  "chemin": "/",
+  "type": "accueil",
+  "gsc": {
+   "clics": 2302,
+   "imp": 31225,
+   "pos": 6,
+   "ctr": 7.4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 671,
+    "clics": 455,
+    "pos": 1.2
+   },
+   {
+    "q": "maison numidia",
+    "imp": 605,
+    "clics": 3,
+    "pos": 4.2
+   },
+   {
+    "q": "parfum original alger",
+    "imp": 398,
+    "clics": 45,
+    "pos": 6.1
+   },
+   {
+    "q": "parfum algerie",
+    "imp": 213,
+    "clics": 10,
+    "pos": 10.4
+   },
+   {
+    "q": "parfum original",
+    "imp": 211,
+    "clics": 5,
+    "pos": 5
+   },
+   {
+    "q": "parfum homme original prix algérie",
+    "imp": 203,
+    "clics": 16,
+    "pos": 3.9
+   },
+   {
+    "q": "parfumerie",
+    "imp": 149,
+    "clics": 4,
+    "pos": 6.5
+   },
+   {
+    "q": "louis vuitton",
+    "imp": 101,
+    "clics": 0,
+    "pos": 5.1
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 95,
+    "clics": 60,
+    "pos": 1
+   },
+   {
+    "q": "parfum original algérie",
+    "imp": 94,
+    "clics": 26,
+    "pos": 4.4
+   },
+   {
+    "q": "perfume women",
+    "imp": 92,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "parfum dz",
+    "imp": 91,
+    "clics": 7,
+    "pos": 18
+   },
+   {
+    "q": "parfum algerien",
+    "imp": 89,
+    "clics": 2,
+    "pos": 4.8
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 84,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "parfum original algerie",
+    "imp": 83,
+    "clics": 22,
+    "pos": 9.7
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum",
+    "vol": 9900,
+    "posMust": 1,
+    "notrePos": 32
+   },
+   {
+    "k": "parfumeries",
+    "vol": 1300,
+    "notrePos": 79
+   },
+   {
+    "k": "the perfume hq dely brahim",
+    "vol": 880,
+    "notrePos": 21
+   },
+   {
+    "k": "eau de parfum",
+    "vol": 590,
+    "posMust": 1,
+    "notrePos": 40
+   },
+   {
+    "k": "midho parfum",
+    "vol": 590,
+    "posMust": 9,
+    "notrePos": 35
+   },
+   {
+    "k": "parfum dz",
+    "vol": 590,
+    "posMust": 2,
+    "notrePos": 14
+   },
+   {
+    "k": "parfum en algerie",
+    "vol": 480,
+    "posMust": 2,
+    "notrePos": 15
+   },
+   {
+    "k": "parfums algerie",
+    "vol": 480,
+    "posMust": 5,
+    "notrePos": 14
+   }
+  ],
+  "partagees": [
+   {
+    "q": "numidia parfum",
+    "impIci": 95,
+    "autre": "/parfums-femme",
+    "impAutre": 74
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 84,
+    "autre": "/parfums-femme",
+    "impAutre": 74
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 95,
+    "autre": "/parfum-algerie",
+    "impAutre": 48
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 84,
+    "autre": "/parfum-algerie",
+    "impAutre": 48
+   },
+   {
+    "q": "parfum dz",
+    "impIci": 91,
+    "autre": "/parfum-algerie",
+    "impAutre": 20
+   },
+   {
+    "q": "parfum original algerie",
+    "impIci": 83,
+    "autre": "/parfum-algerie",
+    "impAutre": 16
+   }
+  ],
+  "_f": "speciaux.json"
+ },
+ {
+  "chemin": "/parfums-femme",
+  "type": "mere",
+  "section": "femme",
+  "gsc": {
+   "clics": 80,
+   "imp": 3275,
+   "pos": 9.8,
+   "ctr": 2.4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 457,
+    "clics": 11,
+    "pos": 1.3
+   },
+   {
+    "q": "parfum femme original prix algérie",
+    "imp": 342,
+    "clics": 10,
+    "pos": 6.2
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 74,
+    "clics": 2,
+    "pos": 6.8
+   },
+   {
+    "q": "parfum femme algérie",
+    "imp": 52,
+    "clics": 3,
+    "pos": 8.9
+   },
+   {
+    "q": "parfum algerie femme",
+    "imp": 51,
+    "clics": 3,
+    "pos": 8.7
+   },
+   {
+    "q": "parfum femme prix algérie",
+    "imp": 44,
+    "clics": 1,
+    "pos": 7.7
+   },
+   {
+    "q": "parfum femme",
+    "imp": 39,
+    "clics": 2,
+    "pos": 21.4
+   },
+   {
+    "q": "parfums",
+    "imp": 32,
+    "clics": 0,
+    "pos": 66
+   },
+   {
+    "q": "parfum femme original",
+    "imp": 20,
+    "clics": 0,
+    "pos": 10.8
+   },
+   {
+    "q": "parfum",
+    "imp": 19,
+    "clics": 0,
+    "pos": 76.7
+   },
+   {
+    "q": "parfum femme pas cher algérie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 5.3
+   },
+   {
+    "q": "parfum pour elle algerie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "parfum femme algerie",
+    "imp": 13,
+    "clics": 1,
+    "pos": 11.6
+   },
+   {
+    "q": "parfum feminin algerie",
+    "imp": 13,
+    "clics": 0,
+    "pos": 8.6
+   },
+   {
+    "q": "parfumerie algerie",
+    "imp": 12,
+    "clics": 1,
+    "pos": 42.2
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum femme",
+    "vol": 5400,
+    "posMust": 1,
+    "notrePos": 29
+   },
+   {
+    "k": "les parfum femme",
+    "vol": 320,
+    "posMust": 1,
+    "notrePos": 43
+   },
+   {
+    "k": "les parfum pour femme",
+    "vol": 320,
+    "posMust": 1,
+    "notrePos": 40
+   },
+   {
+    "k": "les parfums pour femme",
+    "vol": 320,
+    "posMust": 1,
+    "notrePos": 39
+   },
+   {
+    "k": "parfum pour femme",
+    "vol": 260,
+    "posMust": 1,
+    "notrePos": 43
+   },
+   {
+    "k": "parfums pour femme",
+    "vol": 260,
+    "posMust": 2,
+    "notrePos": 45
+   },
+   {
+    "k": "parfums pour femmes",
+    "vol": 260,
+    "posMust": 2,
+    "notrePos": 43
+   },
+   {
+    "k": "parfum pour elle",
+    "vol": 210,
+    "posMust": 4,
+    "notrePos": 41
+   }
+  ],
+  "partagees": [
+   {
+    "q": "numidia parfum",
+    "impIci": 74,
+    "autre": "/",
+    "impAutre": 179
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 74,
+    "autre": "/parfum-algerie",
+    "impAutre": 48
+   },
+   {
+    "q": "parfums",
+    "impIci": 32,
+    "autre": "/",
+    "impAutre": 65
+   },
+   {
+    "q": "parfum",
+    "impIci": 19,
+    "autre": "/",
+    "impAutre": 70
+   },
+   {
+    "q": "parfum femme algérie",
+    "impIci": 52,
+    "autre": "/",
+    "impAutre": 15
+   },
+   {
+    "q": "parfum numidia",
+    "impIci": 11,
+    "autre": "/",
+    "impAutre": 52
+   }
+  ],
+  "_f": "speciaux.json"
+ },
+ {
+  "chemin": "/parfums-homme",
+  "type": "mere",
+  "section": "homme",
+  "gsc": {
+   "clics": 38,
+   "imp": 1276,
+   "pos": 7.8,
+   "ctr": 3
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 431,
+    "clics": 22,
+    "pos": 1.1
+   },
+   {
+    "q": "parfum homme",
+    "imp": 14,
+    "clics": 0,
+    "pos": 62.6
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "imp": 13,
+    "clics": 0,
+    "pos": 36.7
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "imp": 11,
+    "clics": 0,
+    "pos": 40.6
+   },
+   {
+    "q": "prix parfum homme algérie",
+    "imp": 9,
+    "clics": 0,
+    "pos": 6.4
+   },
+   {
+    "q": "parfum homme algérie",
+    "imp": 6,
+    "clics": 2,
+    "pos": 25.8
+   },
+   {
+    "q": "parfum masculin 2 prix algerie",
+    "imp": 6,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "parfum homme prix algérie",
+    "imp": 5,
+    "clics": 1,
+    "pos": 16.8
+   },
+   {
+    "q": "parfum homme original prix algérie",
+    "imp": 5,
+    "clics": 0,
+    "pos": 16.2
+   },
+   {
+    "q": "parfum algérie homme",
+    "imp": 2,
+    "clics": 1,
+    "pos": 32.5
+   },
+   {
+    "q": "les parfums homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 51
+   },
+   {
+    "q": "parfum original homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 25.5
+   },
+   {
+    "q": "رجالية",
+    "imp": 1,
+    "clics": 1,
+    "pos": 3
+   },
+   {
+    "q": "chhal dayra",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "diable bleu parfum prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 21
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum homme",
+    "vol": 4400,
+    "posMust": 2,
+    "notrePos": 46
+   },
+   {
+    "k": "parfum hommes",
+    "vol": 4400,
+    "posMust": 2,
+    "notrePos": 46
+   },
+   {
+    "k": "parfum pour homme",
+    "vol": 210,
+    "posMust": 1,
+    "notrePos": 51
+   }
+  ],
+  "partagees": [
+   {
+    "q": "prix parfum homme algérie",
+    "impIci": 9,
+    "autre": "/",
+    "impAutre": 34
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "impIci": 13,
+    "autre": "/",
+    "impAutre": 29
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "impIci": 11,
+    "autre": "/",
+    "impAutre": 30
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "impIci": 13,
+    "autre": "/parfum-algerie",
+    "impAutre": 10
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "impIci": 11,
+    "autre": "/parfum-algerie",
+    "impAutre": 12
+   }
+  ],
+  "_f": "speciaux.json"
+ },
+ {
+  "chemin": "/parfums-orientaux",
+  "type": "mere",
+  "section": "oriental",
+  "gsc": {
+   "clics": 123,
+   "imp": 2497,
+   "pos": 8.4,
+   "ctr": 4.9
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 550,
+    "clics": 4,
+    "pos": 1.1
+   },
+   {
+    "q": "parfum oriental",
+    "imp": 55,
+    "clics": 0,
+    "pos": 40.3
+   },
+   {
+    "q": "parfums arabes en gros (avec accent)",
+    "imp": 52,
+    "clics": 0,
+    "pos": 60.6
+   },
+   {
+    "q": "lattafa algerie",
+    "imp": 28,
+    "clics": 1,
+    "pos": 7.7
+   },
+   {
+    "q": "parfum oriental luxe",
+    "imp": 26,
+    "clics": 0,
+    "pos": 46.8
+   },
+   {
+    "q": "parfum arabe",
+    "imp": 18,
+    "clics": 0,
+    "pos": 7.9
+   },
+   {
+    "q": "parfumerie orientale",
+    "imp": 14,
+    "clics": 0,
+    "pos": 39.9
+   },
+   {
+    "q": "parfums orientaux",
+    "imp": 12,
+    "clics": 1,
+    "pos": 15.2
+   },
+   {
+    "q": "lattafa parfum prix algerie",
+    "imp": 10,
+    "clics": 0,
+    "pos": 8.3
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "imp": 7,
+    "clics": 1,
+    "pos": 9
+   },
+   {
+    "q": "parfum oriental en ligne",
+    "imp": 7,
+    "clics": 0,
+    "pos": 30.4
+   },
+   {
+    "q": "parfum algerie",
+    "imp": 6,
+    "clics": 0,
+    "pos": 26.5
+   },
+   {
+    "q": "parfum numidia lezoul",
+    "imp": 5,
+    "clics": 0,
+    "pos": 85.8
+   },
+   {
+    "q": "نعم",
+    "imp": 5,
+    "clics": 0,
+    "pos": 4.8
+   },
+   {
+    "q": "prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "oriental",
+    "vol": 390,
+    "notrePos": 58
+   }
+  ],
+  "partagees": [
+   {
+    "q": "lattafa algerie",
+    "impIci": 28,
+    "autre": "/marques/lattafa",
+    "impAutre": 20
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 7,
+    "autre": "/marques/lattafa",
+    "impAutre": 17
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 7,
+    "autre": "/parfums/lattafa-khamrah",
+    "impAutre": 7
+   }
+  ],
+  "_f": "speciaux.json"
+ },
+ {
+  "chemin": "/blog/meilleur-parfum-homme",
+  "type": "article",
+  "h1": "Meilleur parfum homme 2026 : le top 12 en Algérie, par usage et par budget",
+  "titreActuel": "Meilleur parfum homme 2026 en Algérie : top 12",
+  "gsc": {
+   "clics": 50,
+   "imp": 1316,
+   "pos": 5.2,
+   "ctr": 3.8
+  },
+  "requetes": [
+   {
+    "q": "parfum homme algérie",
+    "imp": 13,
+    "clics": 1,
+    "pos": 15.8
+   },
+   {
+    "q": "افضل عطر رجالي في الجزائر",
+    "imp": 5,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "parfum homme",
+    "imp": 4,
+    "clics": 0,
+    "pos": 14.8
+   },
+   {
+    "q": "parfum algerie homme",
+    "imp": 3,
+    "clics": 0,
+    "pos": 9.3
+   },
+   {
+    "q": "parfum algérie homme",
+    "imp": 2,
+    "clics": 1,
+    "pos": 55
+   },
+   {
+    "q": "dior sauvage",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4.5
+   },
+   {
+    "q": "parfum en algerie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "parfum homme top 10",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10.5
+   },
+   {
+    "q": "parfum masculin",
+    "imp": 2,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "pour homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "top 10 classement meilleur parfum homme 2026",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "top parfum homme 2026",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "la bomba carolina herrera",
+    "imp": 1,
+    "clics": 1,
+    "pos": 4
+   },
+   {
+    "q": "laverne parfum prix algérie",
+    "imp": 1,
+    "clics": 1,
+    "pos": 8
+   }
+  ],
+  "motsCles": [],
+  "partagees": [
+   {
+    "q": "parfum homme algérie",
+    "impIci": 13,
+    "autre": "/",
+    "impAutre": 56
+   }
+  ],
+  "_f": "speciaux.json"
+ },
+ {
+  "chemin": "/blog/eau-de-parfum-vs-eau-de-toilette",
+  "type": "article",
+  "h1": "Eau de Parfum ou Eau de Toilette : quelle différence et laquelle choisir ?",
+  "titreActuel": "Eau de Parfum ou Eau de Toilette : différence et choix",
+  "gsc": {
+   "clics": 0,
+   "imp": 726,
+   "pos": 48.7,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "eau de toilette vs eau de parfum",
+    "imp": 65,
+    "clics": 0,
+    "pos": 64.6
+   },
+   {
+    "q": "eau de parfum ou eau de toilette",
+    "imp": 46,
+    "clics": 0,
+    "pos": 75.2
+   },
+   {
+    "q": "différence entre eau de parfum et eau de toilette",
+    "imp": 40,
+    "clics": 0,
+    "pos": 73.5
+   },
+   {
+    "q": "eau de parfum vs eau de toilette",
+    "imp": 22,
+    "clics": 0,
+    "pos": 53.5
+   },
+   {
+    "q": "différence parfum eau de toilette",
+    "imp": 21,
+    "clics": 0,
+    "pos": 77.2
+   },
+   {
+    "q": "eau de toilette ou eau de parfum",
+    "imp": 20,
+    "clics": 0,
+    "pos": 71.4
+   },
+   {
+    "q": "différence edp edt",
+    "imp": 18,
+    "clics": 0,
+    "pos": 23.3
+   },
+   {
+    "q": "eau de toilette",
+    "imp": 14,
+    "clics": 0,
+    "pos": 56
+   },
+   {
+    "q": "différence eau de parfum eau de toilette",
+    "imp": 13,
+    "clics": 0,
+    "pos": 70.9
+   },
+   {
+    "q": "différence eau de toilette et eau de parfum",
+    "imp": 11,
+    "clics": 0,
+    "pos": 73.1
+   },
+   {
+    "q": "eau de toilette and eau de parfum difference",
+    "imp": 11,
+    "clics": 0,
+    "pos": 56.8
+   },
+   {
+    "q": "différence entre eau de toilette et eau de parfum",
+    "imp": 10,
+    "clics": 0,
+    "pos": 60.4
+   },
+   {
+    "q": "eau de toilette vs parfum",
+    "imp": 10,
+    "clics": 0,
+    "pos": 49.4
+   },
+   {
+    "q": "edp ou edt",
+    "imp": 9,
+    "clics": 0,
+    "pos": 17.2
+   },
+   {
+    "q": "difference eau de parfum and eau de toilette",
+    "imp": 8,
+    "clics": 0,
+    "pos": 65.1
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "eaux de parfums",
+    "vol": 590,
+    "posMust": 5,
+    "notrePos": 67
+   }
+  ],
+  "partagees": [],
+  "_f": "speciaux.json"
+ }
+]

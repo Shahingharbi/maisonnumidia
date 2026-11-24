@@ -1,0 +1,2015 @@
+[
+ {
+  "chemin": "/parfums/acqua-di-parma-rosa-nobile",
+  "type": "produit",
+  "marque": "Acqua di Parma",
+  "nom": "Rosa Nobile",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Acqua di Parma Rosa Nobile Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Bergamote",
+   "Rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "rosa nobile",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/acqua-di-parma-zafferano",
+  "type": "produit",
+  "marque": "Acqua di Parma",
+  "nom": "Zafferano",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Acqua di Parma Zafferano Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine",
+   "Orange amère",
+   "Safran",
+   "Notes boisées"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "acqua di parma zafferano",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/antonio-banderas-the-golden-secret",
+  "type": "produit",
+  "marque": "Antonio Banderas",
+  "nom": "The Golden Secret",
+  "conc": "EDT",
+  "volume": "200ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Antonio Banderas The Golden Secret Parfum Homme Algérie",
+  "notes": [
+   "Pomme",
+   "Menthe",
+   "Noix de muscade",
+   "Cuir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "the golden secret",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "antonio-banderas-the-secret",
+    "nom": "The Secret",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "antonio-banderas-the-icon",
+    "nom": "The Icon",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-club-de-nuit-bling",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Club de Nuit Bling",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Club de Nuit Bling Parfum Mixte Algérie",
+  "notes": [
+   "Agrumes",
+   "Poussière d'étoiles",
+   "Bois de velours"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "club de nuit bling",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "club-de-nuit-intense-armaf",
+    "nom": "Club de Nuit Intense Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "club-de-nuit-women-armaf",
+    "nom": "Club de Nuit Women",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-femme",
+    "nom": "Club de Nuit Intense Woman",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-milestone",
+    "nom": "Club de Nuit Milestone",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-untold",
+    "nom": "Club de Nuit Untold",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-oud",
+    "nom": "Club de Nuit Oud",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-sillage",
+    "nom": "Club de Nuit Sillage",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-man",
+    "nom": "Club de Nuit Urban Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-club-de-nuit-white-imperiale",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Club de Nuit White Imperiale",
+  "conc": "EDP",
+  "volume": "105ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Club de Nuit White Imperiale Parfum Femme Algérie",
+  "notes": [
+   "Litchi",
+   "Bergamote",
+   "Rose de Turquie",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "club de nuit white imperiale",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "club-de-nuit-intense-armaf",
+    "nom": "Club de Nuit Intense Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "club-de-nuit-women-armaf",
+    "nom": "Club de Nuit Women",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-femme",
+    "nom": "Club de Nuit Intense Woman",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-milestone",
+    "nom": "Club de Nuit Milestone",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-untold",
+    "nom": "Club de Nuit Untold",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-oud",
+    "nom": "Club de Nuit Oud",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-sillage",
+    "nom": "Club de Nuit Sillage",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-man",
+    "nom": "Club de Nuit Urban Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-club-de-nuit-lionheart-man",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Club De Nuit Lionheart Man",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Club De Nuit Lionheart Man Parfum Homme Algérie",
+  "notes": [
+   "Menthe",
+   "Lavande",
+   "Vanille",
+   "Miel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "club de nuit lionheart man",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "club-de-nuit-intense-armaf",
+    "nom": "Club de Nuit Intense Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "club-de-nuit-women-armaf",
+    "nom": "Club de Nuit Women",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-intense-femme",
+    "nom": "Club de Nuit Intense Woman",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-milestone",
+    "nom": "Club de Nuit Milestone",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-untold",
+    "nom": "Club de Nuit Untold",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-oud",
+    "nom": "Club de Nuit Oud",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-sillage",
+    "nom": "Club de Nuit Sillage",
+    "conc": "EDP",
+    "vol": "105ml"
+   },
+   {
+    "slug": "armaf-club-de-nuit-urban-man",
+    "nom": "Club de Nuit Urban Man",
+    "conc": "EDP",
+    "vol": "105ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-dubai-nights-midnight",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Dubai Nights Midnight",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Dubai Nights Midnight Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Lavande",
+   "Fleur d'oranger",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "dubai nights midnight",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "armaf-dubai-nights-umbra",
+    "nom": "Dubai Nights Umbra",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-le-parfait-pour-homme",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Le Parfait Pour Homme",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Le Parfait Pour Homme Parfum Homme Algérie",
+  "notes": [
+   "Cassis",
+   "Ananas",
+   "Notes épicées",
+   "Ambre gris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "le parfait pour homme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armaf-monarque",
+  "type": "produit",
+  "marque": "Armaf",
+  "nom": "Monarque",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Armaf Monarque Parfum Homme Algérie",
+  "notes": [
+   "Cannelle",
+   "Cardamome",
+   "Vanille",
+   "Praliné"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "armaf monarque",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/assaf-aura",
+  "type": "produit",
+  "marque": "Assaf",
+  "nom": "Aura",
+  "conc": "EDP",
+  "volume": "150ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Assaf Aura Parfum Mixte Algérie",
+  "notes": [
+   "Citron",
+   "Bergamote",
+   "Vetiver",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "assaf aura",
+   "vol": 110
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/assaf-wild-colt",
+  "type": "produit",
+  "marque": "Assaf",
+  "nom": "Wild Colt",
+  "conc": "EDP",
+  "volume": "200ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Assaf Wild Colt Parfum Mixte Algérie",
+  "notes": [
+   "Safran",
+   "Pamplemousse",
+   "Cuir",
+   "Ambre gris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "wild colt",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/bdk-parfums-pas-ce-soir-extrait",
+  "type": "produit",
+  "marque": "BDK Parfums",
+  "nom": "Pas Ce Soir Extrait",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "BDK Parfums Pas Ce Soir Extrait Parfum Mixte Algérie",
+  "notes": [
+   "Poire",
+   "Gingembre",
+   "Coing",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "pas ce soir extrait",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "bdk-parfums-pas-ce-soir",
+    "nom": "Pas Ce Soir",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/bdk-parfums-french-bouquet",
+  "type": "produit",
+  "marque": "BDK Parfums",
+  "nom": "French Bouquet",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "BDK Parfums French Bouquet Parfum Mixte Algérie",
+  "notes": [
+   "Aldéhydes",
+   "Coriandre",
+   "Jasmin",
+   "Violette"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "french bouquet",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/bdk-parfums-oud-abramad",
+  "type": "produit",
+  "marque": "BDK Parfums",
+  "nom": "Oud Abramad",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "BDK Parfums Oud Abramad Parfum Mixte Algérie",
+  "notes": [
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "oud abramad",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/bdk-parfums-rouge-smoking",
+  "type": "produit",
+  "marque": "BDK Parfums",
+  "nom": "Rouge Smoking",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "BDK Parfums Rouge Smoking Parfum Mixte Algérie",
+  "notes": [
+   "Cerise",
+   "Poivre rose",
+   "Gousse de vanille noire",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "rouge smoking",
+   "vol": 40
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/bentley-for-men",
+  "type": "produit",
+  "marque": "Bentley",
+  "nom": "for Men",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Bentley for Men Parfum Homme Algérie",
+  "notes": [
+   "Bergamote",
+   "Poivre noir",
+   "Rhum",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "for men",
+   "vol": 210
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "bentley-for-men-intense",
+    "nom": "for Men Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "bentley-for-men-silverlake",
+    "nom": "For Men Silverlake",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-antique-oak",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Antique Oak",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Burberry Antique Oak Parfum Mixte Algérie",
+  "notes": [
+   "Papyrus",
+   "Carthame",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "antique oak",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/my-burberry-black-parfum-limited-edition",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "My Burberry Black Parfum (Limited Edition)",
+  "conc": "Parfum",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "My Burberry Black Parfum Parfum Femme Algérie",
+  "notes": [
+   "Jasmin",
+   "Pêche",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "my burberry black parfum limited edition",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "my-burberry-blush",
+    "nom": "My Burberry Blush",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "my-burberry-black",
+    "nom": "My Burberry Black",
+    "conc": "Parfum",
+    "vol": "90ml"
+   },
+   {
+    "slug": "my-burberry",
+    "nom": "My Burberry",
+    "conc": "EDP",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-body",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Body",
+  "conc": "EDP",
+  "volume": "85ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Burberry Body Parfum Femme Algérie",
+  "notes": [
+   "Pêche",
+   "Armoise",
+   "Rose",
+   "Bois de cachemire"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "burberry body",
+   "vol": 880
+  },
+  "motsCles": [
+   {
+    "k": "burberry body",
+    "vol": 880,
+    "posMust": 7,
+    "notrePos": null
+   },
+   {
+    "k": "burberry burberry body",
+    "vol": 880,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "body burberry parfum",
+    "vol": 390,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "burberry body parfum",
+    "vol": 390,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "burberry parfum body",
+    "vol": 390,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfum body burberry",
+    "vol": 390,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "parfum burberry body",
+    "vol": 390,
+    "posMust": 3,
+    "notrePos": null
+   },
+   {
+    "k": "burberry body prix algérie",
+    "vol": 210,
+    "posMust": 4,
+    "notrePos": 7
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "burberry-body-tender",
+    "nom": "Body Tender",
+    "conc": "EDT",
+    "vol": "85ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-body-tender",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Body Tender",
+  "conc": "EDT",
+  "volume": "85ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Burberry Body Tender Parfum Femme Algérie",
+  "notes": [
+   "Armoise",
+   "Pomme",
+   "Rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "body tender",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "burberry-body",
+    "nom": "Body",
+    "conc": "EDP",
+    "vol": "85ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-her-london-dream",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Her London Dream",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Burberry Her London Dream Parfum Femme Algérie",
+  "notes": [
+   "Citron",
+   "Gingembre",
+   "Pivoine",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "her london dream",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "burberry-her",
+    "nom": "Her",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "burberry-her-blossom",
+    "nom": "Her Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "burberry-her-elixir-de-parfum",
+    "nom": "Her Elixir de Parfum",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-hero-elixir-de-parfum",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Hero Elixir de Parfum",
+  "conc": "Parfum",
+  "volume": "60ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Burberry Hero Elixir de Parfum Parfum Homme Algérie",
+  "notes": [
+   "Vanille",
+   "Fève tonka",
+   "Bois de cèdre",
+   "Bois de cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "hero elixir de parfum",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "burberry-hero",
+    "nom": "Hero",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "burberry-hero-parfum",
+    "nom": "Hero Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/burberry-summer",
+  "type": "produit",
+  "marque": "Burberry",
+  "nom": "Summer",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Burberry Summer Parfum Femme Algérie",
+  "notes": [
+   "Pomme",
+   "Freesia",
+   "Rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "burberry summer",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cacharel-amor-love-festival",
+  "type": "produit",
+  "marque": "Cacharel",
+  "nom": "Amor Amor Love Festival",
+  "conc": "EDT",
+  "volume": null,
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cacharel Amor Amor Love Festival Parfum Femme Algérie",
+  "notes": [
+   "Coca-Cola",
+   "Pamplemousse",
+   "Rose",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "amor amor love festival",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "amor-amor-cacharel",
+    "nom": "Amor Amor",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cacharel-amor-electric-kiss",
+    "nom": "Amor Amor Electric Kiss",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cacharel-amor-in-a-flash",
+    "nom": "Amor Amor In a Flash",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cacharel-yes-i-am-bloom-up",
+  "type": "produit",
+  "marque": "Cacharel",
+  "nom": "Yes I Am Bloom Up!",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cacharel Yes I Am Bloom Up! Parfum Femme Algérie",
+  "notes": [
+   "Baies rouges",
+   "Mandarine verte",
+   "Pivoine",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "yes i am bloom up",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yes-i-am-cacharel",
+    "nom": "Yes I Am",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-pink-first",
+    "nom": "Yes I Am Pink First",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-fabulous",
+    "nom": "Yes I Am Fabulous",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-delicious",
+    "nom": "Yes I Am Delicious",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-glorious",
+    "nom": "Yes I Am Glorious",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cacharel-yes-i-am-delicious",
+  "type": "produit",
+  "marque": "Cacharel",
+  "nom": "Yes I Am Delicious",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cacharel Yes I Am Delicious Parfum Femme Algérie",
+  "notes": [
+   "Cabosse de cacao",
+   "Noisette",
+   "Fleur d'oranger",
+   "Chocolat noir"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "yes i am delicious",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yes-i-am-cacharel",
+    "nom": "Yes I Am",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-pink-first",
+    "nom": "Yes I Am Pink First",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-fabulous",
+    "nom": "Yes I Am Fabulous",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-bloom-up",
+    "nom": "Yes I Am Bloom Up!",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-glorious",
+    "nom": "Yes I Am Glorious",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cacharel-yes-i-am-glorious",
+  "type": "produit",
+  "marque": "Cacharel",
+  "nom": "Yes I Am Glorious",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cacharel Yes I Am Glorious Parfum Femme Algérie",
+  "notes": [
+   "Pêche",
+   "Mandarine",
+   "Frangipanier",
+   "Notes sucrées"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "yes i am glorious",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yes-i-am-cacharel",
+    "nom": "Yes I Am",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-pink-first",
+    "nom": "Yes I Am Pink First",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-fabulous",
+    "nom": "Yes I Am Fabulous",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-bloom-up",
+    "nom": "Yes I Am Bloom Up!",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "cacharel-yes-i-am-delicious",
+    "nom": "Yes I Am Delicious",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-eternity-aromatic-essence-for-men",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Eternity Aromatic Essence for Men (Parfum Intense)",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein Eternity Aromatic Essence for Men Parfum Homme Algérie",
+  "notes": [
+   "Baies de genièvre",
+   "Poivre du Sichuan",
+   "Noix de coco",
+   "Cardamome du Guatemala"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eternity aromatic essence for men parfum intense",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eternity-homme-ck",
+    "nom": "Eternity for Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eternity-femme-ck",
+    "nom": "Eternity Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-femme",
+    "nom": "Eternity pour Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aqua-for-men",
+    "nom": "Eternity Aqua for Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-amber-essence-for-men",
+    "nom": "Eternity Amber Essence For Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-cologne-for-men",
+    "nom": "Eternity Cologne For Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-eau-fresh-for-women",
+    "nom": "Eternity Eau Fresh For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-flame-for-women",
+    "nom": "Eternity Flame For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-ck-in2u-for-him",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "CK IN2U for Him",
+  "conc": "EDT",
+  "volume": "150ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein CK IN2U for Him Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Feuille de tomate",
+   "Cabosse de cacao",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "ck in2u for him",
+   "vol": 40
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "calvin-klein-ck-in2u-for-her",
+    "nom": "CK IN2U for Her",
+    "conc": "EDT",
+    "vol": "150ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-ck-everyone",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "CK Everyone",
+  "conc": "EDP",
+  "volume": "200ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein CK Everyone Parfum Mixte Algérie",
+  "notes": [
+   "Orange",
+   "Thé noir",
+   "Vétiver d'Haïti"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "ck everyone",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-ck-one-shock-for-her",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "CK One Shock For Her",
+  "conc": "EDT",
+  "volume": "200ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein CK One Shock For Her Parfum Femme Algérie",
+  "notes": [
+   "Fleur de la passion",
+   "Pavot rouge",
+   "Mûre",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "ck one shock for her",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "ck-one",
+    "nom": "CK One",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-gold",
+    "nom": "CK One Gold",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-shock-for-him",
+    "nom": "CK One Shock For Him",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-reflections",
+    "nom": "CK One Reflections",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-collector-s-edition",
+    "nom": "CK One Collector's Edition",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-euphoria-men-intense",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Euphoria Men Intense",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Calvin Klein Euphoria Men Intense Parfum Homme Algérie",
+  "notes": [
+   "Gingembre",
+   "Poivre",
+   "Basilic noir",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "euphoria men intense",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "euphoria-calvin-klein",
+    "nom": "Euphoria",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-amber-gold",
+    "nom": "Euphoria Amber Gold",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-blossom",
+    "nom": "Euphoria Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-essence-men",
+    "nom": "Euphoria Essence Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-intense",
+    "nom": "Euphoria Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-sheer-beauty",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Sheer Beauty",
+  "conc": "EDT",
+  "volume": null,
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Sheer Beauty Parfum Femme Algérie",
+  "notes": [
+   "Bellini (pêche)",
+   "Bergamote",
+   "Pivoine",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "sheer beauty",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "calvin-klein-sheer-beauty-essence",
+    "nom": "Sheer Beauty Essence",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-encounter",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Encounter",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Calvin Klein Encounter Parfum Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Cardamome",
+   "Poivre",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "calvin klein encounter",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-eternity-eau-fresh-for-women",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Eternity Eau Fresh For Women",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Eternity Eau Fresh For Women Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Bergamote",
+   "Pivoine",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eternity eau fresh for women",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eternity-homme-ck",
+    "nom": "Eternity for Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eternity-femme-ck",
+    "nom": "Eternity Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-femme",
+    "nom": "Eternity pour Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aqua-for-men",
+    "nom": "Eternity Aqua for Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aromatic-essence-for-men",
+    "nom": "Eternity Aromatic Essence for Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-amber-essence-for-men",
+    "nom": "Eternity Amber Essence For Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-cologne-for-men",
+    "nom": "Eternity Cologne For Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-flame-for-women",
+    "nom": "Eternity Flame For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-eternity-flame-for-women",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Eternity Flame For Women",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Eternity Flame For Women Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Pois de senteur",
+   "Labdanum"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eternity flame for women",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eternity-homme-ck",
+    "nom": "Eternity for Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eternity-femme-ck",
+    "nom": "Eternity Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-femme",
+    "nom": "Eternity pour Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aqua-for-men",
+    "nom": "Eternity Aqua for Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aromatic-essence-for-men",
+    "nom": "Eternity Aromatic Essence for Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-amber-essence-for-men",
+    "nom": "Eternity Amber Essence For Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-cologne-for-men",
+    "nom": "Eternity Cologne For Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-eau-fresh-for-women",
+    "nom": "Eternity Eau Fresh For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-euphoria-blossom",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Euphoria Blossom",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Euphoria Blossom Parfum Femme Algérie",
+  "notes": [
+   "Grenade",
+   "Kumquat",
+   "Pivoine rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "euphoria blossom",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "euphoria-calvin-klein",
+    "nom": "Euphoria",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-men-intense",
+    "nom": "Euphoria Men Intense",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-amber-gold",
+    "nom": "Euphoria Amber Gold",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-essence-men",
+    "nom": "Euphoria Essence Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-intense",
+    "nom": "Euphoria Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-euphoria-intense",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Euphoria Intense",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Euphoria Intense Parfum Femme Algérie",
+  "notes": [
+   "Cassis",
+   "Orchidée",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "euphoria intense",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "euphoria-calvin-klein",
+    "nom": "Euphoria",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-men-intense",
+    "nom": "Euphoria Men Intense",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-amber-gold",
+    "nom": "Euphoria Amber Gold",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-blossom",
+    "nom": "Euphoria Blossom",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-euphoria-essence-men",
+    "nom": "Euphoria Essence Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-obsession-night-for-men",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Obsession Night for Men",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein Obsession Night for Men Parfum Homme Algérie",
+  "notes": [
+   "Poire",
+   "Cardamome",
+   "Noix de muscade",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "obsession night for men",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "obsession-femme-ck",
+    "nom": "Obsession",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-obsession-night-woman",
+    "nom": "Obsession Night Woman",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-ck-one-collector-s-edition",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "CK One Collector's Edition",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein CK One Collector's Edition Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Rhubarbe",
+   "Aiguilles de pin",
+   "Bouleau"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "ck one collector s edition",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "ck-one",
+    "nom": "CK One",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-gold",
+    "nom": "CK One Gold",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-shock-for-him",
+    "nom": "CK One Shock For Him",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-reflections",
+    "nom": "CK One Reflections",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-ck-one-shock-for-her",
+    "nom": "CK One Shock For Her",
+    "conc": "EDT",
+    "vol": "200ml"
+   }
+  ],
+  "partagees": []
+ }
+]

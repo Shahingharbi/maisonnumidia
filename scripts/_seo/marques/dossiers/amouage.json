@@ -1,0 +1,908 @@
+{
+ "slug": "amouage",
+ "nom": "Amouage",
+ "origine": "Oman",
+ "descriptionActuelle": "Fondée en 1983 à Mascate sous le patronage du Sultan d'Oman, Amouage est considérée comme l'une des maisons de parfumerie les plus précieuses au monde. Reflection Man est une ode à la sophistication boisée. Disponible en Algérie chez Maison Numidia.",
+ "nbFiches": 17,
+ "pages": [
+  {
+   "chemin": "/marques/amouage",
+   "gsc": {
+    "clics": 77,
+    "imp": 1103,
+    "pos": 6.1,
+    "ctr": 7
+   },
+   "requetes": [
+    {
+     "q": "amouage",
+     "imp": 30,
+     "clics": 0,
+     "pos": 6.1
+    },
+    {
+     "q": "amouage algerie",
+     "imp": 13,
+     "clics": 2,
+     "pos": 3.3
+    },
+    {
+     "q": "amouage purpose 50 prix algérie",
+     "imp": 6,
+     "clics": 0,
+     "pos": 11
+    },
+    {
+     "q": "parfum amouage",
+     "imp": 5,
+     "clics": 1,
+     "pos": 11.2
+    },
+    {
+     "q": "amouage parfum",
+     "imp": 5,
+     "clics": 0,
+     "pos": 9.8
+    },
+    {
+     "q": "amouage perfume",
+     "imp": 5,
+     "clics": 0,
+     "pos": 3.4
+    },
+    {
+     "q": "maison amouage",
+     "imp": 5,
+     "clics": 0,
+     "pos": 7
+    },
+    {
+     "q": "amouage parfum prix algérie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 11
+    },
+    {
+     "q": "amouage prix algérie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 8
+    },
+    {
+     "q": "amouage gris",
+     "imp": 3,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "parfum amouage prix",
+     "imp": 3,
+     "clics": 0,
+     "pos": 22
+    },
+    {
+     "q": "amouage decision prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 11
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "amouage",
+     "vol": 1300,
+     "notrePos": 20
+    },
+    {
+     "k": "amouage parfum",
+     "vol": 720,
+     "notrePos": 20
+    },
+    {
+     "k": "parfum amouage",
+     "vol": 480,
+     "notrePos": 42
+    },
+    {
+     "k": "parfum amouage prix",
+     "vol": 320,
+     "notrePos": 41
+    },
+    {
+     "k": "amouage reflection",
+     "vol": 260,
+     "notrePos": 18
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/amouage",
+   "gsc": {
+    "clics": 12,
+    "imp": 248,
+    "pos": 8.7,
+    "ctr": 4.8
+   },
+   "requetes": [
+    {
+     "q": "amouage",
+     "imp": 11,
+     "clics": 0,
+     "pos": 2.7
+    },
+    {
+     "q": "amouage parfum homme",
+     "imp": 9,
+     "clics": 0,
+     "pos": 10.6
+    },
+    {
+     "q": "amouage dia pour homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 8.5
+    },
+    {
+     "q": "amouage enclave",
+     "imp": 2,
+     "clics": 0,
+     "pos": 60
+    },
+    {
+     "q": "amouage parfum femme prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 7.5
+    },
+    {
+     "q": "parfum amouage",
+     "imp": 2,
+     "clics": 0,
+     "pos": 28
+    },
+    {
+     "q": "parfum amouage homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 25
+    },
+    {
+     "q": "100",
+     "imp": 1,
+     "clics": 0,
+     "pos": 8
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/amouage",
+   "gsc": {
+    "clics": 2,
+    "imp": 109,
+    "pos": 8.7,
+    "ctr": 1.8
+   },
+   "requetes": [
+    {
+     "q": "parfum amouage femme",
+     "imp": 15,
+     "clics": 0,
+     "pos": 4.9
+    },
+    {
+     "q": "amouage parfum femme prix algérie",
+     "imp": 12,
+     "clics": 0,
+     "pos": 9.5
+    },
+    {
+     "q": "amouage pour femme",
+     "imp": 6,
+     "clics": 0,
+     "pos": 6.8
+    },
+    {
+     "q": "amouage parfum femme",
+     "imp": 5,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "amouage parfum prix algérie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 24
+    },
+    {
+     "q": "parfum amouage prix algérie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 10
+    },
+    {
+     "q": "amouage femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1.5
+    },
+    {
+     "q": "parfum amouage",
+     "imp": 2,
+     "clics": 0,
+     "pos": 21
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "amouage parfum prix",
+     "vol": 320,
+     "notrePos": 41
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/amouage",
+   "gsc": {
+    "clics": 2,
+    "imp": 72,
+    "pos": 9,
+    "ctr": 2.8
+   },
+   "requetes": [
+    {
+     "q": "parfum amouage",
+     "imp": 5,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "amouage algerie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 8.5
+    },
+    {
+     "q": "amouage parfum prix algérie",
+     "imp": 4,
+     "clics": 0,
+     "pos": 15.5
+    },
+    {
+     "q": "algerie",
+     "imp": 1,
+     "clics": 1,
+     "pos": 1
+    },
+    {
+     "q": "amouage prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 52
+    },
+    {
+     "q": "amouage prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 19
+    },
+    {
+     "q": "parfum amouage homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 31
+    },
+    {
+     "q": "السعر بالدينار",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    }
+   ],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "amouage-guidance",
+   "nom": "Guidance",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 96000,
+   "notes": {
+    "top": [
+     "Noisette",
+     "Poire",
+     "Oliban"
+    ],
+    "heart": [
+     "Osmanthe",
+     "Rose",
+     "Safran",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Bois de santal",
+     "Vanille",
+     "Akigalawood",
+     "Ambre gris",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 112,
+   "clics90j": 4,
+   "volumeRecherche": 880
+  },
+  {
+   "slug": "amouage-decision",
+   "nom": "Decision",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 103000,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Bergamote",
+     "Poivre Rose"
+    ],
+    "heart": [
+     "Encens",
+     "Myrrhe",
+     "Baies de Genièvre"
+    ],
+    "base": [
+     "Vanille",
+     "Bois de Cèdre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 497,
+   "clics90j": 11,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "amouage-reflection",
+   "nom": "Reflection Man",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 92500,
+   "notes": {
+    "top": [
+     "Romarin",
+     "Poivre Rose",
+     "Petitgrain"
+    ],
+    "heart": [
+     "Jasmin",
+     "Néroli",
+     "Racine d'Iris",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Cèdre",
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 1764,
+   "clics90j": 67,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "amouage-purpose-50",
+   "nom": "Purpose 50",
+   "conc": "Extrait de Parfum",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 148500,
+   "notes": {
+    "top": [
+     "Encens",
+     "Piment de la Jamaïque",
+     "Poivre rose",
+     "Bergamote"
+    ],
+    "heart": [
+     "Santal",
+     "Vétiver",
+     "Papyrus",
+     "Rose"
+    ],
+    "base": [
+     "Akigalawood",
+     "Suède",
+     "Vanille",
+     "Mystikal",
+     "Safran"
+    ]
+   },
+   "imp90j": 1107,
+   "clics90j": 25,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "amouage-outlands",
+   "nom": "Outlands",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 125500,
+   "notes": {
+    "top": [
+     "Encens",
+     "Cardamome",
+     "Élémi",
+     "Citron",
+     "Bergamote",
+     "Poivre du Sichuan"
+    ],
+    "heart": [
+     "Patchouli",
+     "Rose",
+     "Fleur d'oranger",
+     "Safran"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Oud",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 0,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "amouage-guidance-46",
+   "nom": "Guidance 46",
+   "conc": "Extrait de Parfum",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 136000,
+   "notes": {
+    "top": [
+     "Eau de Rose",
+     "Poire",
+     "Noisette",
+     "Amande Amère",
+     "Oliban",
+     "Poivre Rose"
+    ],
+    "heart": [
+     "Rose",
+     "Osmanthe",
+     "Safran",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Akigalawood",
+     "Vanille",
+     "Ambrette",
+     "Ambre gris",
+     "Labdanum",
+     "Georgywood",
+     "Cypriol"
+    ]
+   },
+   "imp90j": 865,
+   "clics90j": 31,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "amouage-lyric-femme",
+   "nom": "Lyric pour Femme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 105500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Cardamome épicée",
+     "Cannelle",
+     "Gingembre"
+    ],
+    "heart": [
+     "Rose",
+     "Angélique",
+     "Jasmin",
+     "Ylang-ylang",
+     "Géranium",
+     "Iris"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Musc",
+     "Bois",
+     "Patchouli",
+     "Vétiver",
+     "Bois de santal",
+     "Vanille",
+     "Fève tonka",
+     "Encens"
+    ]
+   },
+   "imp90j": 623,
+   "clics90j": 16,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "amouage-interlude-man",
+   "nom": "Interlude Man",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé Épicé",
+   "enStock": true,
+   "prix": 71000,
+   "notes": {
+    "top": [
+     "Origan",
+     "Poivre",
+     "Bergamote"
+    ],
+    "heart": [
+     "Encens (oliban)",
+     "Opoponax",
+     "Ambre",
+     "Labdanum"
+    ],
+    "base": [
+     "Oud (bois d'agar)",
+     "Cuir",
+     "Bois de santal",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 406,
+   "clics90j": 11,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "amouage-existence",
+   "nom": "Existence",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 93000,
+   "notes": {
+    "top": [
+     "Aldéhydes",
+     "Muguet",
+     "Rose"
+    ],
+    "heart": [
+     "Encens",
+     "Mystikal",
+     "Labdanum"
+    ],
+    "base": [
+     "Musc blanc",
+     "Benjoin",
+     "Ambre gris"
+    ]
+   },
+   "imp90j": 130,
+   "clics90j": 3,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "amouage-interlude-53-man",
+   "nom": "Interlude 53 Man",
+   "conc": "Extrait de Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 109000,
+   "notes": {
+    "top": [
+     "Origan",
+     "Piment de la Jamaïque",
+     "Bergamote"
+    ],
+    "heart": [
+     "Encens",
+     "Ambre",
+     "Opoponax",
+     "Labdanum"
+    ],
+    "base": [
+     "Fumée",
+     "Oud",
+     "Cuir",
+     "Patchouli",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 328,
+   "clics90j": 15,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "amouage-interlude-black-iris",
+   "nom": "Interlude Black Iris",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boise Oriental",
+   "enStock": true,
+   "prix": 73500,
+   "notes": {
+    "top": [
+     "Feuille de violette",
+     "Romarin",
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris (Orris)",
+     "Encens",
+     "Myrrhe",
+     "Ambre",
+     "Labdanum",
+     "Vanille"
+    ],
+    "base": [
+     "Cuir",
+     "Bois d'agar (Oud)",
+     "Santal",
+     "Patchouli",
+     "Cedre"
+    ]
+   },
+   "imp90j": 95,
+   "clics90j": 4,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "amouage-dia-homme",
+   "nom": "Dia pour Homme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 105500,
+   "notes": {
+    "top": [
+     "Encens",
+     "Cardamome",
+     "Labdanum",
+     "Orange amère"
+    ],
+    "heart": [
+     "Pivoine",
+     "Prune",
+     "Racine d'iris",
+     "Ylang-ylang"
+    ],
+    "base": [
+     "Vétiver",
+     "Bois de rose du Brésil",
+     "Cuir",
+     "Ambre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 129,
+   "clics90j": 4,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "amouage-epic-man",
+   "nom": "Epic Man",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 89500,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Oliban",
+     "Safran",
+     "Muscade",
+     "Cardamome",
+     "Carvi",
+     "Myrte",
+     "Macis"
+    ],
+    "heart": [
+     "Myrrhe",
+     "Géranium"
+    ],
+    "base": [
+     "Encens",
+     "Oud",
+     "Cuir",
+     "Castoréum",
+     "Patchouli",
+     "Cèdre",
+     "Bois de Santal",
+     "Styrax",
+     "Musc"
+    ]
+   },
+   "imp90j": 85,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "amouage-opus-xiv-royal-tobacco",
+   "nom": "Opus XIV – Royal Tobacco",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 78000,
+   "notes": {
+    "top": [
+     "Oliban",
+     "Anis",
+     "Résine d'élémi",
+     "Cardamome",
+     "Basilic",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tabac",
+     "Réglisse",
+     "Fenugrec",
+     "Lavande",
+     "Prunol",
+     "Osmanthus",
+     "Fleur d'oranger",
+     "Rose"
+    ],
+    "base": [
+     "Oliban",
+     "Myrrhe",
+     "Vanille bourbon",
+     "Goudron de bouleau",
+     "Benjoin",
+     "Oud",
+     "Baume du Pérou",
+     "Labdanum",
+     "Bois de gaïac",
+     "Fève tonka",
+     "Vétiver",
+     "Musc"
+    ]
+   },
+   "imp90j": 81,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "amouage-overture-man",
+   "nom": "Overture Man",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 81500,
+   "notes": {
+    "top": [
+     "Cognac",
+     "Cumin",
+     "Cardamome",
+     "Muscade",
+     "Safran",
+     "Gingembre",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Myrrhe",
+     "Cannelle",
+     "Benjoin",
+     "Labdanum",
+     "Lentisque",
+     "Patchouli",
+     "Géranium"
+    ],
+    "base": [
+     "Notes animales",
+     "Fumée",
+     "Encens",
+     "Cuir",
+     "Santal",
+     "Sauge sclarée"
+    ]
+   },
+   "imp90j": 73,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "amouage-opus-xiii-silver-oud",
+   "nom": "Opus XIII – Silver Oud",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 89000,
+   "notes": {
+    "top": [
+     "Cypriol (Nagarmotha)",
+     "Patchouli",
+     "Cèdre de Virginie"
+    ],
+    "heart": [
+     "Oud",
+     "Vanille de Madagascar"
+    ],
+    "base": [
+     "Castoréum",
+     "Bouleau",
+     "Bois de Gaïac",
+     "Ambrarome"
+    ]
+   },
+   "imp90j": 32,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "amouage-beloved-homme",
+   "nom": "Beloved pour Homme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": false,
+   "prix": 105000,
+   "notes": {
+    "top": [
+     "Élémi",
+     "Pamplemousse",
+     "Cardamome",
+     "Orange",
+     "Poivre"
+    ],
+    "heart": [
+     "Safran",
+     "Racine d'iris",
+     "Géranium",
+     "Jasmin"
+    ],
+    "base": [
+     "Cèdre",
+     "Cuir",
+     "Vétiver",
+     "Musc",
+     "Bois de gaïac",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

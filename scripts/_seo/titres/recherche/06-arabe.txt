@@ -1,0 +1,106 @@
+Base : rp-A (échantillon). Requêtes contenant au moins un mot arabe : 2380 requêtes distinctes, 9423 imp (5.1 % de l'échantillon), 312 clics (6.3 %), CTR 3.3 %, pos 5.0 (latin : CTR 2.6 %, pos 8.7).
+Contrôle requetes-A : 2380 requêtes arabes, 8544 imp, 307 clics.
+
+| type de page | imp arabes | part des imp du type | clics | CTR | pos |
+|---|---|---|---|---|---|
+| produit | 8205 | 5.2 % | 221 | 2.7 % | 5.0 |
+| marque | 430 | 7.8 % | 27 | 6.3 % | 5.1 |
+| fille | 249 | 2.5 % | 13 | 5.2 % | 5.6 |
+| mere | 35 | 1.2 % | 1 | 2.9 % | 6.5 |
+| accueil | 440 | 6.2 % | 50 | 11.4 % | 4.6 |
+| blog | 52 | 4.3 % | 0 | 0.0 % | 5.8 |
+
+| forme de la requête arabe | imp | clics | CTR | pos | exemples |
+|---|---|---|---|---|---|
+| conversationnel (« سعره », « نعم » : suite d'un échange avec un assistant) | 3872 | 154 | 4.0 % | 4.5 | نعم (1) ; سعره (1) ; كم سعره (1) ; سعره في الجزائر (1) |
+| nom écrit en arabe | 3097 | 107 | 3.5 % | 5.8 | سعر عطر يارا في الجزائر (67) ; سعر عطر خمرة في الجزائر (43) ; سعر عطر ويسكي في الجزائر (30) ; سعر عطر هوس في الجزائر (29) |
+| générique (« سعر عطر في الجزائر »…) | 2103 | 47 | 2.2 % | 4.6 | في الجزائر (1) ; السعر (1) ; سعر (1) ; الجزائر (1) |
+| nom en latin dans une requête arabe | 351 | 4 | 1.1 % | 6.3 | سعر عطر kayali في الجزائر (1) ; سعر عطر miss dior في الجزائر (33) ; عطر dgvib3 (18) ; سعر عطر evidence في الجزائر (10) |
+
+### Noms écrits en arabe : pages qui les reçoivent (≥ 10 imp)
+| page | imp nom arabe | part des imp de la page (échantillon) | clics | pos | formes tapées (imp) |
+|---|---|---|---|---|---|
+| /parfums/lattafa-yara | 165 | 7.7 % | 2 | 6.4 | يارا (115), وردي (2), وهذي (2), الاسعار (2) |
+| / | 164 | 2.3 % | 20 | 6.9 | محلات بيع العطور (5), العطور (5), بليدة (3), اصلية (3) |
+| /parfums/lattafa-khamrah | 158 | 7.7 % | 6 | 5.8 | خمرة (94), خمره (6), الخمرة (5), الاسعار (3) |
+| /parfums/whisky-silver-evaflor | 132 | 3.9 % | 0 | 10.6 | ويسكي (67), ويسكي سيلفر (30), سلفر ويسكي (16), قرعة ويسكي (5) |
+| /parfums/rasasi-hawas | 67 | 7.8 % | 3 | 7.5 | هوس (48), هوس رصاصي (2), جزائر (2), حواس (1) |
+| /parfums/kayali-eden | 66 | 1.8 % | 0 | 5.8 | كيالي (40), جزائر (3), جزائري (2), 50مل (1) |
+| /parfums/lattafa-asad | 63 | 10.1 % | 1 | 5.4 | اسد (16), أسد (14), اقتصادية (2), شتوية (2) |
+| /parfums/club-de-nuit-intense-armaf | 45 | 4.7 % | 1 | 5.2 | اجده (3), متوفر (2), ارماف (2), سطيف (2) |
+| /parfums/libre-ysl | 43 | 2.7 % | 1 | 5.0 | ليبر (13), الثمن (2), دير (2), جزائري (2) |
+| /parfums/amouage-reflection | 34 | 3.9 % | 0 | 5.6 | امواج (27), أمواج (3), اجمل امواج النسائية (1), الاسعار (1) |
+| /parfums/stronger-with-you-intensely | 34 | 3.2 % | 0 | 4.9 | الاسعار (2), جزائر (2), أماكن توفره وأسعاره الحالية (1), الاقوى (1) |
+| /parfums/bleu-de-chanel-parfum | 33 | 2.5 % | 2 | 4.5 | بلو شانيل (8), الاسعار (2), دير (2), العاصمة (1) |
+| /parfums/dior-sauvage | 32 | 6.3 % | 0 | 4.9 | سوفاج (4), سوفاج ديور (3), الاسعار (2), جزائري (2) |
+| /parfums/dior-sauvage-elixir | 31 | 4.5 % | 0 | 5.5 | جزائر (3), سوفاج الكسير (2), سعرهم (2), سوفاج اليكسير (2) |
+| /parfums/creed-aventus | 26 | 2.5 % | 0 | 3.0 | كريد افينتوس (5), كريد (2), كريد افنتوس (2), الاصلية (2) |
+| /marques/lattafa | 25 | 11.7 % | 1 | 4.9 | أمير العود (2), متوفر (2), بالعربي (1), حياتي (1) |
+| /parfums/miss-dior | 24 | 7.4 % | 0 | 11.1 | ميس ديور (10), المقلدة (1), او دو بارفان (1), بالدارجه (1) |
+| /parfums/cerruti-1881-femme | 19 | 8.4 % | 0 | 7.4 | شيروتي (18), النسخة النسائية (1) |
+| /parfums/tom-ford-noir-extreme | 18 | 1.4 % | 0 | 4.4 | توم فورد (3), شتوي (2), سعرهم (2), اسعارها (1) |
+| /parfums/scandal-jean-paul-gaultier | 17 | 4.3 % | 1 | 3.4 | سكاندال (7), سكاندل (2), قسنطينة (1), اسعاره (1) |
+| /parfums/escada-candy-love | 16 | 2.1 % | 0 | 9.0 | كاندي لوف (16) |
+| /marques/assaf | 16 | 10.2 % | 1 | 6.3 | عساف (8), موقع (1), احسن (1), الإلكترونية (1) |
+| /parfums/evidence-yves-rocher | 16 | 0.9 % | 1 | 5.5 | والمبلغ (1), الاول (1), اماكن بيعه (1), ايفيدنس (1) |
+| /parfums/baccarat-rouge-540 | 16 | 8.1 % | 0 | 3.8 | بكرات روج (2), اسعارهم (1), الاصلية (1), الجزاير (1) |
+| /parfums/bombshell-victoria-secret | 15 | 1.5 % | 0 | 3.7 | فيكتوريا سيكرت (4), فيكتوريا سيكريت (2), الثمن (1), جزائر (1) |
+| /parfums/prada-paradoxe | 15 | 7.7 % | 0 | 5.3 | برادا بارادوكس (5), برادا (3), بدينار (1), اماكن البيع والسعر (1) |
+| /parfums/coco-mademoiselle-chanel | 15 | 1.6 % | 0 | 2.7 | الجزاءر (2), بالعملة الجزائرية (1), تمنه (1), جزاىري (1) |
+| /parfums/kayali-vanilla-28 | 15 | 2.4 % | 0 | 5.6 | هم (1), أماكن بيعه وأسعاره (1), وتفاصيل (1), أجدها (1) |
+| /parfums/lattafa-bade-al-oud | 14 | 10.7 % | 3 | 3.9 | بديع العود (8), رابط (1), الثمن (1), بديع العود لطافه (1) |
+| /parfums/lattafa-ana-abiyedh | 14 | 10.4 % | 1 | 3.2 | انا الابيض (7), الحمراء (1), اجده (1), اجل قل لي (1) |
+
+### Pages où l'arabe pèse le plus (≥ 40 imp arabes)
+| page | imp arabes | part des imp de la page | clics | requête arabe n°1 |
+|---|---|---|---|---|
+| / | 440 | 6.2 % | 50 | نعم (61, pos 3.7) |
+| /parfums/lattafa-khamrah | 296 | 14.4 % | 10 | سعر عطر خمرة في الجزائر (43, pos 8.8) |
+| /parfums/lattafa-yara | 262 | 12.3 % | 6 | سعر عطر يارا في الجزائر (67, pos 7.1) |
+| /parfums/kayali-eden | 182 | 4.8 % | 0 | سعر عطر kayali في الجزائر (39, pos 4.0) |
+| /parfums/whisky-silver-evaflor | 169 | 4.9 % | 2 | سعر عطر ويسكي في الجزائر (30, pos 4.8) |
+| /parfums/stronger-with-you-intensely | 132 | 12.6 % | 4 | كم سعره (8, pos 3.4) |
+| /parfums/lattafa-asad | 123 | 19.8 % | 4 | نعم (13, pos 7.2) |
+| /parfums/rasasi-hawas | 119 | 13.8 % | 3 | سعر عطر هوس في الجزائر (29, pos 8.2) |
+| /parfums/club-de-nuit-intense-armaf | 116 | 12.1 % | 6 | نعم (14, pos 5.1) |
+| /parfums/libre-ysl | 115 | 7.3 % | 1 | كم سعرها (6, pos 8.0) |
+| /parfums/bleu-de-chanel-parfum | 96 | 7.2 % | 4 | نعم (7, pos 7.4) |
+| /parfums/dior-sauvage | 91 | 17.9 % | 0 | كم سعره في الجزائر (5, pos 2.2) |
+| /parfums/miss-dior | 86 | 26.4 % | 0 | سعر عطر miss dior في الجزائر (33, pos 8.3) |
+| /parfums/creed-aventus | 77 | 7.4 % | 1 | سعره في الجزائر (5, pos 3.6) |
+| /parfums/dior-sauvage-elixir | 74 | 10.8 % | 1 | سعر (4, pos 3.5) |
+| /parfums/afnan-9pm | 65 | 6.6 % | 4 | سعره في الجزائر (7, pos 7.1) |
+| /parfums/evidence-yves-rocher | 62 | 3.6 % | 2 | سعر عطر evidence في الجزائر (10, pos 4.9) |
+| /parfums/coco-mademoiselle-chanel | 62 | 6.7 % | 0 | السعر بالدينار الجزائري (2, pos 4.0) |
+| /parfums/franck-olivier | 61 | 2.3 % | 3 | نعم (6, pos 4.0) |
+| /parfums/scandal-jean-paul-gaultier | 58 | 14.7 % | 1 | السعر في الجزائر (4, pos 2.3) |
+| /parfums/amouage-reflection | 57 | 6.5 % | 0 | سعر عطر امواج الاصلي في الجزائر (17, pos 7.1) |
+| /marques/lattafa | 56 | 26.3 % | 3 | نعم (12, pos 5.1) |
+| /parfums/terre-d-hermes | 54 | 4.8 % | 1 | سعر (5, pos 6.2) |
+| /parfums/xerjoff-naxos | 49 | 5.0 % | 1 | كم سعره في الجزائر (4, pos 3.3) |
+| /parfums/baccarat-rouge-540 | 48 | 24.4 % | 0 | كم سعره في الجزائر (7, pos 1.6) |
+
+### Volumes DataForSEO (Google Algérie, mensuel) : requêtes arabes mesurées, et le nom latin du même parfum
+- عطر : 1900
+- عطور : 1600
+- عطر خمرة : 480 (latin « lattafa khamrah » : 390)
+- عطر رجالي : 260
+- عطر نسائي : 260
+- عطر اسد : 260 (latin « lattafa asad » : 210)
+- افضل عطر رجالي : 210
+- عطر شانيل : 140
+- افضل عطر نسائي : 110
+- عطر لطافة : 90
+- ديور سوفاج : 90 (latin « dior sauvage » : 1000)
+- عطور الجزائر : 70
+- افضل عطر رجالي في الجزائر : 30
+- افضل عطر نسائي في الجزائر : 20
+Total arabe mesuré : 5520/mois ; demande latine des noms du catalogue : 214080/mois.
+
+### Fiches produit : CTR par bande de position, arabe contre latin
+| groupe | pos 1-3 | pos 3-5 | pos 5-8 | pos 8-12 |
+|---|---|---|---|---|
+| latin | 5.5 % (15627) | 3.8 % (23303) | 1.8 % (55597) | 1.3 % (38181) |
+| arabe, nom écrit en arabe | 4.7 % (888) | 2.8 % (599) | 1.1 % (611) | 1.9 % (371) |
+| arabe, générique | 2.0 % (740) | 1.9 % (517) | 1.6 % (312) | 0.7 % (138) |
+| arabe, conversationnel | 5.1 % (1522) | 1.8 % (942) | 2.6 % (529) | 0.0 % (191) |

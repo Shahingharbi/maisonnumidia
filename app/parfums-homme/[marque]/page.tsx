@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import { notFound } from "next/navigation";
 import Link from "@/components/Lien";
 import { getProductsByBrand, getBrandBySlug, getBrandSlugsForGenderPage, estDoublonDeMarque, urlMarqueSection } from "@/lib/products";
@@ -23,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const allBrandProducts = getProductsByBrand(marque);
   const count = allBrandProducts.filter(p => p.gender === "homme" || p.gender === "unisexe").length;
   return {
-    title: `Parfum Homme ${brand.name} en Algérie — ${count} référence${count > 1 ? "s" : ""}`,
+    title: titrePage(`/parfums-homme/${marque}`, `Parfum Homme ${brand.name} en Algérie — ${count} référence${count > 1 ? "s" : ""}`),
     description: `Achetez les parfums homme ${brand.name} originaux en Algérie. ${count} référence${count > 1 ? "s" : ""} disponible${count > 1 ? "s" : ""}, paiement à la livraison, livraison Yalidine 69 wilayas.`,
     // Page qui double /marques/<marque> (aucun produit de la marque hors de cette section) :
     // la page marque est la seule à se positionner. Voir estDoublonDeMarque().

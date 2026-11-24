@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { getFeaturedProducts, getAllBrands } from "@/lib/products";
 import ProductCard from "@/components/product/ProductCard";
 import { ArrowRight, Truck, Shield, Phone } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Parfum en Algérie — Paiement à la Livraison, 69 Wilayas",
+  title: titrePage("/parfum-algerie", "Parfum en Algérie — Paiement à la Livraison, 69 Wilayas"),
   description: "Achetez vos parfums en Algérie chez Maison Numidia : Dior, Chanel, Lattafa, Al Haramain. Paiement à la livraison dans les 69 wilayas. Parfums 100% authentiques.",
   alternates: { canonical: "https://maisonnumidia.store/parfum-algerie" },
   keywords: ["parfum algerie", "acheter parfum algerie", "parfum original algerie", "parfum livraison algerie", "parfum dz"],

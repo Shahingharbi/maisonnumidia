@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import { Phone, MapPin, Clock } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Contact — Parfums en Algérie",
+  title: titrePage("/contact", "Contact — Parfums en Algérie"),
   description: "Contactez Maison Numidia pour toute question sur nos parfums. WhatsApp disponible, réponse rapide garantie.",
   alternates: {
     canonical: "https://maisonnumidia.store/contact",

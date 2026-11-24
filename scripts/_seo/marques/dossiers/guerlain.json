@@ -1,0 +1,2720 @@
+{
+ "slug": "guerlain",
+ "nom": "Guerlain",
+ "origine": "France",
+ "descriptionActuelle": "Fondée en 1828, Guerlain est l'une des plus anciennes maisons de parfumerie française. De Shalimar à Mon Guerlain, chaque création porte l'empreinte d'un savoir-faire artisanal transmis de génération en génération. Ses parfums sont disponibles en Algérie chez Maison Numidia, avec livraison dans les 69 wilayas.",
+ "nbFiches": 83,
+ "pages": [
+  {
+   "chemin": "/marques/guerlain",
+   "gsc": {
+    "clics": 3,
+    "imp": 16,
+    "pos": 7,
+    "ctr": 18.8
+   },
+   "requetes": [
+    {
+     "q": "un lien direct",
+     "imp": 1,
+     "clics": 1,
+     "pos": 3
+    },
+    {
+     "q": "combien le prix en algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    },
+    {
+     "q": "guerlain",
+     "imp": 1,
+     "clics": 0,
+     "pos": 40
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "guerlain",
+     "vol": 1600,
+     "notrePos": 33
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/guerlain",
+   "gsc": {
+    "clics": 0,
+    "imp": 19,
+    "pos": 13.9,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "eau de parfum homme guerlain",
+     "imp": 1,
+     "clics": 0,
+     "pos": 36
+    },
+    {
+     "q": "guerlain homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "mon guerlain 100ml prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 14
+    },
+    {
+     "q": "parfum guerlain homme prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 55
+    },
+    {
+     "q": "prix en algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "سعره",
+     "imp": 1,
+     "clics": 0,
+     "pos": 9
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/guerlain",
+   "gsc": {
+    "clics": 36,
+    "imp": 879,
+    "pos": 8,
+    "ctr": 4.1
+   },
+   "requetes": [
+    {
+     "q": "parfum guerlain femme prix algérie",
+     "imp": 45,
+     "clics": 2,
+     "pos": 6.8
+    },
+    {
+     "q": "guerlain parfum femme",
+     "imp": 20,
+     "clics": 1,
+     "pos": 9.6
+    },
+    {
+     "q": "guerlain parfum prix algérie",
+     "imp": 17,
+     "clics": 0,
+     "pos": 6.4
+    },
+    {
+     "q": "insolence guerlain prix algérie",
+     "imp": 16,
+     "clics": 0,
+     "pos": 6.9
+    },
+    {
+     "q": "parfum guerlain femme prix",
+     "imp": 16,
+     "clics": 0,
+     "pos": 10.4
+    },
+    {
+     "q": "parfum guerlain femme",
+     "imp": 11,
+     "clics": 0,
+     "pos": 7.5
+    },
+    {
+     "q": "la petite robe noire parfum prix algérie",
+     "imp": 8,
+     "clics": 0,
+     "pos": 10.8
+    },
+    {
+     "q": "parfum guerlain",
+     "imp": 7,
+     "clics": 0,
+     "pos": 27
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "guerlain parfum",
+     "vol": 1300,
+     "notrePos": 23
+    },
+    {
+     "k": "guerlain parfum femme",
+     "vol": 880,
+     "notrePos": 18
+    },
+    {
+     "k": "guerlain parfums femme",
+     "vol": 880,
+     "notrePos": 29
+    },
+    {
+     "k": "parfum femme guerlain",
+     "vol": 880,
+     "notrePos": 28
+    },
+    {
+     "k": "parfum guerlain femme",
+     "vol": 880,
+     "notrePos": 12
+    },
+    {
+     "k": "parfum pour femme guerlain",
+     "vol": 880,
+     "notrePos": 24
+    },
+    {
+     "k": "parfums femme guerlain",
+     "vol": 880,
+     "notrePos": 28
+    },
+    {
+     "k": "parfums guerlain femme",
+     "vol": 880,
+     "notrePos": 31
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/guerlain",
+   "gsc": {
+    "clics": 0,
+    "imp": 113,
+    "pos": 5.8,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "maison numidia",
+     "imp": 66,
+     "clics": 0,
+     "pos": 1.4
+    },
+    {
+     "q": "guerlain oriental",
+     "imp": 2,
+     "clics": 0,
+     "pos": 7.5
+    },
+    {
+     "q": "guerlain parfum oriental",
+     "imp": 1,
+     "clics": 0,
+     "pos": 38
+    },
+    {
+     "q": "guerlain parfum prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 8
+    },
+    {
+     "q": "mon guerlain parfum prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 48
+    },
+    {
+     "q": "ou l'acheter en algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 19
+    },
+    {
+     "q": "prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    }
+   ],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "mon-guerlain",
+   "nom": "Mon Guerlain",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental Lavande",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Lavande de Provence",
+     "Bergamote",
+     "Amande"
+    ],
+    "heart": [
+     "Lavande",
+     "Jasmin Blanc de Grasse"
+    ],
+    "base": [
+     "Vanille Bourbon",
+     "Bois de Santal",
+     "Cashméran"
+    ]
+   },
+   "imp90j": 559,
+   "clics90j": 9,
+   "volumeRecherche": 720
+  },
+  {
+   "slug": "l-homme-ideal-guerlain",
+   "nom": "L'Homme Idéal",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Amande",
+     "Épices",
+     "Lavande",
+     "Bergamote",
+     "Romarin",
+     "Thym"
+    ],
+    "heart": [
+     "Cerise",
+     "Vanille",
+     "Encens",
+     "Rose de Bulgarie"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Cuir",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 1053,
+   "clics90j": 49,
+   "volumeRecherche": 390
+  },
+  {
+   "slug": "la-petite-robe-noire-guerlain",
+   "nom": "La Petite Robe Noire",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Cerise acidulée",
+     "Amande",
+     "Fruits rouges",
+     "Bergamote"
+    ],
+    "heart": [
+     "Réglisse",
+     "Rose",
+     "Thé",
+     "Rose de Taif"
+    ],
+    "base": [
+     "Vanille",
+     "Anis",
+     "Fève Tonka",
+     "Patchouli",
+     "Iris"
+    ]
+   },
+   "imp90j": 554,
+   "clics90j": 18,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "guerlain-l-heure-bleue",
+   "nom": "L'Heure Bleue",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Poudré",
+   "enStock": true,
+   "prix": 35000,
+   "notes": {
+    "top": [
+     "Anis",
+     "Bergamote"
+    ],
+    "heart": [
+     "Œillet",
+     "Néroli"
+    ],
+    "base": [
+     "Violette",
+     "Iris",
+     "Vanille",
+     "Fève de Tonka",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 512,
+   "clics90j": 42,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "guerlain-santal-royal",
+   "nom": "Santal Royal",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boise",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Neroli",
+     "Jasmin"
+    ],
+    "heart": [
+     "Rose",
+     "Peche",
+     "Cannelle"
+    ],
+    "base": [
+     "Oud",
+     "Bois de santal",
+     "Cuir",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 124,
+   "clics90j": 4,
+   "volumeRecherche": 210
+  },
+  {
+   "slug": "guerlain-mon-guerlain-intense",
+   "nom": "Mon Guerlain Intense",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Boisé Ambré",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Lavande de Provence"
+    ],
+    "heart": [
+     "Iris",
+     "Jasmin sambac",
+     "Lait d'amande"
+    ],
+    "base": [
+     "Vanille Tahitienne",
+     "Musc blanc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 333,
+   "clics90j": 14,
+   "volumeRecherche": 140
+  },
+  {
+   "slug": "guerlain-insolence",
+   "nom": "Insolence",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Baies rouges",
+     "Bergamote"
+    ],
+    "heart": [
+     "Violette",
+     "Rose",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Iris",
+     "Fève tonka",
+     "Musc"
+    ]
+   },
+   "imp90j": 154,
+   "clics90j": 7,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "habit-rouge-guerlain",
+   "nom": "Habit Rouge",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Orange"
+    ],
+    "heart": [
+     "Rose",
+     "Jasmin",
+     "Cardamome"
+    ],
+    "base": [
+     "Benjoin",
+     "Bois de Santal",
+     "Musc Blanc",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 198,
+   "clics90j": 12,
+   "volumeRecherche": 140
+  },
+  {
+   "slug": "guerlain-shalimar",
+   "nom": "Shalimar",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron",
+     "Néroli"
+    ],
+    "heart": [
+     "Iris",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Opoponax",
+     "Benjoin",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 395,
+   "clics90j": 46,
+   "volumeRecherche": 70
+  },
+  {
+   "slug": "guerlain-samsara",
+   "nom": "Samsara",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Ylang-Ylang",
+     "Pêche",
+     "Bergamote",
+     "Citron",
+     "Notes Vertes"
+    ],
+    "heart": [
+     "Jasmin",
+     "Iris",
+     "Racine d'Iris",
+     "Violette",
+     "Narcisse",
+     "Rose"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Iris",
+     "Vanille",
+     "Fève Tonka",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 377,
+   "clics90j": 37,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "insolence-guerlain",
+   "nom": "Insolence Eau de Parfum",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Baies Rouges"
+    ],
+    "heart": [
+     "Violette",
+     "Iris",
+     "Fleur d'Oranger Africaine"
+    ],
+    "base": [
+     "Fève Tonka",
+     "Bois de Santal",
+     "Notes Boisées"
+    ]
+   },
+   "imp90j": 418,
+   "clics90j": 43,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-champs-elysees",
+   "nom": "Champs-Élysées",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Mimosa",
+     "Fleurs Blanches",
+     "Groseille"
+    ],
+    "heart": [
+     "Pivoine",
+     "Fleur d'Amandier",
+     "Rose"
+    ],
+    "base": [
+     "Vanille",
+     "Musc Blanc",
+     "Bois"
+    ]
+   },
+   "imp90j": 75,
+   "clics90j": 5,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "guerlain-vetiver",
+   "nom": "Vétiver",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Vétiver",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Citron de Sicile",
+     "Mandarine"
+    ],
+    "heart": [
+     "Vétiver de Haïti",
+     "Rose",
+     "Pivoine"
+    ],
+    "base": [
+     "Vétiver de Java",
+     "Tabac blond",
+     "Bois de chêne",
+     "Musc ambre"
+    ]
+   },
+   "imp90j": 193,
+   "clics90j": 9,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "guerlain-habit-rouge-prive",
+   "nom": "Habit Rouge Rouge Privé",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Cuir",
+   "enStock": true,
+   "prix": 31500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Gingembre"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Iris"
+    ],
+    "base": [
+     "Cuir",
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 294,
+   "clics90j": 20,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-homme",
+   "nom": "Homme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Menthe",
+     "Citron vert",
+     "Rhum"
+    ],
+    "heart": [
+     "Notes florales"
+    ],
+    "base": [
+     "Vétiver",
+     "Cèdre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 2,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "guerlain-l-homme-ideal-cologne-forte",
+   "nom": "L'Homme Idéal Cologne Forte",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Ambré",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Zeste de citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Amande",
+     "Cannelle"
+    ],
+    "base": [
+     "Vanilline",
+     "Vétiver",
+     "Encens"
+    ]
+   },
+   "imp90j": 28,
+   "clics90j": 0,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "guerlain-rose-amira",
+   "nom": "Rose Amira",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 44000,
+   "notes": {
+    "top": [
+     "Encens"
+    ],
+    "heart": [
+     "Rose"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc"
+    ]
+   },
+   "imp90j": 167,
+   "clics90j": 16,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "guerlain-l-homme-ideal-extreme",
+   "nom": "L'Homme Idéal Extrême",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Amande",
+     "Poivre rose",
+     "Bergamote"
+    ],
+    "heart": [
+     "Prune",
+     "Cannelle",
+     "Héliotrope"
+    ],
+    "base": [
+     "Tabac",
+     "Cuir",
+     "Patchouli",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 106,
+   "clics90j": 3,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "guerlain-idylle",
+   "nom": "Idylle",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Teinture de rose",
+     "Freesia",
+     "Litchi",
+     "Framboise"
+    ],
+    "heart": [
+     "Muguet",
+     "Jasmin",
+     "Lilas",
+     "Pivoine",
+     "Lys"
+    ],
+    "base": [
+     "Musc",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 150,
+   "clics90j": 16,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "guerlain-frenchy-lavande",
+   "nom": "Frenchy Lavande",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Fougère Aromatique",
+   "enStock": true,
+   "prix": 70500,
+   "notes": {
+    "top": [
+     "Verveine citronnée",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lavande",
+     "Petitgrain",
+     "Cédrat",
+     "Sauge",
+     "Néroli"
+    ],
+    "base": [
+     "Vétiver",
+     "Ambre gris",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 206,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-tonka-imperiale",
+   "nom": "Tonka Impériale",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 70500,
+   "notes": {
+    "top": [
+     "Amande amère",
+     "Romarin",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fève tonka",
+     "Tabac",
+     "Jasmin"
+    ],
+    "base": [
+     "Encens",
+     "Cèdre",
+     "Pin"
+    ]
+   },
+   "imp90j": 184,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-heritage",
+   "nom": "Héritage",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Orange",
+     "Aldéhydes",
+     "Notes vertes",
+     "Lavande",
+     "Citron",
+     "Petit grain",
+     "Violette",
+     "Sauge sclarée",
+     "Noix de muscade"
+    ],
+    "heart": [
+     "Poivre",
+     "Coriandre",
+     "Racine d'iris",
+     "Rose",
+     "Jasmin",
+     "Oeillet",
+     "Chèvrefeuille",
+     "Géranium",
+     "Muguet"
+    ],
+    "base": [
+     "Cèdre",
+     "Vétiver",
+     "Patchouli",
+     "Ambre",
+     "Fève tonka",
+     "Mousse de chêne",
+     "Santal",
+     "Vanille poudrée"
+    ]
+   },
+   "imp90j": 109,
+   "clics90j": 7,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-mandarine-basilic",
+   "nom": "Aqua Allegoria Mandarine Basilic",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Clémentine",
+     "Orange Amère",
+     "Fleur d'Oranger",
+     "Thé Vert",
+     "Lierre"
+    ],
+    "heart": [
+     "Mandarine",
+     "Basilic",
+     "Camomille",
+     "Pivoine"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Ambre"
+    ]
+   },
+   "imp90j": 33,
+   "clics90j": 6,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "guerlain-aqua-allegoria",
+   "nom": "Aqua Allegoria Flora Nymphea",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Aquatique",
+   "enStock": true,
+   "prix": 18500,
+   "notes": {
+    "top": [
+     "Notes Vertes",
+     "Fruits Rouges"
+    ],
+    "heart": [
+     "Miel",
+     "Fleur d'Oranger",
+     "Seringa"
+    ],
+    "base": [
+     "Musc",
+     "Bois"
+    ]
+   },
+   "imp90j": 138,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-l-homme-ideal-platine-prive",
+   "nom": "L'Homme Idéal Platine Privé",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Bergamote"
+    ],
+    "heart": [
+     "Amande Verte",
+     "Néroli"
+    ],
+    "base": [
+     "Musc",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 106,
+   "clics90j": 7,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "guerlain-mon-guerlain-bloom-of-rose",
+   "nom": "Mon Guerlain Bloom of Rose",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Rose de Bulgarie",
+     "Poire",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose de Turquie",
+     "Lavande",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Vanille",
+     "Bois de Santal",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 56,
+   "clics90j": 1,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "guerlain-l-instant-de",
+   "nom": "L'Instant de",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Pomme rouge",
+     "Bergamote"
+    ],
+    "heart": [
+     "Magnolia",
+     "Iris",
+     "Ylang-Ylang",
+     "Jasmin"
+    ],
+    "base": [
+     "Miel blanc",
+     "Vanille",
+     "Ambre",
+     "Benjoin",
+     "Musc"
+    ]
+   },
+   "imp90j": 108,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-vol-de-nuit",
+   "nom": "Vol de Nuit",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Boisé",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Narcisse",
+     "Galbanum"
+    ],
+    "heart": [
+     "Aldéhydes",
+     "Iris",
+     "Jasmin"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Racine d'iris",
+     "Musc"
+    ]
+   },
+   "imp90j": 15,
+   "clics90j": 0,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "guerlain-spiritueuse-double-vanille",
+   "nom": "Spiritueuse Double Vanille",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Encens",
+     "Poivre rose",
+     "Bergamote"
+    ],
+    "heart": [
+     "Cèdre",
+     "Ylang-Ylang",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Benjoin",
+     "Rhum"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "guerlain-terracotta",
+   "nom": "Terracotta",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Noix de coco",
+     "Bergamote"
+    ],
+    "heart": [
+     "Tiaré",
+     "Ylang-Ylang",
+     "Jasmin",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Vanille",
+     "Musc"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 2,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "guerlain-cuir-intense",
+   "nom": "Cuir Intense",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Cuir Boisé",
+   "enStock": true,
+   "prix": 35500,
+   "notes": {
+    "top": [
+     "Osmanthe"
+    ],
+    "heart": [
+     "Cèdre",
+     "Bois de Santal"
+    ],
+    "base": [
+     "Cuir",
+     "Tabac"
+    ]
+   },
+   "imp90j": 100,
+   "clics90j": 9,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-l-instant-magic",
+   "nom": "L'instant Magic",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Boise Musque",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Musc blanc",
+     "Rose"
+    ],
+    "base": [
+     "Amandier",
+     "Feve tonka",
+     "Bois de santal",
+     "Cedre"
+    ]
+   },
+   "imp90j": 56,
+   "clics90j": 5,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-ambre-eternel",
+   "nom": "Les Absolus d'Orient Ambre Éternel",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Ambre Gris",
+     "Coriandre",
+     "Cardamome",
+     "Cannelle"
+    ],
+    "heart": [
+     "Pêche",
+     "Ylang-Ylang",
+     "Fleur d'Oranger"
+    ],
+    "base": [
+     "Cuir",
+     "Notes Boisées"
+    ]
+   },
+   "imp90j": 114,
+   "clics90j": 11,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-mon-guerlain-sparkling-bouquet",
+   "nom": "Mon Guerlain Sparkling Bouquet",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Lavande",
+     "Pivoine",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Vanille de Tahiti",
+     "Musc Blanc",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 51,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "guerlain-florabloom-absolu",
+   "nom": "Florabloom Absolu",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 46500,
+   "notes": {
+    "top": [
+     "Encens",
+     "Mandarine",
+     "Accord Mangue"
+    ],
+    "heart": [
+     "Accord Belle-de-nuit",
+     "Rose Centifolia",
+     "Tubéreuse",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Mousse",
+     "Patchouli",
+     "Bois de santal",
+     "Extrait de noix de coco"
+    ]
+   },
+   "imp90j": 81,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-patchouli-ardent",
+   "nom": "Patchouli Ardent",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Floral Musqué",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Figue",
+     "Poivre rose",
+     "Poivre noir"
+    ],
+    "heart": [
+     "Patchouli",
+     "Rose de Turquie",
+     "Cèdre"
+    ],
+    "base": [
+     "Cuir",
+     "Musc"
+    ]
+   },
+   "imp90j": 36,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-encens-mythique",
+   "nom": "Les Absolus d'Orient Encens Mythique",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Chypre Boise",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Aldehydes",
+     "Rose",
+     "Safran"
+    ],
+    "heart": [
+     "Poivre rose",
+     "Patchouli",
+     "Vetiver"
+    ],
+    "base": [
+     "Ambre gris",
+     "Oliban",
+     "Notes boisees"
+    ]
+   },
+   "imp90j": 63,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-rosa-rossa",
+   "nom": "Aqua Allegoria Rosa Rossa",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Litchi",
+     "Cassis",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Rose",
+     "Pivoine"
+    ],
+    "base": [
+     "Musc blanc",
+     "Iso E Super",
+     "Cèdre",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "guerlain-ambre-samar",
+   "nom": "Ambre Samar",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 36000,
+   "notes": {
+    "top": [
+     "Encens",
+     "Amande",
+     "Cardamome"
+    ],
+    "heart": [
+     "Accord Ambre Doré",
+     "Davana",
+     "Teinture d'Ambre"
+    ],
+    "base": [
+     "Benjoin",
+     "Patchouli",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 60,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-musc-noble",
+   "nom": "Les Absolus d'Orient Musc Noble",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Floral Musqué",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Safran",
+     "Aldéhydes",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Musc",
+     "Rose",
+     "Géranium"
+    ],
+    "base": [
+     "Musc blanc",
+     "Cuir",
+     "Cèdre",
+     "Ambre blanc",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 56,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-coconut-fizz",
+   "nom": "Aqua Allegoria Coconut Fizz",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Fruite",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Nectar de coco",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fruit de l'eau",
+     "Freesia"
+    ],
+    "base": [
+     "Bois de santal",
+     "Feve tonka"
+    ]
+   },
+   "imp90j": 49,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-l-homme-ideal-sport",
+   "nom": "L'Homme Idéal Sport",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 29000,
+   "notes": {
+    "top": [
+     "Notes Aquatiques",
+     "Amande",
+     "Épices"
+    ],
+    "heart": [
+     "Néroli"
+    ],
+    "base": [
+     "Vétiver",
+     "Coumarine",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 49,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-neroli-plein-sud",
+   "nom": "Néroli Plein Sud",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Curcuma",
+     "Cannelle"
+    ],
+    "heart": [
+     "Néroli",
+     "Fleur d'oranger de Tunisie"
+    ],
+    "base": [
+     "Vétiver",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 48,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-passiflora",
+   "nom": "Aqua Allegoria Passiflora",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Citron",
+     "Mandarine",
+     "Bergamote",
+     "Aldéhydes"
+    ],
+    "heart": [
+     "Fruit de la passion",
+     "Notes aquatiques",
+     "Fleur d'oranger",
+     "Notes vertes",
+     "Ylang-ylang"
+    ],
+    "base": [
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-cruel-gardenia",
+   "nom": "Cruel Gardénia",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 67000,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Rose",
+     "Pêche"
+    ],
+    "heart": [
+     "Gardénia",
+     "Violette",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Musc",
+     "Fève tonka",
+     "Bois de santal",
+     "Vanille"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-mitsouko",
+   "nom": "Mitsouko",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Chypré Fruité",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Agrumes",
+     "Bergamote"
+    ],
+    "heart": [
+     "Pêche",
+     "Jasmin",
+     "Rose de mai"
+    ],
+    "base": [
+     "Épices",
+     "Notes de sous-bois",
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 43,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-l-instant-de-pour-homme",
+   "nom": "L'Instant de pour Homme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boise Epice",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Anis etoile",
+     "Bergamote",
+     "Elemi",
+     "Citron",
+     "Poivre"
+    ],
+    "heart": [
+     "Feve de cacao",
+     "Bois de santal",
+     "Fumee",
+     "The",
+     "Jasmin"
+    ],
+    "base": [
+     "Patchouli"
+    ]
+   },
+   "imp90j": 64,
+   "clics90j": 2,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-flora-salvaggia",
+   "nom": "Aqua Allegoria Flora Salvaggia",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Notes aqueuses",
+     "Violette",
+     "Melon",
+     "Fleurs sauvages"
+    ],
+    "heart": [
+     "Notes solaires",
+     "Jasmin",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Violette",
+     "Iris",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-oud-essentiel",
+   "nom": "Oud Essentiel",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boise Epice",
+   "enStock": true,
+   "prix": 34000,
+   "notes": {
+    "top": [
+     "Safran",
+     "Géranium"
+    ],
+    "heart": [
+     "Rose de Bulgarie",
+     "Cuir"
+    ],
+    "base": [
+     "Oud",
+     "Cèdre",
+     "Encens"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-nerolia-bianca",
+   "nom": "Aqua Allegoria Nerolia Bianca",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Orange amère",
+     "Fleur d'oranger",
+     "Petitgrain",
+     "Feuille d'oranger",
+     "Orange"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 31,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-rose-barbare",
+   "nom": "Rose Barbare",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Chypré Floral",
+   "enStock": true,
+   "prix": 82000,
+   "notes": {
+    "top": [
+     "Rose",
+     "Aldéhydes"
+    ],
+    "heart": [
+     "Rose",
+     "Fenugrec"
+    ],
+    "base": [
+     "Miel",
+     "Patchouli",
+     "Bois"
+    ]
+   },
+   "imp90j": 28,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-forte-rosa-rossa",
+   "nom": "Aqua Allegoria Forte Rosa Rossa",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral Fruité Gourmand",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Poivre rose",
+     "Cassis",
+     "Amande"
+    ],
+    "heart": [
+     "Rose de Bulgarie",
+     "Rose de Damas"
+    ],
+    "base": [
+     "Patchouli",
+     "Benjoin",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 26,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-santal-royal",
+   "nom": "Les Absolus d'Orient Santal Royal",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 36500,
+   "notes": {
+    "top": [
+     "Jasmin",
+     "Néroli"
+    ],
+    "heart": [
+     "Rose",
+     "Cannelle",
+     "Pêche"
+    ],
+    "base": [
+     "Oud",
+     "Bois de Santal",
+     "Cuir",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-limon-verde",
+   "nom": "Aqua Allegoria Limon Verde",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Citron vert"
+    ],
+    "heart": [
+     "Notes vertes",
+     "Figue",
+     "Canne à sucre",
+     "Fruits tropicaux"
+    ],
+    "base": [
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-la-petite-robe-noire-absolue",
+   "nom": "La Petite Robe Noire Absolue",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Cerise",
+     "Amande",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fumée",
+     "Rose",
+     "Iris",
+     "Thé"
+    ],
+    "base": [
+     "Cuir",
+     "Patchouli",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 22,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-forte-rosa-palissandro",
+   "nom": "Aqua Allegoria Forte Rosa Palissandro",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Coriandre",
+     "Citron",
+     "Aldéhydes"
+    ],
+    "heart": [
+     "Rose de Damas",
+     "Bois de rose (Palissandre)",
+     "Géranium"
+    ],
+    "base": [
+     "Santal",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-la-petite-robe-noire-ma-premiere",
+   "nom": "La Petite Robe Noire Ma Première Robe",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Cerise",
+     "Amande",
+     "Fruits rouges",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose noire"
+    ],
+    "base": [
+     "Amande",
+     "Fève tonka",
+     "Thé noir"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-shalimar-philtre-de-parfum",
+   "nom": "Shalimar Philtre de Parfum",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Lavande"
+    ],
+    "heart": [
+     "Iris",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Vanille",
+     "Baume de tolu",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-bergamote",
+   "nom": "Aqua Allegoria Bergamote Calabria",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Agrumes",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Bergamote de Calabre",
+     "Citron",
+     "Agrumes"
+    ],
+    "heart": [
+     "Bergamote Absolue",
+     "Néroli",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Bois Léger",
+     "Ambre"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-flora-cherrysia",
+   "nom": "Aqua Allegoria Flora Cherrysia",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Fruite Aromatique",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Pasteque",
+     "Bergamote de Calabre"
+    ],
+    "heart": [
+     "Fleur de cerisier",
+     "Poire",
+     "Rose"
+    ],
+    "base": [
+     "Musc blanc",
+     "Violette",
+     "Notes boisees"
+    ]
+   },
+   "imp90j": 20,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-habit-rouge-l-instinct",
+   "nom": "Habit Rouge L'Instinct",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Cuir",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Pamplemousse",
+     "Notes vertes"
+    ],
+    "heart": [
+     "Rose",
+     "Cannabis",
+     "Maté"
+    ],
+    "base": [
+     "Cuir",
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 19,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-jicky",
+   "nom": "Jicky",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Fougère Oriental",
+   "enStock": true,
+   "prix": 38000,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Bergamote",
+     "Romarin"
+    ],
+    "heart": [
+     "Lavande",
+     "Vanille",
+     "Romarin"
+    ],
+    "base": [
+     "Civette",
+     "Musc Animal",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 18,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-forte-nerolia-vetiver",
+   "nom": "Aqua Allegoria Forte Nerolia Vetiver",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Hespéridée Aromatique",
+   "enStock": true,
+   "prix": 29000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Petitgrain",
+     "Feuille de figuier"
+    ],
+    "heart": [
+     "Néroli",
+     "Figue",
+     "Rose"
+    ],
+    "base": [
+     "Vétiver",
+     "Cèdre",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 18,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-oud-essentiel",
+   "nom": "Les Absolus d'Orient Oud Essentiel",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 29000,
+   "notes": {
+    "top": [
+     "Oud",
+     "Cuir",
+     "Safran",
+     "Encens",
+     "Rose",
+     "Cèdre"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 47,
+   "clics90j": 3,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-liu",
+   "nom": "Liu",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Aldéhydé",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Aldéhydes",
+     "Néroli",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Rose",
+     "Romarin"
+    ],
+    "base": [
+     "Iris",
+     "Vanille",
+     "Ambre",
+     "Bois"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-pamplelune",
+   "nom": "Aqua Allegoria Pamplelune",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Hesperidee",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Bergamote"
+    ],
+    "heart": [
+     "Cassie",
+     "Petitgrain",
+     "Neroli"
+    ],
+    "base": [
+     "Patchouli",
+     "Vanille"
+    ]
+   },
+   "imp90j": 15,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-herba-fresca",
+   "nom": "Aqua Allegoria Herba Fresca",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Vert",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Trèfle"
+    ],
+    "heart": [
+     "Menthe",
+     "Thé vert"
+    ],
+    "base": [
+     "Muguet",
+     "Cyclamen"
+    ]
+   },
+   "imp90j": 14,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-ginger-piccante",
+   "nom": "Aqua Allegoria Ginger Piccante",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Épicé",
+   "enStock": true,
+   "prix": 23000,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Rose",
+     "Poivre"
+    ],
+    "base": [
+     "Musc blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-jardins-de-bagatelle",
+   "nom": "Jardins de Bagatelle",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Jasmin",
+     "Gardénia",
+     "Néroli"
+    ],
+    "base": [
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-nettare-di-sole",
+   "nom": "Aqua Allegoria Nettare di Sole",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Fleur d'oranger",
+     "Notes aquatiques",
+     "Bergamote de Calabre"
+    ],
+    "heart": [
+     "Notes solaires",
+     "Magnolia",
+     "Jasmin sambac",
+     "Rose"
+    ],
+    "base": [
+     "Miel"
+    ]
+   },
+   "imp90j": 12,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-forte-mandarine-basilic",
+   "nom": "Aqua Allegoria Forte Mandarine Basilic",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Basilic",
+     "Cassis"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Miel",
+     "Rose de Bulgarie",
+     "Anis"
+    ],
+    "base": [
+     "Vanille",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 12,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-forte-oud-yuzu",
+   "nom": "Aqua Allegoria Forte Oud Yuzu",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé Boisé",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Yuzu",
+     "Mandarine",
+     "Citron"
+    ],
+    "heart": [
+     "Néroli",
+     "Ambre"
+    ],
+    "base": [
+     "Bois d'oud",
+     "Vétiver",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 12,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-nahema",
+   "nom": "Nahema",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Chypré Floral",
+   "enStock": true,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Pêche",
+     "Fruit de la passion"
+    ],
+    "heart": [
+     "Rose",
+     "Jacinthe"
+    ],
+    "base": [
+     "Bois de santal",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 12,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-pera-granita",
+   "nom": "Aqua Allegoria Pera Granita",
+   "conc": "EDT",
+   "volume": "125ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 22500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Poire",
+     "Fleur d'oranger",
+     "Osmanthus",
+     "Hédione"
+    ],
+    "base": [
+     "Musc blanc",
+     "Cèdre",
+     "Mousse"
+    ]
+   },
+   "imp90j": 11,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-epices-exquises",
+   "nom": "Les Absolus d'Orient Épices Exquises",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Angélique",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Poivre noir",
+     "Café"
+    ],
+    "base": [
+     "Bois de santal",
+     "Bois d'agar (Oud)",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 11,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-cuir-intense",
+   "nom": "Les Absolus d'Orient Cuir Intense",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Cuir",
+   "enStock": true,
+   "prix": 41500,
+   "notes": {
+    "top": [
+     "Osmanthe",
+     "Ylang-Ylang"
+    ],
+    "heart": [
+     "Cuir",
+     "Musc"
+    ],
+    "base": [
+     "Tabac",
+     "Bois de Santal",
+     "Cèdre de Virginie"
+    ]
+   },
+   "imp90j": 10,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-imperiale",
+   "nom": "Impériale",
+   "conc": "EDC",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Hespéridé",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Agrumes",
+     "Verveine citronnée",
+     "Bergamote",
+     "Néroli",
+     "Citron",
+     "Orange"
+    ],
+    "heart": [],
+    "base": [
+     "Romarin",
+     "Cèdre",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 9,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-bois-mysterieux",
+   "nom": "Les Absolus d'Orient Bois Mystérieux",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Cuir Boisé",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Laurier",
+     "Néroli"
+    ],
+    "heart": [
+     "Cèdre de l'Atlas",
+     "Patchouli",
+     "Jasmin"
+    ],
+    "base": [
+     "Myrrhe",
+     "Cuir"
+    ]
+   },
+   "imp90j": 35,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-eau-de-fleurs-cedrat",
+   "nom": "Eau de Fleurs de Cédrat",
+   "conc": "EDC",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Hespéridé",
+   "enStock": true,
+   "prix": 25500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Cédrat"
+    ],
+    "heart": [],
+    "base": [
+     "Bois de cèdre"
+    ]
+   },
+   "imp90j": 3,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "guerlain-mon-florale",
+   "nom": "Mon Florale",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Bergamote",
+     "Mandarine",
+     "Citron"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Pivoine"
+    ],
+    "base": [
+     "Vanille",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 31,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-les-absolus-d-orient-patchouli-ardent",
+   "nom": "Les Absolus d'Orient Patchouli Ardent",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "unisexe",
+   "famille": "Boisé Floral Musqué",
+   "enStock": true,
+   "prix": 30000,
+   "notes": {
+    "top": [
+     "Figue",
+     "Poivre rose",
+     "Poivre noir"
+    ],
+    "heart": [
+     "Patchouli",
+     "Rose de Turquie",
+     "Cèdre"
+    ],
+    "base": [
+     "Cuir",
+     "Musc"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-aqua-allegoria-granada-salvia",
+   "nom": "Aqua Allegoria Granada Salvia",
+   "conc": "EDT",
+   "volume": "75ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Fruité",
+   "enStock": true,
+   "prix": 16000,
+   "notes": {
+    "top": [
+     "Cassis",
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Grenade",
+     "Sauge",
+     "Cyprès",
+     "Rose"
+    ],
+    "base": [
+     "Musc blanc",
+     "Mousse",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 9,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "guerlain-black-perfecto-by-la-petite-robe-noire",
+   "nom": "Black Perfecto by La Petite Robe Noire Florale",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Eau de Rose"
+    ],
+    "heart": [
+     "Rose",
+     "Rose Rouge",
+     "Amande"
+    ],
+    "base": [
+     "Cuir",
+     "Thé Noir",
+     "Musc Noir"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  }
+ ]
+}

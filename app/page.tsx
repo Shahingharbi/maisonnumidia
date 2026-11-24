@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Hero from "@/components/home/Hero";
 import CategoryBanner from "@/components/home/CategoryBanner";
 import FeaturedBrands from "@/components/home/FeaturedBrands";
@@ -12,7 +13,7 @@ import ThreeColumnSection from "@/components/home/ThreeColumnSection";
 import { getFeaturedProducts } from "@/lib/products";
 
 export const metadata: Metadata = {
-  title: "Parfum Original en Algérie — Livraison 69 Wilayas, Paiement à la Réception",
+  title: titrePage("/", "Parfum Original en Algérie — Livraison 69 Wilayas, Paiement à la Réception"),
   description:
     "Parfumerie en ligne Algérie. Dior, Chanel, Lattafa, Al Haramain — parfums 100% originaux livrés partout en Algérie via Yalidine. Commandez en dinar, payez à la réception.",
   alternates: {

@@ -1,0 +1,1645 @@
+{
+ "slug": "chanel",
+ "nom": "Chanel",
+ "origine": "France",
+ "descriptionActuelle": "La maison fondée par Gabrielle Chanel en 1910 est le symbole absolu de l'élégance parisienne.",
+ "nbFiches": 43,
+ "pages": [
+  {
+   "chemin": "/marques/chanel",
+   "gsc": {
+    "clics": 13,
+    "imp": 428,
+    "pos": 7.4,
+    "ctr": 3
+   },
+   "requetes": [
+    {
+     "q": "chanel algerie",
+     "imp": 19,
+     "clics": 1,
+     "pos": 4.6
+    },
+    {
+     "q": "chanel algerie",
+     "imp": 9,
+     "clics": 1,
+     "pos": 5.3
+    },
+    {
+     "q": "chanel n 5 prix 100ml algérie",
+     "imp": 3,
+     "clics": 0,
+     "pos": 19.7
+    },
+    {
+     "q": "bleu de chanel parfum 100ml prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 21.5
+    },
+    {
+     "q": "chanel chance prix algérie",
+     "imp": 2,
+     "clics": 0,
+     "pos": 25
+    },
+    {
+     "q": "chanel parfum",
+     "imp": 2,
+     "clics": 0,
+     "pos": 32
+    },
+    {
+     "q": "parfum chanel",
+     "imp": 2,
+     "clics": 0,
+     "pos": 44
+    },
+    {
+     "q": "bleu de chanel 50 ml prix algérie",
+     "imp": 1,
+     "clics": 1,
+     "pos": 1
+    },
+    {
+     "q": "في الجزائر",
+     "imp": 1,
+     "clics": 1,
+     "pos": 1
+    },
+    {
+     "q": "bleu chanel parfum prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 21
+    },
+    {
+     "q": "bleu chanel prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 43
+    },
+    {
+     "q": "bleu de chanel prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 22
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "chanel parfum",
+     "vol": 390,
+     "notrePos": 32
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/chanel",
+   "gsc": {
+    "clics": 1,
+    "imp": 33,
+    "pos": 8.9,
+    "ctr": 3
+   },
+   "requetes": [
+    {
+     "q": "chanel homme",
+     "imp": 5,
+     "clics": 0,
+     "pos": 12.4
+    },
+    {
+     "q": "chanel homme parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 13
+    },
+    {
+     "q": "chanel parfum homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 32
+    },
+    {
+     "q": "parfum chanel homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 5
+    },
+    {
+     "q": "parfum chanel pour homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 24
+    },
+    {
+     "q": "parfum pour homme chanel",
+     "imp": 1,
+     "clics": 0,
+     "pos": 27
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "chanel parfum homme",
+     "vol": 210,
+     "notrePos": 20
+    },
+    {
+     "k": "chanel pour homme parfum",
+     "vol": 210,
+     "notrePos": 20
+    },
+    {
+     "k": "parfum chanel pour homme",
+     "vol": 210,
+     "notrePos": 23
+    },
+    {
+     "k": "parfums chanel homme",
+     "vol": 210,
+     "notrePos": 18
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-femme/chanel",
+   "gsc": {
+    "clics": 2,
+    "imp": 82,
+    "pos": 11.4,
+    "ctr": 2.4
+   },
+   "requetes": [
+    {
+     "q": "chanel femme parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 28
+    },
+    {
+     "q": "chanel parfum femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 27
+    },
+    {
+     "q": "chanel parfum femme prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "coco chanel mademoiselle prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 45
+    },
+    {
+     "q": "coco mademoiselle prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 45
+    },
+    {
+     "q": "parfum chanel",
+     "imp": 1,
+     "clics": 0,
+     "pos": 39
+    },
+    {
+     "q": "parfum chanel femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 23
+    },
+    {
+     "q": "parfum chanel pour femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 26
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "parfum chanel",
+     "vol": 390,
+     "notrePos": 37
+    },
+    {
+     "k": "chanel femme parfum",
+     "vol": 320,
+     "notrePos": 26
+    },
+    {
+     "k": "chanel parfum femme",
+     "vol": 320,
+     "notrePos": 25
+    },
+    {
+     "k": "parfum chanel femme",
+     "vol": 320,
+     "notrePos": 21
+    },
+    {
+     "k": "parfum chanel pour femme",
+     "vol": 320,
+     "notrePos": 25
+    },
+    {
+     "k": "parfums chanel femme",
+     "vol": 320,
+     "notrePos": 23
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-orientaux/chanel",
+   "gsc": {
+    "clics": 0,
+    "imp": 3,
+    "pos": 6,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "chanel oriental perfume",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    }
+   ],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "bleu-de-chanel",
+   "nom": "Bleu de Chanel",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 40000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Citron",
+     "Menthe",
+     "Bergamote",
+     "Poivre rose",
+     "Aldéhydes",
+     "Coriandre"
+    ],
+    "heart": [
+     "Gingembre",
+     "Jasmin",
+     "Noix de muscade",
+     "Melon"
+    ],
+    "base": [
+     "Encens",
+     "Ambre",
+     "Cèdre",
+     "Santal",
+     "Bois d'ambre",
+     "Patchouli",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 127,
+   "clics90j": 3,
+   "volumeRecherche": 2400
+  },
+  {
+   "slug": "bleu-de-chanel-parfum",
+   "nom": "Bleu de Chanel Parfum",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 43500,
+   "notes": {
+    "top": [
+     "Zeste de Citron",
+     "Bergamote",
+     "Menthe",
+     "Armoise"
+    ],
+    "heart": [
+     "Lavande",
+     "Ananas",
+     "Géranium",
+     "Notes vertes"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Cèdre",
+     "Bois ambré",
+     "Iso E Super",
+     "Fève Tonka"
+    ]
+   },
+   "imp90j": 3441,
+   "clics90j": 189,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "coco-mademoiselle-chanel",
+   "nom": "Coco Mademoiselle",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 40500,
+   "notes": {
+    "top": [
+     "Orange",
+     "Mandarine",
+     "Bergamote",
+     "Fleur d'oranger"
+    ],
+    "heart": [
+     "Rose de Turquie",
+     "Jasmin",
+     "Mimosa",
+     "Ylang-Ylang"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc blanc",
+     "Vanille",
+     "Vétiver",
+     "Fève tonka",
+     "Opoponax"
+    ]
+   },
+   "imp90j": 2290,
+   "clics90j": 65,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "chanel-chance",
+   "nom": "Chance",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 33500,
+   "notes": {
+    "top": [
+     "Patchouli",
+     "Poivre Rose",
+     "Ananas",
+     "Jacinthe",
+     "Iris"
+    ],
+    "heart": [
+     "Citron",
+     "Jasmin",
+     "Rose"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc",
+     "Vétiver",
+     "Vanille"
+    ]
+   },
+   "imp90j": 994,
+   "clics90j": 29,
+   "volumeRecherche": 1000
+  },
+  {
+   "slug": "chanel-chance-eau-tendre",
+   "nom": "Chance Eau Tendre Eau de Parfum",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 43500,
+   "notes": {
+    "top": [
+     "Coing",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 2660,
+   "clics90j": 73,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-no5",
+   "nom": "N°5",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Aldéhydé",
+   "enStock": true,
+   "prix": 36000,
+   "notes": {
+    "top": [
+     "Aldéhydes",
+     "Néroli",
+     "Ylang-ylang",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose de Grasse",
+     "Jasmin absolue",
+     "Iris",
+     "Muguet"
+    ],
+    "base": [
+     "Santal",
+     "Vétiver",
+     "Musc",
+     "Ambre",
+     "Civette"
+    ]
+   },
+   "imp90j": 908,
+   "clics90j": 24,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "allure-homme-sport-chanel",
+   "nom": "Allure Homme Sport",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 31000,
+   "notes": {
+    "top": [
+     "Orange",
+     "Notes marines",
+     "Aldéhydes",
+     "Mandarine sanguine"
+    ],
+    "heart": [
+     "Poivre",
+     "Néroli",
+     "Cèdre"
+    ],
+    "base": [
+     "Vanille",
+     "Fève tonka",
+     "Musc blanc",
+     "Ambre",
+     "Vétiver",
+     "Résine élémi"
+    ]
+   },
+   "imp90j": 140,
+   "clics90j": 3,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "chanel-bleu-de-l-exclusif",
+   "nom": "Bleu de Chanel L'Exclusif",
+   "conc": "Parfum",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Ambré Boisé",
+   "enStock": true,
+   "prix": 68500,
+   "notes": {
+    "top": [
+     "Ambre",
+     "Oud",
+     "Résine de labdanum",
+     "Bois ambré",
+     "Agrumes"
+    ],
+    "heart": [
+     "Labdanum",
+     "Cuir",
+     "Bois",
+     "Cèdre"
+    ],
+    "base": [
+     "Bois de santal",
+     "Ambre",
+     "Cuir"
+    ]
+   },
+   "imp90j": 68,
+   "clics90j": 4,
+   "volumeRecherche": 480
+  },
+  {
+   "slug": "gabrielle-chanel",
+   "nom": "Gabrielle",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Blanc",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Mandarine",
+     "Cassis"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Jasmin",
+     "Ylang-ylang",
+     "Tubéreuse",
+     "Muguet",
+     "Poire",
+     "Poivre rose"
+    ],
+    "base": [
+     "Musc",
+     "Bois de santal",
+     "Cashmeran",
+     "Iris"
+    ]
+   },
+   "imp90j": 221,
+   "clics90j": 16,
+   "volumeRecherche": 170
+  },
+  {
+   "slug": "allure-femme-chanel",
+   "nom": "Allure Femme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 42000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Bois de rose"
+    ],
+    "heart": [
+     "Rose",
+     "Jasmin",
+     "Muguet",
+     "Pivoine"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre",
+     "Musc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 457,
+   "clics90j": 20,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "chanel-allure-femme",
+   "nom": "Allure",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 36500,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote",
+     "Pêche"
+    ],
+    "heart": [
+     "Jasmin",
+     "Rose",
+     "Magnolia"
+    ],
+    "base": [
+     "Vanille",
+     "Cèdre",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 101,
+   "clics90j": 1,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "chanel-allure-homme",
+   "nom": "Allure Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Citron",
+     "Mandarine",
+     "Gingembre"
+    ],
+    "heart": [
+     "Poivre",
+     "Cèdre",
+     "Patchouli"
+    ],
+    "base": [
+     "Santal",
+     "Vanille",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 99,
+   "clics90j": 0,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "coco-noir-chanel",
+   "nom": "Coco Noir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Bergamote",
+     "Orange"
+    ],
+    "heart": [
+     "Rose",
+     "Géranium",
+     "Jasmin",
+     "Narcisse",
+     "Pêche"
+    ],
+    "base": [
+     "Patchouli",
+     "Bois de santal",
+     "Encens",
+     "Fève de tonka",
+     "Vanille",
+     "Musc blanc",
+     "Clou de girofle",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 323,
+   "clics90j": 17,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "chanel-allure-homme-edition-blanche",
+   "nom": "Allure Homme Edition Blanche",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Bois de santal",
+     "Notes boisées"
+    ],
+    "base": [
+     "Vanille de Madagascar",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 42,
+   "clics90j": 2,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "egoiste-chanel",
+   "nom": "Égoïste",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Floral",
+   "enStock": true,
+   "prix": 34000,
+   "notes": {
+    "top": [
+     "Bois de rose",
+     "Coriandre",
+     "Mandarine de Sicile"
+    ],
+    "heart": [
+     "Rose de Damas",
+     "Cannelle",
+     "Œillet"
+    ],
+    "base": [
+     "Bois de santal",
+     "Tabac",
+     "Vanille"
+    ]
+   },
+   "imp90j": 361,
+   "clics90j": 20,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-coco",
+   "nom": "Coco",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Épicé",
+   "enStock": true,
+   "prix": 31500,
+   "notes": {
+    "top": [
+     "Rose de Bulgarie",
+     "Coriandre",
+     "Pêche",
+     "Jasmin",
+     "Mandarine"
+    ],
+    "heart": [
+     "Clou de Girofle",
+     "Rose",
+     "Mimosa",
+     "Fleur d'Oranger",
+     "Trèfle"
+    ],
+    "base": [
+     "Ambre",
+     "Bois de Santal",
+     "Opoponax",
+     "Fève Tonka",
+     "Civette",
+     "Vanille",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 270,
+   "clics90j": 2,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "chance-eau-tendre-chanel",
+   "nom": "Chance Eau Tendre",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 39000,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Coing",
+     "Citron"
+    ],
+    "heart": [
+     "Jacinthe",
+     "Iris",
+     "Jasmin"
+    ],
+    "base": [
+     "Ambre blanc",
+     "Cèdre",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 2,
+   "volumeRecherche": 90
+  },
+  {
+   "slug": "chanel-gabrielle-essence",
+   "nom": "Gabrielle Chanel Essence",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Blanc",
+   "enStock": true,
+   "prix": 35000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Orange",
+     "Cassis"
+    ],
+    "heart": [
+     "Jasmin de Grasse",
+     "Tubéreuse",
+     "Ylang-ylang",
+     "Fleur d'oranger"
+    ],
+    "base": [
+     "Musc blanc",
+     "Bois blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 251,
+   "clics90j": 15,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-chance-eau-fraiche",
+   "nom": "Chance Eau Fraîche",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 37900,
+   "notes": {
+    "top": [
+     "Citron",
+     "Cèdre",
+     "Cédrat"
+    ],
+    "heart": [
+     "Jacinthe d'eau",
+     "Poivre rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc blanc",
+     "Patchouli",
+     "Vétiver",
+     "Bois de teck",
+     "Iris",
+     "Ambre"
+    ]
+   },
+   "imp90j": 180,
+   "clics90j": 21,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "chanel-coco-mademoiselle-crush-absolu",
+   "nom": "Coco Mademoiselle Crush Absolu",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Chypré Floral",
+   "enStock": true,
+   "prix": 53500,
+   "notes": {
+    "top": [
+     "Litchi",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Patchouli",
+     "Vanille",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 126,
+   "clics90j": 16,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "chanel-coco-mademoiselle-intense",
+   "nom": "Coco Mademoiselle Intense",
+   "conc": "EDP Intense",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 40000,
+   "notes": {
+    "top": [
+     "Orange de Sicile",
+     "Bergamote de Calabre",
+     "Citron"
+    ],
+    "heart": [
+     "Rose",
+     "Notes fruitées",
+     "Jasmin"
+    ],
+    "base": [
+     "Patchouli",
+     "Vanille de Madagascar",
+     "Fève tonka",
+     "Musc blanc",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 84,
+   "clics90j": 2,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "chanel-chance-eau-splendide",
+   "nom": "Chance Eau Splendide",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 45000,
+   "notes": {
+    "top": [
+     "Fruits Rouges",
+     "Framboise",
+     "Rose",
+     "Violette",
+     "Pêche"
+    ],
+    "heart": [
+     "Iris",
+     "Géranium Rosat"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 82,
+   "clics90j": 5,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "chanel-allure-sensuelle",
+   "nom": "Allure Sensuelle",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 39500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Mandarine",
+     "Poivre rose"
+    ],
+    "heart": [
+     "Jasmin",
+     "Rose",
+     "Iris",
+     "Fruits confits",
+     "Vétiver"
+    ],
+    "base": [
+     "Vanille française",
+     "Ambre",
+     "Patchouli",
+     "Encens"
+    ]
+   },
+   "imp90j": 129,
+   "clics90j": 12,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-cristalle",
+   "nom": "Cristalle",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 37000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jacinthe",
+     "Bois de Rose",
+     "Chèvrefeuille",
+     "Jasmin"
+    ],
+    "base": [
+     "Mousse de Chêne",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 129,
+   "clics90j": 8,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-egoiste-platinum",
+   "nom": "Égoïste Platinum",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Fougère Aromatique",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Lavande",
+     "Romarin",
+     "Néroli",
+     "Petitgrain"
+    ],
+    "heart": [
+     "Géranium",
+     "Sauge Sclarée",
+     "Galbanum",
+     "Jasmin"
+    ],
+    "base": [
+     "Mousse de Chêne",
+     "Vétiver",
+     "Cèdre",
+     "Bois de Santal",
+     "Ambre"
+    ]
+   },
+   "imp90j": 149,
+   "clics90j": 16,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-n5-parfum",
+   "nom": "N°5 Parfum",
+   "conc": "Parfum",
+   "volume": "30ml",
+   "genre": "femme",
+   "famille": "Floral Aldéhydé",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Aldéhydes",
+     "Ylang-ylang",
+     "Néroli",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Iris",
+     "Jasmin",
+     "Rose",
+     "Racine d'iris",
+     "Muguet"
+    ],
+    "base": [
+     "Civette",
+     "Musc",
+     "Bois de santal",
+     "Ambre",
+     "Mousse de chêne",
+     "Vanille",
+     "Vétiver",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 107,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-n-19",
+   "nom": "N°19",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Vert",
+   "enStock": true,
+   "prix": 35000,
+   "notes": {
+    "top": [
+     "Galbanum",
+     "Jacinthe",
+     "Bergamote",
+     "Néroli"
+    ],
+    "heart": [
+     "Iris",
+     "Racine d'iris",
+     "Rose",
+     "Muguet",
+     "Narcisse",
+     "Jasmin",
+     "Ylang-ylang"
+    ],
+    "base": [
+     "Mousse de chêne",
+     "Vétiver",
+     "Cuir",
+     "Cèdre",
+     "Musc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 0,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "chanel-antaeus",
+   "nom": "Antaeus",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Chypré Boisé",
+   "enStock": true,
+   "prix": 38500,
+   "notes": {
+    "top": [
+     "Sauge sclarée",
+     "Coriandre",
+     "Bergamote",
+     "Citron vert",
+     "Citron d'Amalfi",
+     "Myrte"
+    ],
+    "heart": [
+     "Rose",
+     "Thym",
+     "Basilic",
+     "Jasmin"
+    ],
+    "base": [
+     "Castoréum",
+     "Mousse de chêne",
+     "Patchouli",
+     "Labdanum"
+    ]
+   },
+   "imp90j": 43,
+   "clics90j": 3,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "chanel-allure-homme-sport-superleggera",
+   "nom": "Allure Homme Sport Superleggera",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 42000,
+   "notes": {
+    "top": [
+     "Agrumes",
+     "Mandarine",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Notes Boisées",
+     "Cèdre"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Ambre",
+     "Patchouli",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 38,
+   "clics90j": 0,
+   "volumeRecherche": 30
+  },
+  {
+   "slug": "chanel-comete-les-exclusifs-de-chanel",
+   "nom": "Comète (Les Exclusifs de Chanel)",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Poudré",
+   "enStock": true,
+   "prix": 69000,
+   "notes": {
+    "top": [
+     "Fleur de Cerisier"
+    ],
+    "heart": [
+     "Héliotrope",
+     "Iris"
+    ],
+    "base": [
+     "Musc"
+    ]
+   },
+   "imp90j": 46,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-allure-homme-sport-cologne",
+   "nom": "Allure Homme Sport Cologne",
+   "conc": "Cologne",
+   "volume": "150ml",
+   "genre": "homme",
+   "famille": "Hespéridé Aromatique",
+   "enStock": true,
+   "prix": 43000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote",
+     "Orange",
+     "Pamplemousse",
+     "Aldéhydes",
+     "Mandarine",
+     "Néroli"
+    ],
+    "heart": [
+     "Résine de sapin",
+     "Épices",
+     "Résine d'élémi"
+    ],
+    "base": [
+     "Musc blanc",
+     "Poivre",
+     "Cèdre de l'Atlas",
+     "Vétiver",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 13,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "chanel-n-19-poudre",
+   "nom": "N°19 Poudré",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Poudré",
+   "enStock": true,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Néroli"
+    ],
+    "heart": [
+     "Iris",
+     "Galbanum"
+    ],
+    "base": [
+     "Musc Blanc",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 40,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-chance-eau-vive",
+   "nom": "Chance Eau Vive",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 38000,
+   "notes": {
+    "top": [
+     "Orange sanguine",
+     "Pamplemousse",
+     "Agrumes"
+    ],
+    "heart": [
+     "Jasmin",
+     "Musc blanc"
+    ],
+    "base": [
+     "Vétiver",
+     "Cèdre",
+     "Iris"
+    ]
+   },
+   "imp90j": 34,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-coromandel-les-exclusifs-de-chanel",
+   "nom": "Coromandel (Les Exclusifs de Chanel)",
+   "conc": "EDP",
+   "volume": "200ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 108000,
+   "notes": {
+    "top": [
+     "Orange Amère",
+     "Néroli",
+     "Agrumes"
+    ],
+    "heart": [
+     "Patchouli",
+     "Iris",
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Benjoin",
+     "Chocolat Blanc",
+     "Notes Boisées",
+     "Encens",
+     "Vanille de Tahiti",
+     "Oliban",
+     "Musc"
+    ]
+   },
+   "imp90j": 33,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-pour-monsieur",
+   "nom": "Pour Monsieur",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "homme",
+   "famille": "Boisé Chypré",
+   "enStock": true,
+   "prix": 35000,
+   "notes": {
+    "top": [
+     "Citron"
+    ],
+    "heart": [
+     "Lavande",
+     "Noix de Muscade"
+    ],
+    "base": [
+     "Vanille",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 61,
+   "clics90j": 8,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-n5-eau-premiere",
+   "nom": "N°5 Eau Première",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Aldéhydé",
+   "enStock": true,
+   "prix": 36500,
+   "notes": {
+    "top": [
+     "Aldehydes Légers",
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Rose de Grasse",
+     "Jasmin de Grasse",
+     "Iris"
+    ],
+    "base": [
+     "Vétiver",
+     "Musc Blanc",
+     "Santal Léger"
+    ]
+   },
+   "imp90j": 30,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-coco-mademoiselle-l-eau-privee",
+   "nom": "Coco Mademoiselle L'Eau Privée",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 38000,
+   "notes": {
+    "top": [
+     "Mandarine"
+    ],
+    "heart": [
+     "Rose",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc Blanc"
+    ]
+   },
+   "imp90j": 28,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "chanel-le-lion-les-exclusifs-de-chanel",
+   "nom": "Le Lion (Les Exclusifs de Chanel)",
+   "conc": "EDP",
+   "volume": "200ml",
+   "genre": "unisexe",
+   "famille": "Oriental Ambré",
+   "enStock": true,
+   "prix": 108000,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Citron"
+    ],
+    "heart": [
+     "Labdanum",
+     "Ambre"
+    ],
+    "base": [
+     "Patchouli",
+     "Vanille de Madagascar",
+     "Musc",
+     "Bois de Santal"
+    ]
+   },
+   "imp90j": 54,
+   "clics90j": 5,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-sycomore-les-exclusifs-de-chanel",
+   "nom": "Sycomore (Les Exclusifs de Chanel)",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "unisexe",
+   "famille": "Boisé Chypré",
+   "enStock": true,
+   "prix": 69000,
+   "notes": {
+    "top": [
+     "Vétiver",
+     "Cyprès",
+     "Genévrier"
+    ],
+    "heart": [
+     "Tabac",
+     "Poivre Rose",
+     "Épices"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Violette",
+     "Aldéhydes"
+    ]
+   },
+   "imp90j": 29,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-bel-respiro-les-exclusifs-de-chanel",
+   "nom": "Bel Respiro (Les Exclusifs de Chanel)",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "unisexe",
+   "famille": "Floral Vert",
+   "enStock": true,
+   "prix": 72500,
+   "notes": {
+    "top": [
+     "Notes Vertes",
+     "Herbe",
+     "Romarin",
+     "Galbanum"
+    ],
+    "heart": [
+     "Jonquille",
+     "Oeillet"
+    ],
+    "base": [
+     "Cuir",
+     "Racine d'Iris"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-bleu-de-all-over-spray",
+   "nom": "Bleu de All-Over Spray",
+   "conc": "EDP",
+   "volume": "150ml",
+   "genre": "homme",
+   "famille": "Boise Aromatique",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Pamplemousse",
+     "Menthe",
+     "Poivre rose",
+     "Citron"
+    ],
+    "heart": [
+     "Gingembre",
+     "Jasmin",
+     "Iso E Super",
+     "Muscade"
+    ],
+    "base": [
+     "Encens",
+     "Cedre",
+     "Musc blanc",
+     "Patchouli",
+     "Labdanum",
+     "Vetiver",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 16,
+   "clics90j": 3,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-les-exclusifs-de-beige",
+   "nom": "Les Exclusifs de Beige",
+   "conc": "EDT",
+   "volume": "200ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 108000,
+   "notes": {
+    "top": [],
+    "heart": [
+     "Frangipanier",
+     "Freesia",
+     "Miel",
+     "Aubépine"
+    ],
+    "base": []
+   },
+   "imp90j": 13,
+   "clics90j": 1,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "chanel-les-exclusifs-de-1932",
+   "nom": "Les Exclusifs de 1932",
+   "conc": "EDT",
+   "volume": "200ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 108000,
+   "notes": {
+    "top": [
+     "Aldéhydes",
+     "Néroli",
+     "Bergamote"
+    ],
+    "heart": [
+     "Lilas",
+     "Jasmin",
+     "Ylang-Ylang",
+     "Rose",
+     "Oeillet"
+    ],
+    "base": [
+     "Racine d'Iris",
+     "Musc",
+     "Ambrette",
+     "Vétiver",
+     "Bois de Santal",
+     "Opoponax",
+     "Vanille",
+     "Coumarine",
+     "Encens"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

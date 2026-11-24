@@ -1,0 +1,1800 @@
+[
+ {
+  "chemin": "/parfums/kenzo-flower-la-recolte-parisienne",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Flower La Récolte Parisienne",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kenzo Flower La Récolte Parisienne Parfum Femme Algérie",
+  "notes": [
+   "Poivre Rose",
+   "Mandarine Jaune",
+   "Dahlia",
+   "Musc Blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "flower la recolte parisienne",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-flower",
+    "nom": "Flower by Kenzo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-in-the-air",
+    "nom": "Flower In The Air",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-eau-de-vie",
+    "nom": "Flower Eau de Vie",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-l-absolue",
+    "nom": "Flower L'Absolue",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-indigo",
+    "nom": "Flower Ikebana Indigo",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-cherry-poppy",
+    "nom": "Flower Cherry Poppy",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-poppy-bouquet",
+    "nom": "Flower Poppy Bouquet",
+    "conc": "EDT",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-mimosa",
+    "nom": "Flower Ikebana Mimosa",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kenzo-power",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Power",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Kenzo Power Parfum Homme Algérie",
+  "notes": [
+   "Épices",
+   "Bergamote",
+   "Bois"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "kenzo power",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kilian-black-phantom",
+  "type": "produit",
+  "marque": "By Kilian",
+  "nom": "Black Phantom",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "By Kilian Black Phantom Parfum Mixte Algérie",
+  "notes": [
+   "Rhum",
+   "Chocolat noir",
+   "Caramel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "black phantom",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-lacoste-l-12-blanc-pure-collector",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Gingembre",
+   "Pomarose",
+   "Daim"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de lacoste l 12 12 blanc pure collector edition",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-noir-fraicheur",
+    "nom": "Eau de Lacoste L.12.12. Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-eau-de-pour-homme-l-12-magnetic",
+    "nom": "Eau de Pour Homme L.12.12 Magnetic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-yellow-jaune-optimistic",
+    "nom": "Eau de Lacoste L.12.12 Yellow (Jaune) Optimistic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-magnetic",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Magnetic",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-rouge",
+    "nom": "Eau de Lacoste L.12.12. Rouge",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-sparkling",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Sparkling",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-french",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle French Panache",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-sparkling-collector-edition",
+    "nom": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-lacoste-l-12-pour-elle-magnetic",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Eau de Lacoste L.12.12 Pour Elle Magnetic",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Eau de Lacoste L.12.12 Pour Elle Magnetic Parfum Femme Algérie",
+  "notes": [
+   "Mangue",
+   "Clémentine",
+   "Héliotrope",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de lacoste l 12 12 pour elle magnetic",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-noir-fraicheur",
+    "nom": "Eau de Lacoste L.12.12. Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-eau-de-pour-homme-l-12-magnetic",
+    "nom": "Eau de Pour Homme L.12.12 Magnetic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-blanc-pure-collector",
+    "nom": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-yellow-jaune-optimistic",
+    "nom": "Eau de Lacoste L.12.12 Yellow (Jaune) Optimistic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-rouge",
+    "nom": "Eau de Lacoste L.12.12. Rouge",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-sparkling",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Sparkling",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-french",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle French Panache",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-sparkling-collector-edition",
+    "nom": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-lacoste-l-12-pour-elle-sparkling",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Eau de Lacoste L.12.12 Pour Elle Sparkling",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Eau de Lacoste L.12.12 Pour Elle Sparkling Parfum Femme Algérie",
+  "notes": [
+   "Pomme rouge",
+   "Épices",
+   "Barbe à papa",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de lacoste l 12 12 pour elle sparkling",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-noir-fraicheur",
+    "nom": "Eau de Lacoste L.12.12. Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-eau-de-pour-homme-l-12-magnetic",
+    "nom": "Eau de Pour Homme L.12.12 Magnetic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-blanc-pure-collector",
+    "nom": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-yellow-jaune-optimistic",
+    "nom": "Eau de Lacoste L.12.12 Yellow (Jaune) Optimistic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-magnetic",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Magnetic",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-rouge",
+    "nom": "Eau de Lacoste L.12.12. Rouge",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-french",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle French Panache",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-sparkling-collector-edition",
+    "nom": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lacoste-l-12-blanc-edition-limitee-roland-garros",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "L.12.12 Blanc Edition Limitée Roland Garros",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lacoste L.12.12 Blanc Edition Limitée Roland Garros Parfum Femme Algérie",
+  "notes": [
+   "Anis étoilé",
+   "Citron caviar",
+   "Persil",
+   "Argile"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l 12 12 blanc edition limitee roland garros",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-l12-noir",
+    "nom": "L.12.12 Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-blanc",
+    "nom": "L.12.12 Blanc",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-vert",
+    "nom": "L.12.12 Vert",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-silver-grey",
+    "nom": "L.12.12 Silver Grey",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-eau-fraiche-for-him",
+    "nom": "L.12.12 Blanc Eau Fraîche For Him",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-bleu",
+    "nom": "L.12.12. Bleu",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-rose-eau-intense",
+    "nom": "L.12.12. Rose Eau Intense",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-silver-rose",
+    "nom": "L.12.12 Silver Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lacoste-l-12-silver-rose",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "L.12.12 Silver Rose",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lacoste L.12.12 Silver Rose Parfum Femme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Orange sanguine",
+   "Rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l 12 12 silver rose",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-l12-noir",
+    "nom": "L.12.12 Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-blanc",
+    "nom": "L.12.12 Blanc",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-vert",
+    "nom": "L.12.12 Vert",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-silver-grey",
+    "nom": "L.12.12 Silver Grey",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-eau-fraiche-for-him",
+    "nom": "L.12.12 Blanc Eau Fraîche For Him",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-edition-limitee-roland-garros",
+    "nom": "L.12.12 Blanc Edition Limitée Roland Garros",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-bleu",
+    "nom": "L.12.12. Bleu",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-rose-eau-intense",
+    "nom": "L.12.12. Rose Eau Intense",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-de-lacoste-l-12-sparkling-collector-edition",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Eau de Lacoste L.12.12 Sparkling Collector Edition Pour Femme x Jeremyville Parfum Femme Algérie",
+  "notes": [
+   "Rhubarbe",
+   "Mandarine",
+   "Pivoine",
+   "Macarons"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "eau de lacoste l 12 12 sparkling collector edition pour",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-noir-fraicheur",
+    "nom": "Eau de Lacoste L.12.12. Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-eau-de-pour-homme-l-12-magnetic",
+    "nom": "Eau de Pour Homme L.12.12 Magnetic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-blanc-pure-collector",
+    "nom": "Eau de Lacoste L.12.12 Blanc Pure Collector Edition Pour Homme x Jeremyville",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-yellow-jaune-optimistic",
+    "nom": "Eau de Lacoste L.12.12 Yellow (Jaune) Optimistic",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-magnetic",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Magnetic",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-rouge",
+    "nom": "Eau de Lacoste L.12.12. Rouge",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-sparkling",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle Sparkling",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "eau-de-lacoste-l-12-pour-elle-french",
+    "nom": "Eau de Lacoste L.12.12 Pour Elle French Panache",
+    "conc": "EDT",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lacoste-love-of-pink",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Love of Pink",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lacoste Love of Pink Parfum Femme Algérie",
+  "notes": [
+   "Orange sanguine",
+   "Fruit de la passion",
+   "Magnolia",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "love of pink",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lacoste-red",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "Red",
+  "conc": "EDT",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lacoste Red Parfum Homme Algérie",
+  "notes": [
+   "Pomme verte",
+   "Pin",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "lacoste red",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lalique-encre-noire-sport",
+  "type": "produit",
+  "marque": "Lalique",
+  "nom": "Encre Noire Sport",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lalique Encre Noire Sport Parfum Homme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Bergamote",
+   "Cyprès",
+   "Vétiver de Bourbon"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "encre noire sport",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lalique-encre-noire",
+    "nom": "Encre Noire",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lalique-encre-noire-a-l-extreme",
+    "nom": "Encre Noire À L'Extrême",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lalique-reve-d-infini",
+  "type": "produit",
+  "marque": "Lalique",
+  "nom": "Rêve d'Infini",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lalique Rêve d'Infini Parfum Femme Algérie",
+  "notes": [
+   "Litchi",
+   "Rose blanche",
+   "Freesia",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "reve d infini",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lalique-terres-aromatiques",
+  "type": "produit",
+  "marque": "Lalique",
+  "nom": "Terres Aromatiques",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lalique Terres Aromatiques Parfum Mixte Algérie",
+  "notes": [
+   "Cardamome",
+   "Ananas",
+   "Thym",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "terres aromatiques",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lalique-white",
+  "type": "produit",
+  "marque": "Lalique",
+  "nom": "White",
+  "conc": "EDT",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lalique White Parfum Homme Algérie",
+  "notes": [
+   "Feuille de citronnier",
+   "Bergamote",
+   "Poivre blanc",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "lalique white",
+   "vol": 10
+  },
+  "motsCles": [
+   {
+    "k": "parfum white orchid",
+    "vol": 40,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "white orchid",
+    "vol": 40,
+    "posMust": 2,
+    "notrePos": null
+   },
+   {
+    "k": "white orchids perfume",
+    "vol": 40,
+    "posMust": 1,
+    "notrePos": null
+   }
+  ],
+  "variantes": [
+   {
+    "slug": "lalique-white-in-black",
+    "nom": "White in Black",
+    "conc": "EDP",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lanvin-jeanne-couture",
+  "type": "produit",
+  "marque": "Lanvin",
+  "nom": "Jeanne Couture",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lanvin Jeanne Couture Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Feuille de violette",
+   "Pivoine",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "jeanne couture",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lanvin-jeanne",
+    "nom": "Jeanne",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lanvin-jeanne-blossom",
+    "nom": "Jeanne Blossom",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lanvin-me-l-absolu",
+  "type": "produit",
+  "marque": "Lanvin",
+  "nom": "Me L'Absolu",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lanvin Me L'Absolu Parfum Femme Algérie",
+  "notes": [
+   "Mandarine",
+   "Osmanthe",
+   "Pivoine",
+   "Pêche"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "me l absolu",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lattafa-asdaaf-ameer-al-arab",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Asdaaf Ameer Al Arab",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Asdaaf Ameer Al Arab Parfum Mixte Algérie",
+  "notes": [
+   "Jasmin",
+   "Chèvrefeuille",
+   "Lavande",
+   "Cardamome"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "asdaaf ameer al arab",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lattafa-ameer-al-oudh-intense-oud",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Ameer Al Oudh Intense Oud",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Ameer Al Oudh Intense Oud Parfum Mixte Algérie",
+  "notes": [
+   "Notes Boisees",
+   "Bois d'Agar (Oud)",
+   "Sucre",
+   "Bois d'Agar (Oud)"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "ameer al oudh intense oud",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lattafa-bade-e-al-oud-sublime",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Bade'e Al Oud Sublime",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Bade'e Al Oud Sublime Parfum Mixte Algérie",
+  "notes": [
+   "Pomme",
+   "Litchi",
+   "Prune",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "bade e al oud sublime",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lattafa-bade-al-oud",
+    "nom": "Bade'e Al Oud",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lattafa-khamrah-qahwa",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Khamrah Qahwa",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Khamrah Qahwa Parfum Mixte Algérie",
+  "notes": [
+   "Cannelle",
+   "Cardamome",
+   "Pralin",
+   "Cafe"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "khamrah qahwa",
+   "vol": 260
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lattafa-khamrah",
+    "nom": "Khamrah",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lattafa-sakeena",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Sakeena",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Sakeena Parfum Femme Algérie",
+  "notes": [
+   "Fruit de la passion",
+   "Notes ozoniques",
+   "Framboise",
+   "Toffee"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "lattafa sakeena",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lattafa-yara-tous",
+  "type": "produit",
+  "marque": "Lattafa",
+  "nom": "Yara Tous",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Lattafa Yara Tous Parfum Femme Algérie",
+  "notes": [
+   "Mangue",
+   "Noix de coco",
+   "Jasmin",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "yara tous",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lattafa-yara",
+    "nom": "Yara",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lattafa-yara-moi",
+    "nom": "Yara Moi",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lolita-lempicka-lolitaland",
+  "type": "produit",
+  "marque": "Lolita Lempicka",
+  "nom": "LolitaLand",
+  "conc": "EDP",
+  "volume": "80ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lolita Lempicka LolitaLand Parfum Femme Algérie",
+  "notes": [
+   "Accord cocktail Bellini",
+   "Orange",
+   "Pêche blanche",
+   "Vanille de Madagascar"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "lolita lempicka lolitaland",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lolita-lempicka-le-premier-parfum",
+  "type": "produit",
+  "marque": "Lolita Lempicka",
+  "nom": "Le Premier Parfum",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lolita Lempicka Le Premier Parfum Parfum Femme Algérie",
+  "notes": [
+   "Cerise",
+   "Anis",
+   "Réglisse",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "le premier parfum",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lolita-lempicka-sweet",
+  "type": "produit",
+  "marque": "Lolita Lempicka",
+  "nom": "Sweet",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Lolita Lempicka Sweet Parfum Femme Algérie",
+  "notes": [
+   "Cerise acide",
+   "Sucre",
+   "Cacao",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "lolita lempicka sweet",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/louis-vuitton-au-hasard",
+  "type": "produit",
+  "marque": "Louis Vuitton",
+  "nom": "Au Hasard",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Louis Vuitton Au Hasard Parfum Homme Algérie",
+  "notes": [
+   "Cardamome",
+   "Graines d'Ambrette",
+   "Bois de Santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "au hasard",
+   "vol": 90
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/louis-vuitton-dancing-blossom",
+  "type": "produit",
+  "marque": "Louis Vuitton",
+  "nom": "Dancing Blossom",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Louis Vuitton Dancing Blossom Parfum Mixte Algérie",
+  "notes": [
+   "Rose de mai"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "dancing blossom",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/louis-vuitton-on-the-beach",
+  "type": "produit",
+  "marque": "Louis Vuitton",
+  "nom": "On The Beach",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Louis Vuitton On The Beach Parfum Mixte Algérie",
+  "notes": [
+   "Yuzu",
+   "Neroli",
+   "Romarin",
+   "Cypres"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "on the beach",
+   "vol": 70
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/louis-vuitton-stellar-times",
+  "type": "produit",
+  "marque": "Louis Vuitton",
+  "nom": "Stellar Times",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Louis Vuitton Stellar Times Parfum Mixte Algérie",
+  "notes": [
+   "Fleur d'oranger",
+   "Baume du Perou",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "stellar times",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/louis-vuitton-symphony",
+  "type": "produit",
+  "marque": "Louis Vuitton",
+  "nom": "Symphony",
+  "conc": "Extrait de Parfum",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Louis Vuitton Symphony Parfum Mixte Algérie",
+  "notes": [
+   "Bergamote",
+   "Pamplemousse",
+   "Gingembre",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "louis vuitton symphony",
+   "vol": 1000
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mancera-aoud-cafe",
+  "type": "produit",
+  "marque": "Mancera",
+  "nom": "Aoud Café",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mancera Aoud Café Parfum Mixte Algérie",
+  "notes": [
+   "Cassis",
+   "Bergamote",
+   "Cafe",
+   "Notes boisees"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "aoud cafe",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "mancera-aoud-blue-notes",
+    "nom": "Aoud Blue Notes",
+    "conc": "EDP",
+    "vol": "120ml"
+   },
+   {
+    "slug": "mancera-aoud-exclusif",
+    "nom": "Aoud Exclusif",
+    "conc": "EDP",
+    "vol": "120ml"
+   },
+   {
+    "slug": "mancera-aoud-orchid",
+    "nom": "Aoud Orchid",
+    "conc": "EDP",
+    "vol": "120ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mancera-deep-forest",
+  "type": "produit",
+  "marque": "Mancera",
+  "nom": "Deep Forest",
+  "conc": "EDP",
+  "volume": "120ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Mancera Deep Forest Parfum Mixte Algérie",
+  "notes": [
+   "Cuir",
+   "Encens",
+   "Violette",
+   "Notes boisées"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "deep forest",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mancera-sicily",
+  "type": "produit",
+  "marque": "Mancera",
+  "nom": "Sicily",
+  "conc": "EDP",
+  "volume": "120ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mancera Sicily Parfum Mixte Algérie",
+  "notes": [
+   "Mandarine",
+   "Pamplemousse",
+   "Jasmin",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mancera sicily",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mancera-so-blue",
+  "type": "produit",
+  "marque": "Mancera",
+  "nom": "So Blue",
+  "conc": "EDP",
+  "volume": "120ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mancera So Blue Parfum Mixte Algérie",
+  "notes": [
+   "Fruits",
+   "Mandarine",
+   "Rose de Bulgarie",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "so blue",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mancera-soleil-d-italie",
+  "type": "produit",
+  "marque": "Mancera",
+  "nom": "Soleil d'Italie",
+  "conc": "EDP",
+  "volume": "120ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Mancera Soleil d'Italie Parfum Mixte Algérie",
+  "notes": [
+   "Orange amère",
+   "Citron vert",
+   "Notes aquatiques",
+   "Musc blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "soleil d italie",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mancera-silver-blue",
+  "type": "produit",
+  "marque": "Mancera",
+  "nom": "Silver Blue",
+  "conc": "EDP",
+  "volume": "120ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Mancera Silver Blue Parfum Mixte Algérie",
+  "notes": [
+   "Épices",
+   "Bergamote",
+   "Caramel",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "silver blue",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/marc-antoine-barrois-aldebaran",
+  "type": "produit",
+  "marque": "Marc-Antoine Barrois",
+  "nom": "Aldebaran",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Marc-Antoine Barrois Aldebaran Parfum Mixte Algérie",
+  "notes": [
+   "Tubereuse",
+   "Paprika",
+   "Feve tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "marc antoine barrois aldebaran",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/marc-jacobs-daisy-eau-so-fresh-glow",
+  "type": "produit",
+  "marque": "Marc Jacobs",
+  "nom": "Daisy Eau So Fresh Glow",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Marc Jacobs Daisy Eau So Fresh Glow Parfum Femme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Poire",
+   "Violette",
+   "Mimosa"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "daisy eau so fresh glow",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "marc-jacobs-daisy",
+    "nom": "Daisy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh",
+    "nom": "Daisy Eau So Fresh",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-wild",
+    "nom": "Daisy Wild",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-intense",
+    "nom": "Daisy Eau So Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh-pop",
+    "nom": "Daisy Eau So Fresh Pop",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-ever-so-fresh",
+    "nom": "Daisy Ever So Fresh",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-love-eau-so-sweet",
+    "nom": "Daisy Love Eau So Sweet",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/marc-jacobs-daisy-eau-so-fresh-pop",
+  "type": "produit",
+  "marque": "Marc Jacobs",
+  "nom": "Daisy Eau So Fresh Pop",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Marc Jacobs Daisy Eau So Fresh Pop Parfum Femme Algérie",
+  "notes": [
+   "Citron",
+   "Citron vert",
+   "Violette",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "daisy eau so fresh pop",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "marc-jacobs-daisy",
+    "nom": "Daisy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh",
+    "nom": "Daisy Eau So Fresh",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-wild",
+    "nom": "Daisy Wild",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-intense",
+    "nom": "Daisy Eau So Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-eau-so-fresh-glow",
+    "nom": "Daisy Eau So Fresh Glow",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-ever-so-fresh",
+    "nom": "Daisy Ever So Fresh",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "marc-jacobs-daisy-love-eau-so-sweet",
+    "nom": "Daisy Love Eau So Sweet",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ }
+]

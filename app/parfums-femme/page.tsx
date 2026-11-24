@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titrePage } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { getProductsByCategory, getBrandBySlug, versCarte, urlMarqueSection } from "@/lib/products";
 import FilterableProductGrid from "@/components/product/FilterableProductGrid";
@@ -9,7 +10,7 @@ import Breadcrumb from "@/components/layout/Breadcrumb";
 import { getItemListSchema, getBreadcrumbSchema } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Parfum Femme Original en Algérie — Chanel, YSL, Lancôme",
+  title: titrePage("/parfums-femme", "Parfum Femme Original en Algérie — Chanel, YSL, Lancôme"),
   description:
     "Achetez votre parfum femme original en Algérie. Coco Mademoiselle, Black Opium YSL, La Vie Est Belle, Delina — 100% authentiques, livrés dans les 69 wilayas. Paiement à la réception.",
   alternates: { canonical: "https://maisonnumidia.store/parfums-femme" },
@@ -57,8 +58,9 @@ export default function ParfumsFemmePage() {
         }}
       />
       <CategoryHero
-        title="Parfums Femme en Algérie"
-        description="Floraux, orientaux, gourmands. Des fragrances féminines 100% authentiques, prix en dinar, livrées partout en Algérie."
+        title="Parfum femme original en Algérie"
+        section="femme"
+        description="Floraux, gourmands ou poudrés : les parfums pour femme 100 % originaux, de Chanel et Dior à Lancôme et Kayali, avec leur prix en dinars. Livrés dans les 69 wilayas, payés à la livraison."
         count={products.length}
       />
 

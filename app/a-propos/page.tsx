@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { titreAbsolu } from "@/lib/titres";
 import Link from "@/components/Lien";
 import { MapPin, Phone, Shield, Truck, Award, Users } from "lucide-react";
 import Breadcrumb from "@/components/layout/Breadcrumb";
@@ -7,7 +8,7 @@ import { getBreadcrumbSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   // `absolute` : sans ça, le template du layout ajoute " | Maison Numidia" à un titre
   // qui contient déjà le nom de la boutique.
-  title: { absolute: "À propos — Maison Numidia, parfums authentiques en Algérie" },
+  title: titreAbsolu("/a-propos", "À propos — Maison Numidia, parfums authentiques en Algérie"),
   description:
     "Découvrez l'histoire de Maison Numidia : boutique de parfums originaux fondée à Blida, livraison Yalidine 69 wilayas, engagement authenticité 100% garanti.",
   alternates: { canonical: "https://maisonnumidia.store/a-propos" },

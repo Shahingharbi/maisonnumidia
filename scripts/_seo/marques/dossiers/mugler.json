@@ -1,0 +1,962 @@
+{
+ "slug": "mugler",
+ "nom": "Mugler",
+ "origine": "France",
+ "descriptionActuelle": "Maison de couture parisienne fondée par Thierry Mugler en 1974. Alien et Angel, deux piliers de la parfumerie moderne, ont révolutionné le monde du parfum avec leurs compositions audacieuses. Les parfums Mugler originaux sont disponibles en Algérie chez Maison Numidia.",
+ "nbFiches": 26,
+ "pages": [
+  {
+   "chemin": "/marques/mugler",
+   "gsc": {
+    "clics": 18,
+    "imp": 308,
+    "pos": 6.3,
+    "ctr": 5.8
+   },
+   "requetes": [
+    {
+     "q": "mugler",
+     "imp": 10,
+     "clics": 0,
+     "pos": 5.7
+    },
+    {
+     "q": "mugler parfum",
+     "imp": 6,
+     "clics": 0,
+     "pos": 10.2
+    },
+    {
+     "q": "alien mugler",
+     "imp": 4,
+     "clics": 0,
+     "pos": 8.8
+    },
+    {
+     "q": "thierry mugler parfum",
+     "imp": 4,
+     "clics": 0,
+     "pos": 11.8
+    },
+    {
+     "q": "mugler alien",
+     "imp": 3,
+     "clics": 0,
+     "pos": 4.3
+    },
+    {
+     "q": "mugler parfüm",
+     "imp": 3,
+     "clics": 0,
+     "pos": 13
+    },
+    {
+     "q": "mugles",
+     "imp": 3,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "maison numidia",
+     "imp": 2,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "mugle",
+     "imp": 2,
+     "clics": 0,
+     "pos": 9
+    },
+    {
+     "q": "mugler parfum prix",
+     "imp": 2,
+     "clics": 0,
+     "pos": 4.5
+    },
+    {
+     "q": "parfum mugler",
+     "imp": 2,
+     "clics": 0,
+     "pos": 12.5
+    },
+    {
+     "q": "parfum mugler femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 2
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "mugler parfum",
+     "vol": 170,
+     "notrePos": 25
+    },
+    {
+     "k": "parfum mugler",
+     "vol": 170,
+     "notrePos": 20
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/mugler",
+   "gsc": {
+    "clics": 2,
+    "imp": 29,
+    "pos": 8.3,
+    "ctr": 6.9
+   },
+   "requetes": [
+    {
+     "q": "mugler parfum homme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 2.5
+    },
+    {
+     "q": "parfum alien prix algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 28
+    },
+    {
+     "q": "parfum mugler homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "thierry mugler parfum homme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/mugler",
+   "gsc": {
+    "clics": 0,
+    "imp": 16,
+    "pos": 16.4,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "parfum mugler femme",
+     "imp": 4,
+     "clics": 0,
+     "pos": 11
+    },
+    {
+     "q": "mugler parfum femme",
+     "imp": 2,
+     "clics": 0,
+     "pos": 20
+    },
+    {
+     "q": "parfum alien femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 87
+    },
+    {
+     "q": "parfum mugler femme prix",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "parfum thierry mugler",
+     "imp": 1,
+     "clics": 0,
+     "pos": 22
+    },
+    {
+     "q": "prix algerie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-orientaux/mugler",
+   "gsc": {
+    "clics": 0,
+    "imp": 0,
+    "pos": null,
+    "ctr": null
+   },
+   "requetes": [],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "alien-mugler",
+   "nom": "Alien",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Oriental Floral",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Jasmin Sambac"
+    ],
+    "heart": [
+     "Cashmeran"
+    ],
+    "base": [
+     "Ambre"
+    ]
+   },
+   "imp90j": 2328,
+   "clics90j": 92,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "thierry-mugler-a-men",
+   "nom": "A*Men",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Café",
+     "Menthe",
+     "Lavande"
+    ],
+    "heart": [
+     "Caramel",
+     "Chocolat",
+     "Épices"
+    ],
+    "base": [
+     "Goudron",
+     "Patchouli",
+     "Musc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 105,
+   "clics90j": 14,
+   "volumeRecherche": 590
+  },
+  {
+   "slug": "angel-mugler",
+   "nom": "Angel",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Barbe à papa",
+     "Noix de coco",
+     "Cassis",
+     "Melon",
+     "Jasmin",
+     "Bergamote",
+     "Ananas",
+     "Mandarine"
+    ],
+    "heart": [
+     "Miel",
+     "Baies rouges",
+     "Mûre",
+     "Prune",
+     "Abricot",
+     "Jasmin",
+     "Pêche",
+     "Noix de muscade",
+     "Carvi",
+     "Orchidée",
+     "Rose",
+     "Muguet"
+    ],
+    "base": [
+     "Patchouli",
+     "Chocolat",
+     "Caramel",
+     "Vanille",
+     "Fève tonka",
+     "Ambre",
+     "Musc",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 791,
+   "clics90j": 46,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "thierry-mugler-innocent",
+   "nom": "Innocent",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Bergamote"
+    ],
+    "heart": [
+     "Cassis",
+     "Baies rouges",
+     "Amande"
+    ],
+    "base": [
+     "Praline",
+     "Musc blanc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 542,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "alien-goddess-mugler",
+   "nom": "Alien Goddess",
+   "conc": "EDP",
+   "volume": "60ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Eau de coco",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Héliotrope"
+    ],
+    "base": [
+     "Vanille bourbon",
+     "Cashmeran"
+    ]
+   },
+   "imp90j": 234,
+   "clics90j": 21,
+   "volumeRecherche": 110
+  },
+  {
+   "slug": "mugler-aura",
+   "nom": "Aura",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Feuille de rhubarbe",
+     "Bergamote"
+    ],
+    "heart": [
+     "Notes vertes",
+     "Fleur d'oranger",
+     "Ylang-ylang",
+     "Poire"
+    ],
+    "base": [
+     "Vanille Bourbon",
+     "Notes boisées",
+     "Bois ambré",
+     "Bois de santal",
+     "Coumarine",
+     "Bois de loup"
+    ]
+   },
+   "imp90j": 533,
+   "clics90j": 10,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "thierry-mugler-womanity",
+   "nom": "Womanity",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "femme",
+   "famille": "Fruité Marin",
+   "enStock": false,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Figue",
+     "Caviar",
+     "Notes marines"
+    ],
+    "heart": [
+     "Fleur de figuier",
+     "Jasmin",
+     "Musc marin"
+    ],
+    "base": [
+     "Figue",
+     "Cèdre",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 205,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "thierry-mugler-alien-homme",
+   "nom": "Alien Man",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Anis",
+     "Aneth",
+     "Menthe",
+     "Lavande",
+     "Bois de hêtre",
+     "Thym",
+     "Citron"
+    ],
+    "heart": [
+     "Cuir",
+     "Bois de cachemire",
+     "Osmanthus",
+     "Poivre",
+     "Géranium"
+    ],
+    "base": [
+     "Ambre blanc",
+     "Cashmeran",
+     "Vanille"
+    ]
+   },
+   "imp90j": 113,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-b-men",
+   "nom": "B*Men",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": false,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Pamplemousse noir",
+     "Raisin",
+     "Menthe"
+    ],
+    "heart": [
+     "Poivre noir",
+     "Muscade",
+     "Goudron de bouleau"
+    ],
+    "base": [
+     "Vétiver fumé",
+     "Patchouli",
+     "Ambre"
+    ]
+   },
+   "imp90j": 90,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-angel-nova",
+   "nom": "Angel Nova",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Boisé Fruité Floral",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Framboise"
+    ],
+    "heart": [
+     "Rose de Damas"
+    ],
+    "base": [
+     "Bois d'Akigalawood",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 40
+  },
+  {
+   "slug": "mugler-angel-elixir",
+   "nom": "Angel Elixir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Gourmand",
+   "enStock": true,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Poivre rose"
+    ],
+    "heart": [
+     "Ylang-ylang",
+     "Jasmin",
+     "Fleur d'oranger",
+     "Bois de santal"
+    ],
+    "base": [
+     "Ambre Xtreme",
+     "Vanille bourbon"
+    ]
+   },
+   "imp90j": 48,
+   "clics90j": 3,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "mugler-alien-goddess-intense",
+   "nom": "Alien Goddess Intense",
+   "conc": "EDP Intense",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Noix de coco",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin",
+     "Thé au jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Benjoin",
+     "Bois de cachemire"
+    ]
+   },
+   "imp90j": 46,
+   "clics90j": 2,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "thierry-mugler-angel-muse",
+   "nom": "Angel Muse",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 16500,
+   "notes": {
+    "top": [
+     "Poivre rose",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Pâte à tartiner noisette-cacao"
+    ],
+    "base": [
+     "Patchouli",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 68,
+   "clics90j": 7,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-alien-hypersense",
+   "nom": "Alien Hypersense",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Ambré Floral",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Poire",
+     "Mandarine verte"
+    ],
+    "heart": [
+     "Jasmin sambac",
+     "Jasmin d'Inde"
+    ],
+    "base": [
+     "Cashmeran",
+     "Musc",
+     "Bois ambré",
+     "Bois flotté"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 1,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "mugler-alien-pulp",
+   "nom": "Alien Pulp",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Framboise",
+     "Écorce de citron"
+    ],
+    "heart": [
+     "Jasmin",
+     "Mandarine verte",
+     "Orange douce"
+    ],
+    "base": [
+     "Musc",
+     "Cashmeran",
+     "Vanilline"
+    ]
+   },
+   "imp90j": 18,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-a-men-ultimate",
+   "nom": "A*Men Ultimate",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Gourmand",
+   "enStock": true,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Cappuccino",
+     "Sapin baumier"
+    ],
+    "base": [
+     "Cèdre"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-alien-essence-absolue",
+   "nom": "Alien Essence Absolue",
+   "conc": "EDP",
+   "volume": "60ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 43500,
+   "notes": {
+    "top": [
+     "Jasmin"
+    ],
+    "heart": [
+     "Bois de cachemire",
+     "Racine d'iris"
+    ],
+    "base": [
+     "Vanille",
+     "Ambre blanc",
+     "Myrrhe",
+     "Encens"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-alien-goddess-supra-florale",
+   "nom": "Alien Goddess Supra Florale",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 27500,
+   "notes": {
+    "top": [
+     "Figue de Barbarie",
+     "Fleur de cactus"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Immortelle"
+    ],
+    "base": [
+     "Ambre",
+     "Musc",
+     "Rose du désert"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-alien-musc-mysterieux",
+   "nom": "Alien Musc Mysterieux",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Oriental Boisé Musqué",
+   "enStock": true,
+   "prix": 26000,
+   "notes": {
+    "top": [
+     "Épices",
+     "Safran"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Cashmeran"
+    ],
+    "base": [
+     "Musc blanc",
+     "Vanille"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-angel-etoile-des-reves",
+   "nom": "Angel Étoile des Rêves",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Praline"
+    ],
+    "base": [
+     "Patchouli",
+     "Vanille",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-angel-les-parfums-de-cuir",
+   "nom": "Angel Les Parfums de Cuir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Cuir Gourmand",
+   "enStock": true,
+   "prix": 32500,
+   "notes": {
+    "top": [
+     "Cuir",
+     "Barbe à papa",
+     "Cassia",
+     "Noix de coco",
+     "Bergamote"
+    ],
+    "heart": [
+     "Cuir",
+     "Miel",
+     "Cassis",
+     "Abricot",
+     "Iris"
+    ],
+    "base": [
+     "Cuir",
+     "Patchouli",
+     "Chocolat noir",
+     "Fève tonka",
+     "Vanille",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-fantasquatic",
+   "nom": "Fantasquatic",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Boisé Aquatique",
+   "enStock": true,
+   "prix": 40000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Pamplemousse"
+    ],
+    "heart": [
+     "Notes marines",
+     "Cardamome",
+     "Coriandre"
+    ],
+    "base": [
+     "Ambre gris",
+     "Papyrus",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-hot-cologne",
+   "nom": "Hot Cologne",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Aromatique Agrumes",
+   "enStock": true,
+   "prix": 40000,
+   "notes": {
+    "top": [
+     "Café",
+     "Citron",
+     "Bergamote",
+     "Petitgrain",
+     "Mandarine"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Gingembre"
+    ],
+    "base": [
+     "Musc blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "mugler-naughty-fruity",
+   "nom": "Naughty Fruity",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 40000,
+   "notes": {
+    "top": [
+     "Prune Mirabelle"
+    ],
+    "heart": [
+     "Osmanthe",
+     "Abricot"
+    ],
+    "base": [
+     "Tabac"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "mugler-angel-stellar-lumineuse",
+   "nom": "Angel Stellar Lumineuse",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Gourmand",
+   "enStock": true,
+   "prix": 32000,
+   "notes": {
+    "top": [
+     "Bergamote"
+    ],
+    "heart": [
+     "Pistache"
+    ],
+    "base": [
+     "Patchouli"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "mugler-wonder-bouquet",
+   "nom": "Wonder Bouquet",
+   "conc": "EDP",
+   "volume": "80ml",
+   "genre": "unisexe",
+   "famille": "Floral Gourmand",
+   "enStock": true,
+   "prix": 33000,
+   "notes": {
+    "top": [
+     "Feuille de shiso"
+    ],
+    "heart": [
+     "Fleur d'oranger",
+     "Jasmin",
+     "Cire d'abeille"
+    ],
+    "base": [
+     "Vanille",
+     "Accord brioche"
+    ]
+   },
+   "imp90j": 0,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}

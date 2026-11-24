@@ -1,0 +1,202 @@
+[
+ {
+  "chemin": "/marques/guess",
+  "titre": "Parfums Guess : prix en Algérie | Maison Numidia",
+  "pourquoi": "Guess dans la liste 3.6 (fiches qui prennent les requêtes) : forme « Parfums {Marque} »."
+ },
+ {
+  "chemin": "/parfums/pasha-cartier-homme",
+  "titre": "Pasha de Cartier, parfum homme : prix en Algérie",
+  "pourquoi": "Nom contenant la marque ; « parfum » 70 %, genre 16 %, eau de toilette : parfum homme."
+ },
+ {
+  "chemin": "/parfums-homme/kayali",
+  "titre": "Kayali : parfums pour homme, prix en Algérie",
+  "pourquoi": "Marque avant « parfum » dans 76 % de 189 imp ; suffixe à 61, retiré."
+ },
+ {
+  "chemin": "/parfums/dior-dune",
+  "titre": "Dune de Dior, parfum femme : prix en Algérie",
+  "pourquoi": "Nom d'abord 94 % des requêtes à deux ; « parfum » 71 %, genre 44 %, eau de toilette."
+ },
+ {
+  "chemin": "/parfums/lattafa-oud-mood",
+  "titre": "Oud Mood de Lattafa, eau de parfum mixte : prix en Algérie",
+  "pourquoi": "Nom seul 61 % ; genre 17 %, homme et femme tapés : mixte ; « parfum » 27 %."
+ },
+ {
+  "chemin": "/parfums/la-yuqawam-rasasi-homme",
+  "titre": "Rasasi La Yuqawam Pour Homme : prix en Algérie",
+  "pourquoi": "Marque d'abord 49 % contre 26 % ; genre dans le nom ; eau de parfum ferait 61."
+ },
+ {
+  "chemin": "/parfums/paco-rabanne-fame-intense",
+  "titre": "Fame Intense de Paco Rabanne, parfum femme : prix en Algérie",
+  "pourquoi": "Nom d'abord 91 % ; « parfum » 69 %, genre 11 % ; eau de parfum pour femme ferait 72."
+ },
+ {
+  "chemin": "/parfums/vertus-sole-patchouli",
+  "titre": "Vertus Sole Patchouli, eau de parfum : prix en Algérie",
+  "pourquoi": "Marque d'abord 38 % contre 33 % ; rien retenu, 39 caractères : concentration ajoutée (3.5)."
+ },
+ {
+  "chemin": "/marques/narciso-rodriguez",
+  "titre": "Parfums Narciso Rodriguez : prix en Algérie | Maison Numidia",
+  "pourquoi": "Narciso Rodriguez dans la liste 3.6 (fiches qui prennent les requêtes) : « Parfums {Marque} », suffixe tient (60)."
+ },
+ {
+  "chemin": "/parfums-femme/gucci",
+  "titre": "Parfum Gucci pour femme : prix en Algérie | Maison Numidia",
+  "pourquoi": "19 imp seulement avec « parfum » et la marque (moins de 30) : forme par défaut des filles."
+ },
+ {
+  "chemin": "/parfums/guerlain-mon-guerlain-intense",
+  "titre": "Mon Guerlain Intense, parfum femme : prix en Algérie",
+  "pourquoi": "Nom contenant la marque ; « parfum » 33 %, genre 16 % ; eau de parfum pour femme : 64."
+ },
+ {
+  "chemin": "/parfums/tom-ford-oud-wood",
+  "titre": "Tom Ford Oud Wood, eau de parfum : prix en Algérie",
+  "pourquoi": "Marque d'abord 79 % ; contenance 11 % sous le seuil ; 35 caractères : concentration ajoutée."
+ },
+ {
+  "chemin": "/parfums/chloe-love-story",
+  "titre": "Chloé Love Story, eau de parfum : prix en Algérie",
+  "pourquoi": "Marque d'abord 86 % ; rien retenu, 34 caractères : concentration ajoutée (3.5)."
+ },
+ {
+  "chemin": "/parfums/amouage-interlude-53-man",
+  "titre": "Amouage Interlude 53 Man : prix en Algérie",
+  "pourquoi": "Marque seule 52 % : marque qui prend la fiche ; extrait de parfum ferait 61."
+ },
+ {
+  "chemin": "/parfums/dior-feve-delicieuse",
+  "titre": "Dior Fève Délicieuse, eau de parfum : prix en Algérie",
+  "pourquoi": "Nom d'abord 55 % des requêtes à deux, sous les 2/3 : marque d'abord ; 38 caractères, concentration ajoutée."
+ },
+ {
+  "chemin": "/parfums/narciso-pure-musc",
+  "titre": "Narciso Rodriguez Pure Musc : prix en Algérie",
+  "pourquoi": "Sans données (base 28), maison qui prend ses fiches : marque d'abord, ni « parfum » ; 45 caractères."
+ },
+ {
+  "chemin": "/parfums/azzaro-sport",
+  "titre": "Azzaro Sport, eau de toilette 100 ml : prix en Algérie",
+  "pourquoi": "Marque d'abord 97 % ; 100 ml dans 66 % des requêtes, celui du catalogue ; concentration ajoutée sous 45."
+ },
+ {
+  "chemin": "/marques/parfums-de-marly",
+  "titre": "Parfums de Marly : prix en Algérie | Maison Numidia",
+  "pourquoi": "Requêtes « parfum(s) de marly » : forme « Parfums {Marque} », la marque porte déjà « Parfums »."
+ },
+ {
+  "chemin": "/parfums/la-belle-jean-paul-gaultier",
+  "titre": "Jean Paul Gaultier La Belle : prix en Algérie",
+  "pourquoi": "Marque d'abord 74 % (jpg la belle) ; rien retenu ; 45 caractères, pas de remplissage."
+ },
+ {
+  "chemin": "/parfums/bvlgari-eau-parfumee-au-the-noir",
+  "titre": "Bvlgari Eau Parfumée au Thé Noir : prix en Algérie",
+  "pourquoi": "Mesure refaite sur « thé noir » : marque d'abord 87 imp contre 39 ; rien retenu ; 50 caractères."
+ },
+ {
+  "chemin": "/parfums/coco-noir-chanel",
+  "titre": "Coco Noir de Chanel, eau de parfum 100 ml : prix en Algérie",
+  "pourquoi": "Nom d'abord 68 % en comptant « chanel noir » ; 100 ml 35 % ; 44 caractères, concentration ajoutée."
+ },
+ {
+  "chemin": "/parfums/michael-kors-sexy-amber",
+  "titre": "Sexy Amber de Michael Kors, eau de parfum : prix en Algérie",
+  "pourquoi": "Mesure refaite (« sex amber » 79 imp) : nom seul 90 % ; concentration ajoutée sous 45."
+ },
+ {
+  "chemin": "/parfums/nikos-sculpture-femme",
+  "titre": "Sculpture pour Femme de Nikos : prix du parfum en Algérie",
+  "pourquoi": "Nom seul 73 % ; « parfum » 74 %, genre dans le nom ; eau de parfum ferait 62."
+ },
+ {
+  "chemin": "/parfums/xerjoff-erba-pura",
+  "titre": "Xerjoff Erba Pura, eau de parfum : prix en Algérie",
+  "pourquoi": "Nom seul 49 %, nom d'abord 5 % : marque d'abord ; 35 caractères, concentration ajoutée."
+ },
+ {
+  "chemin": "/parfums/azzaro-wanted-girl",
+  "titre": "Azzaro Wanted Girl, parfum femme : prix en Algérie",
+  "pourquoi": "Marque d'abord 52 % ; genre 35 % ; eau de parfum pour femme ferait 62."
+ },
+ {
+  "chemin": "/marques/adopt-mon-parfum",
+  "titre": "Adopt Mon Parfum : prix des parfums en Algérie",
+  "pourquoi": "Sans données (base 16) : forme par défaut ; suffixe à 63, retiré."
+ },
+ {
+  "chemin": "/parfums/l-aventure-al-haramain",
+  "titre": "Al Haramain L'Aventure, parfum homme : prix en Algérie",
+  "pourquoi": "Marque d'abord 45 % ; genre obligatoire face à L'Aventure Femme ; eau de parfum pour homme ferait 66."
+ },
+ {
+  "chemin": "/marques/mugler",
+  "titre": "Mugler : prix des parfums en Algérie | Maison Numidia",
+  "pourquoi": "Marque avant « parfum » 79 % de 19 imp (moins de 30) : forme par défaut, suffixe tient."
+ },
+ {
+  "chemin": "/parfums/cartier-la-panthere",
+  "titre": "Cartier La Panthère, eau de parfum : prix en Algérie",
+  "pourquoi": "Marque d'abord 89 % ; rien retenu, 37 caractères : concentration ajoutée (3.5)."
+ },
+ {
+  "chemin": "/parfums/armani-emporio-stronger-with-you-leather",
+  "titre": "Stronger With You Leather d'Emporio Armani : prix en Algérie",
+  "pourquoi": "Nom seul 88 % (« stronger with you leather ») : Leather dans les 30 premiers caractères."
+ },
+ {
+  "chemin": "/parfums/armani-emporio-stronger-with-you-powerfully",
+  "titre": "Stronger With You Powerfully d'Armani : prix en Algérie",
+  "pourquoi": "Nom contenant la marque ; « parfum » 66 % ne tient pas : prix du parfum ferait 66. [raccourci à 60 : marque Armani en fin, charte 3.1]"
+ },
+ {
+  "chemin": "/parfums/creed-green-irish-tweed",
+  "titre": "Creed Green Irish Tweed, eau de parfum : prix en Algérie",
+  "pourquoi": "Marque d'abord 55 % ; rien retenu, 41 caractères : concentration ajoutée (3.5)."
+ },
+ {
+  "chemin": "/parfums/kenzo-flower-in-the-air",
+  "titre": "Kenzo Flower In The Air, parfum femme : prix en Algérie",
+  "pourquoi": "Marque seule refaite à 28 % ; « parfum » 40 %, genre 28 % ; marque d'abord."
+ },
+ {
+  "chemin": "/parfums/cerruti-1881-homme",
+  "titre": "Cerruti 1881 pour Homme : prix du parfum en Algérie",
+  "pourquoi": "Marque d'abord 84 % ; « parfum » 67 %, eau de toilette, genre porté par le nom."
+ },
+ {
+  "chemin": "/parfums/armani-code-profumo",
+  "titre": "Armani Code Profumo : épuisé, voir les autres versions",
+  "pourquoi": "Rupture avec variantes ; marque d'abord 95 % ; ni prix ni « parfum » (sœur Code Parfum)."
+ },
+ {
+  "chemin": "/parfums/al-haramain-amber-oud",
+  "titre": "Al Haramain Amber Oud, eau de parfum : prix en Algérie",
+  "pourquoi": "Mesure refaite (« haramain » = marque) : nom seul 55 % ; concentration ajoutée sous 45."
+ },
+ {
+  "chemin": "/parfums/ysl-belle-d-opium",
+  "titre": "Belle d'Opium : épuisé, voir les parfums proches",
+  "pourquoi": "Rupture sans variantes ; nom seul 92 % ; avec la marque le titre ferait 69."
+ },
+ {
+  "chemin": "/marques/jean-patou",
+  "titre": "Jean Patou : prix des parfums en Algérie | Maison Numidia",
+  "pourquoi": "Marque avant « parfum » dans 92 % de 65 imp : forme par défaut, suffixe tient."
+ },
+ {
+  "chemin": "/parfums/manifesto-ysl",
+  "titre": "Manifesto d'Yves Saint Laurent : prix du parfum en Algérie",
+  "pourquoi": "Nom d'abord 68 % des requêtes à deux ; « parfum » 42 % ; eau de parfum ferait 63."
+ },
+ {
+  "chemin": "/parfums/ysl-yvresse-champagne",
+  "titre": "Yvresse Champagne d'Yves Saint Laurent : prix en Algérie",
+  "pourquoi": "Mesure refaite sur « champagne » : nom d'abord 86 % ; prix du parfum ferait 66."
+ }
+]

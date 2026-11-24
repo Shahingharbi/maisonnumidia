@@ -1,0 +1,663 @@
+[
+ {
+  "lot": "lot-001",
+  "pages": 40,
+  "imp": 103965,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-002",
+  "pages": 40,
+  "imp": 45753,
+  "types": [
+   "produit",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-003",
+  "pages": 40,
+  "imp": 31680,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-004",
+  "pages": 40,
+  "imp": 24150,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-005",
+  "pages": 40,
+  "imp": 20382,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-006",
+  "pages": 40,
+  "imp": 17049,
+  "types": [
+   "fille",
+   "produit",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-007",
+  "pages": 40,
+  "imp": 14801,
+  "types": [
+   "produit",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-008",
+  "pages": 40,
+  "imp": 12826,
+  "types": [
+   "marque",
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-009",
+  "pages": 40,
+  "imp": 11179,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-010",
+  "pages": 40,
+  "imp": 9684,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-011",
+  "pages": 40,
+  "imp": 8508,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-012",
+  "pages": 40,
+  "imp": 7436,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-013",
+  "pages": 40,
+  "imp": 6669,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-014",
+  "pages": 40,
+  "imp": 6002,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-015",
+  "pages": 40,
+  "imp": 5566,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-016",
+  "pages": 40,
+  "imp": 5167,
+  "types": [
+   "marque",
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-017",
+  "pages": 40,
+  "imp": 4777,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-018",
+  "pages": 40,
+  "imp": 4442,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-019",
+  "pages": 40,
+  "imp": 4113,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-020",
+  "pages": 40,
+  "imp": 3716,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-021",
+  "pages": 40,
+  "imp": 3460,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-022",
+  "pages": 40,
+  "imp": 3214,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-023",
+  "pages": 40,
+  "imp": 2975,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-024",
+  "pages": 40,
+  "imp": 2748,
+  "types": [
+   "fille",
+   "produit",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-025",
+  "pages": 40,
+  "imp": 2562,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-026",
+  "pages": 40,
+  "imp": 2373,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-027",
+  "pages": 40,
+  "imp": 2212,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-028",
+  "pages": 40,
+  "imp": 2069,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-029",
+  "pages": 40,
+  "imp": 1946,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-030",
+  "pages": 40,
+  "imp": 1849,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-031",
+  "pages": 40,
+  "imp": 1750,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-032",
+  "pages": 40,
+  "imp": 1639,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-033",
+  "pages": 40,
+  "imp": 1546,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-034",
+  "pages": 40,
+  "imp": 1416,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-035",
+  "pages": 40,
+  "imp": 1326,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-036",
+  "pages": 40,
+  "imp": 1255,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-037",
+  "pages": 40,
+  "imp": 1187,
+  "types": [
+   "fille",
+   "marque",
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-038",
+  "pages": 40,
+  "imp": 1135,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-039",
+  "pages": 40,
+  "imp": 1059,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-040",
+  "pages": 40,
+  "imp": 994,
+  "types": [
+   "fille",
+   "marque",
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-041",
+  "pages": 40,
+  "imp": 941,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-042",
+  "pages": 40,
+  "imp": 880,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-043",
+  "pages": 40,
+  "imp": 820,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-044",
+  "pages": 40,
+  "imp": 746,
+  "types": [
+   "fille",
+   "produit",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-045",
+  "pages": 40,
+  "imp": 690,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-046",
+  "pages": 40,
+  "imp": 625,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-047",
+  "pages": 40,
+  "imp": 575,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-048",
+  "pages": 40,
+  "imp": 533,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-049",
+  "pages": 40,
+  "imp": 483,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-050",
+  "pages": 40,
+  "imp": 428,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-051",
+  "pages": 40,
+  "imp": 376,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-052",
+  "pages": 40,
+  "imp": 339,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-053",
+  "pages": 40,
+  "imp": 296,
+  "types": [
+   "produit",
+   "marque",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-054",
+  "pages": 40,
+  "imp": 244,
+  "types": [
+   "fille",
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-055",
+  "pages": 40,
+  "imp": 203,
+  "types": [
+   "fille",
+   "produit",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-056",
+  "pages": 40,
+  "imp": 156,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-057",
+  "pages": 40,
+  "imp": 112,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-058",
+  "pages": 40,
+  "imp": 67,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-059",
+  "pages": 40,
+  "imp": 23,
+  "types": [
+   "produit",
+   "fille"
+  ]
+ },
+ {
+  "lot": "lot-060",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-061",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-062",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-063",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-064",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-065",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-066",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-067",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit"
+  ]
+ },
+ {
+  "lot": "lot-068",
+  "pages": 40,
+  "imp": 0,
+  "types": [
+   "produit",
+   "fille",
+   "marque"
+  ]
+ },
+ {
+  "lot": "lot-069",
+  "pages": 2,
+  "imp": 0,
+  "types": [
+   "fille"
+  ]
+ }
+]

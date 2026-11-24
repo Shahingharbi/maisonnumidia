@@ -1,0 +1,2262 @@
+[
+ {
+  "chemin": "/",
+  "type": "accueil",
+  "gsc": {
+   "clics": 2302,
+   "imp": 31225,
+   "pos": 6,
+   "ctr": 7.4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 671,
+    "clics": 455,
+    "pos": 1.2
+   },
+   {
+    "q": "maison numidia",
+    "imp": 605,
+    "clics": 3,
+    "pos": 4.2
+   },
+   {
+    "q": "parfum original alger",
+    "imp": 398,
+    "clics": 45,
+    "pos": 6.1
+   },
+   {
+    "q": "parfum algerie",
+    "imp": 213,
+    "clics": 10,
+    "pos": 10.4
+   },
+   {
+    "q": "parfum original",
+    "imp": 211,
+    "clics": 5,
+    "pos": 5
+   },
+   {
+    "q": "parfum homme original prix algérie",
+    "imp": 203,
+    "clics": 16,
+    "pos": 3.9
+   },
+   {
+    "q": "parfumerie",
+    "imp": 149,
+    "clics": 4,
+    "pos": 6.5
+   },
+   {
+    "q": "louis vuitton",
+    "imp": 101,
+    "clics": 0,
+    "pos": 5.1
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 95,
+    "clics": 60,
+    "pos": 1
+   },
+   {
+    "q": "parfum original algérie",
+    "imp": 94,
+    "clics": 26,
+    "pos": 4.4
+   },
+   {
+    "q": "perfume women",
+    "imp": 92,
+    "clics": 0,
+    "pos": 8.7
+   },
+   {
+    "q": "parfum dz",
+    "imp": 91,
+    "clics": 7,
+    "pos": 18
+   },
+   {
+    "q": "parfum algerien",
+    "imp": 89,
+    "clics": 2,
+    "pos": 4.8
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 84,
+    "clics": 0,
+    "pos": 5.5
+   },
+   {
+    "q": "parfum original algerie",
+    "imp": 83,
+    "clics": 22,
+    "pos": 9.7
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum",
+    "vol": 9900,
+    "posMust": 1,
+    "notrePos": 32
+   },
+   {
+    "k": "parfumeries",
+    "vol": 1300,
+    "notrePos": 79
+   },
+   {
+    "k": "the perfume hq dely brahim",
+    "vol": 880,
+    "notrePos": 21
+   },
+   {
+    "k": "eau de parfum",
+    "vol": 590,
+    "posMust": 1,
+    "notrePos": 40
+   },
+   {
+    "k": "midho parfum",
+    "vol": 590,
+    "posMust": 9,
+    "notrePos": 35
+   },
+   {
+    "k": "parfum dz",
+    "vol": 590,
+    "posMust": 2,
+    "notrePos": 14
+   },
+   {
+    "k": "parfum en algerie",
+    "vol": 480,
+    "posMust": 2,
+    "notrePos": 15
+   },
+   {
+    "k": "parfums algerie",
+    "vol": 480,
+    "posMust": 5,
+    "notrePos": 14
+   }
+  ],
+  "partagees": [
+   {
+    "q": "numidia parfum",
+    "impIci": 95,
+    "autre": "/parfums-femme",
+    "impAutre": 74
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 84,
+    "autre": "/parfums-femme",
+    "impAutre": 74
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 95,
+    "autre": "/parfum-algerie",
+    "impAutre": 48
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 84,
+    "autre": "/parfum-algerie",
+    "impAutre": 48
+   },
+   {
+    "q": "parfum dz",
+    "impIci": 91,
+    "autre": "/parfum-algerie",
+    "impAutre": 20
+   },
+   {
+    "q": "parfum original algerie",
+    "impIci": 83,
+    "autre": "/parfum-algerie",
+    "impAutre": 16
+   }
+  ]
+ },
+ {
+  "chemin": "/parfums-homme",
+  "type": "mere",
+  "section": "homme",
+  "gsc": {
+   "clics": 38,
+   "imp": 1276,
+   "pos": 7.8,
+   "ctr": 3
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 431,
+    "clics": 22,
+    "pos": 1.1
+   },
+   {
+    "q": "parfum homme",
+    "imp": 14,
+    "clics": 0,
+    "pos": 62.6
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "imp": 13,
+    "clics": 0,
+    "pos": 36.7
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "imp": 11,
+    "clics": 0,
+    "pos": 40.6
+   },
+   {
+    "q": "prix parfum homme algérie",
+    "imp": 9,
+    "clics": 0,
+    "pos": 6.4
+   },
+   {
+    "q": "parfum homme algérie",
+    "imp": 6,
+    "clics": 2,
+    "pos": 25.8
+   },
+   {
+    "q": "parfum masculin 2 prix algerie",
+    "imp": 6,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "parfum homme prix algérie",
+    "imp": 5,
+    "clics": 1,
+    "pos": 16.8
+   },
+   {
+    "q": "parfum homme original prix algérie",
+    "imp": 5,
+    "clics": 0,
+    "pos": 16.2
+   },
+   {
+    "q": "parfum algérie homme",
+    "imp": 2,
+    "clics": 1,
+    "pos": 32.5
+   },
+   {
+    "q": "les parfums homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 51
+   },
+   {
+    "q": "parfum original homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 25.5
+   },
+   {
+    "q": "رجالية",
+    "imp": 1,
+    "clics": 1,
+    "pos": 3
+   },
+   {
+    "q": "chhal dayra",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "diable bleu parfum prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 21
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum homme",
+    "vol": 4400,
+    "posMust": 2,
+    "notrePos": 46
+   },
+   {
+    "k": "parfum hommes",
+    "vol": 4400,
+    "posMust": 2,
+    "notrePos": 46
+   },
+   {
+    "k": "parfum pour homme",
+    "vol": 210,
+    "posMust": 1,
+    "notrePos": 51
+   }
+  ],
+  "partagees": [
+   {
+    "q": "prix parfum homme algérie",
+    "impIci": 9,
+    "autre": "/",
+    "impAutre": 34
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "impIci": 13,
+    "autre": "/",
+    "impAutre": 29
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "impIci": 11,
+    "autre": "/",
+    "impAutre": 30
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "impIci": 13,
+    "autre": "/parfum-algerie",
+    "impAutre": 10
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "impIci": 11,
+    "autre": "/parfum-algerie",
+    "impAutre": 12
+   }
+  ]
+ },
+ {
+  "chemin": "/parfums-femme",
+  "type": "mere",
+  "section": "femme",
+  "gsc": {
+   "clics": 80,
+   "imp": 3275,
+   "pos": 9.8,
+   "ctr": 2.4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 457,
+    "clics": 11,
+    "pos": 1.3
+   },
+   {
+    "q": "parfum femme original prix algérie",
+    "imp": 342,
+    "clics": 10,
+    "pos": 6.2
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 74,
+    "clics": 2,
+    "pos": 6.8
+   },
+   {
+    "q": "parfum femme algérie",
+    "imp": 52,
+    "clics": 3,
+    "pos": 8.9
+   },
+   {
+    "q": "parfum algerie femme",
+    "imp": 51,
+    "clics": 3,
+    "pos": 8.7
+   },
+   {
+    "q": "parfum femme prix algérie",
+    "imp": 44,
+    "clics": 1,
+    "pos": 7.7
+   },
+   {
+    "q": "parfum femme",
+    "imp": 39,
+    "clics": 2,
+    "pos": 21.4
+   },
+   {
+    "q": "parfums",
+    "imp": 32,
+    "clics": 0,
+    "pos": 66
+   },
+   {
+    "q": "parfum femme original",
+    "imp": 20,
+    "clics": 0,
+    "pos": 10.8
+   },
+   {
+    "q": "parfum",
+    "imp": 19,
+    "clics": 0,
+    "pos": 76.7
+   },
+   {
+    "q": "parfum femme pas cher algérie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 5.3
+   },
+   {
+    "q": "parfum pour elle algerie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "parfum femme algerie",
+    "imp": 13,
+    "clics": 1,
+    "pos": 11.6
+   },
+   {
+    "q": "parfum feminin algerie",
+    "imp": 13,
+    "clics": 0,
+    "pos": 8.6
+   },
+   {
+    "q": "parfumerie algerie",
+    "imp": 12,
+    "clics": 1,
+    "pos": 42.2
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum femme",
+    "vol": 5400,
+    "posMust": 1,
+    "notrePos": 29
+   },
+   {
+    "k": "les parfum femme",
+    "vol": 320,
+    "posMust": 1,
+    "notrePos": 43
+   },
+   {
+    "k": "les parfum pour femme",
+    "vol": 320,
+    "posMust": 1,
+    "notrePos": 40
+   },
+   {
+    "k": "les parfums pour femme",
+    "vol": 320,
+    "posMust": 1,
+    "notrePos": 39
+   },
+   {
+    "k": "parfum pour femme",
+    "vol": 260,
+    "posMust": 1,
+    "notrePos": 43
+   },
+   {
+    "k": "parfums pour femme",
+    "vol": 260,
+    "posMust": 2,
+    "notrePos": 45
+   },
+   {
+    "k": "parfums pour femmes",
+    "vol": 260,
+    "posMust": 2,
+    "notrePos": 43
+   },
+   {
+    "k": "parfum pour elle",
+    "vol": 210,
+    "posMust": 4,
+    "notrePos": 41
+   }
+  ],
+  "partagees": [
+   {
+    "q": "numidia parfum",
+    "impIci": 74,
+    "autre": "/",
+    "impAutre": 179
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 74,
+    "autre": "/parfum-algerie",
+    "impAutre": 48
+   },
+   {
+    "q": "parfums",
+    "impIci": 32,
+    "autre": "/",
+    "impAutre": 65
+   },
+   {
+    "q": "parfum",
+    "impIci": 19,
+    "autre": "/",
+    "impAutre": 70
+   },
+   {
+    "q": "parfum femme algérie",
+    "impIci": 52,
+    "autre": "/",
+    "impAutre": 15
+   },
+   {
+    "q": "parfum numidia",
+    "impIci": 11,
+    "autre": "/",
+    "impAutre": 52
+   }
+  ]
+ },
+ {
+  "chemin": "/parfums-orientaux",
+  "type": "mere",
+  "section": "oriental",
+  "gsc": {
+   "clics": 123,
+   "imp": 2497,
+   "pos": 8.4,
+   "ctr": 4.9
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 550,
+    "clics": 4,
+    "pos": 1.1
+   },
+   {
+    "q": "parfum oriental",
+    "imp": 55,
+    "clics": 0,
+    "pos": 40.3
+   },
+   {
+    "q": "parfums arabes en gros (avec accent)",
+    "imp": 52,
+    "clics": 0,
+    "pos": 60.6
+   },
+   {
+    "q": "lattafa algerie",
+    "imp": 28,
+    "clics": 1,
+    "pos": 7.7
+   },
+   {
+    "q": "parfum oriental luxe",
+    "imp": 26,
+    "clics": 0,
+    "pos": 46.8
+   },
+   {
+    "q": "parfum arabe",
+    "imp": 18,
+    "clics": 0,
+    "pos": 7.9
+   },
+   {
+    "q": "parfumerie orientale",
+    "imp": 14,
+    "clics": 0,
+    "pos": 39.9
+   },
+   {
+    "q": "parfums orientaux",
+    "imp": 12,
+    "clics": 1,
+    "pos": 15.2
+   },
+   {
+    "q": "lattafa parfum prix algerie",
+    "imp": 10,
+    "clics": 0,
+    "pos": 8.3
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "imp": 7,
+    "clics": 1,
+    "pos": 9
+   },
+   {
+    "q": "parfum oriental en ligne",
+    "imp": 7,
+    "clics": 0,
+    "pos": 30.4
+   },
+   {
+    "q": "parfum algerie",
+    "imp": 6,
+    "clics": 0,
+    "pos": 26.5
+   },
+   {
+    "q": "parfum numidia lezoul",
+    "imp": 5,
+    "clics": 0,
+    "pos": 85.8
+   },
+   {
+    "q": "نعم",
+    "imp": 5,
+    "clics": 0,
+    "pos": 4.8
+   },
+   {
+    "q": "prix algérie",
+    "imp": 3,
+    "clics": 0,
+    "pos": 7
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "oriental",
+    "vol": 390,
+    "notrePos": 58
+   }
+  ],
+  "partagees": [
+   {
+    "q": "lattafa algerie",
+    "impIci": 28,
+    "autre": "/marques/lattafa",
+    "impAutre": 20
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 7,
+    "autre": "/marques/lattafa",
+    "impAutre": 17
+   },
+   {
+    "q": "lattafa parfum algerie",
+    "impIci": 7,
+    "autre": "/parfums/lattafa-khamrah",
+    "impAutre": 7
+   }
+  ]
+ },
+ {
+  "chemin": "/marques",
+  "type": "index",
+  "gsc": {
+   "clics": 24,
+   "imp": 1004,
+   "pos": 3.1,
+   "ctr": 2.4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 628,
+    "clics": 8,
+    "pos": 1.2
+   },
+   {
+    "q": "parfum numidia lezoul",
+    "imp": 9,
+    "clics": 0,
+    "pos": 50.1
+   },
+   {
+    "q": "les marques des parfums",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "maison midho",
+    "imp": 1,
+    "clics": 0,
+    "pos": 65
+   },
+   {
+    "q": "marque parfumerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 29
+   },
+   {
+    "q": "numidia lezoul parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 63
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 36
+   },
+   {
+    "q": "parfum algerien femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum original alger",
+    "imp": 1,
+    "clics": 0,
+    "pos": 45
+   },
+   {
+    "q": "royaume du parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog",
+  "type": "index",
+  "gsc": {
+   "clics": 1,
+   "imp": 151,
+   "pos": 6.8,
+   "ctr": 0.7
+  },
+  "requetes": [
+   {
+    "q": "numidia blog",
+    "imp": 107,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "maison numidia",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum numidia lezoul",
+    "imp": 1,
+    "clics": 0,
+    "pos": 75
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/livraison",
+  "type": "service",
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfum-algerie",
+  "type": "service",
+  "gsc": {
+   "clics": 47,
+   "imp": 1549,
+   "pos": 9.2,
+   "ctr": 3
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 497,
+    "clics": 3,
+    "pos": 1.2
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 48,
+    "clics": 2,
+    "pos": 7.3
+   },
+   {
+    "q": "parfum dz",
+    "imp": 20,
+    "clics": 0,
+    "pos": 53.1
+   },
+   {
+    "q": "parfum original algerie",
+    "imp": 16,
+    "clics": 0,
+    "pos": 37.4
+   },
+   {
+    "q": "parfum numidia lezoul",
+    "imp": 13,
+    "clics": 0,
+    "pos": 53.8
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "imp": 12,
+    "clics": 0,
+    "pos": 31
+   },
+   {
+    "q": "parfumerie algerie",
+    "imp": 12,
+    "clics": 0,
+    "pos": 46.1
+   },
+   {
+    "q": "parfum algerie",
+    "imp": 11,
+    "clics": 0,
+    "pos": 20.3
+   },
+   {
+    "q": "achat parfum original en algérie",
+    "imp": 10,
+    "clics": 0,
+    "pos": 27
+   },
+   {
+    "q": "vente parfum original en algérie",
+    "imp": 10,
+    "clics": 0,
+    "pos": 34.6
+   },
+   {
+    "q": "vente parfum original pour homme en algérie",
+    "imp": 10,
+    "clics": 0,
+    "pos": 30.1
+   },
+   {
+    "q": "oui",
+    "imp": 6,
+    "clics": 1,
+    "pos": 2.8
+   },
+   {
+    "q": "parfum a constantine",
+    "imp": 6,
+    "clics": 0,
+    "pos": 62.7
+   },
+   {
+    "q": "parfum numidia",
+    "imp": 6,
+    "clics": 0,
+    "pos": 9.5
+   },
+   {
+    "q": "en algérie",
+    "imp": 3,
+    "clics": 1,
+    "pos": 1.3
+   }
+  ],
+  "motsCles": [],
+  "partagees": [
+   {
+    "q": "numidia parfum",
+    "impIci": 48,
+    "autre": "/",
+    "impAutre": 179
+   },
+   {
+    "q": "numidia parfum",
+    "impIci": 48,
+    "autre": "/parfums-femme",
+    "impAutre": 74
+   },
+   {
+    "q": "parfum dz",
+    "impIci": 20,
+    "autre": "/",
+    "impAutre": 91
+   },
+   {
+    "q": "parfum original algerie",
+    "impIci": 16,
+    "autre": "/",
+    "impAutre": 83
+   },
+   {
+    "q": "achat parfum original pour homme en algérie",
+    "impIci": 12,
+    "autre": "/",
+    "impAutre": 30
+   },
+   {
+    "q": "achat parfum original en algérie",
+    "impIci": 10,
+    "autre": "/",
+    "impAutre": 30
+   }
+  ]
+ },
+ {
+  "chemin": "/contact",
+  "type": "service",
+  "gsc": {
+   "clics": 9,
+   "imp": 375,
+   "pos": 3.6,
+   "ctr": 2.4
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 133,
+    "clics": 0,
+    "pos": 1.3
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 12
+   },
+   {
+    "q": "parfum original algérie",
+    "imp": 1,
+    "clics": 1,
+    "pos": 1
+   },
+   {
+    "q": "louis vuitton",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "numéro de téléphone",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "ou exact",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "oui",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum manifesto pas cher",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "setif",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "where is numidia located",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "أين أجدها",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "بليدة",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "كم سعر التوصيل",
+    "imp": 1,
+    "clics": 0,
+    "pos": 15
+   },
+   {
+    "q": "نعم",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/a-propos",
+  "type": "service",
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/meilleur-parfum-homme",
+  "type": "article",
+  "h1": "Meilleur parfum homme 2026 : le top 12 en Algérie, par usage et par budget",
+  "titreActuel": "Meilleur parfum homme 2026 en Algérie : top 12",
+  "gsc": {
+   "clics": 50,
+   "imp": 1316,
+   "pos": 5.2,
+   "ctr": 3.8
+  },
+  "requetes": [
+   {
+    "q": "parfum homme algérie",
+    "imp": 13,
+    "clics": 1,
+    "pos": 15.8
+   },
+   {
+    "q": "افضل عطر رجالي في الجزائر",
+    "imp": 5,
+    "clics": 0,
+    "pos": 7.8
+   },
+   {
+    "q": "parfum homme",
+    "imp": 4,
+    "clics": 0,
+    "pos": 14.8
+   },
+   {
+    "q": "parfum algerie homme",
+    "imp": 3,
+    "clics": 0,
+    "pos": 9.3
+   },
+   {
+    "q": "parfum algérie homme",
+    "imp": 2,
+    "clics": 1,
+    "pos": 55
+   },
+   {
+    "q": "dior sauvage",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4.5
+   },
+   {
+    "q": "parfum en algerie",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "parfum homme top 10",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10.5
+   },
+   {
+    "q": "parfum masculin",
+    "imp": 2,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "pour homme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "top 10 classement meilleur parfum homme 2026",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "top parfum homme 2026",
+    "imp": 2,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "la bomba carolina herrera",
+    "imp": 1,
+    "clics": 1,
+    "pos": 4
+   },
+   {
+    "q": "laverne parfum prix algérie",
+    "imp": 1,
+    "clics": 1,
+    "pos": 8
+   }
+  ],
+  "motsCles": [],
+  "partagees": [
+   {
+    "q": "parfum homme algérie",
+    "impIci": 13,
+    "autre": "/",
+    "impAutre": 56
+   }
+  ]
+ },
+ {
+  "chemin": "/blog/parfum-de-niche-algerie",
+  "type": "article",
+  "h1": "Parfums de Niche en Algérie : Le Guide Complet 2026",
+  "titreActuel": "Parfums de Niche en Algérie 2026 — Guide d'Achat",
+  "gsc": {
+   "clics": 7,
+   "imp": 233,
+   "pos": 6.9,
+   "ctr": 3
+  },
+  "requetes": [
+   {
+    "q": "oui",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6.5
+   },
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "maison numidia",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "numidia blog",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "parfum de niche en arabe",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "عطور النيش",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "كم تباع في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/eau-de-parfum-vs-eau-de-toilette",
+  "type": "article",
+  "h1": "Eau de Parfum ou Eau de Toilette : quelle différence et laquelle choisir ?",
+  "titreActuel": "Eau de Parfum ou Eau de Toilette : différence et choix",
+  "gsc": {
+   "clics": 0,
+   "imp": 726,
+   "pos": 48.7,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "eau de toilette vs eau de parfum",
+    "imp": 65,
+    "clics": 0,
+    "pos": 64.6
+   },
+   {
+    "q": "eau de parfum ou eau de toilette",
+    "imp": 46,
+    "clics": 0,
+    "pos": 75.2
+   },
+   {
+    "q": "différence entre eau de parfum et eau de toilette",
+    "imp": 40,
+    "clics": 0,
+    "pos": 73.5
+   },
+   {
+    "q": "eau de parfum vs eau de toilette",
+    "imp": 22,
+    "clics": 0,
+    "pos": 53.5
+   },
+   {
+    "q": "différence parfum eau de toilette",
+    "imp": 21,
+    "clics": 0,
+    "pos": 77.2
+   },
+   {
+    "q": "eau de toilette ou eau de parfum",
+    "imp": 20,
+    "clics": 0,
+    "pos": 71.4
+   },
+   {
+    "q": "différence edp edt",
+    "imp": 18,
+    "clics": 0,
+    "pos": 23.3
+   },
+   {
+    "q": "eau de toilette",
+    "imp": 14,
+    "clics": 0,
+    "pos": 56
+   },
+   {
+    "q": "différence eau de parfum eau de toilette",
+    "imp": 13,
+    "clics": 0,
+    "pos": 70.9
+   },
+   {
+    "q": "différence eau de toilette et eau de parfum",
+    "imp": 11,
+    "clics": 0,
+    "pos": 73.1
+   },
+   {
+    "q": "eau de toilette and eau de parfum difference",
+    "imp": 11,
+    "clics": 0,
+    "pos": 56.8
+   },
+   {
+    "q": "différence entre eau de toilette et eau de parfum",
+    "imp": 10,
+    "clics": 0,
+    "pos": 60.4
+   },
+   {
+    "q": "eau de toilette vs parfum",
+    "imp": 10,
+    "clics": 0,
+    "pos": 49.4
+   },
+   {
+    "q": "edp ou edt",
+    "imp": 9,
+    "clics": 0,
+    "pos": 17.2
+   },
+   {
+    "q": "difference eau de parfum and eau de toilette",
+    "imp": 8,
+    "clics": 0,
+    "pos": 65.1
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "eaux de parfums",
+    "vol": 590,
+    "posMust": 5,
+    "notrePos": 67
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/meilleur-parfum-femme",
+  "type": "article",
+  "h1": "Meilleur parfum femme 2026 en Algérie : classement top 10 et choix par usage",
+  "titreActuel": "Meilleur parfum femme 2026 : classement top 10 en Algérie",
+  "gsc": {
+   "clics": 8,
+   "imp": 442,
+   "pos": 5.6,
+   "ctr": 1.8
+  },
+  "requetes": [
+   {
+    "q": "en algérie svp",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "parfum femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 60
+   },
+   {
+    "q": "parfum pour elle algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum signature femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "top 10",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "top 10 classement meilleur parfum femme 2026",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "احسن عطر نسائي في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "افضل عطر نسائي في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "العطور النسائية",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "ريحة",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "عطور",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "نساىي",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "نعم ماهي",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-floral-femme",
+  "type": "article",
+  "h1": "Parfum Floral Femme : Guide des Plus Beaux Floraux pour l'Algérie",
+  "titreActuel": "Parfum Floral Femme en Algérie — Guide Complet 2026",
+  "gsc": {
+   "clics": 3,
+   "imp": 115,
+   "pos": 9.7,
+   "ctr": 2.6
+  },
+  "requetes": [
+   {
+    "q": "+flozal médicament algérie composition flozal",
+    "imp": 3,
+    "clics": 0,
+    "pos": 9.7
+   },
+   {
+    "q": "parfum floral femme été",
+    "imp": 3,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "floral parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 29
+   },
+   {
+    "q": "parfums floraux",
+    "imp": 2,
+    "clics": 0,
+    "pos": 40
+   },
+   {
+    "q": "%\"flozal\" algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "floral",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "flozal médicament algérie flozal composition",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "ouï",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "parfum femme floral",
+    "imp": 1,
+    "clics": 0,
+    "pos": 48
+   },
+   {
+    "q": "parfum floral",
+    "imp": 1,
+    "clics": 0,
+    "pos": 52
+   },
+   {
+    "q": "parfum floral femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 40
+   },
+   {
+    "q": "parfum floral pour femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 46
+   },
+   {
+    "q": "parfum florale femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 48
+   },
+   {
+    "q": "parfum florale pour femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 44
+   },
+   {
+    "q": "parfum pour femme été",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "parfum femme floral",
+    "vol": 170,
+    "posMust": 6,
+    "notrePos": 46
+   },
+   {
+    "k": "parfum floral pour femme",
+    "vol": 170,
+    "notrePos": 44
+   },
+   {
+    "k": "parfum florale femme",
+    "vol": 170,
+    "notrePos": 44
+   },
+   {
+    "k": "parfum florale pour femme",
+    "vol": 170,
+    "notrePos": 42
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/dupe-parfum",
+  "type": "article",
+  "h1": "Dupe Parfum : Les Meilleures Alternatives Abordables en Algérie",
+  "titreActuel": "Dupe Parfum en Algérie — Alternatives & Originaux 2026",
+  "gsc": {
+   "clics": 36,
+   "imp": 513,
+   "pos": 6.6,
+   "ctr": 7
+  },
+  "requetes": [
+   {
+    "q": "numidia blog",
+    "imp": 6,
+    "clics": 0,
+    "pos": 5.3
+   },
+   {
+    "q": "les dupes de parfum",
+    "imp": 5,
+    "clics": 1,
+    "pos": 5.6
+   },
+   {
+    "q": "parfum dupe",
+    "imp": 4,
+    "clics": 2,
+    "pos": 5.3
+   },
+   {
+    "q": "parfum copie original",
+    "imp": 3,
+    "clics": 1,
+    "pos": 9.3
+   },
+   {
+    "q": "dupe parfum",
+    "imp": 3,
+    "clics": 0,
+    "pos": 6.3
+   },
+   {
+    "q": "parfum identique a l'original",
+    "imp": 3,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "dupes parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "are they dupes?",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "bleu de chanel",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "deuxième option",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "dupe parfums",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "dupeparfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "oui",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "oui des alternatives",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "parfum dupe algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-poudre-femme",
+  "type": "article",
+  "h1": "Parfum Poudré Femme : Les Meilleures Fragrances Poudrées en Algérie",
+  "titreActuel": "Parfum Poudré Femme en Algérie — Guide & Sélection 2026",
+  "gsc": {
+   "clics": 1,
+   "imp": 81,
+   "pos": 13.4,
+   "ctr": 1.2
+  },
+  "requetes": [
+   {
+    "q": "parfum poudré femme",
+    "imp": 4,
+    "clics": 0,
+    "pos": 28.8
+   },
+   {
+    "q": "parfum poudré pour femme",
+    "imp": 4,
+    "clics": 0,
+    "pos": 46
+   },
+   {
+    "q": "numidia blog",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "parfum femme poudré",
+    "imp": 2,
+    "clics": 0,
+    "pos": 20.5
+   },
+   {
+    "q": "parfum poudre",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4.5
+   },
+   {
+    "q": "parfum poudré",
+    "imp": 2,
+    "clics": 0,
+    "pos": 26.5
+   },
+   {
+    "q": "meilleur parfum poudré femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 53
+   },
+   {
+    "q": "parfum poudre femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 61
+   },
+   {
+    "q": "parfum poudree",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum poudrée",
+    "imp": 1,
+    "clics": 0,
+    "pos": 49
+   },
+   {
+    "q": "parfums poudrés pour femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 74
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-ete-femme",
+  "type": "article",
+  "h1": "Parfum d'Été Femme : Les Meilleures Fragrances pour l'Été Algérien",
+  "titreActuel": "Parfum d'Été Femme en Algérie — Guide 2026",
+  "gsc": {
+   "clics": 0,
+   "imp": 33,
+   "pos": 9.3,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "parfum femme été",
+    "imp": 2,
+    "clics": 0,
+    "pos": 47.5
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/reconnaitre-parfum-original",
+  "type": "article",
+  "h1": "Comment Reconnaître un Parfum Original : Guide Complet 2026",
+  "titreActuel": "Comment Reconnaître un Parfum Original en Algérie — Guide 2026",
+  "gsc": {
+   "clics": 6,
+   "imp": 574,
+   "pos": 6.4,
+   "ctr": 1
+  },
+  "requetes": [
+   {
+    "q": "comment reconnaître un parfum original",
+    "imp": 9,
+    "clics": 0,
+    "pos": 10.2
+   },
+   {
+    "q": "flacon de parfum original",
+    "imp": 9,
+    "clics": 0,
+    "pos": 7.3
+   },
+   {
+    "q": "numidia blog",
+    "imp": 8,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "comment savoir si le parfum est original",
+    "imp": 6,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "oui",
+    "imp": 3,
+    "clics": 0,
+    "pos": 3.7
+   },
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6.5
+   },
+   {
+    "q": "comment savoir si parfum est original",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "comment savoir si un parfum est original",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "comment vérifier un parfum authentique",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "me confirmer",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "original",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "parfum originale",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "prix",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "voici le flacon",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "vérifier l'authenticité",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/lattafa-khamrah-avis",
+  "type": "article",
+  "h1": "Lattafa Khamrah : avis complet 2026, notes et alternatives Algérie",
+  "titreActuel": "Lattafa Khamrah Avis 2026 — Notes, Tenue, Alternatives",
+  "gsc": {
+   "clics": 5,
+   "imp": 257,
+   "pos": 8.2,
+   "ctr": 1.9
+  },
+  "requetes": [
+   {
+    "q": "khamrah lattafa avis",
+    "imp": 5,
+    "clics": 0,
+    "pos": 29.6
+   },
+   {
+    "q": "lattafa khamrah avis",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6.5
+   },
+   {
+    "q": "oui",
+    "imp": 2,
+    "clics": 0,
+    "pos": 13
+   },
+   {
+    "q": "angels share arabe",
+    "imp": 1,
+    "clics": 0,
+    "pos": 18
+   },
+   {
+    "q": "khamrah 2026",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "khamrah lattafa algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 18
+   },
+   {
+    "q": "khamrah zanqam lattafa",
+    "imp": 1,
+    "clics": 0,
+    "pos": 9
+   },
+   {
+    "q": "lattafa khamrah",
+    "imp": 1,
+    "clics": 0,
+    "pos": 12
+   },
+   {
+    "q": "parfum alternative",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "السعر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 5
+   },
+   {
+    "q": "سعر عطر خمرة",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "عربية",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "كم سعره",
+    "imp": 1,
+    "clics": 0,
+    "pos": 4
+   },
+   {
+    "q": "كم سعره في الجزائر",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-original-algerie",
+  "type": "article",
+  "h1": "Parfum Original en Algérie : Guide Complet pour Acheter Authentique en 2026",
+  "titreActuel": "Parfum Original en Algérie — Où Acheter Authentique (2026)",
+  "gsc": {
+   "clics": 8,
+   "imp": 465,
+   "pos": 4.7,
+   "ctr": 1.7
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 156,
+    "clics": 1,
+    "pos": 1.2
+   },
+   {
+    "q": "oui",
+    "imp": 4,
+    "clics": 0,
+    "pos": 3.8
+   },
+   {
+    "q": "numidia parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 12
+   },
+   {
+    "q": "نعم",
+    "imp": 2,
+    "clics": 0,
+    "pos": 4.5
+   },
+   {
+    "q": "parfum original alger",
+    "imp": 1,
+    "clics": 1,
+    "pos": 43
+   },
+   {
+    "q": "algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "designer luxury",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "disponible maintenant",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "louis vuitton",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "numedia",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "ou le trouver en algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 2
+   },
+   {
+    "q": "oui svp",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "parfum manifesto pas cher",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfum original algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 53
+   },
+   {
+    "q": "parfum original algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 29
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-pas-cher-original-algerie",
+  "type": "article",
+  "h1": "Parfum Pas Cher mais Original en Algérie : Le Guide Anti-Arnaque 2026",
+  "titreActuel": "Parfum Pas Cher Original en Algérie — Guide 2026",
+  "gsc": {
+   "clics": 3,
+   "imp": 72,
+   "pos": 5.5,
+   "ctr": 4.2
+  },
+  "requetes": [
+   {
+    "q": "maison numidia",
+    "imp": 7,
+    "clics": 0,
+    "pos": 3.4
+   },
+   {
+    "q": "donne moi les marques",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "oui",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "quelles marques proposent des parfums abordables de qualité ?",
+    "imp": 1,
+    "clics": 0,
+    "pos": 12
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/meilleur-parfum-oud-algerie",
+  "type": "article",
+  "h1": "Meilleur Parfum Oud et Oriental en Algérie 2026 : Le Classement",
+  "titreActuel": "Meilleur Parfum Oud Algérie 2026 — Classement Oriental",
+  "gsc": {
+   "clics": 13,
+   "imp": 320,
+   "pos": 6.5,
+   "ctr": 4.1
+  },
+  "requetes": [
+   {
+    "q": "oud algerien",
+    "imp": 18,
+    "clics": 0,
+    "pos": 6.8
+   },
+   {
+    "q": "meilleur parfum oud",
+    "imp": 4,
+    "clics": 1,
+    "pos": 8.3
+   },
+   {
+    "q": "parfum oud",
+    "imp": 3,
+    "clics": 0,
+    "pos": 26
+   },
+   {
+    "q": "meilleur parfum homme oud",
+    "imp": 2,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "parfum algerien",
+    "imp": 2,
+    "clics": 0,
+    "pos": 6
+   },
+   {
+    "q": "disponible en algérie",
+    "imp": 1,
+    "clics": 1,
+    "pos": 2
+   },
+   {
+    "q": "parfum queen of séduction",
+    "imp": 1,
+    "clics": 1,
+    "pos": 4
+   },
+   {
+    "q": "en algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "hypnotique naga",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "juicy apple parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 7
+   },
+   {
+    "q": "kilian pure oud",
+    "imp": 1,
+    "clics": 0,
+    "pos": 11
+   },
+   {
+    "q": "le meilleur parfum oud homme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "maison maissa alger",
+    "imp": 1,
+    "clics": 0,
+    "pos": 3
+   },
+   {
+    "q": "maison numidia",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "meilleur parfum oud pour homme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/meilleurs-parfums-lattafa",
+  "type": "article",
+  "h1": "Meilleur parfum Lattafa en Algérie : le classement 2026 homme, femme et mixte",
+  "titreActuel": "Meilleur Parfum Lattafa en Algérie : Top 2026 Homme et Femme",
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-ete-homme",
+  "type": "article",
+  "h1": "Parfum Homme Été : 20 Parfums Frais pour la Chaleur Algérienne",
+  "titreActuel": "Parfum Homme Été : 20 Parfums Frais pour l'Algérie",
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/blog/parfum-sucre-vanille-femme",
+  "type": "article",
+  "h1": "Parfum Sucré Femme : les Meilleurs Parfums Vanillés et Gourmands en Algérie",
+  "titreActuel": "Parfum Sucré et Vanille Femme : les Meilleurs en Algérie",
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ }
+]

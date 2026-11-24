@@ -1,0 +1,1837 @@
+[
+ {
+  "chemin": "/parfums/franck-olivier-blue-touch",
+  "type": "produit",
+  "marque": "Franck Olivier",
+  "nom": "Blue Touch",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Franck Olivier Blue Touch Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Bergamote",
+   "Melon",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "blue touch",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/franck-olivier-oud-vanille",
+  "type": "produit",
+  "marque": "Franck Olivier",
+  "nom": "Oud Vanille",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Franck Olivier Oud Vanille Parfum Mixte Algérie",
+  "notes": [
+   "Caramel",
+   "Framboise",
+   "Encens",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "oud vanille",
+   "vol": 50
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/guess-by-marciano",
+  "type": "produit",
+  "marque": "Guess",
+  "nom": "By Marciano",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Guess By Marciano Parfum Femme Algérie",
+  "notes": [
+   "Curaçao",
+   "Cardamome",
+   "Chèvrefeuille",
+   "Vanille"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "by marciano",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/guess-gold",
+  "type": "produit",
+  "marque": "Guess",
+  "nom": "Gold",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Guess Gold Parfum Femme Algérie",
+  "notes": [
+   "Ananas",
+   "Pomme",
+   "Jasmin",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "guess gold",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/guess-seductive-i-m-yours",
+  "type": "produit",
+  "marque": "Guess",
+  "nom": "Seductive I'm Yours",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Guess Seductive I'm Yours Parfum Femme Algérie",
+  "notes": [
+   "Fruit de la passion",
+   "Pivoine",
+   "Magnolia",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "seductive i m yours",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "guess-seductive-homme",
+    "nom": "Seductive Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "guess-seductive-femme",
+    "nom": "Seductive",
+    "conc": "EDT",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/ibraheem-alqurashi-powder-musk",
+  "type": "produit",
+  "marque": "Ibraheem AlQurashi",
+  "nom": "Powder Musk",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Ibraheem AlQurashi Powder Musk Parfum Mixte Algérie",
+  "notes": [
+   "Rose",
+   "Jasmin",
+   "Iris",
+   "Notes poudrées"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "powder musk",
+   "vol": 20
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/ibraheem-alqurashi-arabian-tobacco",
+  "type": "produit",
+  "marque": "Ibraheem AlQurashi",
+  "nom": "Arabian Tobacco",
+  "conc": "EDP",
+  "volume": "200ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Ibraheem AlQurashi Arabian Tobacco Parfum Mixte Algérie",
+  "notes": [
+   "Tabac",
+   "Iris",
+   "Fudge au caramel salé",
+   "Café"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "arabian tobacco",
+   "vol": 110
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/initio-power-self",
+  "type": "produit",
+  "marque": "Initio Parfums Privés",
+  "nom": "Power Self",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Initio Parfums Privés Power Self Parfum Mixte Algérie",
+  "notes": [
+   "Poivre rose",
+   "Rose blanche",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "power self",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-l-eau-d-pivoine",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "L'Eau d'Issey Pivoine",
+  "conc": "EDT",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Issey Miyake L'Eau d'Issey Pivoine Parfum Femme Algérie",
+  "notes": [
+   "Pivoine",
+   "Poire",
+   "Framboise",
+   "Santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau d issey pivoine",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "l-eau-d-issey-femme",
+    "nom": "L'Eau d'Issey",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-d-issey-homme",
+    "nom": "L'Eau d'Issey Pour Homme",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-pure",
+    "nom": "L'Eau d'Issey Pure",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-ambre",
+    "nom": "L'Eau d'Issey Pour Homme Noir Ambré",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-sport",
+    "nom": "L'Eau d'Issey Pour Homme Sport",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-super-majeure-d-issey",
+    "nom": "L'Eau Super Majeure d'Issey",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-solar",
+    "nom": "L'Eau d'Issey pour Homme Solar Lavender",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-wood",
+    "nom": "L'Eau d'Issey pour Homme Wood & Wood",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-a-drop-d-fraiche",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "A Drop d'Issey Fraiche",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Issey Miyake A Drop d'Issey Fraiche Parfum Femme Algérie",
+  "notes": [
+   "Notes de pluie",
+   "Notes aquatiques",
+   "Ambrox"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "a drop d issey fraiche",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "issey-miyake-a-drop-d-issey",
+    "nom": "A Drop d'Issey",
+    "conc": "EDP",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-l-eau-d-pour-homme-cedre",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "L'Eau d'Issey Pour Homme Eau & Cèdre",
+  "conc": "EDT Intense",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Issey Miyake L'Eau d'Issey Pour Homme Eau & Cèdre Parfum Homme Algérie",
+  "notes": [
+   "Cardamome",
+   "Cèdre",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau d issey pour homme eau cedre",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "l-eau-d-issey-femme",
+    "nom": "L'Eau d'Issey",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-d-issey-homme",
+    "nom": "L'Eau d'Issey Pour Homme",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-pure",
+    "nom": "L'Eau d'Issey Pure",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-ambre",
+    "nom": "L'Eau d'Issey Pour Homme Noir Ambré",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-sport",
+    "nom": "L'Eau d'Issey Pour Homme Sport",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-super-majeure-d-issey",
+    "nom": "L'Eau Super Majeure d'Issey",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-solar",
+    "nom": "L'Eau d'Issey pour Homme Solar Lavender",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-wood",
+    "nom": "L'Eau d'Issey pour Homme Wood & Wood",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-l-eau-d-pour-homme-vetiver",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "L'Eau d'Issey pour Homme Vétiver",
+  "conc": "EDT Intense",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Issey Miyake L'Eau d'Issey pour Homme Vétiver Parfum Homme Algérie",
+  "notes": [
+   "Gingembre",
+   "Notes aquatiques",
+   "Sauge sclarée",
+   "Vétiver d'Haïti"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau d issey pour homme vetiver",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "l-eau-d-issey-femme",
+    "nom": "L'Eau d'Issey",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-d-issey-homme",
+    "nom": "L'Eau d'Issey Pour Homme",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-pure",
+    "nom": "L'Eau d'Issey Pure",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-ambre",
+    "nom": "L'Eau d'Issey Pour Homme Noir Ambré",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-sport",
+    "nom": "L'Eau d'Issey Pour Homme Sport",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-super-majeure-d-issey",
+    "nom": "L'Eau Super Majeure d'Issey",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-solar",
+    "nom": "L'Eau d'Issey pour Homme Solar Lavender",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-wood",
+    "nom": "L'Eau d'Issey pour Homme Wood & Wood",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-l-eau-d-pure-nectar",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "L'Eau d'Issey Pure Nectar de Parfum",
+  "conc": "EDP",
+  "volume": "90ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Issey Miyake L'Eau d'Issey Pure Nectar de Parfum Parfum Femme Algérie",
+  "notes": [
+   "Miel",
+   "Poire",
+   "Rose",
+   "Cashmeran"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau d issey pure nectar de parfum",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "l-eau-d-issey-femme",
+    "nom": "L'Eau d'Issey",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-d-issey-homme",
+    "nom": "L'Eau d'Issey Pour Homme",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-pure",
+    "nom": "L'Eau d'Issey Pure",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-ambre",
+    "nom": "L'Eau d'Issey Pour Homme Noir Ambré",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-sport",
+    "nom": "L'Eau d'Issey Pour Homme Sport",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-super-majeure-d-issey",
+    "nom": "L'Eau Super Majeure d'Issey",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-solar",
+    "nom": "L'Eau d'Issey pour Homme Solar Lavender",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-wood",
+    "nom": "L'Eau d'Issey pour Homme Wood & Wood",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-l-eau-d-solar-violet",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "L'Eau d'Issey Solar Violet",
+  "conc": "EDT Intense",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Issey Miyake L'Eau d'Issey Solar Violet Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Violette",
+   "Iris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau d issey solar violet",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "l-eau-d-issey-femme",
+    "nom": "L'Eau d'Issey",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-d-issey-homme",
+    "nom": "L'Eau d'Issey Pour Homme",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-pure",
+    "nom": "L'Eau d'Issey Pure",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-ambre",
+    "nom": "L'Eau d'Issey Pour Homme Noir Ambré",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-sport",
+    "nom": "L'Eau d'Issey Pour Homme Sport",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-super-majeure-d-issey",
+    "nom": "L'Eau Super Majeure d'Issey",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-solar",
+    "nom": "L'Eau d'Issey pour Homme Solar Lavender",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-wood",
+    "nom": "L'Eau d'Issey pour Homme Wood & Wood",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jacadi-mademoiselle-petite-cerise",
+  "type": "produit",
+  "marque": "Jacadi",
+  "nom": "Mademoiselle Petite Cerise",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jacadi Mademoiselle Petite Cerise Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Mandarine",
+   "Rose",
+   "Ambroxan"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "mademoiselle petite cerise",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "jacadi-mademoiselle",
+    "nom": "Mademoiselle",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jimmy-choo-amber-kiss",
+  "type": "produit",
+  "marque": "Jimmy Choo",
+  "nom": "Amber Kiss",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jimmy Choo Amber Kiss Parfum Femme Algérie",
+  "notes": [
+   "Poivre Rose",
+   "Bergamote",
+   "Daim",
+   "Ambre Gris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "amber kiss",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jimmy-choo-man-extreme",
+  "type": "produit",
+  "marque": "Jimmy Choo",
+  "nom": "Man Extreme",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Jimmy Choo Man Extreme Parfum Homme Algérie",
+  "notes": [
+   "Thym Rouge",
+   "Poivre Noir",
+   "Sauge",
+   "Notes Boisees"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "jimmy-choo-man-blue",
+    "nom": "Man Blue",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "jimmy-choo-man-ice",
+    "nom": "Man Ice",
+    "conc": "EDT",
+    "vol": "200ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jimmy-choo-radiant-tuberose",
+  "type": "produit",
+  "marque": "Jimmy Choo",
+  "nom": "Radiant Tuberose",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jimmy Choo Radiant Tuberose Parfum Femme Algérie",
+  "notes": [
+   "Neroli",
+   "Jasmin",
+   "Tubereuse",
+   "Musc Blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "radiant tuberose",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jimmy-choo-iris-crush",
+  "type": "produit",
+  "marque": "Jimmy Choo",
+  "nom": "Iris Crush",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jimmy Choo Iris Crush Parfum Femme Algérie",
+  "notes": [
+   "Freesia",
+   "Neroli",
+   "Iris",
+   "Feve Tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "iris crush",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jimmy-choo-vanilla-love",
+  "type": "produit",
+  "marque": "Jimmy Choo",
+  "nom": "Vanilla Love",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "femme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Jimmy Choo Vanilla Love Parfum Femme Algérie",
+  "notes": [
+   "Myrrhe",
+   "Poivre Noir",
+   "Vanille",
+   "Caramel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "vanilla love",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jo-malone-jasmine-sambac-marigold",
+  "type": "produit",
+  "marque": "Jo Malone London",
+  "nom": "Jasmine Sambac & Marigold",
+  "conc": "Cologne",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jo Malone London Jasmine Sambac & Marigold Parfum Femme Algérie",
+  "notes": [
+   "Souci",
+   "Jasmin sambac",
+   "Benjoin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "jasmine sambac marigold",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jo-malone-pomegranate-noir",
+  "type": "produit",
+  "marque": "Jo Malone London",
+  "nom": "Pomegranate Noir",
+  "conc": "Cologne",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Jo Malone London Pomegranate Noir Parfum Mixte Algérie",
+  "notes": [
+   "Grenade",
+   "Rhubarbe",
+   "Clou de girofle",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "pomegranate noir",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/juicy-couture-i-am",
+  "type": "produit",
+  "marque": "Juicy Couture",
+  "nom": "I Am",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Juicy Couture I Am Parfum Femme Algérie",
+  "notes": [
+   "Framboise",
+   "Pomelo",
+   "Gardenia",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "i am",
+   "vol": 1300
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/juicy-couture-viva-la-le-bubbly",
+  "type": "produit",
+  "marque": "Juicy Couture",
+  "nom": "Viva La Juicy Le Bubbly",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Juicy Couture Viva La Juicy Le Bubbly Parfum Femme Algérie",
+  "notes": [
+   "Champagne",
+   "Baies sauvages",
+   "Gardenia",
+   "Praline"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "viva la juicy le bubbly",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "juicy-couture-viva-la-noir",
+    "nom": "Viva La Juicy Noir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "juicy-couture-viva-la-gold",
+    "nom": "Viva la Juicy Gold Couture",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "juicy-couture-viva-la-neon",
+    "nom": "Viva La Juicy Neon",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "juicy-couture-viva-la-rose",
+    "nom": "Viva La Juicy Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/juicy-couture-viva-la-neon",
+  "type": "produit",
+  "marque": "Juicy Couture",
+  "nom": "Viva La Juicy Neon",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Juicy Couture Viva La Juicy Neon Parfum Femme Algérie",
+  "notes": [
+   "Pamplemousse rose",
+   "Fleur d'oranger",
+   "Feve tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "viva la juicy neon",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "juicy-couture-viva-la-noir",
+    "nom": "Viva La Juicy Noir",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "juicy-couture-viva-la-gold",
+    "nom": "Viva la Juicy Gold Couture",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "juicy-couture-viva-la-le-bubbly",
+    "nom": "Viva La Juicy Le Bubbly",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "juicy-couture-viva-la-rose",
+    "nom": "Viva La Juicy Rose",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/karl-lagerfeld-fleur-de-pecher",
+  "type": "produit",
+  "marque": "Karl Lagerfeld",
+  "nom": "Fleur de Pecher",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Karl Lagerfeld Fleur de Pecher Parfum Femme Algérie",
+  "notes": [
+   "Yuzu",
+   "Poire",
+   "Fleur de pêcher",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "fleur de pecher",
+   "vol": 30
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "karl-lagerfeld-fleur-de-murier",
+    "nom": "Fleur de Mûrier",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "karl-lagerfeld-fleur-d-orchidee",
+    "nom": "Fleur d'Orchidée",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/karl-lagerfeld-paradise-bay-for-men",
+  "type": "produit",
+  "marque": "Karl Lagerfeld",
+  "nom": "Paradise Bay for Men",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Karl Lagerfeld Paradise Bay for Men Parfum Homme Algérie",
+  "notes": [
+   "Pomme",
+   "Menthe",
+   "Feuille de violette",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "paradise bay for men",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "karl-lagerfeld-paradise-bay-for-women",
+    "nom": "Paradise Bay For Women",
+    "conc": "EDP",
+    "vol": "85ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/karl-lagerfeld-paris-21-rue-saint-guillaume",
+  "type": "produit",
+  "marque": "Karl Lagerfeld",
+  "nom": "Karl Paris 21 Rue Saint-Guillaume",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Karl Lagerfeld Karl Paris 21 Rue Saint-Guillaume Parfum Femme Algérie",
+  "notes": [
+   "Agrumes",
+   "Feuille de violette",
+   "Rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "karl paris 21 rue saint guillaume",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "karl-lagerfeld-new-york-mercer-street",
+    "nom": "Karl New York Mercer Street",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kayali-oudgasm-smoky-oud-07",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Oudgasm Smoky Oud 07",
+  "conc": "EDP Intense",
+  "volume": "50ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Kayali Oudgasm Smoky Oud 07 Parfum Mixte Algérie",
+  "notes": [
+   "Rhum",
+   "Safran",
+   "Géranium",
+   "Oud"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "oudgasm smoky oud 07",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kayali-citrus-08",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Citrus 08",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Kayali Citrus 08 Parfum Mixte Algérie",
+  "notes": [
+   "Pamplemousse rose",
+   "Bergamote",
+   "Rose bulgare",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "citrus 08",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kayali-invite-only-amber-23",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Invite Only Amber 23",
+  "conc": "EDP Intense",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Kayali Invite Only Amber 23 Parfum Mixte Algérie",
+  "notes": [
+   "Feuille de tabac",
+   "Cerise acide",
+   "Cannelle de Ceylan",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "invite only amber 23",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kayali-fleur-majesty-rose-royale-31",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Fleur Majesty Rose Royale 31",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kayali Fleur Majesty Rose Royale 31 Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Pêche",
+   "Rose",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "fleur majesty rose royale 31",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kayali-sweet-diamond-pink-pepper-25",
+  "type": "produit",
+  "marque": "Kayali",
+  "nom": "Sweet Diamond Pink Pepper 25",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kayali Sweet Diamond Pink Pepper 25 Parfum Mixte Algérie",
+  "notes": [
+   "Poivre rose",
+   "Safran",
+   "Rose bulgare",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "sweet diamond pink pepper 25",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/aqua-kenzo-pour-femme",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Aqua Kenzo pour Femme",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Aqua Kenzo pour Femme Parfum Femme Algérie",
+  "notes": [
+   "Feuille de Framboisier",
+   "Mandarine",
+   "Magnolia",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "aqua kenzo pour femme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "aqua-kenzo-pour-homme",
+    "nom": "Aqua Kenzo pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/aqua-kenzo-pour-homme",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Aqua Kenzo pour Homme",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Aqua Kenzo pour Homme Parfum Homme Algérie",
+  "notes": [
+   "Pomme",
+   "Poivre rose",
+   "Noisette",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "aqua kenzo pour homme",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "aqua-kenzo-pour-femme",
+    "nom": "Aqua Kenzo pour Femme",
+    "conc": "EDT",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kenzo-flower-poppy-bouquet",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Flower Poppy Bouquet",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kenzo Flower Poppy Bouquet Parfum Femme Algérie",
+  "notes": [
+   "Feuille de Thé",
+   "Mandarine",
+   "Jasmin Sambac",
+   "Musc Blanc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "flower poppy bouquet",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-flower",
+    "nom": "Flower by Kenzo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-in-the-air",
+    "nom": "Flower In The Air",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-eau-de-vie",
+    "nom": "Flower Eau de Vie",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-l-absolue",
+    "nom": "Flower L'Absolue",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-indigo",
+    "nom": "Flower Ikebana Indigo",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-cherry-poppy",
+    "nom": "Flower Cherry Poppy",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-mimosa",
+    "nom": "Flower Ikebana Mimosa",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana",
+    "nom": "Flower Ikebana",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kenzo-flower-ikebana-mimosa",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Flower Ikebana Mimosa",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kenzo Flower Ikebana Mimosa Parfum Femme Algérie",
+  "notes": [
+   "Kumquat",
+   "Absolu de Mimosa",
+   "Bois de Hinoki"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "flower ikebana mimosa",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-flower",
+    "nom": "Flower by Kenzo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-in-the-air",
+    "nom": "Flower In The Air",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-eau-de-vie",
+    "nom": "Flower Eau de Vie",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-l-absolue",
+    "nom": "Flower L'Absolue",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-indigo",
+    "nom": "Flower Ikebana Indigo",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-cherry-poppy",
+    "nom": "Flower Cherry Poppy",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-poppy-bouquet",
+    "nom": "Flower Poppy Bouquet",
+    "conc": "EDT",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana",
+    "nom": "Flower Ikebana",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kenzo-flower-ikebana",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Flower Ikebana",
+  "conc": "EDP",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kenzo Flower Ikebana Parfum Femme Algérie",
+  "notes": [
+   "Thé",
+   "Tubéreuse Indienne",
+   "Santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "flower ikebana",
+   "vol": 10
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-flower",
+    "nom": "Flower by Kenzo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-in-the-air",
+    "nom": "Flower In The Air",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-eau-de-vie",
+    "nom": "Flower Eau de Vie",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-l-absolue",
+    "nom": "Flower L'Absolue",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-indigo",
+    "nom": "Flower Ikebana Indigo",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-flower-cherry-poppy",
+    "nom": "Flower Cherry Poppy",
+    "conc": "EDP",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-poppy-bouquet",
+    "nom": "Flower Poppy Bouquet",
+    "conc": "EDT",
+    "vol": "50ml"
+   },
+   {
+    "slug": "kenzo-flower-ikebana-mimosa",
+    "nom": "Flower Ikebana Mimosa",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kenzo-jeu-d-amour-l-elixir",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Jeu d'Amour l'Elixir",
+  "conc": "EDP Intense",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Kenzo Jeu d'Amour l'Elixir Parfum Femme Algérie",
+  "notes": [
+   "Mûre",
+   "Mandarine",
+   "Tubéreuse",
+   "Caramel"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "jeu d amour l elixir",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-jeu-d-amour",
+    "nom": "Jeu d'Amour",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/l-eau-kenzo-pour-homme-hyper-wave",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "L'Eau Kenzo Pour Homme Hyper Wave",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "L'Eau Kenzo Pour Homme Hyper Wave Parfum Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Notes Marines",
+   "Mousse"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": {
+   "k": "l eau kenzo pour homme hyper wave",
+   "vol": 0
+  },
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-l-eau-homme",
+    "nom": "L'Eau par Kenzo",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-l-eau-kenzo-femme",
+    "nom": "L'Eau Kenzo pour Femme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-l-eau-ambree",
+    "nom": "L'Eau Ambrée",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-kenzo-intense-pour-homme",
+    "nom": "L'Eau Kenzo Intense pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-l-eau-pure",
+    "nom": "L'Eau Pure",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-kenzo-boisee",
+    "nom": "L'Eau Kenzo Boisée",
+    "conc": "EDT",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ }
+]

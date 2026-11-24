@@ -1,0 +1,1412 @@
+{
+ "slug": "bvlgari",
+ "nom": "Bvlgari",
+ "origine": "Italie",
+ "descriptionActuelle": "Joaillier romain fondé en 1884, Bvlgari a su transposer son héritage méditerranéen dans des parfums d'une grande sophistication. Pour Homme Soir incarne l'élégance nocturne italienne. Disponible en Algérie chez Maison Numidia.",
+ "nbFiches": 41,
+ "pages": [
+  {
+   "chemin": "/marques/bvlgari",
+   "gsc": {
+    "clics": 55,
+    "imp": 1371,
+    "pos": 5.2,
+    "ctr": 4
+   },
+   "requetes": [
+    {
+     "q": "maison numidia",
+     "imp": 121,
+     "clics": 0,
+     "pos": 1.1
+    },
+    {
+     "q": "bvlgari parfum",
+     "imp": 92,
+     "clics": 1,
+     "pos": 8.2
+    },
+    {
+     "q": "parfum bvlgari",
+     "imp": 29,
+     "clics": 0,
+     "pos": 11.8
+    },
+    {
+     "q": "parfum bulgarie",
+     "imp": 23,
+     "clics": 0,
+     "pos": 7.6
+    },
+    {
+     "q": "parfum bvlgari pour femme",
+     "imp": 20,
+     "clics": 0,
+     "pos": 8.5
+    },
+    {
+     "q": "bvlgari omnia",
+     "imp": 17,
+     "clics": 0,
+     "pos": 8.5
+    },
+    {
+     "q": "bulgari parfums",
+     "imp": 12,
+     "clics": 0,
+     "pos": 7.4
+    },
+    {
+     "q": "bvlgari parfum femme",
+     "imp": 11,
+     "clics": 0,
+     "pos": 7.1
+    },
+    {
+     "q": "bvlgari perfume",
+     "imp": 11,
+     "clics": 0,
+     "pos": 5.5
+    },
+    {
+     "q": "bulgarie parfum",
+     "imp": 10,
+     "clics": 0,
+     "pos": 7
+    },
+    {
+     "q": "parfum bulgari",
+     "imp": 7,
+     "clics": 0,
+     "pos": 2.4
+    },
+    {
+     "q": "parfum bvlgari omnia",
+     "imp": 7,
+     "clics": 0,
+     "pos": 3.1
+    }
+   ],
+   "motsCles": [
+    {
+     "k": "bvlgari parfum",
+     "vol": 320,
+     "notrePos": 18
+    },
+    {
+     "k": "bvlgari tygar prix",
+     "vol": 90,
+     "posMust": 10,
+     "notrePos": null
+    },
+    {
+     "k": "aqva bvlgari",
+     "vol": 40,
+     "posMust": 2,
+     "notrePos": null
+    },
+    {
+     "k": "bvlgari jasmin noir",
+     "vol": 30,
+     "posMust": 4,
+     "notrePos": null
+    }
+   ]
+  },
+  {
+   "chemin": "/parfums-homme/bvlgari",
+   "gsc": {
+    "clics": 0,
+    "imp": 17,
+    "pos": 8.2,
+    "ctr": 0
+   },
+   "requetes": [
+    {
+     "q": "parfum bvlgari pour homme",
+     "imp": 3,
+     "clics": 0,
+     "pos": 15.3
+    },
+    {
+     "q": "bvlgari pour homme soir",
+     "imp": 1,
+     "clics": 0,
+     "pos": 2
+    },
+    {
+     "q": "son prix en algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 3
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-femme/bvlgari",
+   "gsc": {
+    "clics": 1,
+    "imp": 74,
+    "pos": 9.6,
+    "ctr": 1.4
+   },
+   "requetes": [
+    {
+     "q": "bvlgari parfum",
+     "imp": 1,
+     "clics": 0,
+     "pos": 41
+    },
+    {
+     "q": "bvlgari parfum femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 37
+    },
+    {
+     "q": "en algérie",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "parfum bvlgari",
+     "imp": 1,
+     "clics": 0,
+     "pos": 95
+    },
+    {
+     "q": "parfum bvlgari pour femme",
+     "imp": 1,
+     "clics": 0,
+     "pos": 1
+    },
+    {
+     "q": "سعرها في الحزائر",
+     "imp": 1,
+     "clics": 0,
+     "pos": 4
+    },
+    {
+     "q": "في الجزاىر",
+     "imp": 1,
+     "clics": 0,
+     "pos": 6
+    },
+    {
+     "q": "كم سعره",
+     "imp": 1,
+     "clics": 0,
+     "pos": 22
+    }
+   ],
+   "motsCles": []
+  },
+  {
+   "chemin": "/parfums-orientaux/bvlgari",
+   "gsc": {
+    "clics": 2,
+    "imp": 11,
+    "pos": 10.7,
+    "ctr": 18.2
+   },
+   "requetes": [
+    {
+     "q": "bvlgari",
+     "imp": 1,
+     "clics": 0,
+     "pos": 14
+    }
+   ],
+   "motsCles": []
+  }
+ ],
+ "fiches": [
+  {
+   "slug": "bvlgari-jasmin-noir",
+   "nom": "Jasmin Noir",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 28500,
+   "notes": {
+    "top": [
+     "Gardénia",
+     "Notes vertes"
+    ],
+    "heart": [
+     "Jasmin Sambac",
+     "Amande"
+    ],
+    "base": [
+     "Fève tonka",
+     "Réglisse",
+     "Bois précieux",
+     "Musc",
+     "Ambre",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 1277,
+   "clics90j": 68,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "bvlgari-man-in-black",
+   "nom": "Man in Black",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Rhum",
+     "Épices"
+    ],
+    "heart": [
+     "Tubéreuse",
+     "Iris absolu",
+     "Cuir"
+    ],
+    "base": [
+     "Benjoin",
+     "Fève tonka",
+     "Bois de gaïac"
+    ]
+   },
+   "imp90j": 552,
+   "clics90j": 25,
+   "volumeRecherche": 260
+  },
+  {
+   "slug": "bvlgari-aqva-amara",
+   "nom": "Aqva Amara",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Boisé",
+   "enStock": false,
+   "prix": 23500,
+   "notes": {
+    "top": [
+     "Mandarine de Sicile"
+    ],
+    "heart": [
+     "Notes aquatiques",
+     "Néroli"
+    ],
+    "base": [
+     "Oliban",
+     "Feuille de patchouli indonésien"
+    ]
+   },
+   "imp90j": 959,
+   "clics90j": 48,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-omnia-crystalline",
+   "nom": "Omnia Crystalline",
+   "conc": "EDT",
+   "volume": "65ml",
+   "genre": "femme",
+   "famille": "Aquatique Floral",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Eau de bambou",
+     "Notes aquatiques",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fleur de lotus",
+     "Magnolia",
+     "Gardénia"
+    ],
+    "base": [
+     "Musc blanc",
+     "Ambre blanc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 562,
+   "clics90j": 32,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-goldea",
+   "nom": "Goldea",
+   "conc": "EDP",
+   "volume": "90ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 24500,
+   "notes": {
+    "top": [
+     "Musc Cristal",
+     "Fleur d'Oranger",
+     "Framboise",
+     "Bergamote"
+    ],
+    "heart": [
+     "Musc Doré",
+     "Ylang-Ylang",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc Velouté",
+     "Ambre",
+     "Patchouli",
+     "Papyrus Égyptien"
+    ]
+   },
+   "imp90j": 350,
+   "clics90j": 10,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "bvlgari-eau-parfumee-au-the-noir",
+   "nom": "Eau Parfumée au Thé Noir",
+   "conc": "EDC",
+   "volume": "75ml",
+   "genre": "unisexe",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 21500,
+   "notes": {
+    "top": [
+     "Thé noir",
+     "Cuir",
+     "Tabac",
+     "Rose de Damas",
+     "Bois d'agar (Oud)",
+     "Notes boisées",
+     "Patchouli"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 324,
+   "clics90j": 12,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-pour-homme",
+   "nom": "Bvlgari Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Thé",
+     "Bergamote",
+     "Mandarine"
+    ],
+    "heart": [
+     "Iris",
+     "Géranium rosat",
+     "Poivre"
+    ],
+    "base": [
+     "Cèdre",
+     "Mousse de chêne",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 214,
+   "clics90j": 4,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "bvlgari-rose-essentielle",
+   "nom": "Rose Essentielle",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Rose",
+   "enStock": false,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Rose",
+     "Violette",
+     "Mûre"
+    ],
+    "heart": [
+     "Rose de Taëf",
+     "Mimosa",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc",
+     "Bois de Santal",
+     "Patchouli",
+     "Bois de Gaïac"
+    ]
+   },
+   "imp90j": 244,
+   "clics90j": 7,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-splendida-rose-rose",
+   "nom": "Splendida Rose Rose",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Rose",
+   "enStock": true,
+   "prix": 28000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Mûre"
+    ],
+    "heart": [
+     "Rose Damascène"
+    ],
+    "base": [
+     "Patchouli",
+     "Bois de Santal",
+     "Vétiver",
+     "Musc"
+    ]
+   },
+   "imp90j": 227,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bulgari-omnia",
+   "nom": "Omnia",
+   "conc": "EDP",
+   "volume": "65ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Safran",
+     "Mandarine"
+    ],
+    "heart": [
+     "Chai masala",
+     "Muscade",
+     "Cannelle"
+    ],
+    "base": [
+     "Chocolat blanc",
+     "Santal",
+     "Bois de gaïac"
+    ]
+   },
+   "imp90j": 86,
+   "clics90j": 2,
+   "volumeRecherche": 50
+  },
+  {
+   "slug": "bvlgari-omnia-coral",
+   "nom": "Omnia Coral",
+   "conc": "EDT",
+   "volume": "65ml",
+   "genre": "femme",
+   "famille": "Floral Fruité",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Baies de goji"
+    ],
+    "heart": [
+     "Nénuphar",
+     "Hibiscus",
+     "Grenade"
+    ],
+    "base": [
+     "Musc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 180,
+   "clics90j": 7,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-falkar",
+   "nom": "Falkar",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Oriental",
+   "enStock": true,
+   "prix": 82000,
+   "notes": {
+    "top": [
+     "Noix de muscade",
+     "Cannelle"
+    ],
+    "heart": [
+     "Cypriol (Nagarmotha)",
+     "Oliban"
+    ],
+    "base": [
+     "Oud",
+     "Musc noir",
+     "Safran"
+    ]
+   },
+   "imp90j": 117,
+   "clics90j": 6,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "bvlgari-pour-femme",
+   "nom": "Pour Femme",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": false,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Violette",
+     "Œillet",
+     "Framboise",
+     "Pêche",
+     "Coriandre",
+     "Fleur d'oranger",
+     "Poivre du Sichuan",
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris",
+     "Rose de Bulgarie",
+     "Héliotrope",
+     "Racine d'iris",
+     "Jasmin d'Égypte",
+     "Muguet"
+    ],
+    "base": [
+     "Musc",
+     "Thé vert",
+     "Notes boisées",
+     "Bois de santal",
+     "Vanille",
+     "Ambre",
+     "Benjoin",
+     "Styrax",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 145,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-omnia-amethyste",
+   "nom": "Omnia Amethyste",
+   "conc": "EDT",
+   "volume": "65ml",
+   "genre": "femme",
+   "famille": "Floral Boisé",
+   "enStock": true,
+   "prix": 19000,
+   "notes": {
+    "top": [
+     "Pamplemousse rose",
+     "Accord de sève verte"
+    ],
+    "heart": [
+     "Iris",
+     "Rose absolue"
+    ],
+    "base": [
+     "Héliotrope",
+     "Bois solaire"
+    ]
+   },
+   "imp90j": 112,
+   "clics90j": 6,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-man-wood-neroli",
+   "nom": "Man Wood Neroli",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Boisé",
+   "enStock": true,
+   "prix": 20500,
+   "notes": {
+    "top": [
+     "Néroli",
+     "Bergamote"
+    ],
+    "heart": [
+     "Fleur d'oranger absolue",
+     "Cèdre de Virginie",
+     "Cypriol"
+    ],
+    "base": [
+     "Musc blanc",
+     "Ambre gris",
+     "Cuir"
+    ]
+   },
+   "imp90j": 88,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-aqva",
+   "nom": "Aqva Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aquatique Aromatique",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Orange",
+     "Petitgrain"
+    ],
+    "heart": [
+     "Algue",
+     "Lavande",
+     "Fleur de coton"
+    ],
+    "base": [
+     "Cèdre de Virginie",
+     "Notes boisées",
+     "Patchouli",
+     "Sauge sclarée",
+     "Ambre"
+    ]
+   },
+   "imp90j": 84,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-goldea-the-roman-night-absolute",
+   "nom": "Goldea The Roman Night Absolute",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Chypré Floral",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Prune",
+     "Fleur d'oranger"
+    ],
+    "heart": [
+     "Vanille de Madagascar",
+     "Jasmin Sambac"
+    ],
+    "base": [
+     "Patchouli",
+     "Musc noir",
+     "Mousse"
+    ]
+   },
+   "imp90j": 84,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-orom",
+   "nom": "Orom",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Oriental Vanillé",
+   "enStock": true,
+   "prix": 83000,
+   "notes": {
+    "top": [
+     "Vanille bourbon"
+    ],
+    "heart": [
+     "Benjoin de Siam"
+    ],
+    "base": [
+     "Oud"
+    ]
+   },
+   "imp90j": 44,
+   "clics90j": 0,
+   "volumeRecherche": 20
+  },
+  {
+   "slug": "bvlgari-goldea-roman-night",
+   "nom": "Goldea Roman Night",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Chypré",
+   "enStock": true,
+   "prix": 21000,
+   "notes": {
+    "top": [
+     "Mûre",
+     "Poivre noir",
+     "Bergamote"
+    ],
+    "heart": [
+     "Jasmin de nuit",
+     "Pivoine",
+     "Tubéreuse",
+     "Rose"
+    ],
+    "base": [
+     "Musc noir",
+     "Patchouli",
+     "Vétiver",
+     "Mousse"
+    ]
+   },
+   "imp90j": 61,
+   "clics90j": 5,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-yasep",
+   "nom": "Yasep",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Boisé Musqué",
+   "enStock": true,
+   "prix": 94000,
+   "notes": {
+    "top": [
+     "Mandarine de Sicile",
+     "Poivre du Sichuan"
+    ],
+    "heart": [
+     "Bois de Santal",
+     "Cèdre"
+    ],
+    "base": [
+     "Musc",
+     "Amyris",
+     "Vétiver"
+    ]
+   },
+   "imp90j": 61,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-aqva-divina",
+   "nom": "Aqva Divina",
+   "conc": "EDT",
+   "volume": "60ml",
+   "genre": "femme",
+   "famille": "Floral Marin",
+   "enStock": true,
+   "prix": 17500,
+   "notes": {
+    "top": [
+     "Sel",
+     "Gingembre",
+     "Bergamote"
+    ],
+    "heart": [
+     "Coing",
+     "Magnolia"
+    ],
+    "base": [
+     "Bois",
+     "Cire d'Abeille",
+     "Ambre"
+    ]
+   },
+   "imp90j": 58,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-le-gemme-kobraa",
+   "nom": "Le Gemme Kobraa",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Oriental Fougere",
+   "enStock": true,
+   "prix": 96500,
+   "notes": {
+    "top": [
+     "Notes epicees fraiches"
+    ],
+    "heart": [
+     "Ambre"
+    ],
+    "base": [
+     "Oud",
+     "Epices chaudes"
+    ]
+   },
+   "imp90j": 57,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-sahare",
+   "nom": "Sahare",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "unisexe",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 85000,
+   "notes": {
+    "top": [
+     "Citron",
+     "Bergamote"
+    ],
+    "heart": [
+     "Rose de Taëf",
+     "Poivre noir"
+    ],
+    "base": [
+     "Ambre gris",
+     "Myrrhe"
+    ]
+   },
+   "imp90j": 54,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-pour-homme-soir",
+   "nom": "Pour Homme Soir",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": false,
+   "prix": 34500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Thé Earl Grey",
+     "Mandarine"
+    ],
+    "heart": [
+     "Labdanum",
+     "Cardamome",
+     "Vétiver"
+    ],
+    "base": [
+     "Cèdre",
+     "Musc Blanc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 80,
+   "clics90j": 6,
+   "volumeRecherche": 0
+  },
+  {
+   "slug": "bvlgari-splendida-magnolia",
+   "nom": "Splendida Magnolia Sensuel",
+   "conc": "EDP",
+   "volume": "50ml",
+   "genre": "femme",
+   "famille": "Floral Crémeux",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Fleur d'oranger",
+     "Mandarine"
+    ],
+    "heart": [
+     "Magnolia",
+     "Fleur d'oranger",
+     "Jasmin"
+    ],
+    "base": [
+     "Musc",
+     "Vanille de Tahiti",
+     "Patchouli"
+    ]
+   },
+   "imp90j": 50,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-rubinia",
+   "nom": "Rubinia",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Oriental Boise",
+   "enStock": true,
+   "prix": 82500,
+   "notes": {
+    "top": [
+     "Mandarine de Sicile"
+    ],
+    "heart": [
+     "Baume de copaiba",
+     "Santal",
+     "Fleur d'oranger",
+     "Jasmin"
+    ],
+    "base": [
+     "Vanille",
+     "Feve tonka",
+     "Safran",
+     "Violette",
+     "Bois d'agar (Oud)"
+    ]
+   },
+   "imp90j": 45,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-blv",
+   "nom": "BLV",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 13500,
+   "notes": {
+    "top": [
+     "Gingembre",
+     "Bergamote"
+    ],
+    "heart": [
+     "Glycine",
+     "Lin"
+    ],
+    "base": [
+     "Musc",
+     "Bois de santal",
+     "Robinier noir",
+     "Vanille"
+    ]
+   },
+   "imp90j": 35,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-rose-goldea-blossom-delight",
+   "nom": "Rose Goldea Blossom Delight",
+   "conc": "EDP",
+   "volume": "75ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 25000,
+   "notes": {
+    "top": [
+     "Papaye",
+     "Feuille de violette",
+     "Jasmin"
+    ],
+    "heart": [
+     "Rose",
+     "Feuille de rose",
+     "Muguet"
+    ],
+    "base": [
+     "Rose de Bulgarie",
+     "Musc blanc",
+     "Ambre"
+    ]
+   },
+   "imp90j": 33,
+   "clics90j": 3,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-le-gemme-azaran",
+   "nom": "Le Gemme Azaran",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Oriental Boisé",
+   "enStock": true,
+   "prix": 105000,
+   "notes": {
+    "top": [
+     "Safran",
+     "Bergamote"
+    ],
+    "heart": [
+     "Thé vert",
+     "Bois de cèdre"
+    ],
+    "base": [
+     "Cuir",
+     "Cire d'abeille",
+     "Notes boisées"
+    ]
+   },
+   "imp90j": 26,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-man-rain-essence",
+   "nom": "Man Rain Essence",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Floral Boisé Musqué",
+   "enStock": true,
+   "prix": 24000,
+   "notes": {
+    "top": [
+     "Thé vert",
+     "Orange"
+    ],
+    "heart": [
+     "Lotus blanc",
+     "Musc"
+    ],
+    "base": [
+     "Bois de gaïac",
+     "Ambre"
+    ]
+   },
+   "imp90j": 26,
+   "clics90j": 4,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-man-terrae-essence",
+   "nom": "Man Terrae Essence",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Cédrat",
+     "Calamansi"
+    ],
+    "heart": [
+     "Vétiver",
+     "Racine d'iris"
+    ],
+    "base": [
+     "Notes terreuses",
+     "Styrax"
+    ]
+   },
+   "imp90j": 26,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-blv-pour-homme",
+   "nom": "BLV Pour Homme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 22000,
+   "notes": {
+    "top": [
+     "Cardamome",
+     "Bois de santal"
+    ],
+    "heart": [
+     "Gingembre",
+     "Genévrier",
+     "Galanga"
+    ],
+    "base": [
+     "Fleur de tabac",
+     "Feuilles vertes",
+     "Bois de teck"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 2,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-man-extreme",
+   "nom": "Man Extreme",
+   "conc": "EDT",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Boisé Aromatique",
+   "enStock": true,
+   "prix": 27000,
+   "notes": {
+    "top": [
+     "Jus de cactus",
+     "Bergamote de Calabre",
+     "Pamplemousse rose"
+    ],
+    "heart": [
+     "Cardamome du Guatemala",
+     "Freesia",
+     "Ambre"
+    ],
+    "base": [
+     "Vétiver d'Haïti",
+     "Notes boisées",
+     "Benjoin"
+    ]
+   },
+   "imp90j": 24,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-onekh",
+   "nom": "Onekh",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Cuir Épicé",
+   "enStock": true,
+   "prix": 97000,
+   "notes": {
+    "top": [
+     "Mandarine",
+     "Géranium"
+    ],
+    "heart": [
+     "Oud malacensis",
+     "Labdanum fumé"
+    ],
+    "base": [
+     "Encens noir",
+     "Caramel",
+     "Bois de santal"
+    ]
+   },
+   "imp90j": 23,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-ashlemah",
+   "nom": "Ashlemah",
+   "conc": "EDP",
+   "volume": "30ml",
+   "genre": "femme",
+   "famille": "Floral Poudré",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Poudré",
+     "Violette",
+     "Lavande",
+     "Floral",
+     "Vanille",
+     "Aromatique",
+     "Amande",
+     "Épicé frais"
+    ],
+    "heart": [],
+    "base": []
+   },
+   "imp90j": 22,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-splendida-patchouli-tentation",
+   "nom": "Splendida Patchouli Tentation",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Chypré Floral",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Patchouli",
+     "Pêche blanche"
+    ],
+    "heart": [
+     "Patchouli",
+     "Racine d'iris"
+    ],
+    "base": [
+     "Feuille de patchouli indonésien",
+     "Musc blanc"
+    ]
+   },
+   "imp90j": 17,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-le-gemme-empyr",
+   "nom": "Le Gemme Empyr",
+   "conc": "EDP",
+   "volume": "125ml",
+   "genre": "homme",
+   "famille": "Boisé Épicé",
+   "enStock": true,
+   "prix": 105000,
+   "notes": {
+    "top": [
+     "Gingembre"
+    ],
+    "heart": [
+     "Gingembre"
+    ],
+    "base": [
+     "Bois de santal",
+     "Ciste"
+    ]
+   },
+   "imp90j": 11,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-splendida-tubereuse-mystique",
+   "nom": "Splendida Tubereuse Mystique",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": true,
+   "prix": 20000,
+   "notes": {
+    "top": [
+     "Cassis",
+     "Davana"
+    ],
+    "heart": [
+     "Tubéreuse Absolue"
+    ],
+    "base": [
+     "Vanille Absolue",
+     "Myrrhe"
+    ]
+   },
+   "imp90j": 10,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-splendida-iris-d-or",
+   "nom": "Splendida Iris d'Or",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral",
+   "enStock": true,
+   "prix": 19500,
+   "notes": {
+    "top": [
+     "Notes vertes",
+     "Bergamote"
+    ],
+    "heart": [
+     "Iris",
+     "Mimosa"
+    ],
+    "base": [
+     "Feuille de violette",
+     "Racine d'iris",
+     "Fève tonka"
+    ]
+   },
+   "imp90j": 8,
+   "clics90j": 1,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-man-glacial-essence",
+   "nom": "Man Glacial Essence",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "homme",
+   "famille": "Aromatique Fougère",
+   "enStock": true,
+   "prix": 29500,
+   "notes": {
+    "top": [
+     "Baies de genévrier",
+     "Gingembre",
+     "Géranium"
+    ],
+    "heart": [
+     "Bois de santal",
+     "Armoise",
+     "Racine d'iris"
+    ],
+    "base": [
+     "Clearwood",
+     "Musc",
+     "Cèdre"
+    ]
+   },
+   "imp90j": 5,
+   "clics90j": 0,
+   "volumeRecherche": 10
+  },
+  {
+   "slug": "bvlgari-pour-femme-soir",
+   "nom": "Pour Femme Soir",
+   "conc": "EDP",
+   "volume": "100ml",
+   "genre": "femme",
+   "famille": "Floral Oriental",
+   "enStock": false,
+   "prix": 26500,
+   "notes": {
+    "top": [
+     "Bergamote",
+     "Clémentine",
+     "Thé Vert"
+    ],
+    "heart": [
+     "Jasmin Absolu",
+     "Rose de Damas",
+     "Iris"
+    ],
+    "base": [
+     "Bois de Santal",
+     "Ambre",
+     "Musc"
+    ]
+   },
+   "imp90j": 21,
+   "clics90j": 0,
+   "volumeRecherche": 0
+  }
+ ]
+}
