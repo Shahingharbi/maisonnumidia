@@ -1,22 +1,22 @@
 #!/usr/bin/env node
-// Classeur simple pour un stock en dépôt-vente : UNE LIGNE PAR FLACON, une case « Vendu » à cocher,
-// et la part du fournisseur et notre bénéfice qui s'affichent tout seuls. Totaux en haut.
+// Classeur simple pour un stock en dépôt-vente : UNE LIGNE PAR PARFUM avec sa quantité. Quand on vend,
+// on tape le nombre de flacons vendus : la part du fournisseur, notre bénéfice et le stock restant se
+// calculent tout seuls. Totaux en haut.
 //
-//   node scripts/stock/stock-simple.mjs <flacons.json> <sortie.xlsx> ["Prénom du fournisseur"]
+//   node scripts/stock/stock-simple.mjs <sortie.xlsx> "Prénom du fournisseur" <parfums.json> [autres.json…]
 //
-// flacons.json : [{ "parfum": "...", "ml": 100, "qte": 2, "prixSite": 16500, "remarque": "..." }]
-// (une entrée par référence ; la quantité est dépliée en autant de lignes).
-// Les cases à cocher s'ajoutent dans Google Sheets après import (Insertion > Case à cocher sur F4:F400) :
-// le format .xlsx n'en a pas.
+// parfums.json : [{ "parfum": "...", "ml": 100, "qte": 2, "prixSite": 16500, "remarque": "..." }]
+// (plusieurs fichiers = plusieurs arrivages, mis bout à bout). Aucune bibliothèque : le .xlsx est un
+// zip « stocké » de quelques XML, à importer dans Google Sheets.
 import fs from "fs";
 
-const [entree, sortie, fournisseur = "fournisseur"] = process.argv.slice(2);
-if (!entree || !sortie) { console.error("usage : stock-simple.mjs <flacons.json> <sortie.xlsx> [fournisseur]"); process.exit(2); }
-const refs = JSON.parse(fs.readFileSync(entree, "utf8"));
-const flacons = refs.flatMap((r) => Array.from({ length: r.qte || 1 }, () => r));
+const [sortie, fournisseur = "fournisseur", ...entrees] = process.argv.slice(2);
+if (!sortie || !entrees.length) { console.error("usage : stock-simple.mjs <sortie.xlsx> <fournisseur> <parfums.json> [autres.json…]"); process.exit(2); }
+const refs = entrees.flatMap((e) => JSON.parse(fs.readFileSync(e, "utf8")));
 
-const LIGNES = 400; // lignes prêtes (formules) ; on en ajoute en bas au fil des arrivages
-const DEBUT = 4; // première ligne de flacon
+const LIGNES = 200; // lignes prêtes (formules) ; on en ajoute en bas au fil des arrivages
+const DEBUT = 4; // première ligne de parfum
+const fin = DEBUT + LIGNES - 1;
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const cell = (ref, v, s = 0) => {
   if (v === "" || v === undefined || v === null) return s ? `<c r="${ref}" s="${s}"/>` : "";
@@ -24,31 +24,40 @@ const cell = (ref, v, s = 0) => {
   if (typeof v === "number") return `<c r="${ref}" s="${s}"><v>${v}</v></c>`;
   return `<c r="${ref}" s="${s}" t="inlineStr"><is><t xml:space="preserve">${esc(v)}</t></is></c>`;
 };
-const L = "ABCDEFGHI".split("");
-const fin = DEBUT + LIGNES - 1;
+const L = "ABCDEFGHIJK".split("");
+const somme = (c) => ({ f: `SUM(${c}${DEBUT}:${c}${fin})` });
+
+// Colonnes : A Parfum, B ml, C Quantité, D Prix fournisseur, E Prix de vente, F Prix site,
+// G Vendus (on tape le nombre), H Reste, I Pour le fournisseur, J Notre bénéfice, K Remarques
 const rows = [];
-// Ligne 1 : totaux ; ligne 3 : en-têtes
 rows.push([
-  ["Flacons", 5], [{ f: `COUNTA(A${DEBUT}:A${fin})` }, 6], ["Vendus", 5], [{ f: `COUNTIF(F${DEBUT}:F${fin},TRUE)` }, 6],
-  [`À donner à ${fournisseur}`, 5], [{ f: `SUM(G${DEBUT}:G${fin})` }, 6], ["Notre bénéfice", 5], [{ f: `SUM(H${DEBUT}:H${fin})` }, 6], ["", 0],
+  ["Flacons", 5], [somme("C"), 6], ["Vendus", 5], [somme("G"), 6], ["Reste", 5], [somme("H"), 6],
+  [`Pour ${fournisseur}`, 5], [somme("I"), 6], ["Bénéfice", 5], [somme("J"), 6], ["", 0],
 ]);
 rows.push([]);
-rows.push([["Parfum", 1], ["ml", 1], [`Prix ${fournisseur} (DA)`, 1], ["Prix de vente (DA)", 1], ["Prix sur le site (DA)", 1], ["Vendu", 1], [`Pour ${fournisseur} (DA)`, 1], ["Notre bénéfice (DA)", 1], ["Remarques", 1]]);
+rows.push([
+  ["Parfum", 1], ["ml", 1], ["Quantité", 1], [`Prix ${fournisseur} (DA)`, 1], ["Prix de vente (DA)", 1], ["Prix sur le site (DA)", 1],
+  ["Vendus (taper le nombre)", 1], ["Reste", 1], [`Pour ${fournisseur} (DA)`, 1], ["Notre bénéfice (DA)", 1], ["Remarques", 1],
+]);
 for (let i = 0; i < LIGNES; i++) {
-  const r = DEBUT + i, f = flacons[i] || {};
+  const r = DEBUT + i, p = refs[i] || {};
   rows.push([
-    [f.parfum || "", 0], [f.ml || "", 0], ["", 3], ["", 3], [f.prixSite || "", 3], ["", 0],
-    [{ f: `IF(F${r}=TRUE,C${r},"")` }, 4], [{ f: `IF(F${r}=TRUE,D${r}-C${r},"")` }, 4], [f.remarque || "", 0],
+    [p.parfum || "", 0], [p.ml || "", 0], [p.qte || "", 0], ["", 3], ["", 3], [p.prixSite || "", 3], ["", 7],
+    [{ f: `IF(C${r}="","",C${r}-N(G${r}))` }, 4],
+    [{ f: `IF(OR(N(G${r})=0,D${r}=""),"",G${r}*D${r})` }, 4],
+    [{ f: `IF(OR(N(G${r})=0,D${r}="",E${r}=""),"",G${r}*(E${r}-D${r}))` }, 4],
+    [p.remarque || "", 0],
   ]);
 }
-const largeurs = [52, 7, 14, 14, 14, 8, 14, 16, 58];
+const largeurs = [52, 7, 9, 13, 13, 13, 11, 8, 13, 15, 60];
 const feuille = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
 <sheetViews><sheetView workbookViewId="0"><pane ySplit="3" topLeftCell="A4" activePane="bottomLeft" state="frozen"/></sheetView></sheetViews>
 <cols>${largeurs.map((w, i) => `<col min="${i + 1}" max="${i + 1}" width="${w}" customWidth="1"/>`).join("")}</cols>
 <sheetData>${rows.map((r, i) => `<row r="${i + 1}"${i === 0 ? ' ht="22" customHeight="1"' : ""}>${r.map(([v, s], j) => cell(`${L[j]}${i + 1}`, v, s)).join("")}</row>`).join("\n")}</sheetData>
 </worksheet>`;
-// Styles : 0 normal, 1 en-tête or, 2 libre, 3 milliers, 4 calculé gris + milliers, 5 total libellé gras, 6 total valeur gras + milliers
+// Styles : 0 normal, 1 en-tête or, 2 libre, 3 milliers, 4 calculé gris + milliers, 5 total libellé gras,
+// 6 total valeur gras + milliers, 7 saisie « vendus » (fond jaune pâle, centré)
 const styles = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
 <numFmts count="1"><numFmt numFmtId="164" formatCode="#,##0"/></numFmts>
@@ -59,7 +68,7 @@ const styles = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <fill><patternFill patternType="solid"><fgColor rgb="FFFAF3DC"/><bgColor indexed="64"/></patternFill></fill></fills>
 <borders count="1"><border><left/><right/><top/><bottom/><diagonal/></border></borders>
 <cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>
-<cellXfs count="7">
+<cellXfs count="8">
 <xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>
 <xf numFmtId="0" fontId="1" fillId="2" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment wrapText="1" vertical="center"/></xf>
 <xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>
@@ -67,6 +76,7 @@ const styles = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xf numFmtId="164" fontId="0" fillId="3" borderId="0" xfId="0" applyNumberFormat="1" applyFill="1"/>
 <xf numFmtId="0" fontId="1" fillId="4" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment horizontal="right" vertical="center"/></xf>
 <xf numFmtId="164" fontId="2" fillId="4" borderId="0" xfId="0" applyNumberFormat="1" applyFont="1" applyFill="1" applyAlignment="1"><alignment horizontal="left" vertical="center"/></xf>
+<xf numFmtId="0" fontId="1" fillId="4" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment horizontal="center"/></xf>
 </cellXfs></styleSheet>`;
 const fichiers = {
   "[Content_Types].xml": `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -96,4 +106,5 @@ for (const [nom, txt] of Object.entries(fichiers)) {
 const cd = Buffer.concat(cen), z = Buffer.alloc(22);
 z.writeUInt32LE(0x06054b50, 0); z.writeUInt16LE(Object.keys(fichiers).length, 8); z.writeUInt16LE(Object.keys(fichiers).length, 10); z.writeUInt32LE(cd.length, 12); z.writeUInt32LE(off, 16);
 fs.writeFileSync(sortie, Buffer.concat([...parts, cd, z]));
-console.log(`${sortie} : ${refs.length} références, ${flacons.length} flacons, ${LIGNES} lignes prêtes`);
+const flacons = refs.reduce((s, r) => s + (Number(r.qte) || 0), 0);
+console.log(`${sortie} : ${refs.length} parfums, ${flacons} flacons, ${LIGNES} lignes prêtes`);
