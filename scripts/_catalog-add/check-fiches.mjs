@@ -127,6 +127,9 @@ const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
 const fiches = JSON.parse(fs.readFileSync(BASE + "fiches.json", "utf8"));
 const slugsExistants = new Set(catalogue.products.map((p) => p.slug));
 const marques = new Set(catalogue.brands.map((b) => b.slug));
+// Un prix fixé par Shahin (data/prix-imposes.json) peut passer sous le plancher : décision du
+// 25/11/2026 pour Eau Jeune Double Je, vendu juste au-dessus du prix fournisseur.
+const prixImposes = new Map(JSON.parse(fs.readFileSync("./data/prix-imposes.json", "utf8")).map((x) => [x.slug, x.prix]));
 
 // Vocabulaire des notes : celles du catalogue + celles des nouvelles fiches.
 const vocab = new Set();
@@ -148,7 +151,7 @@ for (const f of fiches) {
   if (f.related && f.related.some((r) => !slugsExistants.has(r) && !fiches.some((x) => x.slug === r))) pb.push("related cassé");
   if (f.isOriental !== (f.category === "parfums-orientaux")) pb.push("isOriental incohérent avec category");
   if (!f.h1 || !f.h1.includes("Algérie")) pb.push("h1 hors format");
-  if (f.price < 6500) pb.push("prix sous le plancher de 6 500 DA");
+  if (f.price < 6500 && prixImposes.get(f.slug) !== f.price) pb.push("prix sous le plancher de 6 500 DA");
   if (!f.description || !f.shortDescription) { pb.push("texte manquant"); ko.push({ slug: f.slug, pb }); continue; }
 
   const nd = mots(f.description), ns = mots(f.shortDescription);

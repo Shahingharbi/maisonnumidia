@@ -1,0 +1,28 @@
+[
+ {
+  "slug": "eau-jeune-double-je",
+  "fragrantica": "https://www.fragrantica.com/perfume/Eau-Jeune/Double-Je-Eau-de-Toilette-70832.html",
+  "fragranticaId": 70832,
+  "boutiques": 1,
+  "slugCandidat": "eau-jeune-double-je"
+ },
+ {
+  "slug": "lacoste-l-12-12-blanc-eau-de-parfum",
+  "fragrantica": "https://www.fragrantica.com/perfume/Lacoste-Fragrances/L-12-12-Eau-de-Parfum-Blanc-For-Him-65874.html",
+  "fragranticaId": 65874,
+  "boutiques": 2,
+  "slugCandidat": "lacoste-l-12-12-blanc-edp"
+ },
+ {
+  "slug": "coffret-cerruti-1881-femme",
+  "photo": "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-base-master/default/dwa946f951/images/18011181_P.jpg",
+  "composition": [
+   "https://briki-parfums.com/coffrets/coffrets-femmes/coffret-cerruti-1881-pour-femme/",
+   "https://parfumdeluxedz.com/products/cerruti-1881-coffret-eau-de-toilette-pour-femme-50ml-lait-corps-75ml"
+  ],
+  "prix": "médiane 13 000 DA (Briki 12 500, Parfum Deluxe 13 500)",
+  "prixAmine": 11000,
+  "ficheFlacon": "cerruti-1881-femme",
+  "slugCandidat": "coffret-cerruti-1881-femme"
+ }
+]

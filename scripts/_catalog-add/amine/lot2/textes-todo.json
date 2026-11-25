@@ -1,0 +1,69 @@
+[
+ {
+  "slug": "eau-jeune-double-je",
+  "slugCandidat": "eau-jeune-double-je",
+  "brand": "Eau Jeune",
+  "name": "Double Je",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "48ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Ananas",
+    "Pomme",
+    "Mandarine"
+   ],
+   "heart": [
+    "Freesia",
+    "Mimosa",
+    "Rose"
+   ],
+   "base": [
+    "Cèdre",
+    "Patchouli",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "lacoste-l-12-blanc-for-him",
+  "slugCandidat": "lacoste-l-12-12-blanc-edp",
+  "brand": "Lacoste",
+  "name": "L.12.12 Blanc For Him",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Notes vertes",
+    "Citron caviar"
+   ],
+   "heart": [
+    "Eucalyptus",
+    "Cardamome"
+   ],
+   "base": [
+    "Pin",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ }
+]

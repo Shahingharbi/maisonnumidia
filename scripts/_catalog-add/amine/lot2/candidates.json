@@ -1,0 +1,36 @@
+[
+ {
+  "slug": "lacoste-l-12-12-blanc-edp",
+  "marque": "Lacoste",
+  "marqueSlug": "lacoste",
+  "marqueConnue": true,
+  "nom": "L.12.12 Blanc Eau de Parfum",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "categorieIndice": "a-determiner",
+  "prix": 17000,
+  "nbBoutiques": 2,
+  "boutiques": "palaisdesparfums,parfumdeluxe",
+  "source": "https://parfumdeluxedz.com/products/lacoste-l-12-12-blanc-eau-de-parfum-roland-garros-100ml",
+  "rang": 1,
+  "prixAmine": 14500,
+  "basePrix": "médiane 15 250 DA des deux EDP Blanc 100 ml vendues en Algérie (édition Roland Garros, 14 500 et 16 000 DA) : aucune offre algérienne de la version standard, même ligne et même format"
+ },
+ {
+  "slug": "eau-jeune-double-je",
+  "marque": "Eau Jeune",
+  "marqueSlug": "eau-jeune",
+  "marqueConnue": false,
+  "nom": "Double Je Eau de Toilette",
+  "concentration": "EDT",
+  "volume": "48ml",
+  "categorieIndice": "a-determiner",
+  "prix": 3500,
+  "nbBoutiques": 1,
+  "boutiques": "parfumdeluxe",
+  "source": "https://parfumdeluxedz.com/products/eau-jeune-double-je-eau-de-toilette-femme-48ml",
+  "rang": 1,
+  "prixAmine": 3000,
+  "basePrix": "décision de Shahin le 25/11/2026 : prix juste au-dessus du prix fournisseur (3 000 DA), plancher de 6 500 DA levé pour ce parfum ; marché algérien 1 900 DA (une seule offre, épuisée)"
+ }
+]

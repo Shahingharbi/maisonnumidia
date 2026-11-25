@@ -1,0 +1,173 @@
+[
+ {
+  "slug": "eau-jeune-double-je",
+  "brand": "Eau Jeune",
+  "name": "Double Je",
+  "h1": "Eau Jeune Double Je Parfum Femme Algérie",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "48ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Ananas",
+    "Pomme",
+    "Mandarine"
+   ],
+   "heart": [
+    "Freesia",
+    "Mimosa",
+    "Rose"
+   ],
+   "base": [
+    "Cèdre",
+    "Patchouli",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "composition": null,
+  "estCoffret": false,
+  "ficheFlacon": null,
+  "sources": [
+   "research/eau-jeune-double-je.json"
+  ]
+ },
+ {
+  "slug": "lacoste-l-12-12-blanc-eau-de-parfum",
+  "brand": "Lacoste",
+  "name": "L.12.12 Blanc Eau de Parfum",
+  "h1": "Lacoste L.12.12 Blanc Eau de Parfum Homme Algérie",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Notes vertes",
+    "Citron caviar"
+   ],
+   "heart": [
+    "Eucalyptus",
+    "Cardamome"
+   ],
+   "base": [
+    "Pin",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "composition": null,
+  "estCoffret": false,
+  "ficheFlacon": null,
+  "sources": [
+   "research/lacoste-l-12-12-blanc-edp.json"
+  ]
+ },
+ {
+  "slug": "coffret-cerruti-1881-femme",
+  "brand": "Cerruti",
+  "name": "1881 pour Femme Coffret",
+  "h1": "Coffret Cerruti 1881 pour Femme Algérie",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "50ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Rose",
+    "Bergamote",
+    "Pêche"
+   ],
+   "heart": [
+    "Jasmin",
+    "Muguet",
+    "Ylang-ylang"
+   ],
+   "base": [
+    "Musc blanc",
+    "Bois de santal",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Journée",
+   "Week-end"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ],
+  "composition": "eau de toilette 1881 pour Femme 50 ml (vaporisateur) + lotion parfumée pour le corps 1881 pour Femme 75 ml",
+  "estCoffret": true,
+  "ficheFlacon": "cerruti-1881-femme",
+  "sources": [
+   "recherche/coffret-cerruti-1881-femme.json",
+   "recherche/verif-coffret-cerruti-1881-femme.json"
+  ]
+ },
+ {
+  "slug": "coffret-lolita-lempicka-au-masculin",
+  "brand": "Lolita Lempicka",
+  "name": "Au Masculin Coffret",
+  "h1": "Coffret Lolita Lempicka Au Masculin Algérie",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [
+    "Anis",
+    "Réglisse",
+    "Violette",
+    "Lierre",
+    "Absinthe",
+    "Basilic"
+   ],
+   "heart": [
+    "Rhum",
+    "Fève de tonka",
+    "Amande",
+    "Bois de santal"
+   ],
+   "base": [
+    "Vanille",
+    "Praline",
+    "Vétiver",
+    "Cèdre",
+    "Labdanum"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée",
+   "Journée"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ],
+  "composition": "eau de toilette Au Masculin 100 ml (vaporisateur) + gel douche tonique Au Masculin 75 ml",
+  "estCoffret": true,
+  "ficheFlacon": "lolita-lempicka-au-masculin",
+  "sources": [
+   "recherche/coffret-lolita-au-masculin.json",
+   "recherche/verif-coffret-lolita-au-masculin.json"
+  ]
+ }
+]
