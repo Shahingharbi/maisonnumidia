@@ -4,10 +4,13 @@
 // SIMULATION par défaut, --apply pour écrire dans public/images/products/.
 // Une fiche dont l'image échoue est inutilisable : elle est listée pour être retirée du lot.
 import fs from "fs";
+// Dossier de travail : scripts/_catalog-add/ par défaut, ou un lot à part (CATALOG_ADD_DIR=./scripts/_catalog-add/amine/)
+// pour ne pas mélanger deux chantiers (le stock reçu en dépôt-vente et la vague 2 en attente).
+const BASE = process.env.CATALOG_ADD_DIR || "./scripts/_catalog-add/";
 
 const APPLY = process.argv.includes("--apply");
 const IMG = "./public/images/products";
-const fiches = JSON.parse(fs.readFileSync("./scripts/_catalog-add/fiches.json", "utf8"));
+const fiches = JSON.parse(fs.readFileSync(BASE + "fiches.json", "utf8"));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const H = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
@@ -41,6 +44,6 @@ for (const f of fiches) {
   await sleep(1200);
 }
 
-fs.writeFileSync("./scripts/_catalog-add/images-echecs.json", JSON.stringify(echecs, null, 1));
+fs.writeFileSync(BASE + "images-echecs.json", JSON.stringify(echecs, null, 1));
 console.log(`${APPLY ? "TÉLÉCHARGÉ" : "SIMULATION"} — ${ok} images en place, ${echecs.length} échecs`);
 if (echecs.length) console.log("fiches à retirer du lot (pas d'image) : " + echecs.map((e) => e.slug).join(", "));

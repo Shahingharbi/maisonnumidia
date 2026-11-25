@@ -4,10 +4,13 @@
 // Refuse tout le lot si une fiche est incomplète : mieux vaut ne rien ajouter qu'ajouter
 // une fiche cassée au milieu de 700 bonnes.
 import fs from "fs";
+// Dossier de travail : scripts/_catalog-add/ par défaut, ou un lot à part (CATALOG_ADD_DIR=./scripts/_catalog-add/amine/)
+// pour ne pas mélanger deux chantiers (le stock reçu en dépôt-vente et la vague 2 en attente).
+const BASE = process.env.CATALOG_ADD_DIR || "./scripts/_catalog-add/";
 
 const APPLY = process.argv.includes("--apply");
 const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
-const fiches = JSON.parse(fs.readFileSync("./scripts/_catalog-add/fiches.json", "utf8"));
+const fiches = JSON.parse(fs.readFileSync(BASE + "fiches.json", "utf8"));
 const slugs = new Set(catalogue.products.map((p) => p.slug));
 const marques = new Set(catalogue.brands.map((b) => b.slug));
 
@@ -23,8 +26,8 @@ const CHAMPS = ["id", "slug", "name", "h1", "brand", "brandSlug", "gender", "cat
 // check-fiches.mjs a deja passe le lot au crible (longueur, formules interdites, note citee
 // hors pyramide…). On ne republie pas ici ce qu'il a recale : la fiche attend une reprise.
 const recales = new Map();
-if (fs.existsSync("./scripts/_catalog-add/check-fiches.json")) {
-  for (const x of JSON.parse(fs.readFileSync("./scripts/_catalog-add/check-fiches.json", "utf8"))) {
+if (fs.existsSync(BASE + "check-fiches.json")) {
+  for (const x of JSON.parse(fs.readFileSync(BASE + "check-fiches.json", "utf8"))) {
     recales.set(x.slug, x.pb.join(" | "));
   }
 }
@@ -68,9 +71,9 @@ if (APPLY) {
   catalogue.products.push(...propres);
   fs.writeFileSync("./data/products.json", JSON.stringify(catalogue, null, 2) + "\n");
   // Traçabilité : d'où vient chaque fiche (URL Fragrantica, ID image, nb de boutiques algériennes).
-  const ancienne = fs.existsSync("./scripts/_catalog-add/provenance.json")
-    ? JSON.parse(fs.readFileSync("./scripts/_catalog-add/provenance.json", "utf8")) : [];
+  const ancienne = fs.existsSync(BASE + "provenance.json")
+    ? JSON.parse(fs.readFileSync(BASE + "provenance.json", "utf8")) : [];
   const provenance = ancienne.concat(pretes.map((f) => ({ slug: f.slug, ...f._source })));
-  fs.writeFileSync("./scripts/_catalog-add/provenance.json", JSON.stringify(provenance, null, 1));
+  fs.writeFileSync(BASE + "provenance.json", JSON.stringify(provenance, null, 1));
   console.log("provenance écrite dans scripts/_catalog-add/provenance.json");
 }

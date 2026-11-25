@@ -1,0 +1,22 @@
+{
+  "slug": "azzaro-chrome",
+  "offres": [
+    {"boutique": "palais", "nom": "Azzaro chrome Edt 200ml", "prix": 12500, "volume": "200ml", "url": "https://palaisdesparfums-dz.com/produit/azzaro-chrome-edt/", "source": "catalogue-06-10"},
+    {"boutique": "parfumalgerieshop", "nom": "Azzaro-Chrome- Eau De Toilette-200ml", "prix": 16500, "volume": "200ml", "url": "https://parfumalgerie.shop/products/azzaro-chrome-eau-de-toilette-200ml", "source": "catalogue-06-10"},
+    {"boutique": "gallery", "nom": "Chrome (Azzaro, Eau de toilette, déclinaison 200 ml)", "prix": 16900, "volume": "200ml", "url": "https://galleryparfums-dz.com/produit/chrome/", "source": "catalogue-06-10"},
+    {"boutique": "briki", "nom": "Azzaro Chrome (déclinaison 200 ml)", "prix": 17500, "volume": "200ml", "url": "https://briki-parfums.com/parfums-homme/azzaro-chrome/", "source": "catalogue-06-10"},
+    {"boutique": "odorem", "nom": "Azzaro Chrome 200ml edt", "prix": 17500, "volume": "200ml", "url": "https://odorem-dz.com/produit/azzaro-chrome-200ml-edt/", "source": "catalogue-06-10"},
+    {"boutique": "parfumdeluxe", "nom": "Azzaro - Chrome Eau De Toilette pour Homme -200ml-", "prix": 17600, "volume": "200ml", "url": "https://parfumdeluxedz.com/products/azzaro-chrome-eau-de-toilette-pour-homme-200ml", "source": "catalogue-06-10"},
+    {"boutique": "tendance", "nom": "Azzaro Chrome (Eau de toilette, déclinaison 200 ml)", "prix": 18500, "volume": "200ml", "url": "https://www.tendanceparfumsdz.com/shop/azzaro-chrome-eau-de-toilette/", "source": "catalogue-06-10"}
+  ],
+  "offresAutresVolumes": [
+    {"boutique": "briki", "nom": "Azzaro Chrome (déclinaison 100 ml)", "prix": 12500, "volume": "100ml", "url": "https://briki-parfums.com/parfums-homme/azzaro-chrome/", "source": "catalogue-06-10"},
+    {"boutique": "parfumdeluxe", "nom": "Azzaro - Chrome Eau De Toilette pour Homme -100ml-", "prix": 13500, "volume": "100ml", "url": "https://parfumdeluxedz.com/products/azzaro-chrome-eau-de-toilette-pour-homme-100ml", "source": "catalogue-06-10"},
+    {"boutique": "tendance", "nom": "Azzaro Chrome (Eau de toilette, déclinaison 100 ml)", "prix": 13500, "volume": "100ml", "url": "https://www.tendanceparfumsdz.com/shop/azzaro-chrome-eau-de-toilette/", "source": "catalogue-06-10"},
+    {"boutique": "odorem", "nom": "Chrome Azzaro 100ml edt", "prix": 13700, "volume": "100ml", "url": "https://odorem-dz.com/produit/chrome-azzaro-100ml-edt/", "source": "catalogue-06-10"},
+    {"boutique": "palais", "nom": "Azzaro chrome edt 100ml", "prix": 14900, "volume": "100ml", "url": "https://palaisdesparfums-dz.com/produit/azzaro-chrome-edt-100ml/", "source": "catalogue-06-10"}
+  ],
+  "prixEurope": null,
+  "remarque": "7 offres au bon volume (EDT 200 ml) : 12 500 / 16 500 / 16 900 / 17 500 / 17 500 / 17 600 / 18 500 DA, médiane 17 500 DA. Palais (12 500 DA, nettement sous les autres) et Gallery étaient en rupture le 06/10, prix gardés. Exclus : Chrome Eau de Parfum 100 ml (Must 14 900, coffret Odorem), Chrome Parfum 100 ml, Extrême, Pure, Aqua, Azure, United (y compris United 200 ml), Legend, Sport, Limited Edition, coffret Tendance 21 500 DA.",
+  "verifieLe": "2026-11-25"
+}

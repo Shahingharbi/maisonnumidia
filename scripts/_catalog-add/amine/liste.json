@@ -1,0 +1,419 @@
+{
+ "note": "Stock en dépôt-vente reçu le 23-24/11/2026 (sheet « Stock Amine »). nouveaux = fiches à créer ; ml = fiches existantes dont la contenance passe à celle du stock (décision de Shahin, 25/11/2026). Les coffrets, le baume après-rasage et CK IN2U (for Him ou for Her ?) ne sont pas traités ici. 25/11 : Shahin ajoute les 2 coffrets (fiches à part), pas le baume ; CK Be = eau de toilette (fiche existante), CK IN2U = for Her (fiche existante).",
+ "nouveaux": [
+  {
+   "slug": "issey-miyake-l-eau-d-issey-pour-homme-intense",
+   "marque": "Issey Miyake",
+   "nom": "L'Eau d'Issey pour Homme Intense",
+   "concentration": "EDT",
+   "volume": "125ml",
+   "qte": 2,
+   "prixAmine": 11000
+  },
+  {
+   "slug": "dolce-gabbana-pour-homme-edp",
+   "marque": "Dolce & Gabbana",
+   "nom": "Pour Homme Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 16000,
+   "attention": "Le site a déjà Dolce & Gabbana Pour Homme EDT 125 ml (dolce-gabbana-pour-homme) : c'est une autre version, nouvelle fiche distincte."
+  },
+  {
+   "slug": "dolce-gabbana-the-one-for-men-edp",
+   "marque": "Dolce & Gabbana",
+   "nom": "The One for Men Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "150ml",
+   "qte": 1,
+   "prixAmine": 21000,
+   "attention": "Le site a The One (EDP 75 ml, femme) et The One Gentleman, mais pas The One for Men."
+  },
+  {
+   "slug": "eau-jeune-double-je",
+   "marque": "Eau Jeune",
+   "nom": "Double Je",
+   "concentration": "EDT",
+   "volume": "",
+   "qte": 2,
+   "prixAmine": 3000,
+   "attention": "Contenance inconnue (à lire sur Fragrantica ou chez les revendeurs : formats courants). Marque absente du site : la documenter (pays, maison mère, date)."
+  },
+  {
+   "slug": "davidoff-cool-water-intense",
+   "marque": "Davidoff",
+   "nom": "Cool Water Intense",
+   "concentration": "EDP",
+   "volume": "125ml",
+   "qte": 2,
+   "prixAmine": 12000
+  },
+  {
+   "slug": "davidoff-cool-water-parfum",
+   "marque": "Davidoff",
+   "nom": "Cool Water Parfum",
+   "concentration": "Parfum",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 14000
+  },
+  {
+   "slug": "lanvin-oxygene-homme",
+   "marque": "Lanvin",
+   "nom": "Oxygène Homme",
+   "concentration": "EDT",
+   "volume": "100ml",
+   "qte": 5,
+   "prixAmine": 5500
+  },
+  {
+   "slug": "kenzo-homme-edp",
+   "marque": "Kenzo",
+   "nom": "Kenzo Homme Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "110ml",
+   "qte": 2,
+   "prixAmine": 17500,
+   "attention": "Le site a Kenzo Homme EDT 110 ml (kenzo-homme) : autre version, nouvelle fiche distincte."
+  },
+  {
+   "slug": "antonio-banderas-blue-seduction-for-women",
+   "marque": "Antonio Banderas",
+   "nom": "Blue Seduction for Women",
+   "concentration": "EDT",
+   "volume": "200ml",
+   "qte": 1,
+   "prixAmine": 8000
+  },
+  {
+   "slug": "lacoste-l-12-12-blanc-edp",
+   "marque": "Lacoste",
+   "nom": "L.12.12 Blanc Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 14500,
+   "attention": "Le site a L.12.12 Blanc EDT 100 ml (lacoste-l12-blanc) : autre version, nouvelle fiche distincte."
+  },
+  {
+   "slug": "yves-rocher-cuir-de-nuit",
+   "marque": "Yves Rocher",
+   "nom": "Cuir de Nuit",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 7500
+  },
+  {
+   "slug": "yves-rocher-garden-party",
+   "marque": "Yves Rocher",
+   "nom": "Garden Party",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 7500
+  },
+  {
+   "slug": "yves-rocher-bouquet-ambre",
+   "marque": "Yves Rocher",
+   "nom": "Bouquet Ambré",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 7500
+  },
+  {
+   "slug": "yves-rocher-verte-envolee",
+   "marque": "Yves Rocher",
+   "nom": "Verte Envolée",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 7500
+  },
+  {
+   "slug": "yves-rocher-eau-fraiche-petillante",
+   "marque": "Yves Rocher",
+   "nom": "Eau Fraîche Pétillante",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 6500,
+   "attention": "Nom noté par la boutique : vérifier le nom officiel exact (gamme « Eau Fraîche » d'Yves Rocher ?)."
+  },
+  {
+   "slug": "yves-rocher-eau-fraiche-poudree",
+   "marque": "Yves Rocher",
+   "nom": "Eau Fraîche Poudrée",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 6500,
+   "attention": "Même gamme que Pétillante : vérifier le nom officiel."
+  },
+  {
+   "slug": "yves-rocher-eau-fraiche-aerienne",
+   "marque": "Yves Rocher",
+   "nom": "Eau Fraîche Aérienne",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 6500,
+   "attention": "Même gamme que Pétillante : vérifier le nom officiel."
+  },
+  {
+   "slug": "yves-rocher-hoggar",
+   "marque": "Yves Rocher",
+   "nom": "Hoggar",
+   "concentration": "EDT",
+   "volume": "100ml",
+   "qte": 4,
+   "prixAmine": 7500
+  },
+  {
+   "slug": "yves-rocher-ambre-noir",
+   "marque": "Yves Rocher",
+   "nom": "Ambre Noir",
+   "concentration": "EDT",
+   "volume": "100ml",
+   "qte": 8,
+   "prixAmine": 7500,
+   "attention": "La boutique a écrit « ambre oir » : vérifier qu'Ambre Noir d'Yves Rocher existe."
+  },
+  {
+   "slug": "yves-rocher-bois-de-sauge",
+   "marque": "Yves Rocher",
+   "nom": "Bois de Sauge",
+   "concentration": "EDT",
+   "volume": "100ml",
+   "qte": 7,
+   "prixAmine": 7500,
+   "attention": "Vérifier le nom officiel exact."
+  },
+  {
+   "slug": "yves-rocher-granit-bleu",
+   "marque": "Yves Rocher",
+   "nom": "Granit Bleu",
+   "concentration": "EDT",
+   "volume": "100ml",
+   "qte": 4,
+   "prixAmine": 7500,
+   "attention": "Vérifier le nom officiel exact (Yves Rocher a « Granit »)."
+  },
+  {
+   "slug": "joop-jump",
+   "marque": "Joop!",
+   "nom": "Jump",
+   "concentration": "EDT",
+   "volume": "200ml",
+   "qte": 1,
+   "prixAmine": 12500
+  },
+  {
+   "slug": "jimmy-choo-blossom-edp",
+   "marque": "Jimmy Choo",
+   "nom": "Blossom Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 2,
+   "prixAmine": 14500,
+   "attention": "Le site a Jimmy Choo Blossom EDT 100 ml (jimmy-choo-blossom) : autre version, nouvelle fiche distincte."
+  },
+  {
+   "slug": "calvin-klein-eternity-moment",
+   "marque": "Calvin Klein",
+   "nom": "Eternity Moment",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 1,
+   "prixAmine": 9000
+  },
+  {
+   "slug": "chanel-cristalle-edp",
+   "marque": "Chanel",
+   "nom": "Cristalle Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "100ml",
+   "qte": 1,
+   "prixAmine": 30000,
+   "attention": "Le site a Cristalle EDT 100 ml (chanel-cristalle) : autre version, nouvelle fiche distincte."
+  },
+  {
+   "slug": "gucci-by-gucci",
+   "marque": "Gucci",
+   "nom": "Gucci by Gucci",
+   "concentration": "EDT",
+   "volume": "75ml",
+   "qte": 1,
+   "prixAmine": 16000,
+   "attention": "Ambigu : Gucci by Gucci (femme) ou Gucci by Gucci Pour Homme ? Les deux existent en eau de toilette. Si on ne peut pas trancher, confiance basse et remarque."
+  },
+  {
+   "slug": "mercedes-benz-le-parfum",
+   "marque": "Mercedes-Benz",
+   "nom": "Le Parfum",
+   "concentration": "Parfum",
+   "volume": "120ml",
+   "qte": 1,
+   "prixAmine": 14000
+  },
+  {
+   "slug": "jean-paul-gaultier-scandal-pour-homme-edt",
+   "marque": "Jean Paul Gaultier",
+   "nom": "Scandal pour Homme",
+   "concentration": "EDT",
+   "volume": "150ml",
+   "qte": 1,
+   "prixAmine": 23000,
+   "attention": "Le site a Scandal Pour Homme Le Parfum et Scandal Pour Homme Elixir, pas l'eau de toilette."
+  },
+  {
+   "slug": "emporio-armani-stronger-with-you-parfum",
+   "marque": "Giorgio Armani",
+   "nom": "Stronger With You Parfum",
+   "concentration": "Parfum",
+   "volume": "100ml",
+   "qte": 1,
+   "prixAmine": 26000,
+   "attention": "Vérifier si c'est un parfum distinct de Stronger With You Absolutely (déjà sur le site, Parfum 100 ml). Si c'est le même, le dire (pas de nouvelle fiche)."
+  },
+  {
+   "slug": "calvin-klein-eternity-for-men-parfum",
+   "marque": "Calvin Klein",
+   "nom": "Eternity for Men Parfum",
+   "concentration": "Parfum",
+   "volume": "200ml",
+   "qte": 1,
+   "prixAmine": 16000
+  },
+  {
+   "slug": "rochas-moustache-edp",
+   "marque": "Rochas",
+   "nom": "Moustache Eau de Parfum",
+   "concentration": "EDP",
+   "volume": "125ml",
+   "qte": 1,
+   "prixAmine": 13500
+  },
+  {
+   "slug": "valentino-uomo-born-in-roma-intense",
+   "marque": "Valentino",
+   "nom": "Uomo Born in Roma Intense",
+   "concentration": "EDP Intense",
+   "volume": "100ml",
+   "qte": 1,
+   "prixAmine": 29000
+  },
+  {
+   "slug": "cacharel-eden",
+   "marque": "Cacharel",
+   "nom": "Eden",
+   "concentration": "EDP",
+   "volume": "50ml",
+   "qte": 1,
+   "prixAmine": 11500
+  }
+ ],
+ "ml": [
+  {
+   "slugExistant": "club-de-nuit-intense-armaf",
+   "nom": "Armaf Club de Nuit Intense Man EDP",
+   "ancienVolume": "105ml",
+   "volume": "200ml",
+   "prixAmine": 15000
+  },
+  {
+   "slugExistant": "cerruti-1881-homme",
+   "nom": "Cerruti 1881 pour Homme EDT",
+   "ancienVolume": "100ml",
+   "volume": "200ml",
+   "prixAmine": 12000
+  },
+  {
+   "slugExistant": "azzaro-chrome",
+   "nom": "Azzaro Chrome EDT",
+   "ancienVolume": "100ml",
+   "volume": "200ml",
+   "prixAmine": 17000
+  },
+  {
+   "slugExistant": "joop-homme",
+   "nom": "Joop! Homme EDT",
+   "ancienVolume": "125ml",
+   "volume": "200ml",
+   "prixAmine": 11000
+  },
+  {
+   "slugExistant": "hugo-boss-extreme",
+   "nom": "Hugo Boss Hugo Extreme EDP",
+   "ancienVolume": "100ml",
+   "volume": "75ml",
+   "prixAmine": 10000
+  },
+  {
+   "slugExistant": "calvin-klein-ck-one-gold",
+   "nom": "Calvin Klein CK One Gold EDT",
+   "ancienVolume": "100ml",
+   "volume": "200ml",
+   "prixAmine": 13500
+  },
+  {
+   "slugExistant": "scandal-pour-homme-jean-paul-gaultier",
+   "nom": "Jean Paul Gaultier Scandal Pour Homme Le Parfum (EDP Intense)",
+   "ancienVolume": "100ml",
+   "volume": "150ml",
+   "prixAmine": 29000
+  },
+  {
+   "slugExistant": "paco-rabanne-invictus-victory-elixir",
+   "nom": "Paco Rabanne Invictus Victory Elixir (Parfum Intense)",
+   "ancienVolume": "100ml",
+   "volume": "200ml",
+   "prixAmine": 32000
+  },
+  {
+   "slugExistant": "invictus-victory-paco-rabanne",
+   "nom": "Paco Rabanne Invictus Victory EDP Extrême",
+   "ancienVolume": "100ml",
+   "volume": "200ml",
+   "prixAmine": 25000
+  },
+  {
+   "slugExistant": "jean-paul-gaultier-le-male-elixir",
+   "nom": "Jean Paul Gaultier Le Male Elixir (Parfum)",
+   "ancienVolume": "125ml",
+   "volume": "200ml",
+   "prixAmine": 36000
+  },
+  {
+   "slugExistant": "calvin-klein-defy-parfum",
+   "nom": "Calvin Klein Defy Parfum",
+   "ancienVolume": "100ml",
+   "volume": "200ml",
+   "prixAmine": 14500
+  }
+ ],
+ "coffrets": [
+  {
+   "slug": "cerruti-1881-pour-femme-coffret",
+   "marque": "Cerruti",
+   "nom": "1881 pour Femme coffret",
+   "parfumDuCoffret": "1881 pour Femme eau de toilette",
+   "volume": "50ml",
+   "qte": 1,
+   "prixAmine": 11000,
+   "ficheFlacon": "cerruti-1881-femme"
+  },
+  {
+   "slug": "lolita-lempicka-au-masculin-coffret",
+   "marque": "Lolita Lempicka",
+   "nom": "Au Masculin coffret",
+   "parfumDuCoffret": "Au Masculin eau de toilette",
+   "volume": "100ml",
+   "qte": 1,
+   "prixAmine": 15000,
+   "ficheFlacon": "lolita-lempicka-au-masculin"
+  }
+ ]
+}

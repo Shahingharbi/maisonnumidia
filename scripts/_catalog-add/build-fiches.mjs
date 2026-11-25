@@ -6,11 +6,17 @@
 // Sortie : scripts/_catalog-add/fiches.json (à relire avant injection dans data/products.json).
 // Rien n'est inventé : ce qui n'est pas confirmé fait sortir le parfum du lot (fichier ecartes.json).
 import fs from "fs";
+// Dossier de travail : scripts/_catalog-add/ par défaut, ou un lot à part (CATALOG_ADD_DIR=./scripts/_catalog-add/amine/)
+// pour ne pas mélanger deux chantiers (le stock reçu en dépôt-vente et la vague 2 en attente).
+const BASE = process.env.CATALOG_ADD_DIR || "./scripts/_catalog-add/";
+// 3 notes au moins par défaut. Un lot peut descendre à 2 quand Fragrantica n'en liste pas plus
+// (Yves Rocher Garden Party, gamme Eaux Fraîches) : MIN_NOTES=2.
+const MIN_NOTES = Number(process.env.MIN_NOTES || 3);
 
 // --simulation : ne réécrit rien, écrit le résultat dans le dossier temporaire du système.
 // Sert à tester une modification pendant qu'un workflow de rédaction lit textes-todo.json.
 const SIMULATION = process.argv.includes("--simulation");
-const SORTIE = SIMULATION ? (process.env.TEMP || "/tmp") + "/build-fiches-" : "./scripts/_catalog-add/";
+const SORTIE = SIMULATION ? (process.env.TEMP || "/tmp") + "/build-fiches-" : BASE + "";
 
 const COMB = /[̀-ͯ]/g;
 const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(COMB, "");
@@ -184,8 +190,8 @@ const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
 const slugsPris = new Set(catalogue.products.map((p) => p.slug));
 // Parfums déjà injectés lors d'une vague précédente : leur fichier de recherche est toujours
 // là, mais les remonter créerait un doublon avec un slug suffixé en -2.
-const dejaInjectes = fs.existsSync("./scripts/_catalog-add/provenance.json")
-  ? new Set(JSON.parse(fs.readFileSync("./scripts/_catalog-add/provenance.json", "utf8")).map((x) => x.slugCandidat))
+const dejaInjectes = fs.existsSync(BASE + "provenance.json")
+  ? new Set(JSON.parse(fs.readFileSync(BASE + "provenance.json", "utf8")).map((x) => x.slugCandidat))
   : new Set();
 const marquesParNom = new Map(catalogue.brands.map((b) => [norm(b.name), b]));
 // Le libellé affiché doit suivre celui des produits existants de la même marque :
@@ -197,10 +203,10 @@ for (const b of catalogue.brands) {
   const dominant = [...compte.entries()].sort((x, y) => y[1] - x[1])[0];
   libelleParSlug.set(b.slug, dominant ? dominant[0] : b.name);
 }
-const candidats = new Map(JSON.parse(fs.readFileSync("./scripts/_catalog-add/candidates.json", "utf8")).map((c) => [c.slug, c]));
+const candidats = new Map(JSON.parse(fs.readFileSync(BASE + "candidates.json", "utf8")).map((c) => [c.slug, c]));
 
-const DIR_R = "./scripts/_catalog-add/research";
-const DIR_T = "./scripts/_catalog-add/texts";
+const DIR_R = BASE + "research";
+const DIR_T = BASE + "texts";
 const fiches = [], ecartes = [], marquesACreer = new Map();
 
 for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
@@ -220,7 +226,7 @@ for (const f of fs.readdirSync(DIR_R).filter((x) => x.endsWith(".json"))) {
   if (!fg.nomOfficiel) { jette("pas de nom officiel"); continue; }
   const notes = r.notes || {};
   const toutes = [...(notes.top || []), ...(notes.heart || []), ...(notes.base || [])];
-  if (toutes.length < 3) { jette("moins de 3 notes olfactives"); continue; }
+  if (toutes.length < MIN_NOTES) { jette("moins de " + MIN_NOTES + " notes olfactives"); continue; }
   if (!r.famille) { jette("pas de famille olfactive"); continue; }
   const genre = fg.genre;
   if (!["homme", "femme", "unisexe"].includes(genre)) { jette("genre non confirmé"); continue; }

@@ -1,0 +1,101 @@
+[
+ {
+  "slug": "club-de-nuit-intense-armaf",
+  "ancienVolume": "105ml",
+  "volume": "200ml",
+  "ancienPrix": 13500,
+  "prix": 20500,
+  "prixAmine": 15000,
+  "basePrix": "médiane 18250 (4 boutiques)"
+ },
+ {
+  "slug": "cerruti-1881-homme",
+  "ancienVolume": "100ml",
+  "volume": "200ml",
+  "ancienPrix": 12000,
+  "prix": 17000,
+  "prixAmine": 12000,
+  "basePrix": "médiane 13950 (6 boutiques)"
+ },
+ {
+  "slug": "azzaro-chrome",
+  "ancienVolume": "100ml",
+  "volume": "200ml",
+  "ancienPrix": 16500,
+  "prix": 19500,
+  "prixAmine": 17000,
+  "basePrix": "médiane 17500 (7 boutiques)"
+ },
+ {
+  "slug": "joop-homme",
+  "ancienVolume": "125ml",
+  "volume": "200ml",
+  "ancienPrix": 11500,
+  "prix": 15000,
+  "prixAmine": 11000,
+  "basePrix": "médiane 12150 (2 boutiques)"
+ },
+ {
+  "slug": "hugo-boss-extreme",
+  "ancienVolume": "100ml",
+  "volume": "75ml",
+  "ancienPrix": 17500,
+  "prix": 15000,
+  "prixAmine": 10000,
+  "basePrix": "médiane 12500 (5 boutiques)"
+ },
+ {
+  "slug": "calvin-klein-ck-one-gold",
+  "ancienVolume": "100ml",
+  "volume": "200ml",
+  "ancienPrix": 13500,
+  "prix": 20500,
+  "prixAmine": 13500,
+  "basePrix": "estimé depuis l'ancien 100ml : 11250 × (200/100)^0,72"
+ },
+ {
+  "slug": "scandal-pour-homme-jean-paul-gaultier",
+  "ancienVolume": "100ml",
+  "volume": "150ml",
+  "ancienPrix": 29500,
+  "prix": 34500,
+  "prixAmine": 29000,
+  "basePrix": "médiane 31050 (6 boutiques)"
+ },
+ {
+  "slug": "paco-rabanne-invictus-victory-elixir",
+  "ancienVolume": "100ml",
+  "volume": "200ml",
+  "ancienPrix": 27000,
+  "prix": 36500,
+  "prixAmine": 32000,
+  "basePrix": "médiane 32750 (2 boutiques)"
+ },
+ {
+  "slug": "invictus-victory-paco-rabanne",
+  "ancienVolume": "100ml",
+  "volume": "200ml",
+  "ancienPrix": 22000,
+  "prix": 28000,
+  "prixAmine": 25000,
+  "basePrix": "médiane 25250 (2 boutiques)"
+ },
+ {
+  "slug": "jean-paul-gaultier-le-male-elixir",
+  "ancienVolume": "125ml",
+  "volume": "200ml",
+  "ancienPrix": 30500,
+  "prix": 39500,
+  "prixAmine": 36000,
+  "basePrix": "médiane 35500 (3 boutiques)"
+ },
+ {
+  "slug": "calvin-klein-defy-parfum",
+  "ancienVolume": "100ml",
+  "volume": "200ml",
+  "ancienPrix": 18500,
+  "prix": 20500,
+  "prixAmine": 14500,
+  "basePrix": "médiane 18500 (1 boutiques)"
+ }
+]

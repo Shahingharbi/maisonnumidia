@@ -1,0 +1,23 @@
+{
+  "slug": "lanvin-oxygene-homme",
+  "existe": true,
+  "fragrantica": {
+    "url": "https://www.fragrantica.com/perfume/Lanvin/Oxygene-Homme-991.html",
+    "id": 991,
+    "nomOfficiel": "Oxygene Homme",
+    "marqueOfficielle": "Lanvin",
+    "genre": "homme",
+    "annee": 2001
+  },
+  "notes": {
+    "top": ["Cyprès", "Résine de sapin", "Coriandre", "Armoise"],
+    "heart": ["Genièvre", "Myrte"],
+    "base": ["Cèdre", "Musc blanc"]
+  },
+  "famille": "Boisé Aromatique",
+  "concentrationConfirmee": "EDT",
+  "volumeExiste": true,
+  "remarque": "Parfum de Alberto Morillas (2001). Accords Fragrantica : aromatique, boisé, épicé frais, herbacé, frais. Pyramide relevée dans les résultats de recherche Fragrantica (page en 403 au WebFetch). Ne pas confondre avec Oxygene femme (2000, ID 990), déjà en ligne sous le slug oxygene-lanvin (EDP 75 ml) : fiche distincte, pas de cannibalisation. Le 100 ml EDT est vendu par 6 boutiques algériennes. Un commentaire Fragrantica le dit arrêté, mais il reste en stock en Algérie (Briki, Palais, Leila) : à surveiller, pas de preuve écrite d'arrêt.",
+  "confiance": "haute",
+  "verifieLe": "2026-11-25"
+}

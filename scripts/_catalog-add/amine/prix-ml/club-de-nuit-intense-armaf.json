@@ -1,0 +1,16 @@
+{
+  "slug": "club-de-nuit-intense-armaf",
+  "offres": [
+    {"boutique": "odorem", "nom": "Club de nuit intense man 200ml edp", "prix": 17500, "volume": "200ml", "url": "https://odorem-dz.com/produit/club-de-nuit-intense-man-200ml-edp/", "source": "catalogue-06-10"},
+    {"boutique": "parfumdeluxe", "nom": "Armaf - Eau De Parfum Homme Club de Nuit Man Intense 200ML", "prix": 18000, "volume": "200ml", "url": "https://parfumdeluxedz.com/products/armaf-club-de-nuit-man-intense-eau-de-parfum-homme-200ml", "source": "catalogue-06-10"},
+    {"boutique": "briki", "nom": "ARMAF CLUB DE NUIT INTENSE 200 ml", "prix": 18500, "volume": "200ml", "url": "https://briki-parfums.com/promo/jean-paul-gaultier-coffret-parfum-scandal/", "source": "catalogue-06-10"},
+    {"boutique": "parfumalgerieshop", "nom": "Club de Nuit Intense (Armaf)-Eau de Parfum -200ml", "prix": 19000, "volume": "200ml", "url": "https://parfumalgerie.shop/products/club-de-nuit-intense-armaf-eau-de-parfum-200ml", "source": "catalogue-06-10"}
+  ],
+  "offresAutresVolumes": [
+    {"boutique": "dion", "nom": "ARMAF CLUB DE NUIT INTENSE MAN EDP 105ML", "prix": 10200, "volume": "105ml", "url": "https://dionbyhiba.com/products/armaf-club-de-nuit-intense-man-105ml", "source": "catalogue-06-10"},
+    {"boutique": "briki", "nom": "ARMAF CLUB DE NUIT INTENSE 105 ml", "prix": 9500, "volume": "105ml", "url": "https://briki-parfums.com/promo/coffret-du-parfum-miss-dior/", "source": "catalogue-06-10"}
+  ],
+  "prixEurope": null,
+  "remarque": "4 offres au bon volume (EDP 200 ml, le format 200 ml n'existe qu'en EDP) : 17 500 / 18 000 / 18 500 / 19 000 DA, médiane 18 250 DA. Briki : prix normal 18 500 DA (16 500 DA en promo le 06/10), son URL réutilise un ancien slug de la boutique mais le nom et la contenance sont ceux du flacon. Briki 105 ml (version non précisée, 9 500 DA) donné à titre indicatif. Exclus : EDT 105 ml (Odorem 11 000, Palais 9 900, Parfum Deluxe 11 000, parfumalgerie.shop 12 500), Pure Parfum 150 ml (Odorem 16 500, Parfum Deluxe 16 000, parfumalgerie.shop 17 500, Briki 150 ml 18 500, Tendance 150 ml 17 500 en rupture), Overdose, Limited Edition Parfum, version Woman, déodorants.",
+  "verifieLe": "2026-11-25"
+}

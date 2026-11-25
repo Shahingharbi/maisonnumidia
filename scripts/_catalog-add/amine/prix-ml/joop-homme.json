@@ -1,0 +1,13 @@
+{
+  "slug": "joop-homme",
+  "offres": [
+    {"boutique": "briki", "nom": "JOOP HOMME (déclinaison 200 ml)", "prix": 11500, "volume": "200ml", "url": "https://briki-parfums.com/parfums-homme/guerlain-mon-guerlain-eau-de-parfum/", "source": "catalogue-06-10"},
+    {"boutique": "odorem", "nom": "JOOP Homme 200ml edt", "prix": 12800, "volume": "200ml", "url": "https://odorem-dz.com/produit/joop-homme-200ml-edt/", "source": "catalogue-06-10"}
+  ],
+  "offresAutresVolumes": [
+    {"boutique": "briki", "nom": "JOOP HOMME (déclinaison 125 ml)", "prix": 9500, "volume": "125ml", "url": "https://briki-parfums.com/parfums-homme/guerlain-mon-guerlain-eau-de-parfum/", "source": "catalogue-06-10"}
+  ],
+  "prixEurope": null,
+  "remarque": "2 offres au bon volume (EDT 200 ml) : 11 500 et 12 800 DA, médiane 12 150 DA. La fiche Briki « JOOP HOMME » (125 et 200 ml) réutilise un ancien slug de la boutique, nom et déclinaisons sont ceux du Joop! Homme. Non retenu : Palais « Joop homme edt » 9 800 DA, contenance non précisée. Exclus : Joop! Homme Extreme 125 ml EDT intense (Odorem 12 800), Wow!, Go, déodorant, stick, gel douche.",
+  "verifieLe": "2026-11-25"
+}

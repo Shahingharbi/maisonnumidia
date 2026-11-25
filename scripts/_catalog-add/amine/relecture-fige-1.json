@@ -1,0 +1,917 @@
+[
+ {
+  "slug": "cacharel-eden",
+  "slugCandidat": "cacharel-eden",
+  "brand": "Cacharel",
+  "name": "Eden",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "50ml",
+  "family": "Floral Aquatique",
+  "notes": {
+   "top": [
+    "Pêche",
+    "Bergamote",
+    "Mandarine",
+    "Citron"
+   ],
+   "heart": [
+    "Nénuphar",
+    "Mimosa",
+    "Tubéreuse",
+    "Melon",
+    "Lotus",
+    "Ananas",
+    "Jasmin",
+    "Muguet",
+    "Rose"
+   ],
+   "base": [
+    "Patchouli",
+    "Robinier",
+    "Bois de santal",
+    "Cèdre",
+    "Fève tonka"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "calvin-klein-eternity-parfum-for-men",
+  "slugCandidat": "calvin-klein-eternity-for-men-parfum",
+  "brand": "Calvin Klein",
+  "name": "Eternity Parfum For Men",
+  "gender": "homme",
+  "concentration": "Parfum",
+  "volume": "200ml",
+  "family": "Oriental Fougère",
+  "notes": {
+   "top": [
+    "Lavande"
+   ],
+   "heart": [
+    "Rhum"
+   ],
+   "base": [
+    "Vanille absolue"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "calvin-klein-eternity-moment",
+  "slugCandidat": "calvin-klein-eternity-moment",
+  "brand": "Calvin Klein",
+  "name": "Eternity Moment",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Fruité",
+  "notes": {
+   "top": [
+    "Litchi",
+    "Framboise",
+    "Goyave",
+    "Melon"
+   ],
+   "heart": [
+    "Pivoine rose de Chine",
+    "Jasmin",
+    "Nénuphar",
+    "Passiflore"
+   ],
+   "base": [
+    "Musc",
+    "Bois de rose du Brésil",
+    "Bois de cachemire",
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "davidoff-cool-water-intense",
+  "slugCandidat": "davidoff-cool-water-intense",
+  "brand": "Davidoff",
+  "name": "Cool Water Intense",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "125ml",
+  "family": "Aquatique Ambré",
+  "notes": {
+   "top": [
+    "Mandarine verte"
+   ],
+   "heart": [
+    "Nectar de noix de coco"
+   ],
+   "base": [
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "davidoff-cool-water-parfum",
+  "slugCandidat": "davidoff-cool-water-parfum",
+  "brand": "Davidoff",
+  "name": "Cool Water Parfum",
+  "gender": "homme",
+  "concentration": "Parfum",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Citron",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Vétiver d'Haïti"
+   ],
+   "base": [
+    "Bois de santal"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "dolce-gabbana-the-one-for-men",
+  "slugCandidat": "dolce-gabbana-the-one-for-men-edp",
+  "brand": "Dolce & Gabbana",
+  "name": "The One for Men",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "150ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Coriandre",
+    "Basilic"
+   ],
+   "heart": [
+    "Cardamome",
+    "Gingembre",
+    "Fleur d'oranger"
+   ],
+   "base": [
+    "Ambre",
+    "Tabac",
+    "Cèdre"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "armani-emporio-stronger-with-you-parfum",
+  "slugCandidat": "emporio-armani-stronger-with-you-parfum",
+  "brand": "Giorgio Armani",
+  "name": "Emporio Armani Stronger With You Parfum",
+  "gender": "homme",
+  "concentration": "Parfum",
+  "volume": "100ml",
+  "family": "Oriental Fougère",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Mandarine"
+   ],
+   "heart": [
+    "Lavande",
+    "Cannelle",
+    "Sauge"
+   ],
+   "base": [
+    "Châtaigne",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "issey-miyake-l-eau-d-pour-homme-intense",
+  "slugCandidat": "issey-miyake-l-eau-d-issey-pour-homme-intense",
+  "brand": "Issey Miyake",
+  "name": "L'Eau d'Issey Pour Homme Intense",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "125ml",
+  "family": "Boisé Épicé",
+  "notes": {
+   "top": [
+    "Yuzu",
+    "Bergamote",
+    "Orange douce",
+    "Mandarine"
+   ],
+   "heart": [
+    "Noix de muscade",
+    "Lotus",
+    "Cardamome",
+    "Cannelle",
+    "Safran"
+   ],
+   "base": [
+    "Encens",
+    "Papyrus",
+    "Ambre gris",
+    "Benjoin",
+    "Ambre"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "jean-paul-gaultier-scandal-pour-homme",
+  "slugCandidat": "jean-paul-gaultier-scandal-pour-homme-edt",
+  "brand": "Jean Paul Gaultier",
+  "name": "Scandal Pour Homme",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "150ml",
+  "family": "Oriental Fougère",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Sauge sclarée"
+   ],
+   "heart": [
+    "Caramel",
+    "Fève tonka"
+   ],
+   "base": [
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "joop-jump",
+  "slugCandidat": "joop-jump",
+  "brand": "Joop!",
+  "name": "Jump",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "200ml",
+  "family": "Fougère Aromatique",
+  "notes": {
+   "top": [
+    "Pamplemousse",
+    "Romarin",
+    "Carvi"
+   ],
+   "heart": [
+    "Héliotrope",
+    "Coriandre"
+   ],
+   "base": [
+    "Fève tonka",
+    "Musc",
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "lanvin-oxygene-homme",
+  "slugCandidat": "lanvin-oxygene-homme",
+  "brand": "Lanvin",
+  "name": "Oxygène Homme",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Cyprès",
+    "Résine de sapin",
+    "Coriandre",
+    "Armoise"
+   ],
+   "heart": [
+    "Genièvre",
+    "Myrte"
+   ],
+   "base": [
+    "Cèdre",
+    "Musc blanc"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "mercedes-benz-le-parfum",
+  "slugCandidat": "mercedes-benz-le-parfum",
+  "brand": "Mercedes-Benz",
+  "name": "Le Parfum",
+  "gender": "homme",
+  "concentration": "Parfum",
+  "volume": "120ml",
+  "family": "Chypré Boisé",
+  "notes": {
+   "top": [
+    "Poivre rose",
+    "Bergamote"
+   ],
+   "heart": [
+    "Feuille de violette",
+    "Safran",
+    "Galbanum"
+   ],
+   "base": [
+    "Bois d'agar (Oud)",
+    "Vétiver",
+    "Ambre",
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "rochas-moustache",
+  "slugCandidat": "rochas-moustache-edp",
+  "brand": "Rochas",
+  "name": "Moustache",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "125ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [
+    "Mandarine",
+    "Poivre rose"
+   ],
+   "heart": [
+    "Rose de Bulgarie",
+    "Cèdre de l'Atlas"
+   ],
+   "base": [
+    "Patchouli",
+    "Benjoin",
+    "Vanille"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "valentino-uomo-born-in-roma-intense",
+  "slugCandidat": "valentino-uomo-born-in-roma-intense",
+  "brand": "Valentino",
+  "name": "Uomo Born In Roma Intense",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [
+    "Vanille"
+   ],
+   "heart": [
+    "Lavande"
+   ],
+   "base": [
+    "Vétiver"
+   ]
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "yves-rocher-ambre-noir",
+  "slugCandidat": "yves-rocher-ambre-noir",
+  "brand": "Yves Rocher",
+  "name": "Ambre Noir",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Ambre",
+    "Fève tonka",
+    "Cèdre",
+    "Vétiver",
+    "Patchouli",
+    "Lavande"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "yves-rocher-bois-de-sauge",
+  "slugCandidat": "yves-rocher-bois-de-sauge",
+  "brand": "Yves Rocher",
+  "name": "Bois de Sauge",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Boisé Aromatique",
+  "notes": {
+   "top": [
+    "Sauge sclarée"
+   ],
+   "heart": [
+    "Bois de gaïac"
+   ],
+   "base": [
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "yves-rocher-bouquet-ambre",
+  "slugCandidat": "yves-rocher-bouquet-ambre",
+  "brand": "Yves Rocher",
+  "name": "Bouquet Ambré",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Ambré Floral",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Iris",
+    "Jasmin",
+    "Encens",
+    "Orange amère"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "yves-rocher-cuir-de-nuit",
+  "slugCandidat": "yves-rocher-cuir-de-nuit",
+  "brand": "Yves Rocher",
+  "name": "Cuir de Nuit",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Oriental Vanillé",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Vanille de Tahiti",
+    "Cacao",
+    "Poivre rose",
+    "Café"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Soirée",
+   "Occasions spéciales"
+  ],
+  "seasons": [
+   "Automne",
+   "Hiver"
+  ]
+ },
+ {
+  "slug": "yves-rocher-eau-fraiche-aerienne",
+  "slugCandidat": "yves-rocher-eau-fraiche-aerienne",
+  "brand": "Yves Rocher",
+  "name": "Eau Fraîche Aérienne",
+  "gender": "unisexe",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Hespéridé Aromatique",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Cédrat",
+    "Menthe"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "yves-rocher-eau-fraiche-petillante",
+  "slugCandidat": "yves-rocher-eau-fraiche-petillante",
+  "brand": "Yves Rocher",
+  "name": "Eau Fraîche Pétillante",
+  "gender": "unisexe",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Agrumes Aromatique",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Citron",
+    "Poivre rose"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "yves-rocher-eau-fraiche-poudree",
+  "slugCandidat": "yves-rocher-eau-fraiche-poudree",
+  "brand": "Yves Rocher",
+  "name": "Eau Fraîche Poudrée",
+  "gender": "unisexe",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Floral Poudré",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Magnolia",
+    "Bergamote"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "yves-rocher-garden-party",
+  "slugCandidat": "yves-rocher-garden-party",
+  "brand": "Yves Rocher",
+  "name": "Garden Party",
+  "gender": "unisexe",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Vert",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Rose de Damas",
+    "Menthe"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "yves-rocher-granit-bleu",
+  "slugCandidat": "yves-rocher-granit-bleu",
+  "brand": "Yves Rocher",
+  "name": "Granit Bleu",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Boisé Aquatique",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Bergamote",
+    "Vétiver",
+    "Algues",
+    "Sable"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "yves-rocher-hoggar",
+  "slugCandidat": "yves-rocher-hoggar",
+  "brand": "Yves Rocher",
+  "name": "Hoggar",
+  "gender": "homme",
+  "concentration": "EDT",
+  "volume": "100ml",
+  "family": "Oriental Boisé",
+  "notes": {
+   "top": [],
+   "heart": [
+    "Fève tonka",
+    "Cèdre",
+    "Bergamote",
+    "Agrumes"
+   ],
+   "base": []
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "yves-rocher-verte-envolee",
+  "slugCandidat": "yves-rocher-verte-envolee",
+  "brand": "Yves Rocher",
+  "name": "Verte Envolée",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Boisé Musqué",
+  "notes": {
+   "top": [
+    "Bergamote",
+    "Citron"
+   ],
+   "heart": [
+    "Thé noir",
+    "Accord vert",
+    "Rose"
+   ],
+   "base": [
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "gucci-by-gucci",
+  "slugCandidat": "gucci-by-gucci",
+  "brand": "Gucci",
+  "name": "Gucci by Gucci",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "75ml",
+  "family": "Chypré Floral",
+  "notes": {
+   "top": [
+    "Poire",
+    "Goyave"
+   ],
+   "heart": [
+    "Muguet",
+    "Néroli",
+    "Fleur de tiaré de Tahiti"
+   ],
+   "base": [
+    "Patchouli",
+    "Miel",
+    "Musc"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "chanel-cristalle-eau-de-parfum",
+  "slugCandidat": "chanel-cristalle-edp",
+  "brand": "Chanel",
+  "name": "Cristalle Eau de Parfum",
+  "gender": "femme",
+  "concentration": "EDP",
+  "volume": "100ml",
+  "family": "Floral Vert",
+  "notes": {
+   "top": [
+    "Agrumes",
+    "Notes fruitées"
+   ],
+   "heart": [
+    "Jacinthe",
+    "Chèvrefeuille"
+   ],
+   "base": [
+    "Jasmin",
+    "Iris"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ },
+ {
+  "slug": "kenzo-homme-eau-de-parfum",
+  "slugCandidat": "kenzo-homme-edp",
+  "brand": "Kenzo",
+  "name": "Kenzo Homme Eau de Parfum",
+  "gender": "homme",
+  "concentration": "EDP",
+  "volume": "110ml",
+  "family": "Cuir Aquatique",
+  "notes": {
+   "top": [
+    "Notes marines"
+   ],
+   "heart": [
+    "Cuir"
+   ],
+   "base": [
+    "Patchouli"
+   ]
+  },
+  "occasions": [
+   "Bureau",
+   "Soirée"
+  ],
+  "seasons": [
+   "Printemps",
+   "Automne"
+  ]
+ },
+ {
+  "slug": "antonio-banderas-blue-seduction-for-women",
+  "slugCandidat": "antonio-banderas-blue-seduction-for-women",
+  "brand": "Antonio Banderas",
+  "name": "Blue Seduction for Women",
+  "gender": "femme",
+  "concentration": "EDT",
+  "volume": "200ml",
+  "family": "Floral Aquatique",
+  "notes": {
+   "top": [
+    "Melon",
+    "Bergamote",
+    "Poire",
+    "Feuille de violette"
+   ],
+   "heart": [
+    "Pivoine",
+    "Jasmin",
+    "Muguet",
+    "Gardénia",
+    "Rose de Bulgarie"
+   ],
+   "base": [
+    "Framboise",
+    "Patchouli",
+    "Musc",
+    "Benjoin"
+   ]
+  },
+  "occasions": [
+   "Journée",
+   "Bureau"
+  ],
+  "seasons": [
+   "Printemps",
+   "Été"
+  ]
+ }
+]

@@ -1,0 +1,34 @@
+{
+  "slug": "cerruti-1881-pour-femme-coffret",
+  "offres": [
+    {
+      "boutique": "briki-parfums.com",
+      "nom": "COFFRET CERRUTI 1881 pour femme",
+      "prix": 12500,
+      "volume": "50ml",
+      "url": "https://briki-parfums.com/coffrets/coffrets-femmes/coffret-cerruti-1881-pour-femme/",
+      "source": "catalogue du 06/10/2026 (raw2/briki.json, regular = price = 12 500 DA, pas de promo) ; page relue le 25/11/2026 : toujours 12 500 DA, sous-titre « EDT 50ml + Body Lotion 75ml »"
+    },
+    {
+      "boutique": "parfumdeluxedz.com",
+      "nom": "Cerruti - 1881 Coffret Eau de Toilette pour Femme 50ml + Lait Corps 75ml",
+      "prix": 13500,
+      "volume": "50ml",
+      "url": "https://parfumdeluxedz.com/products/cerruti-1881-coffret-eau-de-toilette-pour-femme-50ml-lait-corps-75ml",
+      "source": "catalogue du 06/10/2026 (raw2/parfumdeluxe.json, Shopify : regular vide = aucun prix barré, 13 500 DA est le prix normal) ; page non relue le 25/11 (HTTP 429)"
+    }
+  ],
+  "compositionsVues": [
+    {
+      "contenu": "eau de toilette 50 ml + lait pour le corps (body lotion) 75 ml",
+      "url": "https://briki-parfums.com/coffrets/coffrets-femmes/coffret-cerruti-1881-pour-femme/"
+    },
+    {
+      "contenu": "eau de toilette 50 ml + lait corps 75 ml",
+      "url": "https://parfumdeluxedz.com/products/cerruti-1881-coffret-eau-de-toilette-pour-femme-50ml-lait-corps-75ml"
+    }
+  ],
+  "prixEurope": null,
+  "remarque": "Deux coffrets 1881 pour Femme avec l'eau de toilette en 50 ml dans les 12 catalogues algériens du 06/10/2026 (smellgood exclu), même composition chez les deux : 12 500 et 13 500 DA, médiane 13 000 DA. Écartés : les coffrets 1881 pour Homme (Odorem 2 pièces 11 500 DA, Palais 2 pièces 13 900 DA, parfumalgerie.shop EDT 100 ml + stick 13 500 DA, Parfum Deluxe EDT 100 ml + déodorant 150 ml 11 800 DA) et le « Pack promo 1881 pour Homme » d'Odorem. À noter : le flacon seul de 1881 pour Femme EDT 100 ml est moins cher que ces coffrets 50 ml (Leila 9 500, Briki 10 500 prix normal, Tendance 11 000, Gallery 11 400, Odorem 11 600, Parfum Deluxe 12 000 DA ; médiane 11 200 DA ; Palais 7 900 DA sans volume précisé). Aucune recherche web faite pour ce coffret. Prix noté par Amine : 11 000 DA.",
+  "verifieLe": "2026-11-25"
+}

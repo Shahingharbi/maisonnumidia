@@ -3,6 +3,9 @@
 // Vérifie la structure, les règles de rédaction de CLAUDE.md, et surtout qu'aucune note
 // olfactive citée dans le texte n'est absente du champ `notes` de la fiche.
 import fs from "fs";
+// Dossier de travail : scripts/_catalog-add/ par défaut, ou un lot à part (CATALOG_ADD_DIR=./scripts/_catalog-add/amine/)
+// pour ne pas mélanger deux chantiers (le stock reçu en dépôt-vente et la vague 2 en attente).
+const BASE = process.env.CATALOG_ADD_DIR || "./scripts/_catalog-add/";
 
 const COMB = /[̀-ͯ]/g;
 const LIGATURES = /[œæ]/g;
@@ -29,8 +32,8 @@ const PHRASES = [
 // de la cardamome, « fruits tropicaux » pour mangue + goyave). Fiche par fiche plutôt que dans
 // GENERIQUE : « poivre » reste suspect partout ailleurs. Format : { "<slug>": ["terme", ...] },
 // termes tels que le contrôle les affiche.
-const RELUES = fs.existsSync("./scripts/_catalog-add/notes-relues.json")
-  ? JSON.parse(fs.readFileSync("./scripts/_catalog-add/notes-relues.json", "utf8")) : {};
+const RELUES = fs.existsSync(BASE + "notes-relues.json")
+  ? JSON.parse(fs.readFileSync(BASE + "notes-relues.json", "utf8")) : {};
 
 // Vocabulaire d'accord / de famille : descriptif, pas une revendication de note précise.
 const GENERIQUE = new Set(["agrumes", "citrus", "aquatique", "notes aquatiques", "notes marines", "marine", "marines",
@@ -121,7 +124,7 @@ const compact = (s) => s.split(" ").filter((m) => !PARTICULES.has(m)).join(" ");
 const formes = (s) => [...new Set([s, sing(s), compact(s), sing(compact(s))])];
 
 const catalogue = JSON.parse(fs.readFileSync("./data/products.json", "utf8"));
-const fiches = JSON.parse(fs.readFileSync("./scripts/_catalog-add/fiches.json", "utf8"));
+const fiches = JSON.parse(fs.readFileSync(BASE + "fiches.json", "utf8"));
 const slugsExistants = new Set(catalogue.products.map((p) => p.slug));
 const marques = new Set(catalogue.brands.map((b) => b.slug));
 
@@ -189,4 +192,4 @@ console.log("fiches : " + fiches.length + " | conformes : " + (fiches.length - k
 ko.forEach((x) => console.log("  ! " + x.slug + " -> " + x.pb.join(" | ")));
 const repet = [...accroches.entries()].filter((e) => e[1] > 2);
 console.log(repet.length ? "accroches répétées : " + repet.map((e) => e[0] + " x" + e[1]).join(" | ") : "accroches variées OK");
-fs.writeFileSync("./scripts/_catalog-add/check-fiches.json", JSON.stringify(ko, null, 1));
+fs.writeFileSync(BASE + "check-fiches.json", JSON.stringify(ko, null, 1));
