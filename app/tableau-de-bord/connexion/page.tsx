@@ -61,9 +61,9 @@ function Formulaire() {
 
         {configManquante && (
           <div className="mb-5 rounded-lg border border-[#E8C9C6] bg-[#FBE7E5] px-4 py-3 text-[12px] text-[#B3261E]">
-            Les identifiants ne sont pas configurés sur le serveur. Ajoutez les
-            variables <strong>TDB_USER</strong> et <strong>TDB_PASS</strong> dans
-            Vercel, puis redéployez.
+            Les identifiants ne sont pas configurés sur le serveur. Il faut
+            définir <strong>TDB_USER</strong> et <strong>TDB_PASS</strong> dans
+            les secrets du Worker Cloudflare.
           </div>
         )}
 
