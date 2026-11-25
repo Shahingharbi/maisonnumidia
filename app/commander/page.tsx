@@ -94,6 +94,7 @@ export default function CommanderPage() {
       EMAILJS_PUBLIC_KEY === "YOUR_PUBLIC_KEY";
 
     // ── 1 bis. Enregistrement en base, AVANT tout envoi de mail ──────────────
+    let mailServeur = false;
     // C'est la seule trace qui compte : si le mail échoue, la commande existe
     // quand même et apparaît dans le tableau de bord.
     try {
@@ -120,14 +121,23 @@ export default function CommanderPage() {
           })),
         }),
       });
-      const data = (await reponse.json()) as { ok?: boolean; numero?: string };
+      const data = (await reponse.json()) as {
+        ok?: boolean;
+        numero?: string;
+        mailEnvoye?: boolean;
+      };
       if (data?.ok && data.numero) setNumeroCommande(data.numero);
+      mailServeur = Boolean(data?.mailEnvoye);
     } catch {
       // Le canal de secours (mail + WhatsApp) prend le relais.
     }
 
-    let emailEnvoye = false;
-    if (configManquante) {
+    // Le serveur envoie déjà le mail récapitulatif avec la photo du parfum.
+    // EmailJS ne sert plus que de filet : un seul mail par commande, jamais zéro.
+    let emailEnvoye = mailServeur;
+    if (mailServeur) {
+      // rien à faire, le vendeur est prévenu
+    } else if (configManquante) {
       console.error(
         "[Commande] EmailJS non configuré : variables NEXT_PUBLIC_EMAILJS_* absentes du build. " +
         "Ajoute-les dans Vercel → Settings → Environment Variables, puis redéploie sans cache."

@@ -143,31 +143,47 @@ export function mailCommande(c: CommandeNotifiee): string {
 </body></html>`;
 }
 
-async function envoyerMail(c: CommandeNotifiee): Promise<void> {
+/**
+ * L'expéditeur doit être une adresse validée dans Brevo, sinon l'envoi est
+ * refusé. Par défaut on envoie depuis l'adresse qui reçoit les commandes :
+ * c'est la seule validée sur le compte, et elle le restera tant que le domaine
+ * maisonnumidia.store n'y est pas authentifié.
+ */
+async function envoyerMail(c: CommandeNotifiee): Promise<boolean> {
   const cle = process.env.BREVO_API_KEY;
   const destinataire = process.env.MAIL_COMMANDES;
-  if (!cle || !destinataire) return;
+  if (!cle || !destinataire) return false;
+  const expediteur = process.env.MAIL_EXPEDITEUR || destinataire.split(",")[0].trim();
 
-  await fetch("https://api.brevo.com/v3/smtp/email", {
-    method: "POST",
-    headers: {
-      "api-key": cle,
-      "Content-Type": "application/json",
-      accept: "application/json",
-    },
-    body: JSON.stringify({
-      sender: { name: "Maison Numidia", email: "commandes@maisonnumidia.store" },
-      to: destinataire.split(",").map((e) => ({ email: e.trim() })),
-      subject: `Commande ${c.numero} — ${c.client} — ${prix(c.total)}`,
-      htmlContent: mailCommande(c),
-    }),
-  });
+  try {
+    const reponse = await fetch("https://api.brevo.com/v3/smtp/email", {
+      method: "POST",
+      headers: {
+        "api-key": cle,
+        "Content-Type": "application/json",
+        accept: "application/json",
+      },
+      body: JSON.stringify({
+        sender: { name: "Maison Numidia", email: expediteur },
+        to: destinataire.split(",").map((e) => ({ email: e.trim() })),
+        subject: `Commande ${c.numero} — ${c.client} — ${prix(c.total)}`,
+        htmlContent: mailCommande(c),
+      }),
+    });
+    return reponse.ok;
+  } catch {
+    return false;
+  }
 }
 
-export async function notifierNouvelleCommande(c: CommandeNotifiee): Promise<void> {
+/** Renvoie si le mail est bien parti : le site n'utilise EmailJS que sinon. */
+export async function notifierNouvelleCommande(
+  c: CommandeNotifiee,
+): Promise<{ mailEnvoye: boolean }> {
   const db = await base();
-  await Promise.allSettled([
+  const [mail] = await Promise.allSettled([
     envoyerMail(c),
     db ? reveillerAbonnes(db) : Promise.resolve(),
   ]);
+  return { mailEnvoye: mail.status === "fulfilled" && mail.value === true };
 }

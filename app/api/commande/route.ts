@@ -119,8 +119,9 @@ export async function POST(req: Request) {
   }
 
   // La notification ne doit jamais faire échouer la commande.
+  let mailEnvoye = false;
   try {
-    await notifierNouvelleCommande({
+    const r = await notifierNouvelleCommande({
       numero,
       client,
       telephone,
@@ -134,9 +135,12 @@ export async function POST(req: Request) {
       fraisLivraison,
       total,
     });
+    mailEnvoye = r.mailEnvoye;
   } catch {
     // silencieux côté client, la commande est déjà sauvée
   }
 
-  return NextResponse.json({ ok: true, numero });
+  // mailEnvoye dit au site s'il doit déclencher le canal de secours EmailJS,
+  // pour que le vendeur reçoive exactement un mail par commande, jamais zéro.
+  return NextResponse.json({ ok: true, numero, mailEnvoye });
 }
