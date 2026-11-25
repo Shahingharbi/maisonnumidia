@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import {
   COOKIE_TDB,
+  identifiantsConfigures,
   jetonAttendu,
   motDePasseAttendu,
   utilisateurAttendu,
@@ -9,6 +10,17 @@ import {
 export const runtime = "nodejs";
 
 export async function POST(req: Request) {
+  if (!identifiantsConfigures()) {
+    return NextResponse.json(
+      {
+        ok: false,
+        erreur:
+          "Identifiants non configurés sur le serveur. Il faut définir TDB_USER et TDB_PASS.",
+      },
+      { status: 500 },
+    );
+  }
+
   let identifiant = "";
   let motDePasse = "";
   try {
@@ -35,7 +47,7 @@ export async function POST(req: Request) {
   const reponse = NextResponse.json({ ok: true });
   reponse.cookies.set({
     name: COOKIE_TDB,
-    value: await jetonAttendu(),
+    value: (await jetonAttendu()) ?? "",
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
     sameSite: "lax",

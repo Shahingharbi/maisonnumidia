@@ -2,24 +2,28 @@
 //
 // Le contrôle se fait UNIQUEMENT côté serveur (middleware + route API), donc le
 // mot de passe n'est jamais envoyé au navigateur et n'apparaît pas dans le
-// bundle JavaScript public. En revanche il est écrit en clair ici : le dépôt
-// GitHub doit donc rester PRIVÉ.
+// bundle JavaScript public.
 //
-// Pour changer les identifiants sans toucher au code, définir TDB_USER et
-// TDB_PASS dans Vercel → Settings → Environment Variables : elles ont priorité.
-
-const USER_DEFAUT = "Maisonnumidia";
-const PASS_DEFAUT = "Blida09";
+// Il n'est PAS écrit ici non plus : le dépôt GitHub est public, et la page donne
+// accès aux noms, téléphones et adresses des clients. Les identifiants vivent
+// dans deux secrets du Worker Cloudflare, TDB_USER et TDB_PASS :
+//     npx wrangler secret put TDB_PASS
+// S'ils manquent, l'accès est refusé et la page de connexion le dit clairement,
+// plutôt que de retomber en silence sur une valeur connue de tout le monde.
 
 export const COOKIE_TDB = "mn_tdb";
 const SEL = "maison-numidia-tableau-de-bord-v1";
 
+export function identifiantsConfigures(): boolean {
+  return Boolean(process.env.TDB_USER && process.env.TDB_PASS);
+}
+
 export function utilisateurAttendu(): string {
-  return process.env.TDB_USER || USER_DEFAUT;
+  return process.env.TDB_USER ?? "";
 }
 
 export function motDePasseAttendu(): string {
-  return process.env.TDB_PASS || PASS_DEFAUT;
+  return process.env.TDB_PASS ?? "";
 }
 
 /** Empreinte des identifiants, posée en cookie httpOnly après connexion. */
@@ -31,8 +35,9 @@ export async function jeton(user: string, pass: string): Promise<string> {
     .join("");
 }
 
-/** Jeton attendu, calculé depuis la configuration serveur. */
-export async function jetonAttendu(): Promise<string> {
+/** Jeton attendu, calculé depuis la configuration serveur. null si non configuré. */
+export async function jetonAttendu(): Promise<string | null> {
+  if (!identifiantsConfigures()) return null;
   return jeton(utilisateurAttendu(), motDePasseAttendu());
 }
 

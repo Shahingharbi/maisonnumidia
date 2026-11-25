@@ -1,0 +1,17 @@
+{
+  "name": "Maison Numidia — Commandes",
+  "short_name": "Commandes",
+  "description": "Espace interne Maison Numidia : les commandes du jour.",
+  "start_url": "/tableau-de-bord",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAF8",
+  "theme_color": "#111111",
+  "lang": "fr",
+  "icons": [
+    { "src": "/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/logo.png", "sizes": "500x500", "type": "image/png", "purpose": "any" },
+    { "src": "/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" }
+  ]
+}

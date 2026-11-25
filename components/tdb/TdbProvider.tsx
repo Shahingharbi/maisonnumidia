@@ -194,7 +194,20 @@ interface Api {
 
 const Ctx = createContext<Api | null>(null);
 
-export function TdbProvider({ children }: { children: React.ReactNode }) {
+export function TdbProvider({
+  children,
+  commandes,
+}: {
+  children: React.ReactNode;
+  /**
+   * Commandes venues de la base, converties à l'ancien modèle. Quand elles sont
+   * fournies, elles remplacent celles du stockage local : les écrans Chiffres,
+   * Clients et Caisse travaillent alors sur les vraies commandes, partagées
+   * entre les trois associés. Le reste (caisse, liste noire, réglages) reste
+   * pour l'instant dans le navigateur.
+   */
+  commandes?: Commande[];
+}) {
   const [base, setBase] = useState<BaseTdb>(() => baseDefaut());
   const [pret, setPret] = useState(false);
 
@@ -217,9 +230,14 @@ export function TdbProvider({ children }: { children: React.ReactNode }) {
     setBase((b) => ({ ...f(b), majLe: new Date().toISOString() }));
   }, []);
 
+  const baseVisible = useMemo<BaseTdb>(
+    () => (commandes ? { ...base, commandes } : base),
+    [base, commandes],
+  );
+
   const api = useMemo<Api>(
     () => ({
-      base,
+      base: baseVisible,
       pret,
       nouvelId: id,
       ajouterCommande: (c) => ecrire((b) => ({ ...b, commandes: [c, ...b.commandes] })),
@@ -259,7 +277,7 @@ export function TdbProvider({ children }: { children: React.ReactNode }) {
       toutEffacer: () =>
         ecrire(() => ({ ...baseDefaut(), commandes: [], operations: [], blacklist: [] })),
     }),
-    [base, pret, ecrire],
+    [base, baseVisible, pret, ecrire],
   );
 
   return <Ctx.Provider value={api}>{children}</Ctx.Provider>;

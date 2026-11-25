@@ -32,6 +32,7 @@ export default function CommanderPage() {
   const [error, setError] = useState("");
   const [whatsappUrl, setWhatsappUrl] = useState("");
   const [emailFailed, setEmailFailed] = useState(false);
+  const [numeroCommande, setNumeroCommande] = useState("");
 
   const [nom, setNom] = useState("");
   const [telephone, setTelephone] = useState("");
@@ -91,6 +92,39 @@ export default function CommanderPage() {
       EMAILJS_SERVICE_ID === "YOUR_SERVICE_ID" ||
       EMAILJS_TEMPLATE_ID === "YOUR_TEMPLATE_ID" ||
       EMAILJS_PUBLIC_KEY === "YOUR_PUBLIC_KEY";
+
+    // ── 1 bis. Enregistrement en base, AVANT tout envoi de mail ──────────────
+    // C'est la seule trace qui compte : si le mail échoue, la commande existe
+    // quand même et apparaît dans le tableau de bord.
+    try {
+      const reponse = await fetch("/api/commande", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          client: nom,
+          telephone,
+          wilaya,
+          commune: mode === "bureau" ? bureau : commune,
+          adresse: mode === "bureau" ? `Bureau Yalidine : ${bureau}` : adresseComplete,
+          modeLivraison: mode === "bureau" ? "Bureau Yalidine" : "À domicile",
+          noteClient: message,
+          fraisLivraison: frais ?? 0,
+          source: "Site",
+          articles: items.map((i) => ({
+            slug: i.slug,
+            nom: i.name,
+            marque: i.brand,
+            image: i.image,
+            prix: i.price,
+            qte: i.quantity,
+          })),
+        }),
+      });
+      const data = (await reponse.json()) as { ok?: boolean; numero?: string };
+      if (data?.ok && data.numero) setNumeroCommande(data.numero);
+    } catch {
+      // Le canal de secours (mail + WhatsApp) prend le relais.
+    }
 
     let emailEnvoye = false;
     if (configManquante) {
@@ -170,6 +204,12 @@ export default function CommanderPage() {
               de confirmation au <strong className="text-[#111111]">{telephone}</strong> dans
               les prochaines heures.
             </p>
+            {numeroCommande && (
+              <p className="mt-5 inline-block rounded-lg border border-[#E6DCC2] bg-[#F6EFDD] px-4 py-2 text-sm text-[#8B6914]">
+                Votre numéro de commande :{" "}
+                <strong className="text-[#111111] tracking-wide">{numeroCommande}</strong>
+              </p>
+            )}
           </div>
 
           {emailFailed && (

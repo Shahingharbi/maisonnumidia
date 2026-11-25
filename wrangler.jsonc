@@ -6,5 +6,14 @@
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
   "services": [{ "binding": "WORKER_SELF_REFERENCE", "service": "maisonnumidia" }],
+  // Base des commandes : elles sont enregistrées ici à la seconde où le client valide,
+  // avant tout envoi de mail. Si le mail échoue, la commande existe quand même.
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "maisonnumidia-commandes",
+      "database_id": "4c4489e9-2830-414c-8a47-ce78b8262428"
+    }
+  ],
   "observability": { "enabled": true }
 }
