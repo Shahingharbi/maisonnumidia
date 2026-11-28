@@ -303,7 +303,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Franck Olivier Franck Olivier Parfum Femme Algérie",
+  "h1": "Franck Olivier Parfum Femme Algérie",
   "notes": [
    "Bergamote",
    "Citron",
@@ -737,7 +737,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Libre YSL Parfum Femme Algérie",
+  "h1": "Yves Saint Laurent Libre Parfum Femme Algérie",
   "notes": [
    "Lavande",
    "Mandarine",
@@ -1525,7 +1525,7 @@
     "slug": "club-de-nuit-intense-armaf",
     "nom": "Club de Nuit Intense Man",
     "conc": "EDP",
-    "vol": "105ml"
+    "vol": "200ml"
    },
    {
     "slug": "armaf-club-de-nuit-intense-femme",
@@ -1773,7 +1773,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Hermès Terre d'Hermès Parfum Homme Algérie",
+  "h1": "Hermès Terre d'Hermès Eau de Toilette Homme Algérie",
   "notes": [
    "Pamplemousse",
    "Orange",
@@ -1951,7 +1951,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Chanel Chance Eau Tendre Eau de Parfum Parfum Femme Algérie",
+  "h1": "Chanel Chance Eau Tendre Eau de Parfum Femme Algérie",
   "notes": [
    "Coing",
    "Pamplemousse",
@@ -2140,11 +2140,11 @@
   "marque": "Armaf",
   "nom": "Club de Nuit Intense Man",
   "conc": "EDP",
-  "volume": "105ml",
+  "volume": "200ml",
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Armaf Club de Nuit Intense Man Parfum Homme Algérie",
+  "h1": "Armaf Club de Nuit Intense Man Eau de Parfum Homme Algérie",
   "notes": [
    "Citron",
    "Ananas",
@@ -5467,7 +5467,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Dior Sauvage Parfum Homme Algérie",
+  "h1": "Dior Sauvage Eau de Parfum Homme Algérie",
   "notes": [
    "Bergamote",
    "Poivre de Sichuan",
@@ -5906,7 +5906,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": false,
-  "h1": "YSL La Nuit de l'Homme Bleu Électrique Parfum Homme Algérie",
+  "h1": "Yves Saint Laurent La Nuit de l'Homme Bleu Électrique Parfum Homme Algérie",
   "notes": [
    "Cardamome",
    "Gingembre",

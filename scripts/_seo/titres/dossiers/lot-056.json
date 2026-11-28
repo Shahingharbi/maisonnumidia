@@ -601,12 +601,6 @@
     "vol": "100ml"
    },
    {
-    "slug": "eternity-femme-ck",
-    "nom": "Eternity Femme",
-    "conc": "EDP",
-    "vol": "100ml"
-   },
-   {
     "slug": "calvin-klein-eternity-femme",
     "nom": "Eternity pour Femme",
     "conc": "EDP",
@@ -641,6 +635,12 @@
     "nom": "Eternity Flame For Women",
     "conc": "EDP",
     "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-parfum-for-men",
+    "nom": "Eternity Parfum For Men",
+    "conc": "Parfum",
+    "vol": "200ml"
    }
   ],
   "partagees": []
@@ -686,7 +686,7 @@
     "slug": "cerruti-1881-homme",
     "nom": "1881 pour Homme",
     "conc": "EDT",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "cerruti-1881-femme",

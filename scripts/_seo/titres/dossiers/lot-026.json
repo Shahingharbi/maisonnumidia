@@ -2254,7 +2254,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Hugo Boss Femme Parfum Femme Algérie",
+  "h1": "Hugo Boss Femme Eau de Parfum Femme Algérie",
   "notes": [
    "Freesia",
    "Mandarine",
@@ -2867,7 +2867,7 @@
     "slug": "azzaro-chrome",
     "nom": "Chrome",
     "conc": "EDT",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "azzaro-chrome-cologne",
@@ -2985,7 +2985,7 @@
     "slug": "cerruti-1881-homme",
     "nom": "1881 pour Homme",
     "conc": "EDT",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "cerruti-1881-femme",
@@ -3747,6 +3747,12 @@
     "slug": "kenzo-homme",
     "nom": "Kenzo Homme",
     "conc": "EDT",
+    "vol": "110ml"
+   },
+   {
+    "slug": "kenzo-homme-eau-de-parfum",
+    "nom": "Kenzo Homme Eau de Parfum",
+    "conc": "EDP",
     "vol": "110ml"
    }
   ],

@@ -1976,7 +1976,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Calvin Klein Eternity Parfum Homme Algérie",
+  "h1": "Calvin Klein Eternity for Men Eau de Toilette Homme Algérie",
   "notes": [
    "Lavande",
    "Citron",
@@ -2070,12 +2070,6 @@
   "motsCles": [],
   "variantes": [
    {
-    "slug": "eternity-femme-ck",
-    "nom": "Eternity Femme",
-    "conc": "EDP",
-    "vol": "100ml"
-   },
-   {
     "slug": "calvin-klein-eternity-femme",
     "nom": "Eternity pour Femme",
     "conc": "EDP",
@@ -2116,6 +2110,12 @@
     "nom": "Eternity Flame For Women",
     "conc": "EDP",
     "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-parfum-for-men",
+    "nom": "Eternity Parfum For Men",
+    "conc": "Parfum",
+    "vol": "200ml"
    }
   ],
   "partagees": []
@@ -3026,7 +3026,7 @@
     "slug": "azzaro-chrome",
     "nom": "Chrome",
     "conc": "EDT",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "azzaro-chrome-cologne",
@@ -3601,7 +3601,7 @@
   "marque": "Jean Paul Gaultier",
   "nom": "Le Male Elixir",
   "conc": "Parfum",
-  "volume": "125ml",
+  "volume": "200ml",
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,

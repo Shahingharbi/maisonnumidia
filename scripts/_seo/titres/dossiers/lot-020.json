@@ -2050,7 +2050,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Carolina Herrera Bad Boy Parfum Homme Algérie",
+  "h1": "Carolina Herrera Bad Boy Eau de Toilette Homme Algérie",
   "notes": [
    "Poivre",
    "Épices fraîches",
@@ -2713,7 +2713,7 @@
     "slug": "scandal-pour-homme-jean-paul-gaultier",
     "nom": "Scandal Pour Homme Le Parfum",
     "conc": "EDP",
-    "vol": "100ml"
+    "vol": "150ml"
    },
    {
     "slug": "jean-paul-gaultier-scandal-gold",
@@ -2738,6 +2738,12 @@
     "nom": "Scandal Intense",
     "conc": "EDP Intense",
     "vol": "80ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-pour-homme",
+    "nom": "Scandal Pour Homme",
+    "conc": "EDT",
+    "vol": "150ml"
    }
   ],
   "partagees": []
@@ -3476,7 +3482,7 @@
   "genre": "unisexe",
   "categorie": "parfums-orientaux",
   "enStock": true,
-  "h1": "Penhaligon's Halfeti Parfum Unisexe Algérie",
+  "h1": "Penhaligon's Halfeti Parfum Mixte Algérie",
   "notes": [
    "Feuille de cyprès",
    "Safran",

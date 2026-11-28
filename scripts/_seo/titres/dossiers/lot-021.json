@@ -1145,7 +1145,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Paco Rabanne Phantom Parfum Homme Algérie",
+  "h1": "Paco Rabanne Phantom Eau de Toilette Homme Algérie",
   "notes": [
    "Citron jaune",
    "Bergamote",
@@ -1496,7 +1496,7 @@
     "slug": "jean-paul-gaultier-le-male-elixir",
     "nom": "Le Male Elixir",
     "conc": "Parfum",
-    "vol": "125ml"
+    "vol": "200ml"
    },
    {
     "slug": "jean-paul-gaultier-le-male-elixir-absolu",
@@ -1697,7 +1697,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Dolce & Gabbana The One Pour Homme Parfum Parfum Homme Algérie",
+  "h1": "Dolce & Gabbana The One Pour Homme Parfum Homme Algérie",
   "notes": [
    "Orange",
    "Muscade",
@@ -2929,7 +2929,7 @@
   "volume": "75ml",
   "genre": "femme",
   "categorie": "parfums-femme",
-  "enStock": false,
+  "enStock": true,
   "h1": "Escada Magnetism Parfum Femme Algérie",
   "notes": [
    "Ananas",

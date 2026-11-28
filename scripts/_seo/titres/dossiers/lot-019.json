@@ -127,7 +127,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Hugo Boss Femme Parfum Femme Algérie",
+  "h1": "Hugo Boss Boss Femme Eau de Toilette Femme Algérie",
   "notes": [
    "Freesia",
    "Mandarine",
@@ -1197,7 +1197,7 @@
   "marque": "Paco Rabanne",
   "nom": "Invictus Victory Elixir",
   "conc": "EDP Intense",
-  "volume": "100ml",
+  "volume": "200ml",
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
@@ -1304,7 +1304,7 @@
     "slug": "invictus-victory-paco-rabanne",
     "nom": "Invictus Victory",
     "conc": "EDP",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "invictus-platinum-paco-rabanne",
@@ -2037,7 +2037,7 @@
   "genre": "unisexe",
   "categorie": "parfums-orientaux",
   "enStock": true,
-  "h1": "Mancera Hindu Kush Parfum Unisexe Algérie",
+  "h1": "Mancera Hindu Kush Parfum Mixte Algérie",
   "notes": [
    "Safran d'Iran",
    "Cardamome de Guatemala",
@@ -3311,7 +3311,14 @@
    "vol": 30
   },
   "motsCles": [],
-  "variantes": [],
+  "variantes": [
+   {
+    "slug": "gucci-by-gucci",
+    "nom": "Gucci by Gucci",
+    "conc": "EDT",
+    "vol": "75ml"
+   }
+  ],
   "partagees": []
  },
  {
@@ -3405,7 +3412,7 @@
   "genre": "unisexe",
   "categorie": "parfums-orientaux",
   "enStock": true,
-  "h1": "Dior Oud Ispahan Esprit De Parfum Parfum Mixte Algérie",
+  "h1": "Dior Oud Ispahan Esprit De Parfum Mixte Algérie",
   "notes": [
    "Cumin",
    "Girofle",
@@ -4318,7 +4325,7 @@
   "genre": "unisexe",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Jean Paul Gaultier Gaultier² Parfum Unisexe Algérie",
+  "h1": "Jean Paul Gaultier Gaultier² Parfum Mixte Algérie",
   "notes": [
    "Gingembre",
    "Bergamote",

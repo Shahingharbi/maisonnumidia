@@ -1286,7 +1286,7 @@
   "genre": "unisexe",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Hermès Voyage d'Hermès Parfum Parfum Mixte Algérie",
+  "h1": "Hermès Voyage d'Hermès Parfum Mixte Algérie",
   "notes": [
    "Cardamome",
    "Citron d'Amalfi",
@@ -1533,12 +1533,6 @@
     "vol": "100ml"
    },
    {
-    "slug": "eternity-femme-ck",
-    "nom": "Eternity Femme",
-    "conc": "EDP",
-    "vol": "100ml"
-   },
-   {
     "slug": "calvin-klein-eternity-femme",
     "nom": "Eternity pour Femme",
     "conc": "EDP",
@@ -1573,6 +1567,12 @@
     "nom": "Eternity Flame For Women",
     "conc": "EDP",
     "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-parfum-for-men",
+    "nom": "Eternity Parfum For Men",
+    "conc": "Parfum",
+    "vol": "200ml"
    }
   ],
   "partagees": []

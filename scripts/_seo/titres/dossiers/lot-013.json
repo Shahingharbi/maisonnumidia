@@ -270,7 +270,7 @@
   "genre": "femme",
   "categorie": "parfums-orientaux",
   "enStock": true,
-  "h1": "Lattafa Yara Moi Parfum Femme Femme Algérie",
+  "h1": "Lattafa Yara Moi Parfum Femme Algérie",
   "notes": [
    "Jasmin",
    "Pêche",
@@ -2618,12 +2618,6 @@
     "vol": "100ml"
    },
    {
-    "slug": "eternity-femme-ck",
-    "nom": "Eternity Femme",
-    "conc": "EDP",
-    "vol": "100ml"
-   },
-   {
     "slug": "calvin-klein-eternity-aqua-for-men",
     "nom": "Eternity Aqua for Men",
     "conc": "EDT",
@@ -2658,6 +2652,12 @@
     "nom": "Eternity Flame For Women",
     "conc": "EDP",
     "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-parfum-for-men",
+    "nom": "Eternity Parfum For Men",
+    "conc": "Parfum",
+    "vol": "200ml"
    }
   ],
   "partagees": []

@@ -9,7 +9,7 @@
   "genre": "unisexe",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Montale Fruits of the Musk Parfum Unisexe Algérie",
+  "h1": "Montale Fruits of the Musk Parfum Mixte Algérie",
   "notes": [
    "Bergamote",
    "Mandarine",
@@ -1219,7 +1219,7 @@
     "slug": "scandal-pour-homme-jean-paul-gaultier",
     "nom": "Scandal Pour Homme Le Parfum",
     "conc": "EDP",
-    "vol": "100ml"
+    "vol": "150ml"
    },
    {
     "slug": "jean-paul-gaultier-scandal-absolu",
@@ -1244,6 +1244,12 @@
     "nom": "Scandal Intense",
     "conc": "EDP Intense",
     "vol": "80ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-pour-homme",
+    "nom": "Scandal Pour Homme",
+    "conc": "EDT",
+    "vol": "150ml"
    }
   ],
   "partagees": []
@@ -1318,7 +1324,7 @@
     "slug": "scandal-pour-homme-jean-paul-gaultier",
     "nom": "Scandal Pour Homme Le Parfum",
     "conc": "EDP",
-    "vol": "100ml"
+    "vol": "150ml"
    },
    {
     "slug": "jean-paul-gaultier-scandal-absolu",
@@ -1343,6 +1349,12 @@
     "nom": "Scandal Elixir",
     "conc": "EDP",
     "vol": "80ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-pour-homme",
+    "nom": "Scandal Pour Homme",
+    "conc": "EDT",
+    "vol": "150ml"
    }
   ],
   "partagees": []
@@ -2430,7 +2442,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Chanel Comète (Les Exclusifs de Chanel) Parfum Femme Algérie",
+  "h1": "Chanel Comète Les Exclusifs de Chanel Parfum Femme Algérie",
   "notes": [
    "Fleur de Cerisier",
    "Héliotrope",
@@ -2522,7 +2534,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Dolce & Gabbana K Parfum Parfum Homme Algérie",
+  "h1": "Dolce & Gabbana K Parfum Homme Algérie",
   "notes": [
    "Figue",
    "Caramel",

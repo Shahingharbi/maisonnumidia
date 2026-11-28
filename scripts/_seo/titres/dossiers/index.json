@@ -659,5 +659,15 @@
   "types": [
    "fille"
   ]
+ },
+ {
+  "lot": "lot-070",
+  "pages": 37,
+  "imp": 103,
+  "types": [
+   "fille",
+   "produit",
+   "marque"
+  ]
  }
 ]

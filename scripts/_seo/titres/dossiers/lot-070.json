@@ -1,0 +1,1701 @@
+[
+ {
+  "chemin": "/parfums-femme/yves-rocher",
+  "type": "fille",
+  "section": "parfums-femme",
+  "marque": "Yves Rocher",
+  "nbProduits": 16,
+  "nbMarque": 20,
+  "phares": [
+   "Quelques Notes d'Amour",
+   "Comme une Évidence",
+   "Mon Evidence"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 78,
+   "pos": 11.4,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "yves rocher algerie",
+    "imp": 6,
+    "clics": 0,
+    "pos": 15
+   },
+   {
+    "q": "parfums yves rocher femme",
+    "imp": 2,
+    "clics": 0,
+    "pos": 17
+   },
+   {
+    "q": "yves rocher parfum",
+    "imp": 2,
+    "clics": 0,
+    "pos": 35.5
+   },
+   {
+    "q": "le prix algérie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 14
+   },
+   {
+    "q": "meilleur parfum femme yves rocher",
+    "imp": 1,
+    "clics": 0,
+    "pos": 33
+   },
+   {
+    "q": "parfum eve rochy",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "parfum rocher",
+    "imp": 1,
+    "clics": 0,
+    "pos": 10
+   },
+   {
+    "q": "parfum yves rocher femme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 30
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-homme/antonio-banderas",
+  "type": "fille",
+  "section": "parfums-homme",
+  "marque": "Antonio Banderas",
+  "nbProduits": 8,
+  "nbMarque": 9,
+  "phares": [
+   "The Secret",
+   "Blue Seduction",
+   "The Icon"
+  ],
+  "gsc": {
+   "clics": 2,
+   "imp": 22,
+   "pos": 7.9,
+   "ctr": 9.1
+  },
+  "requetes": [
+   {
+    "q": "eau de parfum antonio banderas",
+    "imp": 2,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "parfums antonio banderas",
+    "imp": 2,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "antonio banderas parfum prix",
+    "imp": 1,
+    "clics": 1,
+    "pos": 7
+   },
+   {
+    "q": "antonio banderas parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 55
+   },
+   {
+    "q": "banderas parfum",
+    "imp": 1,
+    "clics": 0,
+    "pos": 1
+   },
+   {
+    "q": "banderas parfum homme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 8
+   },
+   {
+    "q": "parfum antonio banderas homme",
+    "imp": 1,
+    "clics": 0,
+    "pos": 23
+   },
+   {
+    "q": "parfum blue antonio banderas prix algerie",
+    "imp": 1,
+    "clics": 0,
+    "pos": 6
+   }
+  ],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-orientaux/issey-miyake",
+  "type": "fille",
+  "section": "parfums-orientaux",
+  "marque": "Issey Miyake",
+  "nbProduits": 1,
+  "nbMarque": 29,
+  "phares": [],
+  "gsc": {
+   "clics": 0,
+   "imp": 3,
+   "pos": 28,
+   "ctr": 0
+  },
+  "requetes": [
+   {
+    "q": "parfums issey miyake",
+    "imp": 1,
+    "clics": 0,
+    "pos": 69
+   }
+  ],
+  "motsCles": [
+   {
+    "k": "issey miyake parfum homme",
+    "vol": 70,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "parfum issey miyake homme",
+    "vol": 70,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "issey miyake l'eau d'issey pour homme",
+    "vol": 50,
+    "posMust": 1,
+    "notrePos": null
+   },
+   {
+    "k": "issey miyake parfum femme",
+    "vol": 50,
+    "posMust": 4,
+    "notrePos": null
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/cacharel-eden",
+  "type": "produit",
+  "marque": "Cacharel",
+  "nom": "Eden",
+  "conc": "EDP",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Cacharel Eden Parfum Femme Algérie",
+  "notes": [
+   "Pêche",
+   "Bergamote",
+   "Nénuphar",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-eternity-parfum-for-men",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Eternity Parfum For Men",
+  "conc": "Parfum",
+  "volume": "200ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Calvin Klein Eternity Parfum For Men Homme Algérie",
+  "notes": [
+   "Lavande",
+   "Rhum",
+   "Vanille absolue"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eternity-homme-ck",
+    "nom": "Eternity for Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-femme",
+    "nom": "Eternity pour Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aqua-for-men",
+    "nom": "Eternity Aqua for Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aromatic-essence-for-men",
+    "nom": "Eternity Aromatic Essence for Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-amber-essence-for-men",
+    "nom": "Eternity Amber Essence For Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-cologne-for-men",
+    "nom": "Eternity Cologne For Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-eau-fresh-for-women",
+    "nom": "Eternity Eau Fresh For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-flame-for-women",
+    "nom": "Eternity Flame For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/calvin-klein-eternity-moment",
+  "type": "produit",
+  "marque": "Calvin Klein",
+  "nom": "Eternity Moment",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Calvin Klein Eternity Moment Parfum Femme Algérie",
+  "notes": [
+   "Litchi",
+   "Framboise",
+   "Pivoine rose de Chine",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "eternity-homme-ck",
+    "nom": "Eternity for Men",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-femme",
+    "nom": "Eternity pour Femme",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aqua-for-men",
+    "nom": "Eternity Aqua for Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-aromatic-essence-for-men",
+    "nom": "Eternity Aromatic Essence for Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-amber-essence-for-men",
+    "nom": "Eternity Amber Essence For Men (Parfum Intense)",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-cologne-for-men",
+    "nom": "Eternity Cologne For Men",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-eau-fresh-for-women",
+    "nom": "Eternity Eau Fresh For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "calvin-klein-eternity-flame-for-women",
+    "nom": "Eternity Flame For Women",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/davidoff-cool-water-intense",
+  "type": "produit",
+  "marque": "Davidoff",
+  "nom": "Cool Water Intense",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Davidoff Cool Water Intense Parfum Homme Algérie",
+  "notes": [
+   "Mandarine verte",
+   "Nectar de noix de coco",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "davidoff-cool-water",
+    "nom": "Cool Water",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cool-water-woman",
+    "nom": "Cool Water Woman",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "davidoff-cool-water-deep",
+    "nom": "Cool Water Deep",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "davidoff-cool-water-parfum",
+    "nom": "Cool Water Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/davidoff-cool-water-parfum",
+  "type": "produit",
+  "marque": "Davidoff",
+  "nom": "Cool Water Parfum",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Davidoff Cool Water Parfum Homme Algérie",
+  "notes": [
+   "Citron",
+   "Poivre rose",
+   "Vétiver d'Haïti",
+   "Bois de santal"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "davidoff-cool-water",
+    "nom": "Cool Water",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cool-water-woman",
+    "nom": "Cool Water Woman",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "davidoff-cool-water-deep",
+    "nom": "Cool Water Deep",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "davidoff-cool-water-intense",
+    "nom": "Cool Water Intense",
+    "conc": "EDP",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/dolce-gabbana-the-one-for-men",
+  "type": "produit",
+  "marque": "Dolce & Gabbana",
+  "nom": "The One for Men",
+  "conc": "EDP",
+  "volume": "150ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Dolce & Gabbana The One for Men Parfum Homme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Coriandre",
+   "Cardamome",
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "dolce-gabbana-the-one",
+    "nom": "The One",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-only-one",
+    "nom": "The Only One",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-only-one-2",
+    "nom": "The Only One 2",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-one-gentleman",
+    "nom": "The One Gentleman",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-one-gold-for-men",
+    "nom": "The One Gold For Men",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-one-mysterious-night",
+    "nom": "The One Mysterious Night",
+    "conc": "EDP",
+    "vol": "150ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-one-gold",
+    "nom": "The One Gold",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "dolce-gabbana-the-one-luminous-night",
+    "nom": "The One Luminous Night",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/armani-emporio-stronger-with-you-parfum",
+  "type": "produit",
+  "marque": "Giorgio Armani",
+  "nom": "Emporio Armani Stronger With You Parfum",
+  "conc": "Parfum",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Emporio Armani Stronger With You Parfum Homme Algérie",
+  "notes": [
+   "Poivre rose",
+   "Mandarine",
+   "Lavande",
+   "Châtaigne"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "armani-emporio-she",
+    "nom": "Emporio Armani She",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-emporio-in-love-with-you",
+    "nom": "Emporio Armani In Love With You",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-emporio-stronger-with-you-amber",
+    "nom": "Emporio Armani Stronger With You Amber",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-emporio-stronger-with-you-leather",
+    "nom": "Emporio Armani Stronger With You Leather",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-emporio-stronger-with-you-powerfully",
+    "nom": "Emporio Armani Stronger With You Powerfully",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-emporio-stronger-with-you-sandalwood",
+    "nom": "Emporio Armani Stronger With You Sandalwood",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "armani-emporio-diamonds-rocks",
+    "nom": "Emporio Armani Diamonds Rocks",
+    "conc": "EDT",
+    "vol": "75ml"
+   },
+   {
+    "slug": "armani-emporio-diamonds-violet",
+    "nom": "Emporio Armani Diamonds Violet",
+    "conc": "EDP",
+    "vol": "50ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/issey-miyake-l-eau-d-pour-homme-intense",
+  "type": "produit",
+  "marque": "Issey Miyake",
+  "nom": "L'Eau d'Issey Pour Homme Intense",
+  "conc": "EDT",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Issey Miyake L'Eau d'Issey Pour Homme Intense Parfum Homme Algérie",
+  "notes": [
+   "Yuzu",
+   "Bergamote",
+   "Noix de muscade",
+   "Encens"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "l-eau-d-issey-femme",
+    "nom": "L'Eau d'Issey",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "l-eau-d-issey-homme",
+    "nom": "L'Eau d'Issey Pour Homme",
+    "conc": "EDT",
+    "vol": "125ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-pure",
+    "nom": "L'Eau d'Issey Pure",
+    "conc": "EDT",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-issey-ambre",
+    "nom": "L'Eau d'Issey Pour Homme Noir Ambré",
+    "conc": "EDP",
+    "vol": "90ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-sport",
+    "nom": "L'Eau d'Issey Pour Homme Sport",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-super-majeure-d-issey",
+    "nom": "L'Eau Super Majeure d'Issey",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-solar",
+    "nom": "L'Eau d'Issey pour Homme Solar Lavender",
+    "conc": "EDT Intense",
+    "vol": "100ml"
+   },
+   {
+    "slug": "issey-miyake-l-eau-d-pour-homme-wood",
+    "nom": "L'Eau d'Issey pour Homme Wood & Wood",
+    "conc": "EDP Intense",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/jean-paul-gaultier-scandal-pour-homme",
+  "type": "produit",
+  "marque": "Jean Paul Gaultier",
+  "nom": "Scandal Pour Homme",
+  "conc": "EDT",
+  "volume": "150ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Jean Paul Gaultier Scandal Pour Homme Eau de Toilette Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Sauge sclarée",
+   "Caramel",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "scandal-jean-paul-gaultier",
+    "nom": "Scandal",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "scandal-pour-homme-jean-paul-gaultier",
+    "nom": "Scandal Pour Homme Le Parfum",
+    "conc": "EDP",
+    "vol": "150ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-absolu",
+    "nom": "Scandal Absolu",
+    "conc": "Parfum",
+    "vol": "80ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-gold",
+    "nom": "Scandal Gold",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-pour-homme-elixir",
+    "nom": "Scandal Pour Homme Elixir",
+    "conc": "Parfum",
+    "vol": "100ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-elixir",
+    "nom": "Scandal Elixir",
+    "conc": "EDP",
+    "vol": "80ml"
+   },
+   {
+    "slug": "jean-paul-gaultier-scandal-intense",
+    "nom": "Scandal Intense",
+    "conc": "EDP Intense",
+    "vol": "80ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/joop-jump",
+  "type": "produit",
+  "marque": "Joop!",
+  "nom": "Jump",
+  "conc": "EDT",
+  "volume": "200ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Joop! Jump Parfum Homme Algérie",
+  "notes": [
+   "Pamplemousse",
+   "Romarin",
+   "Héliotrope",
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lanvin-oxygene-homme",
+  "type": "produit",
+  "marque": "Lanvin",
+  "nom": "Oxygène Homme",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lanvin Oxygène Homme Parfum Homme Algérie",
+  "notes": [
+   "Cyprès",
+   "Résine de sapin",
+   "Genièvre",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "oxygene-lanvin",
+    "nom": "Oxygène",
+    "conc": "EDP",
+    "vol": "75ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/mercedes-benz-le-parfum",
+  "type": "produit",
+  "marque": "Mercedes-Benz",
+  "nom": "Le Parfum",
+  "conc": "Parfum",
+  "volume": "120ml",
+  "genre": "homme",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Mercedes-Benz Le Parfum Homme Algérie",
+  "notes": [
+   "Poivre rose",
+   "Bergamote",
+   "Feuille de violette",
+   "Bois d'agar (Oud)"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/rochas-moustache",
+  "type": "produit",
+  "marque": "Rochas",
+  "nom": "Moustache",
+  "conc": "EDP",
+  "volume": "125ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Rochas Moustache Parfum Homme Algérie",
+  "notes": [
+   "Mandarine",
+   "Poivre rose",
+   "Rose de Bulgarie",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/valentino-uomo-born-in-roma-intense",
+  "type": "produit",
+  "marque": "Valentino",
+  "nom": "Uomo Born In Roma Intense",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Valentino Uomo Born In Roma Intense Parfum Homme Algérie",
+  "notes": [
+   "Vanille",
+   "Lavande",
+   "Vétiver"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "valentino-uomo",
+    "nom": "Uomo",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-intense",
+    "nom": "Uomo Intense",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma",
+    "nom": "Uomo Born in Roma",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-coral-fantasy",
+    "nom": "Uomo Born In Roma Coral Fantasy",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-yellow-dream",
+    "nom": "Uomo Born In Roma Yellow Dream",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-purple-melancholia",
+    "nom": "Uomo Born in Roma Purple Melancholia",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-born-in-roma-ivory",
+    "nom": "Uomo Born in Roma Ivory",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "valentino-uomo-acqua",
+    "nom": "Uomo Acqua",
+    "conc": "EDT",
+    "vol": "125ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-ambre-noir",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Ambre Noir",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Ambre Noir Parfum Homme Algérie",
+  "notes": [
+   "Ambre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-bois-de-sauge",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Bois de Sauge",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Bois de Sauge Parfum Homme Algérie",
+  "notes": [
+   "Sauge sclarée",
+   "Bois de gaïac",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-bouquet-ambre",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Bouquet Ambré",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-orientaux",
+  "enStock": true,
+  "h1": "Yves Rocher Bouquet Ambré Parfum Mixte Algérie",
+  "notes": [
+   "Iris"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-cuir-de-nuit",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Cuir de Nuit",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher Cuir de Nuit Parfum Mixte Algérie",
+  "notes": [
+   "Vanille de Tahiti"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-eau-fraiche-aerienne",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Eau Fraîche Aérienne",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Eau Fraîche Aérienne Parfum Mixte Algérie",
+  "notes": [
+   "Cédrat"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yves-rocher-eau-fraiche-petillante",
+    "nom": "Eau Fraîche Pétillante",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "yves-rocher-eau-fraiche-poudree",
+    "nom": "Eau Fraîche Poudrée",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-eau-fraiche-petillante",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Eau Fraîche Pétillante",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Eau Fraîche Pétillante Parfum Mixte Algérie",
+  "notes": [
+   "Citron"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yves-rocher-eau-fraiche-aerienne",
+    "nom": "Eau Fraîche Aérienne",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "yves-rocher-eau-fraiche-poudree",
+    "nom": "Eau Fraîche Poudrée",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-eau-fraiche-poudree",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Eau Fraîche Poudrée",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher Eau Fraîche Poudrée Parfum Mixte Algérie",
+  "notes": [
+   "Magnolia"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "yves-rocher-eau-fraiche-aerienne",
+    "nom": "Eau Fraîche Aérienne",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "yves-rocher-eau-fraiche-petillante",
+    "nom": "Eau Fraîche Pétillante",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-garden-party",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Garden Party",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "unisexe",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher Garden Party Parfum Mixte Algérie",
+  "notes": [
+   "Rose de Damas"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-granit-bleu",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Granit Bleu",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Granit Bleu Parfum Homme Algérie",
+  "notes": [
+   "Bergamote"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-hoggar",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Hoggar",
+  "conc": "EDT",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Yves Rocher Hoggar Parfum Homme Algérie",
+  "notes": [
+   "Fève tonka"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/yves-rocher-verte-envolee",
+  "type": "produit",
+  "marque": "Yves Rocher",
+  "nom": "Verte Envolée",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Yves Rocher Verte Envolée Parfum Femme Algérie",
+  "notes": [
+   "Bergamote",
+   "Citron",
+   "Thé noir",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/gucci-by-gucci",
+  "type": "produit",
+  "marque": "Gucci",
+  "nom": "Gucci by Gucci",
+  "conc": "EDT",
+  "volume": "75ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Gucci by Gucci Parfum Femme Algérie",
+  "notes": [
+   "Poire",
+   "Goyave",
+   "Muguet",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "gucci-guilty-intense",
+    "nom": "Gucci Guilty Intense",
+    "conc": "EDP",
+    "vol": "90ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/chanel-cristalle-eau-de-parfum",
+  "type": "produit",
+  "marque": "Chanel",
+  "nom": "Cristalle Eau de Parfum",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Chanel Cristalle Eau de Parfum Femme Algérie",
+  "notes": [
+   "Agrumes",
+   "Notes fruitées",
+   "Jacinthe",
+   "Jasmin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "chanel-cristalle",
+    "nom": "Cristalle",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/kenzo-homme-eau-de-parfum",
+  "type": "produit",
+  "marque": "Kenzo",
+  "nom": "Kenzo Homme Eau de Parfum",
+  "conc": "EDP",
+  "volume": "110ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Kenzo Homme Eau de Parfum Algérie",
+  "notes": [
+   "Notes marines",
+   "Cuir",
+   "Patchouli"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "kenzo-world",
+    "nom": "Kenzo World",
+    "conc": "EDP",
+    "vol": "75ml"
+   },
+   {
+    "slug": "kenzo-pour-homme",
+    "nom": "Kenzo Pour Homme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-homme",
+    "nom": "Kenzo Homme",
+    "conc": "EDT",
+    "vol": "110ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/antonio-banderas-blue-seduction-for-women",
+  "type": "produit",
+  "marque": "Antonio Banderas",
+  "nom": "Blue Seduction for Women",
+  "conc": "EDT",
+  "volume": "200ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Antonio Banderas Blue Seduction for Women Parfum Femme Algérie",
+  "notes": [
+   "Melon",
+   "Bergamote",
+   "Pivoine",
+   "Framboise"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "antonio-banderas-blue-seduction",
+    "nom": "Blue Seduction",
+    "conc": "EDT",
+    "vol": "200ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/eau-jeune-double-je",
+  "type": "produit",
+  "marque": "Eau Jeune",
+  "nom": "Double Je",
+  "conc": "EDT",
+  "volume": "48ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Eau Jeune Double Je Parfum Femme Algérie",
+  "notes": [
+   "Ananas",
+   "Pomme",
+   "Freesia",
+   "Cèdre"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/lacoste-l-12-12-blanc-eau-de-parfum",
+  "type": "produit",
+  "marque": "Lacoste",
+  "nom": "L.12.12 Blanc Eau de Parfum",
+  "conc": "EDP",
+  "volume": "100ml",
+  "genre": "homme",
+  "categorie": "parfums-homme",
+  "enStock": true,
+  "h1": "Lacoste L.12.12 Blanc Eau de Parfum Homme Algérie",
+  "notes": [
+   "Notes vertes",
+   "Citron caviar",
+   "Eucalyptus",
+   "Pin"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "lacoste-l12-noir",
+    "nom": "L.12.12 Noir",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-blanc",
+    "nom": "L.12.12 Blanc",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l12-vert",
+    "nom": "L.12.12 Vert",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-silver-grey",
+    "nom": "L.12.12 Silver Grey",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-eau-fraiche-for-him",
+    "nom": "L.12.12 Blanc Eau Fraîche For Him",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-blanc-edition-limitee-roland-garros",
+    "nom": "L.12.12 Blanc Edition Limitée Roland Garros",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-bleu",
+    "nom": "L.12.12. Bleu",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "lacoste-l-12-rose-eau-intense",
+    "nom": "L.12.12. Rose Eau Intense",
+    "conc": "EDT",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums/coffret-cerruti-1881-femme",
+  "type": "produit",
+  "marque": "Cerruti",
+  "nom": "1881 pour Femme Coffret",
+  "conc": "EDT",
+  "volume": "50ml",
+  "genre": "femme",
+  "categorie": "parfums-femme",
+  "enStock": true,
+  "h1": "Coffret Cerruti 1881 pour Femme Algérie",
+  "notes": [
+   "Mimosa",
+   "Iris",
+   "Camomille",
+   "Musc"
+  ],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "volumeNom": null,
+  "motsCles": [],
+  "variantes": [
+   {
+    "slug": "cerruti-1881-homme",
+    "nom": "1881 pour Homme",
+    "conc": "EDT",
+    "vol": "200ml"
+   },
+   {
+    "slug": "cerruti-1881-femme",
+    "nom": "1881 pour Femme",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-reve-de-roses",
+    "nom": "1881 Rêve De Roses",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-riviera",
+    "nom": "1881 Riviera",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-signature",
+    "nom": "1881 Signature",
+    "conc": "EDP",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-essentiel",
+    "nom": "1881 Essentiel",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-silver",
+    "nom": "1881 Silver",
+    "conc": "EDT",
+    "vol": "100ml"
+   },
+   {
+    "slug": "cerruti-1881-silver-night",
+    "nom": "1881 Silver Night",
+    "conc": "EDP",
+    "vol": "100ml"
+   }
+  ],
+  "partagees": []
+ },
+ {
+  "chemin": "/parfums-femme/antonio-banderas",
+  "type": "fille",
+  "section": "parfums-femme",
+  "marque": "Antonio Banderas",
+  "nbProduits": 1,
+  "nbMarque": 9,
+  "phares": [],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ },
+ {
+  "chemin": "/marques/eau-jeune",
+  "type": "marque",
+  "marque": "Eau Jeune",
+  "nbProduits": 1,
+  "genres": {
+   "homme": 0,
+   "femme": 1,
+   "unisexe": 0
+  },
+  "oriental": 0,
+  "phares": [],
+  "gsc": {
+   "clics": 0,
+   "imp": 0,
+   "pos": null,
+   "ctr": null
+  },
+  "requetes": [],
+  "motsCles": [],
+  "partagees": []
+ }
+]

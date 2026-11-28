@@ -366,6 +366,18 @@
     "nom": "Cool Water Deep",
     "conc": "EDT",
     "vol": "100ml"
+   },
+   {
+    "slug": "davidoff-cool-water-intense",
+    "nom": "Cool Water Intense",
+    "conc": "EDP",
+    "vol": "125ml"
+   },
+   {
+    "slug": "davidoff-cool-water-parfum",
+    "nom": "Cool Water Parfum",
+    "conc": "Parfum",
+    "vol": "100ml"
    }
   ],
   "partagees": []
@@ -858,7 +870,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Armani Stronger With You Parfum Homme Algérie",
+  "h1": "Armani Stronger With You Eau de Toilette Homme Algérie",
   "notes": [
    "Châtaigne",
    "Sucre",
@@ -1037,7 +1049,7 @@
   "genre": "unisexe",
   "categorie": "parfums-orientaux",
   "enStock": true,
-  "h1": "Xerjoff Alexandria II Parfum Unisexe Algérie",
+  "h1": "Xerjoff Alexandria II Parfum Mixte Algérie",
   "notes": [
    "Pomme",
    "Lavande",
@@ -1503,7 +1515,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Paco Rabanne Million Gold For Her Parfum Femme Algérie",
+  "h1": "Paco Rabanne Million Gold For Her Eau de Parfum Femme Algérie",
   "notes": [
    "Jasmin",
    "Rose",
@@ -1621,7 +1633,7 @@
   "genre": "unisexe",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "Dior Rouge Trafalgar Esprit de Parfum Parfum Mixte Algérie",
+  "h1": "Dior Rouge Trafalgar Esprit de Parfum Mixte Algérie",
   "notes": [
    "Cerise",
    "Poivre rose",
@@ -1733,7 +1745,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "YSL Cinéma Parfum Femme Algérie",
+  "h1": "Yves Saint Laurent Cinéma Parfum Femme Algérie",
   "notes": [
    "Cyclamen",
    "Amande",
@@ -2452,7 +2464,7 @@
     "slug": "club-de-nuit-intense-armaf",
     "nom": "Club de Nuit Intense Man",
     "conc": "EDP",
-    "vol": "105ml"
+    "vol": "200ml"
    },
    {
     "slug": "club-de-nuit-women-armaf",
@@ -3195,7 +3207,7 @@
   "genre": "unisexe",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Tom Ford Ombré Leather Parfum Unisexe Algérie",
+  "h1": "Tom Ford Ombré Leather Parfum Mixte Algérie",
   "notes": [
    "Cardamome",
    "Cuir",
@@ -3849,7 +3861,7 @@
   "type": "produit",
   "marque": "Jimmy Choo",
   "nom": "Blossom",
-  "conc": "EDT",
+  "conc": "EDP",
   "volume": "100ml",
   "genre": "femme",
   "categorie": "parfums-femme",

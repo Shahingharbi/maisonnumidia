@@ -288,7 +288,7 @@
   "genre": "femme",
   "categorie": "parfums-femme",
   "enStock": true,
-  "h1": "YSL Rive Gauche Parfum Femme Algérie",
+  "h1": "Yves Saint Laurent Rive Gauche Parfum Femme Algérie",
   "notes": [
    "Aldéhyde",
    "Bergamote",
@@ -2692,7 +2692,14 @@
    "vol": 170
   },
   "motsCles": [],
-  "variantes": [],
+  "variantes": [
+   {
+    "slug": "antonio-banderas-blue-seduction-for-women",
+    "nom": "Blue Seduction for Women",
+    "conc": "EDT",
+    "vol": "200ml"
+   }
+  ],
   "partagees": [
    {
     "q": "parfum blue antonio banderas prix algerie",
@@ -3731,7 +3738,7 @@
   "genre": "unisexe",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "CK Be Calvin Klein Parfum Unisexe Algérie",
+  "h1": "CK Be Calvin Klein Parfum Mixte Algérie",
   "notes": [
    "Menthe poivrée",
    "Bergamote",
@@ -3966,7 +3973,7 @@
     "slug": "invictus-victory-paco-rabanne",
     "nom": "Invictus Victory",
     "conc": "EDP",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "invictus-platinum-paco-rabanne",
@@ -3996,7 +4003,7 @@
     "slug": "paco-rabanne-invictus-victory-elixir",
     "nom": "Invictus Victory Elixir",
     "conc": "EDP Intense",
-    "vol": "100ml"
+    "vol": "200ml"
    },
    {
     "slug": "paco-rabanne-invictus-onyx-collector-edition",
@@ -4030,7 +4037,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Kenzo Homme Parfum Algérie",
+  "h1": "Kenzo Homme Eau de Toilette Algérie",
   "notes": [
    "Jasmin",
    "Notes Marines",
@@ -4134,6 +4141,12 @@
     "nom": "Kenzo Pour Homme",
     "conc": "EDT",
     "vol": "100ml"
+   },
+   {
+    "slug": "kenzo-homme-eau-de-parfum",
+    "nom": "Kenzo Homme Eau de Parfum",
+    "conc": "EDP",
+    "vol": "110ml"
    }
   ],
   "partagees": []
@@ -4253,7 +4266,7 @@
   "genre": "homme",
   "categorie": "parfums-homme",
   "enStock": true,
-  "h1": "Versace Eros Parfum Homme Algérie",
+  "h1": "Versace Eros Eau de Toilette Homme Algérie",
   "notes": [
    "Menthe Fraîche",
    "Pomme Verte",
