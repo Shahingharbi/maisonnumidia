@@ -1,0 +1,22 @@
+[
+  {"chemin": "/parfums/versace-dreamer", "titre": "Versace Dreamer, eau de toilette : prix du parfum en Algérie", "pourquoi": "Marque d'abord 87 % ; parfum 49 % sur EDT : prix du parfum ; 43 caractères, concentration ajoutée"},
+  {"chemin": "/parfums/antonio-banderas-seduction-in-black", "titre": "Seduction in Black d'Antonio Banderas : prix en Algérie", "pourquoi": "Nom seul 82 % ; parfum 52 % sur EDT, mais prix du parfum à 65 caractères"},
+  {"chemin": "/parfums/le-male-jean-paul-gaultier", "titre": "Le Male, eau de parfum : prix en Algérie", "pourquoi": "Nom seul 76 % ; sœur Le Male Le Parfum : concentration obligatoire ; avec la marque 62, retirée (3.5)"},
+  {"chemin": "/parfums/gucci-guilty-absolute", "titre": "Gucci Guilty Absolute Pour Homme : prix en Algérie", "pourquoi": "Marque d'abord 84 % ; genre porté par le nom ; parfum 26 % ; concentration à 65 caractères"},
+  {"chemin": "/parfums/versace-pour-homme", "titre": "Versace Pour Homme : prix du parfum en Algérie", "pourquoi": "Requêtes « versace (pour) homme » : marque d'abord, marque seule 6 % ; parfum 58 % sur EDT"},
+  {"chemin": "/parfums/dolce-gabbana-intenso", "titre": "Dolce & Gabbana Intenso, eau de parfum : prix en Algérie", "pourquoi": "Nom qui contient la marque ; marque d'abord 61 % ; rien retenu ; 41 caractères, concentration ajoutée"},
+  {"chemin": "/parfums/hugo-deep-red", "titre": "Hugo Boss Deep Red : prix du parfum en Algérie", "pourquoi": "Sans données (25) : marque d'abord, Hugo fondu comme Hugo Boss Bottled ; parfum compté, fiche EDT"},
+  {"chemin": "/parfums/marc-jacobs-daisy-wild", "titre": "Daisy Wild de Marc Jacobs, eau de parfum : prix en Algérie", "pourquoi": "Nom d'abord 94 % des requêtes à deux ; parfum 46 % sur EDP"},
+  {"chemin": "/parfums/roberto-cavalli", "titre": "Roberto Cavalli, eau de parfum pour femme : prix en Algérie", "pourquoi": "Marque = nom : concentration et genre pour se distinguer de la page marque (3.6)"},
+  {"chemin": "/parfums/lacoste-essential", "titre": "Lacoste Essential : prix du parfum en Algérie", "pourquoi": "Sans données (24) : marque d'abord ; parfum compté retenu, fiche EDT : prix du parfum"},
+  {"chemin": "/parfums/ralph-lauren-polo-red", "titre": "Polo Red de Ralph Lauren, eau de toilette : prix en Algérie", "pourquoi": "Nom seul 85 % ; « parfum » refusé (sœur Polo Deep Blue Parfum) ; 42 caractères, concentration ajoutée"},
+  {"chemin": "/parfums/joy-jean-patou", "titre": "Jean Patou Joy : épuisé, voir les parfums proches", "pourquoi": "Rupture sans variantes ; marque seule 83 % : marque d'abord"},
+  {"chemin": "/parfums/allure-homme-sport-chanel", "titre": "Allure Homme Sport de Chanel : prix en Algérie", "pourquoi": "Nom seul 90 % ; genre dans le nom ; parfum 8 % ; concentration à 63 caractères"},
+  {"chemin": "/parfums/rasasi-fattan-pour-femme", "titre": "Rasasi Fattan pour Femme, eau de parfum : prix en Algérie", "pourquoi": "Marque d'abord 55 %, nom d'abord 31 % des requêtes à deux ; 42 caractères, concentration ajoutée"},
+  {"chemin": "/parfums/azzaro-now-men", "titre": "Azzaro Now Men : épuisé, voir les parfums proches", "pourquoi": "Rupture sans variantes ; marque d'abord 97 %"},
+  {"chemin": "/marques/karl-lagerfeld", "titre": "Karl Lagerfeld : prix des parfums en Algérie", "pourquoi": "Défaut : 8 imp seulement avec parfum et la marque ; suffixe à 61, absent"},
+  {"chemin": "/parfums/poison-girl-dior", "titre": "Dior Poison Girl, eau de parfum : prix en Algérie", "pourquoi": "Sans données (15) : maison marque d'abord ; parfum compté retenu, fiche EDP"},
+  {"chemin": "/parfums/dior-forever-and-ever", "titre": "Dior Forever and Ever : prix du parfum en Algérie", "pourquoi": "Nom d'abord 62 % des requêtes à deux, sous 2/3 ; parfum 40 % sur EDT"},
+  {"chemin": "/parfums/la-vie-est-belle-intensement", "titre": "La Vie est Belle Intensément de Lancôme : prix en Algérie", "pourquoi": "Nom seul 95 % ; parfum 82 % ne tient pas ; 100 ml vient des requêtes de la base"},
+  {"chemin": "/parfums/mont-blanc-explorer-platinum", "titre": "Mont Blanc Explorer Platinum : prix en Algérie", "pourquoi": "Sans données, Mont Blanc prend ses fiches : ni parfum ; concentration à 61 caractères"}
+]

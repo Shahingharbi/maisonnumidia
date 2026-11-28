@@ -1,0 +1,202 @@
+[
+  {
+    "chemin": "/parfums/si-passione-armani",
+    "titre": "Sì Passione d'Armani, eau de parfum : prix en Algérie",
+    "pourquoi": "Sans données : maison nom d'abord, « parfum » compté, sœur Éclat de Parfum donc eau de parfum"
+  },
+  {
+    "chemin": "/parfums/mon-paris-ysl",
+    "titre": "Mon Paris d'Yves Saint Laurent : prix du parfum en Algérie",
+    "pourquoi": "Nom seul 84 %, parfum 71 % ; original et eau de parfum dépassent 60"
+  },
+  {
+    "chemin": "/parfums/nina-ricci-l-air-du-temps",
+    "titre": "L'Air du Temps de Nina Ricci : prix du parfum en Algérie",
+    "pourquoi": "Nom d'abord 75 % des requêtes à deux, parfum 46 % avant 100 ml (35 %) qui ne tient plus"
+  },
+  {
+    "chemin": "/parfums/armani-code-femme",
+    "titre": "Armani Code Femme, eau de parfum : prix en Algérie",
+    "pourquoi": "Marque d'abord 85 %, genre dans le nom, sœur Code Parfum : eau de parfum seulement"
+  },
+  {
+    "chemin": "/parfums/michael-kors-gold",
+    "titre": "Gold de Michael Kors, eau de parfum : prix en Algérie",
+    "pourquoi": "Sans données : maison nom d'abord, « parfum » compté, fiche EDP"
+  },
+  {
+    "chemin": "/parfums/dior-oud-ispahan",
+    "titre": "Oud Ispahan de Dior, eau de parfum 250 ml : prix en Algérie",
+    "pourquoi": "Nom d'abord 89 %, 250 ml tapé 64 % ; 44 caractères, concentration ajoutée"
+  },
+  {
+    "chemin": "/parfums/arabian-oud-sultani",
+    "titre": "Sultani d'Arabian Oud, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom d'abord 89 % des requêtes à deux, rien retenu ; 39 caractères, concentration ajoutée"
+  },
+  {
+    "chemin": "/parfums/kenzo-l-eau-homme",
+    "titre": "Kenzo L'Eau, eau de toilette pour homme : prix en Algérie",
+    "pourquoi": "Marque seule 98 % : pas de « parfum » ; genre obligatoire (sœur pour Femme), forme du h1"
+  },
+  {
+    "chemin": "/parfums/guerlain-insolence",
+    "titre": "Guerlain Insolence, eau de toilette : prix en Algérie",
+    "pourquoi": "Nom d'abord 58 % sous les 2/3 ; concentration obligatoire face à Insolence Eau de Parfum"
+  },
+  {
+    "chemin": "/marques/carolina-herrera",
+    "titre": "Carolina Herrera : prix des parfums en Algérie",
+    "pourquoi": "Sans données : défaut ; suffixe ne tient pas (63)"
+  },
+  {
+    "chemin": "/marques/rasasi",
+    "titre": "Rasasi : prix des parfums en Algérie | Maison Numidia",
+    "pourquoi": "Sans données : défaut, suffixe tient"
+  },
+  {
+    "chemin": "/parfums/armani-code",
+    "titre": "Armani Code pour homme : prix en Algérie",
+    "pourquoi": "Titre de l'échantillon repris tel quel"
+  },
+  {
+    "chemin": "/parfums/dior-vanilla-diorama",
+    "titre": "Dior Vanilla Diorama, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom seul 58 % sous 60, nom d'abord 34 % : marque d'abord ; 38 caractères, concentration ajoutée"
+  },
+  {
+    "chemin": "/parfums-femme/versace",
+    "titre": "Parfum Versace pour femme : prix en Algérie | Maison Numidia",
+    "pourquoi": "« parfum » d'abord 84 % : défaut, suffixe tient à 60"
+  },
+  {
+    "chemin": "/parfums/terre-d-hermes-parfum",
+    "titre": "Terre d'Hermès Parfum : prix en Algérie",
+    "pourquoi": "Sans données ; « parfum » déjà dans le nom, concentration redondante : reste court"
+  },
+  {
+    "chemin": "/parfums/maison-francis-kurkdjian-oud-satin-mood",
+    "titre": "Oud Satin Mood de Maison Francis Kurkdjian : prix en Algérie",
+    "pourquoi": "Nom seul 79 % : nom d'abord ; tient à 60, la marque reste"
+  },
+  {
+    "chemin": "/parfums/louis-vuitton-fleur-du-desert",
+    "titre": "Fleur du Désert de Louis Vuitton : prix du parfum en Algérie",
+    "pourquoi": "Nom d'abord 100 % des requêtes à deux, parfum 33 % ; eau de parfum dépasse 60"
+  },
+  {
+    "chemin": "/parfums/guerlain-idylle",
+    "titre": "Idylle de Guerlain, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom d'abord 89 % des requêtes à deux, parfum 41 %, fiche EDP ; 100 ml tapé, pas 75"
+  },
+  {
+    "chemin": "/parfums/armaf-club-de-nuit-untold",
+    "titre": "Club de Nuit Untold d'Armaf : prix en Algérie",
+    "pourquoi": "Nom seul 67 % : nom d'abord ; rien retenu, 45 caractères"
+  },
+  {
+    "chemin": "/parfums-femme/cacharel",
+    "titre": "Parfum Cacharel pour femme : prix en Algérie",
+    "pourquoi": "« parfum » d'abord 69 % (13 imp) : défaut ; suffixe ne tient pas (61)"
+  },
+  {
+    "chemin": "/parfums/dolce-gabbana-the-only-one",
+    "titre": "Dolce & Gabbana The Only One : prix du parfum en Algérie",
+    "pourquoi": "Sans données : marque d'abord, « parfum » compté ; eau de parfum dépasse 60"
+  },
+  {
+    "chemin": "/parfums/dolce-gabbana-devotion",
+    "titre": "Dolce & Gabbana Devotion, eau de parfum : prix en Algérie",
+    "pourquoi": "Sans données : marque d'abord, « parfum » compté, fiche EDP ; forme de marque du catalogue"
+  },
+  {
+    "chemin": "/parfums/chanel-egoiste-platinum",
+    "titre": "Chanel Égoïste Platinum 100 ml : prix en Algérie",
+    "pourquoi": "Marque d'abord 39 %, 100 ml tapé 31 % (catalogue 100 ml), parfum 17 %"
+  },
+  {
+    "chemin": "/parfums/gucci-guilty-black",
+    "titre": "Guilty Black pour Homme : épuisé, voir les autres versions",
+    "pourquoi": "Rupture avec variantes ; avec Gucci 64 caractères, la marque sort"
+  },
+  {
+    "chemin": "/parfums/dior-oud-rosewood",
+    "titre": "Dior Oud Rosewood, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom seul 54 %, nom d'abord 48 % : marque d'abord ; 35 caractères, concentration ajoutée"
+  },
+  {
+    "chemin": "/parfums/assaf-attacks",
+    "titre": "Assaf Attacks, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom d'abord 48 % des requêtes à deux : marque d'abord ; parfum 49 %, fiche EDP"
+  },
+  {
+    "chemin": "/parfums/dior-homme-cologne",
+    "titre": "Dior Homme Cologne : prix en Algérie",
+    "pourquoi": "Marque d'abord 93 %, rien retenu ; EDT contredit par « Cologne » du nom : reste court"
+  },
+  {
+    "chemin": "/parfums/assaf-gris-erik",
+    "titre": "Gris Erik d'Assaf, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom d'abord 75 % des requêtes à deux, rien retenu ; 35 caractères, concentration ajoutée"
+  },
+  {
+    "chemin": "/parfums/gucci-guilty-elixir-de-parfum-pour-femme",
+    "titre": "Gucci Guilty Elixir de Parfum pour Femme : prix en Algérie",
+    "pourquoi": "Sans données : marque d'abord ; « parfum » déjà dans le nom"
+  },
+  {
+    "chemin": "/parfums-homme/diesel",
+    "titre": "Parfum Diesel pour homme : prix en Algérie | Maison Numidia",
+    "pourquoi": "Sans données : défaut, suffixe tient"
+  },
+  {
+    "chemin": "/marques/fresh",
+    "titre": "Fresh : prix des parfums en Algérie | Maison Numidia",
+    "pourquoi": "Défaut : marque d'abord 90 % (10 imp seulement), suffixe tient"
+  },
+  {
+    "chemin": "/parfums-femme/kenzo",
+    "titre": "Parfum Kenzo pour femme : prix en Algérie | Maison Numidia",
+    "pourquoi": "« parfum » d'abord 87 % : défaut, suffixe tient"
+  },
+  {
+    "chemin": "/parfums/serge-lutens-feminite-du-bois",
+    "titre": "Serge Lutens Féminité du Bois : prix en Algérie",
+    "pourquoi": "Nom d'abord 32 % des requêtes à deux : marque d'abord ; rien retenu, 47 caractères"
+  },
+  {
+    "chemin": "/parfums/givenchy-gentleman-reserve-privee",
+    "titre": "Givenchy Gentleman Reserve Privée : prix en Algérie",
+    "pourquoi": "Sans données : marque d'abord ; eau de parfum (66) et prix du parfum (61) dépassent"
+  },
+  {
+    "chemin": "/parfums/lancome-tresor-30-years-limited-edition",
+    "titre": "Trésor 30 Years de Lancôme, eau de parfum : prix en Algérie",
+    "pourquoi": "Nom d'abord 92 %, Lancôme tapé 92 % ; Limited Edition retiré (61), puis concentration (44)"
+  },
+  {
+    "chemin": "/marques/dolce-gabbana",
+    "titre": "Dolce & Gabbana : prix des parfums en Algérie",
+    "pourquoi": "Sans données : défaut ; suffixe ne tient pas (62)"
+  },
+  {
+    "chemin": "/parfums/bvlgari-pour-femme",
+    "titre": "Bvlgari Pour Femme : épuisé, voir les autres versions",
+    "pourquoi": "Rupture avec variantes (Soir) ; marque obligatoire, le nom seul est générique"
+  },
+  {
+    "chemin": "/parfums/givenchy-dahlia-divin-le-nectar",
+    "titre": "Dahlia Divin Le Nectar : épuisé, voir les autres versions",
+    "pourquoi": "Rupture avec variantes ; avec Givenchy 66 caractères, la marque sort"
+  },
+  {
+    "chemin": "/parfums/burberry-goddess-intense",
+    "titre": "Burberry Goddess Intense, parfum femme : prix en Algérie",
+    "pourquoi": "Marque d'abord 63 %, genre 13 %, parfum 29 % ; eau de parfum intense pour femme dépasse 60"
+  },
+  {
+    "chemin": "/parfums/lalique-amour",
+    "titre": "Lalique Amour, eau de parfum pour femme : prix en Algérie",
+    "pourquoi": "Marque seule 63 % : pas de « parfum » seul ; genre 10 %, fiche EDP"
+  }
+]
