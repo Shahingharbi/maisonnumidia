@@ -36,7 +36,8 @@ committé sur la branche locale `seo/titres-2026-11-24`, pas poussé. `main` n'a
 
 ## Comment relancer sans rien perdre
 
-Le workflow de rédaction est `C:\Users\superindep\.claude\projects\C--Users-superindep-maisonnumidia\51d8e666-d998-4488-a549-82491feebfd2\workflows\scripts\titres-toutes-pages-wf_4142ff12-527.js`
+Le workflow de rédaction est `C:/Users/superindep/.claude/projects/C--Users-superindep-maisonnumidia/51d8e666-d998-4488-a549-82491feebfd2/workflows/scripts/titres-toutes-pages-wf_4142ff12-527.js`
+(barres obliques normales exprès : écrit avec des antislashs, ce chemin cassait la compilation, Tailwind lisant l'antislash suivi de 51d8e6 comme un caractère invalide)
 (copie dans ce dossier : `workflow-titres.js`). **Ne pas le relancer tel quel** :
 - lui passer en `lots` **seulement les lots sans fichier** dans `sorties/` pour la rédaction, et
   faire relire tous les lots dans une phase séparée ;
